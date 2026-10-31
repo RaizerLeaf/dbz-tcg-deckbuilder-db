@@ -16,7 +16,17 @@ from PIL import Image, ImageDraw, ImageFont
 
 from common import INVENTORY, OCR_CACHE, ROOT, SHEETS, load_json, save_json
 
-FONT = ImageFont.truetype(r"C:\Windows\Fonts\arialbd.ttf", 18)
+def _font(size):
+    for f in (r"C:\Windows\Fonts\arialbd.ttf",
+              "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"):
+        try:
+            return ImageFont.truetype(f, size)
+        except OSError:
+            pass
+    return ImageFont.load_default(size)
+
+
+FONT = _font(18)
 MAX_PX = 1_150_000
 LABEL_H = 24
 

@@ -5,6 +5,7 @@ Writes cache/ocr/<card_id>.json; existing files are skipped (resumable).
 OCR is a cross-check only. Icons are invisible to it; the vision pass is authoritative.
 """
 import argparse
+import shutil
 import sys
 import time
 from multiprocessing import Pool
@@ -14,7 +15,8 @@ from PIL import Image, ImageOps
 
 from common import INVENTORY, OCR_CACHE, ROOT, load_json, save_json
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = (shutil.which("tesseract")
+                                         or r"C:\Program Files\Tesseract-OCR\tesseract.exe")
 
 # (x0, y0, x1, y1) as fractions of the card. Generous on purpose: layouts shift a little
 # between PanZ and FanZ printings.
