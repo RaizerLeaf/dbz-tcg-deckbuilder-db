@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_17",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/17_Orange Gift.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE GIFT C) C17.",
+   "conf": 62.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n6\n,",
+   "conf": 4.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". POWER: Search your Life Deck Zine”\nfor a Drill and place it into play. _—_\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.end Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 86.8,
+   "n_words": 50
+  }
+ }
+}

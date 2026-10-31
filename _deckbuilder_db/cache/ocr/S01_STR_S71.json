@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S71",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S71_Black Defensive Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(BLACK DEFENSIVE BURST C) S71\nat ener (AU Ne",
+   "conf": 47.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n4,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ine : PHYSICAL COMBAT :\noy\nXX Physical attack. DAMAGE: 4 life cards.\nHIT: Your opponent cannot perform physical\nattacks for the remainder of combat.",
+   "conf": 85.0,
+   "n_words": 25
+  }
+ }
+}

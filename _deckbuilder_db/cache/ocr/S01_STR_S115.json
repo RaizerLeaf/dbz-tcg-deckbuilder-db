@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S115",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S115_Namekian Sudden Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN SUDDEN: BLAST C) sus\neS) ae",
+   "conf": 57.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "5,5",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN : ENERGY COMBAT '\n-\nXX Energy attack costing 2 stages. DAMAGE: 5\nlife cards. HIT: Choose 4 cards in your discard\npile. Banish 2 of those cards and shuffle the\nremaining into your Life Deck.",
+   "conf": 86.1,
+   "n_words": 37
+  }
+ }
+}

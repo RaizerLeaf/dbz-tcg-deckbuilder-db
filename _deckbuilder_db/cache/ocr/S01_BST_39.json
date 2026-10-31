@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_39",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/39_Orange Distracting Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[ORANGE DISTRACTING. BEAM () css\nMETA / ae oe",
+   "conf": 54.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 10.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "an i ENERGY COMBAT fs\nL\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 5 life cards. Choose a\nStyled card in your discard pile and place it\non top of your Life Deck.",
+   "conf": 85.7,
+   "n_words": 35
+  }
+ }
+}

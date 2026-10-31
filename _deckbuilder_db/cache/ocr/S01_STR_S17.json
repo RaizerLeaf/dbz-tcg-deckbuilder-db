@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S17",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S17_Frieza - Tyrant.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 fem CED\n—~, #0 NN oa nnn",
+   "conf": 45.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "94,000\n79,000\n64,000\n49,000\n734,000\n4 19,000\n9,000\n4,500\n\n900\n450\n\n0",
+   "conf": 76.1,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "; 900\n. 450\n[ , 0\n/\noo: When you stop an attack, you may raise\nme your anger 1 level.\n(=.",
+   "conf": 69.8,
+   "n_words": 23
+  }
+ }
+}

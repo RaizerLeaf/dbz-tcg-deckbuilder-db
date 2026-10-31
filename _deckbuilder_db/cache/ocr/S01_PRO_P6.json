@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P6",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P6_Piccolo - Stoic.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "\\\n1\nLEVEL { \\y\nis | a enann",
+   "conf": 52.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "8,500\n\n7,000\n\n5,500\n\n4,500\n\n3,500\n\n7 2,200\n1,700\n1,300\n\n1,100\n\n900\n\n0",
+   "conf": 93.1,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "— EE\n/ 1,100\né 900\n[S Te Pre attack costing 1 stage.\na DAMAGE: 3 life cards. Rejuvenate 1.\nFES\nPUR",
+   "conf": 70.3,
+   "n_words": 22
+  }
+ }
+}

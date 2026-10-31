@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P8",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P8_Gohan - Determined.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "400,000\n350,000\n300,000\n\n250,000\n200,000\n150,000\n100,000\n\n75,000\n7,500\n\n750\n0",
+   "conf": 61.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "‘“ baal 73,UUU\na = . 7,500\n750\n@ SE :\nPOWER: X Physical attack.\nYou may lower your anger any amount.\nThis attack deals +X life cards of damage. }\nX=2 times the amount lowered.\nDAMAGE: 6 stages.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.2,
+   "n_words": 78
+  }
+ }
+}

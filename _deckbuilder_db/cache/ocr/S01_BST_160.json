@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_160",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/160_Vegeta’s Galick Gun.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ ——__ —\n(VEGETA'S GALICK: GUN C) Also",
+   "conf": 54.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "SS ~% Energy attack costing 2 stages. DAMAGE: BX\n\n6 life cards. Damage from this attack cannot 9\n\n>; be prevented. If you deal critical damage with jg\n\n~— this attack, you may use two critical effects @»\nJ instead of one. Raise your anger 1 level.",
+   "conf": 79.6,
+   "n_words": 47
+  }
+ }
+}

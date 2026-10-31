@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_43",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/43_Orange Revenge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE REVENGE. () cas\nTA \\",
+   "conf": 57.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "-_ - : :\n\naN . SCNERGY COMBAT\noy\n(Banish after use.) Energy attack costing\n3 stages. DAMAGE: 4 life cards +AT stages.\nRaise your anger 1 level. HIT: Choose 2 Energy\nCombat cards in your discard pile and place\n\nthem on top of your Life Deck.",
+   "conf": 82.4,
+   "n_words": 47
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_BST_122",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/122_Black Devious Mastery (Frozen).png",
+ "scale": 2.3,
+ "regions": {
+  "header": {
+   "text": "BLACK DEVIOUS: MASTERY C) A122\n\"74 a “wg yo. Y —",
+   "conf": 45.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "' MASTERY '\nOO; Your attacks deal +1 power Stage and +1 lite card of damage.\nPOWER: Discard a card from your hand to banish the bottom 2 cards\nof your opponent's discard pile. If you discarded a Styled card, your\nopponent discards a card from his hand. FU",
+   "conf": 89.9,
+   "n_words": 49
+  }
+ }
+}

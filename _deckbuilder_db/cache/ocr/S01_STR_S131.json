@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S131",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S131_Black Flying Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK FLYING KICK: C) S131\n>>:",
+   "conf": 61.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n4\n273\n,",
+   "conf": 12.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "24;,., PAYSICAL COMBAT me\nENDURANCE 1. X Physical attack. DAMAGE:\nAT +2 stages. Banish the top 3 cards of your\nopponent's discard pile.",
+   "conf": 87.8,
+   "n_words": 23
+  }
+ }
+}

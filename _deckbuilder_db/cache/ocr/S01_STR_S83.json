@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S83",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S83_Saiyan Left Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN LEFT KICK: () ses",
+   "conf": 64.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 87.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "“4.) PHYSICAL, COMBAT\nENDURANCE1. XX Physical attack. DAMAGE:\nAT +4 life cards. Raise your anger 1 level.",
+   "conf": 80.2,
+   "n_words": 17
+  }
+ }
+}

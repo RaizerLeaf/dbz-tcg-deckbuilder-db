@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S53",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S53_Blue Arm Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| | =a.",
+   "conf": 34.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Lf —_—\n-— a —\naN : ENERGY COMBAT '\nvy\n(You may play this card to stop a physical\nattack instead of as an attack.) >< Energy\nattack costing 2 stages. DAMAGE: 5 life cards.",
+   "conf": 74.8,
+   "n_words": 36
+  }
+ }
+}

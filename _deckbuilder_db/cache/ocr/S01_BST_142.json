@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_142",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/142_Red Heel Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED HEEL KICK () alae",
+   "conf": 66.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 11.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Cop, PHYSICAL COMBAT\n(Banish after use.) % Physical attack. DAMAGE:\nAT +2 stages. Raise your anger 1 level. You may\nlower your anger 2 levels to choose a Styled\nattack in your discard pile except “Red Heel\n\nKick” and place it into your hand.\nPAM IMT",
+   "conf": 89.0,
+   "n_words": 46
+  }
+ }
+}

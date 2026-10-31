@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_80",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/80_Blue Betrayal.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BETRAYAL (vse\n8 ang: .",
+   "conf": 33.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n0",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "“\\. - PHYSICAL COMBAT J\ny\nPhysical attack. DAMAGE: AT stages.\nBanish an opponent's Setup, Drill, or Ally\nin play.",
+   "conf": 73.0,
+   "n_words": 20
+  }
+ }
+}

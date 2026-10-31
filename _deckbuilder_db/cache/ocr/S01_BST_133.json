@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_133",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/133_Namekian Overtime.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN OVERTIME () ass",
+   "conf": 47.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n2 3\n4\n4\n7\n1,",
+   "conf": 27.4,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "SIE | af hil ' SSP, Ff -\n(Banish after use.) POWER: Rejuvenate 1.\nDestroy the top X cards of your opponent's\nLife Deck. X = the number of Dragon Balls you\ncontrol. Search your Life Deck for a Styled\nEnergy Combat card and place it into your hand.\n| PAIR |",
+   "conf": 84.9,
+   "n_words": 52
+  }
+ }
+}

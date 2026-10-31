@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S59",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S59_Red Heating Beams.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED HEATING BEAMS () sso\na BT! ak!",
+   "conf": 58.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n1,",
+   "conf": 22.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4, ENEAGY COMBAT py\n(Banish after use.) ENDURANCE 1. X Energy\nattack costing 1 stage. DAMAGE: 3 life cards.\n\nYou may lower your anger 1 level to draw a card.\n~ | PAM IMI |",
+   "conf": 80.7,
+   "n_words": 35
+  }
+ }
+}

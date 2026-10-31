@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_05",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/05_Black Energy Focus.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY Focus Fu\n| \\",
+   "conf": 66.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(If this card is destroyed from your Life\nDeck by one of your effects, you may banish it\nto banish the top card of your opponent's Life Deck.)\nXX 1: Energy attack.\nLower a player’s anger 1.\nDAMAGE: 3 life cards.\n\nHIT: Your opponent discards a card from their hand. If\nyour MP does not have @&, your opponent draws a card.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.4,
+   "n_words": 93
+  }
+ }
+}

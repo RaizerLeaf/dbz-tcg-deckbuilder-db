@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P40",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P40_Piccolo - Composed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "112,000\n104,000\n96,000\n48,000\n24,000\n12,000\n6,000\n3,000\n\n1,500\n\n4 750\n0",
+   "conf": 80.5,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "' { 3,UUU\n~ or a | 1\no .\nco: Whenever you gain stages from a card\neffect, raise your anger 1 level.\nWhenever you Rejuvenate during combat,\nraise your anger 1 level.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.7,
+   "n_words": 73
+  }
+ }
+}

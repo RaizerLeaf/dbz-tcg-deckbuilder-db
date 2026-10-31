@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_105",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/105_Saiyan Surprise.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN SURPRISE , €) Wi0S\n-_",
+   "conf": 29.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "of PHYSICAL COMBAT |\n\n4\n\nXX Physical attack. DAMAGE: AT +3 stages.\nIf the personality performing this attack\nhas a higher power level than the\ndefending personality, destroy up to 2 of your\n\nopponent's Allies.\n\nComey",
+   "conf": 84.2,
+   "n_words": 36
+  }
+ }
+}

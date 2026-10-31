@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_72",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/72_Jiece - Ginyu Force.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "JIECE ———~—O —\n1 GINYU FORCE renee () uve\nLEVEL a 7\nIN _ y",
+   "conf": 51.7,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "65,000\n60,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n\n2,500\n\n1,250\n\n0",
+   "conf": 86.1,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "ee 6 J,UUU\nCA . 2,500\nes y \\ 1,250\n(Villains only.) 2 POWER: Energy attack costing 2 stages.\nDAMAGE: 5 life cards. Raise a player's anger 1 level.",
+   "conf": 76.6,
+   "n_words": 29
+  }
+ }
+}

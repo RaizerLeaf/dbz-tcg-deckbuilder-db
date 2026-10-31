@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_BST_01",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/01_Black Maximum Shout.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK MAXIMUM SHOUT () U1\n~~ O&K | , fos Ns",
+   "conf": 55.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Y Wie | Pe UN A x\n(If this card is destroyed or banished from your Life Deck by\nyour effects, you may place it into play.)\nOs * POWER: Use when your effect would destroy an opponent\nSe ’ in play. Banish it instead to draw a card.\n0 eg POWER: Rejuvenate 2. Banish 2 cards from your opponer\n7a discard pile.",
+   "conf": 84.0,
+   "n_words": 63
+  }
+ }
+}

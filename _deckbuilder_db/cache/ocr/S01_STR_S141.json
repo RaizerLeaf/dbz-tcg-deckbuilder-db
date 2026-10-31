@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S141",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S141_Saiyan Face Stomp.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SALYAN FACE STOMP. () S141\neen , BIE",
+   "conf": 59.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 36.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "” tami hat\n- Ci WAX\nDri PHYSICAL COMBAT =»\n~% Physical attack. DAMAGE: AT +4 stages.\nWhen you perform this attack you may destroy\nthe top card of your Life Deck to have this\nattack also deal +3 life cards.",
+   "conf": 80.9,
+   "n_words": 41
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_110",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/110_Devastating Blow.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(DEVASTATING BLOW.. () W110",
+   "conf": 49.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "41,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN ry PHYSICAL COMBAT :\ny\nXX Physical attack. DAMAGE: AT +1 stage.\nRaise your anger 1 level. Lower your\nopponent's anger 2 levels. Choose 3 cards in\nyour opponent's discard pile and banish them.",
+   "conf": 88.0,
+   "n_words": 35
+  }
+ }
+}

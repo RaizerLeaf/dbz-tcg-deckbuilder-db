@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_03",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/03_Black Brace.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK BRACE ) c3.",
+   "conf": 61.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(29) PHYSICAL cComBAT ( i)\nStops a physical attack. Tih\nRaise your anger 1. Banish 2 cards from\nyour opponent's discard pile. The next time\na Card is revealed from your hand this combat,\ngain 5 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.3,
+   "n_words": 68
+  }
+ }
+}

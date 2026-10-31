@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P18",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P18_Blue Terror.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE TERROR cs C) 718",
+   "conf": 48.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "oy., ENERGY COMBAT\n(Limit 1 per deck. Banish after use.)\nAX: Energy attack costing 2 stages. DAMAGE:\n3 life cards. Search your Life Deck for\na non-Dragon Ball card and place it in\nyour hand.",
+   "conf": 87.5,
+   "n_words": 35
+  }
+ }
+}

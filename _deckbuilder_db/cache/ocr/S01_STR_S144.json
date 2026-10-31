@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S144",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S144_Blue Swift Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE SWIFT BLOCK: C) siaa",
+   "conf": 60.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "44",
+   "conf": 47.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "<= Le = N\na PHYSICAL COMBAT wn\nY Stops a physical attack. You may discard a\ncard from your hand to perform a copy of that\nattack for your next action.\n= | PAM IMI |",
+   "conf": 81.1,
+   "n_words": 37
+  }
+ }
+}

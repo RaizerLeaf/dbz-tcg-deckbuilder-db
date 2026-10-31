@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_02",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/02_Namek Dragon Ball 2.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEK DRAGON BALL 2 () ce",
+   "conf": 82.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4",
+   "conf": 35.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "~f Me Fy) DRAGON BALL\n) , You may lower a personality ]\n1 level.\n. 4 |",
+   "conf": 66.6,
+   "n_words": 18
+  }
+ }
+}

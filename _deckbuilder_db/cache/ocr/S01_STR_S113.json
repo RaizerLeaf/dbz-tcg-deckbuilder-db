@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S113",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S113_Blue Neck Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE NECK BEAM -:: () sus\n7 AG",
+   "conf": 46.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "We... ENERGY COMBAT _\n(If this card is discarded from your hand\nby a card effect, your MP gains 4 stages.)\nENDURANCE 1. Energy attack costing 2\nstages. DAMAGE: 4 life cards. HIT: Raise or\nlower your opponent's MP one personality\nlevel at the end of combat.",
+   "conf": 88.0,
+   "n_words": 47
+  }
+ }
+}

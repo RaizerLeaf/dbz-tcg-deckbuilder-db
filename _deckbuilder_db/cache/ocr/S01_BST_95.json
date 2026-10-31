@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_95",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/95_Orange Overhead Smash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "orance OVERHEAD: SMASH €© eed",
+   "conf": 49.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n1\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "& NS Zi) 7 Sl AN\n“. : PHYSICAL COMBAT :\nyy\n(Banish after use.) %XPhysical attack.\nDAMAGE: AT +3 stages. If you have at least 5\nDrills in play, this attack deals an additional\n+7 life cards of damage. HIT: Shuffle all Drills\nin your discard pile into your Life Deck.\n— |PAMIME |",
+   "conf": 79.5,
+   "n_words": 55
+  }
+ }
+}

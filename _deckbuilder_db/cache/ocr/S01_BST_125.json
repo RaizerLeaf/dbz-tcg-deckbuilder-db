@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_125",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/125_Black Reflection.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK REFLECTION--- () ales",
+   "conf": 52.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "> 4\n(Banish after use.) POWER: Search your\nopponent's Banished Zone for an attack card\nand play it.\n= | PAMIMI",
+   "conf": 81.0,
+   "n_words": 21
+  }
+ }
+}

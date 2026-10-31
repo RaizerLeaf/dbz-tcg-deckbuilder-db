@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P98",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P98_Dr. Wheelo - Scheming.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "— DR. WHEELO\nLEVEL SCHEMING () P98\nNw",
+   "conf": 76.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1,000\n900\n800\n700\n\n7\n600\n500\n400\n300\n200\n100\n0",
+   "conf": 95.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "J3UU\n. i 200\ng =\nco: Your attacks deal + 2 life cards.\nWhenever you stop an attack, destroy\nthe top card of your opponent's Life Deck. A)\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.6,
+   "n_words": 68
+  }
+ }
+}

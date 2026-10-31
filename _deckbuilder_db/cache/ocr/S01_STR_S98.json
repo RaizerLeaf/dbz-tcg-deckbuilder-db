@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S98",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S98_Namekian Heritage Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN HERITAGE: BRILL () sse",
+   "conf": 53.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 2.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ENDURANCE 1. °°: Your energy attacks deal\n+X life cards of damage. X = your MP's level.\n— | PAM IMI |",
+   "conf": 78.8,
+   "n_words": 22
+  }
+ }
+}

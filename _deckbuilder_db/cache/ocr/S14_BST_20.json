@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_20",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/20_Orange Foot Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE FOOT BLAST ) u20,",
+   "conf": 64.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 31.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "QZ) ENERGY COMBAT\n. > 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: Draw a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.end Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.7,
+   "n_words": 50
+  }
+ }
+}

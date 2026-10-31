@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P20",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P20_Piccolo - Stoic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "8,500\n7,000\n\n5,500\n\n4,500\n\n5 3,500\n2,200\n1,700\n1,300\n\n1,100\n\n900\n0",
+   "conf": 91.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "| 1,300\ny\n\n1,100\n\n¢. =\n- () 0\n\nPOWER: X Energy attack costing 1 stage.\nRejuvenate 1.\nDAMAGE: 3 life cards.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.\n\nand Akira Toriyama. This card game is\n\na fan-made, non-profit project created\n\nfor entertainment purposes only. Please",
+   "conf": 87.9,
+   "n_words": 61
+  }
+ }
+}

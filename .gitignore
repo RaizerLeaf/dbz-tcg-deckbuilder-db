@@ -1,0 +1,6 @@
+# Regenerable review sheets (python _deckbuilder_db/scripts/sheets.py)
+_deckbuilder_db/work/sheets/
+*.tmp
+__pycache__/
+Thumbs.db
+desktop.ini

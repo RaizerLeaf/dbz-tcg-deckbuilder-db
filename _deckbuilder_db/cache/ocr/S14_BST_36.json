@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_36",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/36_Buu's Company.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S COMPANY ) R36\nse 2. a",
+   "conf": 72.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3\n7\n,",
+   "conf": 21.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(You may play this card during 7i-T\\y\nyour Planning Step. You may only have =\none “Buu’s Company” attached.)\n\nPOWER: Attach to your MP. Search your Life Deck or\nBanished Zone for an Ally named “Bee” or “Hercule”\nand play it. While attached, at the end of your turn you\nmay play an Ally named “Bee” or “Hercule” from\nyour discard pile.",
+   "conf": 92.1,
+   "n_words": 62
+  }
+ }
+}

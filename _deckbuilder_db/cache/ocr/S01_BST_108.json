@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_108",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/108_Battle Pausing.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BATTLE PAUSING ~~ () 2108",
+   "conf": 62.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Teita\nan =VENT\ny\n| (Limit 2 per deck. Banish after use.) POWER:\nBanish a card from your hand to draw the top\n2 cards of your discard pile. Your opponent\ngains 5 stages.",
+   "conf": 87.4,
+   "n_words": 34
+  }
+ }
+}

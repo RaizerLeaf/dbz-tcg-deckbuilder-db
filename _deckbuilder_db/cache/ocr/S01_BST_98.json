@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_98",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/98_Red Jump Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED JUMP KICK = () Use\nng ; |",
+   "conf": 58.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ae - PHYSICAL COMBAT +\n4\n(Banish after use.) Physical attack.\nDAMAGE: AT +2 stages. HIT: Lower both\nplayers’ MPs one personality level.",
+   "conf": 82.7,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_134",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/134_Namekian Palm Shots.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN PALM SHOTS () alsa",
+   "conf": 64.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“Gf. ENERGY COMBAT |\n(Banish after use.) Energy attack costing\n1 stage. DAMAGE: 3 life cards. HIT: Draw the\nbottom card of your Life Deck and you may\nshuffle a Dragon Ball in play back into its\nowner's Life Deck to search your Life Deck for\na Dragon Ball and place it into play.\n= | PAIEIRT |",
+   "conf": 88.5,
+   "n_words": 58
+  }
+ }
+}

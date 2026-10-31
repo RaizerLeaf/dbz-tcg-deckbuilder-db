@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P16",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P16_Black Scout Maneuver.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SCOUT MANEUVER () PIS",
+   "conf": 61.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ", —\\ ae\n<n we) \\SA/\\.'\n(Banish after use.) POWER: Name a Physical\nCombat, Energy Combat or Event card.\nSearch your opponent's his Life Deck for all\ncopies of that card and banishes them.",
+   "conf": 82.2,
+   "n_words": 34
+  }
+ }
+}

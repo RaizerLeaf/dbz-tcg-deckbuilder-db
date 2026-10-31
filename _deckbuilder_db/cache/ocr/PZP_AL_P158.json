@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P158",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P158_Tenshinhan - Returned.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 enecnAN C)\nLEVEL | RETURNED P158",
+   "conf": 65.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "95,000\n80,000\n65,000\n50,000\n35,000\n20,000\n5,000\n4,000\n3,000\n\n2,000\n0",
+   "conf": 86.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "ud a 4,UUU\n\\ '¥ 3,000\nW \\ 2,000\n~)\n~ we 0\nPOWER: > 2: Energy attack.\nDAMAGE: 3 life cards.\nHIT: Draw a card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 84.6,
+   "n_words": 65
+  }
+ }
+}

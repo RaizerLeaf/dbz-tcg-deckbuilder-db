@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_115",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/115_Frieza’s Captive Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "FRIEZA'S CAPTIVE STRIKE Cae\nALLO A SSS SSIES, Zoe\n2 ZS :",
+   "conf": 47.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "3\n7,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "aN ° PHYSICAL COMBAT\nZ\n(If this card is discarded from your hand by\na card effect, you may raise or lower a\nplayer's anger 1 level.) Physical attack.\nDAMAGE: AT stages.",
+   "conf": 86.5,
+   "n_words": 32
+  }
+ }
+}

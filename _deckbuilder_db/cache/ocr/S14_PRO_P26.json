@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P26",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P26_Saiyan Dynamic Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ": tf *",
+   "conf": 27.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "2,\n4 ,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "a (You may begin the game on Level 2.) ‘a\nco: You need 6 anger to advance a\npersonality level. Your Styled attacks\n/\\ without “anger” printed in the text-box\n\\ gain “Raise your anger 1.”\nMASTERY\n2 DISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super\n== are all owned by Funimation, Toei Animation, Fuji T.V.and Akira Toriyama. This\n== card game is a fan-made, non-profit project created for entertainment\nes purposes only. Please support the original source material.",
+   "conf": 91.1,
+   "n_words": 84
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_BST_21",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/21_Red Healing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED HEALING DRILL &) R21\nOOOO OOOO",
+   "conf": 75.3,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "q (If this card is discarded from your hand by an effec\nyou may place it into play.)\n\n{ co: After an effect discards a card from your hand, se\n\n(1) your discard pile for a card and shuffle it into your Life\n\ni = POWER: Lower a player’s anger 1.",
+   "conf": 90.2,
+   "n_words": 51
+  }
+ }
+}

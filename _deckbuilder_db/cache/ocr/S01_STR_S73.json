@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S73",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S73_Black Side Thrust.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[SLACK SIDE TaRuSis () s73",
+   "conf": 48.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Fis PHYSICAL COMBAT =\n~% Physical attack. DAMAGE: AT +3 stages.\nName a non-Dragon Ball card. Search your\nopponent's Life Deck for 1 copy of that card\n\nand discard it.\n= | PAMIMT",
+   "conf": 86.8,
+   "n_words": 33
+  }
+ }
+}

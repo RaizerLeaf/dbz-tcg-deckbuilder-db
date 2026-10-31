@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P5",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P5_Frieza - Golden.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ce FRIEZA\nLEVEL GOLDEN () PS",
+   "conf": 65.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "150,000,000\n25,000,000\n1,250,000\n600,000\n300,000\n150,000\n75,000\n30,000\n15,000\n7,500\n0",
+   "conf": 86.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "‘| ae 30,000\nPOWER: > Physical attack.\nGain 3 stages. You may Rejuvenate a\nFrieza Named card from your discard pile\nor Banished Zone. If you do, use a\ncritical damage effect.\n| DAMAGE: AT life cards. Sal 2 Organ Bl Tan ren\n' a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 84.5,
+   "n_words": 55
+  }
+ }
+}

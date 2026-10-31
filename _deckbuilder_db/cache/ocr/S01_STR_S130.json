@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S130",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S130_Saiyan Energy Deflection.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN ENERGY DEFLECTION () S130\nVy. 2.) oll LT",
+   "conf": 54.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", 74",
+   "conf": 1.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a if\n7——~ “a\nos CNE&RGY COMBAT\n-\nENDURANCE 2. Y Stops an energy attack.\nRaise your anger 1 level.",
+   "conf": 67.3,
+   "n_words": 20
+  }
+ }
+}

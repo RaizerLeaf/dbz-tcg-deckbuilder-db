@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S133",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S133_Black Jab.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK JAB os () S133",
+   "conf": 59.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n,4",
+   "conf": 8.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Ya 3\n(If this card is discarded from your hand,\nchoose a card in your opponent's discard\npile and place it on top of his Life Deck.)\n~% Physical attack. DAMAGE: AT +2 stages.\nlf your opponent has no cards in his hand,\n\ndestroy a Setup or Drill.",
+   "conf": 90.2,
+   "n_words": 48
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S101",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S101_Orange Hiding Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE HIDING DRILL C) S101\n| dl > Aw wae",
+   "conf": 58.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "<4\nef, BIE\nSS co; Your opponent's attacks deal -2 life\ncards of damage.",
+   "conf": 68.1,
+   "n_words": 14
+  }
+ }
+}

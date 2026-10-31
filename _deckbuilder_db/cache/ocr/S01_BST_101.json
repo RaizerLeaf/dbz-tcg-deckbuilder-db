@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_101",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/101_Red Shielded Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED SHIELDED STRIKE () 101\niy ee |",
+   "conf": 56.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Mos. PHYSICAL COMBAT\nENDURANCE 2. X Physical attack. DAMAGE:\nAT +3 stages. You may lower your anger 3\nlevels to stop all physical attacks this combat.",
+   "conf": 89.6,
+   "n_words": 26
+  }
+ }
+}

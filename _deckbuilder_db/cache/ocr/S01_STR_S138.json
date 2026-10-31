@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S138",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S138_Orange Launcher.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE LAUNCHER-::- () Ssi3e",
+   "conf": 36.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n2\n,",
+   "conf": 24.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "S w WS lr§ Dd ©\noN ay \\ aes\n2s ENDURANCE 1. XPhysical attack.\n\nDAMAGE: 3 life cards. You may use a\ncritical damage effect.",
+   "conf": 64.9,
+   "n_words": 26
+  }
+ }
+}

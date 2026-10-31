@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S38",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S38_Blue Mental Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ic LUE MENTAL DRILL @) cae\nll",
+   "conf": 53.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2",
+   "conf": 69.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ENDURANCE 2. °°: Your opponent plays with\nhis hand revealed.",
+   "conf": 94.3,
+   "n_words": 10
+  }
+ }
+}

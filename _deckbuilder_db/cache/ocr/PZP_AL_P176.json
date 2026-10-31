@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P176",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P176_Kami - Guardian.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 ES\nLEVEL | GUARDIAN a",
+   "conf": 72.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1,000\n900\n800\n\n700\n600\n500\n400\n300\n200\n\n100\n0",
+   "conf": 95.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "JU\n1 : 200\nco: At the start of your Rejuvenation Step,\nplace the top card of your discard pile at\nthe bottom of your Life Deck. When this\ncard is leaving play, search your Life Deck j\nfor a Dragon Ball and place it into play.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 92.4,
+   "n_words": 86
+  }
+ }
+}

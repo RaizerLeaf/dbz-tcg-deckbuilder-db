@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S93",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S93_Orange Celebration.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE CELEBRATION C) sos",
+   "conf": 62.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN . SeTUe '\n4\n(Banish after use.) POWER: Search your Life\nDeck for a Styled Drill and place it into play.",
+   "conf": 84.8,
+   "n_words": 22
+  }
+ }
+}

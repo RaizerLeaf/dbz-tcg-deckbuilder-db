@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_18",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/18_Orange Power Rush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE POWER RUSH Ce",
+   "conf": 86.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n, 2\n3",
+   "conf": 10.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(@2i§ PHYSICAL COMBAT\n‘ (You cannot win by MPPV if you play\nthis card.)\nXX Physical attack.\nYour Styled physical attacks are Unpreventable\nthis combat.\nDAMAGE: AT +2 stages.\nHIT: Banish any number of Drills you control. Raise\nyour anger X. X= the number of Drills you banished.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.end Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.8,
+   "n_words": 82
+  }
+ }
+}

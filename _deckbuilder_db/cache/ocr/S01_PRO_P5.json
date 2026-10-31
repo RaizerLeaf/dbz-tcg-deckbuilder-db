@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P5",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P5_Goku - Super Saiyan God.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "=\nKU\n1 Sache SAIYAN GOD yr) -5S\nLEVEL = \\2\n\\ { 4NNM ANN nnn",
+   "conf": 58.6,
+   "n_words": 16
+  },
+  "stages": {
+   "text": "100,000,000\n10,000,000\n1,000,000\n500,000\n250,000\n100,000\n50,000\n25,000\n\n10,000\n\n5,000\n\n0",
+   "conf": 95.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "10,000\n-_- '\n- =i 5,000\na\n0\n| a POWER: Destroy the top card of your Life Deck to\n1 draw a card.\nwis FAMINE |\n© 2014 Panini America, Inc. Primed in the USA.",
+   "conf": 75.7,
+   "n_words": 36
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_86",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/86_Namekian Flinch (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN FLINCH «~~ () ves",
+   "conf": 57.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7",
+   "conf": 44.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_ ™~ ff A\naN \" PHYSICAL COMBAT\nLZ\n(If this card is Rejuvenated, search your discard\npile for an Ally and place it into play at 3 stages\nabove 0.) W Stops a physical attack. You may\nshuffle a Dragon Ball in play back into its owner's\nLife Deck. If your MP is level 3 or higher search\nyour Life Deck for a Dragon Ball and play it.",
+   "conf": 88.3,
+   "n_words": 69
+  }
+ }
+}

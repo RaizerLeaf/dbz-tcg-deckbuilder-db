@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_76",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/76_Black Delay.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK DELAY = () uve\n1 wee . &",
+   "conf": 54.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "9\n2\n\n,\n,",
+   "conf": 9.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "_ J ~\naN . PHYSICAL COMBAT:\na\nENDURANCE 1. % Stops a physical attack.\nIf that attack was a Physical Combat\ncard, return it to your opponent's hand.\nYour opponent discards a random card\nfrom his hand.",
+   "conf": 82.3,
+   "n_words": 38
+  }
+ }
+}

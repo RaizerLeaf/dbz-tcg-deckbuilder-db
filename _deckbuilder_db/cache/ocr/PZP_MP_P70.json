@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P70",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P70_Hercule - In Action.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HERCULE\n/\n> Lo =",
+   "conf": 68.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n10\n15\n\n20\n\n25\n30\n35\n40\n\n45\n\n50\n\n0",
+   "conf": 95.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| 4U\n. <=\n—= a\n- (E} 0\nco: Your attacks deal +2 life cards of\ndamage. Whenever you use a Named card,\ndestroy the top card of your opponent's Life\nDeck and lower each player’s anger 1 level.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.2,
+   "n_words": 79
+  }
+ }
+}

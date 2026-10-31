@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_BST_140",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/140_Red Enraged Mastery (Frozen).png",
+ "scale": 2.3,
+ "regions": {
+  "header": {
+   "text": "y RED ENRAGED: MASTERY C) A140",
+   "conf": 61.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "_ ma Zar\nMASTERY\nSO; Whenever you use 4 critical damage ettect, raise your anger\n1 level. Whenever you advance a personality level, draw a card and\nthen discard a card from your hand. Whenever you lower a personality\nlevel, you may draw a card. j FU",
+   "conf": 87.6,
+   "n_words": 47
+  }
+ }
+}

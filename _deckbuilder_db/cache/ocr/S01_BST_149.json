@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_149",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/149_Dragon Radar.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| ———— —\n(DRAGON RADAR. > () mas",
+   "conf": 47.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "5",
+   "conf": 18.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Low |\n-_ —\naN Se Tr '\n>\n(Limit 1 per deck. Banish after use.)\nPOWER: Search your Life Deck for a Dragon\nBall and play it.",
+   "conf": 75.7,
+   "n_words": 28
+  }
+ }
+}

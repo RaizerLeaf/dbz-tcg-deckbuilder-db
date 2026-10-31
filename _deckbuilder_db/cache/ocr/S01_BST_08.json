@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_08",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/08_Chaozu - Resurrected.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 MESO 2) pana",
+   "conf": 35.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "90,000\n80,000\n70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n\n0",
+   "conf": 79.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "y pg 2U,QUU\n10,000\nY | , a a\n(Heroes only.) 9X POWER: Energy attack costing 4 stages.\nDAMAGE: 7 life cards. Shuffle “Chaozu” into your Life Deck at the\nbeginning of the next action this combat.",
+   "conf": 82.1,
+   "n_words": 37
+  }
+ }
+}

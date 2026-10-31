@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S19",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S19_Frieza - Galactic Conquerer.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "3 FRIEZA\nGALACTIC CONQUERER r) S19\nEN S nnn ann",
+   "conf": 68.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1,000,000\n700,000\n400,000\n200,000\n\n7100,000\n50,000\n25,000\n10,000\n\n5,000\n\n1,000\n\n0",
+   "conf": 86.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Mg NB OSS 5,000\n| oo: Your attacks deal +3 stages of damage and\n| . you may also use your Level 1 oo powers.",
+   "conf": 80.6,
+   "n_words": 25
+  }
+ }
+}

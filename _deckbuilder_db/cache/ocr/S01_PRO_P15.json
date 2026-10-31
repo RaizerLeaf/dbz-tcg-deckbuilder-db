@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P15",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P15_Frieza’s Supernova.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| ——————— —\n(FRIEZA'S SUPERNOVA () P15\n1",
+   "conf": 56.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n5",
+   "conf": 33.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "4) Energy attack costing 3 stages. DAMAGE: FR\n} 5 life cards + X life cards. X=3times number Hy\n= of Frieza Named cards in your discard pile. g",
+   "conf": 76.9,
+   "n_words": 29
+  }
+ }
+}

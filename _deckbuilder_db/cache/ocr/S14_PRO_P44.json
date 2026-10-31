@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P44",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P44_Saiyan Prepped Ball.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN PREPPED BALL C) P44\newes Ee err",
+   "conf": 65.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(@29) ENERGY COMBAT\n(Heroes only.)\nX% 2: Energy attack.\nYou may search your discard pile for a Styled\nEvent and place it into your hand.\nDAMAGE: 4 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.2,
+   "n_words": 63
+  }
+ }
+}

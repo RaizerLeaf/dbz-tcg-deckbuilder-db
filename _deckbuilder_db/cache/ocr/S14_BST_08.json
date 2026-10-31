@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_08",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/08_Blue Magic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE MAGIC ) ce.",
+   "conf": 78.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "POWER: Banish the top or TRA\nbottom 4 cards of your opponent's\ndiscard pile. G9: Rejuvenate 4.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, Non-profit",
+   "conf": 89.9,
+   "n_words": 51
+  }
+ }
+}

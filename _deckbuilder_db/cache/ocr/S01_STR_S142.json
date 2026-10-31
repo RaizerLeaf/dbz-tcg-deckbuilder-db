@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S142",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S142_Saiyan Light Jab.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN LIGHT JAB. () si4e\nJ 1",
+   "conf": 44.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "~ Ses, PHYSICAL COMBAT =\nENDURANCE 2. X Physical attack. DAMAGE:\nAT +4 stages. HIT: Shuffle this card back into\nyour Life Deck.",
+   "conf": 86.6,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_21",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/21_Blue Trick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "GO Nad f",
+   "conf": 50.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "5",
+   "conf": 46.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ENDURANCE 2. POWER: Capture a Dragon Ball.\n~ PAM IMT",
+   "conf": 67.1,
+   "n_words": 10
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S12",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S12_Gohan - Armored (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "HAN",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "525,000\n450,000\n375,000\n300,000\n225,000\n200,000\n125,000\n50,000\n5,000\n\n500\n\n0",
+   "conf": 95.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "y | Le 5,000\n\\ 7 et 500\nco : Your Styled attacks deal +3 life cards of\n| damage. When one of your effects raises your\nanger, you may shuffle 1 card with “anger”\nin the text box from your discard pile into\n[ S your Life Deck.\n—- | PAMIMI|",
+   "conf": 83.4,
+   "n_words": 52
+  }
+ }
+}

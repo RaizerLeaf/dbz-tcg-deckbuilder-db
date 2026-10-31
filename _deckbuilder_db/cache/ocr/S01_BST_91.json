@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_91",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/91_Orange Energy Phasing Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "orance ENERGY PHASING DRILL € os",
+   "conf": 59.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN © DARILW '\n. “g\nco; Whenever you perform a successful\nenergy attack, you may have it deal -2\nlife cards of damage. If you do, destroy a\nSetup or Drill.",
+   "conf": 82.8,
+   "n_words": 32
+  }
+ }
+}

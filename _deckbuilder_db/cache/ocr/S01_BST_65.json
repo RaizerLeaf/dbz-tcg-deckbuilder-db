@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_65",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/65_Trunks - Young Super Saiyan.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Fi TRUNKS\n— }",
+   "conf": 34.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1,600,000\n1,500,000\n1,400,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n\n0",
+   "conf": 72.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "h wr 4UU,Q00\n\n| wm. |\n- 200,000\nNe - LO <q 100,000\nG\n\n00: When entering combat, look at the top 6 cards of a player's\nLife Deck and put them back in any order.\n) | PAMIME|",
+   "conf": 71.2,
+   "n_words": 39
+  }
+ }
+}

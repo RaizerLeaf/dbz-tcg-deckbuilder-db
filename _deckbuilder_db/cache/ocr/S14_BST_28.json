@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_28",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/28_Saiyan Shattering Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SHATTERING STRIKE €) U28\n| \\ ia sap",
+   "conf": 68.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "0,\n2,\n5",
+   "conf": 8.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(@D)yeHysicaL comaat (ep)\nXX Physical attack.\nLower your opponent’s anger 2.\nDAMAGE: AT +4 stages.\nHIT: Your cards with printed Endurance have their\n\nEndurance set to 3 this combat.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.5,
+   "n_words": 60
+  }
+ }
+}

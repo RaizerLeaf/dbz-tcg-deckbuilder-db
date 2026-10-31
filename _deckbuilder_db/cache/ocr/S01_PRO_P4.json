@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P4",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P4_Krillin - Ready.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "\\ 4\nKRILLIN\n1 READY rE\nLEVEL ~~\na A nnn",
+   "conf": 53.4,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4,000\n\n3,600\n\n3,200\n\n2,800\n\n2,400\n\n2,000\n1,600\n1,200\n\n800\n\n400\n\n0",
+   "conf": 95.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "~ 0\n| oS XX. Energy attack costing 2 stages. DAMAGE:\n4 life cards. The next time a card is discarded from\n[ 3 a hand this combat, use a critical damage effect.\nPUR\n‘a | PANINI |",
+   "conf": 80.4,
+   "n_words": 38
+  }
+ }
+}

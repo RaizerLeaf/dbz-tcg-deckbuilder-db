@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S49",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S49_Red Blazing Aura.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED BLAZING AURA~ () sas\nLl ye i i (*/] . %",
+   "conf": 49.7,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "0",
+   "conf": 8.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "in : oVENT '\na\n(Banish after use.) POWER: Raise your anger\n1 level. For the remainder of combat, your\nopponent's attacks deal -3 stages and -3 life\ncards of damage.",
+   "conf": 83.0,
+   "n_words": 31
+  }
+ }
+}

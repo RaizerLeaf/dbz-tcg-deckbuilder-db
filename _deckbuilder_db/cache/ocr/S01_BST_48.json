@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_48",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/48_Red Flares.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| RED FLARES ee () cae\n: a |",
+   "conf": 57.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7",
+   "conf": 59.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": ". : CNERGY COMBAT\n-\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 6 life cards. You may\nchoose for this attack to deal no damage to\nlower your MP one personality level.",
+   "conf": 85.2,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_STR_S28",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S28_Black Devious Mastery (Frozen).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( BLACK DEVIOUS: MASTERY () S2sa",
+   "conf": 53.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "aa <7T x\n~ MASTERY —t\n©O: Your attacks deal +1 power stage and +1 life card ofdamage.\nPOWER: Discard a card from your hand to banish the bottom 2 cards\nof your opponent's discard pile. If you discarded a Styled card, your\nopponent discards a card from his hand. eu",
+   "conf": 83.1,
+   "n_words": 51
+  }
+ }
+}

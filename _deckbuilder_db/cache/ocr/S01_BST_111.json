@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_111",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/111_Empowered Flying Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ —_——— —\n(EMPOWERED FLYING.-KICK () L111",
+   "conf": 52.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2 4\n96\n11422,",
+   "conf": 5.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "aN : PHYSICAL COMBAT :\ncy\n. XX Physical attack. DAMAGE: AT +2 stages.\nBoth players set their anger level to 2.",
+   "conf": 77.8,
+   "n_words": 22
+  }
+ }
+}

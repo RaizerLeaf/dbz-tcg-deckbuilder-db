@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S137",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S137_Namekian Side Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN SIDE KICK () 5137",
+   "conf": 69.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n4",
+   "conf": 48.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "io 2 Ps\n(Banish after use.) Physical attack.\nDAMAGE: AT +2 life cards. Lower your\nopponent's anger 2 levels. HIT: Draw the top\ncard of your discard pile.",
+   "conf": 84.9,
+   "n_words": 28
+  }
+ }
+}

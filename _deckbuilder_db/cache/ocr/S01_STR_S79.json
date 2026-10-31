@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S79",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S79_Red Lifting Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED LIFTING KICK. () S73\na ania —",
+   "conf": 46.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n3,\n13,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "are”\na7... PHYSICAL COMBAT »\n~% Physical attack. DAMAGE: AT +3 stages.\nYou may lower your anger 1 level to have this\nattack deal +6 stages instead of +3.",
+   "conf": 82.9,
+   "n_words": 29
+  }
+ }
+}

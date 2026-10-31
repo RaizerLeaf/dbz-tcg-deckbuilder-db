@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_44",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/44_Red Hunting Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED HUNTING DRILL () cad",
+   "conf": 64.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN i DRILL '\n-\nco: Once per combat when you deal critical\ndamage, you may search your opponent's Life\nDeck for a card and destroy it.",
+   "conf": 87.5,
+   "n_words": 27
+  }
+ }
+}

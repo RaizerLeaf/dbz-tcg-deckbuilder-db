@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_99",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/99_Red Lightning Slash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED LIGHTNING SLASH () uss\n—————",
+   "conf": 70.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "*% Physical attack. DAMAGE: AT stages.\nRaise your anger 1 level. HIT: You may lower\nyour anger 2 levels to destroy all of your\n\nopponent's Allies or all of his Drills.\na | PAMIMT",
+   "conf": 85.9,
+   "n_words": 34
+  }
+ }
+}

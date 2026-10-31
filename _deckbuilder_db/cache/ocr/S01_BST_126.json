@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_126",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/126_Black Scout Maneuver.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SCOUT MANEUVER () alee",
+   "conf": 77.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Banish after use.) POWER: Name a Physical\n\nCombat, Energy Combat or Event card.\n\nSearch your opponent's his Life Deck for all\ncopies of that card and banishes them.",
+   "conf": 95.2,
+   "n_words": 28
+  }
+ }
+}

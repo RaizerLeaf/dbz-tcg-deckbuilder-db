@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_55",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/55_Saiyan Foot Stomp.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN FOOT STOMP () css",
+   "conf": 85.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 1.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "aN ’ PHYSICAL COMBAT :\n-\nENDURANCE 3. X Physical attack. DAMAGE:\nAT +2 stages. HIT: Lower your opponent's\nanger 2 levels.",
+   "conf": 80.8,
+   "n_words": 22
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P14",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P14_Buu - Wild Card.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU\nvi WILD CARD r m14",
+   "conf": 65.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2,750,000\n1,900,000\n1,400,000\n900,000\n70,000\n0",
+   "conf": 79.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "co: Your Styled attacks deal +1 stage. See :\n\nPOWER: You may search your Life Deck for a Sy ag\nnon-Styled card and banish it. Draw a card. Seis\n\nDISCLAIMER: .C Dragon Ball, Dragon|Ball’2; Dragon Ball GT/and Dragon Ball Superjare\\all ee % “. 4 Soiree",
+   "conf": 70.8,
+   "n_words": 45
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S122",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S122_Saiyan Straight Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN STRAIGHT.-SHOT () S122\nJ /",
+   "conf": 59.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n1",
+   "conf": 21.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "_7- Hf ae .\naw : CNE&RGY COMBAT ‘\n4\nENDURANCE 1. Energy attack costing 2\nstages. DAMAGE: 4 life cards. If stopped,\nshuffle this card into your Life Deck.",
+   "conf": 74.9,
+   "n_words": 30
+  }
+ }
+}

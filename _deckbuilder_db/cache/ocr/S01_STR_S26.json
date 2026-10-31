@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_STR_S26",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S26_Orange Adaptive Mastery.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( ORANGE ADAPTIVE: MASTERY C) S26 |",
+   "conf": 72.9,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "\" MASTERY =\nco: Your Drills are not discarded when you advance or lower a\npersonality level. Your energy attacks deal +1 life card of damage.\nAt the end of any combat in which you used a critical damage effect,\nsearch your discard pile for a Styled Drill and place it into play. ee",
+   "conf": 92.3,
+   "n_words": 54
+  }
+ }
+}

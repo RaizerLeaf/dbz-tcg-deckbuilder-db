@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_34",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/34_Namekian Onslaught.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "N",
+   "conf": 92.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "q ENERGY COMBAT  «\na\n* Energy attack costing 1 stage. DAMAGE:\n4 life cards. Rejuvenate 1. If you control 2 or\nmore Dragon Balls, this attack stays in play to\nbe used a second time this combat.",
+   "conf": 85.2,
+   "n_words": 38
+  }
+ }
+}

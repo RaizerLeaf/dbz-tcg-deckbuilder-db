@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_36",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/36_Orange Aura Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE AURA DRL €) cas :",
+   "conf": 45.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n7,\n7",
+   "conf": 21.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "—~- War fb\n. ry DARILW '\nLY\nENDURANCE 1. °°: Your energy attacks deal\n+2 life cards of damage.",
+   "conf": 65.5,
+   "n_words": 20
+  }
+ }
+}

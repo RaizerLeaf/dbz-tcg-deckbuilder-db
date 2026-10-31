@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P43",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P43_Saiyan Body Blow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN BODY BLOW (paz",
+   "conf": 72.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "37\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(@29)PHyYsIcAL comBAT\n\nXX Physical attack.\n\nYou may search your Life Deck for a card that\n\ncan attach to your MP and place it into play attached.\nDAMAGE: AT +3 stages.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.9,
+   "n_words": 64
+  }
+ }
+}

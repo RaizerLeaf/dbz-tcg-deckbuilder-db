@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S110",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S110_Black Energy Toss.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK ENERGY TOSS () S110",
+   "conf": 79.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", 4\n71\n37",
+   "conf": 19.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "R Se\n~% Energy attack costing 4 stages. DAMAGE:\n4 life cards. HIT: Gain 3 stages and your\nOpponent cannot play Events for the\nremainder of combat.",
+   "conf": 89.0,
+   "n_words": 27
+  }
+ }
+}

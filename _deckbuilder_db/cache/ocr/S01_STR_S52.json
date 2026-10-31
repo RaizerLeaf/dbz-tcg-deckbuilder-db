@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S52",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S52_Black Capture.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK CAPTURE oo () ese",
+   "conf": 66.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "*\\ CNERGY COMBAT =)\n~% Energy attack costing 3 stages. DAMAGE:\n5 life cards. HIT: Attach this card to your\nopponent's MP. At the beginning of each\nturn, your opponent banishes the top card of\nhis Life Deck. Banish this card when your\nopponent deals critical damage.",
+   "conf": 88.0,
+   "n_words": 47
+  }
+ }
+}

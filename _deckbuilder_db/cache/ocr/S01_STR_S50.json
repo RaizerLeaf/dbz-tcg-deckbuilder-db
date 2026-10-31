@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S50",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S50_Saiyan Prelude.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN PRELUDES C) S50\nAr",
+   "conf": 67.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3",
+   "conf": 41.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "i ‘ )\n(Banish after use.) POWER: Your MP gains 5\nstages. Your next attack this combat deals +5\nstages of damage.",
+   "conf": 88.0,
+   "n_words": 22
+  }
+ }
+}

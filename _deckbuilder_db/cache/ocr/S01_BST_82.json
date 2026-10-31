@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_82",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/82_Blue Lunar Ray.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE LUNAR RAY = C) uae\n_",
+   "conf": 49.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN : ENERGY COMBAT '\na\n(Banish after use.) Energy attack costing 2\nstages. DAMAGE: 4 life cards. You may search\nyour discard pile for an Ally and place it into\nplay at 3 power stages above 0. HIT: Raise that\nally to it's highest power stage.",
+   "conf": 88.8,
+   "n_words": 47
+  }
+ }
+}

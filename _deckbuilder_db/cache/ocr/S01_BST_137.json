@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_137",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/137_Orange Focusing Drill (Frozen).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE FOCUSING DRILL () =137\niP? i _ 3 ~—« tit ff",
+   "conf": 37.1,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "a yr DrRILL\ny\nco: Your opponent's card effects cannot\nbanish or destroy your Drills in play except for\n“Orange Focusing Drill”.",
+   "conf": 78.6,
+   "n_words": 22
+  }
+ }
+}

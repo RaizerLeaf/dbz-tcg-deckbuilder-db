@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P5",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P5_Gohan - Enhanced.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN )\n1 ENHANCED y a)",
+   "conf": 70.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3,500,000\n72,000,000\n1,000,000\n700,000\n300,000\n100,000\n50,000\n10,000\n5,000\n1,000\n\n0",
+   "conf": 78.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "; lk _— 5,000\n1,000\n| =: % POWER: Use after you Rejuvenate during combat. -\nAg = Raise your anger 1. wot\n‘ POWER: XX Physical attack.\nRaise your anger 1. Search your discard pile for A\na Styled card and Rejuvenate it. es\n| DAMAGE: 4 stages. “ a",
+   "conf": 75.2,
+   "n_words": 51
+  }
+ }
+}

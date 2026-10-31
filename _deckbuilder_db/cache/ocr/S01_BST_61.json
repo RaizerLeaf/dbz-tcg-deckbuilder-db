@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_61",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/61_Namek Dragon Ball 4.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "DRAGON BALL 4 6-)",
+   "conf": 82.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "5\n1",
+   "conf": 11.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "\"| Wagy ORAGON BALL FF\nDestroy up to 2 Setups or Drills. |",
+   "conf": 75.0,
+   "n_words": 13
+  }
+ }
+}

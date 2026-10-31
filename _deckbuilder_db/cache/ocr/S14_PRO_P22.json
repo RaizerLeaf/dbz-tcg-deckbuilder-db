@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P22",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P22_Namekian Radiant Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "stages": {
+   "text": "5",
+   "conf": 27.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "co: Whenever an Earth Dragon Ball you\nown enters play during combat, raise your\nanger 1. While 3 or more Earth Dragon Balls\nyou own are in play, your attacks\ndeal +2 life cards.\nPOWER: If less than 3 Dragon Balls you\nown are in play, search your Life Deck for\n/ a Dragon Ball and place it into play.",
+   "conf": 94.5,
+   "n_words": 60
+  }
+ }
+}

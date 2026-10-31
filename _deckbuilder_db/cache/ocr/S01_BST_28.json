@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_28",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/28_Blue Reverse.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE REVERSE () cee",
+   "conf": 50.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aw ; PHYSICAL COMBAT :\n_\nXX Physical attack. DAMAGE: X stages/life\ncards +2 life cards. X = The damage of the last\nattack your opponent performed this combat,\nincluding modifiers.",
+   "conf": 83.4,
+   "n_words": 31
+  }
+ }
+}

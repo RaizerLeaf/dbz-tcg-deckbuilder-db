@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S15",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S15_Krillin - Ready For Battle.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "3 KRILLIN\nREADY FOR BATTLE y ) Sis )",
+   "conf": 74.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "375,000\n300,000\n225,000\n150,000\n75,000\n\n0\n50,000\n1 25,000\n10,000\n5,000\n1,000\n0",
+   "conf": 76.5,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "(are) y > \\ : 5,000\nX POWER: Energy attack costing 2 stages.\n| DAMAGE: 9 - X life cards. X = the number of\ncards in your opponent's hand.\n“a PAMIMI",
+   "conf": 80.5,
+   "n_words": 32
+  }
+ }
+}

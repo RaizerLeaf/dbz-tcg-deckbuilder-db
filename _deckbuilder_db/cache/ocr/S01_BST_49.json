@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_49",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/49_Red Shattering Leap.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED SHATTERING LEAP () cas",
+   "conf": 78.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n7\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(25; PHYSICAL COMBAT me\nCO <<\nXX Physical attack costing 1 stage. DAMAGE:\nAT +4 stages. HIT: This attack stays in play to\nbe used a second time this combat.\n= Pam |",
+   "conf": 81.8,
+   "n_words": 33
+  }
+ }
+}

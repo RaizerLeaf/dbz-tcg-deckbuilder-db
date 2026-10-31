@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P82",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P82_Captain Ginyu - Frog.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "| CAPTAIN GINYU pg?\nLEVEL FROG",
+   "conf": 64.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "10\n9\n8\n, 7\n6\n5\n4\n3\n2\n0",
+   "conf": 92.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "1\n. EWE\nco: Your Allies may make actions regardless\nof your MP’s power stage and they cannot\nbe discarded. Your attacks deal + X life y\ncards. X= the number of Allies you have\nin play when you perform that attack.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 91.4,
+   "n_words": 81
+  }
+ }
+}

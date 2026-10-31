@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_148",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/148_Saiyan Power Up.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN POWER UP. () aiae",
+   "conf": 64.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n6",
+   "conf": 16.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Banish after use.) POWER: Your MP gains 6\nstages. Draw the bottom card of your discard pile.",
+   "conf": 95.7,
+   "n_words": 17
+  }
+ }
+}

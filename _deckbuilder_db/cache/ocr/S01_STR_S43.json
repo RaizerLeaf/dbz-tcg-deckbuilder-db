@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S43",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S43_Red Tactical Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED\n{ TACTICAL DRIEL",
+   "conf": 87.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ", 3 2",
+   "conf": 39.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "7—~ RA IN se\n: DRILL '\n-\nco: Your opponent's effects cannot lower\nyour anger.",
+   "conf": 64.5,
+   "n_words": 16
+  }
+ }
+}

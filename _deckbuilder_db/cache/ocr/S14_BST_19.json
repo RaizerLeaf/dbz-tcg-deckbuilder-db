@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_19",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/19_Orange Wrist Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE WRIST BLOCK )c19,\nYN) WY. 7) ee .ll—F—Fnm",
+   "conf": 44.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n5\n1,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(2D) PHYSICAL COMBAT (Sp)\n. % Stops a physical attack. Ory\nLower your opponent's anger 1.\nIf you control less than 5 Drills, your Styled\nattacks deal +2 stages this combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.end Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 84.4,
+   "n_words": 62
+  }
+ }
+}

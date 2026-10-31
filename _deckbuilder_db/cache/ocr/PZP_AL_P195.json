@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P195",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P195_Cell - Larval.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 Fe C)\nLEVEL | LARVAL P195",
+   "conf": 71.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "100\n\n90\n\n80\n70\n60\n7 50\n40\n30\n20\n10\n\n0",
+   "conf": 95.5,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "= U\n20\n@) \"\nrere)\noo: Styled attacks deal +1 life card and\nnon-Styled attacks cost +1 stage to\nperform. AE)\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.8,
+   "n_words": 61
+  }
+ }
+}

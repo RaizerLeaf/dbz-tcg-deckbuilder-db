@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_121",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/121_Namek Dragon Ball 7.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "r NAMEK DRAGON: BALL 7 () 121",
+   "conf": 69.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "mt Wag DRAGON BALL\nChoose 3 cards from your\n~ discard pile and place them\nra on top of your Life Deck.\n. Destroy the top 3 cards of your\n- ileal opponent's Life Deck.",
+   "conf": 80.1,
+   "n_words": 35
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S127",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S127_Namekian Energy Guard.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN ENERGY. GUARD () S127\n,A4m",
+   "conf": 56.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n1\n7",
+   "conf": 17.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "os ENERGY COMBAT\n-\n\nYW Stops an energy attack. Shuffle the top\nand bottom cards of your discard pile into\nyour Life Deck.\n\n|PAMIMNI",
+   "conf": 82.4,
+   "n_words": 24
+  }
+ }
+}

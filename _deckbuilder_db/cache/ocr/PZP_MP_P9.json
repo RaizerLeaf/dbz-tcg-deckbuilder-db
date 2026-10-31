@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P9",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P9_Gohan - Armored.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "525,000\n450,000\n375,000\n300,000\n225,000\n200,000\n125,000\n50,000\n5,000\n\n500\n\n0",
+   "conf": 68.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "= J90,UUU\n= = 4\ny 5,000\n>  ) 500\nco: Your Styled attacks deal +3 life cards\nof damage. .\n% POWER: Use when one of your effects |\nraises your anger. Shuffle a card with\n“anger” in the text-box from your discard\npile into your Life Deck. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.5,
+   "n_words": 88
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S58",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S58_Orange Rage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE RAGE C) ssa",
+   "conf": 57.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 54.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "os ENDURANCE 1. Energy attack costing 2 Be\nstages. DAMAGE: 5 life cards. Raise your\n) anger 2 levels.",
+   "conf": 85.1,
+   "n_words": 19
+  }
+ }
+}

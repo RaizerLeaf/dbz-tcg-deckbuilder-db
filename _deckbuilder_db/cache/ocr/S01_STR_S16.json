@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S16",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S16_Krillin - Enraged.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "KRILLIN\n4 ENRAGED yr) Si6 ;\n\"ee — NN NNN",
+   "conf": 51.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "500,000\n400,000\n300,000\n200,000\n100,000\n\n7 75,000\n50,000\n25,000\n10,000\n\n1,000\n\n0",
+   "conf": 93.4,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "aa. 10,000\n4 Oe 1,000\ny oo : Your first Styled attack each turn cannot\nan /| Wee be stopped. .\nMe\nik PANINI",
+   "conf": 64.0,
+   "n_words": 24
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P13",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P13_Frieza - Tyrant.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "FRIEZA ae\n1 TYRANT re () Pls\nLEVEL _ _\n— _ _—_ ll _ .",
+   "conf": 46.0,
+   "n_words": 16
+  },
+  "stages": {
+   "text": "94,000\n79,000\n64,000\n49,000\n34,000\n19,000\n5 9,000\n4,500\n\n900\n\n450\n\n0",
+   "conf": 92.2,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "eal far 4,9UU\n900\n\\ i, 450\nB\noo; When you stop an attack, you may raise\nyour anger 1 level.",
+   "conf": 78.5,
+   "n_words": 21
+  }
+ }
+}

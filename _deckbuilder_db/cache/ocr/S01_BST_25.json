@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_25",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/25_Blue Defensive Flight.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN 7 PHYSICAL COMBAT\ny\nW Stops a physical attack. Your Main\nPersonality may pay any number of stages.\nFor every 2 stages paid, lower your opponent's\nanger 1 level.",
+   "conf": 88.3,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S119",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S119_Red Surrounded Beams.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED SURROUNDED: BEAMS C) sis\n“Pie | oe i",
+   "conf": 47.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "of, ENERGY COMBAT\n~% Energy attack costing 2 stages. DAMAGE:\n5 life cards. Raise your anger 1 level. If you\nadvance a personality level with this card,\nthis attack cannot be stopped.",
+   "conf": 91.2,
+   "n_words": 32
+  }
+ }
+}

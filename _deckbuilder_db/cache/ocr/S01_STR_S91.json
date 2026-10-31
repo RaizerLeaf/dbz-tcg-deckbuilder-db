@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S91",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S91_Blue Ki Build Up.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE KI BUILD UP... C) sai",
+   "conf": 53.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "03\n0, 13\n2",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "aN . SeTUrP \"\n—\nPOWER: Energy attack costing 2 stages.\nDAMAGE: 7 life cards. Lower your opponent's\nanger 1 level.",
+   "conf": 77.6,
+   "n_words": 21
+  }
+ }
+}

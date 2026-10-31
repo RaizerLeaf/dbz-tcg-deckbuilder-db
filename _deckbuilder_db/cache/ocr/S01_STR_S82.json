@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S82",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S82_Saiyan Flying Tackle.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN FLYING TACKLE () see\na Ci. mn |",
+   "conf": 52.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "cay. PHYSICAL COMBAT =\n~% Physical attack. DAMAGE: AT +3 stages.\nWhen you perform this attack you may destroy\nthe top card of your Life Deck to have this\nattack deal +6 stages instead of +3.",
+   "conf": 89.4,
+   "n_words": 36
+  }
+ }
+}

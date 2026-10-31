@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P25",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P25_Vegeta - Villainous.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "— VEGETA\nLEVEL VILLAINOUS () P25",
+   "conf": 80.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "25,000\n20,000\n15,000\n10,000\n\n5,000\n\n4,000\n\n3,000\n\n2,000\n\n1,000\n\n500\n0",
+   "conf": 94.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "a) ,JUU\nWW 1,000\nPOWER: X Physical attack.\nDAMAGE: 4 stages.\nHIT: Your attacks that raise your anger |\ndeal +1 stage and +1 life card of damage\nthis combat.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.\n\nand Akira Toriyama. This card game is\n\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 90.8,
+   "n_words": 69
+  }
+ }
+}

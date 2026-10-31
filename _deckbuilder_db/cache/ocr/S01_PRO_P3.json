@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P3",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P3_Gohan - Resilient Child.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "\\ 4\nHAN\n1 conan CHILD y >3\nLEVEL g \"7 \\®\n2 ENN",
+   "conf": 61.1,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "3,500\n3,000\n2,500\n2,000\n1,500\n\n0\n1 1,000\n800\n600\n400\n200\n0",
+   "conf": 77.2,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "=] > y 400\n200\nOT ye 0\n| oo co : When you perform a Styled attack, you may\n, destroy up to 2 cards from the top of your Life Deck.\nThat attack deals +X life cards. X = the number of\n[ = & cards destroyed.\nPUR\n“a PAMIMI",
+   "conf": 79.7,
+   "n_words": 52
+  }
+ }
+}

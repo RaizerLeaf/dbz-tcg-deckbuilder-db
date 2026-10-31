@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_BST_07",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/07_Blue Research Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE RESEARCH DRILL €& U7 |",
+   "conf": 81.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Heroes only. This card is not discarded when advancing\nco: Whenever you stop an attack, you may lower a pla\n(-) anger 1. Your copied attacks deal +2 life cards.",
+   "conf": 92.5,
+   "n_words": 30
+  }
+ }
+}

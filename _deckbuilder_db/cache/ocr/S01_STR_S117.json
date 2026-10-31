@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S117",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S117_Orange Stare Down.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE STARE DOWN C) S17",
+   "conf": 69.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n2\n,",
+   "conf": 18.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "aN ji SCNERGY COMBAT '\ny\nEnergy attack costing 2 stages. DAMAGE:\n4 life cards. Banish an opponent's Setup,\nDrill or Ally.",
+   "conf": 75.2,
+   "n_words": 22
+  }
+ }
+}

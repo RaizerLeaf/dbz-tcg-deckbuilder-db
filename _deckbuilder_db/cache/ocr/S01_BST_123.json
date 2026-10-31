@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_123",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/123_Black Mischievous Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK MISCHIEVOUS. DRILL () Ales",
+   "conf": 77.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Limit 1 per deck.) °°: Whenever your\nopponent plays a Setup or Drill, you may\ndestroy the top 4 cards of your Life Deck.\nIf you do, banish that Setup or Drill.\n. PAM IMT",
+   "conf": 86.4,
+   "n_words": 35
+  }
+ }
+}

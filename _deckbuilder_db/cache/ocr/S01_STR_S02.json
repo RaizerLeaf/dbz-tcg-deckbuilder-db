@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S02",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S02_Vegeta - Villainous.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "VEGETA\nVILLAINOUS Ee) =",
+   "conf": 48.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "25,000\n,\n20,000\n15,000\n10,000\n7 5,000\n4,000\n3,000\n2,000\n1,000\n500\n0",
+   "conf": 73.8,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "a Nf ae 0\n>< POWER: Physical attack. DAMAGE: 4\n| stages. HIT: Your attacks that raise your anger\ndeal +1 stage and +1 life card of damage\n[ this combat.\nPUR A —",
+   "conf": 79.1,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_15",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/15_Black Corruption (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK CORRUPTION C) cis",
+   "conf": 72.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3",
+   "conf": 66.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN : HNERGY COMBAT '\n-\n(If this card is discarded from your hand,\nBanish the top 2 cards of your opponent's Life\nDeck.) W Stops an energy attack. Raise your\nanger 1 level and lower your opponent's anger\n2 levels.",
+   "conf": 84.6,
+   "n_words": 41
+  }
+ }
+}

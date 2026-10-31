@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S46",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S46_Blue Reprimand.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE REPRIMAND. () S46\n—_, —_—",
+   "conf": 40.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Sy\nENDURANCE 2. POWER: Return a Setup, Drill,\nor Dragon Ball in play to its owner's hand.\n= | PAM IMI |",
+   "conf": 79.8,
+   "n_words": 22
+  }
+ }
+}

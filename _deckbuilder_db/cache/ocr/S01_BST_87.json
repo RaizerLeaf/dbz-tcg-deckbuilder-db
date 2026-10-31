@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_87",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/87_Namekian Hybrid Defense.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[NAMEKIAN HYBRID. DEFENSE () USB7",
+   "conf": 33.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "SS. a\n’ |\ny\nPOWER: Stops a physical or energy attack.\nChoose X cards in your discard pile and\nRejuvenate them. X = your MP’s level.",
+   "conf": 85.3,
+   "n_words": 27
+  }
+ }
+}

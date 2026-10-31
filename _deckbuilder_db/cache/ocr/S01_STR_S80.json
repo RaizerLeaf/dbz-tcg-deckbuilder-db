@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S80",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S80_Red Power Lift.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED POWER LIFT. = () a0\nTer a",
+   "conf": 47.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a PHYSICAL COMBAT of\nENDURANCE 1. X Physical attack. DAMAGE:\nAT +3 stages. Stops the next physical attack\nperformed against you this combat.",
+   "conf": 90.9,
+   "n_words": 23
+  }
+ }
+}

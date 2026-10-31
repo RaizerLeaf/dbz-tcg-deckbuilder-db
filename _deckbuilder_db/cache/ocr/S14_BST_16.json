@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_BST_16",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/16_Orange Provoking Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE PROVOKING DRILL @ ris]",
+   "conf": 78.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(Orange Adept Mastery only. Limit 1 per deck.)\neo: Your Styled attacks deal +1 stage.\n*% POWER: Use when entering combat. If you control\nthan 5 Drills, destroy an opponent's Setup or Drill",
+   "conf": 89.7,
+   "n_words": 33
+  }
+ }
+}

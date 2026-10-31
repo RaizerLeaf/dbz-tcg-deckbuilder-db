@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S97",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S97_Blue Positioning Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE POSITIONING. DRILL () ss7",
+   "conf": 35.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 41.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "oo: Whenever you stop an attack, place a\nStyled card from your discard pile on top of\nyour Life Deck.\n\n— | PAM IMI |",
+   "conf": 83.5,
+   "n_words": 25
+  }
+ }
+}

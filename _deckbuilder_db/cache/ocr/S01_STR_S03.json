@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S03",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S03_Vegeta - Empowered.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "i \\ 4\nVEGETA\nLEVEL , \\y\nInn nnn",
+   "conf": 70.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "150,000\n125,000\n100,000\n75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n500\n\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": ", ia 1,000\n900\nmae 60°: Your attacks that raise your anger deal +3\nee power Stages and +3 life cards of damage.",
+   "conf": 80.3,
+   "n_words": 23
+  }
+ }
+}

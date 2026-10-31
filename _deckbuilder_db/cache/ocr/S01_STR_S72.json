@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S72",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S72_Black Entanglement.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK ENTANGLEMENT C) —",
+   "conf": 56.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "5",
+   "conf": 24.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN : PHYSICAL COMBAT +:\ncy\nXX Physical attack. DAMAGE: AT +4 stages.\nHIT: Your opponent reveals his hand and\nbanishes any Setups or Drills in his hand.",
+   "conf": 85.1,
+   "n_words": 28
+  }
+ }
+}

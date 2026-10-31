@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_51",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/51_Saiyan Cheap Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN CHEAP SHOT () csi\nm4 ED",
+   "conf": 59.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aw 7 CNERGY COMBAT '\ny\nENDURANCE 2. Energy attack costing\n3 stages. DAMAGE: 6 life cards. Life card\ndamage from this attack is banished.",
+   "conf": 83.8,
+   "n_words": 25
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P198",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P198_Android 15 - Relaxed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ANDROID 15",
+   "conf": 95.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "125,000\n110,000\n95,000\n80,000\n65,000\n750,000\n35,000\n120,000\n5,000\n2,500\n0",
+   "conf": 61.1,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "= \\ = 5,000\n| f\\ | a 2,500\nfc L\n. ‘e :\nco: At the end of your Planning Step, you\nmay search your Life Deck for a card with\n“Android” in the title and destroy it. If you\ndo, banish a Drill or an attached card. j\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 89.0,
+   "n_words": 89
+  }
+ }
+}

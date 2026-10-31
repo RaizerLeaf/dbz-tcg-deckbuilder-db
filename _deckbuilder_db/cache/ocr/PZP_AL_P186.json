@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P186",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P186_Turtle - Protective.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 Es\nLEVEL | PROTECTIVE @ rec",
+   "conf": 64.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "11\n\n10\n\n8\n7\n6\n\n5\n4\n3\n\n0",
+   "conf": 93.6,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "co: At the start of your turn, banish the\ntop card of each player’s discard pile.\nPOWER: Shuffle “Turtle” into your\nLife Deck to draw a card.\n\n‘ DISCLAIMER: Dragan Ball, Dragon\n\n: Bail Z, Dragon Ball GT and Dragon\n\n, Ball Super are all owned by\n\n. Funimation, Toei Animation, Fuji T.V.\n, and Akira Toriyama. This card game is\n, a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 87.0,
+   "n_words": 73
+  }
+ }
+}

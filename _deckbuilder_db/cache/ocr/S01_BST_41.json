@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_41",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/41_Orange Precise Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE PRECISE SHOT () cai",
+   "conf": 64.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "484",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a2... =m =RAGY COMBAT i\nENDURANCE 2. Energy attack costing 1\nstage. DAMAGE: 3 life cards. HIT: Search your\nopponent's Life Deck for a card and discard it.\nRaise your anger 1 level.",
+   "conf": 83.8,
+   "n_words": 33
+  }
+ }
+}

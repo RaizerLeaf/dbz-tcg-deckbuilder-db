@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_60",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/60_It’s Over 9,000!.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(IT'S OVER 9,000! -- () cso",
+   "conf": 64.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n\n1\n,\n,",
+   "conf": 8.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "“ / EVENT ;\n(You cannot win by MPPV if you use this card.)\nPOWER: if your opponent's MP's power level is\nover 9,000, both players raise their anger 6 levels.",
+   "conf": 81.7,
+   "n_words": 31
+  }
+ }
+}

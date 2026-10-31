@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_09",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/09_Blue Duck.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE DUCK ) co\naU",
+   "conf": 70.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n00",
+   "conf": 3.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "QED) PHYsicAL comaaT( @®)\n. % Stops a physical attack. Ory\nLower your opponent's anger 1. Choose\nup to 2 cards in your discard pile with “copy” or\n“copied” in the text-box and place them on\nthe top of your Life Deck.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 87.6,
+   "n_words": 76
+  }
+ }
+}

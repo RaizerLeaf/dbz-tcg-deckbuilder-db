@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_03",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/03_Namek Dragon Ball 3.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "«(NAMEK DRAGON BALL 3 () cs\nmy a ~ ]",
+   "conf": 49.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4 7",
+   "conf": 68.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "\\. me ORAGON BALL EB\nDraw 3 cards. Place 2 cards\nfrom your hand at the bottom of\nyour Life Deck. Raise orlower iy\na player's anger 1 level. |",
+   "conf": 80.7,
+   "n_words": 30
+  }
+ }
+}

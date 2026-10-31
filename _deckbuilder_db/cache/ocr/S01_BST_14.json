@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_14",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/14_Black Concussive Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK CONCUSSIVE- BLAST () ci4",
+   "conf": 50.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "SL ne. Ss\nOe HNERGY COMBAT —}\n~% Energy attack costing 4 stages. DAMAGE:\n\n4 life cards. Raise your anger 2 levels.\n\nYou may place a card from your hand at\nthe bottom of your Life Deck to have your\nOpponent put a card from his hand at the\nbottom of his Life Deck.",
+   "conf": 87.9,
+   "n_words": 54
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S54",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S54_Blue Energy Overload.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE ENERGY OVERLOAD C) ss4\nle, ee",
+   "conf": 54.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n, 4",
+   "conf": 3.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "eK lf\nBP. SNERAGyY COMBAT on |\n(If this card is discarded from your hand by a\ncard effect, put the top Physical Combat card\nfrom your discard pile at the bottom of your\nLife Deck.) % Energy attack costing 2 stages.\nDAMAGE: 5 life cards.",
+   "conf": 85.2,
+   "n_words": 46
+  }
+ }
+}

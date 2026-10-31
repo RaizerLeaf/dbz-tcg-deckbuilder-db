@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P8",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P8_Time Is A Warrior’s Tool.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Give IS A WARRIOR'S: TOOL © oa",
+   "conf": 69.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7 ,\n2",
+   "conf": 1.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "4 (Limit 1 per deck.) POWER: Stops a PR\nphysical or energy attack. Stops all of your #y\n> opponent's attacks this combat. z",
+   "conf": 78.0,
+   "n_words": 24
+  }
+ }
+}

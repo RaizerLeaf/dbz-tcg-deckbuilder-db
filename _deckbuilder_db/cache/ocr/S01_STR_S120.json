@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S120",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S120_Red Static Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘(RED STATIC SHOT @ ==\nSY =e",
+   "conf": 50.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",4\n,\n37",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "= a CNERGY COMBAT _\n~% Energy attack costing 2 stages. DAMAGE:\n5 life cards. Your opponent cannot use\nEndurance on your Styled attacks this combat.\nHIT: Raise your anger 2 levels.",
+   "conf": 87.7,
+   "n_words": 32
+  }
+ }
+}

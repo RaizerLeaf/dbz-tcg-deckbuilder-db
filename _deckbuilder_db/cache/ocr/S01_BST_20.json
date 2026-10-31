@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_20",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/20_Blue Battle Readiness.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BATTLE READINESS () ceo",
+   "conf": 68.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n2",
+   "conf": 34.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "OI ——————— —\nPOWER: Search your Life Deck for an Ally and\nplace it into play at 3 stages above 0. Search\nyour discard pile for an Ally and place it into\n\nplay at 3 stages above 0.",
+   "conf": 88.2,
+   "n_words": 38
+  }
+ }
+}

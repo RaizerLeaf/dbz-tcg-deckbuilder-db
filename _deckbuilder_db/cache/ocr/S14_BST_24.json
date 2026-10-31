@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_24",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/24_Red Clap.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED CLAP C) C24\n| — J@",
+   "conf": 48.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1\n,\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(GD) ENERGY comaat (ER)\n(If this card is discarded\nfrom your hand by a Mastery effect,\nrearrange the bottom 3 cards of your discard pile.)\nW Stops an energy attack.\nRaise your anger 1. Gain 5 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.8,
+   "n_words": 68
+  }
+ }
+}

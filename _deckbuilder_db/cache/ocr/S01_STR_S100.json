@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S100",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S100_Orange Guardian Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE GUARDIAN--DRILL () S100\neS” a,”",
+   "conf": 45.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "oP), DI :\nS POWER: Choose a Setup or Drill in your hand\nand place it into play.",
+   "conf": 84.4,
+   "n_words": 18
+  }
+ }
+}

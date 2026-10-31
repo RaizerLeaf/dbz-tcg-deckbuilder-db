@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_139",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/139_Orange Uppercut (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE UPPERCUT.. () aise\nOy mn ma) oe",
+   "conf": 48.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ", 2\n,\n,\n,\n,",
+   "conf": 3.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Banish after use.) Physical attack.\n\nDAMAGE: AT +4 stages. You may pay 2 power\n\nstages to search your Life Deck for an Energy\nCombat card and place it into your hand. :",
+   "conf": 90.0,
+   "n_words": 32
+  }
+ }
+}

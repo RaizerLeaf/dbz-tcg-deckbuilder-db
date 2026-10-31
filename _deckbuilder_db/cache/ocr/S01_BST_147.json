@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_147",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/147_Saiyan Elbow Drop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN ELBOW DROP () a1a7",
+   "conf": 70.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "277... PHYSICAL COMBAT ~™\n(Banish after use.) Physical attack\ncosting 1 stage. DAMAGE: AT +3 stages.\nThis attack stays in play to be used a second\n\ntime this combat.",
+   "conf": 87.8,
+   "n_words": 29
+  }
+ }
+}

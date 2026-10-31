@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_35",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/35_WUPHF!.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WUPHF! ) R35\nD> — 4a peek Ct) oe",
+   "conf": 53.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n0,\n,\n\n,",
+   "conf": 9.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(aa i)\n(Limit 1 per deck.) Ome\nPOWER: Banish a Setup, Drill, Ally, or\nattached card. If Bee is in play, shuffle into\nyour Life Deck after use.\na",
+   "conf": 85.2,
+   "n_words": 29
+  }
+ }
+}

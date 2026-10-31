@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_45",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/45_Red Back Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED BACK KICK. (cas",
+   "conf": 69.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n3\n,",
+   "conf": 7.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "mS PHYSICAL COMBAT\ny\nXX Physical attack. DAMAGE: AT +3 stages.\nYou may lower your anger 3 levels to stop all\nenergy attacks this combat.",
+   "conf": 86.7,
+   "n_words": 25
+  }
+ }
+}

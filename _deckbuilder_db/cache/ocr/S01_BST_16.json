@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_16",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/16_Black Hug Maneuver.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK HUG MANEUVER: C) soit",
+   "conf": 54.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n0",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PF, PHYSICAL COMBAT\nENDURANCE 2. X Physical attack. DAMAGE:\nAT stages. Raise your anger 2 levels.\ns PAM IMT",
+   "conf": 73.1,
+   "n_words": 19
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S87",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S87_Blue Wrist Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE WRIST BLOCK» () Sse7\n_ A",
+   "conf": 55.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "von 7 6\nif, PHYSICAL COMBAT -;\nW Stops a physical attack. Destroy one of\nyour opponent's Setups or Drills.",
+   "conf": 75.7,
+   "n_words": 20
+  }
+ }
+}

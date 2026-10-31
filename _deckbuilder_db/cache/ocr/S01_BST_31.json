@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_31",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/31_Namekian Dragon Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN DRAGON BLAST C) csi",
+   "conf": 47.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "=< ; HNERGY COMBAT ‘\ny\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 4 + X life cards. HIT:\nRejuvenate X. X = the number of Dragon Balls\nin play.",
+   "conf": 83.1,
+   "n_words": 32
+  }
+ }
+}

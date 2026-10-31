@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_12",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/12_Namekian Spin.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SPIN yui2",
+   "conf": 70.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "1\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". * Physical attack.\nYou may shuffle a Dragon Ball back into its\nowner's Life Deck. If you do, banish X cards from\nyour opponent's discard pile. X= the number of\nDragon Balls you own in play.\nDAMAGE: AT +3 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Cragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card gama is a fan-mada, non-profit",
+   "conf": 88.3,
+   "n_words": 72
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S10",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S10_Gohan - Young Warrior.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "HAN\ne ol WARRIOR y ) Slo\nXe : 12a nNnNNn",
+   "conf": 59.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "18,000\n16,000\n14,000\n12,000\n10,000\n8,000\n6,000\n4,000\n\n2,000\n\n1,000\n\n0",
+   "conf": 95.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "BX “ oe 2,000\na oe 0\nco: Your Styled attacks deal +2 life cards of\n| damage. When you deal critical damage, you\nmay Rejuvenate 1.\na | PAMIMI",
+   "conf": 77.7,
+   "n_words": 30
+  }
+ }
+}

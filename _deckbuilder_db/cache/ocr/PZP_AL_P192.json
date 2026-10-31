@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P192",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P192_Dr. Brief - Analyzing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 ee BRIEF\nLEVEL | ANALYZING @ >",
+   "conf": 71.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "5\n5\n4\n\n4\n\n1\n\n3\n3\n\n2\n\n2\n1\n1\n0",
+   "conf": 88.2,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "B |\n1\nOo a r\n) OS :\n(If your MP is Bulma, Trunks, or Vegeta,\nyou may use this Power regardless of\nyour MP’s power stage.)\n% POWER: Use when entering combat. j\nDraw a card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.8,
+   "n_words": 77
+  }
+ }
+}

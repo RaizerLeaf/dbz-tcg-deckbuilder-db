@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_71",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/71_Burter - Ginyu Force.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BURTER wasn _—\n1 GINYU FORCE vn () uUT71\nLEVEL en 7\n—_ }",
+   "conf": 50.6,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "64,000\n32,000\n16,000\n8,000\n\n4,000\n1 2,000\n1,000\n500\n\n250\n125",
+   "conf": 88.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| \\e JUU\n“4 0\nURS\n(Villains only.) ©: Your attacks deal +1 stage of damage.\nIf your MP is “Captain Ginyu”, your attacks deal +2 stages\nof damage instead.",
+   "conf": 83.8,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_73",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/73_Black Searching Technique.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[BLACK SEARCHING TECHNIQUE () u73",
+   "conf": 76.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1",
+   "conf": 31.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a C£:,.,/§ Sie eas\n(Banish after use.) POWER: Search your\nopponent's deck for 2 non-Dragon Ball cards\n\nand banish them.\n| PAI |",
+   "conf": 75.1,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P156",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P156_Chaozu - Resurrected.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 CHAOZU\nLEVEL RESURRECTED () P156\non . aaa",
+   "conf": 62.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1 90,000\n80,000\n70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n0",
+   "conf": 73.2,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "a it 2U,UUU\n|\nTy. 10,000\n~ G 0\nPOWER: XX 4: Energy attack.\nShuffle “Chaozu” into your Life Deck at\nthe beginning of the next action this\ncombat. ;\nDAMAGE: 7 life cards.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.7,
+   "n_words": 73
+  }
+ }
+}

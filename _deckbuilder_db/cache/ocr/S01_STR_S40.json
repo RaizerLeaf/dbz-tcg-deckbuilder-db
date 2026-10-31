@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S40",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S40_Orange Devouring Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE DEVOURING DRILL () S40",
+   "conf": 65.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3",
+   "conf": 70.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": ",; 4 ——————..— —\naw : DRILL a\nFO\n(You cannot win by MPPV if you use this\nDrill's effect. Banish after use.) ©O: When you\nplay a Drill, you may banish this card. If you\ndo, advance a personality level.",
+   "conf": 79.8,
+   "n_words": 41
+  }
+ }
+}

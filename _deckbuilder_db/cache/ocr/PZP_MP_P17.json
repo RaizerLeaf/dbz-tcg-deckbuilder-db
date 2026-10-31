@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P17",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P17_Krillin - Ready for Battle.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "S53 KRILLIN P17\nLEVEL READY FOR BATTLE",
+   "conf": 83.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "375,000\n6300,000\n225,000\n150,000\n\n5 75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n0",
+   "conf": 83.9,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "Ss €237 i 1U,U0U\n\\ Uy A 5,000\nS\n4, 0\nPOWER: X Energy attack costing\n2 stages.\nDAMAGE: 9-X life cards. X= the\nnumber of cards in your opponent’s hand.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 84.0,
+   "n_words": 70
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_06",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/06_Captain Ginyu - Leader.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 CAPTAIN GINYU. ... () ce\nLEADER ;\nLEVEL —— —",
+   "conf": 60.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n\n2,500\n, 1,250\n0",
+   "conf": 87.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "a “,;, 3,UUU\n\nlL 2,500\n\n“7 \\ 0\nXK POWER: Energy attack costing 3 stages. DAMAGE: 4 life cards.\nSearch your Life Deck for an Ally and place it into play at 4 power\nstages above 0. HIT: Choose one of your Allies in play, that Ally can\n\nmake actions regardless of your MP’s power stage this combat.\nGores",
+   "conf": 86.4,
+   "n_words": 59
+  }
+ }
+}

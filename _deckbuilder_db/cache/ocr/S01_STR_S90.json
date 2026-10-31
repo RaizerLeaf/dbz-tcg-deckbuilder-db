@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S90",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S90_Red Catch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED CATCH ee () seo\nfoo : Ww",
+   "conf": 52.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4",
+   "conf": 11.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ae - PHYSICAL COMBAT «\n4\nENDURANCE 2. ¥ Stops a physical attack.\nBanish X cards from your opponent's discard\npile. X = your anger level.",
+   "conf": 84.3,
+   "n_words": 26
+  }
+ }
+}

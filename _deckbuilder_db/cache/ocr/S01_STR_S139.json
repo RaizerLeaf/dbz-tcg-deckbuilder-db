@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S139",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S139_Red Right Cross.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED RIGHT CROSS () siss\neee iim y ~~",
+   "conf": 44.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 24.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "STs, PHYSICAL COMBAT w=\n% Physical attack costing 4 stages. DAMAGE:\nAT +4 stages. Raise your anger 2 levels.",
+   "conf": 82.4,
+   "n_words": 19
+  }
+ }
+}

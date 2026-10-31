@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S39",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S39_Namekian Combat Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN COMBAT DRILL () S3s\neee | ee ee 2 a",
+   "conf": 45.0,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4\n4\n1,",
+   "conf": 3.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "aN ji DRILL '\na\nco: After taking damage from an attack, your\nMP gains X stages. X = the number of life\ncards that attack dealt.",
+   "conf": 85.6,
+   "n_words": 27
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P23",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P23_Orange Adept Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "j } ¢ Va x\n; Ph : 4 . j",
+   "conf": 29.7,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4\n2,",
+   "conf": 7.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| \\ =, eT,\nco: Your attacks deal +1 stage. After your\nMP advances a level, search your discard pile\nfor a Drill and Rejuvenate it.\n4 POWER: Use after performing a successful\nStyled attack. That attack gains “HIT: If you\ncontrol 2 or less Drills, search your Life Deck\nfor a Styled c¢ Drill and place it into play.”\ni",
+   "conf": 90.2,
+   "n_words": 61
+  }
+ }
+}

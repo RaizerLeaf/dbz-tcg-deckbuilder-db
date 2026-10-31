@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P23",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P23_Piccolo - Fused.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@1 PICCOLO\nLEVEL FUSED () P23\n>",
+   "conf": 67.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "750,000\n650,000\n550,000\n450,000\n350,000\n250,000\n6150,000\n100,000\n50,000\n5,000\n\n0",
+   "conf": 68.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "1U0,0U0U\n| 50,000\n) oO\n- @ 0\nco: Your opponent needs to deal 7 or more\nlife cards to activate critical damage.\nPOWER: X Energy attack costing\n2 stages. )\nDAMAGE: 7 life cards.\nDISCLAIMER: Dragon Ball, Dragon\nHIT: Rejuvenate X. a dloe undid\nX= the number of Dragon Balls in play. Funimation, Toei Animation, Fuji.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 82.9,
+   "n_words": 74
+  }
+ }
+}

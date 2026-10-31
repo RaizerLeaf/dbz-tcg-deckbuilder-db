@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S06",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S06_Goku - Kaio-Ken Enhanced.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "\\Y ~ _ 7 AY ; ; ;\nGOKU\n— KAIO-KEN ENHANCED y ) I] =}\nal y ow RA ANN",
+   "conf": 41.0,
+   "n_words": 21
+  },
+  "stages": {
+   "text": "33,000\n29,000\n25,000\n21,000\n17,000\n1 13,000\n9,000\n5,000\n\n1,000\n\n500\n\n0",
+   "conf": 87.8,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "CG NJ Oo\nte 1,000\n- Ke\n500\npf oo; At the end of each combat, you may lower\n: /, } . your MP a personality level and you may .\n- search your Life Deck or discard pile for a Drill\n- . and place it into play.",
+   "conf": 75.5,
+   "n_words": 50
+  }
+ }
+}

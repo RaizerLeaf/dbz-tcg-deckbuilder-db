@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P169",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P169_Trunks - Bashful.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 Es\nLEVEL | BASHFUL @ res",
+   "conf": 71.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ", 95,000\n85,000\n75,000\n\n85,000\n\n55,000\n\n45,000\n\n35,000\n\n25,000\n20,000\n\n15,000\n\n0",
+   "conf": 66.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "| | 3 | T 29,U0U\n@ ff 15,000\n(You may use this Power regardless\nof your MP’s power stage.)\n% POWER: Use when entering combat.\nLook at the top card of a player’s Life Deck.\nYou may place that card at the bottom\nof that player’s Life Deck. DISCLAIMER: Dragan Ball, Dragon\n: Bail Z, Dragon Ball GT and Dragon\n, Ball Super are all owned by\n. Funimation, Toei Animation, Fuji T.V.\n, and Akira Toriyama. This card game is\n, a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 86.4,
+   "n_words": 94
+  }
+ }
+}

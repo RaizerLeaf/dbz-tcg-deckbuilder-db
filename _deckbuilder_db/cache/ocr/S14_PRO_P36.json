@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P36",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P36_Namekian Clash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CLASH C) P36\nSS",
+   "conf": 64.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 5.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "QED) PHYSICAL COMBAT |\n. * Physical attack.\nIf you have performed another physical attack this\ncombat, banish an opponent's Setup or Drill.\nDAMAGE: AT +2 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Cragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card gama is a fan-mada, non-profit",
+   "conf": 85.3,
+   "n_words": 58
+  }
+ }
+}

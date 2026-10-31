@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_23",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/23_Red Uppercut.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED UPPERCUT C) U23\n“=D",
+   "conf": 68.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3 ,",
+   "conf": 25.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(@29)PHyYsIcCAL comBAT\nXX Physical attack.\nFocused.\nDAMAGE: AT +2 stages.\nHIT: Destroy a Setup, Drill, or Ally.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.8,
+   "n_words": 51
+  }
+ }
+}

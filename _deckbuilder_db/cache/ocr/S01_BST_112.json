@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_112",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/112_Enraged Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ENRAGED BLAST 9 ow C) W112",
+   "conf": 49.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN i FENerGyY COMBAT '\n4\n| (Banish after use.) Energy attack costing\n3 stages. DAMAGE: 4 life cards. Raise your\nanger 2 levels.",
+   "conf": 83.6,
+   "n_words": 24
+  }
+ }
+}

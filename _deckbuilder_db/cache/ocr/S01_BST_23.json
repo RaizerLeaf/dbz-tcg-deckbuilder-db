@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_23",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/23_Blue Biting Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BITING DRILt () ces",
+   "conf": 60.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "co: Your attacks deal +2 power stages of\n\ndamage. When a card effect lowers your\n\nopponent's anger and his anger is already 0,\nhe destroys the top card of his Life Deck.",
+   "conf": 95.4,
+   "n_words": 32
+  }
+ }
+}

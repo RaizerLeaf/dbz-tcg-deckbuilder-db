@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P34",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P34_Blue Avoidance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE AVOIDANCE ) P34,",
+   "conf": 84.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(@22) ENERGY COMBAT\n. Stops an energy attack.\nYou may discard a card from your hand to\nperform a copy of that attack for your next action.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 91.6,
+   "n_words": 58
+  }
+ }
+}

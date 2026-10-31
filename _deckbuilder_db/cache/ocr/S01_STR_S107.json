@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S107",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S107_Orange Destruction.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE DESTRUCTION () 5107\nEe",
+   "conf": 59.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "> ’ (Oe\nS POWER: Your opponent destroys top X cards of\nhis Life Deck. X = 1 + the number of Drills you\nhave in play.",
+   "conf": 84.7,
+   "n_words": 27
+  }
+ }
+}

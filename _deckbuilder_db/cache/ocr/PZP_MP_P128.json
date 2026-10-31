@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P128",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P128_Yamcha - Sleeping.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YAMCHA\n: SLEEPING P128",
+   "conf": 66.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "50\n\n45\n\n40\n\n35\n\n30\n25\n20\n15\n\n10\n\n7 5\n0",
+   "conf": 88.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "| | « —_-<\nol ~ & 19\nps 10\n| t 5\n~ WF, 0\nPOWER: > Energy attack.\nLower your opponent's anger 1.\nDAMAGE: 2 life cards.\nHIT: Stops the next physical attack\nperformed against you this combat. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 81.7,
+   "n_words": 79
+  }
+ }
+}

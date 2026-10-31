@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_53",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/53_Saiyan Clothesline.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN CLOTHESLINE () css",
+   "conf": 73.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "8\n1\n44",
+   "conf": 44.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "aN ' PHYSICAL COMBAT =:\n~\n2% Physical attack. DAMAGE: AT +3 stages.\nIf the personality performing this attack has\na higher power level than the defending\npersonality, this attack’s base damage is 2\ntimes the AT instead.",
+   "conf": 83.8,
+   "n_words": 38
+  }
+ }
+}

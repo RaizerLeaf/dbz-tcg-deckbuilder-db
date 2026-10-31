@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S145",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S145_Namekian Forceful Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{NAMEKIAN FORCEFUL: BLOCK () Silas",
+   "conf": 41.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n25,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "WY Stops a physical attack. Gain 5 stages.\nRejuvenate 1.",
+   "conf": 88.7,
+   "n_words": 10
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_154",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/154_Frieza’s Supernova.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "FRIEZA'S SUPERNOVA — (@) mt=+\nEE SON oS SO Siew",
+   "conf": 33.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "5\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "an / ENERGY COMBAT\nLY\nXX Energy attack costing 3 stages. DAMAGE:\n| 5 life cards + X life cards. X = 3 times number\nof Frieza Named cards in your discard pile.",
+   "conf": 84.2,
+   "n_words": 33
+  }
+ }
+}

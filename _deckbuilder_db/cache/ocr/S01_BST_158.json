@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_158",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/158_Piccolo’s Special Beam Cannon.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ EEE —\n(PrccoLo's SPECIAL BEAM CANNON () A1Sss8\nvo. \\",
+   "conf": 52.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "77",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_ a. ete ———\naN : CNeS&RGY COMBAT\na\n. %X Energy attack costing 2 stages. DAMAGE:\n3 life cards. Rejuvenate 1. HIT: Name two\ndifferent non-Dragon Ball cards. Search your\nopponent's Life Deck for 1 copy of each card\nand banish them.",
+   "conf": 77.2,
+   "n_words": 43
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_151",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/151_Stare Down.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Grvne DOWNS Sees © A151\nUf y <= / / z=",
+   "conf": 40.4,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "- - —n\naN c EVENT '\nZ\n(Villains only.) POWER: Look at your\nopponent's hand and choose a card. Your\nopponent discards that card.",
+   "conf": 74.1,
+   "n_words": 25
+  }
+ }
+}

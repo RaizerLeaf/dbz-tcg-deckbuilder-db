@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S36",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S36_Saiyan Offensive Rush.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "OC FFE",
+   "conf": 27.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "4",
+   "conf": 15.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "POWER: Your MP loses 4 stages. Your attacks\ndeal +3 life cards of damage this combat.\n= | PAM IME |",
+   "conf": 83.7,
+   "n_words": 21
+  }
+ }
+}

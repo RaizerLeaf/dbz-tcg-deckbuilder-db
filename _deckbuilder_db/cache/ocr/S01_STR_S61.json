@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S61",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S61_Red Energy Outburst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED ENERGY OUTBURST () S6l",
+   "conf": 75.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n8\n7\n\n6\n,",
+   "conf": 3.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(4, ENEAGY COMBAT wp\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: If you have dealt critical\ndamage this combat, raise your anger 2 levels.\n= | PAM IMI |",
+   "conf": 83.6,
+   "n_words": 33
+  }
+ }
+}

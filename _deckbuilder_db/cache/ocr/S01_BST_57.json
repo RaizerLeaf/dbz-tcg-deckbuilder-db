@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_57",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/57_Saiyan Scouting.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN SCOUTING =: () cS?\nWV",
+   "conf": 45.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4",
+   "conf": 8.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Banish after use.) ENDURANCE 4. POWER:\nChoose up to two cards from your discard pile\nand place them on the top of your Life Deck.",
+   "conf": 95.6,
+   "n_words": 25
+  }
+ }
+}

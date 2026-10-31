@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S96",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S96_Black Smoothness Drill (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SMOOTHNESS: DRILL C) sss\n[—_———_—_",
+   "conf": 56.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN : DRILL 5\noy\nENDURANCE 1. °°: Your maximum hand size\nis +1 during the Discard Step.",
+   "conf": 77.4,
+   "n_words": 18
+  }
+ }
+}

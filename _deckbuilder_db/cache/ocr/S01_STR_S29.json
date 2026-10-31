@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_STR_S29",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S29_Blue Protective Mastery.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE PROTECTIVE MASTERY () see",
+   "conf": 64.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "= MASTERY a]\nco: Your opponent needs 6 anger to advance a personality level. ’\nPOWER: You may discard a Physical Combat card from your hand to stop\nan energy attack or an Energy Combat card to stop a physical attack. If you\ndiscarded a Blue card, you may raise or lower a player's anger 1 level. =",
+   "conf": 89.5,
+   "n_words": 58
+  }
+ }
+}

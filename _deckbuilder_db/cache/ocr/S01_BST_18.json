@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_18",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/18_Black Lunge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK LUNGE > () cis",
+   "conf": 55.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2",
+   "conf": 23.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "oY «i\nENDURANCE 1. X Physical attack. DAMAGE:\nAT +4 life cards. Raise your anger 1 level.\ns | PAINT |",
+   "conf": 78.5,
+   "n_words": 21
+  }
+ }
+}

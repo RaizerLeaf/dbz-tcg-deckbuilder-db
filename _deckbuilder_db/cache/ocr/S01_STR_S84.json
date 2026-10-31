@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S84",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S84_Saiyan Sabotage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN SABOTAGE. () se4\nRy a= e",
+   "conf": 49.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 20.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "“G28 PHYSICAL COMBAT @\n*% Physical attack. DAMAGE: AT stages.\nHIT: Banish a Setup or Drill.",
+   "conf": 81.1,
+   "n_words": 16
+  }
+ }
+}

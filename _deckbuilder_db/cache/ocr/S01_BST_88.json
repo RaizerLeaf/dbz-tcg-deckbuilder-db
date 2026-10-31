@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_88",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/88_Namekian Targeted Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN TARGETED..STRIKE () UBS\n‘ ’ q",
+   "conf": 48.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n\n1\n347\n,",
+   "conf": 30.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "a a\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: You may use the effect of\na Dragon Ball in play. If you do, banish this\ncard after use.",
+   "conf": 88.0,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_62",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/62_Namek Dragon Ball 5.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEK DRAGON BALL 5 () _—\nyy \\ i \\",
+   "conf": 66.6,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "SY WA |\nSOs\n7 Me i DRAGON BALL\nGain 5 stages. Raise your\nbeta anger 1 level. Draw a card.\nVa Rejuvenate 1.",
+   "conf": 73.2,
+   "n_words": 24
+  }
+ }
+}

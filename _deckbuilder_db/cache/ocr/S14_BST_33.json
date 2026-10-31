@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_33",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/33_Cataclysmic Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CATACLYSMIC BLAST )UR33\n\\ yA =] ere",
+   "conf": 72.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(aaa 1)\n\n(Villains only.) Ome\nXX 2: Energy attack.\n\nAllies lose all effects this combat. Destroy an Ally.\nDAMAGE: 3 life cards.\nHIT: Shuffle into your Life Deck after use.\n\n(Banish after use.)\n\n|",
+   "conf": 88.2,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P46",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P46_Tug of War.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TUG OF WAR =) Pag\nnee RS Ae",
+   "conf": 60.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(aa =i\n(When this card is discarded Ome\nor destroyed from your Life Deck,\nbanish an Ally.)\nPOWER: Banish an Ally. Lower your opponent’s\nanger 2. Shuffle into your Life Deck after use.\na",
+   "conf": 86.6,
+   "n_words": 34
+  }
+ }
+}

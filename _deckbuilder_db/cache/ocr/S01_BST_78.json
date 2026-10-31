@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_78",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/78_Black Swirl.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SWIRL () we\nZe",
+   "conf": 60.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n7\n4",
+   "conf": 7.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "-_ - - a . —\naN ; ENERGY COMBAT '\nY\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 4 life cards. Name a\ncard. Your opponent cannot play that card\nfor the remainder of combat. HIT: Raise your\nanger 2 levels.",
+   "conf": 78.8,
+   "n_words": 44
+  }
+ }
+}

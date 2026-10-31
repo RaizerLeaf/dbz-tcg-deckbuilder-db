@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S60",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S60_Red Energy Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED ENERGY BLAST. () Sco\n~ > 1 am Co",
+   "conf": 45.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "OY P\\d/ pm\nOf ENERGY COMBAT _ pf\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. Raise your anger 1 level. Banish\na Drill or Ally.\na | PAM IMI |",
+   "conf": 71.8,
+   "n_words": 33
+  }
+ }
+}

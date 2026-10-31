@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S13",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S13_Krillin - Ready.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "KRILLIN\n1 READY y Sis\n@ Annn",
+   "conf": 72.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4,000\n\n3,600\n\n3,200\n\n2,800\n\n2,400\n\n7 2,000\n1,600\n1,200\n\n800\n\n400\n\n0",
+   "conf": 84.8,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "° : 800\n\n” 400\n0\n\na ~ “ os\n; X POWER: Energy attack costing 2 stages.\niB. DAMAGE: 4 life cards. The next time a card is\n_ * discarded from a hand this combat, use a critical\n, damage effect and raise your anger 2 levels.\n___af BS}",
+   "conf": 76.9,
+   "n_words": 51
+  }
+ }
+}

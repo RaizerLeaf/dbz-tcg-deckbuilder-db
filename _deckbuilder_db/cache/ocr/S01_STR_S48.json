@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S48",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S48_Orange Excavation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE EXCAVATION C) saa",
+   "conf": 67.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ">». 7 =\n9 (Banish after use.) POWER: Rejuvenate 3\nDrills from your discard pile. Draw the bottom\ncard of your discard pile.",
+   "conf": 87.8,
+   "n_words": 23
+  }
+ }
+}

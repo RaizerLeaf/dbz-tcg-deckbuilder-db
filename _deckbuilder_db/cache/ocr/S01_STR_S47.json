@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S47",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S47_Namekian Silencing.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN SILENCING () S47\n—— _",
+   "conf": 54.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(If this card is Rejuvenated, your Dragon\nBalls cannot be captured this combat.)\nPOWER: Your opponent may not play Events\nthis combat.\n= | PAM IMI |",
+   "conf": 85.5,
+   "n_words": 27
+  }
+ }
+}

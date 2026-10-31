@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_129",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/129_Blue Terror.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE TERROR () mize\nza ed _ar",
+   "conf": 40.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "24. ENERGY COMBAT\n(Limit 1 per deck. Banish after use.) X: Energy\nattack costing 2 stages. DAMAGE: 3 life cards.\nSearch your Life Deck for a non-Dragon Ball\n\ncard and place it into your hand.\n= | PAM IMI |",
+   "conf": 85.0,
+   "n_words": 40
+  }
+ }
+}

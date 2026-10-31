@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_113",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/113_Overpowering Attack (Errata).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ ——_—.. —\n(OVERPOWERING ATTACK ) W113",
+   "conf": 54.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3",
+   "conf": 53.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "“. ENERGY COMBAT\ny\nXX Energy attack costing 2 stages. DAMAGE:\n5 life cards. Search your Life Deck or discard\npile for an Ally and place it into play at 5\nstages above 0.\n(Limit 1 per deck.)",
+   "conf": 88.2,
+   "n_words": 38
+  }
+ }
+}

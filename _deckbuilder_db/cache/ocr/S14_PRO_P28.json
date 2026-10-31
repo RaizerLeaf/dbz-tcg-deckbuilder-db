@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_PRO_P28",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P28_Black Mischievous Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK MISCHIEVOUS DRILL a P28 |",
+   "conf": 88.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Limit 1 per deck.)\nco: Whenever your opponent plays a Setup or Drill, you\ndestroy the top 4 cards of your Life Deck. If you de\nbanish that Setup or Drill.",
+   "conf": 94.3,
+   "n_words": 31
+  }
+ }
+}

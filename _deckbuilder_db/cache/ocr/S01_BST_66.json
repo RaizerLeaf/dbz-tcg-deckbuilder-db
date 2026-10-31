@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_66",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/66_Captain Ginyu - Body Change.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "3 CAPTAIN GINYU. ... —_\nBODY CHANGE ms () USS\nLEVEL ee —",
+   "conf": 58.1,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "175,000\n150,000\n125,000\n100,000\n80,000\n60,000\n40,000\n20,000\n10,000\n5,000\n\n0",
+   "conf": 95.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| 2U,U00\n10,000\n» - \\ f 5,000\n00: Your “Ginyu Force” Allies may make actions regardless of\nyour MP's power stage and they cannot be discarded. All of your\nattacks deal +2 life cards of damage.\n| PAMIME|",
+   "conf": 81.0,
+   "n_words": 39
+  }
+ }
+}

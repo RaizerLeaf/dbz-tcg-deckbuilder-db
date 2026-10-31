@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S114",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S114_Namekian Double Palm Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( NAMEKIAN DOUBLE PALM.-BURST () Sila\n- 7 A ; f",
+   "conf": 43.4,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n3\n12,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "a. %,. ENERGY COMBAT o>\n(If this card is Rejuvenated, gain 2 stages.)\n~%X Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: While you control 4 or less\nDragon Balls, your Dragon Balls cannot be\ncaptured this combat.",
+   "conf": 86.7,
+   "n_words": 40
+  }
+ }
+}

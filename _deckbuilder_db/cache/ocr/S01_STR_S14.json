@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S14",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S14_Krillin - Energetic.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "2 KRILLIN )\nENERGETIC ) S14",
+   "conf": 54.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "21,000\n19,000\n17,000\n15,000\n13,000\n11,000\n1 9,000\n7,000\n5,000\n3,000\n0",
+   "conf": 80.2,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "- , 5,000\nCc 3,000\na . 0\n2 POWER: Energy attack costing 3 stages.\n| DAMAGE: 4 life cards. HIT: Your opponent\ndiscards a card from his hand.\n> UB an",
+   "conf": 77.0,
+   "n_words": 32
+  }
+ }
+}

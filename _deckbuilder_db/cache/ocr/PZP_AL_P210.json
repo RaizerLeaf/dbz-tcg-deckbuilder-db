@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P210",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P210_Cell Jr. - Unrelenting.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 Sea IR.\nLEVEL | UNRELENTING C) P210",
+   "conf": 72.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n0",
+   "conf": 58.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "on ~ = 30,000\n. >\n| = ai 10,000\n(This personality cannot gain stages.)\nPOWER: XX Physical attack.\nAllies you control cannot perform\nattacks this combat.\n\nDAMAGE: 3+X stages. X=the number DISCLAIMER: Dragan Ball, Dragon\n__ of Allies in play with “Cell Jr.” in the title. ae ll Sever a al ouned\n| HIT: Shuffle all Allies you control with “Cell JaEkieaeananerpaan\n| Jr.” in the title into their owner's Life Deck. lar eteriahvran purpose ony Plesse",
+   "conf": 76.7,
+   "n_words": 78
+  }
+ }
+}

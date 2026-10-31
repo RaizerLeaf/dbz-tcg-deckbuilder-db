@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_144",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/144_Red Observation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED OBSERVATION. () aiaa",
+   "conf": 61.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 12.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aw : HVENT 7\ny\n(Limit 1 per deck.) POWER: Your MP pays 5\npower stages to destroy all Allies, Setups and\nDrills. Lower your MP to his 0 power stage.\nRaise your anger 1 level.",
+   "conf": 86.7,
+   "n_words": 36
+  }
+ }
+}

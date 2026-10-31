@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_155",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/155_Gohan’s Masenko.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "i ay Fey Ee\n| ——_— —_—\n(GOHAN'S MASENKO--- () Riss\n| a",
+   "conf": 32.5,
+   "n_words": 13
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 6.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "2 (Banish after use.) Energy attack costing BR\n) 1 stage. DAMAGE: 2 life cards + X life cards. 3\n> X =2 times your anger level. z\niC :",
+   "conf": 74.9,
+   "n_words": 30
+  }
+ }
+}

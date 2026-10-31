@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_38",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/38_Orange Defensive Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE DEFENSIVE BLAST C) cae",
+   "conf": 63.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "069\n,",
+   "conf": 16.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ian | 4\n=< : SCNERGY COMBAT 7\n~ 4\n*%X Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: For the remainder of combat,\ncards in your Life Deck without Endurance\ngain “Endurance 1.”",
+   "conf": 80.3,
+   "n_words": 36
+  }
+ }
+}

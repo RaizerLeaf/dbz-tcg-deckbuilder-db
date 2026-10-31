@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_42",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/42_Orange Refocus.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE REFOCUS ©» () cas",
+   "conf": 48.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n4\n,",
+   "conf": 12.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "S ENDURANCE 1. % Stops a physical attack.\nRaise your anger 1 level. You may search your\n: discard pile for a Drill and place it into play.",
+   "conf": 85.8,
+   "n_words": 28
+  }
+ }
+}

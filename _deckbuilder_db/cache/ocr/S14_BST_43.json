@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_43",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/43_Buu - Wild Card.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 | Buu\n: LEVEL’ WILD CARD 543",
+   "conf": 64.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2,750,000\n1,900,000\n1,400,000\n900,000\n600,000\n400,000\n200,000\n70,000\n40,000\n8,000\n0",
+   "conf": 86.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "D's o/s\n// ON Zh 40,000\nFis\n\nLJ ce. | =\n\n: 0\nco: Your Styled attacks deal +1 stage.\nPOWER: You may search your Life Deck\n\nfor a non-Styled card and banish it.\nDraw a card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.\n\nand Akira Toriyama. This card game is\n\na fan-made, non-profit project created\n\nfor entertainment purposes only. Please",
+   "conf": 85.0,
+   "n_words": 76
+  }
+ }
+}

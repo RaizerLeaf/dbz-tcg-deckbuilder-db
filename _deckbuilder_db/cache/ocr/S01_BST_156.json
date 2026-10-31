@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_156",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/156_Goku’s Kamehameha.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| ——_. —_\n(GOKU'S KAMEHAMEHA () aiss\na To WE",
+   "conf": 52.4,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "~* ae), ‘\nee . hp\naN r ENERGY COMBAT '\ny\n\nXX Energy attack costing 3 stages. DAMAGE:\n\n5 life cards. You may destroy any of your\n\nDrills. This attack deals +3 stages for each\n\nDrill destroyed.",
+   "conf": 77.8,
+   "n_words": 38
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P38",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P38_Goku - Calm.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,100,000\n1,000,000\n900,000\n800,000\n700,000\n600,000\n300,000\n150,000\n75,000\n37,500\n0",
+   "conf": 78.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "75,000\n37,500\n= (E) Cy 0\nPOWER: > Energy attack.\nYou may search your Life Deck or discard\npile for an Ally and play it. That Ally can }\nmake actions regardless of your MP’s\npower stage this combat.\nDAMAGE: 6 life cards. Bal Zrogon Bal nd Drepon\nBall S are all owned by\nHIT: If your next attack this combat is tin, han FT\nperformed by an Ally, it cannot be stopped. oe\nfor entertainment purposes only. Please",
+   "conf": 86.7,
+   "n_words": 79
+  }
+ }
+}

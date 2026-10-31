@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S56",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S56_Namekian Focused Beams.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN FOCUSED. BEAMS () sss",
+   "conf": 53.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "-_ a en\naN ji HNERGY COMBAT '\na\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 5 life cards. If this attack\nis stopped, Banish the bottom 2 cards of your\ndiscard pile. HIT: Rejuvenate 3.",
+   "conf": 82.4,
+   "n_words": 38
+  }
+ }
+}

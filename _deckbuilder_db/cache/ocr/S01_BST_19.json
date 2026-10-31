@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_19",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/19_Black Punishment (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK PUNISHMENT: () cis\nrT g",
+   "conf": 57.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "se) a\nCia ENERGY COMBAT -»\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. Raise your anger 1 level. HIT: Until\nthe start of your next turn, whenever a card is\nbanished your opponent destroys the top card\nof his Life Deck.",
+   "conf": 86.6,
+   "n_words": 44
+  }
+ }
+}

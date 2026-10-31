@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P131",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P131_Yamcha - Happy.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "Zi YAMCHA\nLEVEL HAPPY () P131\nPn ee",
+   "conf": 55.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "250,000\n230,000\n210,000\n190,000\n170,000\n150,000\n130,000\n110,000\n90,000\n70,000\n0",
+   "conf": 68.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "U,UUU\n90,000\n\\ - 70,000\nco: Your attacks cost -3 stages (to a\nminimum of 0) and deal +3 life cards.\nPOWER: > Energy attack. G3\nDAMAGE: 4 life cards.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 89.7,
+   "n_words": 69
+  }
+ }
+}

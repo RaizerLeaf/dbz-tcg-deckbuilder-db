@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S33",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S33_Namekian Concentration.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN CONCENTRATION () sss",
+   "conf": 41.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "i 4\n(Banish after use.) % Power: Use at the\nbeginning of your Rejuvenation Step if you did\nnot declare combat. Rejuvenate 4.\nroa | PAM IMT |",
+   "conf": 81.7,
+   "n_words": 28
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S134",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S134_Black Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK STRIKE eo () sis4",
+   "conf": 66.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n37\n4\n44 ,",
+   "conf": 5.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "‘24;,., PAYSICAL COMBAT mf\n~% Physical attack. DAMAGE: AT +4 stages.\nChoose a random card from your opponent's\nhand. Your opponent shuffles that card into his\n\nLife Deck and draws a card.\n= | PAMIMI",
+   "conf": 85.8,
+   "n_words": 35
+  }
+ }
+}

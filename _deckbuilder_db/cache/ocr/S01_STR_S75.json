@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S75",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S75_Blue Round Throw.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SLU i ROUND WHR: C) S7S\nSEAS GE wt al GY 7",
+   "conf": 28.9,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(4, PAYSICAL COMBAT »\n(You may play this card to stop an energy\nattack instead of as an attack.) XX Physical\nattack. DAMAGE: AT +5 stages. Lower your\n\nopponent's anger 1 level.\n- | PAMIMI",
+   "conf": 83.1,
+   "n_words": 35
+  }
+ }
+}

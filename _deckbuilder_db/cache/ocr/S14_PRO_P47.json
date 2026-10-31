@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P47",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P47_Unleashed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UNLEASHED () P47\nVW) ° ae",
+   "conf": 42.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "0\n2\n3\n1\n,1,\n1,",
+   "conf": 23.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ") (You cannot win by MPPV if you\nuse this card.)\n\nPOWER: Search your Life Deck for a card that can attach\nto your MP and place it into play attached. If your MP has a\ncard attached to it, you may advance or lower your MP 1 level.\nIf your opponent cannot win by MPPV, destroy any number\nof cards attached to your MP. Lower your opponent’s MP\nlevel equal to the number of cards destroyed this way.\n(Banish after use.)",
+   "conf": 94.1,
+   "n_words": 82
+  }
+ }
+}

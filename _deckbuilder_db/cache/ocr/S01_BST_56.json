@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_56",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/56_Saiyan Pinpoint Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN PINPOINT BLAST €) ane",
+   "conf": 76.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PFs HCNERGY COMBAT —!\nENDURANCE 1. Energy attack costing 2\nstages. DAMAGE: 4 life cards. You may use a\n\ncritical damage effect.\n= | PAINT |",
+   "conf": 77.9,
+   "n_words": 26
+  }
+ }
+}

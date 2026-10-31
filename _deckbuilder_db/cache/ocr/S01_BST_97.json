@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_97",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/97_Red Escape.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED ESCAPE ee () Ue?",
+   "conf": 47.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "AY i ON\nae - ENERGY COMBAT\n\n4\n\n(You cannot win by MPPV the turn you\n\nplay this card.) YW Stops an energy attack.\n\nAdvance your MP one personality level.\n\nLower your MP one personality level at the\nend of combat.",
+   "conf": 84.3,
+   "n_words": 41
+  }
+ }
+}

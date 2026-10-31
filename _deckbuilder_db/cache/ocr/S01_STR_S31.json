@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S31",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S31_Black Power Up.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK POWER UP: () ssi\n-, yw ————- CUT",
+   "conf": 43.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "9",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "POWER: Raise a personality to its highest\npower stage. You may end combat.\n= | PAM IMI |",
+   "conf": 83.5,
+   "n_words": 18
+  }
+ }
+}

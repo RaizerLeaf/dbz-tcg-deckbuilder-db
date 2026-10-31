@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S55",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S55_Namekian Overhead Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[NAMEKIAN OVERHEAD: BLAST () sss",
+   "conf": 55.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 10.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "yl ae\n= FA\naN : HNERGY COMBAT '\na\n(If you banish this card for Endurance,\nyour Dragon Balls cannot be captured this\ncombat.) ENDURANCE 1. Energy attack\ncosting 2 stages. DAMAGE: 4 life cards. HIT:\nRejuvenate X. X = your MP's level.",
+   "conf": 82.3,
+   "n_words": 44
+  }
+ }
+}

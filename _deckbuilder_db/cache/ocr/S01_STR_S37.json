@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S37",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S37_Black Targeting Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK TARGETING BRILL () S37",
+   "conf": 76.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN ° DRILL '\n4\nco: Whenever your opponent discards a card\nfrom his hand from one of your effects, the\ncards are chosen at random. Your opponent's\nphysical attacks cost +1 stage to perform.",
+   "conf": 86.4,
+   "n_words": 35
+  }
+ }
+}

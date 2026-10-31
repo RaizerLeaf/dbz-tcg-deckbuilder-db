@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_09",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/09_Tenshinhan - Returned.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "TENSHINHAN |...\nRETURNED ae () cs\nLEVEL eS S",
+   "conf": 53.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "95,000\n80,000\n65,000\n50,000\n35,000\n20,000\n5,000\n4,000\n\n3,000\n\n2,000\n\n0",
+   "conf": 77.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "E 4,UUU\nA\nQJ are\n; ot . 2,000\n|\n0\nGlRy\n(Heroes only.) POWER: Energy attack costing 2 stages.\nDAMAGE: 3 life cards. HIT: Draw a card.",
+   "conf": 70.5,
+   "n_words": 28
+  }
+ }
+}

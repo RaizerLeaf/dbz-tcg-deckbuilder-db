@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S18",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S18_Frieza - Transformed.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "FRIEZA\n\n_ TRANSFORMED ie) sis }\nLEVEL | \\e\n\nI} i“! raannn",
+   "conf": 53.6,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "599,000\n359,000\n199,000\n99,000\n79,000\n4 59,000\n39,000\n19,000\n9000\n900\n0",
+   "conf": 63.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "om. >< POWER: Discard a card from your hand to\n| Lo perform the last attack your opponent used\noy this combat. That attack deals an additional +2\n[ stages of damage.",
+   "conf": 81.0,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_PRO_P49",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P49_Blue Charging Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE CHARGING DRILL a pag |",
+   "conf": 82.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "= gm \\ Zz\nPOWER: Discard a card from your hand to perform\nStyled energy attack costing 2 stages\n(0) and dealing 4 life cards.",
+   "conf": 88.4,
+   "n_words": 25
+  }
+ }
+}

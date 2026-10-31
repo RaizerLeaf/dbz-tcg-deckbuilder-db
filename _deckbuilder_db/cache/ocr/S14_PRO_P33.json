@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P33",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P33_Blue Swift Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SWIFT BLOCK ) P33\n| A wa k_ |",
+   "conf": 55.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(@29)FHYsICAL ComMBAT\nStops a physical attack.\nYou may discard a card from your hand to\nperform a copy of that attack for your next action.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, Non-profit",
+   "conf": 90.9,
+   "n_words": 56
+  }
+ }
+}

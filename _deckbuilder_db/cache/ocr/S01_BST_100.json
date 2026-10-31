@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_100",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/100_Red Power Punch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘(reo Power BUNCH: @) uco\nSay UO",
+   "conf": 30.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Nae le:\naw : PHYSICAL COMBAT\ny\nENDURANCE 2. X Physical attack. DAMAGE:\nAT +3 stages. HIT: Search your Life Deck for a\nStyled Drill and place it into play.",
+   "conf": 81.2,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_63",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/63_Namek Dragon Ball 6.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEK DRAGON BALL 6 () uss",
+   "conf": 80.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 9.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "“<e\nA _\n| « iy ORAGON BALL\n| oo: Your MP's PUR is +3.\nYour opponent's attacks deal\n* -2 stages of damage.\nSee",
+   "conf": 70.0,
+   "n_words": 25
+  }
+ }
+}

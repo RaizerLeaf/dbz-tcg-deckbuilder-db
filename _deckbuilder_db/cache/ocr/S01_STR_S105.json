@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S105",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S105_Blue Rest.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE REST: C) S105\n——_ _ Hn. Se",
+   "conf": 40.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "=—_— °° ° ° ° °&7&«\n2 <4 —s\nENDURANCE 2. & POWER: Prevent all\ndamage from an attack. Place at the bottom of\nyour Life Deck after use.",
+   "conf": 78.3,
+   "n_words": 29
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_102",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/102_Saiyan Domination.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN DOMINATION () W102\n> Vim 2",
+   "conf": 67.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n4\n,\n4\n,\n4",
+   "conf": 15.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "V2. ENERGY COMBAT mf\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. If the personality performing\nthis attack has a higher power level than the\ndefending personality, your opponent cannot\nplay Events this combat.",
+   "conf": 87.8,
+   "n_words": 36
+  }
+ }
+}

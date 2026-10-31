@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P10",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P10_Confrontation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "¢ ONFRONTATION® 20 © =\nx \\\\ Bae \"CO",
+   "conf": 34.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n2",
+   "conf": 34.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "4 (Heroes only.) POWER: Look at your Be\nopponent's hand and choose a card. Your 9\n5 opponent shuffles that card into his Life Deck. jig",
+   "conf": 77.8,
+   "n_words": 26
+  }
+ }
+}

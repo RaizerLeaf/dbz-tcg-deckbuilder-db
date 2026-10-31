@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_77",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/77_Black Swerve.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SWERVE > () us7\nan. \\ ee",
+   "conf": 38.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n9\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "£4, PAYSICAL COMBAT\nXX Physical attack. DAMAGE: AT +3 stages.\nChose up to two Setups in play. Search your\nopponent's Life Deck for one copy of each and\ndestroy them.\ns PAM IMT",
+   "conf": 79.6,
+   "n_words": 33
+  }
+ }
+}

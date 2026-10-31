@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_10",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/10_Blue Punishment.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE PUNISHMENT C) R10",
+   "conf": 73.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "0\n37\n2\n,",
+   "conf": 3.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(QED) PHYSICAL COMBAT\na (This attack is considered a copied attack.\nIf this card is destroyed from your Life Deck by one of your\neffects, you may banish it to lower your opponent's anger 2.)\nXX 1: Physical attack\nDestroy the top 2 cards of your Life Deck.\nDAMAGE: 1+ X life cards. X= the number of cards in\nyour discard pile with “copy” or “copied” in the\ntext-box to a maximum of 9.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-mada, non-profit",
+   "conf": 90.6,
+   "n_words": 107
+  }
+ }
+}

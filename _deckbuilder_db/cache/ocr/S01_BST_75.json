@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_75",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/75_Black Barrage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK BARRAGE. (ws\nwe 4",
+   "conf": 48.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n\n7 ,\n,\n\n4",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "~% Energy attack costing 3 stages. DAMAGE:\n4 life cards. HIT: Your opponent pays 5 stages\nor discards a card from his hand.\ns PAM IMT",
+   "conf": 81.1,
+   "n_words": 26
+  }
+ }
+}

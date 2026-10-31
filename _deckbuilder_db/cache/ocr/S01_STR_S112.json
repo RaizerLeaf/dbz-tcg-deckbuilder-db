@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S112",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S112_Black Energy Web.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "in TET",
+   "conf": 40.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "2\n7 3",
+   "conf": 13.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "an : HNERGY COMBAT 3\na\n% Energy attack costing 2 stages. DAMAGE: 6\nlife cards. HIT: Your opponent cannot perform\nenergy attacks for the remainder of combat.",
+   "conf": 80.0,
+   "n_words": 28
+  }
+ }
+}

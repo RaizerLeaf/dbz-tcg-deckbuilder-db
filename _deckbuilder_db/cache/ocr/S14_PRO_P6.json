@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P6",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P6_Gohan - Mystic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN )\n, - MYSTIC y -G",
+   "conf": 65.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7,000,000\n4,000,000\n1,500,000\n900,000\n700,000\n\n7 900,000\n200,000\n100,000\n90,000\n10,000\n\n0",
+   "conf": 91.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "/ Ye 50,000\n=: oo: Your Styled attacks deal +1 stage. -\nNa = % POWER: Use after you Rejuvenate during combat. ae\nGain 4 stages.\nPOWER: > Physical attack. a\nRejuvenate 2. Raise your anger 1. es\n{ 4 DAMAGE: 6 stages. we",
+   "conf": 75.3,
+   "n_words": 44
+  }
+ }
+}

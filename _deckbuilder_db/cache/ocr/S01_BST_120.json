@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_120",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/120_Vegeta’s Anger.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(VEGETA'S ANGER () W120\nim a |",
+   "conf": 40.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "vel 4 | N\\ ——~e\n\naN cf EVENT '\n4“\n(You may have only one “Vegeta’s Anger”\nattached.) | POWER: Attach to your MP.\nDraw a card. °°: While attached, your\nMP is considered to have a higher power\nlevel than the defending personality for\n\nyour card effects.",
+   "conf": 81.6,
+   "n_words": 48
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_109",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/109_Blinding Energy Move.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "euinor NG ENERGY: MOVE © ey",
+   "conf": 57.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n\n4\n\n, 4\n7",
+   "conf": 19.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "\" aed \\\naN f ENERGY COMBAT '\ny\n(Limit 2 per deck. You must banish the top 2\ncards of your Life Deck to play this card.)\nAEnergy attack. DAMAGE: 3 life cards.\nAt the beginning of the next action this\ncombat, end combat.",
+   "conf": 83.9,
+   "n_words": 45
+  }
+ }
+}

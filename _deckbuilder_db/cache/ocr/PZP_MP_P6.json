@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P6",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P6_Gohan - Resilient Child.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN PE\nRESILIENT CHILD",
+   "conf": 88.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3,500\n\n3,000\n2,500\n\n2,000\n\n5 1,500\n1,000\n800\n600\n\n400\n\n200\n0",
+   "conf": 91.6,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "Reser! ti ——————— DUU\n> — ——— 400\naie = 200\nco: When you perform a Styled attack,\nyou may destroy up to 2 cards from the top\nof your Life Deck. That attack deals +X\nlife cards of damage. X= the number of |\ncards destroyed.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.8,
+   "n_words": 86
+  }
+ }
+}

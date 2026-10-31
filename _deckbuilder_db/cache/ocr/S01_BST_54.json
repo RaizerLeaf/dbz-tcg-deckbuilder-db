@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_54",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/54_Saiyan Energy Toss.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“7... ENERGY COMBAT\n~% Energy attack costing 2 stages. DAMAGE:\n4 life cards. If the personality performing\nthis attack has a higher power level than\nthe defending personality, raise your anger 1\nlevel and your other attacks this combat deal\n+2 life cards of damage.\na | PAMIMT",
+   "conf": 86.4,
+   "n_words": 48
+  }
+ }
+}

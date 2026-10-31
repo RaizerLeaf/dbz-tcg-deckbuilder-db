@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S77",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S77_Namekian Elbow Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN ELBOW. STRIKE C) S77\n[i ~ &@",
+   "conf": 32.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "i, 1a 27 K\n\naN : PHYSICAL COMBAT =:\n- aed\n(If this card is Rejuvenated, lower your\nopponent's anger 2 levels.) ENDURANCE 1.\nXX Physical attack. DAMAGE: AT +4 stages.",
+   "conf": 75.3,
+   "n_words": 31
+  }
+ }
+}

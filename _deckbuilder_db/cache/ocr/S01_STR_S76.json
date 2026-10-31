@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S76",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S76_Namekian Crushing Slam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN CRUSHING:SEAM C) S76",
+   "conf": 50.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "2, PAYSICAL COMBAT ™\n(Banish after use.) ENDURANCE 2. X Physical\nattack. DAMAGE: AT +3 stages. Shuffle\nthe top 2 cards from your discard pile into\n\nyour Life Deck.",
+   "conf": 87.2,
+   "n_words": 29
+  }
+ }
+}

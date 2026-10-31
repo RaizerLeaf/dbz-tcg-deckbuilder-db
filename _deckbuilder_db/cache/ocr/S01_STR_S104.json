@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S104",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S104_Black Taunt.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK TAUNT vee () S104",
+   "conf": 65.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Banish after use.) POWER: Your opponent\n\ndestroys the top X cards of his Life Deck.\n\nX = his current anger level + 1. Your opponent\n\nshuffles his hand into his Life Deck and draws\nthe same number of cards.",
+   "conf": 94.5,
+   "n_words": 39
+  }
+ }
+}

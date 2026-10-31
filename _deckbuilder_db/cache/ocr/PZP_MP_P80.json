@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P80",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P80_Captain Ginyu - Energized.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@ CAPTAIN GINYU Pag\nLEVEL ENERGIZED\nI",
+   "conf": 74.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "125,000\n115,000\n105,000\n85,000\n65,000\n45,000\n25,000\n5,000\n\n2,500\n\n1,250\n0",
+   "conf": 86.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Dp ( or — 9,UUU\n—_ 2,500\n= 0\nPOWER: XX 2: Energy attack.\nSearch your discard pile for an Ally and\nplace it into play at 5 power stages above 0.\nRaise your anger X. X= the number of\nyour “Ginyu Force” Allies in play.\n\n| DAMAGE: 4 life cards. Sal 2 Organ Bl Tan ren\n' a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 83.0,
+   "n_words": 69
+  }
+ }
+}

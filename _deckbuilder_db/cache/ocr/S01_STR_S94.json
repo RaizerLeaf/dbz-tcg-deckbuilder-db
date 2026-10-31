@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S94",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S94_Red Blaze.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| RED BLAZE ee () ssa\nee eee 6 ee ee ee",
+   "conf": 42.7,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "1,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "os\nPOWER: Raise your anger 1 level. Rejuvenate\n2. You may use a Critical damage effect.",
+   "conf": 93.2,
+   "n_words": 16
+  }
+ }
+}

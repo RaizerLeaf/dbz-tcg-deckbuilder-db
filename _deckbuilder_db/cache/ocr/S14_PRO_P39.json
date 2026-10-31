@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P39",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P39_Red Observation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED OBSERVATION C) P39",
+   "conf": 75.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n\n4 ,\n00\n1,",
+   "conf": 8.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "[( He) =VENT\n(Limit 1 per deck.)\nPOWER: Your MP pays 5 stages to destroy all\nAllies, Setups, and Drills. Set your MP’s power\nstage to 0. Raise your anger 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.0,
+   "n_words": 62
+  }
+ }
+}

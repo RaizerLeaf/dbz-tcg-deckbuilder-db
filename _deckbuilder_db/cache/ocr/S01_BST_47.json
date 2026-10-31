@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_47",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/47_Red Duck.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED DUCK — () ca7",
+   "conf": 52.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“7a PHYSICAL COMBAT @\nENDURANCE 2. © Stops a physical attack.\nRejuvenate X. X = your current anger level.\n‘ | PAIR |",
+   "conf": 79.3,
+   "n_words": 23
+  }
+ }
+}

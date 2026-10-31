@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_79",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/79_Blue Blockade.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BLOCKADE () uve",
+   "conf": 61.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| fy\nPOWER: Stops a physical or energy attack.\n= Brin",
+   "conf": 75.0,
+   "n_words": 11
+  }
+ }
+}

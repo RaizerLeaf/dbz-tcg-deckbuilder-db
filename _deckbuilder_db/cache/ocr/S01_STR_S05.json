@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S05",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S05_Goku - Protector of Earth.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "GOKU\n1 PROTECTOR OF EARTH i) ss\n\\ anni",
+   "conf": 73.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "9,001\n8,000\n7,000\n6,000\n5,000\n\n5\n4,000\n3,000\n2,000\n1,000\n500\n0",
+   "conf": 76.1,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "4 le 1,000\nXX POWER: Energy attack costing 2 stages.\n| DAMAGE: 3 life cards. HIT: You may discard a |\ncard from your hand to search your Life Deck\n| for a Styled Drill and place it into play.\nU\nj | PARTIE |",
+   "conf": 88.6,
+   "n_words": 45
+  }
+ }
+}

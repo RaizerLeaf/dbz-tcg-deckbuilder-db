@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S123",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S123_Black Speedy Dodge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SPEEDY DODGE () S123\n—_",
+   "conf": 68.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN . SHNERGY COMBAT '\n-\nYY Stops an energy attack. You may discard a\ncard from your hand. If you do, your opponent\ndiscards a card from his hand.",
+   "conf": 82.3,
+   "n_words": 30
+  }
+ }
+}

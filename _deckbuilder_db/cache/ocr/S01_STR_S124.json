@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S124",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S124_Blue Defensive Stance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE DEFENSIVE STANCE () si2a",
+   "conf": 69.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ". : ENERGY COMBAT '\ny\nENDURANCE 1. Stops an energy attack.\nRaise or lower a player's anger 1 level.",
+   "conf": 78.5,
+   "n_words": 20
+  }
+ }
+}

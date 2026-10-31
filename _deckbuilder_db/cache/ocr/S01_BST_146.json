@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_146",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/146_Saiyan Acute Rapid Slam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN ACUTE RAPID. SLAM () A146\n=~",
+   "conf": 45.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n3, ,\n5,",
+   "conf": 9.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "~ AR A\naN ’ PHYSICAL COMBAT\ny\nXX Physical attack. DAMAGE: AT +5 stages.\nFor the remainder of combat, your Physical\nCombat and Energy Combat attacks that\nare not banished after use are placed at the\nbottom of your Life Deck after use.",
+   "conf": 86.0,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S41",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S41_Orange Energy Dan Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE ENERGY DAN--DRILL C) S41\nPO",
+   "conf": 40.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1 ,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a a\nos DRILL |\n-\nco: Once per turn after you perform a\nsuccessful energy attack, you may search\nyour opponent's Life Deck for a card\nand destroy it.",
+   "conf": 82.3,
+   "n_words": 30
+  }
+ }
+}

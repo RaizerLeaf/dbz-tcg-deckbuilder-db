@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S42",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S42_Orange Steady Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "© RANGE STEADY DRILL © sae |",
+   "conf": 69.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n10",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a a pi\nS (Use only if your opponent has not performed\na successful energy attack this combat.)\nPOWER: Stops an energy attack.",
+   "conf": 85.0,
+   "n_words": 23
+  }
+ }
+}

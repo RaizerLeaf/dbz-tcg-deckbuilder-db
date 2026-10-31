@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S109",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S109_Saiyan Preparation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SALYAN PREPARATION () S109\n>",
+   "conf": 65.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 89.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "\\\nCB Vine —VONT _ ae |\n(Banish after use.) POWER: Look at top card\nof your Life Deck. You may place that card at\nthe bottom of your Life Deck. Draw a card.",
+   "conf": 85.5,
+   "n_words": 34
+  }
+ }
+}

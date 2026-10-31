@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P48",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P48_Devastating Blow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEVASTATING BLOW ?",
+   "conf": 63.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "4\n\n347\n2\n,",
+   "conf": 1.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(29) PHYSICAL ComMBAT\n. * Physical attack.\nRaise your anger 1. Lower your opponent’s anger 2.\nBanish 3 cards from your opponent's discard pile.\nDAMAGE: AT +1 stage.",
+   "conf": 85.5,
+   "n_words": 28
+  }
+ }
+}

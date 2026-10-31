@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_118",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/118_Krillin’s Solar Flare.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(KRILLIN'S SOLAR FLARE () W118\nee",
+   "conf": 57.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“7 ENERGY COMBAT _\n4\nXX Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: Your opponent passes for his\nnext action this turn.",
+   "conf": 80.9,
+   "n_words": 25
+  }
+ }
+}

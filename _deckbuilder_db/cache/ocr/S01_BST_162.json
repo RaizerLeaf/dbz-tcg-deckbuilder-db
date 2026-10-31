@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_162",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/162_Villainous Visage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘ VILLAIN QUS VISAGE: & vase ”\na. ey) SISA, ZZ WE",
+   "conf": 41.3,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“ ‘ SeTUe a\n| (Villains only. Limit 1 per deck. Banish\nafter use.) *% POWER: Use after you take\ndamage from an attack. Your opponent\n. destroys the top X cards of his Life Deck.\n7 X = twice the amount of life card damage that\n| attack dealt.",
+   "conf": 85.7,
+   "n_words": 50
+  }
+ }
+}

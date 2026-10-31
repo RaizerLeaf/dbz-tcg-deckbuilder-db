@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_42",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/42_Bibidi - Progenitor.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "] BIBIDI\nLEVEL PROGENITOR () U42\n= a COP a |",
+   "conf": 54.2,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "1,000\n800\n\n600\n400\n200\n7 100\n50\n25\n10\n5\n\n0",
+   "conf": 93.9,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "YZ (| / = 29\n? 10\n) 4)\nco: If your MP has €@, your attacks deal\n+1 life card. Attacks performed by\npersonalities with 9 deal +1 life card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.4,
+   "n_words": 70
+  }
+ }
+}

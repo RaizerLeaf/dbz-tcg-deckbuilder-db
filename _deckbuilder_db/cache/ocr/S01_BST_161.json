@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_161",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/161_Heroic Plan.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ LL  — —\n(HEROIC PLAN es () VARIG]",
+   "conf": 40.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",2\n7",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "23 (Heroes only. Limit 1 per deck. Banish after BS\n} use.) POWER: Search your Life Deck fora IM\n; Setup, Drill, or Ally and place it into play.",
+   "conf": 84.5,
+   "n_words": 29
+  }
+ }
+}

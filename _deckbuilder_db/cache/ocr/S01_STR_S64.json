@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S64",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S64_Black Swipe.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK SWIPE () sea\n! —",
+   "conf": 51.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Cia ENERGY COMBAT of\nENDURANCE 2. ‘WStops an_ energy\nattack. Banish 3 cards’ from your\n\nopponent's discard pile.\n= | PAMIMT",
+   "conf": 73.7,
+   "n_words": 21
+  }
+ }
+}

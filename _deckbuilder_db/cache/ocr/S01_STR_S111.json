@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S111",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S111_Black Interceptor Barrage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK INTERCEPTOR BARRAGE () Sill\n: . _",
+   "conf": 46.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "3,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "SO.) ENERSYSCOMBAT ot\nENDURANCE 1. Energy attack costing 2\nstages. DAMAGE: 4 life cards and 4 stages.\n\nHIT: Banish 3 cards from a discard pile.",
+   "conf": 83.8,
+   "n_words": 25
+  }
+ }
+}

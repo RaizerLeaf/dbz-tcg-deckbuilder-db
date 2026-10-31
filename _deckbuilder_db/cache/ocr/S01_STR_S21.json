@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S21",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S21_Piccolo - Stoic.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "_ \\ ©&\nPI L\n1 a\n= 3s Q nnn",
+   "conf": 53.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "8,500\n\n7,000\n\n5,500\n\n4,500\n\n3,500\n\n2,200\n1,700\n1,300\n\n1,100\n\n900\n\n0",
+   "conf": 95.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "1,100\n[=] 900\nS 0\n» POWER: Energy attack costing 1 stage.\n| DAMAGE: 3 life cards. Rejuvenate 1. |\n: 3) 4\n| PARIIE |",
+   "conf": 77.4,
+   "n_words": 26
+  }
+ }
+}

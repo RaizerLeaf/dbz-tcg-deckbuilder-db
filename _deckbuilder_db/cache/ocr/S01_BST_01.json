@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_01",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/01_Namek Dragon Ball 1.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEK DRAGON BALL 1 () C1",
+   "conf": 78.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ") oan\nPy DRAGON BALL\noo: Your other Dragon Balls\n~ cannot be captured. Your\nTo attacks deal +1 life card of\n. * damage.",
+   "conf": 81.0,
+   "n_words": 25
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S66",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S66_Blue Avoidance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE AVOIDANCE? () sss",
+   "conf": 60.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "YW Stops an energy attack. You may discard a\ncard from your hand to perform a copy of that\nattack for your next action.\n\n= | PAM IMI |",
+   "conf": 85.3,
+   "n_words": 29
+  }
+ }
+}

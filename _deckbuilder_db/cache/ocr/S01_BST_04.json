@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_04",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/04_Trunks - Inquisitive.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "TRUNKS —\n1 INQUISITIVE et () C4\nLEVEL ee <\n- ——~_ gf",
+   "conf": 52.7,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "100,000\n75,000\n50,000\n25,000\n\n10,000\n5,000\n2,500\n1,500\n\n1,000\n\n500\n\n0",
+   "conf": 86.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "< 1,9UU0\nue, 500\nc &\n\\ ewe”\noo : When entering combat, look at the top 4 cards of your Life\nDeck and put them back in any order. Banish the top card of your\nopponent's discard pile.",
+   "conf": 83.1,
+   "n_words": 39
+  }
+ }
+}

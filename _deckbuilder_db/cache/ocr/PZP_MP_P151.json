@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P151",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P151_Mercenary Tao - Old Foe.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 | MERCENARY TAO P15]\nLEVEL | OLD FOE",
+   "conf": 74.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "187\n177\n\n167\n\n157\n5 147\n137\n127\n117\n\n107\n\n0",
+   "conf": 87.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "\\\n| 107\nco: Whenever an Ally is discarded or\ndestroyed from your opponent's Life Deck,\nyou may raise your anger 1. Whenever one\nof your attacks is stopped, Rejuvenate 1. }\nPOWER: Shuffle a card from your hand\ninto your Life Deck to draw a card. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 92.7,
+   "n_words": 86
+  }
+ }
+}

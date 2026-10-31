@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_26",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/26_Blue Draining Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE DRAINING BLAST () ces",
+   "conf": 76.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4 ,\n\n,\n,\n\n,",
+   "conf": 12.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "\\/_ ‘) <a | ‘a\nnw c ENERGY COMBAT\n\n-\n\nEnergy attack. Damage: 4 life cards. The\npersonality performing this attack may pay\nany amount of stages. For every 2 stages\npaid, this deals an additional +1 life card\n\nof damage.",
+   "conf": 76.8,
+   "n_words": 41
+  }
+ }
+}

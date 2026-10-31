@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_104",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/104_Saiyan Multi Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN MULTI-BLAST () W104\n, ij ™",
+   "conf": 64.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Cis ENERGY COMBAT of\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 3 life cards. HIT: Draw\na card.\n= | PAIR |",
+   "conf": 79.3,
+   "n_words": 24
+  }
+ }
+}

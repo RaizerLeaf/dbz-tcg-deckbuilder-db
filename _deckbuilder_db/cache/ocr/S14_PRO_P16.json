@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P16",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P16_Buu - Destructive.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU\n3 DESTRUCTIVE | 716)",
+   "conf": 63.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "6,000,000\n4,200,000\n2,500,000\n1,800,000\n1,400,000\n400,000\n2\n90,000\n60,000\n0",
+   "conf": 46.5,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "co: Your attacks deal +1 stage. Your Styled attacks | Feye=\n\ngain “HIT: Rejuvenate 1.” * POWER: Use when Sy ag\n\nentering combat. Banish 2 cards from a player’s See\n\ndiscard pile. POWER: XX Physical attack. a Je\n\nUnpreventable. If stopped, banish the top 2 cards of ye\n\nLI a4 a player's Life Deck. DAMAGE: 7 stages. ey",
+   "conf": 76.0,
+   "n_words": 58
+  }
+ }
+}

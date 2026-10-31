@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P8",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P8_Gohan - Earth's Defender.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "“41 GOHAN\nEARTH'S DEFENDER m-s8\n\\ —",
+   "conf": 63.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "12,000,000\n9,800,000\n7,000,000\n3,500,000\n\n5 1,000,000\n700,000\n500,000\n300,000\n100,000\n40,000\n\n0",
+   "conf": 93.8,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "ae IN — 100,000\n=: eo: Your Styled attacks deal +2 stages and 7 i\nNa = +2 life cards. Your attacks cannot be stopped wy\nby Event cards.\nPOWER: Gain 4 stages. Rejuvenate 4. Draw a card. (aaa\nDISCLAIMER: Dragon a eee ; oe ° ous",
+   "conf": 67.9,
+   "n_words": 47
+  }
+ }
+}

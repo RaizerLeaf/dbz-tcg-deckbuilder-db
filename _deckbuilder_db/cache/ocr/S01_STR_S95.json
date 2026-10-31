@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S95",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S95_Saiyan Enraged.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(Garvan enraged @ ces\n<TR 19191 TH",
+   "conf": 45.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Banish after use.) POWER: Raise your anger\n\n2 levels. Rejuvenate the bottom 2 cards of\n\nyour discard pile. If your MP's power level is\n\nhigher than your opponent's MP's power level,\ndraw a card.",
+   "conf": 91.2,
+   "n_words": 34
+  }
+ }
+}

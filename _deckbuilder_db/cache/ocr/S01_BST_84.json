@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_84",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/84_Namekian Wish.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN WISH eu () Las\n7 a",
+   "conf": 50.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Limit 1 per deck. Banish after use.) POWER:\n\nEnd Combat. Choose X cards in your discard\n\npile and Rejuvenate them. X = the number of\nDragon Balls in play.\n\na | PAM IMT",
+   "conf": 86.8,
+   "n_words": 33
+  }
+ }
+}

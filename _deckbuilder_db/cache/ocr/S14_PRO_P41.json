@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P41",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P41_Red Combined Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED COMBINED BLAST C) P41\na",
+   "conf": 72.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(G2) ENeAGY comaaTt (ESP) |\nXX 3: Energy attack.\nRaise your anger 1. You may lower your\nanger 3. If you do, your opponent cannot play\nEvents this combat.\nDAMAGE: 6 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.1,
+   "n_words": 64
+  }
+ }
+}

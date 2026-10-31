@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S102",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S102_Red Intimidation Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED INTIMIDATION DRILL @D) =:\nee = > LR 8 75 ae",
+   "conf": 45.5,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "‘27, ORILL 4\nco: Once per turn when you deal critical\ndamage, you may draw a card.",
+   "conf": 83.8,
+   "n_words": 17
+  }
+ }
+}

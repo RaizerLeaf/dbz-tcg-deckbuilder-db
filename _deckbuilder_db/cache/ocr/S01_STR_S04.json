@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S04",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S04_Vegata - Renewed.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "VEGETA )\nGd RENEWED r) Ss4 }\n3 XN » enn ann",
+   "conf": 57.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "800,000\n700,000\n600,000\n500,000\n400,000\n\n4 300,000\n200,000\n100,000\n10,000\n1,000\n\n0",
+   "conf": 86.8,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "d  & 10,000\noA 1,000\nPOWER: Physical attack. DAMAGE: AT +6\n| stages. Lower your anger 1 level to draw a card.\nPU\nmn | PAMIMT|",
+   "conf": 80.3,
+   "n_words": 26
+  }
+ }
+}

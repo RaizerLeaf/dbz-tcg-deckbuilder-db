@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_04",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/04_Black Counter Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK COUNTER BLAST C) U4\na Aaa",
+   "conf": 70.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n4\n,",
+   "conf": 25.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Fh) ENERGY COMBAT ( L )\n= (If this card is revealed from your St\nhand by a Mastery effect, you may\ndraw a card. If you do, your opponent draws a card.)\nX% 2: Energy attack.\nYour opponent can only attack or pass in their\nnext action this combat.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent’s anger 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.6,
+   "n_words": 94
+  }
+ }
+}

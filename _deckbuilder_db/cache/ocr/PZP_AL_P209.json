@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P209",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P209_Cell Jr. - Trapped.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CELL JR.\n2, TRAPPED C) P209",
+   "conf": 77.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+   "conf": 59.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "{[- yt = 3U,UU0\nfr N 7 /\n(Oy, else le 10,000\n(This personality cannot gain stages.)\nco: While you control 1 Ally, your effects\nthat destroy cards from the top of your\nopponent’s Life Deck have that amount\nincreased by 1. If your MP is Cell, your\nopponent's attacks deal -1 life card. DISCLAIMER: Dragan Ball, Dragon\n: Bail Z, Dragon Ball GT and Dragon\n, Ball Super are all owned by\n. Funimation, Toei Animation, Fuji T.V.\n, and Akira Toriyama. This card game is\n, a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 82.4,
+   "n_words": 99
+  }
+ }
+}

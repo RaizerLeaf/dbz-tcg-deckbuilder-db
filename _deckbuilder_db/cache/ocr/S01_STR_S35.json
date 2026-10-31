@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S35",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S35_Red Burning Rage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED BURNING RAGE» () sss",
+   "conf": 81.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2",
+   "conf": 69.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Su=er ~\nPOWER: Raise your anger 1 level. Your attacks\ndeal +1 life card of damage and your opponent\n\ncannot use Endurance this combat.\n\n= | PAMIMT",
+   "conf": 87.1,
+   "n_words": 27
+  }
+ }
+}

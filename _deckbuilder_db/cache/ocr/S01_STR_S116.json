@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S116",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S116_Orange Power Point.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ RANGE POWER: BOENT — © sls",
+   "conf": 56.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ENDURANCE 3. Energy attack costing 2\nstages. DAMAGE: 6 life cards. HIT: Search\nyour Life Deck for a Styled Drill and place\n\nit into play. S",
+   "conf": 88.5,
+   "n_words": 26
+  }
+ }
+}

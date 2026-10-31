@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P89",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P89_Raditz - True Saiyan.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "LL RADITZ\nLEVEL TRUE SAIYAN () P89\n—_— wa",
+   "conf": 62.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "8,700\n4\n7,800\n6,900\n6,000\n5,100\n3\n4,200\n3,300\n2,400\n1,500\n600\n0",
+   "conf": 88.2,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "‘Dp | i 2,4UU\n1,500\nx 7, 600\nPOWER: X Physical attack.\nReveal the top 2 cards of your Life Deck.\nPlace 1 into your hand and banish the\nother. Raise your anger 1.\nDAMAGE: 1 life card. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 90.4,
+   "n_words": 77
+  }
+ }
+}

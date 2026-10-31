@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_35",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/35_Namekian Right Throw (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN RIGHT THROW () cas",
+   "conf": 76.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "m. PHYSICAL COMBAT +\ny\nENDURANCE 2. X Physical attack. DAMAGE:\nAT +3 stages. You may shuffle a Dragon Ball\nyou control back into its owner's Life Deck.\nIf you do, raise your anger 2 levels.",
+   "conf": 87.3,
+   "n_words": 36
+  }
+ }
+}

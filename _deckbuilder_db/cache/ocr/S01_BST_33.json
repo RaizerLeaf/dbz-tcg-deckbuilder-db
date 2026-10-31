@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_33",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/33_Namekian Maximum Will.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| j— =< SS — |",
+   "conf": 38.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "57 ,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "4 <\n“9° ENERGY COMBAT aq\n. “\nENDURANCE 2. Energy attack costing\n2 stages. DAMAGE: 6 life cards. You may\ndestroy up to 2 cards from the top of your Life\nDeck. For each card destroyed, lower your\nopponent's anger 2 levels.",
+   "conf": 86.5,
+   "n_words": 43
+  }
+ }
+}

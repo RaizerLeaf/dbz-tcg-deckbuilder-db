@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P100",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P100_Dr. Wheelo - Robotic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "4.) DR. WHEELO\n: ROBOTIC P100",
+   "conf": 66.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2,600\n\n2,400\n\n2,200\n\n2,000\n\n1,800\n,\n\n1,600\n\n1,400\n\n1,200\n\n1,000\n\n500\n\n0",
+   "conf": 87.6,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "3 1,200\nco: Whenever one of your effects destroys\ncards from the top of your opponent’s\nLife Deck, increase that amount by 2\nand Rejuvenate 2.\n\n‘ DISCLAIMER: Dragon Ball, Dragon\n: Ball Z, Dragon Ball GT and Dragon\n, Bail Super are all owned by\n. Funimation, Toei Animation, Fuji T.V.\n, and Akira Toriyama. This card game is\n' a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 85.7,
+   "n_words": 72
+  }
+ }
+}

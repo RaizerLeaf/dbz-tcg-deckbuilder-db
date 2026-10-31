@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S136",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S136_Namekian Pound.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN POUND. C) sisc",
+   "conf": 32.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,8\n13,",
+   "conf": 17.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "aN : PHYSICAL COMBAT °8\na\nXX Physical attack. DAMAGE: AT +3 stages.\nHIT: You may destroy up to 4 cards from the\ntop of your Life Deck. For each card destroyed,\ngain 1 stage.",
+   "conf": 85.2,
+   "n_words": 35
+  }
+ }
+}

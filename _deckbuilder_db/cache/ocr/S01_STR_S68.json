@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S68",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S68_Orange Energy Evasion.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "oranct ENERGY EVASION © =)\na Ld",
+   "conf": 56.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "\\ SD\n| YW Stops an energy attack. Rejuvenate a Drill\nfrom your discard pile to gain 4 stages.",
+   "conf": 82.3,
+   "n_words": 19
+  }
+ }
+}

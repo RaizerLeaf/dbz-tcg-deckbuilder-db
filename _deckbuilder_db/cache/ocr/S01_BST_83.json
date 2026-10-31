@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_83",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/83_Blue Shifting Maneuver.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE SHIFTING MANEUVER () UBS",
+   "conf": 73.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Z\n\n(Banish after use.) ENDURANCE 2. 0 POWER:\n\nStops a physical or energy attack. If your\n\ncurrent anger level is 3 or higher, discard after\nuse instead.",
+   "conf": 88.0,
+   "n_words": 27
+  }
+ }
+}

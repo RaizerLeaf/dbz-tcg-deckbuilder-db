@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_32",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/32_Namekian Energy Toss.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN ENERGY TOSS () cae\n\"oy",
+   "conf": 61.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n154",
+   "conf": 14.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "> li bc\naN ; =—NERGY COMBAT\n-\nEnergy attack costing 1 stage. DAMAGE:\n4 life cards. If you control 2 or more Dragon\nBalls, all other attacks you perform this\ncombat gain “HIT: Rejuvenate 1.”",
+   "conf": 80.2,
+   "n_words": 36
+  }
+ }
+}

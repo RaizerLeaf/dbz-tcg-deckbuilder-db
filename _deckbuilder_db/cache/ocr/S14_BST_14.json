@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_14",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/14_Namekian Aggressive Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN AGGRESSIVE BURST )ui4\nTE FT",
+   "conf": 56.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n,1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "@2Q) ENeARGY comaaAT (Rp)\n. % 2: Energy attack. Ory\nDamage from this attack cannot be\nmodified. If you control no Dragon Balls, Remain 1.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1. Lower your\nopponent’s anger 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Cragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card gama is a fan-mada, non-profit",
+   "conf": 86.8,
+   "n_words": 73
+  }
+ }
+}

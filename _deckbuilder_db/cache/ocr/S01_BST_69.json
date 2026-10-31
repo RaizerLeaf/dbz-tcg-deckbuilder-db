@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_69",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/69_Chi Chi - Armed and Dangerous.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "CHICHI ne _\n1 ARMED ANO DANGEROUS 70” () TES\nLEVEL ———— —",
+   "conf": 53.3,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "50\n\n45\n\n40\n\n35\n30\n25\n20\n15\n\n10\n\n5\n\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "iN To\n:\n. PUR\n(Heroes only. If your MP is Goku, Gohan, or Goten, you may use\nthis power regardless of your MP's power stage.)\n‘y POWER: Stops a physical attack.",
+   "conf": 82.5,
+   "n_words": 32
+  }
+ }
+}

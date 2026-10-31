@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S88",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S88_Namekian Knee Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN KNEE BLOCK () sea",
+   "conf": 75.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "a PHYSICAL COMBAT =~\n(If this card is Rejuvenated, raise your anger\n1 level.) ENDURANCE 2. © Stops a physical\nattack.\n= | PAMIMI",
+   "conf": 83.2,
+   "n_words": 24
+  }
+ }
+}

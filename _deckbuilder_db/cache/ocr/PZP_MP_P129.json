@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P129",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P129_Yamcha - On the Move.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@ YAMCHA\nLEVEL ON THE MOVE () P129",
+   "conf": 81.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "100,000\n90,000\n80,000\n70,000\n\n5 60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+   "conf": 91.8,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "-_> JU,UUU\n20,000\nco: Your attacks cost -1 stage (to a\nminimum of 0).\n% POWER: Use when entering combat.\nLower your opponent’s anger 1. You may\nbanish the top 2 cards of your discard pile\nto search your discard pile for a Styled DISCLAIMER: Dragon Ball, Dragon\nenergy attack and place it into your hand. a dloe undid\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.5,
+   "n_words": 81
+  }
+ }
+}

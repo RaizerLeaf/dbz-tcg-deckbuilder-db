@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P180",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P180_Dr. Wheelo - Intelligent.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "LDR. WHEELO\nLEVEL INTELLIGENT € prec",
+   "conf": 68.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "10\n9\n8\n7\n6\n7 5\n4\n4\n3\n4 2\n1\n0",
+   "conf": 90.2,
+   "n_words": 14
+  },
+  "lower": {
+   "text": "j ~ J\nS)\nPOWER: Banish “Dr. Wheelo” to choose\nan Ally, Drill, or Setup in play and shuffle\nthat card into its owner's Life Deck. AE)\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.\n\nand Akira Toriyama. This card game is\n\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 90.0,
+   "n_words": 66
+  }
+ }
+}

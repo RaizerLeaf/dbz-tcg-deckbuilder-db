@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S57",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S57_Orange Palm Blasts.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE PALM BLASTS () 357",
+   "conf": 72.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "7 a\n/.. ENERGY COMBAT ‘\n| ~%X Energy attack costing 2 stages. DAMAGE:\n4 life cards. Your opponent cannot perform an\nenergy attack in his next action.",
+   "conf": 79.8,
+   "n_words": 28
+  }
+ }
+}

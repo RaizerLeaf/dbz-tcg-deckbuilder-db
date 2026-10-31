@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S125",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S125_Blue Narrow Escape.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE NARROW ESCAPE () sies\n+",
+   "conf": 66.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ee i w\niq : ¢ Z\nmes... ENERGY COMBAT\n(Banish after use.) ENDURANCE 3. Y Stops\nan energy attack. Choose 2 Energy Combat\ncards in your discard pile and place them on\ntop of your Life Deck.",
+   "conf": 78.2,
+   "n_words": 38
+  }
+ }
+}

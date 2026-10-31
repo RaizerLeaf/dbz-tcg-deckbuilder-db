@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_29",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/29_Namekian Chop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN CHOP. () ces\n| laa a .",
+   "conf": 35.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n7",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ENDURANCE 1. X Physical attack. DAMAGE:\nAT +4 stages. HIT: Raise your anger X levels.\nX = the number of Dragon Balls you control.\n\n— | PAMIMI",
+   "conf": 90.0,
+   "n_words": 27
+  }
+ }
+}

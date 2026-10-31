@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S129",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S129_Red Energy Shield.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| RED ENERGY SHiekbDe () si2es\n, i yr 4",
+   "conf": 46.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "“Ca ENERGY COMBAT -«\n(Banish after use.) WStops an energy\nattack. Raise a _ personality to their\n\nhighest power stage.",
+   "conf": 73.7,
+   "n_words": 20
+  }
+ }
+}

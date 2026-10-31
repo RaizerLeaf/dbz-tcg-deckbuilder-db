@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P22",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P22_Piccolo - Unleshed .png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "600,000\n500,000\n400,000\n300,000\n200,000\n150,000\n100,000\n50,000\n10,000\n1,000\n0",
+   "conf": 69.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "N y |) U,UUU\nm ai 10,000\nco: Your attacks deal +2 life cards of\ndamage. Once per combat when you deal\ncritical damage, you may search your Life\nDeck for a Dragon Ball and place it into play. :\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 89.9,
+   "n_words": 79
+  }
+ }
+}

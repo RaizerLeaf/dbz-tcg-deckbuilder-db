@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P14",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P14_Gohan’s Masenko.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ ——. —\n(GOHAN'S MASENKO. C) Pia",
+   "conf": 37.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "SS (Banish after use.) Energy attack costing Bx\n1 stage. DAMAGE: 2 life cards + X life cards.\n4 X =2 times your anger level. fs",
+   "conf": 81.3,
+   "n_words": 26
+  }
+ }
+}

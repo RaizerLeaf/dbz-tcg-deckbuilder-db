@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_12",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/12_Nappa - Space Traveler.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 NAPPA tes C) Cie\n- SPACE TRAVELER ee\n: LEVEL —— _",
+   "conf": 55.9,
+   "n_words": 13
+  },
+  "stages": {
+   "text": ", 8,000\n2 7,000\n6,000\n5,000\n\n4,000\n1 3,000\n2,000\n1,000\n500\n\n250\n\n0",
+   "conf": 83.2,
+   "n_words": 14
+  },
+  "lower": {
+   "text": "” > aa 1,Q00\n> ?\n500\n\\ ae 250\ng\n(Villains only.) °°: Setups cannot be used.\nCores",
+   "conf": 59.3,
+   "n_words": 19
+  }
+ }
+}

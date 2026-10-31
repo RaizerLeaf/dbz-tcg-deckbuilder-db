@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_128",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/128_Blue Lunge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE LUNGE eles () =ize",
+   "conf": 46.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n7",
+   "conf": 13.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "\"of... PHYSICAL COMBAT\nENDURANCE 2. X Physical Attack. DAMAGE:\nAT +5 stages. Search the top 5 cards of your\nLife Deck for a Setup or Drill and place it into\nplay. Put the remaining cards at the bottom of\nyour Life Deck in any order.\na PAM IMT",
+   "conf": 89.5,
+   "n_words": 48
+  }
+ }
+}

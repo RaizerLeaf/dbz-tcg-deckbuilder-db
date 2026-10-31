@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P21",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P21_Krillin’s Destructo Disk.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Ey a Ee a\n{ SSS —\n(KRILLIN'S DESTRUCT.O:.DISK () Pel",
+   "conf": 39.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "cS ~% Energy attack costing 2 stages. DAMAGE Be\n) 4 life cards. This attack cannot be stopped or\n<) have its damage prevented. g",
+   "conf": 72.8,
+   "n_words": 25
+  }
+ }
+}

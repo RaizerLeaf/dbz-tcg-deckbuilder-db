@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_67",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/67_Captain Ginyu - Frog.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BA CAPTAIN GINYU () ue?\nFROG :\nLEVEL —— —",
+   "conf": 53.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "10\n9\n8\n7\n6\n5\n1\n5 4\n3\n2\n1\n0",
+   "conf": 84.0,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "oh | | | 7 .\nco: Your Allies may make actions regardless of your MP’s power\nstage and they cannot be discarded. All of your attacks deal +X\nlife cards of damage. X = the number of Allies you have in play\nwhen you perform that attack.",
+   "conf": 88.9,
+   "n_words": 48
+  }
+ }
+}

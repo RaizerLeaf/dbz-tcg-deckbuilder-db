@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_BST_136",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/136_Orange Adaptive Mastery.jpg",
+ "scale": 2.3,
+ "regions": {
+  "header": {
+   "text": "ORANGE ADAPTIVE: MASTERY () Riss",
+   "conf": 48.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "' MASTERY on\nco: Your Drills are not discarded when you advance or lower a\npersonality level. Your energy attacks deal +1 life card of damage.\nAt the end of any combat in which you used a critical damage effect,\nsearch your discard pile for a Styled Drill and place it into play. ei",
+   "conf": 91.9,
+   "n_words": 54
+  }
+ }
+}

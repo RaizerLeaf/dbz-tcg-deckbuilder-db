@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P83",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P83_Nail - Protector.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAIL",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "40,000\n36,000\n32,000\n28,000\n\n24,000\n\n20,000\n\n16,000\n12,000\n\n8,000\n\n4,000\n\n0",
+   "conf": 77.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "y y 12,UUU\n| 8,000\nco: Whenever your opponent stops one of\nyour attacks, destroy the top 2 cards of\ntheir Life Deck. After your opponent takes\ndamage from one of your attacks, banish\nthe top X cards of their Life Deck. X= the\nnumber of times they used Endurance es\non that attack. Pelz, Oregve Bal GT end Dron\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.5,
+   "n_words": 88
+  }
+ }
+}

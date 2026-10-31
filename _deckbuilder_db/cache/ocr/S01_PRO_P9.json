@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P9",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P9_Vegeta’s Galick Gun.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "© EGETA'S GALTCK:GUN. ©) cE |",
+   "conf": 56.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n5\n2\n4\n3\n4\n34",
+   "conf": 24.4,
+   "n_words": 7
+  },
+  "lower": {
+   "text": ", ~\nos SCNERGY COMBAT '\n4\n\n. *%X Energy attack costing 2 stages. DAMAGE:\n\n6 life cards. Damage from this attack cannot\n\nbe prevented. If you deal critical damage with\n\nthis attack, you may use two critical effects\n\ninstead of one. Raise your anger 1 level.",
+   "conf": 85.5,
+   "n_words": 47
+  }
+ }
+}

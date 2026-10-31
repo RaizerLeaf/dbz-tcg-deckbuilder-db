@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S07",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S07_Goku - Energy Gatherer.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "GOKU\n3S ENERGY GATHERER y ) Ss7\nMs ae ann nnn",
+   "conf": 67.1,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "900,000\n800,000\n700,000\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n50,000\n\n0",
+   "conf": 95.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| tir 2 50,000\nFiiZé >< POWER: Energy attack costing 2 stages.\n| iG 4 wy ©. DAMAGE: 5 life cards. You may choose a Drill |\nj or Setup in your discard pile and place it into\nplay. HIT: Rejuvenate up to 5 Drills from your\nL a discard pile.\nPUR w \\\n—_ Ab MW",
+   "conf": 82.1,
+   "n_words": 57
+  }
+ }
+}

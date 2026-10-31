@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S09",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S09_Gohan - Resilient Child.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "— €€=p=5=6hrh,l CU\nGOHAN = 4 )\nRESILIENT CHILD —}—]",
+   "conf": 62.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "3,500\n\n3,000\n\n2,500\n\n2,000\n\n1,500\n1,000\n800\n600\n\n400\n\n200\n\n0",
+   "conf": 95.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "a — 400\n: a | 200\nWA 0 : When you perform a Styled attack,\n! —d : 4 ey you may destroy up to 2 cards from the top of |\nyour Life Deck. That attack deals +X life cards\n| of damage. X = the number of cards destroyed.\nD U D\n| PARTIE |",
+   "conf": 77.9,
+   "n_words": 58
+  }
+ }
+}

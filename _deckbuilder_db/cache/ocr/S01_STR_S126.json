@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S126",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S126_Namekian Stance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN STANCE. C) S126\n~~",
+   "conf": 47.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN . ENERGY COMBAT '\n—_\nYW Stops an energy attack. Your opponents\nattacks need to deal +2 life cards to use a\ncritical damage effect this combat.",
+   "conf": 82.2,
+   "n_words": 28
+  }
+ }
+}

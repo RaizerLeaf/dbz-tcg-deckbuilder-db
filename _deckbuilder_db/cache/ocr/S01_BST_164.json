@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_164",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/164_Villainous Energy Sphere.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS: ENERGY: SPHERE Gare |\nLINO SESE SS",
+   "conf": 49.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7",
+   "conf": 23.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a eo Fa\naN . VENT '\ny\nme (Villains only.) % POWER: Use when an\nEvent is played. Cancel the effects of that\ncard. Your opponent destroys the top card of\nhis Life Deck.",
+   "conf": 79.1,
+   "n_words": 35
+  }
+ }
+}

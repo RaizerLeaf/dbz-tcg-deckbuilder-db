@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_106",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/106_Saiyan Wrist Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "OAT\nPS) REO:\nrout CK\nAGEN ()\n106",
+   "conf": 44.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "a j PHYSICAL COMBAT 1\nZL\nStops a physical attack. Your opponent's\nMP loses 3 stages.",
+   "conf": 80.6,
+   "n_words": 16
+  }
+ }
+}

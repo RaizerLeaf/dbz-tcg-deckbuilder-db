@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_STR_S25",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S25_Saiyan Empowered Mastery (Frozen).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| SAIYAN EMPOWERED MASTERY () S25",
+   "conf": 74.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": MASTERY\nco: You cannot win by MPPV. Your Saiyan Style attacks gain\n“Raise your anger 1 level. HIT: Gain 3 power stages.” Whenever you\nRejuvenate a Saiyan Style card, raise your anger 1 level.\nFu",
+   "conf": 92.5,
+   "n_words": 36
+  }
+ }
+}

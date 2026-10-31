@@ -1,0 +1,17 @@
+{
+ "card_id": "S14_PRO_P35",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P35_Namekian Disturbance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DISTURBANCE () P35",
+   "conf": 77.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Namek Dragon Ba\na number in the title that is less than or equal to yo\nMP's personality level and play it.\n(Banish after use.)",
+   "conf": 94.1,
+   "n_words": 36
+  }
+ }
+}

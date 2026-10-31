@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_150",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/150_Confrontation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ ——__—_ —\n(CONFRONTATION oy () A1SO\nay PAN Ue 7",
+   "conf": 42.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n4\n4",
+   "conf": 6.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "YEN\n] Nan io — 2 << ll |\n23 (Heroes only.) POWER: Look at your Be\n] opponent's hand and choose a card. Your iy\n5; opponent shuffles that card into his Life Deck. ji",
+   "conf": 68.5,
+   "n_words": 36
+  }
+ }
+}

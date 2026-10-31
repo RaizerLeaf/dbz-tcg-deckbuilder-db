@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_59",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/59_Saiyan Uppercut.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN UPPERCUT () css\n/ a e",
+   "conf": 39.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "68\n16",
+   "conf": 26.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "M7... PHYSICAL COMBAT\n*%X Physical attack. DAMAGE: 5. stages.\nlf the personality performing this attack has\na higher power level than the defending\npersonality, this attack’s base damage is\n\n7 stages instead.\na | PANIIT |",
+   "conf": 82.4,
+   "n_words": 36
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S81",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S81_Saiyan Direct Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NON AGT TOD mT ester ec",
+   "conf": 26.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 5.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i CB Vin, PHYSICAL COMBAT of\nENDURANCE4. X Physical attack. DAMAGE:\nAT +3 stages and +2 life cards.",
+   "conf": 78.1,
+   "n_words": 18
+  }
+ }
+}

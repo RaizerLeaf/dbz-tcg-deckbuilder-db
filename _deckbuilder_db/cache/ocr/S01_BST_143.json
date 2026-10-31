@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_143",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/143_Red Left Bolt.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED LEFT BOLT () a1as\naa a",
+   "conf": 56.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Uae\n“. : SCNERGY COMBAT '.\n—\n(Banish after use.) >< Energy attack costing 3\nstages. DAMAGE: 5 life cards. Damage from\nthis attack is banished. Draw the bottom card\nof your Life Deck.",
+   "conf": 80.1,
+   "n_words": 34
+  }
+ }
+}

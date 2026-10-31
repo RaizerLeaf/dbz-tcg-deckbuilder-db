@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_114",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/114_Quickness Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(Gourckness oar © W114\n2 | =~ SADA — << |",
+   "conf": 40.8,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "& (Limit 1 per deck.) * : Whenentering combat, BX\nyou may discard a card from your hand to |\n\n3) place the bottom card of your discard pile into ji\nC your hand. =",
+   "conf": 76.8,
+   "n_words": 35
+  }
+ }
+}

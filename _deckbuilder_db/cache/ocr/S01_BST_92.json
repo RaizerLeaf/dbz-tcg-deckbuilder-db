@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_92",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/92_Orange Escape.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE ESCAPE = C) Use",
+   "conf": 55.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "3 (Banish after use.) POWER: You may play a Be\nDrill from your hand to end combat.",
+   "conf": 88.8,
+   "n_words": 17
+  }
+ }
+}

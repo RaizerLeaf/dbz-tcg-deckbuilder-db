@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_13",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/13_Black Erasing Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK ERASING DRILL () cis\n~~ Be = ca",
+   "conf": 67.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4",
+   "conf": 80.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a —~—\n(Limit 1 per deck.) 0©: Whenever you perform\na successful energy attack, you may destroy\nan opponent's Setup or Drill.",
+   "conf": 85.3,
+   "n_words": 22
+  }
+ }
+}

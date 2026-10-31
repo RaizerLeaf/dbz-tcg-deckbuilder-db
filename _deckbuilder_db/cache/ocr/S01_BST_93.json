@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_93",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/93_Orange Inspection.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE INSPECTION C) uss\note aaa 2s",
+   "conf": 41.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Pe (sD\n2) (Banish after use.) POWER: Destroy an\n| opponent's Setup or Drill to draw a card.",
+   "conf": 81.2,
+   "n_words": 18
+  }
+ }
+}

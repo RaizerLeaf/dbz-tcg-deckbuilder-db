@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S51",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S51_Black Lightning Storm.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK LIGHTNING. STORM C) Ssl\n| ‘i e iA 4S Ga",
+   "conf": 48.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "3",
+   "conf": 27.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "rz.\nan : ENERGY COMBAT '.\n4\n*%X Energy attack costing 2 stages. DAMAGE:\n6 life cards. HIT: Your opponent plays with his\nhand revealed until the start of your next turn.",
+   "conf": 83.3,
+   "n_words": 32
+  }
+ }
+}

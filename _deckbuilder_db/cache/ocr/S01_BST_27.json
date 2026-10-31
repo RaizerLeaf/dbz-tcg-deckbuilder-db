@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_27",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/27_Blue Head Knock.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE HEAD KNOCK. () ce7",
+   "conf": 55.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 11.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "“\\. c PHYSICAL COMBAT  :\nLZ\nENDURANCE 2. Physical Attack. DAMAGE:\n5 life cards. Lower your opponent's anger to 0.",
+   "conf": 79.6,
+   "n_words": 20
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_96",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/96_Red Despair Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED DESPAIR DRILL () use",
+   "conf": 60.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "6\n,\n4",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "“a\n(Limit 1 per deck.) ©: Your attacks deal +X\nlife cards of damage. X = your current anger\n\nlevel when you perform that attack.\n‘ | PAM IMT",
+   "conf": 78.6,
+   "n_words": 29
+  }
+ }
+}

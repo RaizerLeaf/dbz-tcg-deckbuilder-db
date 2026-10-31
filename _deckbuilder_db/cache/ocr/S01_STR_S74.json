@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S74",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S74_Blue Torpedo.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE TORPEDO veo () Sra",
+   "conf": 50.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "CB Vin, PHYSICAL COMBAT =\n(If this card is discarded from your hand by\na card effect, put the top Energy Combat\ncard from your discard pile at the bottom of\nyour Life Deck.) ENDURANCE 1. Physical\nattack. DAMAGE: AT +3 stages.",
+   "conf": 91.3,
+   "n_words": 42
+  }
+ }
+}

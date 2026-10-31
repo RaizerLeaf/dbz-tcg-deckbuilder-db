@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_103",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/103_Saiyan Gut Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN GUT KICK () L103",
+   "conf": 57.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n2\n,\n4\n3,\n14,",
+   "conf": 17.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "aN : PHYSICAL COMBAT\n>\nXX Physical attack. DAMAGE: AT +4 stages.\nYour opponent skips his next action this combat.",
+   "conf": 74.5,
+   "n_words": 20
+  }
+ }
+}

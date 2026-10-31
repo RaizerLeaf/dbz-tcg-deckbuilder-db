@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_24",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/24_Blue Defensive Effect.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE DEFENSIVE EFFECT () cea",
+   "conf": 77.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "9",
+   "conf": 17.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Banish after use.) ENDURANCE 6. POWER:\nLower your opponent's anger 1 level. Your\nopponent cannot raise his anger this combat.",
+   "conf": 94.8,
+   "n_words": 20
+  }
+ }
+}

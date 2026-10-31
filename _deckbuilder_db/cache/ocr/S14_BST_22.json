@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_22",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/22_Red Quick Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED QUICK BLOCK C) C22",
+   "conf": 79.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(GD)PHYsICAL ComBAT ( -)\n(If this card is discarded from oe\nyour hand by an effect, you may\nbanish it to gain 5 stages.)\nYW Stops a physical attack.\nRaise your anger 1. You may lower your anger by\nany amount. Lower your opponent's anger X.\nX =the amount of anger you lowered.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.4,
+   "n_words": 84
+  }
+ }
+}

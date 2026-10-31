@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S85",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S85_Black Finger Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK FINGER BLOCK () sas\nOA ak",
+   "conf": 70.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ENDURANCE 1. © Stops a physical attack.\nYour MP gains 3 stages.",
+   "conf": 91.5,
+   "n_words": 12
+  }
+ }
+}

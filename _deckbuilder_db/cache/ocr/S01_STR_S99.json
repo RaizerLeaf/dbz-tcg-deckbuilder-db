@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S99",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S99_Orange Burning Aura Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE BURNING AURA:DRILL () sss\nwy i ff waa",
+   "conf": 61.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "S (Use only if your opponent has not performed\na successful physical attack this combat.)\n‘ POWER: Stops a physical attack.",
+   "conf": 89.5,
+   "n_words": 21
+  }
+ }
+}

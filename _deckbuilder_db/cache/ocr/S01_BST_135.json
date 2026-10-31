@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_135",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/135_Namekian Planned Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[NAMEKIAN PLANNED- ATTACK () A135\na",
+   "conf": 39.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "aN HNERGY COMBAT\ny\n(Banish after use.) Energy attack costing\n2 stages. DAMAGE: 4 life cards. HIT: Search\nyour Life Deck for a Dragon Ball and place\nit into play.",
+   "conf": 87.0,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_138",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/138_Orange Searching Maneuver.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE SEARCHING MANEUVER () aise",
+   "conf": 78.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", 6",
+   "conf": 11.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a SS\nian ° PHYSICAL COMBAT :\na\nXX Physical attack. DAMAGE: AT stages.\nSearch your Life Deck for a Drill and place it\ninto play at the end of combat.",
+   "conf": 78.4,
+   "n_words": 31
+  }
+ }
+}

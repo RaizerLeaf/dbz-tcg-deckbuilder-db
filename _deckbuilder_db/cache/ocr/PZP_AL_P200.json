@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_AL_P200",
+ "rel_path": "zz_PanZ MP & Ally Promos/Allies/P200_Cooler - Angered.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "] COOLER\nLEVEL ANGERED () P200\n> —_/§$ Lye",
+   "conf": 57.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "160,000\n140,000\n120,000\n100,000\n80,000\n760,000\n40,000\n20,000\n10,000\n, 5,000\n\n0",
+   "conf": 58.1,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "y 7 - = 2U,UUU\n“7 ? 10,000\nYP 5,000\n(If this card is discarded from your hand\nduring combat, you may place it into\nplay at 3 power stages above 0.)\nco: Players cannot use effects that would\nadvance an MP 1 or more levels.\nPOWER: Rejuvenate 1. Bal 2, Omgon Bal ST end Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 85.7,
+   "n_words": 84
+  }
+ }
+}

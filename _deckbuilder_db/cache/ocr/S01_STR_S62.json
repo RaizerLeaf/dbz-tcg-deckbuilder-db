@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S62",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S62_Saiyan Triangle Beams.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN TRIANGLE-BEAMS () sce",
+   "conf": 59.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "oe: HNERGY COMBAT —}\n~% Energy attack costing 2 stages. DAMAGE:\n5 life cards. If you deal critical damage with\nthis attack, you may use two different critical\neffects instead of one.",
+   "conf": 85.7,
+   "n_words": 32
+  }
+ }
+}

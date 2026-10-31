@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P63",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P63_Goku - Training.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU",
+   "conf": 95.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "800,000\n400,000\n200,000\n100,000\n\n, 50,000\n25,000\n10,000\n5,000\n\n, 2,500\n1,250\n0",
+   "conf": 73.4,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "y ,JUU\n2,500\nui 3\nco: Your attacks deal +1 life card\nof damage.\n% POWER: Use when entering combat.\nDraw a card. )\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.7,
+   "n_words": 63
+  }
+ }
+}

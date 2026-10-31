@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_141",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/141_Red Forward Stance Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED FORWARD STANCE: DRILL () A141",
+   "conf": 52.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n4\n1",
+   "conf": 6.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ne _—\nPOWER: You may lower your anger 1 level\nto stop a physical or energy attack.",
+   "conf": 86.9,
+   "n_words": 17
+  }
+ }
+}

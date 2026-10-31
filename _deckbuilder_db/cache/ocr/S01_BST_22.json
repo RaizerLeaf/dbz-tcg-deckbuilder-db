@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_22",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/22_Blue Battle Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BATTLE DRILL C) cae",
+   "conf": 53.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "aN ‘ DRILL d\nQZ\nENDURANCE 2. °°: Cards that end combat\ncannot be played or used.",
+   "conf": 74.4,
+   "n_words": 17
+  }
+ }
+}

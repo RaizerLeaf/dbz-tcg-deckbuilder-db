@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_81",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/81_Blue Farewell.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "—— a NN",
+   "conf": 33.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "7,",
+   "conf": 51.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a\n(Limit 1 per deck. Banish after use.) POWER:\nShuffle an Ally you control into its owner's\nLife Deck to stop all attacks this combat.",
+   "conf": 93.0,
+   "n_words": 25
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_PRO_P30",
+ "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P30_Black Chin Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK CHIN KICK ) P30.",
+   "conf": 87.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", 8\n4\n3\n4 4 2\n37\n,\n,",
+   "conf": 18.6,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "(@29)PHyYsICAL ComBAT\nXX Physical attack.\nAllies lose all effects until the end of combat.\nAllies cannot make actions nor have damage\nredirected to them this combat.\nDAMAGE: AT +3 stages.\nHIT: Raise your anger X. X= your current anger level.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.0,
+   "n_words": 71
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S86",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S86_Blue Fist Catch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE FIST CATCH () Sse",
+   "conf": 48.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "CPi, PHYSICAL COMBAT —f-\nENDURANCE 2. © Stops a physical attack.\nLower your opponent's anger 1 level.",
+   "conf": 83.7,
+   "n_words": 17
+  }
+ }
+}

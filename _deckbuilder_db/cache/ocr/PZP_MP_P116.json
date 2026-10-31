@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P116",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P116_Android 19 - Patient.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "Zi ANDROID 19\nLEVEL PATIENT ia:",
+   "conf": 69.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1,300,000\n1,100,000\n900,000\n700,000\n500,000\n300,000\n200,000\n100,000\n10,000\n1,000\n0",
+   "conf": 86.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "oo: After taking damage from an attack,\ngain 2 stages.\nPOWER: X Physical attack. G3\nGain 10 stages. If a card you own is\n\nattached to your opponent's MP, this attack\n\ndeals +4 life cards and is Unpreventable. Bal 2 Dron Ball GT and Dragon\nDAMAGE: AT +4 stages. Furimation, ei Animation, Fu TV\n\n, and Akira Toriyama. This card game is\n' a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 79.8,
+   "n_words": 74
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P101",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P101_Garlic Jr. - Commanding.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 GARLIC IR.\nLEVEL COMMANDING rio",
+   "conf": 61.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1,500\n1,300\n1,100\n900\n\n7\n700\n500\n400\n300\n200\n\n4\n100\n0",
+   "conf": 92.2,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "-\n_ JUU\nWey 200\n| 100\nco: Your opponent's attacks deal -1 life\ncard. You need 2 less anger to advance\na personality level.\nPOWER: Raise your anger 1. ;\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 88.8,
+   "n_words": 70
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S78",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S78_Orange Truck Lift.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE TRUCK LIFT () sve",
+   "conf": 71.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "~~ . .\nae - PHYSICAL COMBAT |\n4\nXX Physical attack. DAMAGE: AT +3 stages.\nSearch the top 4 cards of your discard pile for\na Drill and place it into play.",
+   "conf": 80.9,
+   "n_words": 33
+  }
+ }
+}

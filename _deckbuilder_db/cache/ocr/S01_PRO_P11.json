@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P11",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P11_Trunks’ Sword Slash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "I I Fe TS TT\n| —— —\n(TRUNKS' SWORD SLASH () 11",
+   "conf": 40.3,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "1 7 \\\ns PHYSICAL COMBAT :\n-\n\n. (Banish after use.) 2X: Physical attack\n\ncosting 1 stage. DAMAGE: AT +4 stages.\n\nBanish up to 6 cards from a player's discard\n\npile. HIT: Your next Styled energy attack this\n\ncombat cannot be stopped.",
+   "conf": 84.5,
+   "n_words": 43
+  }
+ }
+}

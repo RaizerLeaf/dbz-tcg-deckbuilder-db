@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_37",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/37_Pikkon's Taunt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PREVIEW\nPIKKON'S TAUNT () R37\nBE. =~ ee ee",
+   "conf": 60.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "6\n5,",
+   "conf": 17.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "GS) % POWER: Use when your opponent\nperforms an attack. The immediate effects of\nthat attack become HIT effects instead.\nDraw a card.\n(Banish after use.)",
+   "conf": 90.8,
+   "n_words": 26
+  }
+ }
+}

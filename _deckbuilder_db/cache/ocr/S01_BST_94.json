@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_94",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/94_Orange Offensive Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE OFFENSIVE STRIKE C) usa",
+   "conf": 59.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Ss (Banish after use.) % Energy attack costing 1\nstage. DAMAGE: 2 life cards. Search your Life\nDeck for a copy of “Orange Offensive Strike”\n\n’ and place it into your hand. '",
+   "conf": 88.1,
+   "n_words": 33
+  }
+ }
+}

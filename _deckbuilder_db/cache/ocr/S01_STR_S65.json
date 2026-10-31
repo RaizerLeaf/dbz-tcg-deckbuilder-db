@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S65",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S65_Blue Guard (CRD).jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE GUARD () Ses\ni",
+   "conf": 43.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "p>\n“o7,, ENERGY COMBAT\n(If this card is discarded from your\nhand by a card effect, you may banish\nit instead to draw a card.) ‘YW Stops\nan energy attack.",
+   "conf": 82.0,
+   "n_words": 30
+  }
+ }
+}

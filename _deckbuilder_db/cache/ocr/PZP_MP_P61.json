@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P61",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P61_Gohan - Unassuming.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,700,000\n1,400,000\n1,100,000\n800,000\n500,000\n200,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+   "conf": 69.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": ". l 12,500\n= 0\nco: Your attacks are considered Styled and\ndeal +2 stages of damage.\nPOWER: X Physical attack. G3\n\nYou may banish a Setup, Drill, or Ally.\n‘ DAMAGE: 4 stages. DISCLAIMER: Dragon Ball, Dragon\n: Ball Z, Dragon Ball GT and Dragon\n, Ball Super are all owned by\n. Funimation, Tosi Animation, Fuji TV.\n, and Akira Toriyama. This card game is\n' a fan-made, non-profit project created\n' for entertainment purposes only. Please",
+   "conf": 84.4,
+   "n_words": 79
+  }
+ }
+}

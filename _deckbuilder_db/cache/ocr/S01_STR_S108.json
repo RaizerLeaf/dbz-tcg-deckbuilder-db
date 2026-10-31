@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S108",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S108_Red Burning Stance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED BURNING STANCE C) S108\nas F —=>",
+   "conf": 59.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "3",
+   "conf": 69.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| <a\n24, PHYSICAL COMBAT ry\n~% Physical attack. DAMAGE: AT stages.\nRaise your anger 1 level. HIT: Banish a\nSetup or Drill.",
+   "conf": 80.7,
+   "n_words": 23
+  }
+ }
+}

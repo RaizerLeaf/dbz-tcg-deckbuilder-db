@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S143",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S143_Blue Crouch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE CROUCH = () S145\nae. ee oA",
+   "conf": 42.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "= Et\nCf, PHYSICAL COMBAT\nENDURANCE 3. © Stops a physical attack.\nlf your MP's power level is lower than your\nopponent's MP's power level, place this card\non top of your Life Deck after use.\n= | PAMIMT",
+   "conf": 81.2,
+   "n_words": 39
+  }
+ }
+}

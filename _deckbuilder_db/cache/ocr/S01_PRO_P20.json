@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_PRO_P20",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P20_Saiyan Power Up.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN POWER UP: () P20\ni im vy #~_,/ iil |’ a |",
+   "conf": 44.2,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Banish after use.) POWER: Your MP gains\n6 stages. Draw the bottom card of your\ndiscard pile.",
+   "conf": 95.5,
+   "n_words": 17
+  }
+ }
+}

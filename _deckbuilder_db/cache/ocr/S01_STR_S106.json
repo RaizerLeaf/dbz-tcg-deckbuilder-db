@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S106",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S106_Namekian Regeneration.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN REGENERATION () S106",
+   "conf": 68.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a2... —VenT | |\n(Banish after use.) POWER: Rejuvenate the\ntop or bottom 4 cards of your discard pile.\na | PAI IIET |",
+   "conf": 74.5,
+   "n_words": 24
+  }
+ }
+}

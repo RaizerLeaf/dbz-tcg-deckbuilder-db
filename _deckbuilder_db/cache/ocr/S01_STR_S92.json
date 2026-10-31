@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S92",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S92_Namekian Fusion.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN FUSION. () sae",
+   "conf": 55.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "22\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Fis Sea os\n(Banish after use.) POWER: Raise your MP\nto its highest power stage. Draw a card and\nreveal it to your opponent. If that card is\nStyled, Rejuvenate 2.\n= | PAMIMI",
+   "conf": 86.6,
+   "n_words": 34
+  }
+ }
+}

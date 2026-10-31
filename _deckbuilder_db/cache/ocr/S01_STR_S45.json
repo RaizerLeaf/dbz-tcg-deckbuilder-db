@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S45",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S45_Black Command (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLACK COMMAND». C) Sas",
+   "conf": 54.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(If this card is discarded from your hand, raise\nyour anger 2 levels and shuffle this card into\nyour Life Deck.) ENDURANCE 1. POWER: Banish\nthe top 5 cards of your opponent's discard pile.\nIf less than 5 cards are banished, your opponent\n\ndestroys the top 3 cards of his Life Deck.\nPAM IMT",
+   "conf": 92.1,
+   "n_words": 54
+  }
+ }
+}

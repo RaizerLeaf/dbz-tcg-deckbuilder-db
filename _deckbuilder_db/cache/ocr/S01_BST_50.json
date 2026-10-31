@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_50",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/50_Red Shoulder Grab.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED SHOULDER GRAB () cso",
+   "conf": 84.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "= 24,,.,§ PAYSICAL COMBAT\n~% Physical attack. DAMAGE: AT +3 stages.\nRaise your anger 1 level. For the remainder\nof combat, all of your other attacks are\nconsidered to deal critical damage.",
+   "conf": 87.8,
+   "n_words": 32
+  }
+ }
+}

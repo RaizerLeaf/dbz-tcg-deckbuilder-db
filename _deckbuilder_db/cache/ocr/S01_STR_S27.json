@@ -1,0 +1,17 @@
+{
+ "card_id": "S01_STR_S27",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S27_Red Enraged Mastery (Frozen).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": ") | RED ENRAGED MASTERY () S27",
+   "conf": 63.9,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "MASTERY 1\nOo: Whenever you use a critical damage effect, raise your anger\n1 level. Whenever you advance a personality level, draw a card and\nthen discard a card from your hand. Whenever you lower a personality\nlevel, you may draw a card. =",
+   "conf": 93.0,
+   "n_words": 44
+  }
+ }
+}

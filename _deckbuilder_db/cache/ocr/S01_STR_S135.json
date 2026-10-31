@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S135",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S135_Blue Fist Smash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE FIST SMASH- () siss\nEEE",
+   "conf": 41.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 1.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "e : PHYSICAL COMBAT :\n4\nXX Physical attack. DAMAGE: AT +2 stages.\nHIT: Prevent X stages and X life cards of\ndamage from your opponent's next attack this\ncombat. X = the number of power stages of\ndamage dealt by this attack.",
+   "conf": 86.4,
+   "n_words": 43
+  }
+ }
+}

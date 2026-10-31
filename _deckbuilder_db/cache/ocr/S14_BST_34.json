@@ -1,0 +1,22 @@
+{
+ "card_id": "S14_BST_34",
+ "rel_path": "14_Set 14 (Showdown)/Showdown/34_Knee Clash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KNEE CLASH )UR34",
+   "conf": 89.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ", ,\n4\n1",
+   "conf": 23.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "LS (Heroes only.)\nPOWER: Stops a physical or energy attack.\nIf you have 2 or less Traits, lower a player's anger 1\nand the next time your opponent would raise their\nanger this combat, change that amount to 0.\n(Banish after use.)",
+   "conf": 92.4,
+   "n_words": 42
+  }
+ }
+}

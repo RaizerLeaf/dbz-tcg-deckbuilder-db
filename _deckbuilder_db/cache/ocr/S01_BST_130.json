@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_BST_130",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/130_Blue Trapped Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE TRAPPED STRIKE () a1s0",
+   "conf": 62.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ml: PHYSICAL COMBAT\ny\n(Banish after use.) 2XPhysical Attack.\nDAMAGE: AT +3 stages. If you control a\nDragon Ball, this attack stays in play to be\nused a second time this combat. Raise or\nlower a player's anger 1 level.",
+   "conf": 90.3,
+   "n_words": 40
+  }
+ }
+}

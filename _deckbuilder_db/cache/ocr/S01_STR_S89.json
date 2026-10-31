@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S89",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S89_Namekian Narrow Escape.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN NARROW.-ESCAPE C) sss",
+   "conf": 41.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "\\ BG PHYSICAL COMBAT ™\nENDURANCE 1. © Stops a physical attack.\nAll Styled energy attacks cost -1 stage to\nperform this combat, to a minimum of 1.\n: | PAM IIT |",
+   "conf": 81.0,
+   "n_words": 33
+  }
+ }
+}

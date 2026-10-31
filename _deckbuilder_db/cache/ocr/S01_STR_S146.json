@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S146",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S146_Orange Cover Up.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE COVER UP. () S146",
+   "conf": 66.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7",
+   "conf": 25.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "mo /.. PHYSIEALRT COMSAT\n2s ENDURANCE 1. © Stops a physical attack.\nAlso stops a physical attack in your\nopponent's next action.",
+   "conf": 73.8,
+   "n_words": 22
+  }
+ }
+}

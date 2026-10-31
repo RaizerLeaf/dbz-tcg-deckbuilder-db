@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P154",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P154_Mercenary Tao - Shielded.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "a MERCENARY TAO f\n: SHIELDED P154",
+   "conf": 74.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "487\n467\n447\n427\n\n7\n407\n387\n367\n347\n327\n307\n0",
+   "conf": 95.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "GS) a Ga\nmee ©\na\n~ a\n() Ss) =\nNS .\nco: Whenever you perform an attack,\nbanish the top card of your opponent’s\nLife Deck.\nPOWER: Look at your opponent's hand /\nand choose a non-Dragon Ball card in it.\nBanish that card. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 84.0,
+   "n_words": 85
+  }
+ }
+}

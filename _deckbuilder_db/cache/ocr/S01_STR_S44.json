@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S44",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S44_Saiyan Retaliation Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN RETALIATION-ORILL () Sa4",
+   "conf": 60.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "‘ —\n‘e7f,) OIL\nco: Each time you take damage in a combat,\nyour attacks deal +1 stage of damage for\nthat combat.",
+   "conf": 82.9,
+   "n_words": 23
+  }
+ }
+}

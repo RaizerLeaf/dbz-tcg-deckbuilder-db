@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S22",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S22_Piccolo - Combat Stance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "PI L\n=] ka rE",
+   "conf": 57.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "23,000\n20,000\n17,000\n,\n14,000\n11,000\n8,000\n,\n5,000\n2,000\n1,000\n500\n0",
+   "conf": 80.9,
+   "n_words": 13
+  },
+  "lower": {
+   "text": ") _/ {am . 0\nfi) POWER: Discard a card from your hand to\n| oy 4 ky ©. Rejuvenate 2 and your opponent destroys the |\ntop 2 cards of his Life Deck. If you discarded\na Styled card, you may draw a card and use a\nL S critical damage effect.\n5 U D 54\n—_ 4 | PAIIE |",
+   "conf": 78.5,
+   "n_words": 62
+  }
+ }
+}

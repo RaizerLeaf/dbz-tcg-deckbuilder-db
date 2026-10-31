@@ -1,0 +1,22 @@
+{
+ "card_id": "PZP_MP_P30",
+ "rel_path": "zz_PanZ MP & Ally Promos/MPs/P30_Android 17 - Battle Ready.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "F=| Boe 17\nLEVEL | BATTLE READY C) P30",
+   "conf": 73.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,150,000\n950,000\n750,000\n550,000\n\n350,000\n\n150,000\n\n100,000\n\n50,000\n25,000\n12,500\n0",
+   "conf": 78.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "POWER: > Energy attack.\nAllies cannot have damage redirected to\nthem this combat. If “Android 17’s Van”\nis in play, damage from this attack\ncannot be prevented.\nDAMAGE: 6 life cards. Bal ZDrgon Bal Tend Drogen\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 90.0,
+   "n_words": 64
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S01_STR_S11",
+ "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S11_Gohan - Determined.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": ". \\&\nHAN\nLEVEL . , <>\n‘ > Ww ANN nNnn",
+   "conf": 57.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "350,000\n300,000\n250,000\n200,000\n150,000\n100,000\n75,000\n7,500\n\n750",
+   "conf": 96.0,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "aK ana SS\ns¥> 7,500\n750\nXX POWER: Physical attack. DAMAGE: 6\n| stages. You may lower your anger any amount. |\nThis attack deals +X life cards of damage. X = 2\n| times the amount lowered. )\nPUR a\n; | PARTIE |",
+   "conf": 80.8,
+   "n_words": 45
+  }
+ }
+}
