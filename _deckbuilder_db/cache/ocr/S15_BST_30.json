@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_30",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/30_Saiyan Focused Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN FOCUSED BLAST © v30",
+   "conf": 90.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "( oop ENERGY COMBAT (R=s)\nX* 2: Energy attack. Carns”\nFocused. If your MP is level 2, Unpreventable.\nWhenever you would gain anger this combat, you\nmay gain 3 stages instead.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all ownad by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.5,
+   "n_words": 66
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P31",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P31_Red Escape.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ESCAPE () P31\n14 \\ im |",
+   "conf": 71.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n7\n,\n,",
+   "conf": 4.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(=6) ENERGY COMBAT\n(You cannot win by MPPV the turn\nyou play this card.)\nStops an energy attack.\nAdvance your MP one personality level. Lower your\nMIP one personality level at the end of combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.2,
+   "n_words": 66
+  }
+ }
+}

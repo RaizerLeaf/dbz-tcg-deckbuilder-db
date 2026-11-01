@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_04",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/04_Black Shattering Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK SHATTERING STRIKE () U4\nee",
+   "conf": 71.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "[ oop JPHYSICAL COMBAT ( S ) I\n(If this card is revealed from eK\nyour hand by a Mastery effect,\nraise your anger 1.)\nXX Physical attack.\nRaise your anger 1.\n@2: Shuffle into your Life Deck after use.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.3,
+   "n_words": 75
+  }
+ }
+}

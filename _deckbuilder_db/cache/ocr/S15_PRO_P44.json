@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P44",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P44_Raditz's Offensive Guard.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RADITZ'S OFFENSIVE GUARD @ ) P44",
+   "conf": 75.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n7\n24\n3,\n,",
+   "conf": 5.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(Gi, pa\n(You may banish this card from your\nhand to stop a physical or energy attack.)\nXX Physical attack.\n\nAttach to your MP. While attached, once per combat as\nan action you may place into play a Setup or Drill from\nyour hand. Banish this card when you change levels.\nDAMAGE: AT +4 stages.",
+   "conf": 92.5,
+   "n_words": 55
+  }
+ }
+}

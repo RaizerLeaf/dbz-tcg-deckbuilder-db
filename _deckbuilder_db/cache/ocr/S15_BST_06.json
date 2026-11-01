@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_06",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/06_Blue Tandem.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE TANDEM ) U6\nam, 7",
+   "conf": 61.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "[ oop \\ =VENT \\-)k\n(You may only have one “Blue\nTandem” attached.)\nPOWER: Attach to your MP. Draw a card.\n\nWhile attached, while you control 1 Ally, it cannot be\ndestroyed or banished by your opponent's effects.\nBanish this card when your opponent deals\ncritical damage.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 90.9,
+   "n_words": 78
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P23",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P23_Blue Takedown.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE TAKEDOWN () P23\n, 4 aii",
+   "conf": 58.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1,\n0,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "I oop VPHYSICAL COMBAT si\nXX Physical attack.\nLower your opponent’s anger 1.\nIf your opponent's anger was lowered to 0,\nlower your opponent’s MP 1 level.\n\nDAMAGE: 4 stages.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 86.5,
+   "n_words": 61
+  }
+ }
+}

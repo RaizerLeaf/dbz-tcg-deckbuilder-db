@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_37",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/37_Janemba's Sword Thrust.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "JANEMBA'S SWORD THRUST () R37\nto Se _ HY @® |",
+   "conf": 63.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "5\n03\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| { -\nXX 1: Physical attack. COTY”\nSearch your discard pile for up to 3 cards\nand attach them to your MP.\nDAMAGE: 5 life cards.\nHIT: Banish 3 cards from your opponent's\ndiscard pile.\n(Banish after use.)",
+   "conf": 87.4,
+   "n_words": 39
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P18",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P18_Black Reflection.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK REFLECTION ) P18.",
+   "conf": 76.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "POWER: Search your opponent’s\nBanished Zone for an attack card and play it.\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 94.1,
+   "n_words": 47
+  }
+ }
+}

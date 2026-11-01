@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_53",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/53_Vegeta's Fury.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA'S FURY ) R53\nSe AANA: See ’",
+   "conf": 62.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n\n4\n,\n1,",
+   "conf": 9.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "a (Heroes only. Limit 1 per deck. You\ncannot win by MPPV if you use this card.)\nPOWER: You may advance or lower your MP 1 level.\nGain 5 stages.\n(Banish after use.)\na",
+   "conf": 90.9,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P38",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P38_Tree of Might.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TREE OF MIGHT P38",
+   "conf": 95.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(You may only have one “Tree of Might” attached.) |\nPOWER: Attach to your MP. While attached, your attacks deal\n+2 stages of damage. While attached, both players may search\ntheir Life Deck for a non-Styled Drill and place it into play when\nentering combat. Banish this card when you control a Styled Drill.",
+   "conf": 95.2,
+   "n_words": 54
+  }
+ }
+}

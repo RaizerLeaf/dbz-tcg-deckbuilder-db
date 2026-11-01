@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P4",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P4_Yajirobe - Retired.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ZA YAJIROBE PA\nLEVEL RETIRED\ntL | 4",
+   "conf": 65.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1,400\n\n1,200\n\n1,000\n\n700\n\n5 300\n100\n50\n25\n\n10\n\n5\n\n0",
+   "conf": 91.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "29\ny a = = 10\n: | _~ °\nwe 0\n(After you advance to this level, search your\nBanished Zone for all cards with “Sword”\nin the title and place them on top of\nyour discard pile in any order.)\nco: Your attacks with “Sword” in the title deal\n+2 stages and +2 life cards of damage.\n‘ . OISCLAIMER: Dragon Ball, Dragon\n: POWER: > Physical attack. Bal 2, Dragon Ball and Dragon\n| This attack deals +1 stage of damage for each Furimatn, Te Animation, Ful 1.\ncard with “Sword” in the title in your discard pile. [iimnpabemesubendinannanian\n' PLARAA e£ -_ for entertainment purposes only. Please",
+   "conf": 79.7,
+   "n_words": 111
+  }
+ }
+}

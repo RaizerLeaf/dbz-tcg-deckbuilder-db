@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P40",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P40_Halt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "IP 735-8 [fF FG | ct; YW \"ew dl IF [Pt\n| HALT () P40 |\n~",
+   "conf": 37.2,
+   "n_words": 17
+  },
+  "stages": {
+   "text": "4\n,\n,\n,",
+   "conf": 20.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Sh\n(Limit 1 per deck.)\n* POWER: @#: If you have 2 or less Traits, use\nwhen an Event is played or a Setup Power is used.\nCancel the effects of that card.\n(Shuffle into your Life Deck after use.)",
+   "conf": 91.0,
+   "n_words": 40
+  }
+ }
+}

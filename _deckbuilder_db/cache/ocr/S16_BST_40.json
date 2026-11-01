@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_40",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/40_Majin Instability.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "MAJIN DENIAL ) R40\nee eee ee aE es",
+   "conf": 57.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n\n0\n3,\n,",
+   "conf": 3.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ". ( Monly. Limit 1 per deck. Once per\ncombat, you may shuffle this card from your hand\ninto your Life Deck as an action to Rejuvenate 3.)\nPOWER: Destroy a Drill. &: Destroy all Drills instead.\n(Banish after use.)",
+   "conf": 93.9,
+   "n_words": 40
+  }
+ }
+}

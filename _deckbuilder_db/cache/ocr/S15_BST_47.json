@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_47",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/47_Janemba - Taking Over.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 JANEMBA\nLEVEL TAKING OVER () S4/",
+   "conf": 70.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "10\n\n9\n8\n\n7\n6\n5\n4\n3\n\n2\n\n0",
+   "conf": 92.5,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "oO \\e\no\n/ ( )\n. & :\nco: After taking damage, you may search\nyour discard pile for a card and attach\nit to your MP.\nPOWER: Raise your anger 1+X. X=the /\nnumber of cards attached to your MP.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.6,
+   "n_words": 81
+  }
+ }
+}

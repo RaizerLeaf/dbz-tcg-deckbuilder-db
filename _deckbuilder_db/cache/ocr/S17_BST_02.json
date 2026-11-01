@@ -1,0 +1,17 @@
+{
+ "card_id": "S17_BST_02",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/02_Black Biology Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK BIOLOGY DRILL a R2 |",
+   "conf": 89.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "z2 8 =\nHe (This Drill is not discarded when you advance a level.)\na | co: Your attacks deal +1 life card.\nig ©) * POWER: Use after a Setup you controlled is destroyed by\none of your effects. Destroy a Setup, Drill, or Ally.",
+   "conf": 83.7,
+   "n_words": 46
+  }
+ }
+}

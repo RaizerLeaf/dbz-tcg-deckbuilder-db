@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_PRO_P33",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P33_Saiyan Enraged.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENRAGED () P33\n$$ —- NN £2 - —————",
+   "conf": 43.6,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "zi, 0ti“(“‘ (CS; ; 3S @X ; me\nee OP\n: i : POWER: Raise your anger 2. Rejuvenate the bottom 2 cards of\n222 your discard pile. If your MP’s power level is higher than your\n-3: opponent’s MP’s power level, draw a card.\n| (Banish after use.)",
+   "conf": 76.9,
+   "n_words": 49
+  }
+ }
+}

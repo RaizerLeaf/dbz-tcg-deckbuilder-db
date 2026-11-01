@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_51",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/51_Gohan's Safeguard.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN'S SAFEGUARD ) R51 |\nELH GSS ON. _ we",
+   "conf": 52.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1\n2\n\n7\n\n,,",
+   "conf": 14.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Soa =i\n= (This card is considered Styled.) Ome\nPOWER: Prevent all damage from\nan attack.\nA: You may destroy a Setup, Drill, Ally, or\nattached card.\na",
+   "conf": 83.8,
+   "n_words": 28
+  }
+ }
+}

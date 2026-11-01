@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P38",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P38_Heroic Energy Sphere.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC ENERGY SPHERE () P38",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "p= =VENT\n(Heroes only.)\n* POWER: Use when an Event is played.\nCancel the effects of that card.\nRejuvenate 1.",
+   "conf": 88.9,
+   "n_words": 20
+  }
+ }
+}

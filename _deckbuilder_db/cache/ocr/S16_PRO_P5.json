@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P5",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P5_Vegeta - Aggravated.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA\n1 AGGRAVATED y PS\nLEVEL foe a a . ~\n\n°: Ta FEN NNN",
+   "conf": 50.1,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "43,750,000\n2,325,000\n1,175,000\n\n780,000\n320,000\n130,000\n75,000\n22,000\n\n7,000\n\n3,000\n\n0",
+   "conf": 77.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "oN “reg 7,000\nCe em VV Sg 3,000 |\n=— =| 7} ~ eae Op g 6. :\n| co: Your attacks deal +1 stage. -\nPOWER: > Physical attack. woe\nRaise your anger 2. ae\nDAMAGE: 3 stages. gts\n) —n : . ar",
+   "conf": 51.6,
+   "n_words": 45
+  }
+ }
+}

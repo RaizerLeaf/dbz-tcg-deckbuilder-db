@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_BST_04",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/04_Black Nostalgia Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK NOSTALGIA DRILL & U4 |\nTT —",
+   "conf": 72.4,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "23 3 yw: -\n\n: i 3 POWER: Discard a card from your hand to banish 2 cards\nz8 z from your opponent's discard pile. 4: If you discarded a card,\na your opponent discards a card from their hand.",
+   "conf": 77.8,
+   "n_words": 40
+  }
+ }
+}

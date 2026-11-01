@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_41",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/41_Hatchiyack - Vengeful.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "L HATCHIYACK\nLEVEL VENGEFUL () U41",
+   "conf": 54.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "180,000\n160,000\n140,000\n120,000\n100,000\n780,000\n60,000\n40,000\n20,000\n10,000\n\n0",
+   "conf": 64.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "‘@ AS . = 4U,UUU\n? 20,000\n(4) 10,000\ne v .\nPOWER: > 2: Energy attack.\nDAMAGE: 3 life cards.\nHIT: Your opponent discards a card\nfrom their hand.\n\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\n\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.2,
+   "n_words": 69
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_08",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/08_Blue Quick Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE QUICK STRIKE ) us\n7° Jints=—ens ' |e ia",
+   "conf": 57.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,\n\n5\n,\n1,",
+   "conf": 4.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "[ oop \\PHYSICAL COMBAT ( 1 ) |\n(Heroes only. This attack TRA\nis considered a copied attack.)\nXX Physical attack.\nFocused. Lower your opponent's anger 1.\nDAMAGE: 5 stages.\nHIT: Raise your anger 2.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 85.0,
+   "n_words": 66
+  }
+ }
+}

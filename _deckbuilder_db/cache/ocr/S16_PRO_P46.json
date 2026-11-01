@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P46",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P46_Captain Ginyu's Body Switch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CAPTAIN GINYU'S BODY SWITCH @ ) P46\nO° 2 1) ME SRE",
+   "conf": 62.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "7\n4\n6",
+   "conf": 12.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "p= =VENT\n. (You cannot win by MPPV if you use\nthis card.)\nPOWER: If the power level of your opponent’s MP is\nhigher than your MP’s power level, raise your anger 6.\n(Banish after use.)",
+   "conf": 92.0,
+   "n_words": 36
+  }
+ }
+}

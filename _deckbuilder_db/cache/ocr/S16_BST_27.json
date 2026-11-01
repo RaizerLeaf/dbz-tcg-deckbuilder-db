@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_27",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/27_Red Precision Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED PRECISION STRIKE €) U27",
+   "conf": 90.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n1,",
+   "conf": 22.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "=P PHYSICAL COMBAT (GSR!\n. XX Physical attack. COTY\nFocused. Raise your anger 1.\nA: Rejuvenate X. X= your current anger level.\nDAMAGE: 5 stages.\nHIT: Banish X cards from your opponent’s discard\npile. X= your current anger level.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.8,
+   "n_words": 70
+  }
+ }
+}

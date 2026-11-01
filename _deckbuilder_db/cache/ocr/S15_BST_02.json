@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_02",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/02_Black Blade.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK BLADE () C2\n— £m ld —e",
+   "conf": 52.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7",
+   "conf": 52.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(You may only have one “Black\nBlade” attached.)\n\nPOWER: Attach to your MP. Banish 3 cards from\nyour opponent's discard pile. While attached,\nonce per turn as an action you may banish 1 card\nfrom your opponent's discard pile.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.1,
+   "n_words": 70
+  }
+ }
+}

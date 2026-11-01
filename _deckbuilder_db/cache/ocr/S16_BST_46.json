@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_46",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/46_Skillful Parry.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SKILLFUL PARRY ) R46",
+   "conf": 87.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n\n2\n3\n,\n3,",
+   "conf": 16.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ee) PHYSICAL COMBAT (ESD) |\n= YW Stops a physical attack. Ome\nGain 5 stages. J: Rejuvenate 3.\n(Banish after use.)\n|",
+   "conf": 75.0,
+   "n_words": 22
+  }
+ }
+}

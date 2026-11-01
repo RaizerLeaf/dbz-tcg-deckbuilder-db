@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P13",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P13_Blue Resourceful Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ft °\n, ihe alte",
+   "conf": 21.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "74\n3\n1,\n,,\n\n,",
+   "conf": 9.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "——\n\noo: Your attacks deal +1 stage. Your Styled attacks\n\nwithout “anger” printed in the text-box gain\n\n“HIT: Raise or lower your opponent's anger 1.”\n\n* POWER: Use when your opponent’s MP changes\nlevels from one of your cards or effects. Draw a card.\n\n| POWER: Discard a Styled card from your hand to\nperform a non-Styled physical attack dealing 3 stages\nof damage. If you discarded a Setup or Drill that can\nperform an attack, you may place it into play instead.\n\nGy ae",
+   "conf": 90.7,
+   "n_words": 85
+  }
+ }
+}

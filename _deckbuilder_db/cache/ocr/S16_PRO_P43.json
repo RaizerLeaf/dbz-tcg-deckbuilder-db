@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P43",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P43_Assisted Kamehameha.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ASSISTED KAMEHAMEHA () P43\n> wees yy",
+   "conf": 62.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "—— XX 2: Energy attack.\nIf your MP is a Saiyan, Unstoppable and\nUnpreventable.\nDAMAGE: 4 life cards.\n(Banish after use.)\na",
+   "conf": 85.6,
+   "n_words": 22
+  }
+ }
+}

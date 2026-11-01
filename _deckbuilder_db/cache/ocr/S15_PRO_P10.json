@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P10",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P10_Pikkon - Fighting Stance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PIKKON",
+   "conf": 90.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,800,000\n1,600,000\n1,300,000\n1,000,000\n700,000\n500,000\n250,000\n150,000\n75,000\n10,000\n0",
+   "conf": 78.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "SF fi = U,UUU\nwe lh \\ 75,000\noo \\\\ = ~ 10,000\n: 0\nco: Whenever your opponent plays an\nEvent, banish the top 2 cards of\ntheir Life Deck. \\\nPOWER: X Energy attack.\nRejuvenate 2. If your opponent has played ,\nan Event this combat, this attack ea eeenrieieees\ndeals +5 stages. Funimation Tel Amat, FT\nDAMAGE: 5 life cards. eee\nfor entertainment purposes only. Please",
+   "conf": 75.2,
+   "n_words": 69
+  }
+ }
+}

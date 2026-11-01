@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P24",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P24_Namekian Hybrid Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HYBRID DEFENSE @) P24 |",
+   "conf": 77.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "5\n9 POWER: Stops a physical or\nenergy attack.\nChoose X cards in your discard pile and\nRejuvenate them. X= your MP’s level.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.4,
+   "n_words": 54
+  }
+ }
+}

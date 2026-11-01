@@ -1,0 +1,17 @@
+{
+ "card_id": "S15_PRO_P45",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P45_Dr. Wheelo's Revival.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ". a=\nDR. WHEELO'S REVIVAL f) P45\nfT” __ nn eS a ” —",
+   "conf": 50.1,
+   "n_words": 14
+  },
+  "lower": {
+   "text": "; ie FX F\n\nj (When this card is discarded or destroyed from your Life Deck,\ndestroy the top 3 cards of your opponent's Life Deck and\nbanish this card.)\n\n| POWER: Your opponent cannot play Events this combat. Gain 2\n' stages and shuffle this card into your Life Deck.",
+   "conf": 84.9,
+   "n_words": 51
+  }
+ }
+}

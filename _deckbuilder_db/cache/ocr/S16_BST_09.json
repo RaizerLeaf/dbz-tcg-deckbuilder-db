@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_09",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/09_Blue Ritual.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE RITUAL () 9",
+   "conf": 70.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n\n,\n23\n1",
+   "conf": 9.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "I =VENT 3 } I\n(You cannot win by MPPV if you =\nuse this card.)\n\nPOWER: You may shuffle any number of Allies you\ncontrol into their owner’s Life Deck. Raise your\nanger 1+X. X=the number of Allies shuffled\ninto Life Decks.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 91.1,
+   "n_words": 77
+  }
+ }
+}

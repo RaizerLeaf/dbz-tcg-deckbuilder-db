@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_13",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/13_Namekian Downtime.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DOWNTIME () R13\nen ee ee",
+   "conf": 56.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 26.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". POWER: Banish 2 cards from your\nopponent's discard pile. Rejuvenate X. X= the\nnumber of Dragon Balls you control. Search your\nLife Deck for a Styled Physical Combat card\nand place it into your hand.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 89.6,
+   "n_words": 70
+  }
+ }
+}

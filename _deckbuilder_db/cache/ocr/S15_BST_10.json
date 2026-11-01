@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_10",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/10_Blue Energy Wave.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY WAVE () R10\nPR Se",
+   "conf": 70.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n0\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| oop ) ENERGY COMBAT\n(If this card is discarded from your hand\nby a Mastery effect, you may banish it to search your Life\nDeck for a copy of this card and place it into your hand.)\nXX 1: Energy attack.\nUnpreventable. Raise your anger 1.\nDAMAGE: 4 life cards.\nHIT: Lower your opponent's anger 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 91.1,
+   "n_words": 91
+  }
+ }
+}

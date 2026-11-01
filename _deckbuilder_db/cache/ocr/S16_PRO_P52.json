@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P52",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P52_Piccolo's Special Beam Cannon.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO'S SPECIAL BEAM CANNON @ ) P52 |\n_ Ne - ee",
+   "conf": 58.6,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": ". *% 2: Energy attack.\nRejuvenate 1.\nDAMAGE: 3 life cards.\nHIT: Name two different non-Dragon Ball cards.\nSearch your opponent's Life Deck for 1 copy of each\ncard and banish them.",
+   "conf": 88.8,
+   "n_words": 32
+  }
+ }
+}

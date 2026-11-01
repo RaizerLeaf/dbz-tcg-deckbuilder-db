@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_26",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/26_Saiyan Quest.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN QUEST C) R26\nFe A Mt neg",
+   "conf": 56.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "8\n\n,\n\n4\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| oop EVENT ( O )\n(Limit 1 per deck.)\nPOWER: If your MP is level 2, search\nyour Life Deck for a Dragon Ball and play it.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.6,
+   "n_words": 62
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S17_BST_01",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/01_Black Bitterness.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK BITTERNESS () C1",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "#25 ”\n: i 3 POWER: Banish 2 cards from your opponent's discard pile.\n232 Destroy the top 2 cards of your opponent's Life Deck.\n“3s Oa Raise your anger 1. g#: Gain 5 stages.\n\nS @, (Banish after use.)\n\nOW. ,",
+   "conf": 75.0,
+   "n_words": 42
+  }
+ }
+}

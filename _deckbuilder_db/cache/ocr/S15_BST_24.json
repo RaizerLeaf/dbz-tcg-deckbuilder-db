@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_24",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/24_Red Gambit.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED GAMBIT () R24\nEEUU Y SE",
+   "conf": 62.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n6\n37",
+   "conf": 20.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| oop PHYSICAL COMBAT\n(You cannot win by MPPV if you use\nthis card.)\nXX Physical attack.\nRaise your anger 3.\nDAMAGE: 5 life cards or 5 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.5,
+   "n_words": 62
+  }
+ }
+}

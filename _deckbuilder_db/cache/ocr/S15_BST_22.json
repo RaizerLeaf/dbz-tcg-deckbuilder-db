@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_22",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/22_Red Desire.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DESIRE () U22",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "[ oop | =VENT\n(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Styled\ncard and place it on the top or bottom of your discard\npile. Your opponent skips their next action this\ncombat. £9: Draw a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.9,
+   "n_words": 75
+  }
+ }
+}

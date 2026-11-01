@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_34",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/34_Feast Upon.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "FEAST UPON ) R34\nA y |",
+   "conf": 75.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2 ,\n1\n5 ,\n,\n\n1,\n\n2",
+   "conf": 18.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "(0 Sa =)i\n(When this card is discarded Ome\nor destroyed from your Life Deck,\nbanish an attached card.)\nPOWER: Banish an attached card. Banish 2 cards\nfrom your opponent's discard pile. Shuffle into\nyour Life Deck after use.\na",
+   "conf": 85.9,
+   "n_words": 40
+  }
+ }
+}

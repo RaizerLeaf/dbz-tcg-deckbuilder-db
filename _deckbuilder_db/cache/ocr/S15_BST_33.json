@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_33",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/33_Malefic Energy Shield.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "MALEFIC ENERGY SHIELD =) UR33\nrll _—/ =—l a of",
+   "conf": 56.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n6\n,",
+   "conf": 19.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Si \\o\n(Villains only.) Ome\nW Stops an energy attack.\nYou may banish a card from your hand to search\nyour discard pile for a Styled Y card that can\nstop an energy attack and place it into your hand.\nDestroy the top card of your opponent's Life Deck.\n(Banish after use.)\n\na",
+   "conf": 84.6,
+   "n_words": 53
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P48",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P48_Gohan's Power Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN'S POWER PUNCH () P48\nhh",
+   "conf": 76.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n,\n\n37\n\n,",
+   "conf": 0.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ee SHYSICAL COMBAT\n= XX Physical attack.\nRaise your anger 2. If you advance a personality\nlevel with this card, Unstoppable.\nDAMAGE: AT +5 stages.\na",
+   "conf": 81.4,
+   "n_words": 26
+  }
+ }
+}

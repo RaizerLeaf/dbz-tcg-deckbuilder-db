@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_15",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/15_Namekian Scatter Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SCATTER SHOT )UI5.",
+   "conf": 70.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",1,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Si\nXX 1: Energy attack.\nIf you control 1 or less Dragon Balls, Remain 1.\nIf you have 2 or less Traits, Focused.\nDAMAGE: 4 life cards.\n(Banish after use.)\nee",
+   "conf": 90.4,
+   "n_words": 31
+  }
+ }
+}

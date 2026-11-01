@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P53",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P53_Vegeta's Galick Gun.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA'S GALICK GUN () P53",
+   "conf": 81.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,\n1,",
+   "conf": 17.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "—pe ENERGY COMBAT\n. *% 2: Energy attack.\nUnpreventable. If you deal critical damage with this\nattack, you may use two critical damage effects\ninstead of one. Raise your anger 1.\nDAMAGE: 6 life cards.",
+   "conf": 87.7,
+   "n_words": 35
+  }
+ }
+}

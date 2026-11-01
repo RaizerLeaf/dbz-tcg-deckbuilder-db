@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_42",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/42_The Spirit of Earth.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "THE SPIRIT OF EARTH\nCT ce”",
+   "conf": 70.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "33 9\n,\n,\n,",
+   "conf": 13.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "— =VENT\n= (@ only. Limit 1 per deck.)\n\n% POWER: If you have only 1 Trait, use when an\nEvent is played or a Setup Power is used. Cancel the\neffects of that card. Gain 5 stages.\na",
+   "conf": 84.9,
+   "n_words": 39
+  }
+ }
+}

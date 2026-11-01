@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_10",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/10_Blue Support Fire.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SUPPORT FIRE () U10\n, | aaeaswFr g",
+   "conf": 55.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 19.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| 09 ENERGY COMBAT\n(Blue Unity Mastery only. You may\nonly have one “Blue Support Fire” attached.)\nXX 2: Energy attack.\nAttach to your MP. While attached, attacks performed\nby your Allies deal +2 life cards.\nDAMAGE: 4 life cards.\nHIT: Lower your opponent’s anger 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 92.5,
+   "n_words": 77
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_37",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/37_Cabba's Galick Cannon.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CABBA'S GALICK CANNON () R37\np>",
+   "conf": 71.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4,\n4\n,",
+   "conf": 5.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". (Heroes only.)\nX% 2: Energy attack.\nRaise your anger 1. If damage from this attack is\nprevented, Rejuvenate 3. 4: Unstoppable and\ndamage from this attack is banished.\nDAMAGE: 6 stages.",
+   "conf": 89.8,
+   "n_words": 32
+  }
+ }
+}

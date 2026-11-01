@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P6",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P6_Janemba - Rotund.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "[> Eon & =\nLEVEL tgs ee\nan oe ys Q9 9nNN NNN",
+   "conf": 48.2,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "3,200,000\n2,500,000\n1,800,000\n1,300,000\n7900,000\n650,000\n400,000,\n150,000\n2\n75,000\n0,000",
+   "conf": 50.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "4 \\ 75,000\n\\ 40,000\n: 0\na, Bet\nPOWER: > 2: Energy attack. Laer Per\nLy) Focused. You may destroy an attached card. Siig\n, If you do, this attack gains “HIT: Raise your anger X. | See\nX =the attached card’s Endurance.” Lie\n3S DAMAGE: 5 life cards. Pops",
+   "conf": 74.5,
+   "n_words": 51
+  }
+ }
+}

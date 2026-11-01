@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_35",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/35_Smokescreen.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SMOKESCREEN | )UR35|\n—— lll Oe eee",
+   "conf": 46.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "RS (You may banish this card from your\nhand when an effect would cause a player to skip\nor pass an action to cancel that effect and\ndraw a card.)\n‘v POWER: Prevent all damage from an attack.\nLower your opponent’s anger 1.\n(Banish after use.)\n|\nEP I PP PE I",
+   "conf": 84.3,
+   "n_words": 52
+  }
+ }
+}

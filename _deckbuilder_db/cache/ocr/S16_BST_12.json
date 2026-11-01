@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_12",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/12_Blue Drastic Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE DRASTIC BLAST () C12\nA\\W",
+   "conf": 71.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "0,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(=) ENERGY COMBAT\nX% 2: Energy attack.\nA: Search your Life Deck or discard pile for an\nAlly and place it into play at 5 stages above 0.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 91.7,
+   "n_words": 63
+  }
+ }
+}

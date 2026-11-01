@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_13",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/13_Namekian Regroup.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REGROUP C) C13",
+   "conf": 77.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "34\n4\n2,\n4,",
+   "conf": 15.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "1 C3 pm ace\n% POWER: Use when a Dragon Ball\nyou control would be captured. Shuffle that\nDragon Ball back into its owner’s Life Deck instead.\nIf your MP has only 1 Trait, draw a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.7,
+   "n_words": 71
+  }
+ }
+}

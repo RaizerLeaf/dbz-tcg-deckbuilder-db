@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_TRT_T-Fusion",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Traits)/T_Fusion Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "=USION 7\nTANT > MZ, *",
+   "conf": 28.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "PON We\npom 2) \\)__ NY\nFused MP’s Life Decks cannot\ninclude the listed Allies: |\nVegito: Goku, Vegeta\nGogeta: Goku, Vegeta\n? Gotenks: Goten, Kid Trunks\nKefla: Caulifla, Kale =>\nFused Zamasu: Goku Black, Zz\nZamasu \\",
+   "conf": 77.8,
+   "n_words": 38
+  }
+ }
+}

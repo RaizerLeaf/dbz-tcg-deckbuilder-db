@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_33",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/33_Exposed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "EXPOSED ) R33\nllc ll.lU—",
+   "conf": 52.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,\n\n,\n\n2,",
+   "conf": 6.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(0 a >)\n(When this card is discarded Ome\nor destroyed from your Life Deck,\nbanish a Drill.)\nPOWER: Banish a Drill. Rejuvenate 2. Shuffle into\nyour Life Deck after use.\na",
+   "conf": 85.8,
+   "n_words": 32
+  }
+ }
+}

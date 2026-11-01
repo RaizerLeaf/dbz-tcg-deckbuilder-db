@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P42",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P42_Blinding Energy Move.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLINDING ENERGY MOVE () P42\nhe a a Tee",
+   "conf": 60.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n7\n,\n,",
+   "conf": 6.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Gj) Sa\n(Limit 2 per deck. You must banish the\ntop 2 cards of your Life Deck to play this card.)\nX Energy attack.\nAt the beginning of the next action this combat,\nend combat.\nDAMAGE: 3 life cards.\na",
+   "conf": 89.9,
+   "n_words": 40
+  }
+ }
+}

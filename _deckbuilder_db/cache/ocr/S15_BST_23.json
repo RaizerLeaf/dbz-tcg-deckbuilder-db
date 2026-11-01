@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_23",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/23_Red Evasive Manuver.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED EVASIVE MANUEVER () C23",
+   "conf": 78.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,\n2\n,",
+   "conf": 20.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "1 oop JPHYSICAL comaaT (@®) |\nYW Stops a physical attack.\nYou may search your Banished Zone\nfor a Styled attack and place it on the top\nor bottom of your discard pile.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.4,
+   "n_words": 67
+  }
+ }
+}

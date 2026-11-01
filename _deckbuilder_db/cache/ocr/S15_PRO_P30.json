@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P30",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P30_Red Blocking Hand.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED BLOCKING HAND () P30",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "9",
+   "conf": 44.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "[ oop JPHYSICAL COMBAT\nYW Stops a physical attack.\nRaise your anger 2. Gain 2 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.1,
+   "n_words": 47
+  }
+ }
+}

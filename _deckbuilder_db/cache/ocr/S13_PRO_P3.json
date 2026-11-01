@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P3",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P3_Yajirobe - Opportunist.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YAJTROBE P3\nOPPORTUNIST",
+   "conf": 81.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "1,200\n\n, 1,000\n500\n\n200\n\n100\n0\n30\n15\n\n7\n\n2\n0",
+   "conf": 79.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "ANS 15\nNees 0\nco: Whenever you play a card with “Sword”\nin the title, gain 2 stages. Your attacks\nwith “Sword” in the title gain “HIT: Lower\nyour opponent's anger 1 level.”\nPOWER: Discard a card from your hand to\n: search your Life Deck for a Styled card with DISCLAIMER: Dragon Ball, Dragon\n- “Sword” in the title and place it into your ee ll Sor ar al owned\n- hand. If you discarded a card with “Sword” Furimaton, Tai Animate, Fuji\n, . . . and Akira Toriyama. This card game is\nin the title, raise your anger 2 levels. 2 fovmade, on rot projet rtd\n' for entertainment purposes only. Fiease",
+   "conf": 80.9,
+   "n_words": 115
+  }
+ }
+}

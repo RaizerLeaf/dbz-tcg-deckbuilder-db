@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P29",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P29_Red Right Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RIGHT PUNCH () P29",
+   "conf": 77.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n5\n21\n,",
+   "conf": 5.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(=) PHYSICAL comaaT (@®) |\nXX Physical attack.\nSearch your Life Deck for X Drills and\nplace them into play. X= your current anger level.\nDAMAGE: AT stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.3,
+   "n_words": 59
+  }
+ }
+}

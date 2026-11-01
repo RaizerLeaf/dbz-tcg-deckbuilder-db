@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_14",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/14_Namekian Quick Catch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN QUICK CATCH C) C14",
+   "conf": 80.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n1,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "( oop ENERGY COMBAT (G=B)\n(If this card is Rejuvenated, Zw”\nlower your opponent's anger 1.) a\nW Stops an energy attack.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 80.4,
+   "n_words": 53
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P41",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P41_On The Move!.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ON THE MOVE! : ) P41",
+   "conf": 75.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "5 ae\n(You may banish this card from your\nhand when an effect would cause a player to skip\nor pass an action to cancel that effect.)\n‘9 POWER: Stops a physical or energy attack.\nlf that attack was a Physical Combat or Energy Combat\n\ncard, return it to your opponent's hand. Draw a card.\n\nGain 2 stages or your opponent loses 2 stages.\n(Banish after use.)",
+   "conf": 90.8,
+   "n_words": 67
+  }
+ }
+}

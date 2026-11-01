@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_41",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/41_Show of Force.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SHOW OF FORCE ) R41 |\n” Yes",
+   "conf": 75.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n0\n4,",
+   "conf": 23.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". ( Monly. Limit 1 per deck. Once per\ncombat, you may shuffle this card from your hand\ninto your Life Deck as an action to draw a card.)\nPOWER: Destroy a Setup. A: Destroy all\nSetups instead.\n(Banish after use.)\nenter *ent 002465\" 2%6;",
+   "conf": 85.6,
+   "n_words": 45
+  }
+ }
+}

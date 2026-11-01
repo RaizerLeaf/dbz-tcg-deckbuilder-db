@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_44",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/44_Utter Destruction.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UTTER DESTRUCTION a) nae”\n~S . 4",
+   "conf": 40.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "0\n03\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". ( J only. Limit 1 per deck. Once per\ncombat, you may shuffle this card from your hand\ninto your Life Deck as an action to banish 3\ncards from your opponent's discard pile.)\nPOWER: Destroy an Ally. 4: Destroy all Allies instead.\n(Banish after use.)",
+   "conf": 89.4,
+   "n_words": 47
+  }
+ }
+}

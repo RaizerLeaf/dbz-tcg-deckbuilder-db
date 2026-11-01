@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P39",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P39_ Defiant Challenge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEFIANT CHALLENGE ? ) P39 |\n—<— OL,",
+   "conf": 66.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n12\n2",
+   "conf": 13.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i\nPOWER: Search your Banished Zone\nfor a Named card and place it on top of your Life\nDeck. Search your Life Deck for a Named attack card\nand place it into your hand. Your opponent may discard\na card from their hand to search their Life Deck for a\nNamed attack card and place it into their hand.\n(Banish after use.)\na\nEP I PP PE I",
+   "conf": 87.2,
+   "n_words": 68
+  }
+ }
+}

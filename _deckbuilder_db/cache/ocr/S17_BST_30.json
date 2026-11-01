@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_30",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/30_Saiyan Homing Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN HOMING BEAM ise\n| a ~~",
+   "conf": 55.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",4\n1",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| 69) ENERGY COMBAT (em) |\nXX 2: Energy attack.\nFocused. Raise your anger 1. Your opponent\ncannot modify damage from this attack. 4: Your\nnext Styled attack this combat gains “Focused.”\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 67
+  }
+ }
+}

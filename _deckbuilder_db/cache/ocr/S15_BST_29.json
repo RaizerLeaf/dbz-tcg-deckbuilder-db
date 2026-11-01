@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_29",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/29_Saiyan Energy Repulse.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY REPULSE @® c29",
+   "conf": 72.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| oop ) ENEAGY ComBAT (@®)\nPrevent all damage from an\nenergy attack.\nIf your MP is level 2 and has 2 or less Traits,\nRemain 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.5,
+   "n_words": 61
+  }
+ }
+}

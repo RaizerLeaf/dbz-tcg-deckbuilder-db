@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_55",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/55_Cooler - Ghastly Apparition.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "L COOLER\nLEVEL GHASTLY APPARITION () $55\n—_—- _ CN",
+   "conf": 63.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "250,000\n150,000\n100,000\n70,000\n35,000\n20,000\n15,000\n10,000\n5,000\n\n1,000\n0",
+   "conf": 80.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "U,UUL\n5,000\n1,000\niy\n: 0\n% POWER: Use when you would\nRejuvenate a card during combat. Banish\nit instead to raise your anger 2.\nPOWER: > 1: Energy attack.\nDraw a card. Discard a card from\nyour hand. Pal Z,Orgse Bal GT end Dros\nBall Super are all owned\nDAMAGE: 2 life cards. ti hin 40.\nHIT: Rejuvenate 1. pelts aed sae",
+   "conf": 80.4,
+   "n_words": 63
+  }
+ }
+}

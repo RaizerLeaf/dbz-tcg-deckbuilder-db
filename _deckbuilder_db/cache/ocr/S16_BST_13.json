@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_13",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/13_Namekian Empowered Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "i cal tt\nAes.",
+   "conf": 28.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n13\n,\n7\n,\n,",
+   "conf": 22.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "co: Your energy attacks deal +1 life card.\n* POWER: Use when entering combat.\nDraw the bottom card of your discard pile.\nDiscard a card from your hand.\n\nPOWER: The next energy attack you perform\n\nthis combat costs -2 stages (to a minimum\n\n| of 0). Raise your anger 2.\nMASTERY",
+   "conf": 92.9,
+   "n_words": 51
+  }
+ }
+}

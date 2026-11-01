@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_29",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/29_Saiyan Hop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN HOP C) C29",
+   "conf": 71.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3\n2\n0\n2",
+   "conf": 19.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| 09 ENERGY COMBAT (em)\nStops an energy attack.\nA: Lower your opponent's anger 2.\n(Rejuvenate after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 89.0,
+   "n_words": 49
+  }
+ }
+}

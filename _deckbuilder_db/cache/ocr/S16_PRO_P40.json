@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P40",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P40_Villainous Energy Sphere.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS ENERGY SPHERE 6 ) P40\n—<—\\ 7” i» \\) -*",
+   "conf": 49.0,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "p= =VENT\n. (Villains only.)\n* POWER: Use when an Event is played.\nCancel the effects of that card. Your opponent\ndestroys the top card of their Life Deck.\nenter *ent 002465\" 2%6;",
+   "conf": 79.0,
+   "n_words": 33
+  }
+ }
+}

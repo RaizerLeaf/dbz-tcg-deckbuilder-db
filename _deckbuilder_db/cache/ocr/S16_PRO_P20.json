@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P20",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P20_Blue Clash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE CLASH ) P20.",
+   "conf": 85.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4,",
+   "conf": 33.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "GRE ENERGY COMBAT\n. * 1: Energy attack.\nUnpreventable. If your opponent banished an Ally\nin their last action this combat, this attack\ndeals +4 life cards.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck or Banished Zone for\nan Ally and play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 91.5,
+   "n_words": 76
+  }
+ }
+}

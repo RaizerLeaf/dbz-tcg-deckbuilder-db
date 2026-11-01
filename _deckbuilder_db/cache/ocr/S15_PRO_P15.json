@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P15",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P15_Orange Combative Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ">» . \\ NY ie YY i , = 7 i",
+   "conf": 24.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "15\n11,\n1",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| \\ ==, TT,\nco: Your opponent's attacks deal -1 stage.\nYour Styled energy attacks gain “HIT: Prevent\n3 stages and 3 life cards of damage from\nyour opponent’s attacks in their next\naction this combat.”\nPOWER: Gain 2 stages. Choose a card in your\ndiscard pile and Rejuvenate it. If that card is a\nStyled Drill, you may place it into play instead. L\ney",
+   "conf": 89.9,
+   "n_words": 66
+  }
+ }
+}

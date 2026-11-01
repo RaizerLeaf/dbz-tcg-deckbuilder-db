@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_03",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/03_Black Distortion.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DISTORTION () u3\n~",
+   "conf": 77.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "[ oop =VENT ( i ) I\nPOWER: Shuffle an opponent’s\nSetup, Drill, or Ally in play into its\nowner's Life Deck or lower your opponent's\nanger 2.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.8,
+   "n_words": 59
+  }
+ }
+}

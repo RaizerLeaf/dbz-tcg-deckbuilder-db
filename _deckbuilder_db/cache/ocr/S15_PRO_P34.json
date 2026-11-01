@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P34",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P34_Saiyan Elbow Drop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ELBOW DROP @ P34",
+   "conf": 87.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n4",
+   "conf": 41.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| oop JPHYSICAL COMBAT\nXX 1: Physical attack.\nRemain 1.\nDAMAGE: AT +3 stages.\n(Banish after use.)\n(Tournament of Power 2021)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 52
+  }
+ }
+}

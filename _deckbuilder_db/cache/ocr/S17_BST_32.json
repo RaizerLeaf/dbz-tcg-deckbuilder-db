@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_32",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/32_Battle of Wits.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BATTLE OF WITS =) R32,",
+   "conf": 77.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,\n1,",
+   "conf": 12.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(0 Sa =i\n(When this card is discarded Ome\nor destroyed from your Life Deck,\nbanish a Setup.)\nPOWER: Banish a Setup. Raise your anger 1.\nLower your opponent’s anger 1. Shuffle into your\nLife Deck after use.\na",
+   "conf": 86.4,
+   "n_words": 39
+  }
+ }
+}

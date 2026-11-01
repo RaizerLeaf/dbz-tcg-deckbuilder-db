@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P25",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P25_Namekian Erasing Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ERASING BLAST ) P25.",
+   "conf": 82.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "0,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Be =eneasy comaat (B®)\n. (If an Ally performs this attack, OTS”\nit costs 0 stages and deals _—_\n+2 life cards.)\nXX 3: Energy attack.\nlf any damage from this attack is prevented,\nRejuvenate this card and the bottom card of your\ndiscard pile.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 86.0,
+   "n_words": 80
+  }
+ }
+}

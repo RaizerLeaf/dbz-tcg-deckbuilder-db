@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_BST_32",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/32_Saiyan Overload Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN OVERLOAD DRILL €) U32",
+   "conf": 88.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "24 on) '\na3 (If this card is discarded from your hand during combat, you\nz3 2 may play it.)\n\"3s co: Whenever you perform a Styled attack, you may discard a card\nfrom your hand. If you do, that attack deals +X life cards. X=the\n= amount of Endurance on the discarded card (to a maximum of 4).",
+   "conf": 87.4,
+   "n_words": 59
+  }
+ }
+}

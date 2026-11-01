@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_07",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/07_Blue Snare.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SNARE",
+   "conf": 96.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": ",\n\n, ,\n\n37 1 7\n,",
+   "conf": 7.9,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "(69 PHYSICAL COMBAT (| @m)\n. (Limit 2 per deck. If this cardis @2nyW”\nbanished for Endurance and your\nopponent cannot win by MPPV, you may\nlower your opponent’s MP 1 level.)\nVW Stops a physical attack.\nRaise your anger 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 88.1,
+   "n_words": 75
+  }
+ }
+}

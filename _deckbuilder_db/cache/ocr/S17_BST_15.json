@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_15",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/15_Namekian Focused Veer.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FOCUSED VEER C) C15",
+   "conf": 80.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "( 69 ENERGY COMBAT (FB)\n. Stops an energy attack. ars”\nRaise your anger 1. Your next attack this\ncombat gains “Focused.”\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 86.4,
+   "n_words": 53
+  }
+ }
+}

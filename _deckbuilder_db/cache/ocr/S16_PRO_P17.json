@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P17",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P17_Black Command.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK COMMAND",
+   "conf": 95.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(-) =VENT ( i) |\n(If this card is discarded from\nyour hand, you may banish it to\nraise your anger 2.)\n\nPOWER: Banish the top 5 cards of your opponent's\ndiscard pile. If less than 5 cards are banished, destroy\nthe top 3 cards of your opponent's Life Deck.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.6,
+   "n_words": 81
+  }
+ }
+}

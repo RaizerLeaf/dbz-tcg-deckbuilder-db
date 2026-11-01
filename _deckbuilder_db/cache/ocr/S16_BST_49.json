@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_49",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/49_Captain Ginyu's Reflexes.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CAPTAIN GINYU'S REFLEXES ) R49 |\n..- - =.  ~ /-uQ",
+   "conf": 53.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n2\n,\n12\n,",
+   "conf": 15.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(Soa =)\n= '% POWER: Stops an attack. Ome\nSearch your Life Deck for an 9 Ally and play it or\n\nsearch your discard pile or Banished Zone for a\n“Ginyu Force” Ally and play it.\n(Banish after use.)\na",
+   "conf": 82.1,
+   "n_words": 40
+  }
+ }
+}

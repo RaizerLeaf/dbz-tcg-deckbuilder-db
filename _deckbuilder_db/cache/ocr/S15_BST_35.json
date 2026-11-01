@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_35",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/35_Hirudegarn's Gigantic Flame.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HIRUDEGARN'S GIGANTIC FLAME ) R35\n/ — an",
+   "conf": 81.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4",
+   "conf": 64.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "De\nX* 2: Energy attack.\nFocused. Raise your anger 1.\nDAMAGE: 6 life cards.\nHIT: Destroy an opponent's Setup, Drill, and Ally.",
+   "conf": 85.3,
+   "n_words": 22
+  }
+ }
+}

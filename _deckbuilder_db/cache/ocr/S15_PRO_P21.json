@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P21",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P21_Blue Absorption.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ABSORPTION",
+   "conf": 96.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "1\n73\n4 7\n7\n844\n2,",
+   "conf": 26.1,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "( =VENT\nCi) VENT\nPOWER: Prevent all damage from\nan attack.\nYou may discard a card from your hand to perform\na copy of that attack for your next action.\n§2: \\f you do, that attack is considered to deal critical\ndamage. Raise or lower a player's anger 2.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 91.6,
+   "n_words": 83
+  }
+ }
+}

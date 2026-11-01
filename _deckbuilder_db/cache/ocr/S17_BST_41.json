@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_41",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/41_Hit's Flash Fist Crush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HIT'S FLASH FIST CRUSH () R41",
+   "conf": 84.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "37, 7\n,",
+   "conf": 4.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Rg XX Physical attack.\n\nYour opponent skips their next action this combat.\nA: Use a critical damage effect.\nDAMAGE: 5 life cards.\nHIT: At the beginning of the next action this combat,\nend combat.\n(Banish after use.)\na",
+   "conf": 90.7,
+   "n_words": 38
+  }
+ }
+}

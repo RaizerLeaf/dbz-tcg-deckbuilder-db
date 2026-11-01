@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_31",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/31_Heroic Resistance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC RESISTANCE | ) UR31|",
+   "conf": 63.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| { )\n(Heroes only.) Ori”\nW Stops a physical attack.\nYou may banish a card from your hand to search\nyour discard pile for a Styled W card that can\nstop a physical attack and place it into your hand.\nRejuvenate 1.\n(Banish after use.)",
+   "conf": 88.0,
+   "n_words": 46
+  }
+ }
+}

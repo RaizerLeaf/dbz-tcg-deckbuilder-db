@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_16",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/16_Namekian Reverse.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REVERSE C) C16\n| > a Ss,",
+   "conf": 60.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1\n\n2\n4\n7",
+   "conf": 12.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "=P PHYSICAL COMBAT ( Gm!\n. '% Stops a physical attack. ars”\nRaise your anger 1. Your next attack this\ncombat deals +2 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 82.4,
+   "n_words": 56
+  }
+ }
+}

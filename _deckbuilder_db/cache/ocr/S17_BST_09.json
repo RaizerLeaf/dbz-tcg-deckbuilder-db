@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_09",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/09_Blue Nap.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE NAP () C9\noon",
+   "conf": 62.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n2,\n\n1\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(69 ENERGY COMBAT (F=R)\n. Stops an energy attack. Soi Na\nLower your opponent’s anger 2.\n@ : Shuffle all copies of this card from your\ndiscard pile into your Life deck.\n(Rejuvenate after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 87.4,
+   "n_words": 66
+  }
+ }
+}

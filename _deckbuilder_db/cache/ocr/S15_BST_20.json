@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_20",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/20_Orange Heat Wave.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE HEAT WAVE\nAaa SF 4 We",
+   "conf": 56.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(GC) =a\nXX 2: Energy attack.\nFocused. Raise your anger 1.\nDAMAGE: 5 life cards.\nHIT: Search your discard pile for X Styled cards\nand Rejuvenate them. X= your current anger level.\n(Banish after use.)\na",
+   "conf": 86.4,
+   "n_words": 36
+  }
+ }
+}

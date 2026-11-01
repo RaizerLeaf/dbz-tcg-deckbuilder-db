@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_32",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/32_Concentrated Power Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CONCENTRATED POWER BEAM",
+   "conf": 95.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "9\n4,",
+   "conf": 34.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a\n(Heroes only.)\nX% 2: Energy attack.\nFocused. Destroy a Setup.\nDAMAGE: 3 life cards.\nHIT: Styled Setups lose all effects until the end\nof the turn.\n(Banish after use.)",
+   "conf": 89.5,
+   "n_words": 30
+  }
+ }
+}

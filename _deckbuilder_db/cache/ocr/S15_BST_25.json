@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_25",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/25_Red Quick Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED QUICK BLAST @) cz\nwy ») i EE",
+   "conf": 59.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n71\n,\n2",
+   "conf": 10.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| oop ) ENERGY COMBAT\n(When this attack is performed from\nyour discard pile, you may destroy an Ally\nor attached card.)\nXX 1: Energy attack.\nRaise your anger 1.\nDAMAGE: 4 life cards.\nHIT: You may banish the top card of your Life Deck\nto destroy an Ally or attached card.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.3,
+   "n_words": 83
+  }
+ }
+}

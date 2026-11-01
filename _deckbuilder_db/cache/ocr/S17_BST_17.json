@@ -1,0 +1,17 @@
+{
+ "card_id": "S17_BST_17",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/17_Orange Pressure Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE PRESSURE DRILL Oye",
+   "conf": 83.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| es (Once per turn, after this Drill is destroyed from play by one\na32 of your effects, you may banish it to destroy an Ally.)\n3 A: POWER: Choose an Ally in play. It loses all effects\nA this turn.",
+   "conf": 89.1,
+   "n_words": 41
+  }
+ }
+}

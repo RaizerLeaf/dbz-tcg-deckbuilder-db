@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_BST_03",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/03_Black Secret.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK SECRET @ 23]",
+   "conf": 72.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ": a: (Limit 1 per deck.)\na: 3 POWER: Search your discard pile for up to 3 Styled Setups\nAe and place them on top of your Life Deck.\n\n(Banish after use.)",
+   "conf": 86.8,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_06",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/06_Blue Protection.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE PROTECTION",
+   "conf": 96.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "4\n,0,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "T 09 =VENT ( 4 ) i\n‘v POWER: Prevent all damage TRAN\nfrom an attack.\nYou may play an Ally from your hand. If you do,\ndraw a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 87.2,
+   "n_words": 64
+  }
+ }
+}

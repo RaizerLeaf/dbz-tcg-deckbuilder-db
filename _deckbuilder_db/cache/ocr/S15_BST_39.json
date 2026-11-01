@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_39",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/39_Tapion's Brave Sword Attack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TAPION'S BRAVE SWORD ATTACK @ ) R39\n~~ EW IGA 2",
+   "conf": 68.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "2 ,\n2,",
+   "conf": 19.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Si \\—)E\nX% 1: Physical attack. Ome\nIf your MP has a lower power level than\nthe defending personality, Remain 1. Rejuvenate 2.\nDAMAGE: 6 life cards.\n(If you use this card a second time this combat,\nbanish after use.)\na",
+   "conf": 87.4,
+   "n_words": 41
+  }
+ }
+}

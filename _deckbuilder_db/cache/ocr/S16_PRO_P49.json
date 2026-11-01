@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P49",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P49_Goku's Kaio-Ken.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU'S KAIO-KEN ? ) P4g |\n— a",
+   "conf": 64.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 10.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". (You cannot win by MPPV if you use\nthis card.)\nPOWER: Destroy the top 3 cards of your Life Deck.\nRaise your anger 6.\n(Banish after use.)",
+   "conf": 94.9,
+   "n_words": 28
+  }
+ }
+}

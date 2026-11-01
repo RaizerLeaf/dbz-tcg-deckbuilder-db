@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P20",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P20_Black Dash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DASH | ) P20 |",
+   "conf": 73.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4",
+   "conf": 95.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "[ oop JPHYSICAL COMBAT ( 1 ) I\nXX Physical attack. en\nRaise your anger 2.\nDAMAGE: AT +2 stages.\nHIT: You may search your opponent's Life Deck for\nan Ally that isn’t already in play and play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.2,
+   "n_words": 70
+  }
+ }
+}

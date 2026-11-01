@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_07",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/07_Blue Unity Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "te 7 = Bre\nee gn PE 8. (Sr ee a Oe en",
+   "conf": 26.0,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "4\n5\n,\n4\n0\n,\n,\n,\n,",
+   "conf": 13.7,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "————\n* POWER: Use after performing a successful\n1 Styled attack. That attack gains “HIT: If you §\ncontrol 2 or less Allies, search your Life\nDeck for a non-co Ally and play it.”\nPOWER: Choose an Ally you control. That\n) Ally can make actions regardless of your MP’s\npower stage this combat. Your opponent\nskips their next action this combat.",
+   "conf": 88.0,
+   "n_words": 62
+  }
+ }
+}

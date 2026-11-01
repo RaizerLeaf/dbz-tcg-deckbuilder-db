@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_95",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/95_Piccolo - Fighting Spirit.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO",
+   "conf": 95.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "2,750,000\n2,400,000\n2,250,000\n1,700,000\n1,350,000\n900,000\n550,000\n300,000\n150,000\n70,000\n0",
+   "conf": 69.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "JIUU,UUU\n150,000\nSe 10.000\n© 0\nco: Your attacks cost -2 stages (to a\nminimum of 0) and are Focused. >\nPOWER: Search your Life Deck, discard\npile, or Banished Zone for a Named card\nand place it into your hand. Rejuvenate 3.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 91.7,
+   "n_words": 82
+  }
+ }
+}

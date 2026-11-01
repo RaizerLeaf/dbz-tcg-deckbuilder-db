@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P22",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P22_Blue Betrayal.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE BETRAYAL () P22\n—",
+   "conf": 71.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "( oop PHYSICAL COMBAT\nma\nXX Physical attack.\nBanish an opponent’s Setup, Drill, or Ally.\nDAMAGE: AT stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 89.6,
+   "n_words": 49
+  }
+ }
+}

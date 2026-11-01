@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_85",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/85_Goku - Warming Up.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU",
+   "conf": 95.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "9,200,000\n5,425,000\n2,700,000\n1,050,000\n820,000\n660,000\n375,000\n150,000\n77,000\n34,000\n0",
+   "conf": 78.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "7% ; - U,UUU\nSe ee 77,000\nond 34,000\n= (E) (s) 0\n(When you reach this level, search your\nLife Deck for a Styled Drill and place >\nit into play.) de |\nPOWER: X Energy attack.\nA: Rejuvenate a Styled Drill from your ,\ndiscard pile or Banished Zone. ea eeenrieieees\nBall Si are all owned\nDAMAGE: 4 life cards. rt tn 40.\nHIT: Raise or lower a player’s anger 2. polpetesetoest aed",
+   "conf": 77.7,
+   "n_words": 75
+  }
+ }
+}

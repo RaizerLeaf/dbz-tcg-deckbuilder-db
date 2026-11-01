@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P21",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P21_Blue Lunar Ray.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE LUNAR RAY\naaa",
+   "conf": 77.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "0,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(=) ENERGY COMBAT\nX% 2: Energy attack.\nYou may search your discard pile for an Ally and\nplace it into play at 3 stages above 0.\nDAMAGE: 4 life cards.\nHIT: Raise that Ally to its highest power stage.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 91.3,
+   "n_words": 73
+  }
+ }
+}

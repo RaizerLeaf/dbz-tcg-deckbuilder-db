@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P25",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P25_Namekian Overtime.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN OVERTIME C) P25\nI -. PY",
+   "conf": 51.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n4",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(¢, ——\nPOWER: Rejuvenate 1. Destroy the\ntop X cards of your opponent's Life Deck.\nX =the number of Dragon Balls you control. Search\nyour Life Deck for a Styled Energy Combat card\nand place it into your hand.\n(Banish after use.)\n\nee",
+   "conf": 87.2,
+   "n_words": 43
+  }
+ }
+}

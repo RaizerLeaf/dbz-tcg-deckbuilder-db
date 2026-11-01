@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_24",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/24_Orange Obstruction.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE OBSTRUCTION C) C24",
+   "conf": 70.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n2\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "— =NERGY COMBAT (GSR)\n. Stops an energy attack. Soi Na\nLower your opponent’s anger 1. If a Drill\nyou controlled was destroyed from play by one of\nyour effects this turn, search your discard pile\nfor a Drill and place it into play.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 86.7,
+   "n_words": 75
+  }
+ }
+}

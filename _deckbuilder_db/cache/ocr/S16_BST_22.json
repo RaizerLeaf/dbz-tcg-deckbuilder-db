@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_22",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/22_Orange Back Smash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE BACK SMASH C) U22",
+   "conf": 74.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n7\n,",
+   "conf": 10.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT\n= XX Physical attack.\nIf a Drill you controlled was destroyed from play by\none of your effects this turn, search your Life Deck for\na co Drill and place it into play. A: Focused.\nDAMAGE: 5 stages.\n(Banish after use.)\na",
+   "conf": 90.5,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_40",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/40_Videl's Justice Rush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VIDEL'S JUSTICE RUSH () R40",
+   "conf": 81.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Sih\nXX Physical attack.\nRaise your anger 1 or your physical attacks are\nFocused this combat.\nDAMAGE: AT +3 life cards.\nHIT: Raise your anger 1 or your physical attacks are\nUnpreventable this combat.\n(Banish after use.)",
+   "conf": 93.4,
+   "n_words": 37
+  }
+ }
+}

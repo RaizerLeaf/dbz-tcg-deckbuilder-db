@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P39",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P39_Time Is A Warrior's Tool.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TIME IS A WARRIOR'S TOOL @© ) P39\nee Se. oe we Ce",
+   "conf": 57.4,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "3\n9\n5",
+   "conf": 16.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "o (Limit 1 per deck.)\nPOWER: Stops a physical or\nenergy attack.\nStops all of your opponent’s attacks this combat.\nPel Pe Pe",
+   "conf": 82.3,
+   "n_words": 23
+  }
+ }
+}

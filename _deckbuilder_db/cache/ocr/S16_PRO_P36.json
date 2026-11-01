@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_PRO_P36",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P36_Isolation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ": vo de\nISOLATION ( ) P36",
+   "conf": 50.3,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "* POWER: Use when entering combat. Drills and Allies lose\nall effects until the end of combat. Allies cannot make actions\nnor have damage redirected to them this combat.\n(Banish after use.)\nL",
+   "conf": 91.8,
+   "n_words": 33
+  }
+ }
+}

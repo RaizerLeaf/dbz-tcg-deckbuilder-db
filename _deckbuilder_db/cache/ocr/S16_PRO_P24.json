@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P24",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P24_Namekian Side Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SIDE KICK ) P24,",
+   "conf": 86.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n2,\n,",
+   "conf": 14.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| = PHYSICAL COMBAT ~~\n. Physical attack.\nLower your opponent’s anger 2.\nDAMAGE: AT + 2 life cards.\nHIT: Draw the top card of your discard pile.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.8,
+   "n_words": 62
+  }
+ }
+}

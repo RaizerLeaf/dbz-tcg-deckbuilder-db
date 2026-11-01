@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_34",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/34_Warp Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WARP BLAST S ) R34\na”",
+   "conf": 73.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n7",
+   "conf": 26.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "OD\n(Villains only.)\nX% 2: Energy attack.\nFocused. Destroy a Drill.\nDAMAGE: 3 life cards.\nHIT: Styled Drills lose all effects until the end\nof the turn.\n(Banish after use.)",
+   "conf": 89.7,
+   "n_words": 30
+  }
+ }
+}

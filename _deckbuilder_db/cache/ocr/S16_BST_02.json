@@ -1,0 +1,17 @@
+{
+ "card_id": "S16_BST_02",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/02_Black Dominion.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DOMINION () C2",
+   "conf": 79.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "3 a: (If this card is destroyed from play by one of your effects,\n232 you may Rejuvenate it.)\n“$e POWER: Banish a card from your opponent's discard pile.\nSearch your opponent's Life Deck for a copy of that card and\nw= banish it.",
+   "conf": 88.3,
+   "n_words": 44
+  }
+ }
+}

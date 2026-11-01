@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P51",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P51_Piccolo's Weighted Clothing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO'S WEIGHTED CLOTHING 4 ) P51\nrer es ee A elle er",
+   "conf": 52.9,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "7\n,\n2,",
+   "conf": 11.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "p= =VENT\n. (If this card is in your discard pile, you\nmay banish it as an action to raise your anger 2.)\n% POWER: Use when entering combat as the\ndefender. Your opponent skips their first action\nthis combat. Gain X stages. X = your PUR.\nenter *ent 002465\" 2%6;",
+   "conf": 84.5,
+   "n_words": 51
+  }
+ }
+}

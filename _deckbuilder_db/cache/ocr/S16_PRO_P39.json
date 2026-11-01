@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P39",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P39_Stare Down.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "STARE DOWN ; ) P39 |\n_f ar we.",
+   "conf": 63.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "p= =VENT\n. (Villains only.)\nPOWER: Look at your opponent's hand and\nchoose a card. Your opponent discards that card.",
+   "conf": 85.2,
+   "n_words": 20
+  }
+ }
+}

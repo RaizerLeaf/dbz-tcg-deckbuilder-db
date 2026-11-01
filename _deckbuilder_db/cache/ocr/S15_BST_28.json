@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_28",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/28_Saiyan Punishing Blow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "U28\nSAIYAN PUNISHING BLOW C)\n\\ ~~",
+   "conf": 67.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4,\n4\n347 2",
+   "conf": 35.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| oop PHYSICAL COMBAT ( rd )\nXX Physical attack.\nRaise your anger 1. If the highest power level on\nyour MP’s Level 4 is 500,000 or less, the next attack\nyou perform this combat that does not have AT\nbase damage has its power stage damage doubled.\nDAMAGE: 6 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 88.8,
+   "n_words": 82
+  }
+ }
+}

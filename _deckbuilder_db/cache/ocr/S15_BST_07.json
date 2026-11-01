@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_07",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/07_Blue Dismissal.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE DISMISSAL",
+   "conf": 95.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| gp) PHYSICAL COMBAT\n(If this card is destroyed from your\nLife Deck, Rejuvenate it.)\nStops a physical attack.\nName a card. Search your opponent's\ndiscard pile for a copy of that card and banish it.\nG9: Raise your anger 2.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 90.6,
+   "n_words": 72
+  }
+ }
+}

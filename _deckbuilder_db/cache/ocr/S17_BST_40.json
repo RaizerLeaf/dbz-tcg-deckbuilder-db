@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_40",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/40_Hit's Time Skip.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HIT'S TIME SKIP ) R40 |",
+   "conf": 72.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n4\n,\n,\n,",
+   "conf": 21.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(0 a 1)\n(You may shuffle this card into Ome\nyour Life Deck to stop an attack.)\n* POWER: Use when entering combat. Your\nopponent skips their first action this combat.\nDraw 2 cards.\n(Banish after use.)\n\na",
+   "conf": 85.7,
+   "n_words": 38
+  }
+ }
+}

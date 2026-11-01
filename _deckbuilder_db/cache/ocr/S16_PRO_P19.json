@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P19",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P19_Black Refusal.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK REFUSAL () P19\nas",
+   "conf": 73.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n37",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(SB PHYSICAL COMBAT\n. Physical attack.\nYou may destroy a Setup or Drill you control.\nIf you do, destroy up to 2 Setups and/or Drills.\nDAMAGE: 4 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.1,
+   "n_words": 58
+  }
+ }
+}

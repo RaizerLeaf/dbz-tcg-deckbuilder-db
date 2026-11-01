@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P38",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P38_Battle Pausing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BATTLE PAUSING () P38",
+   "conf": 77.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n4\n4\n,\n4, ,",
+   "conf": 10.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "Sh\n(Limit 2 per deck.)\nPOWER: Banish a card from your hand to draw the\ntop 2 cards of your discard pile. Your opponent\ngains 5 stages.\n(Banish after use.)\n(Tournament of Power 2021)",
+   "conf": 94.4,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_03",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/03_Black Stomp.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK STOMP () U3\nVe | 6",
+   "conf": 59.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "5\n37\n,",
+   "conf": 6.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "[ 09 PHYSICAL COMBAT\nXX Physical attack.\nIf you control more Setups than your opponent,\nwhenever your opponent plays a non-Styled card this\nturn, banish the bottom 3 cards of your opponent's\nLife Deck.\nDAMAGE: 4 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.9,
+   "n_words": 69
+  }
+ }
+}

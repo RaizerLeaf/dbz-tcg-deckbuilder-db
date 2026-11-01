@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P30",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P30_Red Tandem Attack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED TANDEM ATTACK () P30",
+   "conf": 82.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "0\n\n,\n\n,\n6\n,\n1,",
+   "conf": 2.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(=e) PHYSICAL COMBAT ( = )k\n(If this card is discarded from oe\nyour hand by an opponent's effect,\ndraw a card and raise your anger 1.)\nXX Physical attack.\n\nRaise your anger 1. If your opponent has 5 or\n\nmore cards in their hand, draw a card.\n\nDAMAGE: AT +3 stages.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.0,
+   "n_words": 83
+  }
+ }
+}

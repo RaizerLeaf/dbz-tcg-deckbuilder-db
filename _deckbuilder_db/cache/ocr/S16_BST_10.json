@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_10",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/10_Blue Selfless Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SELFLESS DEFENSE () U10\nee",
+   "conf": 73.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "[- 4 =VENT ( l ) |\n(Limit 2 per deck.) DRA\n‘W POWER: Stops an energy attack.\nUntil the end of combat, any life card damage you\nwould take is converted to stages instead.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 86.3,
+   "n_words": 69
+  }
+ }
+}

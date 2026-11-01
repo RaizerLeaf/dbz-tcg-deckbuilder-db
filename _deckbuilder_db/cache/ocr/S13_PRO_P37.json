@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P37",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P37_Saiyan Strength Test.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN STRENGTH TEST C) P37",
+   "conf": 76.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "43\n,\n,\n,",
+   "conf": 13.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Limit 1 per deck. You may only have\none “Saiyan Strength Test” attached.)\nPOWER: Attach to your MP. Draw a card. While\nattached, whenever you raise your anger, banish the\nbottom card of your opponent's discard pile.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 93.7,
+   "n_words": 68
+  }
+ }
+}

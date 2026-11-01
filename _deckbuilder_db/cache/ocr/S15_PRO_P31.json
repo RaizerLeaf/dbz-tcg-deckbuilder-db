@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P31",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P31_Red Heel Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED HEEL KICK C) P31 |",
+   "conf": 85.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "37\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| oop PHYSICAL COMBAT\nXX Physical attack.\nRaise your anger 1. You may lower your anger 2 to\nsearch your discard pile for a Styled attack not titled\n“Red Heel Kick” and place it into your hand.\nDAMAGE: AT +2 stages.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.3,
+   "n_words": 75
+  }
+ }
+}

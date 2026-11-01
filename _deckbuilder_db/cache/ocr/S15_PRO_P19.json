@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P19",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P19_Black Combo.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK COMBO () P19",
+   "conf": 74.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n7 7\n2\n3 2\n4 ,\n,",
+   "conf": 14.7,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "| oop YPHYSICAL COMBAT\nXX Physical attack.\nRaise your anger 2.\nDAMAGE: AT +1 stage.\nHIT: You may choose a card attached to an MP\nand attach it to a different MP.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.6,
+   "n_words": 63
+  }
+ }
+}

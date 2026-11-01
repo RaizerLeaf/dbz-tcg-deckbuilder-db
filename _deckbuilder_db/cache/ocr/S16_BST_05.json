@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_05",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/05_Black Inner Focus.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK INNER FOCUS ) U5\n— ware. 2) a 7 2 .",
+   "conf": 49.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n\n3 ,\n3\n,",
+   "conf": 0.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| ] EVENT ( 5) |\nPOWER: Search your Life Deck\nfor a Styled Setup and place it into play.\n@: Banish the top 2 cards of your opponent's\ndiscard pile.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.9,
+   "n_words": 65
+  }
+ }
+}

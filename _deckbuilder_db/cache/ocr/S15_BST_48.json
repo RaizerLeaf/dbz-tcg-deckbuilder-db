@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_BST_48",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/48_Janemba - Rotund.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@ JANEMBA\nLEVEL ROTUND () 548\n~ a, |",
+   "conf": 58.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3,200,000\n2,500,000\n1,800,000\n1,300,000\n900,000\n650,000\n400,000\n150,000\n75,000\n40,000\n0",
+   "conf": 72.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| J > 4 U,UUL\nan\n‘ \\ 75,000\n2 =\nPOWER: > 2: Energy attack.\nFocused. You may destroy an attached\ncard. If you do, this attack gains “HIT:\nRaise your anger X. X= the attached\ncard’s Endurance.”\nDAMAGE: 5 life cards. eis ene\nBall Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 83.2,
+   "n_words": 73
+  }
+ }
+}

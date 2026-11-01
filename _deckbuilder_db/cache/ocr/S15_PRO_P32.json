@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P32",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P32_Red Resourceful Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RESOURCEFUL BLOCK @ P32\nJa 7 F-",
+   "conf": 61.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,\n0,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "( oop PHYSICAL COMBAT (Rp)\nVW Stops a physical attack. Carns”\nLower your MP 1 level. If you do,\nadvance your MP 1 level at the end of combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.2,
+   "n_words": 60
+  }
+ }
+}

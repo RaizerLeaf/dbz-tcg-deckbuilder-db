@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_BST_36",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/36_Cabba's Furious Charge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CABBA'S FURIOUS STRIKE ¢ ) R36 |\nyy Wii",
+   "conf": 75.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4 1\n,",
+   "conf": 11.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "=}\n. (Heroes only.) TTS”\nXX Physical attack. a\nFocused. You are considered to have no cards in\nyour hand for your effects this combat.\nDAMAGE: 6 stages.\nHIT: Raise your anger 2.\n(Shuffle into your Life Deck after use.)",
+   "conf": 87.3,
+   "n_words": 40
+  }
+ }
+}

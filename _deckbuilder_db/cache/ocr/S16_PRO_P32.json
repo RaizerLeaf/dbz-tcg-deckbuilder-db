@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P32",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P32_Red Left Bolt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED LEFT BOLT () P32",
+   "conf": 82.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(=6) ENERGY COMBAT\nXX 3: Energy attack.\nDamage from this attack is banished.\nDraw the bottom card of your Life Deck.\nDAMAGE: 5 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.3,
+   "n_words": 59
+  }
+ }
+}

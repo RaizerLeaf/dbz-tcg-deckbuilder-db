@@ -1,0 +1,22 @@
+{
+ "card_id": "S15_PRO_P28",
+ "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P28_Orange Dismissal.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE DISMISSAL ) P28",
+   "conf": 82.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "54\n,",
+   "conf": 16.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "59 ENERGY COMBAT ©\nmA Te ee eee\nStops an energy attack.\nYou may shuffle a Drill you control into its\nowner's Life Deck. If you do, search your Life Deck\nfor a Drill and play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.4,
+   "n_words": 68
+  }
+ }
+}

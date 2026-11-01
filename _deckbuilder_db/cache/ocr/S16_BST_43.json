@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_BST_43",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere/43_Unlimited Potential.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UNLIMITED POTENTIAL  @m)tjas’’",
+   "conf": 45.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "1\n0\n24444",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". ( @ only. Limit 1 per deck. Once per\ncombat, you may shuffle this card from your hand\ninto your Life Deck as an action to destroy a\n\nSetup, Drill, or Ally.)\n\nPOWER: Destroy an attached card. A: Destroy all\n\nattached cards instead.\n(Banish after use.)\nenter *ent 002465\" 2%6;",
+   "conf": 85.2,
+   "n_words": 51
+  }
+ }
+}

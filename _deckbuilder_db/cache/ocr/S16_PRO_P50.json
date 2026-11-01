@@ -1,0 +1,22 @@
+{
+ "card_id": "S16_PRO_P50",
+ "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P50_Krillin's Destructo Disk.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KRILLIN'S DESTRUCTO DISK () P50\ni",
+   "conf": 75.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "—pe ENERGY COMBAT\n. XX 2: Energy attack.\nUnstoppable and Unpreventable.\nDAMAGE: 4 life cards.",
+   "conf": 79.3,
+   "n_words": 15
+  }
+ }
+}
