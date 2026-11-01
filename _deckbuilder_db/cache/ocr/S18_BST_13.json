@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_13",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/13_Namekian Aggression.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN AGGRESSION \"ii\"",
+   "conf": 58.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "37\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(OC PHYSICAL comaaT( Gm)\n. (Namekian Enlightened Mastery ST iia\nonly.) a\nXX Physical attack.\nThe next time you stop an attack this turn,\ndraw a card.\nDAMAGE: 5 stages.\nHIT: Raise your anger 1. Lower your opponent’s\nanger 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 83.8,
+   "n_words": 71
+  }
+ }
+}

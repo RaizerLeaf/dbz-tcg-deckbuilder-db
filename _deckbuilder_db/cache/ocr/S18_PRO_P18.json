@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P18",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P18_Orange Collision.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE COLLISION ) P18.",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(CO PHYSICAL comBAT (2 i\n. Physical attack. COT”\nRaise your anger 1.\nDAMAGE: AT +4 stages.\nHIT: Search your discard pile for a Styled Drill\nand play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 86.5,
+   "n_words": 60
+  }
+ }
+}

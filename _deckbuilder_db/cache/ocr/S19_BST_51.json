@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_51",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/51_Top's Justice Reverse Choke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TOP'S JUSTICE REVERSE CHOKE",
+   "conf": 94.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1\n2\n3,\n1\n,\n4",
+   "conf": 17.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ". > Physical attack.\n\nThe next time your opponent plays an Event as an\naction this combat, you may banish the top card of your\nLife Deck to cancel the effects of that card. Attach to\nyour opponent’s MP. While attached, at the start of\neach turn, banish the top card of your opponent's Life\nDeck. Rejuvenate this card when your opponent deals\ncritical damage.\n\nDAMAGE: 5 stages.\nsEreeg=2a6: ay I a —",
+   "conf": 88.5,
+   "n_words": 73
+  }
+ }
+}

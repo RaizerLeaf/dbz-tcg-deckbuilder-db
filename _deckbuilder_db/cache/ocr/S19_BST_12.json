@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_12",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/12_Blue Reckoning Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE RECKONING BLAST () U12\n| ir BN OY Tw |",
+   "conf": 63.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ee ENERGY COMBAT (Bw)\n. % 2: Energy attack. CO?\nLower a player’s anger 2. If you have prevented\ndamage this combat from a non-Endurance source,\nUnpreventable. 4: Raise or lower a player's anger 2.\nDAMAGE: 6 life cards.\n( @: Rejuvenate after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and Dragon Balt Daima are all\nowned by Funimation, Toei Animation, Fuji T.V. and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 86.6,
+   "n_words": 78
+  }
+ }
+}

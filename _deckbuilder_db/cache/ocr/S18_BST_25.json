@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_25",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/25_Red Frustrated Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED FRUSTRATED BLAST () C25\nNAD,",
+   "conf": 77.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "((C))_eneasy comaat (G3)\nXX 1: Energy attack.\nRaise your anger 1.\nDAMAGE: 4 life cards.\nHIT: If this attack dealt stages of damage, banish\nan opponent’s Setup, Drill, or Ally.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.2,
+   "n_words": 61
+  }
+ }
+}

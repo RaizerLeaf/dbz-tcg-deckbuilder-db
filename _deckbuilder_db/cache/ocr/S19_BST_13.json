@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_13",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/13_Namekian Refined Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "— =\n<4\ny ~—-7,\nGules. Adana\\en\\Ghe —",
+   "conf": 20.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "13\n1\n,\n7\n,",
+   "conf": 5.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ee a\nco: Attacks performed by your MP deal +1\nlife card. Whenever a Drill you own enters play\nduring combat, gain 2 stages.\n* POWER: Use when you would Rejuvenate\nany number of cards during combat. Banish\nthem instead to search your Life Deck for a\nStyled or Named Drill and place it into play.",
+   "conf": 92.1,
+   "n_words": 56
+  }
+ }
+}

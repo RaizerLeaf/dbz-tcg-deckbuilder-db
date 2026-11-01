@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_PRO_P8",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P8_Blue Battle Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE BATTLE DRILL () P8",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a2 y A 4 s\n52: co: Cards that end combat cannot be played or used.\n230\na5\n0)\ncA y",
+   "conf": 60.8,
+   "n_words": 21
+  }
+ }
+}

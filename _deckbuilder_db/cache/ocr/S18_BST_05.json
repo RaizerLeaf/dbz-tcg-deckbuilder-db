@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_05",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/05_Black Divine Barrier.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DIVINE BARRIER () C5\na Qaa la a",
+   "conf": 59.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n4,\n,\n, 15\n,\n,",
+   "conf": 12.6,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "((C)) ENzeAGY CcomMBAT ( i) |\nStops an energy attack. Ph\nlf that attack was an Energy Combat card,\nreturn it to your opponent’s hand. @: Your opponent\ndiscards a random card from their hand.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.5,
+   "n_words": 66
+  }
+ }
+}

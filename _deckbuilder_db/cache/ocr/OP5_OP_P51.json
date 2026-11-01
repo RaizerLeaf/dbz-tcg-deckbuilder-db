@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P51",
+ "rel_path": "z_OP Series/OP5/P51_Cell Jr.'s Beatdown.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CELL JR.'S BEATDOWN () P51\ney ON oe ee oe",
+   "conf": 60.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Vv.” PHYSICAL COMBAT\na7\nXX Physical attack.\nYou may search your Life Deck for a card with\na co effect and place it into play.\nDAMAGE: 6 stages.\nHIT: Lower both players’ MP 1 level.\n\n(Banish after use.)",
+   "conf": 89.3,
+   "n_words": 38
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_PRO_P20",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P20_Red Embarrassing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED EMBARRASSING DRILL () P20\n—— acc ——— el",
+   "conf": 60.6,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "Ey —\na3 * POWER: Use when one of your effects requires you to lower\n28 2 your anger. You may reduce that amount to 0.",
+   "conf": 83.4,
+   "n_words": 26
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_08",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/08_Blue Squad Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SQUAD DRILL Our",
+   "conf": 91.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "zie -h 4 B LAY\n: i: * POWER: §9: Use at the start of your Rejuvenation Step.\n32 Search your discard pile for an Ally and Rejuvenate it.\n“3g % POWER: Use when one of your effects puts an Ally into play.\n| Rejuvenate 2.",
+   "conf": 78.4,
+   "n_words": 46
+  }
+ }
+}

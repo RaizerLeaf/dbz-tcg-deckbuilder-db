@@ -1,0 +1,22 @@
+{
+ "card_id": "OP6_OP_P63",
+ "rel_path": "z_OP Series/OP6/P63_Dr. Wheelo's Flight.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DR. WHEELO'S FLIGHT () P63",
+   "conf": 80.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4 4\n,\n,",
+   "conf": 27.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "a (You cannot win by MPPV if you Ome\nuse this card. You may only have one\n“Dr. Wheelo’s Flight” attached.)\n‘ POWER: Stops an attack.\nRaise your anger 6. Attach to your MP. While attached, if\nyour MP is Dr. Wheelo, after one of your effects destroys\ncards from your opponent's Life Deck, banish that many\ncards from the top of your opponent's discard pile.\n|",
+   "conf": 89.6,
+   "n_words": 67
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P5",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P5_Black Protection.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK PROTECTION () P5",
+   "conf": 72.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n\n4\n5\n\n,\n\n,",
+   "conf": 7.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "C ENERGY COMBAT\n. (If this card is destroyed from your\nLife Deck by one of your effects, you may\ndraw a card.)\nStops an energy attack.\nYou may discard a Styled card from your hand.\nIf you do, Remain 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.7,
+   "n_words": 71
+  }
+ }
+}

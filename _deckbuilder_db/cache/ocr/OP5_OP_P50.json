@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P50",
+ "rel_path": "z_OP Series/OP5/P50_Bojack's Cosmic Bomber.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BOJACK'S COSMIC BOMBER @= ) P50 |\n—_ 4, (~ Lae nD. Kl",
+   "conf": 57.3,
+   "n_words": 13
+  },
+  "stages": {
+   "text": ",,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ras XX 2: Energy attack.\nUnmodifiable. If Team Bojack is in play, Unstoppable.\nDAMAGE: 6 life cards.\n\nHIT: Raise your anger 2 or search your discard pile or\nBanished Zone for an 9 Ally and Rejuvenate it.\n(Banish after use.)\n|",
+   "conf": 90.3,
+   "n_words": 41
+  }
+ }
+}

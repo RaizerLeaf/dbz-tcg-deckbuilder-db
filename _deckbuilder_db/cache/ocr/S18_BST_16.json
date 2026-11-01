@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_16",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/16_Orange Strikeout.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE STRIKEOUT On",
+   "conf": 66.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Epo a Sa\n: 3 POWER: Destroy a Setup, Drill, or Ally.\na)",
+   "conf": 68.0,
+   "n_words": 13
+  }
+ }
+}

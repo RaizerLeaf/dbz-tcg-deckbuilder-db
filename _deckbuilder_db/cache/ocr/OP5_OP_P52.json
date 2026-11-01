@@ -1,0 +1,17 @@
+{
+ "card_id": "OP5_OP_P52",
+ "rel_path": "z_OP Series/OP5/P52_Dene's Distress.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DENDE'S DISTRESS ©) P52 ») P52 |",
+   "conf": 63.9,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "POWER: Your opponent passes for their next action this combat\nOr your opponent cannot declare combat during their next turn.\n. (Banish after use.)",
+   "conf": 91.4,
+   "n_words": 24
+  }
+ }
+}

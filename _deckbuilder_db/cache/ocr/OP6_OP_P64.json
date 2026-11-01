@@ -1,0 +1,22 @@
+{
+ "card_id": "OP6_OP_P64",
+ "rel_path": "z_OP Series/OP6/P64_Janemba's Hell Gate.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "JANEMBA'S HELL GATE >) P64\nEES ll",
+   "conf": 61.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n,\n5,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(Sa 1)\n(This card is considered Styled.) Ome\nXX 1: Energy attack.\nFocused. Rejuvenate X. X= the number of cards\nattached to your MP to a maximum of 5.\nDAMAGE: 4 life cards.\nHIT: Return a non-Named X card attached to your\nMP to its owner’s hand.\n(Banish after use.)\na",
+   "conf": 89.1,
+   "n_words": 51
+  }
+ }
+}

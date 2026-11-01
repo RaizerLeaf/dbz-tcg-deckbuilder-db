@@ -1,0 +1,17 @@
+{
+ "card_id": "S19_BST_47",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/47_Buu's Slumber.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S SLUMBER ae R47 |",
+   "conf": 81.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| a | pa\" “>\n(Heroes only. If this card is in your discard pile, you may banish\nit as an action to lower your opponent's anger 2.)\nPOWER: Search your discard pile for up to 2 cards and shuffle\n| them into your Life Deck.\n' (Rejuvenate after use.)",
+   "conf": 86.3,
+   "n_words": 50
+  }
+ }
+}

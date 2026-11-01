@@ -1,0 +1,17 @@
+{
+ "card_id": "S19_BST_20",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/20_Orange Charisma Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE CHARISMA DRILL () R20",
+   "conf": 78.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "3 2¢ =\n\n: ze (This Drill is not discarded when changing levels. You cannot win\n\niby by MPPV if you use this Drill’s °° Power.)\n\n33 co: Whenever your MP changes levels, choose up to X Drills you\naaa | control. X= your MP’s level. Those Drills are not discarded.",
+   "conf": 80.3,
+   "n_words": 51
+  }
+ }
+}

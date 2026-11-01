@@ -1,0 +1,22 @@
+{
+ "card_id": "OP3_OP_P24",
+ "rel_path": "z_OP Series/OP3/P24_Dende's Healing Aura.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DENDE'S HEALING AURA () P24",
+   "conf": 81.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7, 4\n,",
+   "conf": 31.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(ae 1)\n(If this card is banished for Ome\nEndurance, gain 5 stages.)\n‘v9 POWER: Stops a physical or energy attack.\nChoose a Setup or Styled Drill in your discard pile\nand place it into play.\n(Banish after use.)\na",
+   "conf": 87.5,
+   "n_words": 40
+  }
+ }
+}

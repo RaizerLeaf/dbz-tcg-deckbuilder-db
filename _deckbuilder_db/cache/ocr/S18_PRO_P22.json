@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P22",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P22_Red Shoulder Grab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED SHOULDER GRAB () P22",
+   "conf": 82.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n74\n4\n4\n, 4\n37\n,",
+   "conf": 9.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "| C PHYSICAL COMBAT\n. Physical attack.\nRaise your anger 1. Your other attacks are\nconsidered to deal critical damage this combat.\nDAMAGE: AT +3 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.0,
+   "n_words": 57
+  }
+ }
+}

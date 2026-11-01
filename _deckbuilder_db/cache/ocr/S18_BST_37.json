@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_37",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/37_ Goku Black - Mysterious.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "LL GOKU BLACK\nLEVEL MYSTERIOUS () S3/",
+   "conf": 75.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "5,200,000\n3,700,000\n1,450,000\n980,000\n490,000\n270,000\n95,000\n42,000\n9,000\n\n7,000\n\n0",
+   "conf": 94.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "é 42,UUU\ny 9,000\noo\nDE :\nco: Your opponent’s attacks deal -1\nlife card.\nPOWER: Destroy the top card of your Life C\nDeck. Your opponent discards a card\nfrom their hand.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 90.6,
+   "n_words": 72
+  }
+ }
+}

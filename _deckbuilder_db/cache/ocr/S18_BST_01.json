@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_01",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/01_Black Flowing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FLOWING DRILL () U1",
+   "conf": 84.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "zee : : oa - tai\naH * POWER: @@: Use at the start of your Rejuvenation Step.\n28 2 Rejuvenate a Styled 8 card from your discard pile.\n\"3s % POWER: Use after your effect discards a card from your\nopponent's hand. Banish the top card of your opponent's\ndiscard pile.",
+   "conf": 78.4,
+   "n_words": 52
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_PRO_P6",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P6_Blue Rebuke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE REBUKE @ rs |",
+   "conf": 70.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "#3 ~ : ~—al 4\n\nii (You may only have one “Blue Rebuke” attached.)\n\na: ; POWER: Attach to your MP. While attached when your opponent\n\nae changes levels, you may banish this card to search your Life Deck\nfor a Styled card and place it into your hand.",
+   "conf": 82.8,
+   "n_words": 49
+  }
+ }
+}

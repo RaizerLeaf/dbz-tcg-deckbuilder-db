@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P32",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P32_Shouler Slam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SHOULDER SLAM ;\n-— \\ wren _ a",
+   "conf": 53.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n\n4\n37\n3,\n,",
+   "conf": 11.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(SEE 1\nX% Physical attack. Ome\nRaise your anger 1.\nLower your opponent’s anger 3.\nDAMAGE: AT +AT stages.\na",
+   "conf": 72.3,
+   "n_words": 20
+  }
+ }
+}

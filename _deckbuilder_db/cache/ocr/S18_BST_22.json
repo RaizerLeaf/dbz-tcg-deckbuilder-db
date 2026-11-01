@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_22",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/22_Red Resilience.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RESILIENCE () R22\niQ ,",
+   "conf": 66.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "i((e} =VENT ( 1 I\n(Red Relentless Mastery only.\nIf this card is banished from your Life\n\nDeck, gain 5 stages.)\n\n‘v POWER: Prevent all damage from an attack.\nRaise your anger 1.\n\n(Place this card on top of your Life Deck after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.5,
+   "n_words": 75
+  }
+ }
+}

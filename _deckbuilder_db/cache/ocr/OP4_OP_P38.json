@@ -1,0 +1,22 @@
+{
+ "card_id": "OP4_OP_P38",
+ "rel_path": "z_OP Series/OP4/P38_Blue Guard.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE GUARD () P38",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| v,V ENERGY COMBAT\n(If this card is discarded from your\nhand by a personality or Mastery effect,\nyou may banish it instead to draw a card.)\nW Stops an energy attack.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 90.6,
+   "n_words": 63
+  }
+ }
+}

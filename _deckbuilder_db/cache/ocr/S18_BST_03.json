@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_03",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/03_Black Spiteful Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK SPITEFUL STRIKE Wr\n[BLACK SPITEFUL STRIKE @) R3 |\neee —",
+   "conf": 63.8,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "C PHYSICAL COMBAT\n. (Black Perceptive Mastery only.)\nXX Physical attack.\nUnstoppable. Unmodifiable. This attack is\nconsidered to deal critical damage.\nDAMAGE: 1 life card.\nHIT: Raise or lower a player’s anger 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 92.6,
+   "n_words": 63
+  }
+ }
+}

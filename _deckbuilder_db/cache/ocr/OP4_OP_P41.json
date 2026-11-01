@@ -1,0 +1,22 @@
+{
+ "card_id": "OP4_OP_P41",
+ "rel_path": "z_OP Series/OP4/P41_Saiyan Demolishing Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DEMOLISHING BEAM C) P41\nwf rf",
+   "conf": 61.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 13.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "NA ENERGY COMBAT\nXX 2: Energy attack.\nDAMAGE: AT stages+3 life cards.\nHIT: You may use the immediate effect of a\nDragon Ball in play. If you do, banish this card after\nuse. If you do not, Rejuvenate this card.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 92.6,
+   "n_words": 71
+  }
+ }
+}

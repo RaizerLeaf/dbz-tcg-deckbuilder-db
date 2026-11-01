@@ -1,0 +1,17 @@
+{
+ "card_id": "S19_BST_02",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/02_Black Piracy Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK PIRACY DRILL & U2 |",
+   "conf": 88.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": 73 (This Drill is not discarded when advancing a level.)\ncf e co: Your attacks deal +1 life card.\na8 * POWER: Use after one of your effects discards a card from\na your opponent’s hand. Banish the bottom 2 cards of your\n— opponent's discard pile.",
+   "conf": 82.3,
+   "n_words": 48
+  }
+ }
+}

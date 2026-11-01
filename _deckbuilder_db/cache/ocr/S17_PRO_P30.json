@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P30",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P30_Saiyan Gut Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN GUT KICK C) P30",
+   "conf": 77.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n37\n5,",
+   "conf": 8.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| 09 PHYSICAL COMBAT\nXX Physical attack.\nYour opponent skips their next action\nthis combat.\nDAMAGE: AT +4 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 92.5,
+   "n_words": 50
+  }
+ }
+}

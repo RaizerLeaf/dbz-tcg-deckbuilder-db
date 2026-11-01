@@ -1,0 +1,17 @@
+{
+ "card_id": "S19_BST_21",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/21_Orange Flowing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE FLOWING DRILL a U2 |",
+   "conf": 83.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "7 (Orange Cunning Mastery only. Limit 1 per deck.)\na5 § * POWER: Use after performing a successful Styled attack.\n$8 ey ~~ = That attack gains: “HIT: If you control 5 or less Drills, search\nze ¢) the bottom 5 cards of your Life Deck for a Drill and place it into\nSo “if play. Shuffle the remaining cards into your Life Deck.”",
+   "conf": 85.0,
+   "n_words": 64
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P29",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P29_Concussive Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CONCUSSIVE STRIKE () P29\ny |",
+   "conf": 70.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n2",
+   "conf": 7.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(EE 1 i\n(If your MP has @%, this card is Ome\nconsidered Styled.)\nXX Physical attack.\nRaise your anger 1. Lower your opponent's anger 2.\n@: Choose a player. That player banishes 2 cards\nfrom their discard pile. Rejuvenate 2.\nDAMAGE: 6 stages.\n(Banish after use.)\na",
+   "conf": 85.4,
+   "n_words": 48
+  }
+ }
+}

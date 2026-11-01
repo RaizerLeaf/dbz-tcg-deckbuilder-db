@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_28",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/28_Saiyan Rebuff.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN REBUFF C) R28\n1) ae |i",
+   "conf": 61.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n4\n,",
+   "conf": 28.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(Cy) event\n‘v POWER: Stops an attack.\nIf you have destroyed cards from your Life Deck\nthis combat, destroy the top 3 cards of your\nopponent's Life Deck.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 62
+  }
+ }
+}

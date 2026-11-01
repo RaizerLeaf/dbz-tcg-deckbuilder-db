@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P44",
+ "rel_path": "z_OP Series/OP5/P44_Namekian Clothling Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CLOTHING BEAM & ) P44",
+   "conf": 85.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n, 7\n,",
+   "conf": 7.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "x (If this card is discarded from your\nhand by a Mastery effect, you may banish\nit to destroy a Setup or Drill.)\n\nXX 2: Energy attack.\n\nDAMAGE: 4 life cards.\nHIT: If your MP is a Villain, you may destroy an Ally you\ncontrol to search your Life Deck for an Ally and play it.\n(Created by Brandon Biggers, OP4 South Kai Champion)\n\na",
+   "conf": 92.7,
+   "n_words": 65
+  }
+ }
+}

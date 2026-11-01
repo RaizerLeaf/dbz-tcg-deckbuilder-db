@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_53",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/53_Vegito's Final Kamehameha.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGITO'S FINAL KAMEHAMEHA ) R53\n> NNN OO ae",
+   "conf": 68.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n2\n3",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "‘ (If this card is revealed from your\nhand, gain 3 stages.)\n% 2: Energy attack.\nFocused. Unpreventable. Raise your anger 2.\nYour opponent can only attack or pass in their next\naction this combat.\nDAMAGE: 5 life cards.\nHIT: You may lower your MP 1 level to draw a card.\n(Banish after use.)",
+   "conf": 93.1,
+   "n_words": 54
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_35",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/35_Zamasu's Immortal Body.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ZAMASU'S IMMORTAL BODY ©) R35\n5 ee de",
+   "conf": 62.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "c (Limit 1 per deck.)\n‘v POWER: Prevent all damage from an attack.\nPrevent all damage from your opponent's attacks\nthis combat.\n(Banish after use.)\n|",
+   "conf": 85.2,
+   "n_words": 26
+  }
+ }
+}

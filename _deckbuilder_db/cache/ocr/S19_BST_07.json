@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_07",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/07_Blue Preventive Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "aa",
+   "conf": 16.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": ",\n8\n7",
+   "conf": 4.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "——\n‘w POWER: Use only on the first attack your\n. opponent performs in combat. Prevent all\ndamage from this attack. You may discard a\ncard from your hand to make this attack\ndeal no damage.\n» POWER: Lower a player’s anger 1. The next time ff\none of your opponent’s effects would raise their\nanger this combat, change that amount to 0.",
+   "conf": 89.5,
+   "n_words": 63
+  }
+ }
+}

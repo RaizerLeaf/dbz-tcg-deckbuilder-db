@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_50",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/50_Top's Justice Crusher.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TOP'S JUSTICE CRUSHER () R50\n7 re",
+   "conf": 72.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n4",
+   "conf": 52.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(CEE =i\nX% Physical attack. Ome\nSearch the bottom 10 cards of your Life Deck\nfor a card that can attach to a personality and place\nit into play attached. Shuffle the remaining cards\ninto your Life Deck. Raise your anger 1.\nDAMAGE: 6 stages.\nHIT: Lower your opponent's anger 2.\n|",
+   "conf": 88.1,
+   "n_words": 52
+  }
+ }
+}

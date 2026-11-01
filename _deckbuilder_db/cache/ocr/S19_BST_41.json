@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_41",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/41_Unorthodox Onslaught.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UNORTHODOX ONSLAUGHT )UR41|\n| @e oe fee",
+   "conf": 42.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,\n3,\n2",
+   "conf": 3.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "wv ( @ only. This card is considered to\nhave “Sword” in the title.)\nXX Physical attack.\nRaise your anger 1. Players can only attack or pass\nin their actions this combat.\nDAMAGE: 5 stages.\n(Banish after use.)\n|",
+   "conf": 85.7,
+   "n_words": 39
+  }
+ }
+}

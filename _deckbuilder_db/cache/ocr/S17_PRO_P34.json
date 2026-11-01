@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P34",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P34_Android Battle Rush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ANDROID BATTLE RUSH = ) P34 |\nPUN) en”: ena Aa",
+   "conf": 61.2,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n4 1\n9 20\n37\n,4\n,",
+   "conf": 14.2,
+   "n_words": 8
+  },
+  "lower": {
+   "text": ". ( $9 only.)\nXX Physical attack.\n\nDestroy an opponent's Setup, Drill, or Ally. &: Your\nopponent may discard a card from their hand. If they do\nnot, destroy an opponent's Setup, Drill, or Ally.\nDAMAGE: 4 life cards.\n\n(Banish after use.)",
+   "conf": 87.6,
+   "n_words": 42
+  }
+ }
+}

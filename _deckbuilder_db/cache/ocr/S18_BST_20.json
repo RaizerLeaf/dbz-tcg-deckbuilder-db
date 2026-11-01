@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_20",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/20_Orange Residual Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE RESIDUAL SHOT C) U20\nge mee",
+   "conf": 65.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(OC =Neacy comaat (@m)\n. (Orange Combative Mastery only.) ETS”\nXX 1: Energy attack.\n\nFocused. The next time one of your effects would\nprevent damage this turn, prevent all damage instead.\nDAMAGE: 4 life cards.\n\nHIT: Lower your opponent’s anger 2.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.9,
+   "n_words": 72
+  }
+ }
+}

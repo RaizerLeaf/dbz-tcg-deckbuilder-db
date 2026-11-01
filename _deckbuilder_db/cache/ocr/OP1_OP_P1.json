@@ -1,0 +1,22 @@
+{
+ "card_id": "OP1_OP_P1",
+ "rel_path": "z_OP Series/OP1/P1_Black Judgment Rush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK JUDGMENT RUSH () P1\n4)” QN ..2 wees |",
+   "conf": 49.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n3\n,\n\n,\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(v,w)PHYSICAL COMBAT \\= Ji\n(This card is considered Named.)\nX Physical attack costing 1 stage.\n\nLower a player's anger 1 level. If stopped,\ndestroy the top 2 cards of your opponent's Life Deck.\nDAMAGE: AT +3 stages.\n\nHIT: This attack stays in play to be used a\nsecond time this combat.\n\n(Created by Josh Duquette, OP1 East Kai Champion)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.0,
+   "n_words": 90
+  }
+ }
+}

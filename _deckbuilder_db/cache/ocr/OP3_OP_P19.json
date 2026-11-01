@@ -1,0 +1,22 @@
+{
+ "card_id": "OP3_OP_P19",
+ "rel_path": "z_OP Series/OP3/P19_Namekian Straining Assault.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN STRAINING ASSAULT ) P19,\neee 4 Ae CO,",
+   "conf": 67.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 2.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(=a =k\n(Limit 1 per deck. While 2 or more Ne,\nEarth Dragon Balls you own are in play,\nyou may banish this card from your hand to cancel\nan effect that would banish an @ Ally in play.)\n2X Energy attack.\nYour MP may pay any amount of stages. If five or more\nstages are paid, search your Life Deck or discard pile\nfor an @ Ally and play it.\nDAMAGE: 4 life cards.\n(Created by Thomas DiLena, OP3 East Kai Champion)\nee",
+   "conf": 91.0,
+   "n_words": 84
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_38",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/38_ Goku Black - Body Snatcher.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@ GOKU BLACK 539\nLEVEL BODY SNATCHER",
+   "conf": 75.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "9,900,000\n6,600,000\n3,300,000\n1,250,000\n864,000\n730,000\n415,000\n177,000\n80,000\n42,000\n\n0",
+   "conf": 95.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "._ wa 1/7,0UU\nfa 80,000\n&, 42,000\nTED =\nco: Your opponent's attacks deal -1 stage\nand -1 life card.\nPOWER: Your opponent discards a card C\nfrom their hand. You may discard a card\nfrom your hand. If you do, use a\ncritical damage effect. DISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 89.0,
+   "n_words": 85
+  }
+ }
+}

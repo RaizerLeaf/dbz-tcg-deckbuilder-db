@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P1",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P1_Trunks - Dashing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TRUNKS Py\nDASHING",
+   "conf": 68.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "225,000\n175,000\n125,000\n75,000\n\n5 25,000\n20,000\n15,000\n10,000\n5,000\n\n2,500\n0",
+   "conf": 91.6,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "i if oe\n\\ | / las U,UUU\n5,000\n' 4 2 9 5 0 8)\nco: Whenever you raise your anger during\ncombat, that amount is doubled.\n(Cy)\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.9,
+   "n_words": 68
+  }
+ }
+}

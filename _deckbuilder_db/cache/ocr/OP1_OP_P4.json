@@ -1,0 +1,22 @@
+{
+ "card_id": "OP1_OP_P4",
+ "rel_path": "z_OP Series/OP1/P4_Orange Luxury.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE LUXURY ) Pa\nawww; If",
+   "conf": 68.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n0\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "a POWER: Draw 2 cards. Discard a\ncard from your hand. You may choose a Drill\nin your hand and place it into play.\n(Banish after use.)\n(Created by Cory Aguilard, OP1 South Kai Champion)\n )",
+   "conf": 90.9,
+   "n_words": 36
+  }
+ }
+}

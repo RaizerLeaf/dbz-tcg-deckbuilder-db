@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P2",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P2_Black Defensive Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DEFENSIVE BURST\n— aa",
+   "conf": 67.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", ,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| C PHYSICAL COMBAT\n. Physical attack.\nDAMAGE: 4 life cards.\nHIT: Your opponent cannot perform physical attacks\nthis combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.4,
+   "n_words": 50
+  }
+ }
+}

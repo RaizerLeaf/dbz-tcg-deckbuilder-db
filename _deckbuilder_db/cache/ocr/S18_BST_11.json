@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_11",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/11_Namekian Planning.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN PLANNING Our\nVE i UU",
+   "conf": 48.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": i? POWER: Banish 1+ X cards from your opponent's discard pile.\nz8 2 X= the number of Dragon Balls you own in play.\n3g (0) (Rejuvenate after use.)",
+   "conf": 75.6,
+   "n_words": 29
+  }
+ }
+}

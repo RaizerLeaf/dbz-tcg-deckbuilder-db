@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P34",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P34_Trunks' Sword Stance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TRUNKS' SWORD STANCE () P34\nAN f, L a ~~ —_ Sf",
+   "conf": 57.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Cc (You cannot win by MPPV if you use\nthis card.)\n* POWER: Use when entering combat. Name a card.\nReveal the top card of your Life Deck. If the revealed\ncard matches the card you named, raise your anger 6.\nYou may shuffle your Life Deck.\n(Banish after use.)",
+   "conf": 94.2,
+   "n_words": 50
+  }
+ }
+}

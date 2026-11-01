@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P45",
+ "rel_path": "z_OP Series/OP5/P45_Orange Reverent Ki Push.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE REVERENT KI PUSH C) P45 |\nnaw a Wi ae",
+   "conf": 64.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "1\n2\n,",
+   "conf": 22.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "a (@only. You must destroy the top 2\ncards of your Life Deck to use this card.)\nXX Energy attack.\nSearch your discard pile for an Ally or Styled Drill\nand place it into play at the end of combat.\nDAMAGE: 5 life cards.\n(Created by Ty Tracey, OP4 West Kai Champion)\n )",
+   "conf": 92.0,
+   "n_words": 53
+  }
+ }
+}

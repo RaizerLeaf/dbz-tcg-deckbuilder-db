@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P11",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P11_Blue Precarious Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE PRECARIOUS DEFENSE () P11",
+   "conf": 81.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n\n4\n\n4\n1\n\n4 3\n7\n\n1\n,",
+   "conf": 12.0,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "(C PHYSICAL comaaT(@®)\n. (You may discard this card from OTS”\nyour hand during the Planning Step. =\nIf you do, choose a Setup in play and place it\nat the bottom of its owner’s Life Deck.)\nPrevent all damage from a physical attack.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 91.3,
+   "n_words": 75
+  }
+ }
+}

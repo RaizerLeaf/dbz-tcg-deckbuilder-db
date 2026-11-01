@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_48",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/48_Fused Zamasu's Barrier of Light.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "FUSED ZAMASU'S BARRIER OF LIGHT\nwy T=, aa",
+   "conf": 71.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2,\n,\n2",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(=a 1 i\n( @ only.) Ome\n‘9 POWER: Stops an attack.\nRejuvenate 2. Raise or lower a player’s anger 2.\n(Rejuvenate after use.)\na",
+   "conf": 79.2,
+   "n_words": 25
+  }
+ }
+}

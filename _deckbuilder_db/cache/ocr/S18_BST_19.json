@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_19",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/19_Orange Overload.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE OVERLOAD",
+   "conf": 95.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "7\n7,\n1\n1,",
+   "conf": 35.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(CGC =neacy comaat (@@)\n. *% 2: Energy attack. COT”\nRaise or lower a player’s anger 1.\n@: &: Search your Life Deck for a Drill and\nplace it into play.\nDAMAGE: 6 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 84.2,
+   "n_words": 66
+  }
+ }
+}

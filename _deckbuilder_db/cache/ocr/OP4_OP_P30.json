@@ -1,0 +1,22 @@
+{
+ "card_id": "OP4_OP_P30",
+ "rel_path": "z_OP Series/OP4/P30_Unleashed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UNLEASHED ; ) P30 |",
+   "conf": 73.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n1\n,,\n,1,",
+   "conf": 18.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "vA (You cannot win by MPPV if you\nuse this card.)\n\nPOWER: Search your Life Deck for a card that can attach\n\nto your MP and place it into play attached. If your MP has a\ncard attached to it, you may advance or lower your MP 1 level.\n\nIf your opponent cannot win by MPPV, destroy any number\n\nof cards attached to your MP. Lower your opponent’s MP\n\nlevel equal to the number of cards destroyed this way.\n(Banish after use.)\n\neS",
+   "conf": 93.5,
+   "n_words": 83
+  }
+ }
+}

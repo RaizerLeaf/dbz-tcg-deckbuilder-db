@@ -1,0 +1,22 @@
+{
+ "card_id": "OP2_OP_P10",
+ "rel_path": "z_OP Series/OP2/P10_Black Face Crush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FACE CRUSH ) P10.\nxe ifn M727.",
+   "conf": 60.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "37\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT (eR) |\nA | .\nXX Physical attack.\nLower your opponent’s anger 2 levels.\nDAMAGE: AT +4 stages.\n\nHIT: Search your Life Deck for a Styled card that can\nattach to an MP and place it into play attached.\n(Created by Tyler Steenmeijer, OP2 Supreme Kai\n\nChampion)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.3,
+   "n_words": 81
+  }
+ }
+}

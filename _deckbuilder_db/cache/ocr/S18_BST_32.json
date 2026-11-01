@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_32",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/32_Villainous Vile Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS VILE BLAST € )UR32|\n~~ fife",
+   "conf": 69.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7 7\n, 7\n\n4\n\n,\n\n,",
+   "conf": 13.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "Cc (Villains only. Limit 2 per deck.)\nXX 1: Energy attack.\n\nLower your opponent's anger 1. Your opponent skips\ntheir next action this combat. For the remainder of\ncombat, life card damage from attacks is banished.\n\nDAMAGE: 3 life cards.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+   "conf": 92.1,
+   "n_words": 51
+  }
+ }
+}

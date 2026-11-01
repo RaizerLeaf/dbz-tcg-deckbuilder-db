@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P42",
+ "rel_path": "z_OP Series/OP5/P42_Black Ambush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK AMBUSH () P42\ny¥// *",
+   "conf": 68.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "A, PHYSICAL COMBAT\n( @ or @ only.)\nXX 2: Physical attack.\nFocused. Your next Styled attack this combat gains\n“Focused.”\nDAMAGE: 4 life cards and 4 stages.\nHIT: Raise your anger 2.\n(Rejuvenate after use.)\n(Created by Trevor Morris, OP4 Grand Kai Champion)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.1,
+   "n_words": 75
+  }
+ }
+}

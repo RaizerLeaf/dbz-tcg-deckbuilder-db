@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_31",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/31_Saiyan Surging Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "EO\ny\nJ A",
+   "conf": 45.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",,\n1,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(You cannot win by MPPV.)\nco: Your Styled attacks gain “Raise your anger\n1.” At the start of the Discard Step, if your MP\nadvanced a level this turn, lower your MP 1 level.\n4% POWER: Use when an effect lowers your MP\n1 or more levels. Draw a card.\nPOWER: Your next attack this combat deals\n+X life cards. X= your MP’s level.\nMASTERY\n’ OISCLAIMER: Oragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and\n<> Dragon Ball Daima are all owned by Funimation, Toei Animation, Fuji T.V. and Akira\n(8s) eee ne ee ae eae nt tentnluenenen",
+   "conf": 85.5,
+   "n_words": 102
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P33",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P33_Energy Toss.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ENERGY TOSS ; ) P33 |\noe a — |",
+   "conf": 63.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n\n,\n\n2\n3",
+   "conf": 4.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Cc XX 1: Energy attack.\nRaise your anger 1. Lower your opponent’s anger 2.\n@: \\f you have only 1 Trait, banish 3 cards from\nyour opponent's discard pile and this attack\ndeals +2 life cards.\nDAMAGE: 2 life cards.",
+   "conf": 88.0,
+   "n_words": 40
+  }
+ }
+}

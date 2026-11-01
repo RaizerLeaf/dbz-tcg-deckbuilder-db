@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P13",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P13_Namekian Grab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN GRAB C) P13\n| |",
+   "conf": 74.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "37 2\n4",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(OC PHYSICAL comBaT {| Rp)\n. Physical attack. Orne”\n\nIf the highest power level on your MP’s Level 4\n\nis 500,000 or less, destroy an opponent's\nSetup, Drill, or Ally in play.\nDAMAGE: 3 life cards or 3 stages.\nHIT: Lower your opponent's anger 1.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Bragon Ball GT and Dragon Ball Super are all owned hy\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game isa fan-made, non-profit",
+   "conf": 85.3,
+   "n_words": 75
+  }
+ }
+}

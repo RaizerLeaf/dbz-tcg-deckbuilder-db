@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P7",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P7_Namekian Imposing Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "~~ &. 7h) of (al\na V SY Ay V Z Z",
+   "conf": 24.0,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n0\n,\n7\n,",
+   "conf": 5.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "mm\n* POWER: Use when you would Rejuvenate\na Styled X card during combat. You may\nplace it into your hand instead.\nPOWER: Shuffle the top and bottom cards\nof your discard pile into your Life Deck.",
+   "conf": 92.4,
+   "n_words": 37
+  }
+ }
+}

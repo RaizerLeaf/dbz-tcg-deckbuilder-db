@@ -1,0 +1,17 @@
+{
+ "card_id": "S19_BST_08",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/08_Blue Gag.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE GAG () C8\nRE KK ‘+e of ee eee",
+   "conf": 50.8,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "ap |\n3 i: % POWER: Use after taking damage from an attack you prevented\nzee from a non-Endurance source or after your opponent’s attack\n7 : deals no damage. That attack loses all HIT effects. If that\n$2 () attack dealt no damage, draw a card.\n— (Banish after use.)",
+   "conf": 84.8,
+   "n_words": 51
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "OP1_OP_P3",
+ "rel_path": "z_OP Series/OP1/P3_Namekian Planetary Countdown.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\\MEKIAN PLANETARY COUNTDOWN ) P3 |",
+   "conf": 73.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "s3¢e Ww\n222\nTe (Limit 1 per deck.)\nZ 3 2 % POWER: Use when you would lose by Survival Victory during combat.\na 8 You cannot lose the game during this action. At the end of this action,\n“= shuffle the bottom 5 cards of your discard pile into your Life Deck.\n(Banish after use.)\n| (Created by Tim Batow, OP1 Grand Kai Champion)",
+   "conf": 88.0,
+   "n_words": 65
+  }
+ }
+}

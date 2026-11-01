@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P12",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P12_Blue Brace.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE BRACE () P12\naN |",
+   "conf": 65.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n, 6\n,\n,",
+   "conf": 9.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| C ENERGY COMBAT\n. Stops an energy attack.\nSearch your discard pile for a Styled Setup\nand play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 93.2,
+   "n_words": 51
+  }
+ }
+}

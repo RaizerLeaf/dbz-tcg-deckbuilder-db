@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_36",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/36_Zamasu's Instant Severance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ZAMASU'S INSTANT SEVERANCE @ ) R36",
+   "conf": 75.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Cc XX Energy attack.\nFocused. Use a critical damage effect.\nDAMAGE 4 life cards.\nHIT: Raise or lower a player’s anger 1. Your opponent's\nnext attack this combat deals no damage.",
+   "conf": 89.8,
+   "n_words": 31
+  }
+ }
+}

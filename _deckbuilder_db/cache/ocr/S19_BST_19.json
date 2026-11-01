@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_19",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/19_Orange Cunning Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "eS |",
+   "conf": 70.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| \\ ==, TT,\nco: Your attacks deal +1 life card. Whenever a\nDrill you own would be discarded due to your MP\nchanging levels, you may Rejuvenate it instead.\n| ¥ POWER: Use when you would use a critical\ndamage effect during combat. Search your Life\nDeck for a Styled Drill and place it into\nplay instead.\n| POWER: Rejuvenate a Drill from your discard pile. L",
+   "conf": 91.0,
+   "n_words": 68
+  }
+ }
+}

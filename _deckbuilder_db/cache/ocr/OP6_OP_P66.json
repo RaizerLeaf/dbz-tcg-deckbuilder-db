@@ -1,0 +1,17 @@
+{
+ "card_id": "OP6_OP_P66",
+ "rel_path": "z_OP Series/OP6/P66_Mercenary Tao's Traversal Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "-RCENARY TAO'S TRAVERSAL Der. P66 |\nNN",
+   "conf": 67.1,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "j (Limit 1 per deck. This card is considered Styled. This Drill is not\n| discarded when you advance a level.)\n\n. co: Your attacks deal +1 life card.\n\n[ @: Your opponent’s maximum hand size is -1 during the\n\n[ = Discard Step.",
+   "conf": 86.5,
+   "n_words": 44
+  }
+ }
+}

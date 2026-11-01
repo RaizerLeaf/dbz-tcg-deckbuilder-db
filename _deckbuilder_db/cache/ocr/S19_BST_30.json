@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_30",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/30_Red Impede.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED IMPEDE () C30\nAa ~~",
+   "conf": 68.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n4\n,",
+   "conf": 18.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| 2) ENERGY COMBAT ( 1 )\n(If this card is Rejuvenated\nduring combat, lower your opponent's\nanger 1.)\nStops an energy attack.\nRaise your anger 1.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and Dragon Ball Daima are all\nowned by Funimation, Toei Animation, Fuji T.V. and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 87.9,
+   "n_words": 61
+  }
+ }
+}

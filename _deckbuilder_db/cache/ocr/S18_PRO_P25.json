@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P25",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P25_Saiyan Rescue.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN RESCUE C) P25\n= — ve ws,",
+   "conf": 60.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "8\n4\n\n4\n1,",
+   "conf": 20.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| C EVENT\n(You may only have one “Saiyan\nRescue” attached.)\nPOWER: Attach to your MP. Rejuvenate 1. While\nattached, once per turn as an action you may choose\na card in your discard pile and Rejuvenate it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 94.2,
+   "n_words": 69
+  }
+ }
+}

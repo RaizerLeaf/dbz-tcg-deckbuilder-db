@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P26",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P26_Red Retreat.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RETREAT () P26",
+   "conf": 79.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| 69) EVENTOS\n\n(Limit 2 per deck.)\n\nPOWER: Search your Life Deck for a Drill and\n\nplace it into play. You may banish a Drill you control.\nIf you do, end combat.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.2,
+   "n_words": 66
+  }
+ }
+}

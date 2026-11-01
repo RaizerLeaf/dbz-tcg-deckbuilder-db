@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P39",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P39_Vegeta's Final Flash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA'S FINAL FLASH ? ) P39 |\n-",
+   "conf": 76.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Cc XX 3: Energy attack.\nThis attack can only be stopped by an Energy\nCombat card. Raise your anger 2. Players can only\nattack or pass in their actions this combat.\nDAMAGE: 4 life cards.\nHIT: You may lower your MP 1 level. If you do, your\nopponent discards a random card from their hand.\n(Banish after use.)",
+   "conf": 93.6,
+   "n_words": 58
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_33",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/33_Goku Black's Judgment.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU BLACK'S JUDGMENT () R33",
+   "conf": 79.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n1\n2\n,",
+   "conf": 26.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(CSS = )i\n* POWER: Use when a Setup Ome\nPower, Drill Power, or Ally Power is\nused. Cancel that Power. Draw a card.\n(Banish after use.)\n|",
+   "conf": 81.6,
+   "n_words": 28
+  }
+ }
+}

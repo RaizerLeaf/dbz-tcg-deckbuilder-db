@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_03",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/03_Black Android Visage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ANDROID VISAGE",
+   "conf": 95.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "4 8\n1\n,",
+   "conf": 20.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| oy) =VENT ( 1 )\n(Villains only.)\n\nPOWER: Banish the top 5 cards of your opponent's\ndiscard pile. If there are no cards in your opponent's\ndiscard pile, discard a card from your opponent's hand.\n@: If your opponent has not discarded a card from\ntheir hand this action, discard a card from your\nopponent’s hand.\n\n(Rejuvenate after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and Dragon Ball Daima are all\nowned by Funimation, Toei Animation, Fuji T.V. and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 89.7,
+   "n_words": 94
+  }
+ }
+}

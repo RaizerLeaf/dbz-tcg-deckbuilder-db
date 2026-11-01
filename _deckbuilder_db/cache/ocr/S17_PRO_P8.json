@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P8",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P8_Orange Energetic Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WN Qe\nWW we 4",
+   "conf": 51.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n\n7\n,\n1,\n,7",
+   "conf": 29.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| \\ ==, TT,\n(At the start of your opponent's first turn, )\nsearch your Life Deck for a Styled non-co Drill\nand place it into play.) |\n| * POWER: Use after performing a successful\n| attack. Gain 3 stages and raise your anger 1.\nPOWER: Discard a card from your hand to\n| perform a Styled energy attack dealing 4 life\n| cards of damage. If you discarded a Styled card,\n| raise or lower a player’s anger 1.",
+   "conf": 89.9,
+   "n_words": 81
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P30",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P30_Dashing Sword Attack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DASHING SWORD ATTACK @@ ) P30 |",
+   "conf": 85.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "c XX 1: Physical attack.\nYour opponent's MP loses 2 stages. Lower your\nopponent’s anger 1.\nDAMAGE: AT +2 stages.\nHIT: Search your discard pile for a Styled or Named card\nwith “Sword” in the title and place it into your hand.\n(Banish after use.)",
+   "conf": 91.0,
+   "n_words": 45
+  }
+ }
+}

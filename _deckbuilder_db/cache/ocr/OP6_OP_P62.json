@@ -1,0 +1,22 @@
+{
+ "card_id": "OP6_OP_P62",
+ "rel_path": "z_OP Series/OP6/P62_Bardock's Wish.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BARDOCK'S WISH ?",
+   "conf": 66.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(aaa 1)\n(If this card is destroyed from Ome\nyour Life Deck by one of your effects,\nRejuvenate it.)\nPOWER: Name a card. Your opponent cannot play\nthat card this combat. Choose a non-co Power\nof one of your MP levels. Use that Power.\n(Banish after use.)\n\na",
+   "conf": 89.6,
+   "n_words": 48
+  }
+ }
+}

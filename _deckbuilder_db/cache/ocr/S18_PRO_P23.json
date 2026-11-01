@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P23",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P23_Red Energy Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ENERGY BLAST @) P23\n— lle",
+   "conf": 72.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 42.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| C ENERGY COMBAT\n% 2: Energy attack.\nRaise your anger 1. Banish a Drill or Ally.\nDAMAGE: 4 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.0,
+   "n_words": 52
+  }
+ }
+}

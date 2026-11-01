@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_27",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/27_Saiyan Training Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "| SAIYAN TRAINING DRILL €) U27",
+   "conf": 85.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "i : (Saiyan Defiant Mastery only.)\nga: * POWER: Use when your Mastery effect would cause you to\n72 (-) discard 2 cards from your hand. Banish this card instead.",
+   "conf": 86.6,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_07",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/07_Blue Intelligence.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE INTELLIGENCE a R7 |",
+   "conf": 85.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "fe aT ES |\n: i: POWER: Search your discard pile for an Ally or Setup and\n32 Rejuvenate it. End combat.\n\"3g (Banish after use.)",
+   "conf": 76.0,
+   "n_words": 26
+  }
+ }
+}

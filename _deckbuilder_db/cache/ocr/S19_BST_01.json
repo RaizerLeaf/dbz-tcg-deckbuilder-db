@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_01",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/01_Black Ominous Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WK a & |",
+   "conf": 51.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1,\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Siig aegesey eee temnreseeeerresreeveeeerererernawenrrereresrareranrenmnl all —_—\n(You cannot win by MPPV.)\nco: Your Styled attacks deal +1 stage and +1 life card.\n+ POWER: Use when one of your effects discards the\nlast card in your opponent’s hand. Advance or\nlower your MP 1 level.\nPOWER: Banish the top 2 cards of your opponent's\ndiscard pile. The next time one of your Styled effects\ndiscards a card from your opponent's hand during\ncombat, the card is chosen at random.\nMASTERY\n’ BISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and\nDragon Ball Daima are all owned by Funimation, Tosi Animation, Fuji T.V. and Akira\n<> Toriyama. This card game is a fan-made, non-profit project created for entertainment\nbd purposes only. Please support the original source material.",
+   "conf": 87.5,
+   "n_words": 130
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_04",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/04_Black Divert.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DIVERT () C4\n-§~=> i",
+   "conf": 59.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n347 2",
+   "conf": 19.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "[ oy) PHYSICAL COMBAT ( rd ) I\nStops a physical attack. Teh\nRejuvenate 2. @: Banish 2 cards from your\nopponent's discard pile.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super and Dragon Ball Daima are all\nowned by Funimation, Toei Animation, Fuji T.V. and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 88.4,
+   "n_words": 61
+  }
+ }
+}

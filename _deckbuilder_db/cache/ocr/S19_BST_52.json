@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_52",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/52_Trunks' Final Hope Slash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TRUNKS' FINAL HOPE SLASH é\nne 78 |",
+   "conf": 72.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Sv) (This card is considered to have\n“Sword” in the title. You may only have one\n“Trunks’ Final Hope Slash” attached.)\nPOWER: Foresee 3. Draw a card. Attach to your MP.\nWhile attached, whenever you Foresee any number of\ncards, place that many counters on this card. While\nattached, you may banish this card as an action to\nperform a physical attack dealing X life cards.\nX=the number of counters on this card.",
+   "conf": 94.3,
+   "n_words": 73
+  }
+ }
+}

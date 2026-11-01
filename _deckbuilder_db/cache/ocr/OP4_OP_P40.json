@@ -1,0 +1,22 @@
+{
+ "card_id": "OP4_OP_P40",
+ "rel_path": "z_OP Series/OP4/P40_Red Trailing Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED TRAILING BLAST () P40",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "1 ENERGY COMBAT (=e)\nA” WV |\n(If the highest power level oe\non your MP’s Level 4 is more than\n500,000 and this card would attach to\nyour MP, banish it instead.)\nXX 1: Energy attack.\nAttach to your MP. While attached when your\nMP changes levels, return this card to your hand.\nDAMAGE: 3 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.6,
+   "n_words": 89
+  }
+ }
+}

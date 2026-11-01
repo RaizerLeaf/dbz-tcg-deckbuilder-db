@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P27",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P27_Saiyan Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN BURST C) P?/\na aha",
+   "conf": 53.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n3,",
+   "conf": 6.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "((C}) ENeAGY COMBAT ( 3 )k\nXX 2: Energy attack.\nRaise your anger 1.\nLower your opponent's anger 3.\nDAMAGE: 5 life cards.\nHIT: Choose a Styled card in your discard pile\nand Rejuvenate it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.0,
+   "n_words": 66
+  }
+ }
+}

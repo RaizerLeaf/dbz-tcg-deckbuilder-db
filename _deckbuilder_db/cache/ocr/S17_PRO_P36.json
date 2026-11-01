@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P36",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P36_Enraged Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ENRAGED BLAST () P36\n7 nn SOL",
+   "conf": 60.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(69 ENERGY COMBAT\n. * 3: Energy attack.\nRaise your anger 2.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+   "conf": 88.8,
+   "n_words": 19
+  }
+ }
+}

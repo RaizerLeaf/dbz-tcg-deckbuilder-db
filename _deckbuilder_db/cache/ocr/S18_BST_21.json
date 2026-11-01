@@ -1,0 +1,17 @@
+{
+ "card_id": "S18_BST_21",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/21_Red Rally Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RALLY DRILL () U21",
+   "conf": 76.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "1 (Limit 1 per deck.)\naii * POWER: Use when you would use a critical damage effect.\nBE Destroy a Setup, Drill, or Ally instead.",
+   "conf": 87.6,
+   "n_words": 25
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P31",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P31_Devastating Blow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEVASTATING BLOW : ) P31\ni",
+   "conf": 67.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n, 3\n2,\n,",
+   "conf": 11.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "g XX Physical attack.\n\nRaise your anger 1. Lower your opponent's anger 2.\nBanish 3 cards from your opponent's discard pile.\nDAMAGE: AT +1 stage.\na",
+   "conf": 83.6,
+   "n_words": 26
+  }
+ }
+}

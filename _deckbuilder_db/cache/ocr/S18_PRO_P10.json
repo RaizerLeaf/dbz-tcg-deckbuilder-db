@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P10",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P10_Blue Arrest.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ARREST ) P10.\nmn",
+   "conf": 65.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2,\n,\n7",
+   "conf": 25.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(CO PHYSICAL comBaAT (RSJ)\n. > Physical attack. ars”\nRejuvenate 3 Allies from your discard pile.\nDAMAGE: 3 life cards.\nHIT: Search your Life Deck for an Ally and play it.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 89.0,
+   "n_words": 62
+  }
+ }
+}

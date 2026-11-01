@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_31",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/31_Dynamic Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DYNAMIC STRIKE ) R31",
+   "conf": 88.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n347 2\n2",
+   "conf": 14.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Ee =i\nX% Physical attack. Ome\nDAMAGE: 6 stages.\nHIT: Capture a Dragon Ball. If you captured a Super\nDragon Ball, your opponent discards a card from their\nhand. If you captured a Demon Realm Dragon Ball,\nRejuvenate 3.\n(Banish after use.)\na",
+   "conf": 87.4,
+   "n_words": 43
+  }
+ }
+}

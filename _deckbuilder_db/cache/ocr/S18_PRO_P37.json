@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_PRO_P37",
+ "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P37_Trunks' Sword Slash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TRUNKS' SWORD SLASH > ) P37\n-",
+   "conf": 81.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "c XX 1: Physical attack.\nBanish up to 6 cards from a player’s discard pile.\nDAMAGE: AT +4 stages.\nHIT: Your next Styled energy attack this combat is\nUnstoppable.\n(Banish after use.)\n|",
+   "conf": 91.6,
+   "n_words": 33
+  }
+ }
+}

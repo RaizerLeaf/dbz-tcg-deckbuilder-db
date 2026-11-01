@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_42",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/42_Assisted Galick Gun.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ASSISTED GALICK GUN. & )UR42|\n:",
+   "conf": 59.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4\n,\n,",
+   "conf": 32.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ". ( Mand 2 or less Traits only.)\nXX 2: Energy attack.\n\nRaise your anger 1. If your MP has § and you stopped\nan attack on your opponent's last action this combat,\nyour opponent passes for their next action this combat.\nDAMAGE: 5 life cards.\n\nHIT: Use a critical damage effect.\n\n(Banish after use.)",
+   "conf": 90.5,
+   "n_words": 55
+  }
+ }
+}

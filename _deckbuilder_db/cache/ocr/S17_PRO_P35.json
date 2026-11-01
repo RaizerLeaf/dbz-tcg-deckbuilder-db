@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P35",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P35_Skillful Parry.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SKILLFUL PARRY : ) P35\nCy",
+   "conf": 72.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n3,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(69 PHYSICAL COMBAT (RS)\n. % Stops a physical attack. CO?\nGain 5 stages. £9: Rejuvenate 3.\n(Banish after use.)",
+   "conf": 78.2,
+   "n_words": 20
+  }
+ }
+}

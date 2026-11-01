@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_10",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/10_Blue Gut Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE GUT PUNCH () U10\nwe Re NN |. an",
+   "conf": 62.4,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,\n25\n37\n,\n2",
+   "conf": 0.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "C PHYSICAL COMBAT\n. Physical attack.\nRaise your anger 2. 4: Focused.\nDAMAGE: 4 stages.\nHIT: Search your discard pile for up to 3 % Setups and\nshuffle them into your Life Deck.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 92.7,
+   "n_words": 67
+  }
+ }
+}

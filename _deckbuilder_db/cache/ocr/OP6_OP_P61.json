@@ -1,0 +1,22 @@
+{
+ "card_id": "OP6_OP_P61",
+ "rel_path": "z_OP Series/OP6/P61_Android 16's Hell Flash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ANDROID 16'S HELL FLASH () P61\nma 4m",
+   "conf": 65.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "16",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Villains only. This card is considered\nStyled. You may only have one “Android 16’s\nHell Flash” attached.)\n\n2% 2: Energy attack.\n\nDamage from this attack is banished. Attach to your MP.\nWhile attached, your Alignment-restricted cards are\nconsidered Styled.\n\nDAMAGE: 6 life cards.\n\nHIT: Raise your anger 2.",
+   "conf": 94.0,
+   "n_words": 48
+  }
+ }
+}

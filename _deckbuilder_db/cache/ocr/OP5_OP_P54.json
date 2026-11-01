@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P54",
+ "rel_path": "z_OP Series/OP5/P54_Yajirobe's Tactical Retreat.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YAJIROBE'S TACTICAL RETREAT @ ) P54\n(I",
+   "conf": 73.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a Stops an attack.\n\nYour opponent passes for their next action this\ncombat. You may banish a card from your hand. If you\ndo, search your Life Deck for a card with “Sword”\nin the title and place it into your hand.\n\n(Banish after use.)\na",
+   "conf": 93.0,
+   "n_words": 46
+  }
+ }
+}

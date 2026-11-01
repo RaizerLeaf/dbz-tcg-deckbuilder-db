@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_40",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/40_ Goku Black - Rose'.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "@1 GOKU BLACK\nLEVEL ROSE () 540\nCHIE",
+   "conf": 77.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "250,000,000\n120,000,000\n66,602,000\n9,735,000\n1,492,000\n1,050,000\n780,000\n450,000\n333,000\n90,000\n0",
+   "conf": 86.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "- f eZ = 49U,UU0U\nJ = ij. \"A 333,000\n| » |= __ 90,000\n\nBE .\nco: Your opponent's attacks deal -2 stages\nand -2 life cards.\nPOWER: Look at your opponent’s hand and C\nchoose a card. Your opponent discards\nthat card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 83.6,
+   "n_words": 83
+  }
+ }
+}

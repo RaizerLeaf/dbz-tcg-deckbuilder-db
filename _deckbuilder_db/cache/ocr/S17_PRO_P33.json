@@ -1,0 +1,22 @@
+{
+ "card_id": "S17_PRO_P33",
+ "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P33_WUPHF!.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WUPHF! : ) P33.\nwere Bee ome",
+   "conf": 53.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 4.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(0 a 1\n(Limit 1 per deck.) Ome\nPOWER: Banish a Setup, Drill, Ally, or\nattached card. If Bee is in play, shuffle into\nyour Life Deck after use.\na",
+   "conf": 86.0,
+   "n_words": 30
+  }
+ }
+}

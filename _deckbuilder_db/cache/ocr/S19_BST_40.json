@@ -1,0 +1,22 @@
+{
+ "card_id": "S19_BST_40",
+ "rel_path": "19_Set 19 (Judgement)/Judgement/40_Otherworldly Grasp.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "OTHERWORLDLY GRASP (ura\n, aa",
+   "conf": 49.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "wv ( J only. This card is considered\nStyled. You may only have one “Otherworldly\n\nGrasp” attached.)\n\nXX Physical attack.\nRaise your anger 1. Lower your opponent's anger 3.\nAttach to your MP. While attached, your attacks\n\ndeal +1 stage.\n\nDAMAGE: AT +3 stages.\na",
+   "conf": 87.2,
+   "n_words": 45
+  }
+ }
+}

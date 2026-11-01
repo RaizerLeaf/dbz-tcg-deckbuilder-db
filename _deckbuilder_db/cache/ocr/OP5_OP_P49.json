@@ -1,0 +1,22 @@
+{
+ "card_id": "OP5_OP_P49",
+ "rel_path": "z_OP Series/OP5/P49_Android 19's Draining Grasp.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "a poe, a ee ee —\n| ANDROID 19'S DRAINING craspf P49 |",
+   "conf": 59.5,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "4\n37\n\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ras YW Stops a physical attack.\nYour opponent loses 4 stages. Search your Life\nDeck for a card with “Android” in the title and place it\ninto your hand. Attach to your MP. While attached,\nyou may banish this card to cancel the immediate\neffects of a physical attack.\n|",
+   "conf": 91.5,
+   "n_words": 50
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "OP4_OP_P32",
+ "rel_path": "z_OP Series/OP4/P32_Goku's Spirit Bomb.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU'S SPIRIT BOMB S ) P32 |\na °- » ff. AS FI",
+   "conf": 61.4,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "4\n4\n\n,\n1",
+   "conf": 30.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "vA (You may only have one “Goku’s Spirit\nBomb” attached.)\n\nPOWER: Attach to your MP. Gain 5 stages. While\nattached, whenever a personality you control would\ngain stages during the Planning Step, you may place\n\nthat many counters on this card instead. While attached,\nyou may banish this card as an action to perform an\nenergy attack dealing X life cards. X =the number\nof counters on this card.",
+   "conf": 93.4,
+   "n_words": 69
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "OP6_OP_P57",
+ "rel_path": "z_OP Series/OP6/P57_Namekian Cunning Dash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CUNNING DASH C) P57",
+   "conf": 73.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n4\n\n2\n,",
+   "conf": 9.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(ASS 1\n(@only. If this card would be om\nRejuvenated, you may banish it instead\nto Rejuvenate a card from your discard pile.)\nXX Physical attack.\nUntil the end of the next turn, your effects that destroy\ncards from the top of your opponent's Life Deck are\nincreased by 1.\nDAMAGE: 3 life cards.\n(Created by Kelly Dennis, OP5 North Kai Champion)\nee",
+   "conf": 88.6,
+   "n_words": 63
+  }
+ }
+}

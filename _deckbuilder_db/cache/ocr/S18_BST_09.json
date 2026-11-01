@@ -1,0 +1,22 @@
+{
+ "card_id": "S18_BST_09",
+ "rel_path": "18_Set 18 (Incursion)/Incursion/09_Blue Adaptive Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ADAPTIVE DEFENSE () U9\n= yas",
+   "conf": 68.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| C =VENT\n‘W POWER: Stops an attack.\nForesee 2. Lower your opponent's anger 1.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 89.5,
+   "n_words": 49
+  }
+ }
+}
