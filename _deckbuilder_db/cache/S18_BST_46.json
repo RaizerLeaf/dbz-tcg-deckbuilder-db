@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_46",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "46_Zamasu - Devious.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/46_Zamasu - Devious.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Zamasu - Devious",
+  "file_name": "Zamasu",
+  "file_subtitle": "Devious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "08a5d043791b4ebce96996a1a978184539686c3a"
+ },
+ "vision": {
+  "id": "S18_BST_46",
+  "name": "Zamasu",
+  "sub": "Devious",
+  "type": "Main Personality",
+  "num": "S46",
+  "lvl": 2,
+  "stages": [
+   5150000,
+   3440000,
+   1660000,
+   990000,
+   770000,
+   550000,
+   330000,
+   110000,
+   88000,
+   22000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: After taking damage from an attack, Rejuvenate 1.\n[Defense] POWER: This attack deals no damage.\nRaise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold); text zoomed",
+  "_src": "S18.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "ZAMASU\nLEVEL DEVIOUS () 546\noO\"",
+  "stages_text": "5,150,000\n3,440,000\n1,660,000\n990,000\n770,000\n550,000\n330,000\n110,000\n88,000\n22,000\n\n0",
+  "error": null
+ }
+}

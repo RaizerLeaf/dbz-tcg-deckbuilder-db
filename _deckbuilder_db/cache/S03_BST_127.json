@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_127",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "127_Dr. Wheelo's Revival.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/127_Dr. Wheelo's Revival.jpg",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Dr. Wheelo's Revival",
+  "file_name": "Dr. Wheelo's Revival",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7cbadec3095d58ab6f20722ecd35ca676369ceb1"
+ },
+ "vision": {
+  "id": "S03_BST_127",
+  "name": "Dr. Wheelo's Revival",
+  "sub": null,
+  "type": "Setup",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is discarded or destroyed from your Life Deck, destroy the top 3 cards of your opponent's Life Deck and banish this card.) POWER: Your opponent cannot play Events this combat. Gain 2 stages and shuffle this card into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "(DR. WHEELO'S REVIVAL (a=\n-- Fwy ff fy |",
+  "stages_text": ", 7\n, ,\n2\n7\n,",
+  "error": null
+ }
+}

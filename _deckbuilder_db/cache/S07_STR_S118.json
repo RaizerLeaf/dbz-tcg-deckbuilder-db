@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S118",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S118_Saiyan Energy Deflection.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S118_Saiyan Energy Deflection.png",
+  "prefix": "S",
+  "number": 118,
+  "card_number": "S118",
+  "name_part": "Saiyan Energy Deflection",
+  "file_name": "Saiyan Energy Deflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "93fa846a025bbdeff56099a7fbcb4fedde051404"
+ },
+ "vision": {
+  "id": "S07_STR_S118",
+  "name": "Saiyan Energy Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S130; text compared on the sheet",
+  "_src": "S07.jsonl:301"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 78.7,
+  "header_text": "SAIYAN ENERGY DEFLECTION C) $118\niP 3x",
+  "stages_text": "2",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P16",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P16_Orange Driving Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P16_Orange Driving Drill.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Orange Driving Drill",
+  "file_name": "Orange Driving Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "cce57792f01119cdde5cf19b7cd3465b1f042037"
+ },
+ "vision": {
+  "id": "S18_PRO_P16",
+  "name": "Orange Driving Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Allies cannot make actions.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S18.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 60.6,
+  "header_text": "ORANGE DRIVING DRILL © ric ) P16",
+  "stages_text": null,
+  "error": null
+ }
+}

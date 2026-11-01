@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_07",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "07_Black Impact.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/07_Black Impact.jpg",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Black Impact",
+  "file_name": "Black Impact",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f2d88249dfc30dfb2ab0680a631e848024dd485b"
+ },
+ "vision": {
+  "id": "S06_BST_07",
+  "name": "Black Impact",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nGain 2 stages. Look at the top 3 cards of your Life Deck and place them back in any order.\nDAMAGE: 3 life cards.\nHIT: Reveal the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 76.2,
+  "header_text": "BLACK IMPACT C) C7\n~ a ae",
+  "stages_text": "3\n3,7 2\n,",
+  "error": null
+ }
+}

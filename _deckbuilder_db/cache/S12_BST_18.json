@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_18",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "18_Orange Counter Punch.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/18_Orange Counter Punch.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orange Counter Punch",
+  "file_name": "Orange Counter Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "86d00339551c4bab9bfd3621104aaa02546e105e"
+ },
+ "vision": {
+  "id": "S12_BST_18",
+  "name": "Orange Counter Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nSearch your discard pile for a Styled attack card and Rejuvenate it.\nDAMAGE: AT + 3 stages.\nHIT: Rejuvenate the bottom 2 cards of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 84.4,
+  "header_text": "ORANGE COUNTER PUNCH C) U18",
+  "stages_text": "7\n0,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P32",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P32_Red Left Bolt.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P32_Red Left Bolt.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Red Left Bolt",
+  "file_name": "Red Left Bolt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1f7a152d3d2406692dbc3189a4b27c5ae7d53cd6"
+ },
+ "vision": {
+  "id": "S16_PRO_P32",
+  "name": "Red Left Bolt",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 3: Energy attack.\nDamage from this attack is banished. Draw the bottom card of your Life Deck.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '3:'; no Endurance badge",
+  "_src": "S16.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "RED LEFT BOLT () P32",
+  "stages_text": "5\n,\n,",
+  "error": null
+ }
+}

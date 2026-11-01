@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_80",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "80_Jimmy Firecracker - Inquisitive.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/80_Jimmy Firecracker - Inquisitive.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Jimmy Firecracker - Inquisitive",
+  "file_name": "Jimmy Firecracker",
+  "file_subtitle": "Inquisitive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "63a778bf611059b5158bf8539b7a4703e8392a9e"
+ },
+ "vision": {
+  "id": "S07_BST_80",
+  "name": "Jimmy Firecracker",
+  "sub": "Inquisitive",
+  "type": "Ally",
+  "num": "U80",
+  "lvl": 1,
+  "stages": [
+   5,
+   5,
+   4,
+   4,
+   3,
+   3,
+   2,
+   2,
+   1,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Hercule, you may use this power regardless of your MP's power stage.)\n[Defense] POWER: Stops a physical or energy attack. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'",
+  "_src": "S07.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.0,
+  "header_text": "1 JIMMY FIRECRACKER U80\nLEVEL INQUISITIVE",
+  "stages_text": "4\n4\n3\n3\n2\n2\n1\n1\n0",
+  "error": null
+ }
+}

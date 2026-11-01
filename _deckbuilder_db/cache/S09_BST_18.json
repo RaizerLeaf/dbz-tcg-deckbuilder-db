@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_18",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "18_Orange Grimace.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/18_Orange Grimace.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orange Grimace",
+  "file_name": "Orange Grimace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c2125006b3a46f761e85606b3a37d8ee544b2bc6"
+ },
+ "vision": {
+  "id": "S09_BST_18",
+  "name": "Orange Grimace",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\nYou may raise your anger 1 level. Your AT damage is considered to be 4 for your Styled attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Physical Combat card that stops an ENERGY attack, as printed",
+  "_src": "S09.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 86.0,
+  "header_text": "ORANGE GRIMACE C) C13\n| a os ~ oe oo ~~ a ~ |",
+  "stages_text": "2\n1\n,\n,\n\n04\n\n,",
+  "error": null
+ }
+}

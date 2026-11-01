@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_47",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "47_Red Takeover.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/47_Red Takeover.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Red Takeover",
+  "file_name": "Red Takeover",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e93909066c5101d2cb07f073f2b426cde5f9e919"
+ },
+ "vision": {
+  "id": "S07_BST_47",
+  "name": "Red Takeover",
+  "sub": null,
+  "type": "Event",
+  "num": "C47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Whenever your MP gains stages this combat, your opponent's MP loses 1 stage. Your next Styled attack this combat deals +3 life cards of damage. Use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "RED TAKEOVER () C47\n28.-T me /",
+  "stages_text": "4\n,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR1",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR1_Goku - Training.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR1_Goku - Training.png",
+  "prefix": "DR",
+  "number": 1,
+  "card_number": "DR1",
+  "name_part": "Goku - Training",
+  "file_name": "Goku",
+  "file_subtitle": "Training",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "518d1ae7ba1908dd56548b5215ffe600d2372675"
+ },
+ "vision": {
+  "id": "S07_DR_DR1",
+  "name": "Goku",
+  "sub": "Training",
+  "type": "Main Personality",
+  "num": "DR1",
+  "lvl": 1,
+  "stages": [
+   800000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage.\n[Instant] POWER: Use when entering combat. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P63",
+  "_src": "S07.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.2,
+  "header_text": ": GOKU ay ;\nTRAINING cP, DRI\nIWIN YN\\IS nrerwrers",
+  "stages_text": "800,000\n400,000\n200,000\n100,000\n80,000\n25,000\n10,000\n5,000\n\n2,500\n\n1,250\n\n0",
+  "error": null
+ }
+}

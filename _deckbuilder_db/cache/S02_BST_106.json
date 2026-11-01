@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_106",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "106_Blue Taming Technique.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/106_Blue Taming Technique.jpg",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Blue Taming Technique",
+  "file_name": "Blue Taming Technique",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "502c147c9b2c92e4d98f32d80e7d60584092aecc"
+ },
+ "vision": {
+  "id": "S02_BST_106",
+  "name": "Blue Taming Technique",
+  "sub": null,
+  "type": "Setup",
+  "num": "R106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Life Deck for an Ally and place it into play at 4 stages above 0. You may discard a card from your hand. If you discarded a Styled Setup, you may place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "(BLUE TAMING TECHNIQUE (ce",
+  "stages_text": "",
+  "error": null
+ }
+}

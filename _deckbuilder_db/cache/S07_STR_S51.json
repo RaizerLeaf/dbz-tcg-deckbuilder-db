@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S51",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S51_Blue Neck Beam.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S51_Blue Neck Beam.png",
+  "prefix": "S",
+  "number": 51,
+  "card_number": "S51",
+  "name_part": "Blue Neck Beam",
+  "file_name": "Blue Neck Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8cf1563daa07a54cf0d1729b646553a6a9006a49"
+ },
+ "vision": {
+  "id": "S07_STR_S51",
+  "name": "Blue Neck Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, your MP gains 4 stages.) ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Raise or lower your opponent's MP one personality level at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S113; text compared on the sheet",
+  "_src": "S07.jsonl:234"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 79.6,
+  "header_text": "BLUE NECK BEAM ) S51",
+  "stages_text": "4\n2",
+  "error": null
+ }
+}

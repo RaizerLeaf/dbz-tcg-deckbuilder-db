@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_27",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "27_Saiyan Avoidance.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/27_Saiyan Avoidance.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Saiyan Avoidance",
+  "file_name": "Saiyan Avoidance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "40cc7c2e82e018b5d026ea120933b19a2c37370b"
+ },
+ "vision": {
+  "id": "S15_BST_27",
+  "name": "Saiyan Avoidance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card's Endurance is considered to be 5 for your card effects.)\n[Defense] Stops a physical attack.\nYou may discard a card from your hand. If you do, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 89.5,
+  "header_text": "SAIYAN AVOIDANCE @) 027\nWN | /\\ YY ee V2 JS Eon",
+  "stages_text": "4\n,\n347\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S87",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S87_Namekian Flinch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S87_Namekian Flinch.png",
+  "prefix": "S",
+  "number": 87,
+  "card_number": "S87",
+  "name_part": "Namekian Flinch",
+  "file_name": "Namekian Flinch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5b4c6a05aa0311fc561149adffb654635d3d953c"
+ },
+ "vision": {
+  "id": "S07_STR_S87",
+  "name": "Namekian Flinch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, search your discard pile for an Ally and place it into play.)\n[Defense] Stops a physical attack.\nYou may shuffle a Dragon Ball in play into its owner's Life Deck. If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_86; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:270"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "NAMEKIAN FLINCH\n— ae",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

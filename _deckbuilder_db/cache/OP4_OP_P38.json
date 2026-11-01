@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P38",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P38_Blue Guard.png",
+  "rel_path": "z_OP Series/OP4/P38_Blue Guard.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Blue Guard",
+  "file_name": "Blue Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f0eeb9f4d2bf0347d65f4575601c3d42ee3217dc"
+ },
+ "vision": {
+  "id": "OP4_OP_P38",
+  "name": "Blue Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw a card.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); no Endurance badge",
+  "_src": "OP.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "BLUE GUARD () P38",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S136",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S136_Red Burning Stance.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S136_Red Burning Stance.png",
+  "prefix": "S",
+  "number": 136,
+  "card_number": "S136",
+  "name_part": "Red Burning Stance",
+  "file_name": "Red Burning Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "066f1b15ea56fee46ee90454e619af99befda260"
+ },
+ "vision": {
+  "id": "S04_STR_S136",
+  "name": "Red Burning Stance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT stages.\nHIT: Banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S108",
+  "_src": "S04.jsonl:289"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "RED BURNING STANCE 5136\nar. wm",
+  "stages_text": "05",
+  "error": null
+ }
+}

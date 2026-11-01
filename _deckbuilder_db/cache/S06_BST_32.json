@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_32",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "32_Orange Eviction.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/32_Orange Eviction.jpg",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Orange Eviction",
+  "file_name": "Orange Eviction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "2c8e6fa54bd02dc0d65f559177236d639d96669b"
+ },
+ "vision": {
+  "id": "S06_BST_32",
+  "name": "Orange Eviction",
+  "sub": null,
+  "type": "Setup",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Attach to one of your Drills. While attached, you cannot stop attacks. Banish this card when your opponent plays an Event and cancel the effects of that Event.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "ORANGE EVICTION a C32 |\na. = - -  .,  -* ti >-+-.) = ~—)—6)UUl [a -",
+  "stages_text": null,
+  "error": null
+ }
+}

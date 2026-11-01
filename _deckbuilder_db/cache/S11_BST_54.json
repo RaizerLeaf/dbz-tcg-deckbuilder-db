@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_54",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "54_Babidi - Controlling.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/54_Babidi - Controlling.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Babidi - Controlling",
+  "file_name": "Babidi",
+  "file_subtitle": "Controlling",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9b1818cb705ff1cd3cbd04c95a3c9e270ddae49d"
+ },
+ "vision": {
+  "id": "S11_BST_54",
+  "name": "Babidi",
+  "sub": "Controlling",
+  "type": "Main Personality",
+  "num": "S54",
+  "lvl": 4,
+  "stages": [
+   4000,
+   3500,
+   3000,
+   2500,
+   1700,
+   1500,
+   600,
+   500,
+   400,
+   100,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your Allies' PUR is +2.\n[Instant] POWER: Use at the start of your Planning Step. Search a player's Life Deck, discard pile, or Banished Zone for an Ally and play it.\nPOWER: [Attack] Energy attack.\nDAMAGE: 0 life cards.\nHIT: Destroy the top X cards of your opponent's Life Deck. X = the number of Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 79.2,
+  "header_text": "41. BABIDI\nLEVEL CONTROLLING () 954",
+  "stages_text": "4,000\n\n3,500\n\n3,000\n\n2,500\n\n1,700\n3\n\n1,500\n\n600\n\n500\n\n400\n\n100\n\n0",
+  "error": null
+ }
+}

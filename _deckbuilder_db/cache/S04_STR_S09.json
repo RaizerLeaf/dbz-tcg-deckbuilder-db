@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S09",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S09_Goku - Dashing.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S09_Goku - Dashing.png",
+  "prefix": "S",
+  "number": 9,
+  "card_number": "S09",
+  "name_part": "Goku - Dashing",
+  "file_name": "Goku",
+  "file_subtitle": "Dashing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "4a369b3da206effa14e2e6793a885530222861bd"
+ },
+ "vision": {
+  "id": "S04_STR_S09",
+  "name": "Goku",
+  "sub": "Dashing",
+  "type": "Main Personality",
+  "num": "S9",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1750000,
+   1650000,
+   1400000,
+   1150000,
+   900000,
+   650000,
+   400000,
+   150000,
+   75000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: Search your Life Deck, discard pile, or Banished Zone for an Ally and place it into play at its highest power stage. Choose one of your Allies in play. For the remainder of combat, that Ally may make actions regardless of your MP's power stage and attacks performed by that Ally deal +4 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO. Starter art version of S04 UR143 (same text)",
+  "_src": "S04.jsonl:162"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.9,
+  "header_text": "fs GOKU « * ;\n[+ DASHING 2 39",
+  "stages_text": "1,850,000\n1,750,000\n1,650,000\n1,400,000\n1,150,000\n900,000\n650,000\n400,000\n150,000\n75,000\n\n0",
+  "error": null
+ }
+}

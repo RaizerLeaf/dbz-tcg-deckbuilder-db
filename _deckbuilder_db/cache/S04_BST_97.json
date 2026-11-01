@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_97",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "97_Android 17 - Beckoning.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/97_Android 17 - Beckoning.png",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Android 17 - Beckoning",
+  "file_name": "Android 17",
+  "file_subtitle": "Beckoning",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "bf69d083fb8826b08db146c4b68e7c9455dd71d7"
+ },
+ "vision": {
+  "id": "S04_BST_97",
+  "name": "Android 17",
+  "sub": "Beckoning",
+  "type": "Ally",
+  "num": "U97",
+  "lvl": 1,
+  "stages": [
+   140000,
+   110000,
+   80000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "(When this card enters play, choose a card with \"Android\" in the title from your discard pile and Rejuvenate it.)\nPOWER: [Attack] Physical attack.\nDAMAGE: AT +X life cards. X = the number of Setups in play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'VILLAIN ALLY'",
+  "_src": "S04.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 0.886,
+  "lower_conf": 74.9,
+  "header_text": "L ANDROID 17\nLEVEL BECKONING () U97",
+  "stages_text": "140,000\n110,000\n80,000\n50,000\n40,000\n30,000\n, 20,000\n10,000\n5,000\n2,500\n\n0",
+  "error": null
+ }
+}

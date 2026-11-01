@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_124",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "124_Namekian Back Smash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/124_Namekian Back Smash.png",
+  "prefix": null,
+  "number": 124,
+  "card_number": "124",
+  "name_part": "Namekian Back Smash",
+  "file_name": "Namekian Back Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "05ef103184a2ba7aeac24e12bf4e60049129b757"
+ },
+ "vision": {
+  "id": "S05_BST_124",
+  "name": "Namekian Back Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAttach to your MP. While attached, your Named cards are considered Styled for your effects.\nDAMAGE: AT +4 stages.\nHIT: Your MP gains 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "NAMEKIAN BACK SMASH ) R124\nesi) | Ll Cs SS",
+  "stages_text": "4 1,\n\n4\n\n4\n347\n,\n,",
+  "error": null
+ }
+}

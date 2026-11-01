@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_54",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "54_Super Dragon Ball 1.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/54_Super Dragon Ball 1.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Super Dragon Ball 1",
+  "file_name": "Super Dragon Ball 1",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f1ce1b30e9a0c71b619e63a5dba7cd43157791b"
+ },
+ "vision": {
+  "id": "S16_BST_54",
+  "name": "Super Dragon Ball 1",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Name a Setup, Drill, Ally, or attached card. Destroy all copies of that card in play.",
+  "conf": "high",
+  "review": null,
+  "note": "Dragon Ball layout (black frame, gold border)",
+  "_src": "S16.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "SUPER DRAGON BALL 1 © v5",
+  "stages_text": "",
+  "error": null
+ }
+}

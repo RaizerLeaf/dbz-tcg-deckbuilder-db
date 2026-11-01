@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_65",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "65_Yamcha - Sleeping.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/65_Yamcha - Sleeping.png",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Yamcha - Sleeping",
+  "file_name": "Yamcha",
+  "file_subtitle": "Sleeping",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "54a03a13d6f418c2adc5712981d180efa7258688"
+ },
+ "vision": {
+  "id": "S05_BST_65",
+  "name": "Yamcha",
+  "sub": "Sleeping",
+  "type": "Main Personality",
+  "num": "U65",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack.\nLower your opponent's anger 1 level.\nDAMAGE: 2 life cards.\nHIT: Stops the next physical attack performed against you this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads HERO",
+  "_src": "S05.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 65.0,
+  "header_text": "LL YAMCHA\nLEVEL SLEEPING () U65\nBOT GG “poo. Ww",
+  "stages_text": "50\n40\n\n35\n\n30\n20\n15\n\n10\n5\n0",
+  "error": null
+ }
+}

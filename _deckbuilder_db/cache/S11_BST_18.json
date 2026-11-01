@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_18",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "18_Orane Beatdown.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/18_Orane Beatdown.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orane Beatdown",
+  "file_name": "Orane Beatdown",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c62ec85174ad9eb28fcc9bf8509def62f70eb3dc"
+ },
+ "vision": {
+  "id": "S11_BST_18",
+  "name": "Orange Beatdown",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour Styled Drills cannot leave play until the beginning of your next action this combat. Raise your anger 2 levels.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Orane'",
+  "_src": "S11.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "ORANGE BEATDOWN R18.\nEe sau. | err EE a",
+  "stages_text": "7\n\n,\n,\n,",
+  "error": null
+ }
+}

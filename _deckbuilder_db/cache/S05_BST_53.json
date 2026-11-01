@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_53",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "53_Saiyan Emergence.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/53_Saiyan Emergence.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan Emergence",
+  "file_name": "Saiyan Emergence",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c5c94ccd62baae596c5af907e6b4593eb67376ce"
+ },
+ "vision": {
+  "id": "S05_BST_53",
+  "name": "Saiyan Emergence",
+  "sub": null,
+  "type": "Event",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Rejuvenate 1. Your opponent's MP loses 4 stages. If the power level of your opponent's MP is 0, Rejuvenate this card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.9,
+  "header_text": "SAIYAN EMERGENCE C) (53\nnae, “GH ' ‘i",
+  "stages_text": "2,\n0,",
+  "error": null
+ }
+}

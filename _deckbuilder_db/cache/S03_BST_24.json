@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_24",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "24_Blue Slash.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/24_Blue Slash.jpg",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Blue Slash",
+  "file_name": "Blue Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f37c2d10c8ffa4d0f719e64d190ea47a5c4b5755"
+ },
+ "vision": {
+  "id": "S03_BST_24",
+  "name": "Blue Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: 1 life card. Lower your opponent's anger 1 level. HIT: Your opponent destroys the top X cards of his Life Deck. X = 6 - his current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.3,
+  "header_text": "BLUE SLASH ote () cea\n\" wie, 4a. | \\",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_132",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "132_Cell's Provocation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/132_Cell's Provocation.png",
+  "prefix": null,
+  "number": 132,
+  "card_number": "132",
+  "name_part": "Cell's Provocation",
+  "file_name": "Cell's Provocation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2edb7b305d758278f8e0a3150e69a6e63a21d7d1"
+ },
+ "vision": {
+  "id": "S07_BST_132",
+  "name": "Cell's Provocation",
+  "sub": null,
+  "type": "Event",
+  "num": "R132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated during combat, destroy the top X cards of your opponent's Life Deck. X = the number of Allies you control with \"Cell Jr.\" in the title.)\nPOWER: Return an Ally in play to its owner's hand. If that Ally had \"Cell Jr.\" in the title, destroy the top 3 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.8,
+  "header_text": "CELL'S PROVOCATION ) R132\n—— LN a,",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

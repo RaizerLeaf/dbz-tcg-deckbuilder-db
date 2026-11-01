@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_14",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "14_Black Unstable Punch.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/14_Black Unstable Punch.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Black Unstable Punch",
+  "file_name": "Black Unstable Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "870386162bdefc70b1cb1385ed12c957dbeb676a"
+ },
+ "vision": {
+  "id": "S05_BST_14",
+  "name": "Black Unstable Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nReveal your hand. This attack deals +3 life cards of damage for each Named card revealed.\nDAMAGE: AT +1 life card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "BLACK UNSTABLE PUNCH C) C14\nlf SS WG...) 2 ne” 4",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

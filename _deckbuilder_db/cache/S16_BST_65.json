@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_65",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "65_Sorbet - Commander.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/65_Sorbet - Commander.png",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Sorbet - Commander",
+  "file_name": "Sorbet",
+  "file_subtitle": "Commander",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c0fa2528c086a3c393db797ebe3a928ab83aded1"
+ },
+ "vision": {
+  "id": "S16_BST_65",
+  "name": "Sorbet",
+  "sub": "Commander",
+  "type": "Ally",
+  "num": "U65",
+  "lvl": 1,
+  "stages": [
+   2000,
+   1500,
+   1000,
+   800,
+   600,
+   400,
+   200,
+   50,
+   25,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nDAMAGE: 1 life card.\nHIT: Search your Life Deck for an [Trait:Alien] Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple); stage cost printed as '2:'",
+  "_src": "S16.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 87.9,
+  "header_text": "1 | SORBET\neS COMMANDER E) U65",
+  "stages_text": "2,000\n\n1,500\n\n1,000\n800\n600\n7 400\n4 200\n50\n25\n5\n0",
+  "error": null
+ }
+}

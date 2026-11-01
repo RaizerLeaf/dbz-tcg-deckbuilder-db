@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_81",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "81_Krillin - Victorious.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/81_Krillin - Victorious.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Krillin - Victorious",
+  "file_name": "Krillin",
+  "file_subtitle": "Victorious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "da54ff6102c4fad00a44805e10f41d6ba3b8129c"
+ },
+ "vision": {
+  "id": "S10_BST_81",
+  "name": "Krillin",
+  "sub": "Victorious",
+  "type": "Main Personality",
+  "num": "S81",
+  "lvl": 4,
+  "stages": [
+   1000100,
+   1000000,
+   800000,
+   600000,
+   400000,
+   100000,
+   70000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1 and banish the top card of your opponent's Life Deck.\nPOWER: [Attack] Energy attack costing 2 stages.\nYou may use this attack a second time this combat.\nDAMAGE: 5 life cards.\nHIT: Search your Life Deck or discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 0.892,
+  "lower_conf": 74.9,
+  "header_text": "KRILLIN",
+  "stages_text": "4 1,000,100\n1,000,000\n00,000\n600,000\n400,000\n100,000\n70,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

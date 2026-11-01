@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_42",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "42_Arale - Gag Manga Character.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/42_Arale - Gag Manga Character.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Arale - Gag Manga Character",
+  "file_name": "Arale",
+  "file_subtitle": "Gag Manga Character",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e98a9553123b8a3d43472f6f80b97d51ed017053"
+ },
+ "vision": {
+  "id": "S17_BST_42",
+  "name": "Arale",
+  "sub": "Gag Manga Character",
+  "type": "Ally",
+  "num": "U42",
+  "lvl": 1,
+  "stages": [
+   420,
+   1234,
+   7,
+   666,
+   1,
+   69,
+   911,
+   2000,
+   7,
+   404,
+   0
+  ],
+  "pur": 0,
+  "align": "Hero/Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "(If your MP has [Trait:Android], you may use this Power regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nThis attack is considered to deal critical damage.\nDAMAGE: 0 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge R (grey); number area reads 'PREVIEW U42'; joke stages printed as 420, 1,234, 7, 666, 1, 69, 911, 2,000, 7, 404, 0 (not descending, as printed); PUR 0",
+  "_src": "S17.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 78.7,
+  "header_text": "1 | ARALE PREVIEW\nLEVEL | GAG MANGA CHARACTER U42\nna |",
+  "stages_text": "420\n1,234\n7\n666\n1\n69\n911\n2,000\n7\n404\n\n0",
+  "error": null
+ }
+}

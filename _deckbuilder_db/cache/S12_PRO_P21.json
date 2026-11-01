@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P21",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P21_Orange Bicycle Kick.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P21_Orange Bicycle Kick.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Orange Bicycle Kick",
+  "file_name": "Orange Bicycle Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ef465371bbf8eaa0a17660ba612789d4c3234f48"
+ },
+ "vision": {
+  "id": "S12_PRO_P21",
+  "name": "Orange Bicycle Kick",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower a player's anger 2 levels. Rejuvenate up to 3 Drills you control. Search your Life Deck for X ∞ Styled Drills and place them into play. X = the number of Drills you Rejuvenated.\nDAMAGE: AT + 5 stages.\n(Banish after use.)",
+  "conf": "medium",
+  "review": "printed oddities: card type reads Energy Combat but the attack line says 'Physical attack'; a stray infinity (Continuous) symbol is printed between 'X' and 'Styled Drills'",
+  "note": "stray '∞' transcribed as printed (zoomed); no Endurance badge",
+  "_src": "S12.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "ORANGE BICYCLE KICK C) P21.",
+  "stages_text": "2\n,\n\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_130",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "130_Saiyan Prepped Ball.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/130_Saiyan Prepped Ball.jpg",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Saiyan Prepped Ball",
+  "file_name": "Saiyan Prepped Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e58cac0752bf0851951cb46782a3b07761850d70"
+ },
+ "vision": {
+  "id": "S02_BST_130",
+  "name": "Saiyan Prepped Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. You may search your discard pile for a Styled Event and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.6,
+  "header_text": "SAIYAN PREPPED BALL () A180",
+  "stages_text": "7",
+  "error": null
+ }
+}

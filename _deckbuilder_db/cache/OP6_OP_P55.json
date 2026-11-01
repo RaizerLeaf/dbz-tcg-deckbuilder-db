@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P55",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P55_Black Sacred Defens Drill.png",
+  "rel_path": "z_OP Series/OP6/P55_Black Sacred Defens Drill.png",
+  "prefix": "P",
+  "number": 55,
+  "card_number": "P55",
+  "name_part": "Black Sacred Defens Drill",
+  "file_name": "Black Sacred Defens Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "75d337a85d5456e2e5aa3190cf7904e61ba51c7e"
+ },
+ "vision": {
+  "id": "OP6_OP_P55",
+  "name": "Black Sacred Defense Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 1 per deck. Use only if your opponent has performed a successful attack this combat.)\n[Defense] POWER: Prevent all damage from an attack.\nDiscard a card from your hand. [Warning]: This attack deals no damage.\n(Created by Daniel Behee, OP5 South Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder; credit line names OP5 Champion); landscape Drill layout; filename says 'Defens'; the card prints 'Defense'; black warning triangle transcribed as [Warning]; the OP6 cards carry a disclaimer that also names Dragon Ball Daima",
+  "_src": "OP.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 82.8,
+  "header_text": "-ACK SACRED DEFENSE DRILL @) P55",
+  "stages_text": null,
+  "error": null
+ }
+}

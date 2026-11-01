@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_21",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "21_Red Rally Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/21_Red Rally Drill.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Rally Drill",
+  "file_name": "Red Rally Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3ab4e7fce4b8d5500576a3fa4b9a65c14eb30685"
+ },
+ "vision": {
+  "id": "S18_BST_21",
+  "name": "Red Rally Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Instant] POWER: Use when you would use a critical damage effect. Destroy a Setup, Drill, or Ally instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S18.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "RED RALLY DRILL () U21",
+  "stages_text": null,
+  "error": null
+ }
+}

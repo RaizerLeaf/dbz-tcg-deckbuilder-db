@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_91",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "91_Videl - Heroic.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/91_Videl - Heroic.png",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Videl - Heroic",
+  "file_name": "Videl",
+  "file_subtitle": "Heroic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6fb56b80a4745c6db7f0e119bc34a34c673e8d21"
+ },
+ "vision": {
+  "id": "S10_BST_91",
+  "name": "Videl",
+  "sub": "Heroic",
+  "type": "Main Personality",
+  "num": "S91",
+  "lvl": 2,
+  "stages": [
+   200,
+   150,
+   90,
+   80,
+   70,
+   60,
+   50,
+   40,
+   30,
+   20,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your AT is considered to be 3 for your attacks.\nPOWER: You may discard a card from your hand to draw a card. Lower your opponent's anger 2 levels or your effects that destroy cards from the top of your opponent's Life Deck have that amount increased by 1 this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "VIDEL",
+  "stages_text": "200\n\n90\n\n80\n\n70\n60\n50\n40\n\n30\n\n20\n\n0",
+  "error": null
+ }
+}

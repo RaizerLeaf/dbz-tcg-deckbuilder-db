@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_DR_DR2",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "DR2_Cell - Semi-Perfect.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/DR2_Cell - Semi-Perfect.png",
+  "prefix": "DR",
+  "number": 2,
+  "card_number": "DR2",
+  "name_part": "Cell - Semi-Perfect",
+  "file_name": "Cell",
+  "file_subtitle": "Semi-Perfect",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1539daced6dc765d6d11bf6c7e6ce9faefbd9cf9"
+ },
+ "vision": {
+  "id": "S05_DR_DR2",
+  "name": "Cell",
+  "sub": "Semi-Perfect",
+  "type": "Main Personality",
+  "num": "DR2",
+  "lvl": 2,
+  "stages": [
+   1400000,
+   900000,
+   400000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's non-Styled attacks cost +1 stage to perform.\n[Instant] POWER: Use when entering combat. Banish a card from your hand to search your Life Deck for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads VILLAIN",
+  "_src": "S05.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.4,
+  "header_text": "a \\\n-— CELL Am) pp?\nNayvam SEMI-PERFECT\nSig — Pe ad eras",
+  "stages_text": "1,400,000\n900,000\n400,000\n100,000\n\n, 75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n0",
+  "error": null
+ }
+}

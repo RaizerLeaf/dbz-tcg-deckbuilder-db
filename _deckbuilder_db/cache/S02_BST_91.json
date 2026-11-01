@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_91",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "91_Red Stomach Dive.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/91_Red Stomach Dive.jpg",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Red Stomach Dive",
+  "file_name": "Red Stomach Dive",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d5a6175352e4d6d66d480af5d54bcb85b59fa141"
+ },
+ "vision": {
+  "id": "S02_BST_91",
+  "name": "Red Stomach Dive",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. Attach to your MP. While attached, when you perform an attack you may lower your anger 1 level. If you do, that attack deals +2 life cards of damage. Destroy this card when you take critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(RED STOMACH DIVE: (=",
+  "stages_text": "",
+  "error": null
+ }
+}

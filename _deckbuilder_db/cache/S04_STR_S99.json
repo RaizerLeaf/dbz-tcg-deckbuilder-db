@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S99",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S99_Namekian Side Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S99_Namekian Side Kick.png",
+  "prefix": "S",
+  "number": 99,
+  "card_number": "S99",
+  "name_part": "Namekian Side Kick",
+  "file_name": "Namekian Side Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f967fb84cd21fc59545b1f6b3799683c45255fff"
+ },
+ "vision": {
+  "id": "S04_STR_S99",
+  "name": "Namekian Side Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT +2 life cards.\nHIT: Draw the top card of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S137",
+  "_src": "S04.jsonl:252"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "NAMEKIAN SIDE KICK () $99\n| . ns i, |",
+  "stages_text": "2\n1\n2,\n\n,",
+  "error": null
+ }
+}

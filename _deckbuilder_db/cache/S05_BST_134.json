@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_134",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "134_Red Back Bash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/134_Red Back Bash.png",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Red Back Bash",
+  "file_name": "Red Back Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ffe14deb42d89ec553d0920c0f3ef36936c8f6bd"
+ },
+ "vision": {
+  "id": "S05_BST_134",
+  "name": "Red Back Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if you have performed at least two other Styled physical attacks this combat. This attack cannot have its damage modified.)\n[Attack] Physical attack.\nThis attack stays in play to be used a second time this combat.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "RED BACK BASH > ri34\n~~ ~ ARAN eg",
+  "stages_text": "7\n2\n2\n37\n,\n,",
+  "error": null
+ }
+}

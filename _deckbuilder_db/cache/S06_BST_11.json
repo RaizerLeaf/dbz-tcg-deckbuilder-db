@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_11",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "11_Black Vaulted Strike.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/11_Black Vaulted Strike.jpg",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Black Vaulted Strike",
+  "file_name": "Black Vaulted Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a161b4a04225fe7068ed8135cf6122e671a724fb"
+ },
+ "vision": {
+  "id": "S06_BST_11",
+  "name": "Black Vaulted Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded or destroyed from your Life Deck, choose a card in your opponent's discard pile and place it on top of his Life Deck.)\n[Attack] Physical attack.\nName 2 different cards. Reveal the top card of each player's Life Deck. If the named cards were revealed, Rejuvenate 6.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "BLACK VAULTED STRIKE () C11",
+  "stages_text": "4\n7\n3,",
+  "error": null
+ }
+}

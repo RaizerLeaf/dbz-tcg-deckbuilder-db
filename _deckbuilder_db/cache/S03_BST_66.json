@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_66",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "66_Garlic Jr. - Crazed.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/66_Garlic Jr. - Crazed.jpg",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Garlic Jr. - Crazed",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Crazed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0fa32c2990d67422dce77dad4c66aec179986204"
+ },
+ "vision": {
+  "id": "S03_BST_66",
+  "name": "Garlic Jr.",
+  "sub": "Crazed",
+  "type": "Main Personality",
+  "num": "U66",
+  "lvl": 2,
+  "stages": [
+   4000,
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   750,
+   500,
+   250,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards of damage. Whenever a Dragon Ball is revealed when taking damage, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "| — GARLIC JIRe vw a:\n| aoa —\nrn STE ae",
+  "stages_text": "4,000\n\n3,500\n\n3,000\n\n2,500\n\n2,000\n1,500\n1,000\n750\n\n500\n\n250\n\n0",
+  "error": null
+ }
+}

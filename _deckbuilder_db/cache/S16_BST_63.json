@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_63",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "63_Ox King - Joyful.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/63_Ox King - Joyful.png",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Ox King - Joyful",
+  "file_name": "Ox King",
+  "file_subtitle": "Joyful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0fceac4a2bfde864be78465779515b4196175dae"
+ },
+ "vision": {
+  "id": "S16_BST_63",
+  "name": "Ox King",
+  "sub": "Joyful",
+  "type": "Ally",
+  "num": "U63",
+  "lvl": 1,
+  "stages": [
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   50,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Attacks performed by your Allies deal +1 life card.\nPOWER: [Attack] 1: Physical attack.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge E (blue); stage cost printed as '1:'",
+  "_src": "S16.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "1 E KING\nLEVEL |} JOYFUL E) U63",
+  "stages_text": "900\n800\n\n700\n\n600\n500\n400\n300\n7 200\n100\n\n50\n0",
+  "error": null
+ }
+}

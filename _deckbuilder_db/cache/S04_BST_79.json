@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_79",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "79_Red Forceful Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/79_Red Forceful Strike.png",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Red Forceful Strike",
+  "file_name": "Red Forceful Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "628090739c76926cfd8401144b886fa544ff53f6"
+ },
+ "vision": {
+  "id": "S04_BST_79",
+  "name": "Red Forceful Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U79",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this attack is performed from your discard pile, you may destroy a Setup or Drill.)\n[Attack] Physical attack.\nDAMAGE: AT +3 stages.\nHIT: You may banish the top card of your Life Deck to destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "RED FORCEFUL STRIKE €) U79\n/ wii pp",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

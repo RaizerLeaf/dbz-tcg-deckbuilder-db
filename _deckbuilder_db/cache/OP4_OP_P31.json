@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P31",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P31_Raditz's Double Sunday.png",
+  "rel_path": "z_OP Series/OP4/P31_Raditz's Double Sunday.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Raditz's Double Sunday",
+  "file_name": "Raditz's Double Sunday",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "95d86c1e3e73b28d4e4fa7b5a807afd82cc5e0df"
+ },
+ "vision": {
+  "id": "OP4_OP_P31",
+  "name": "Raditz's Double Sunday",
+  "sub": null,
+  "type": "Setup",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] 2: Energy attack.\nUse a critical damage effect.\nDAMAGE: 5 life cards.\nHIT: Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); landscape Setup layout; grey card; possessive title -> Named; an attack on a Setup card as printed",
+  "_src": "OP.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 84.3,
+  "header_text": "RADITZ'S DOUBLE SUNDAY © P31]",
+  "stages_text": null,
+  "error": null
+ }
+}

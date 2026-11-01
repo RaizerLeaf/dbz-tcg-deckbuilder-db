@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_28",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "28_Orange Intense Training Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/28_Orange Intense Training Drill.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Orange Intense Training Drill",
+  "file_name": "Orange Intense Training Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "7b2a7966e1677b85a38ca315ecbb063ab9bcb01b"
+ },
+ "vision": {
+  "id": "S04_BST_28",
+  "name": "Orange Intense Training Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform a successful Styled attack, you may destroy a Drill you control to raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "ae _ r oo\n\n— :\n\n. _ \\ a\n\noe A . = =\n= (s?, i",
+  "stages_text": null,
+  "error": null
+ }
+}

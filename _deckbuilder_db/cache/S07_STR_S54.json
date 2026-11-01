@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S54",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S54_Vegeta's Galick Gun.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S54_Vegeta's Galick Gun.png",
+  "prefix": "S",
+  "number": 54,
+  "card_number": "S54",
+  "name_part": "Vegeta's Galick Gun",
+  "file_name": "Vegeta's Galick Gun",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "99c9676274a702eabeb65aeebe552ee538d83b2c"
+ },
+ "vision": {
+  "id": "S07_STR_S54",
+  "name": "Vegeta's Galick Gun",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. Damage from this attack cannot be prevented. If you deal critical damage with this attack, you may use two critical effects instead of one. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_160; text compared on the sheet",
+  "_src": "S07.jsonl:237"
+ },
+ "ocr": {
+  "agreement": 0.895,
+  "lower_conf": 92.1,
+  "header_text": "VEGETA'S GALICK GUN () $54\n— +! | —_ ao 4",
+  "stages_text": ",",
+  "error": null
+ }
+}

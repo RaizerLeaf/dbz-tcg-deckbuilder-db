@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_65",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "65_Buu - Relaxed.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/65_Buu - Relaxed.png",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Buu - Relaxed",
+  "file_name": "Buu",
+  "file_subtitle": "Relaxed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "90289c89d47a42bd773689bf91acc4ec03734a62"
+ },
+ "vision": {
+  "id": "S19_BST_65",
+  "name": "Buu",
+  "sub": "Relaxed",
+  "type": "Main Personality",
+  "num": "S65",
+  "lvl": 1,
+  "stages": [
+   2450000,
+   1842000,
+   1399000,
+   868000,
+   574000,
+   355000,
+   180000,
+   69000,
+   36000,
+   7000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(Your Life Deck cannot include Allies not named \"Bee\" or \"Hercule.\")\nPOWER: [Attack] Physical attack.\nRaise your anger 1.\nDAMAGE: 2 stages.\nHIT: Search each player's Life Deck for a non-Styled card and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge M (pink)",
+  "_src": "S19.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "BUU",
+  "stages_text": "2,450,000\n1,842,000\n1,399,000\n868,000\n574,000\n355,000\n180,000\n69,000\n36,000\n7,000\n0",
+  "error": null
+ }
+}

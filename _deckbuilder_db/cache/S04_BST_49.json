@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_49",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "49_Saiyan Blockade.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/49_Saiyan Blockade.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Saiyan Blockade",
+  "file_name": "Saiyan Blockade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "869a69b12662dff48ad2ed22b60b84fcca6165a4"
+ },
+ "vision": {
+  "id": "S04_BST_49",
+  "name": "Saiyan Blockade",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card would be discarded from your hand by one of your effects, you may banish it instead. If you do, your opponent's MP loses 2 stages.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 86.8,
+  "header_text": "SAIYAN BLOCKADE C) C49",
+  "stages_text": ",\n2\n,\n,\n,",
+  "error": null
+ }
+}

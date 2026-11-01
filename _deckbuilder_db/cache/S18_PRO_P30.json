@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P30",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P30_Dashing Sword Attack.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P30_Dashing Sword Attack.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Dashing Sword Attack",
+  "file_name": "Dashing Sword Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "17fed32594bfc749e7ce02bac521e82325d60983"
+ },
+ "vision": {
+  "id": "S18_PRO_P30",
+  "name": "Dashing Sword Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Physical attack.\nYour opponent's MP loses 2 stages. Lower your opponent's anger 1.\nDAMAGE: AT + 2 stages.\nHIT: Search your discard pile for a Styled or Named card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '1:'; no Endurance badge",
+  "_src": "S18.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "DASHING SWORD ATTACK @@ ) P30 |",
+  "stages_text": "",
+  "error": null
+ }
+}

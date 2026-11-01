@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P4",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P4_Red Double Strike.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P4_Red Double Strike.jpg",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Red Double Strike",
+  "file_name": "Red Double Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f629e2733017c905414edff4ce5a6eb1d6023d3e"
+ },
+ "vision": {
+  "id": "S06_PRO_P4",
+  "name": "Red Double Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. This attack stays in play to be used a second time this combat.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 C46",
+  "_src": "S06.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.5,
+  "header_text": "RED DOUBLE STRIKE () P4",
+  "stages_text": ",\n,\n347\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P43",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P43_Namek Dragon Ball 4.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P43_Namek Dragon Ball 4.png",
+  "prefix": "P",
+  "number": 43,
+  "card_number": "P43",
+  "name_part": "Namek Dragon Ball 4",
+  "file_name": "Namek Dragon Ball 4",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9a8db678c07174f3b3f04f3137c2f5390edef17"
+ },
+ "vision": {
+  "id": "S13_PRO_P43",
+  "name": "Namek Dragon Ball 4",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Destroy up to 2 Setups and/or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.6,
+  "header_text": "NAMEK DRAGON BALL 4 (-9) P43\n1. yp",
+  "stages_text": "5\n4\n,",
+  "error": null
+ }
+}

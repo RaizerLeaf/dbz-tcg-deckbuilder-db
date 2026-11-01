@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S65",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S65_Blue Mental Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S65_Blue Mental Drill.png",
+  "prefix": "S",
+  "number": 65,
+  "card_number": "S65",
+  "name_part": "Blue Mental Drill",
+  "file_name": "Blue Mental Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "280db062fe3533b76e289cf584731d035419a70a"
+ },
+ "vision": {
+  "id": "S04_STR_S65",
+  "name": "Blue Mental Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your opponent plays with his hand revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S38; landscape layout",
+  "_src": "S04.jsonl:218"
+ },
+ "ocr": {
+  "agreement": 0.778,
+  "lower_conf": 64.2,
+  "header_text": "= Pe Rai sen\n; Say, a = =\n; YN Tien “3817...",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P15",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P15_Namekian Crossed Guard.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P15_Namekian Crossed Guard.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Namekian Crossed Guard",
+  "file_name": "Namekian Crossed Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a83fbae173ea0aa465fb803f4bcbd04c44fc4a19"
+ },
+ "vision": {
+  "id": "S18_PRO_P15",
+  "name": "Namekian Crossed Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is Rejuvenated, place a Styled Drill from your discard pile into play.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 82.9,
+  "header_text": "NAMEKIAN CROSSED GUARD ) P15,\n~~ lll Ol Le eee",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

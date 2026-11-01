@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_10",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "10_Blue Slap.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/10_Blue Slap.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Slap",
+  "file_name": "Blue Slap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "175ce0e1314b50c525df4baa59c6da813ed10cb1"
+ },
+ "vision": {
+  "id": "S13_BST_10",
+  "name": "Blue Slap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, you may place it into your hand.)\n[Attack] Physical attack.\nRaise your anger 1 level. Lower your opponent's anger 2 levels.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.6,
+  "header_text": "BLUE SLAP a\nQE eee",
+  "stages_text": ",",
+  "error": null
+ }
+}

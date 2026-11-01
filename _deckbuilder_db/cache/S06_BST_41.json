@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_41",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "41_Red Reconnaissance Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/41_Red Reconnaissance Drill.jpg",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Red Reconnaissance Drill",
+  "file_name": "Red Reconnaissance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "70c64b9e42b0b27ab65b38628618c3fe55bcbc26"
+ },
+ "vision": {
+  "id": "S06_BST_41",
+  "name": "Red Reconnaissance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Continuous]: Whenever you banish cards from your discard pile, banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 76.0,
+  "header_text": "RED RECONNAISSANCE DRILL () C41",
+  "stages_text": null,
+  "error": null
+ }
+}

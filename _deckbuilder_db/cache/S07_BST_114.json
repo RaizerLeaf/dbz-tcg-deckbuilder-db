@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_114",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "114_Namekian Surge.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/114_Namekian Surge.png",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Namekian Surge",
+  "file_name": "Namekian Surge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ca9071d3733d599baa6c2e35907bbff69ee88408"
+ },
+ "vision": {
+  "id": "S07_BST_114",
+  "name": "Namekian Surge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nSearch your Life Deck for an Earth Dragon Ball and place it into play. At the end of combat, shuffle a Dragon Ball you control into its owner's Life Deck.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 85.8,
+  "header_text": "NAMEKIAN SURGE () R114\nae {",
+  "stages_text": ",\n4\n\n,\n,",
+  "error": null
+ }
+}

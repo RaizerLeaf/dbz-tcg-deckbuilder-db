@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_82",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "82_Puar - Cheerful.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/82_Puar - Cheerful.png",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Puar - Cheerful",
+  "file_name": "Puar",
+  "file_subtitle": "Cheerful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2e0c2ff0028d82262d7845e6b9e3ac2514d35793"
+ },
+ "vision": {
+  "id": "S07_BST_82",
+  "name": "Puar",
+  "sub": "Cheerful",
+  "type": "Ally",
+  "num": "U82",
+  "lvl": 1,
+  "stages": [
+   25,
+   23,
+   21,
+   19,
+   17,
+   15,
+   13,
+   11,
+   9,
+   7,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Yamcha, you may choose him with this power's effect.)\nPOWER: Choose a non-[Instant]/non-[Continuous] Power of an Ally in play that isn't Puar. Use that Power.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'",
+  "_src": "S07.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.2,
+  "header_text": "1 | PuaR\nAi.",
+  "stages_text": "25\n23\n21\n\n19\n17\n15\n\n13\n11\n9\n\n0",
+  "error": null
+ }
+}

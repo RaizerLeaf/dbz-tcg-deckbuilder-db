@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_14",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "14_Blue Save.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/14_Blue Save.jpg",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Blue Save",
+  "file_name": "Blue Save",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "bd51507a20cb10797fa95693f9a6bf05ca53cc06"
+ },
+ "vision": {
+  "id": "S06_BST_14",
+  "name": "Blue Save",
+  "sub": null,
+  "type": "Setup",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Return an Ally you control to its owner's hand to search your Life Deck for a Styled Setup and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 88.9,
+  "header_text": "BLUE SAVE a C14 |\nEe iki. 2. — |",
+  "stages_text": null,
+  "error": null
+ }
+}

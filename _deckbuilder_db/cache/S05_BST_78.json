@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_78",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "78_Pesky Barrage.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/78_Pesky Barrage.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Pesky Barrage",
+  "file_name": "Pesky Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "620bd035036df791dd8a1a0f4ce5c39daaffa9bf"
+ },
+ "vision": {
+  "id": "S05_BST_78",
+  "name": "Pesky Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U78",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. This card is considered to be a Named card for your card effects.)\n[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level. If the highest power level on your MP's Level 4 is 500,000 or less, this attack stays in play to be used a second time this combat.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.3,
+  "header_text": "PESKY BARRAGE C) U78\nqe, Ey ~",
+  "stages_text": "9\n7,\n7 4 1\n4\n,\n,",
+  "error": null
+ }
+}

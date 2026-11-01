@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_37",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "37_Janemba's Sword Thrust.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/37_Janemba's Sword Thrust.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Janemba's Sword Thrust",
+  "file_name": "Janemba's Sword Thrust",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f22a5ea3d0517957e4d74be85e9d769329e4ceb7"
+ },
+ "vision": {
+  "id": "S15_BST_37",
+  "name": "Janemba's Sword Thrust",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] 1: Physical attack.\nSearch your discard pile for up to 3 cards and attach them to your MP.\nDAMAGE: 5 life cards.\nHIT: Banish 3 cards from your opponent's discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '1:'",
+  "_src": "S15.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 87.4,
+  "header_text": "JANEMBA'S SWORD THRUST () R37\nto Se _ HY @® |",
+  "stages_text": "5\n03\n,",
+  "error": null
+ }
+}

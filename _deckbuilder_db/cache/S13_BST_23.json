@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_23",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "23_Orange 5-Finger Blast.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/23_Orange 5-Finger Blast.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Orange 5-Finger Blast",
+  "file_name": "Orange 5-Finger Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a28e6fa6bbaf44973dcbc7dec821e62711d8921a"
+ },
+ "vision": {
+  "id": "S13_BST_23",
+  "name": "Orange 5-Finger Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Lower your opponent's anger 2 levels. If your MP has changed levels this combat, search your discard pile for a Drill and place it into play.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "ORANGE 5-FINGER BLAST ) U23,",
+  "stages_text": ",\n\n7\n\n,\n2",
+  "error": null
+ }
+}

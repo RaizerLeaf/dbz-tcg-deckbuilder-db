@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S85",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S85_Namekian Maximum Will.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S85_Namekian Maximum Will.png",
+  "prefix": "S",
+  "number": 85,
+  "card_number": "S85",
+  "name_part": "Namekian Maximum Will",
+  "file_name": "Namekian Maximum Will",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "aec0087b0893480fa671c611987d100e58acccd4"
+ },
+ "vision": {
+  "id": "S07_STR_S85",
+  "name": "Namekian Maximum Will",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. You may destroy up to 2 cards from the top of your Life Deck. For each card destroyed, lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_33; text compared on the sheet",
+  "_src": "S07.jsonl:268"
+ },
+ "ocr": {
+  "agreement": 0.861,
+  "lower_conf": 79.0,
+  "header_text": "NAMEKIAN MAXIMUM WILL ) $85\na i—-aw ————— ts",
+  "stages_text": "7\n2",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_126",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "126_Android 18's Toss.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/126_Android 18's Toss.png",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Android 18's Toss",
+  "file_name": "Android 18's Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "924b8252575161f8e8936f533724aa4c5d0b1631"
+ },
+ "vision": {
+  "id": "S04_BST_126",
+  "name": "Android 18's Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may not search for Android 18's Toss with this card's effect.)\n[Attack] Energy attack costing 2 stages.\nYou may search your Life Deck for a card with \"Android\" in the title and place it into your hand. If that card was a Setup, Drill, or Ally, you may place it into play.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "ANDROID 18’S TOSS ») R126",
+  "stages_text": ",\n18\n\n,\n\n,",
+  "error": null
+ }
+}

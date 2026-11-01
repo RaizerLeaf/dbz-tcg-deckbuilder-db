@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_04",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "04_Villainous Energy Beam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/04_Villainous Energy Beam.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Villainous Energy Beam",
+  "file_name": "Villainous Energy Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6d010ba495f673f1c6e34ea66891392d8f18d2e7"
+ },
+ "vision": {
+  "id": "S05_BST_04",
+  "name": "Villainous Energy Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\nEnergy attack costing 3 stages.\nLower your opponent's anger 3 levels. Damage from this attack is banished.\nDAMAGE: 6 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; NO attack icon before 'Energy attack' as printed",
+  "_src": "S05.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 85.5,
+  "header_text": "VILLAINOUS ENERGY BEAM @)) C4\nitn ys",
+  "stages_text": ",\n0\n,\n\n3,",
+  "error": null
+ }
+}

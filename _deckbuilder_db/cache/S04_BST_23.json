@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_23",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "23_Namekian Door Destruction.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/23_Namekian Door Destruction.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Namekian Door Destruction",
+  "file_name": "Namekian Door Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "b109ddfcc210ee490e25b8022ab412beda905886"
+ },
+ "vision": {
+  "id": "S04_BST_23",
+  "name": "Namekian Door Destruction",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(An Ally you control may perform this attack regardless of your MP's power stage.)\n[Attack] Energy attack costing 3 stages.\nDAMAGE: 8 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "NAMEKIAN DOOR DESTRUCTION () 023\n{ ; ~~:",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

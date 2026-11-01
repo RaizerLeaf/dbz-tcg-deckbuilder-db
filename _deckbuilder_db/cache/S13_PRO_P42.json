@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P42",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P42_Namek Dragon Ball 3.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P42_Namek Dragon Ball 3.png",
+  "prefix": "P",
+  "number": 42,
+  "card_number": "P42",
+  "name_part": "Namek Dragon Ball 3",
+  "file_name": "Namek Dragon Ball 3",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "908b061862125a60fe748693a6571ef5aeda9bdc"
+ },
+ "vision": {
+  "id": "S13_PRO_P42",
+  "name": "Namek Dragon Ball 3",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Draw 3 cards. Place 2 cards from your hand at the bottom of your Life Deck.\nRaise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "NAMEK DRAGON BALL 3 (-3) P42",
+  "stages_text": ",",
+  "error": null
+ }
+}

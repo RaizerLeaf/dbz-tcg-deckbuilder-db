@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P15",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P15_Villainous Energy Sphere.png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P15_Villainous Energy Sphere.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Villainous Energy Sphere",
+  "file_name": "Villainous Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 477,
+  "height": 668,
+  "orientation": "portrait",
+  "sha1": "5bf1d2643c088e34809f8290770d9fcd98879d5f"
+ },
+ "vision": {
+  "id": "S03_PRO_P15",
+  "name": "Villainous Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Instant] POWER: Use when an Event is played. Cancel the effects of that card. Your opponent destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 UR164; text compared on the sheet, identical; grey frame",
+  "_src": "S03.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.2,
+  "header_text": "; | VILLAINOUS ENERGY.-SPHERE () Ps\nmy rf r\\ BB",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_115",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "115_Namekian Thrust.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/115_Namekian Thrust.png",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Namekian Thrust",
+  "file_name": "Namekian Thrust",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c62b460d0f253462fccac71d8500f11e8fba5c44"
+ },
+ "vision": {
+  "id": "S07_BST_115",
+  "name": "Namekian Thrust",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n(This card cannot be attached unless the highest power level on your MP's Level 4 is 500,000 or less.)\n[Attack] Energy attack costing 2 stages.\nAttach to your MP. While attached and you control 2 or more Dragon Balls, your opponent's effects cannot lower your MP's personality level.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 0.982,
+  "lower_conf": 80.4,
+  "header_text": "NAMEKIAN THRUST Oli:",
+  "stages_text": "4\n\n74\n4,\n,\n,",
+  "error": null
+ }
+}

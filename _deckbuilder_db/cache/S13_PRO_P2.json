@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P2",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P2_Yajirobe - Hungry.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P2_Yajirobe - Hungry.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Yajirobe - Hungry",
+  "file_name": "Yajirobe",
+  "file_subtitle": "Hungry",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "071b3542eb9bf261145917bf52ad804b7318465b"
+ },
+ "vision": {
+  "id": "S13_PRO_P2",
+  "name": "Yajirobe",
+  "sub": "Hungry",
+  "type": "Main Personality",
+  "num": "P2",
+  "lvl": 2,
+  "stages": [
+   700,
+   500,
+   300,
+   100,
+   75,
+   50,
+   25,
+   10,
+   5,
+   1,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever you play a card with \"Sword\" in the title, gain 2 stages.\nPOWER: Search your discard pile for up to 2 cards with \"Sword\" in the title and Rejuvenate them. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S13.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "YAJIROBE",
+  "stages_text": "700\n\n500\n\n300\n\n100\n\n75\n1 50\n25\n10\n\n5\n\n1\n0",
+  "error": null
+ }
+}

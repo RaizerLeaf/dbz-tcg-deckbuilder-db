@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_17",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "17_Orange Intensity Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/17_Orange Intensity Drill.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Orange Intensity Drill",
+  "file_name": "Orange Intensity Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "19d4c5d91309fbf453d04703a36099ff246fb0df"
+ },
+ "vision": {
+  "id": "S11_BST_17",
+  "name": "Orange Intensity Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your Styled attacks deal +1 life card of damage.\n[Instant] POWER: Use after performing a successful Styled attack. Damage from that attack cannot be prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S11.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 77.8,
+  "header_text": "ORANGE INTENSITY DRILL a C : ) |\n— << SB Se 0 ee OSS) | eee",
+  "stages_text": null,
+  "error": null
+ }
+}

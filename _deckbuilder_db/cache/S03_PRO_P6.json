@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P6",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P6_Namekian Onslaught.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P6_Namekian Onslaught.jpg",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Namekian Onslaught",
+  "file_name": "Namekian Onslaught",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "9fd58d682985304d53cd48c5792ca0a443e0fcce"
+ },
+ "vision": {
+  "id": "S03_PRO_P6",
+  "name": "Namekian Onslaught",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 4 life cards. Rejuvenate 1. If you control 2 or more Dragon Balls, this attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 C34; text compared on the sheet, identical",
+  "_src": "S03.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(NAMEKIAN ONSLAUGHT (\n—,",
+  "stages_text": "1,\n\n7 7\n4\n1,",
+  "error": null
+ }
+}

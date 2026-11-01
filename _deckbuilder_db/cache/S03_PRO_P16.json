@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P16",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P16_Frieza Golden.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P16_Frieza Golden.jpg",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Frieza Golden",
+  "file_name": "Frieza Golden",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1500,
+  "height": 2100,
+  "orientation": "portrait",
+  "sha1": "748b31e552415637266d46dcfca4f276c2e90b37"
+ },
+ "vision": {
+  "id": "S03_PRO_P16",
+  "name": "Frieza",
+  "sub": "Golden",
+  "type": "Main Personality",
+  "num": "P16",
+  "lvl": 2,
+  "stages": [
+   150000000,
+   25000000,
+   1250000,
+   600000,
+   300000,
+   150000,
+   75000,
+   30000,
+   15000,
+   7500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: AT life cards. Gain 3 stages. You may rejuvenate a Frieza Named card in your discard pile or Banished Zone. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo; edge reads VILLAIN -> MP. 'rejuvenate' lower-case as printed. Filename 'P16_Frieza Golden' lacks ' - '",
+  "_src": "S03.jsonl:158"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.5,
+  "header_text": "J a\nFRIEZA\n= EE ’ Eo\nLEVEL \\2\n~ ———, (* 4ENM ANH ANN",
+  "stages_text": "150,000,000\n25,000,000\n1,250,000\n600,000\n7300,000\n150,000\n5 75,000\n30,000\n15,000\n\n7,500\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S112",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S112_Saiyan Domination.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S112_Saiyan Domination.png",
+  "prefix": "S",
+  "number": 112,
+  "card_number": "S112",
+  "name_part": "Saiyan Domination",
+  "file_name": "Saiyan Domination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b234f2ac5005b6c04801c0a1f1ce50d7d306b194"
+ },
+ "vision": {
+  "id": "S07_STR_S112",
+  "name": "Saiyan Domination",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. If the personality performing this attack has a higher power level than the defending personality, your opponent cannot play Events this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_102; text compared on the sheet",
+  "_src": "S07.jsonl:295"
+ },
+ "ocr": {
+  "agreement": 0.871,
+  "lower_conf": 82.6,
+  "header_text": "SAIYAN DOMINATION C) $112\nee i , . oe",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

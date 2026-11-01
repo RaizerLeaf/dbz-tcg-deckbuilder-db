@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P3_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P3_Stare Down (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P3_Stare Down (Restored).png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Stare Down",
+  "file_name": "Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ef90a5a94e4172cbd052a8a94b278d97704aac1b"
+ },
+ "vision": {
+  "id": "S07_PRO_P3_RST",
+  "name": "Stare Down",
+  "sub": null,
+  "type": "Event",
+  "num": "P3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer of a promo that was never officially released; grey frame",
+  "_src": "S07.jsonl:181"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.3,
+  "header_text": "STARE DOWN () P3\nwi / ~~“ \\ a",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

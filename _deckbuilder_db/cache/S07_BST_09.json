@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_09",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "09_Black Schematics.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/09_Black Schematics.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Black Schematics",
+  "file_name": "Black Schematics",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3fbd6159b6d6c9d957975ffba4f7836620f6c6e7"
+ },
+ "vision": {
+  "id": "S07_BST_09",
+  "name": "Black Schematics",
+  "sub": null,
+  "type": "Event",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Raise your anger 2 levels.\nSearch your opponent's Life Deck for a Drill and place it into play under your control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 84.2,
+  "header_text": "BLACK SCHEMATICS ) co\neee re",
+  "stages_text": "1",
+  "error": null
+ }
+}

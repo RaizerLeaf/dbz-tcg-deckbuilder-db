@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_30",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "30_Namekian Counter Blast.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/30_Namekian Counter Blast.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Namekian Counter Blast",
+  "file_name": "Namekian Counter Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e03f50916f454eff94200e2ccd90bf04af9c135a"
+ },
+ "vision": {
+  "id": "S05_BST_30",
+  "name": "Namekian Counter Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated during combat, lower your opponent's anger 2 levels.)\n[Attack] Energy attack costing 3 stages.\nIf your MP's level is lower than your opponent's MP's level, lower your opponent's anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "NAMEKIAN COUNTER BLAST C) C30",
+  "stages_text": "2\n,\n\n,\n\n,\n\n,\n,",
+  "error": null
+ }
+}

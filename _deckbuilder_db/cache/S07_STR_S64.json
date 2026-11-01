@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S64",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S64_Orange Refocus.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S64_Orange Refocus.png",
+  "prefix": "S",
+  "number": 64,
+  "card_number": "S64",
+  "name_part": "Orange Refocus",
+  "file_name": "Orange Refocus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "13699cf1481e8f9a37593edf7712d241316c0d85"
+ },
+ "vision": {
+  "id": "S07_STR_S64",
+  "name": "Orange Refocus",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. Raise your anger 1 level. You may search your discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_42; text compared on the sheet",
+  "_src": "S07.jsonl:247"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 69.8,
+  "header_text": "ORANGE REFOCUS ) S64\nate” ey / CA)",
+  "stages_text": ",\n2,\n\n2\n77",
+  "error": null
+ }
+}

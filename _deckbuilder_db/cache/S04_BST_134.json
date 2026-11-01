@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_134",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "134_Moment of Peace.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/134_Moment of Peace.png",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Moment of Peace",
+  "file_name": "Moment of Peace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "0b75c175008aa3c09ebde788ff6cde7f5924b2f7"
+ },
+ "vision": {
+  "id": "S04_BST_134",
+  "name": "Moment of Peace",
+  "sub": null,
+  "type": "Setup",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Allies, Drills and Setups cannot enter play during combat this turn. If you played Moment of Peace this turn, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame",
+  "_src": "S04.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.2,
+  "header_text": "@ .",
+  "stages_text": null,
+  "error": null
+ }
+}

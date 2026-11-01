@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P40",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P40_Villainous Energy Sphere.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P40_Villainous Energy Sphere.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Villainous Energy Sphere",
+  "file_name": "Villainous Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d920831004be0dd78d77bef12e450d50f4b14dfb"
+ },
+ "vision": {
+  "id": "S16_PRO_P40",
+  "name": "Villainous Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Your opponent destroys the top card of their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S16.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "VILLAINOUS ENERGY SPHERE 6 ) P40\n—<—\\ 7” i» \\) -*",
+  "stages_text": ",",
+  "error": null
+ }
+}

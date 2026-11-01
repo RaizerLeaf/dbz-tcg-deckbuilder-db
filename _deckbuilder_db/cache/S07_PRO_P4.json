@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P4",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P4_Red Bribe.jpg",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P4_Red Bribe.jpg",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Red Bribe",
+  "file_name": "Red Bribe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 280,
+  "height": 200,
+  "orientation": "landscape",
+  "sha1": "4ef8e62c02569a2abf5df382275f5074412e1bf0"
+ },
+ "vision": {
+  "id": "S07_PRO_P4",
+  "name": "Red Bribe",
+  "sub": null,
+  "type": "Setup",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Use the immediate effects of a Dragon Ball in play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; low-res scan; promo reprint of S05 C43",
+  "_src": "S07.jsonl:182"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 69.6,
+  "header_text": "“RD HW RTGE (* Ps\n— sy ‘a ee @ @ gees; 2 ee ee) i -",
+  "stages_text": null,
+  "error": null
+ }
+}

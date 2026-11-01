@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_58",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "58_Captain Ginyu’s Pain.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/58_Captain Ginyu’s Pain.jpg",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Captain Ginyu’s Pain",
+  "file_name": "Captain Ginyu’s Pain",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c2c726beeabce8d55711738e014b6201764a5969"
+ },
+ "vision": {
+  "id": "S02_BST_58",
+  "name": "Captain Ginyu's Pain",
+  "sub": null,
+  "type": "Setup",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Destroy the top X cards of your opponent's Life Deck. X = the number of Allies in your discard pile and Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "’ ——__— L_ —\n(CAPTAIN GINYU'S: PAIN (cs\naes ee F |",
+  "stages_text": "5 7",
+  "error": null
+ }
+}

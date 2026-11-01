@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S113",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S113_Saiyan Hand Swipe.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S113_Saiyan Hand Swipe.png",
+  "prefix": "S",
+  "number": 113,
+  "card_number": "S113",
+  "name_part": "Saiyan Hand Swipe",
+  "file_name": "Saiyan Hand Swipe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a3239f32ae46384290185e59e5dc7710a7533d50"
+ },
+ "vision": {
+  "id": "S07_STR_S113",
+  "name": "Saiyan Hand Swipe",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Defense] Stops an energy attack. The next attack you perform this combat deals +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_55; text compared on the sheet",
+  "_src": "S07.jsonl:296"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 82.3,
+  "header_text": "5 A | ¥ A N | A, N DO SWIP f 3\nfein ? e f i | ~ C) S1\n—____ —\n- —téi‘i‘OSC;«Cr",
+  "stages_text": "37\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_77",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "77_Android Defensive Blast.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/77_Android Defensive Blast.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Android Defensive Blast",
+  "file_name": "Android Defensive Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7c279f10b5a3769932205323c78f53a411b62c55"
+ },
+ "vision": {
+  "id": "S05_BST_77",
+  "name": "Android Defensive Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 5 life cards.\nHIT: Non-Styled attack cards lose all immediate effects this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 66.9,
+  "header_text": "ANDROID DEFENSIVE BLAST =) U77_\nvow WS wl a - =",
+  "stages_text": ",\n, ,\n\n,\n,\n0\n,",
+  "error": null
+ }
+}

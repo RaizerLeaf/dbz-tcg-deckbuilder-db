@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_83",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "83_Black Confinement.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/83_Black Confinement.png",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Black Confinement",
+  "file_name": "Black Confinement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3efb163b44d50a163e66c3427b997d7924d64cfd"
+ },
+ "vision": {
+  "id": "S07_BST_83",
+  "name": "Black Confinement",
+  "sub": null,
+  "type": "Setup",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: If you have discarded a card from your hand this combat, destroy the top card of your opponent's Life Deck. If you have gained stages this combat, destroy the top card of your opponent's Life Deck. If you have raised your anger this combat, destroy the top card of your opponent's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "BLACK CONFINEMENT & U83 |",
+  "stages_text": null,
+  "error": null
+ }
+}

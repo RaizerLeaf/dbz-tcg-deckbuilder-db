@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_07",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "07_Blue Arrival Drill.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/07_Blue Arrival Drill.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Arrival Drill",
+  "file_name": "Blue Arrival Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9b6c0f9dc301190b62c7deab900ecf3617179479"
+ },
+ "vision": {
+  "id": "S08_BST_07",
+  "name": "Blue Arrival Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever an Ally enters play under your control during combat, destroy the top card of your opponent's Life Deck.\n[Instant] POWER: Use at the end of combat. Choose an Ally in your discard pile and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S08.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "BLUE ARRIVAL DRILL @) 87]\n“yy DR 6 r",
+  "stages_text": null,
+  "error": null
+ }
+}

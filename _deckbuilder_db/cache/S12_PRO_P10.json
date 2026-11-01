@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P10",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P10_Dabura - Second in Command.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P10_Dabura - Second in Command.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Dabura - Second in Command",
+  "file_name": "Dabura",
+  "file_subtitle": "Second in Command",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "78a077894e29aa9347f06a6c235474ac1515e675"
+ },
+ "vision": {
+  "id": "S12_PRO_P10",
+  "name": "Dabura",
+  "sub": "Second in Command",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   666000,
+   300000,
+   100000,
+   95000,
+   55000,
+   36000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage and +1 life card of damage.\nPOWER: [Attack] Physical attack. Raise your anger 1 level.\nDAMAGE: 5 stages.\nHIT: Search your discard pile for a Styled or Named card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink); text zoomed",
+  "_src": "S12.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.8,
+  "header_text": "ee a 5\nDABURA\n- SECOND IN COMMAND y -10\nwee ON Ore! UCU TRAN NNN",
+  "stages_text": "1,500,000\n1,000,000\n666,000\n300,000\n100,000\n95,000\n55,000\n36,000\n10,000\n1,000\n0\n06",
+  "error": null
+ }
+}

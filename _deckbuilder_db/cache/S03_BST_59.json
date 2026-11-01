@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_59",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "59_Saiyan Swat.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/59_Saiyan Swat.jpg",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Saiyan Swat",
+  "file_name": "Saiyan Swat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "43541e3b679f48836e3668c2326a4779cce1ab05"
+ },
+ "vision": {
+  "id": "S03_BST_59",
+  "name": "Saiyan Swat",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. Search your discard pile for a card with Endurance and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 82.4,
+  "header_text": "(SAIYAN SWAT €) css\na",
+  "stages_text": "37",
+  "error": null
+ }
+}

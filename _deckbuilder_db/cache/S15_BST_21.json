@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_21",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "21_Red Hustle.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/21_Red Hustle.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Hustle",
+  "file_name": "Red Hustle",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "28cede98a259372590a478d45ad410a4b832b749"
+ },
+ "vision": {
+  "id": "S15_BST_21",
+  "name": "Red Hustle",
+  "sub": null,
+  "type": "Setup",
+  "num": "U21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Villains only.)\nPOWER: Look at the top 3 cards of your Life Deck and place them back in any order. Banish the top 2 cards of your Life Deck. Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S15.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 81.2,
+  "header_text": "RED HUSTLE €) U21",
+  "stages_text": null,
+  "error": null
+ }
+}

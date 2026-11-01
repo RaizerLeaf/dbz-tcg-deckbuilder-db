@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_50",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "50_Top's Justice Crusher.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/50_Top's Justice Crusher.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Top's Justice Crusher",
+  "file_name": "Top's Justice Crusher",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a0caa3f53a6cd831e1e9cd311d1239cf081fa8fc"
+ },
+ "vision": {
+  "id": "S19_BST_50",
+  "name": "Top's Justice Crusher",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nSearch the bottom 10 cards of your Life Deck for a card that can attach to a personality and place it into play attached. Shuffle the remaining cards into your Life Deck. Raise your anger 1.\nDAMAGE: 6 stages.\nHIT: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named",
+  "_src": "S19.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 88.1,
+  "header_text": "TOP'S JUSTICE CRUSHER () R50\n7 re",
+  "stages_text": "4\n4",
+  "error": null
+ }
+}

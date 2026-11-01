@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P21",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P21_Orange Conference Drill.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P21_Orange Conference Drill.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Orange Conference Drill",
+  "file_name": "Orange Conference Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2de13f06e8380a4a5f579811e3fca34c526394f3"
+ },
+ "vision": {
+  "id": "S17_PRO_P21",
+  "name": "Orange Conference Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\n[Continuous]: Whenever you prevent damage from a non-Endurance source, increase the amount prevented by +2 life cards and +2 stages. When you are changing levels, you may banish this Drill. If you do, your other Drills are not discarded.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S17.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 87.9,
+  "header_text": "SRANGE CONFERENCE DRILL © P21]",
+  "stages_text": null,
+  "error": null
+ }
+}

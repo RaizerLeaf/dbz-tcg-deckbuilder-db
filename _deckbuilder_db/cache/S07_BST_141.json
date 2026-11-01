@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_141",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "141_Allied Blitz.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/141_Allied Blitz.png",
+  "prefix": null,
+  "number": 141,
+  "card_number": "141",
+  "name_part": "Allied Blitz",
+  "file_name": "Allied Blitz",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "69ed71b90f768346987be0b4df7dd862aed9c5aa"
+ },
+ "vision": {
+  "id": "S07_BST_141",
+  "name": "Allied Blitz",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Energy attack costing 1 stage.\nWhenever you perform an energy attack this combat, your opponent skips his or her next action this combat.\nDAMAGE: 3 life cards.\nHIT: If your MP is not a Saiyan, then for the remainder of combat your Allies may make actions regardless of your MP's power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:141"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 88.1,
+  "header_text": "ALLIED BLITZ Curia\nee el me",
+  "stages_text": "2 4\n,\n,",
+  "error": null
+ }
+}

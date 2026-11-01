@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_93",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "93_Orange Leaping Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/93_Orange Leaping Punch.png",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Orange Leaping Punch",
+  "file_name": "Orange Leaping Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fe175431da902f30f3ea090d52c6661c3540f3ab"
+ },
+ "vision": {
+  "id": "S07_BST_93",
+  "name": "Orange Leaping Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nThe next time this combat one of your Drills is destroyed or banished, draw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 72.0,
+  "header_text": "ORANGE LEAPING PUNCH ) u93-\n—_—_—_ = — 1 Wy: ae",
+  "stages_text": "7\n\n,\n3\n4,",
+  "error": null
+ }
+}

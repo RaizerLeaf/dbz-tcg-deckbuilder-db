@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_62",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "62_Krillin - Protective.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/62_Krillin - Protective.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Krillin - Protective",
+  "file_name": "Krillin",
+  "file_subtitle": "Protective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "31cbc02eedc2071ba72f3d9db9ee3efb8c72516a"
+ },
+ "vision": {
+  "id": "S10_BST_62",
+  "name": "Krillin",
+  "sub": "Protective",
+  "type": "Ally",
+  "num": "U62",
+  "lvl": 1,
+  "stages": [
+   100000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Android 18, once per combat you may place this card into play from your hand at 2 power stages above 0 to stop a physical or energy attack. If Krillin would leave play and your MP is Android 18 or Master Roshi, you may Rejuvenate him instead.)\n[Continuous]: Your Styled energy attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge E",
+  "_src": "S10.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "1 KRILLIN () Ug2\nLEVEL PROTECTIVE",
+  "stages_text": "100,000\n60,000\n40,000\n20,000\n10,000\n\n5,000\n\n2,000\n7 1,000\n500\n\n250\n0",
+  "error": null
+ }
+}

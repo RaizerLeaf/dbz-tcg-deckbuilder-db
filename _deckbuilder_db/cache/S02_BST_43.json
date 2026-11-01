@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_43",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "43_Orange Double Palm Beam.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/43_Orange Double Palm Beam.jpg",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Orange Double Palm Beam",
+  "file_name": "Orange Double Palm Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ed7cb390a97984cb80841721ba7a5c21a8a59e29"
+ },
+ "vision": {
+  "id": "S02_BST_43",
+  "name": "Orange Double Palm Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand, lower your opponent's anger 1 level.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. You may destroy one of your Drills. If you do, lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "‘ ORANGE DOUBLE PALM BEAM €) Sects\na eee",
+  "stages_text": "2\n7\n8",
+  "error": null
+ }
+}

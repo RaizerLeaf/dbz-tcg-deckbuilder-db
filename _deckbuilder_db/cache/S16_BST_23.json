@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_23",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "23_Orange Charged Blitz.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/23_Orange Charged Blitz.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Orange Charged Blitz",
+  "file_name": "Orange Charged Blitz",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4d4da3b01ce161dcc37737ac1e500e2d4b013522"
+ },
+ "vision": {
+  "id": "S16_BST_23",
+  "name": "Orange Charged Blitz",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\n[Trait:Earthling]: Focused.\n[Warning]: Search your discard pile for 3 Styled cards and shuffle them into your Life Deck.\nDAMAGE: 5 life cards.\nHIT: Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; inline icon zoomed: blue Capsule Corp E badge (Earthling); black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.868,
+  "lower_conf": 73.4,
+  "header_text": "ORANGE CHARGED BLITZ C) C23",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

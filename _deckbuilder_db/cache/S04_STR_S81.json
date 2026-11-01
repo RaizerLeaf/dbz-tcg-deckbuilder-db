@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S81",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S81_Namek Dragon Ball 6.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S81_Namek Dragon Ball 6.png",
+  "prefix": "S",
+  "number": 81,
+  "card_number": "S81",
+  "name_part": "Namek Dragon Ball 6",
+  "file_name": "Namek Dragon Ball 6",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "77248f5d7efc44573fcd6977f92660d7745d1c8a"
+ },
+ "vision": {
+  "id": "S04_STR_S81",
+  "name": "Namek Dragon Ball 6",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "S81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous] Your MP's PUR is +3. Your opponent's attacks deal -2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U63; no colon after the icon",
+  "_src": "S04.jsonl:234"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.4,
+  "header_text": "ea,\nNAMEK DRAGON BALL 6 €) $81",
+  "stages_text": ", 4\n,",
+  "error": null
+ }
+}

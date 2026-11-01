@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_118",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "118_Red Rage.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/118_Red Rage.png",
+  "prefix": null,
+  "number": 118,
+  "card_number": "118",
+  "name_part": "Red Rage",
+  "file_name": "Red Rage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "438b100c1f4cfda13a6515ca466ab00380afe2a1"
+ },
+ "vision": {
+  "id": "S04_BST_118",
+  "name": "Red Rage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nIf the top card of your discard pile is a Styled attack, you may banish a Styled card from your hand to draw the top card of your discard pile.\nDAMAGE: 3 stages.\nHIT: Raise your anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "same text as S04 R110 Namekian Overcharge",
+  "_src": "S04.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.3,
+  "header_text": "RED RAGE ) R118\n\"4 blue 4aS[S=_",
+  "stages_text": "22\n,",
+  "error": null
+ }
+}

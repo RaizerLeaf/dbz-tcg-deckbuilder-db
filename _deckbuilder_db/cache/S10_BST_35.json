@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_35",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "35_Saiyan Reflexive Guard.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/35_Saiyan Reflexive Guard.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Saiyan Reflexive Guard",
+  "file_name": "Saiyan Reflexive Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "40104f9bd9d553c180ea54a0dcda09b66da2ed7f"
+ },
+ "vision": {
+  "id": "S10_BST_35",
+  "name": "Saiyan Reflexive Guard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf your opponent has skipped an action this combat, Rejuvenate 3.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "SAIYAN REFLEXIVE GUARD @) c35\nme ae SS, 6S S",
+  "stages_text": ",\n4\n,\n,\n7\n4 2\n7\n7",
+  "error": null
+ }
+}

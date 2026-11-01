@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_48",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "48_Broly - Returned.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/48_Broly - Returned.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Broly - Returned",
+  "file_name": "Broly",
+  "file_subtitle": "Returned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5e75ae36adde5b2d6a9688429b80558d6e0a94fb"
+ },
+ "vision": {
+  "id": "S12_BST_48",
+  "name": "Broly",
+  "sub": "Returned",
+  "type": "Main Personality",
+  "num": "S48",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   600000,
+   200000,
+   80000,
+   20000,
+   10000,
+   5000,
+   2500,
+   1350,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use after you Rejuvenate a Styled card during combat. Raise your anger 2 levels.\nPOWER: [Attack] Energy attack costing 2 stages.\nYou may reveal 2 attack cards from your hand to Rejuvenate 1.\nDAMAGE: 3 life cards.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "S12.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "a |\n| | BROLY",
+  "stages_text": "1,000,000\n600,000\n200,000\n\n80,000\n20,000\n10,000\n5,000\n\n2,500\n\n1,350\n\n500\n0",
+  "error": null
+ }
+}

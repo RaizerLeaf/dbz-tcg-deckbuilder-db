@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P47",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P47_Frieza's Supernova.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P47_Frieza's Supernova.png",
+  "prefix": "P",
+  "number": 47,
+  "card_number": "P47",
+  "name_part": "Frieza's Supernova",
+  "file_name": "Frieza's Supernova",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "92fcc126592162b68d1e308a6437e56f3222b5f8"
+ },
+ "vision": {
+  "id": "S16_PRO_P47",
+  "name": "Frieza's Supernova",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 3: Energy attack.\nDAMAGE: 5 + X life cards. X = 3 times the number of Frieza Named cards in your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '3:'; no Endurance badge",
+  "_src": "S16.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.3,
+  "header_text": "FRIEZA'S SUPERNOVA () P47\nyy",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_76",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "76_Cell - Larval.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/76_Cell - Larval.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Cell - Larval",
+  "file_name": "Cell",
+  "file_subtitle": "Larval",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c3d05204b28821f04994498931ee913ecb7ee568"
+ },
+ "vision": {
+  "id": "S05_BST_76",
+  "name": "Cell",
+  "sub": "Larval",
+  "type": "Ally",
+  "num": "U76",
+  "lvl": 1,
+  "stages": [
+   100,
+   90,
+   80,
+   70,
+   60,
+   50,
+   40,
+   30,
+   20,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Styled attacks deal +1 life card of damage and non-Styled attacks cost +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S05.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.5,
+  "header_text": "LL CELL\nLEVEL LARVAL () U76\n. 4 ee",
+  "stages_text": "100\n\n90\n80\n70\n60\n7 50\n40\n30\n20\n\n10\n\n0",
+  "error": null
+ }
+}

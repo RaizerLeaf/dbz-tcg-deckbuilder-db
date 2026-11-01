@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_45",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "45_Red Face Break.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/45_Red Face Break.jpg",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Face Break",
+  "file_name": "Red Face Break",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6aee392e6f2c0c6c4c233129d483443ec9563d6c"
+ },
+ "vision": {
+  "id": "S03_BST_45",
+  "name": "Red Face Break",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +4 stages. Raise your anger 1 level. You may discard a card from your hand. If you do, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "(RED FACE BREAK 2 () cas\n. a",
+  "stages_text": "98,\n,",
+  "error": null
+ }
+}

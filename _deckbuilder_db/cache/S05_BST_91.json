@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_91",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "91_Orange Charge (Frozen).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/91_Orange Charge (Frozen).png",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Orange Charge",
+  "file_name": "Orange Charge",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3577c2a62018c7c00fbae30918d2414acfefdef4"
+ },
+ "vision": {
+  "id": "S05_BST_91",
+  "name": "Orange Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 1 stage.\nHIT: Reveal cards from the top of your Life Deck until you reveal a Styled attack. Place that attack into your hand and all other revealed cards at the bottom of your Life Deck in any order. Your next attack this combat deals +X stages of damage. X = the number of cards revealed this way, to a maximum of 10.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "ORANGE CHARGE ) U91 |\n|. Jj”. ~“aa",
+  "stages_text": ", ,",
+  "error": null
+ }
+}

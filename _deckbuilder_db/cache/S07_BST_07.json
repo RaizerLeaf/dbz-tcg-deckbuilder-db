@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_07",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "07_Black Halt.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/07_Black Halt.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Black Halt",
+  "file_name": "Black Halt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "86165c5c47dca0f60618621c5ddeb9488953bf71"
+ },
+ "vision": {
+  "id": "S07_BST_07",
+  "name": "Black Halt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nYou may place an Ally in play on top of its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 69.6,
+  "header_text": "BLACK HALT () C7\nfr 7 - , ~ /J//",
+  "stages_text": "",
+  "error": null
+ }
+}

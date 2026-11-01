@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P1",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P1_Gohan - A New Hope.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P1_Gohan - A New Hope.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Gohan - A New Hope",
+  "file_name": "Gohan",
+  "file_subtitle": "A New Hope",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9b96f69498a2546d2194e37f7eb6e144b3438275"
+ },
+ "vision": {
+  "id": "S08_PRO_P1",
+  "name": "Gohan",
+  "sub": "A New Hope",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   300000,
+   200000,
+   100000,
+   80000,
+   70000,
+   50000,
+   30000,
+   20000,
+   15000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 life card of damage.\nPOWER: [Attack] Physical attack.\nChoose a personality in play. It loses all effects this turn. You may set both players' anger level to 2.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S41; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "——.- ‘ A ——\nGOHAN\n\\ ea A NEW HOPE oa m1\n| oor’. N\n. anaes Cte ii nN ANN",
+  "stages_text": "300,000\n200,000\n100,000\n80,000\n70,000\n\n1 50,000\n30,000\n20,000\n15,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S89",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S89_Namekian Regenartion.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S89_Namekian Regenartion.png",
+  "prefix": "S",
+  "number": 89,
+  "card_number": "S89",
+  "name_part": "Namekian Regenartion",
+  "file_name": "Namekian Regenartion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "23bda7b936bca0be55e4c30320b1d04a9710d2e4"
+ },
+ "vision": {
+  "id": "S07_STR_S89",
+  "name": "Namekian Regeneration",
+  "sub": null,
+  "type": "Event",
+  "num": "S89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Rejuvenate the top or bottom 4 cards of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S106; text compared on the sheet; filename typo 'Regenartion'",
+  "_src": "S07.jsonl:272"
+ },
+ "ocr": {
+  "agreement": 0.8,
+  "lower_conf": 64.7,
+  "header_text": "NAMEKIAN REGENERATION. ) $89\na he ™|eSp «|",
+  "stages_text": ",\n1,",
+  "error": null
+ }
+}

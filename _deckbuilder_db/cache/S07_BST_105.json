@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_105",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "105_Black Vehicle Toss.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/105_Black Vehicle Toss.png",
+  "prefix": null,
+  "number": 105,
+  "card_number": "105",
+  "name_part": "Black Vehicle Toss",
+  "file_name": "Black Vehicle Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c88f56a7fc72baf335c3b2583168cbe8b60094bd"
+ },
+ "vision": {
+  "id": "S07_BST_105",
+  "name": "Black Vehicle Toss",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAttach to your MP. While attached, your attacks deal +1 stage and +1 life card of damage. Banish this card when more than 1 card is attached to your MP.\nDAMAGE: 3 life cards +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "BLACK VEHICLE TOSS ) R105",
+  "stages_text": "2\n37\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P13",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P13_Red City Destruction.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P13_Red City Destruction.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Red City Destruction",
+  "file_name": "Red City Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9c72ff1334d76146be3485968bb655993694b870"
+ },
+ "vision": {
+  "id": "S05_PRO_P13",
+  "name": "Red City Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Use a critical damage effect. Your anger cannot be lowered by critical damage effects this turn. Until the start of your next turn, your effects that require you to lower your anger are reduced by 1 (to a minimum of 0).",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S02 U89",
+  "_src": "S05.jsonl:162"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "RED CITY DESTRUCTION C) P13",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

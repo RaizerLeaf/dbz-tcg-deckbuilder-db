@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_77",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "77_Red Chest Beam.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/77_Red Chest Beam.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Red Chest Beam",
+  "file_name": "Red Chest Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "81d713be8ea13528d61edab8290df782f5087777"
+ },
+ "vision": {
+  "id": "S04_BST_77",
+  "name": "Red Chest Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this attack is played from your discard pile, raise your anger 2 levels.)\n[Attack] Energy attack costing 3 stages.\nBanish an Ally. Allies cannot be played nor placed into play this combat.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "RED CHEST BEAM (\nNSP NG i ar ii",
+  "stages_text": "1\n,\n0\n2,\n,",
+  "error": null
+ }
+}

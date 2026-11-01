@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P26",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P26_Namekian Growth.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P26_Namekian Growth.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Namekian Growth",
+  "file_name": "Namekian Growth",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "8f79dad39e58de221c187337dd29a4d2dbfff2fe"
+ },
+ "vision": {
+  "id": "S13_PRO_P26",
+  "name": "Namekian Growth",
+  "sub": null,
+  "type": "Setup",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: You may play a Dragon Ball from your hand or Rejuvenate 4. If your MP is level 3 or higher, you may instead search your Life Deck for a Styled card and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S13.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "NAMEKIAN GROWTH () P26",
+  "stages_text": null,
+  "error": null
+ }
+}

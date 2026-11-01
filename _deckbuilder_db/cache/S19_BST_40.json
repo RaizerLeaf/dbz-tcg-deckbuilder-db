@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_40",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "40_Otherworldly Grasp.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/40_Otherworldly Grasp.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Otherworldly Grasp",
+  "file_name": "Otherworldly Grasp",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "026821f47ba449d53c66c808921e864af702113c"
+ },
+ "vision": {
+  "id": "S19_BST_40",
+  "name": "Otherworldly Grasp",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Alien] only. This card is considered Styled. You may only have one \"Otherworldly Grasp\" attached.)\n[Attack] Physical attack.\nRaise your anger 1. Lower your opponent's anger 3. Attach to your MP. While attached, your attacks deal +1 stage.\nDAMAGE: AT + 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; deck restriction icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S19.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 87.2,
+  "header_text": "OTHERWORLDLY GRASP (ura\n, aa",
+  "stages_text": "37",
+  "error": null
+ }
+}

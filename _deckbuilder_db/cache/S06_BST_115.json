@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_115",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "115_Orange Intimidating Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/115_Orange Intimidating Drill.jpg",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Orange Intimidating Drill",
+  "file_name": "Orange Intimidating Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "cbc3e30b4ba15fb60416001cedb414451b7eaee8"
+ },
+ "vision": {
+  "id": "S06_BST_115",
+  "name": "Orange Intimidating Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: The first time you Rejuvenate a Drill each combat, shuffle your Life Deck and draw a card. Your attacks deal +1 stage of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 80.8,
+  "header_text": "ORANGE INTIMIDATING DRILL () R115",
+  "stages_text": null,
+  "error": null
+ }
+}

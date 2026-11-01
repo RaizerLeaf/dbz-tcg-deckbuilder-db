@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_54",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "54_Tapion - Legendary Hero.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/54_Tapion - Legendary Hero.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Tapion - Legendary Hero",
+  "file_name": "Tapion",
+  "file_subtitle": "Legendary Hero",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "30e4e156215670377ff7c19c2184192d5f97dab8"
+ },
+ "vision": {
+  "id": "S15_BST_54",
+  "name": "Tapion",
+  "sub": "Legendary Hero",
+  "type": "Main Personality",
+  "num": "S54",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1725000,
+   1500000,
+   1250000,
+   1000000,
+   750000,
+   500000,
+   350000,
+   100000,
+   75000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Once per game when you reach this level, search your discard pile and/or Banished Zone for up to 5 cards with \"Sword\" in the title and Rejuvenate them.)\n[Continuous]: Your attacks are Focused and deal +2 stages.\nPOWER: Search your Life Deck or discard pile for a card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S15.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "TAPION",
+  "stages_text": "1,850,000\n1,725,000\n1,500,000\n1,250,000\n1,000,000\n750,000\n500,000\n350,000\n100,000\n75,000\n\n0",
+  "error": null
+ }
+}

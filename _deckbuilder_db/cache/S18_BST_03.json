@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_03",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "03_Black Spiteful Strike.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/03_Black Spiteful Strike.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Spiteful Strike",
+  "file_name": "Black Spiteful Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "77bf9d7f50e9b7ac04c1f860557ffdc44d6427b5"
+ },
+ "vision": {
+  "id": "S18_BST_03",
+  "name": "Black Spiteful Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Black Perceptive Mastery only.)\n[Attack] Physical attack.\nUnstoppable. Unmodifiable. This attack is considered to deal critical damage.\nDAMAGE: 1 life card.\nHIT: Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; no Endurance badge",
+  "_src": "S18.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.6,
+  "header_text": "BLACK SPITEFUL STRIKE Wr\n[BLACK SPITEFUL STRIKE @) R3 |\neee —",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

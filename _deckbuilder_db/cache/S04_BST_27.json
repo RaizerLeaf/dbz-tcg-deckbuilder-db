@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_27",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "27_Orange Audience.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/27_Orange Audience.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Orange Audience",
+  "file_name": "Orange Audience",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "967afc83452f7e0850522e66c1c435b8ad04a916"
+ },
+ "vision": {
+  "id": "S04_BST_27",
+  "name": "Orange Audience",
+  "sub": null,
+  "type": "Setup",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Return a Drill you control to its owner's hand. At the end of combat, you may place a Drill from your hand into play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; this [Instant] power states no 'Use when...' trigger, as printed",
+  "_src": "S04.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": "ia i _\n| i —\nee CL \\ctH",
+  "stages_text": null,
+  "error": null
+ }
+}

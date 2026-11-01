@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_37",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "37_Saiyan Chest Blast.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/37_Saiyan Chest Blast.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Saiyan Chest Blast",
+  "file_name": "Saiyan Chest Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5a1878da0d7104e931027531958131277fb8452d"
+ },
+ "vision": {
+  "id": "S10_BST_37",
+  "name": "Saiyan Chest Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nThis attack can only be stopped by an Energy Combat card. Your opponent skips their next action this combat.\nDAMAGE: 5 life cards.\nHIT: If your opponent has not performed an action this combat, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.5,
+  "header_text": "SAIYAN CHEST BLAST\n[",
+  "stages_text": "",
+  "error": null
+ }
+}

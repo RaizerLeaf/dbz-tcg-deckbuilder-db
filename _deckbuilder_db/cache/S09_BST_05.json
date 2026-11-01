@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_05",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "05_Black Trick Shot.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/05_Black Trick Shot.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Trick Shot",
+  "file_name": "Black Trick Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dd52e58ba86f806e4d6fa701d6b34fab9a5f7593"
+ },
+ "vision": {
+  "id": "S09_BST_05",
+  "name": "Black Trick Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level. Until the start of your next turn, after a player gains anger, lower that player's anger 1 level. Damage from this attack cannot be prevented or modified.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 90.2,
+  "header_text": "BLACK TRICK SHOT () R5\nwg = aan",
+  "stages_text": "4\n2\n1,\n1,",
+  "error": null
+ }
+}

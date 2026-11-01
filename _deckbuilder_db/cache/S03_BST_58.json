@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_58",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "58_Saiyan Overpowering Blast.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/58_Saiyan Overpowering Blast.jpg",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Saiyan Overpowering Blast",
+  "file_name": "Saiyan Overpowering Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a8b265cdc965b3caff7b3848b335649d6a10a0c5"
+ },
+ "vision": {
+  "id": "S03_BST_58",
+  "name": "Saiyan Overpowering Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: You may lower your MP 1 level. If you do, your opponent destroys the top 3 cards of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "(SAIYAN OVERPOWERING ‘BLAST () cse\n| ye",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_20",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "20_Blue Sweep.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/20_Blue Sweep.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Blue Sweep",
+  "file_name": "Blue Sweep",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9d60ed245f8720e05fda824a449d4394b08c9954"
+ },
+ "vision": {
+  "id": "S07_BST_20",
+  "name": "Blue Sweep",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, your MP gains 4 stages.)\n[Defense] POWER: Stops an energy attack.\nThe next time one of your effects prevents damage this combat, gain 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "'[Defense] POWER:' as printed on a combat card",
+  "_src": "S07.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "BLUE SWEEP ) c20°",
+  "stages_text": "",
+  "error": null
+ }
+}

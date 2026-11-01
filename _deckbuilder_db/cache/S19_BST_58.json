@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_58",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "58_Zamasu - Partner In Crime.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/58_Zamasu - Partner In Crime.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Zamasu - Partner In Crime",
+  "file_name": "Zamasu",
+  "file_subtitle": "Partner In Crime",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f0069cb3f928ada997e2c29cffcc5e6d1256226a"
+ },
+ "vision": {
+  "id": "S19_BST_58",
+  "name": "Zamasu",
+  "sub": "Partner in Crime",
+  "type": "Ally",
+  "num": "U58",
+  "lvl": 1,
+  "stages": [
+   160000,
+   135000,
+   110000,
+   85000,
+   60000,
+   35000,
+   10000,
+   7000,
+   4000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(Goku Black only. Once per combat you may place this card into play from your hand at 2 stages above 0 to make a successful attack deal no damage.)\n[Continuous]: After taking damage from an attack, Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge G (gold)",
+  "_src": "S19.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 84.9,
+  "header_text": "1 amas\nLEVEL | PARTNER IN CRIME E) U58",
+  "stages_text": "160,000\n135,000\n110,000\n85,000\n60,000\n735,000\n10,000\n7,000\n4,000\n1,000\n\n0",
+  "error": null
+ }
+}

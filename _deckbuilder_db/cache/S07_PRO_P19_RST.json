@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P19_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P19_Time is a Warrior's Tool (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P19_Time is a Warrior's Tool (Restored).png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Time is a Warrior's Tool",
+  "file_name": "Time is a Warrior's Tool",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6e931cc0b09a1ef76a8787471febc9052af82ab4"
+ },
+ "vision": {
+  "id": "S07_PRO_P19_RST",
+  "name": "Time Is A Warrior's Tool",
+  "sub": null,
+  "type": "Event",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Defense] POWER: Stops a physical or energy attack.\nStops all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer, modern wording; of a promo that was never officially released",
+  "_src": "S07.jsonl:212"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "TIME IS A WARRIOR'S TOOL =) P19\nOO",
+  "stages_text": ",\n5",
+  "error": null
+ }
+}

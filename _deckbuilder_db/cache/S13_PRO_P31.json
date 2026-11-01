@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P31",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P31_Orange Energ Phasing Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P31_Orange Energ Phasing Drill.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Orange Energ Phasing Drill",
+  "file_name": "Orange Energ Phasing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "024d0ecfce811aed602f7f4b1498c500c21a52e5"
+ },
+ "vision": {
+  "id": "S13_PRO_P31",
+  "name": "Orange Energy Phasing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform a successful energy attack, you may have it deal -2 life cards of damage. If you do, destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "filename reads 'Orange Energ Phasing Drill' (typo); the card prints 'Energy'; no Endurance badge",
+  "_src": "S13.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "RANGE ENERGY PHASING DRILL P31 |",
+  "stages_text": null,
+  "error": null
+ }
+}

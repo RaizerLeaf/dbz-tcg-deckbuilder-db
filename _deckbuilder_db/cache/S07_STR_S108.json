@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S108",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S108_Saiyan Face Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S108_Saiyan Face Strike.png",
+  "prefix": "S",
+  "number": 108,
+  "card_number": "S108",
+  "name_part": "Saiyan Face Strike",
+  "file_name": "Saiyan Face Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "352bb6e15020c7214d4c088687e09b1031623c6e"
+ },
+ "vision": {
+  "id": "S07_STR_S108",
+  "name": "Saiyan Face Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2 levels. If this attack is stopped, draw a card.\nDAMAGE: AT stages.\nHIT: Lower your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_55; text compared on the sheet",
+  "_src": "S07.jsonl:291"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "SAIYAN FACE STRIKE @® si0s\n» Ve .,§ »« |;",
+  "stages_text": ",",
+  "error": null
+ }
+}

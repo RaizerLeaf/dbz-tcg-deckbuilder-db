@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_61",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "61_Bergamo - Of Universe 9.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/61_Bergamo - Of Universe 9.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Bergamo - Of Universe 9",
+  "file_name": "Bergamo",
+  "file_subtitle": "Of Universe 9",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2460e24dbebe13b2e7454456c2dfad59dd17097f"
+ },
+ "vision": {
+  "id": "S19_BST_61",
+  "name": "Bergamo",
+  "sub": "Of Universe 9",
+  "type": "Main Personality",
+  "num": "S61",
+  "lvl": 1,
+  "stages": [
+   420000,
+   375000,
+   260000,
+   135000,
+   82000,
+   49000,
+   13000,
+   8000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: After taking damage, raise your anger 1.\n[Instant] POWER: Use when entering combat. Search the top 7 cards of your Life Deck for a Named card and place it into your hand. If that card was a Setup, Drill, or Ally, you may place it into play. Shuffle the remaining cards into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "1 BERGAMO\nLEVEL OF UNIVERSE 9 () 961\neR |",
+  "stages_text": "420,000\n375,000\n260,000\n135,000\n82,000\n49,000\n13,000\n8,000\n\n4,000\n\n2,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_72",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "72_Namekian Downward Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/72_Namekian Downward Blast.png",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Namekian Downward Blast",
+  "file_name": "Namekian Downward Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "aad973ae173bbe7c0e4ff9bff8f233fc1b93cfbd"
+ },
+ "vision": {
+  "id": "S04_BST_72",
+  "name": "Namekian Downward Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U72",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nYour MP gains 2 stages. Lower your opponent's anger 2 levels.\nDAMAGE: 2 life cards.\nHIT: You may place this card on the top or bottom of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 84.2,
+  "header_text": "NAMEKIAN DOWNWARD BLAST@\nttl a ll ta",
+  "stages_text": ",\n, ,\n4\n6\n,\n,2",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P13",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P13_Nail - Warrior.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P13_Nail - Warrior.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Nail - Warrior",
+  "file_name": "Nail",
+  "file_subtitle": "Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b10dbb43c41c1c29542208217146bf0a4a6ffcd8"
+ },
+ "vision": {
+  "id": "S10_PRO_P13",
+  "name": "Nail",
+  "sub": "Warrior",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 1,
+  "stages": [
+   30000,
+   20000,
+   15000,
+   12000,
+   9000,
+   7000,
+   5000,
+   3000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Whenever your opponent stops one of your attacks, destroy the top card of their Life Deck.\n[Instant] POWER: Use when you perform a Styled attack. Your MP pays 1 stage to make that attack gain \"If stopped, use this attack's HIT effects\" and \"Banish after use\".",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badge N; a Nail Level 1 'Warrior' not in the PanZ Nail set",
+  "_src": "S10.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "NAIL\na: 0 =|)\nLEVEL Pee",
+  "stages_text": "30,000\n,\n20,000\n15,000\n12,000\n9,000\n0\n\n7,000\n5,000\n3,000\n2,000\n1,000\n0\n\n,",
+  "error": null
+ }
+}

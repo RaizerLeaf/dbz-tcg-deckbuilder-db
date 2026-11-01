@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_114",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "114_Heroic Jab.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/114_Heroic Jab.png",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Heroic Jab",
+  "file_name": "Heroic Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ad214aa540a832f94218d7a5f0422e258db5250d"
+ },
+ "vision": {
+  "id": "S05_BST_114",
+  "name": "Heroic Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 2 per deck.)\n(You may play this card to stop an attack from a personality's POWER instead of as an attack.)\nPhysical attack.\nDAMAGE: AT +3 stages.\nHIT: Shuffle a non-Personality/non-Mastery card in play into its owners Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; NO attack icon before 'Physical attack.'; 'owners' as printed",
+  "_src": "S05.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "HEROIC JAB e ) R114 |\n<<<  '",
+  "stages_text": "0\n24\n,\n1,",
+  "error": null
+ }
+}

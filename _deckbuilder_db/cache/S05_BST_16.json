@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_16",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "16_Blue Guarding Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/16_Blue Guarding Drill.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Blue Guarding Drill",
+  "file_name": "Blue Guarding Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "0045316cf8e1454c8812e1886530dce98936a93e"
+ },
+ "vision": {
+  "id": "S05_BST_16",
+  "name": "Blue Guarding Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(As an action, you may banish this card from your hand to perform a non-Styled physical attack dealing AT stages of damage.)\n[Continuous]: Whenever you perform an attack that was not played from your hand, your opponent's MP loses 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "BLUE GUARDING DRILL @ cs ) C16",
+  "stages_text": null,
+  "error": null
+ }
+}

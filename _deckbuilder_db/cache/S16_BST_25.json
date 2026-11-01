@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_25",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "25_Red Relentless Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/25_Red Relentless Mastery.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Relentless Mastery",
+  "file_name": "Red Relentless Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5500a4f83a477eb7f61b7827eed2bdcac6e3097d"
+ },
+ "vision": {
+  "id": "S16_BST_25",
+  "name": "Red Relentless Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage.\n[Instant] POWER: Use when you perform an attack. Banish the top card of your Life Deck to make that attack Focused. If you banished a Styled card, raise your anger 1.\nPOWER: Lower your anger by any amount. Rejuvenate X. X = the amount of anger you lowered.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (sheet shows it whole)",
+  "_src": "S16.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "i, r ; ot\n4 ~~ rr” j",
+  "stages_text": "4 4\n\n4\n025\n1,\n1,\n\n1,\n9",
+  "error": null
+ }
+}

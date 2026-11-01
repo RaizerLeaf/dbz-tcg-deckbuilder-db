@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_50",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "50_Broly - Resurrected.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/50_Broly - Resurrected.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Broly - Resurrected",
+  "file_name": "Broly",
+  "file_subtitle": "Resurrected",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c0167ef681f5dcaff208a273ce053a442cfa8879"
+ },
+ "vision": {
+  "id": "S12_BST_50",
+  "name": "Broly",
+  "sub": "Resurrected",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 3,
+  "stages": [
+   2200000,
+   1700000,
+   1200000,
+   700000,
+   500000,
+   250000,
+   100000,
+   70000,
+   50000,
+   20000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage.\n[Instant] POWER: Use when you Rejuvenate during combat. Use a critical damage effect.\nPOWER: [Attack] Energy attack.\nYou may reveal 2 attack cards from your hand to draw a card.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "S12.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.9,
+  "header_text": "3 BROLY\nLEVEL RESURRECTED () 950\nen a | a | a Ze",
+  "stages_text": "2,200,000\n1,700,000\n1,200,000\n700,000\n500,000\n250,000\n100,000\n70,000\n50,000\n20,000\n0",
+  "error": null
+ }
+}

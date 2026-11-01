@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_89",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "89_Namekain Hospitality Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/89_Namekain Hospitality Drill.png",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Namekain Hospitality Drill",
+  "file_name": "Namekain Hospitality Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "eebb6b904342b3b585916b14c3265e6f4d2b3fd2"
+ },
+ "vision": {
+  "id": "S07_BST_89",
+  "name": "Namekian Hospitality Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Instant] POWER: Use after you search your Life Deck. Rejuvenate 2.\nPOWER: Draw a card. Discard a card from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; filename typo 'Namekain'",
+  "_src": "S07.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 70.3,
+  "header_text": "YAMEKIAN HOSPITALITY DRILL & U89 |",
+  "stages_text": null,
+  "error": null
+ }
+}

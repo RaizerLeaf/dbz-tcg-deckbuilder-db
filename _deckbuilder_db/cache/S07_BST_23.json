@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_23",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "23_Namekian Discharge.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/23_Namekian Discharge.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Namekian Discharge",
+  "file_name": "Namekian Discharge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "619d25376c40de0f17c08a2a1d6b61002c77d723"
+ },
+ "vision": {
+  "id": "S07_BST_23",
+  "name": "Namekian Discharge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 1 stage.\nLower your opponent's anger X levels. X = the number of Earth Dragon Balls you control.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 82.2,
+  "header_text": "NAMEKIAN DISCHARGE ) 023\nEL |): ti(‘:S",
+  "stages_text": "3\n\n,\n,\n,",
+  "error": null
+ }
+}

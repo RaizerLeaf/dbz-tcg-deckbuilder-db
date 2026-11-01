@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P9",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P9_Red Trailing Blast (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P9_Red Trailing Blast (CRD).png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Red Trailing Blast",
+  "file_name": "Red Trailing Blast",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7d675b384a55ae47a195090097b6f203b7cb1657"
+ },
+ "vision": {
+  "id": "S05_PRO_P9",
+  "name": "Red Trailing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nAttach to your MP. While attached when your MP changes levels, return this card to your hand.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 U96; filename flag (CRD)",
+  "_src": "S05.jsonl:157"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 75.6,
+  "header_text": "RED TRAILING BLAST C) pg\npap  »§,§ ai #r_>",
+  "stages_text": "9",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P25",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P25_Super Shenron - Dragon God.png",
+  "rel_path": "z_OP Series/OP3/P25_Super Shenron - Dragon God.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Super Shenron - Dragon God",
+  "file_name": "Super Shenron",
+  "file_subtitle": "Dragon God",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d4db0810d7c6f7c68e0af1e207bc153c0117955"
+ },
+ "vision": {
+  "id": "OP3_OP_P25",
+  "name": "Super Shenron",
+  "sub": "Dragon God",
+  "type": "Ally",
+  "num": "P25",
+  "lvl": 1,
+  "stages": [
+   99999,
+   59999,
+   29999,
+   19999,
+   9999,
+   7999,
+   5999,
+   3999,
+   2999,
+   1999,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "([Trait:God] only. Once per game when this Ally enters play, you may Rejuvenate an Ally from your Banished Zone. You may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when one of your other Allies would leave play. Draw that Ally at the bottom of your Life Deck instead. Search your discard pile for a Styled card and Rejuvenate it.\n(Created by Jeff Sosa, OP3 TOP Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); edge reads 'HERO/VILLAIN ALLY'; Trait badge G (gold); prints a design credit line",
+  "_src": "OP.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 0.861,
+  "lower_conf": 78.9,
+  "header_text": "1 | SUPER SHENRON P25\nLEVEL | DRAGON GOD",
+  "stages_text": "99,999\n59,999\n, 29,999\n19,999\n9,999\n7,999\n5,999\n3,999\n2,999\n1,999\n\n0",
+  "error": null
+ }
+}

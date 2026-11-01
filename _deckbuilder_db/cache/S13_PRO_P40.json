@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P40",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P40_Namek Dragon Ball 1.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P40_Namek Dragon Ball 1.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Namek Dragon Ball 1",
+  "file_name": "Namek Dragon Ball 1",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "847957e73b8bc94426cb6fc4c4459d8316143be3"
+ },
+ "vision": {
+  "id": "S13_PRO_P40",
+  "name": "Namek Dragon Ball 1",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your other Dragon Balls cannot be captured. Your attacks deal +1 life card of damage.\n(Tournament of Power 2020)",
+  "conf": "high",
+  "review": null,
+  "note": "prints a '(Tournament of Power 2020)' event line",
+  "_src": "S13.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "NAMEK DRAGON BALL 1 6) P40\nT_T ——(Clr/lhrh)lhlUC ).W!WDUhmrr",
+  "stages_text": "111",
+  "error": null
+ }
+}

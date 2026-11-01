@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_13",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "13_Black Sidestep.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/13_Black Sidestep.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Black Sidestep",
+  "file_name": "Black Sidestep",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8e254afcfeaf9aaaf25944059cf8613247b83313"
+ },
+ "vision": {
+  "id": "S05_BST_13",
+  "name": "Black Sidestep",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nIf your opponent controls 2 or more Dragon Balls, you may capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.8,
+  "header_text": "BLACK SIDESTEP C) C13\nnrre-”—D— ae! ae —,",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

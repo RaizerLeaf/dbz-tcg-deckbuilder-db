@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_101",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "101_Master Roshi's Slumber.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/101_Master Roshi's Slumber.png",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Master Roshi's Slumber",
+  "file_name": "Master Roshi's Slumber",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "ee24467627bc0b3142dca106a899135f81ab64eb"
+ },
+ "vision": {
+  "id": "S05_BST_101",
+  "name": "Master Roshi's Slumber",
+  "sub": null,
+  "type": "Setup",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may reveal this card from your hand and place it at the bottom of your Life Deck to prevent all damage from a Styled attack.)\n[Instant] POWER: Use when entering combat. Look at the top 10 cards of your Life Deck and place them back in any order. Banish 3 cards from a discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame",
+  "_src": "S05.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "MASTER ROSHI'S SLUMBER 2) R101 |\na ge",
+  "stages_text": null,
+  "error": null
+ }
+}

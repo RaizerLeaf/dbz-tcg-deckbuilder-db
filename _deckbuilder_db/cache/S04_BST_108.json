@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_108",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "108_Namekian Waiting.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/108_Namekian Waiting.png",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Namekian Waiting",
+  "file_name": "Namekian Waiting",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "30a34e5edaec36e12d95a93dd1ba1b5880d37729"
+ },
+ "vision": {
+  "id": "S04_BST_108",
+  "name": "Namekian Waiting",
+  "sub": null,
+  "type": "Setup",
+  "num": "R108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Banish an Ally. You may banish a Dragon Ball you own under your control to destroy 2 Allies.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.6,
+  "header_text": "a> ee",
+  "stages_text": null,
+  "error": null
+ }
+}

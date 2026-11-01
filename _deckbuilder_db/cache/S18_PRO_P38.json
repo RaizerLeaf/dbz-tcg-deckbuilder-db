@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P38",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P38_Vegeta's Prideful Challenge.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P38_Vegeta's Prideful Challenge.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Vegeta's Prideful Challenge",
+  "file_name": "Vegeta's Prideful Challenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "49c40035414c312106283da2300f5d336391b511"
+ },
+ "vision": {
+  "id": "S18_PRO_P38",
+  "name": "Vegeta's Prideful Challenge",
+  "sub": null,
+  "type": "Setup",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Villains only. This card is considered Styled.)\n[Instant] POWER: Use when entering combat. Setups, Drills, and Allies cannot be used this combat. Banish up to 3 cards from either player's discard pile. [Trait:Majin]: Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named; reprint of S11 BST_44 (same title and effect text; text not compared word for word); inline icon zoomed: pink M badge (Majin)",
+  "_src": "S18.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 82.1,
+  "header_text": "<GETA'S PRIDEFUL CHALLENGE © P38\n7. ee a Gn nn on ne ae le =",
+  "stages_text": null,
+  "error": null
+ }
+}

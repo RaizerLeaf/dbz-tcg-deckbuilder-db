@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_11",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "11_Blue Boot.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/11_Blue Boot.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Blue Boot",
+  "file_name": "Blue Boot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e777eefcf595396b0363294d709424f1cc661b16"
+ },
+ "vision": {
+  "id": "S19_BST_11",
+  "name": "Blue Boot",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2. [Trait:Majin]: Shuffle all copies of this card from your discard pile into your Life Deck.\nDAMAGE: AT + 3 stages.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: pink M badge (Majin); no Endurance badge",
+  "_src": "S19.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 91.6,
+  "header_text": "BLUE BOOT () C11\nn wy",
+  "stages_text": "7\n37\n\n, ,\n5,",
+  "error": null
+ }
+}

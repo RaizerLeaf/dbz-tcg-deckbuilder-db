@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_09",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "09_Blue Sword Rush.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/09_Blue Sword Rush.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Sword Rush",
+  "file_name": "Blue Sword Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "59682b3ad5b872167ea3384c63680f6d877ee176"
+ },
+ "vision": {
+  "id": "S12_BST_09",
+  "name": "Blue Sword Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nLower your opponent's anger 1 level. Your Styled Setups this combat that are not banished after use gain \"Shuffle into your Life Deck after use.\"\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 85.5,
+  "header_text": "BLUE SWORD RUSH ) co\nLL << Sl ts«d",
+  "stages_text": "4\n4\n44\n347 3\n1,\n,",
+  "error": null
+ }
+}

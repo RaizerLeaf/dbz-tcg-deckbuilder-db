@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_48",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "48_Saiyan Inspection Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/48_Saiyan Inspection Drill.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Saiyan Inspection Drill",
+  "file_name": "Saiyan Inspection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "4456f194f7c23b57a87da370d840287ed74c26a3"
+ },
+ "vision": {
+  "id": "S04_BST_48",
+  "name": "Saiyan Inspection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card would be discarded from your hand by one of your effects, you may banish it instead to draw a card.)\nPOWER: [Attack] Physical attack.\nThis attack cannot have its damage modified.\nDAMAGE: 0 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, low-res",
+  "_src": "S04.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 0.868,
+  "lower_conf": 69.3,
+  "header_text": "iP, WW pe 8h",
+  "stages_text": null,
+  "error": null
+ }
+}

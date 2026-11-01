@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P24",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P24_Red Brace.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P24_Red Brace.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Red Brace",
+  "file_name": "Red Brace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ccb03db52e8ae77f86222735cb9f61b12b0c4e8a"
+ },
+ "vision": {
+  "id": "S12_PRO_P24",
+  "name": "Red Brace",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is banished from your Life Deck, gain 2 stages and your opponent's MP loses 2 stages.)\n[Defense] Stops an energy attack.\nRaise your anger 1 level. Lower your opponent's anger 1 level.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 88.6,
+  "header_text": "RED BRACE () P24",
+  "stages_text": "4\n3\n2\n2\n,\n\n,",
+  "error": null
+ }
+}

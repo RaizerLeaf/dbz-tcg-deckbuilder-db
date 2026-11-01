@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_24",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "24_Blue Sword Rage.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/24_Blue Sword Rage.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Blue Sword Rage",
+  "file_name": "Blue Sword Rage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7e041ab470cb968439975600988218563290a9c8"
+ },
+ "vision": {
+  "id": "S05_BST_24",
+  "name": "Blue Sword Rage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nYou may banish a card from your hand. If you do, search your Life Deck for a card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 83.2,
+  "header_text": "BLUE SWORD RAGE C) C24\n, /f 7",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P1",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P1_Tapion - Mysterious Warrior.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P1_Tapion - Mysterious Warrior.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Tapion - Mysterious Warrior",
+  "file_name": "Tapion",
+  "file_subtitle": "Mysterious Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b09d23ccfe7520ac96cbc1551a984a68b1b43e5c"
+ },
+ "vision": {
+  "id": "S15_PRO_P1",
+  "name": "Tapion",
+  "sub": "Mysterious Warrior",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   350000,
+   275000,
+   200000,
+   125000,
+   90000,
+   60000,
+   30000,
+   10000,
+   7000,
+   4000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage.\nPOWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a card with \"Sword\" in the title from your hand. If you discarded a card with \"Sword\" in the title, raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badge A (purple); stats and text compared against S15_BST_51 on the sheet, identical",
+  "_src": "S15.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.8,
+  "header_text": "TAPION )\n\\ 1 MYSTERIOUS WARRIOR y m1\nCr en a Sis ft is iis We Tp)",
+  "stages_text": "350,000\n275,000\n200,000\n125,000\n90,000\n\n7 60,000\n30,000\n10,000\n\n7,000\n\n4,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S147",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S147_Red Lifting Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S147_Red Lifting Kick.png",
+  "prefix": "S",
+  "number": 147,
+  "card_number": "S147",
+  "name_part": "Red Lifting Kick",
+  "file_name": "Red Lifting Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e65f776cb6c4e78bf7f31577cfcefa3516eac0e7"
+ },
+ "vision": {
+  "id": "S04_STR_S147",
+  "name": "Red Lifting Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S147",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may lower your anger 1 level to have this attack deal +6 stages instead of +3.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S79",
+  "_src": "S04.jsonl:300"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "RED LIFTING KICK @ sia7\nEr",
+  "stages_text": "4\n,\n3,",
+  "error": null
+ }
+}

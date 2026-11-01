@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P27",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P27_Orange Devouring Drill.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P27_Orange Devouring Drill.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Orange Devouring Drill",
+  "file_name": "Orange Devouring Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "73405798c47b71a9b56bc8154232535b12012bcb"
+ },
+ "vision": {
+  "id": "S15_PRO_P27",
+  "name": "Orange Devouring Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this Drill's effect.)\n[Continuous]: When you play a Drill, you may banish this card. If you do, advance a personality level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S15.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "ORANGE DEVOURING DRILL a) p27)\nlll!",
+  "stages_text": null,
+  "error": null
+ }
+}

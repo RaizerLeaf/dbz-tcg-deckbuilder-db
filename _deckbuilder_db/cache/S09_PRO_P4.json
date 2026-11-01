@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_PRO_P4",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "09_Set 9 (Legends)/Legends (Promos)",
+  "filename": "P4_Bardock - Legend.png",
+  "rel_path": "09_Set 9 (Legends)/Legends (Promos)/P4_Bardock - Legend.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Bardock - Legend",
+  "file_name": "Bardock",
+  "file_subtitle": "Legend",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "414bb3044508c728b2ac43db321da68be1a6d6fb"
+ },
+ "vision": {
+  "id": "S09_PRO_P4",
+  "name": "Bardock",
+  "sub": "Legend",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 4,
+  "stages": [
+   1100000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent plays with their hand revealed. At the end of each turn, your opponent discards their hand.\nPOWER: Gain 4 stages. Destroy the top 3 cards of a player's Life Deck. The first Styled Setup destroyed by this effect is placed into play under your control.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S09 S51; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S09.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 68.9,
+  "header_text": "BG x70 a >\nLEVEL SS Senses Oe Zoey\n. rare N \\ \\\\ aes , * a Mth",
+  "stages_text": "4 1,100,000\n\n1,000,000\n800,000\n\n600,000\n400,000,\n0 100,000\n\n50,000\n\n25,000\n\n0",
+  "error": null
+ }
+}

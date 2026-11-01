@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_32",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "32_Orange Checkup Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/32_Orange Checkup Drill.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Orange Checkup Drill",
+  "file_name": "Orange Checkup Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "956338091aa575dc82689abb5bcf505d860845d6"
+ },
+ "vision": {
+  "id": "S07_BST_32",
+  "name": "Orange Checkup Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled [Defense] card and place it into your hand.)\n[Continuous]: Your attacks deal +1 stage.\n[Instant] POWER: Use at the end of combat. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; text set in a newer, condensed font; '(FROZEN)' stamped below the card (owner annotation) but the filename has no (Frozen) flag",
+  "_src": "S07.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": "ORANGE CHECKUP DRILL ( C32",
+  "stages_text": null,
+  "error": null
+ }
+}

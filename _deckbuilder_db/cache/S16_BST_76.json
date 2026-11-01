@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_76",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "76_Frieza - Resurrected.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/76_Frieza - Resurrected.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Frieza - Resurrected",
+  "file_name": "Frieza",
+  "file_subtitle": "Resurrected",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "990cec0ba7e81a84b1d9d7ef4347332eecbcede3"
+ },
+ "vision": {
+  "id": "S16_BST_76",
+  "name": "Frieza",
+  "sub": "Resurrected",
+  "type": "Main Personality",
+  "num": "S76",
+  "lvl": 1,
+  "stages": [
+   530000,
+   420000,
+   250000,
+   140000,
+   85000,
+   42000,
+   17000,
+   9000,
+   4000,
+   3000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search the top 5 cards of your Life Deck for any number of non-Styled cards and destroy them. Raise your anger X. X = the number of cards destroyed. Shuffle the remaining cards into your Life Deck.\nPOWER: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S16.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "LL FRIEZA\nLEVEL RESURRECTED () 5/76",
+  "stages_text": "530,000\n420,000\n250,000\n140,000\n85,000\n42,000\n17,000\n9,000\n\n, 4,000\n3,000\n0",
+  "error": null
+ }
+}

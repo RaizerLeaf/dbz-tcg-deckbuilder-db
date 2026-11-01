@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_31",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "31_Orange Encouragement.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/31_Orange Encouragement.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Orange Encouragement",
+  "file_name": "Orange Encouragement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "7777b11d84dad5f9c135930f5d7ec135be2e956d"
+ },
+ "vision": {
+  "id": "S07_BST_31",
+  "name": "Orange Encouragement",
+  "sub": null,
+  "type": "Setup",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 1 level. Search your discard pile for a Styled Drill and place it into play. If you have changed levels this combat, search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "ORANGE ENCOURAGEMENT a C31 |",
+  "stages_text": null,
+  "error": null
+ }
+}

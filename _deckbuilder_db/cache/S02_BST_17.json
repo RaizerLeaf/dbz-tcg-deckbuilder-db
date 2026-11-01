@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_17",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "17_Black Evasion.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/17_Black Evasion.jpg",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Black Evasion",
+  "file_name": "Black Evasion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "613e55b21cbc83275c5b13710c6d780fa2144cd1"
+ },
+ "vision": {
+  "id": "S02_BST_17",
+  "name": "Black Evasion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. You may choose a card in your opponent's discard pile. If you do, your opponent Rejuvenates that card and you may place a card from each player's discard pile on top of its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "BLACK EVASION (esc: () 017\n|",
+  "stages_text": ",\n4\n0\n04",
+  "error": null
+ }
+}

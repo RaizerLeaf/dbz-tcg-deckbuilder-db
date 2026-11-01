@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_117",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "117_Orange Hug.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/117_Orange Hug.jpg",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Orange Hug",
+  "file_name": "Orange Hug",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d243b6ae7abfff9df6a16aa18e9dc8697a94a575"
+ },
+ "vision": {
+  "id": "S06_BST_117",
+  "name": "Orange Hug",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThis attack can only be stopped by a Physical Combat card. Choose 3 Styled cards from your opponent's discard pile and banish them.\nDAMAGE: AT +2 stages.\nHIT: Endurance cannot be used this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "“ORANGE HUG R07",
+  "stages_text": ",\n347",
+  "error": null
+ }
+}

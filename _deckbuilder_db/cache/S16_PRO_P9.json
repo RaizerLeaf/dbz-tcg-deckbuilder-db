@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P9",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P9_Frieza Resident of HFIL.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P9_Frieza Resident of HFIL.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Frieza Resident of HFIL",
+  "file_name": "Frieza Resident of HFIL",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a602715bc29e25f87afb7a9f57cc02c568aac52f"
+ },
+ "vision": {
+  "id": "S16_PRO_P9",
+  "name": "Frieza",
+  "sub": "Resident of HFIL",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   800000,
+   650000,
+   400000,
+   200000,
+   150000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(You cannot win by MPPV if you advance a personality level with this [Instant] Power.)\n[Continuous]: Your first successful attack each combat gains \"HIT: Destroy an opponent's Ally and raise your anger 1.\"\n[Instant] POWER: Use when entering combat. Search your Life Deck for 7 Named cards and banish them to advance your MP 1 level.\nPOWER: [Attack] Energy attack.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal (non-full-art) booster layout; edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S16.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 0.934,
+  "lower_conf": 85.7,
+  "header_text": "1 | FRIEZA pg\nLEVEL | RESIDENT OF HFIL",
+  "stages_text": "1,000,000\n800,000\n650,000\n400,000\n\n200,000\n150,000\n25,000\n10,000\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

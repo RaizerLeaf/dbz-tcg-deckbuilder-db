@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P32",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P32_Red Resourceful Block.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P32_Red Resourceful Block.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Red Resourceful Block",
+  "file_name": "Red Resourceful Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "006c5c1985cd4221317a4efa07d5dacd142e56cb"
+ },
+ "vision": {
+  "id": "S15_PRO_P32",
+  "name": "Red Resourceful Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops a physical attack.\nLower your MP 1 level. If you do, advance your MP 1 level at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 88.2,
+  "header_text": "RED RESOURCEFUL BLOCK @ P32\nJa 7 F-",
+  "stages_text": "4\n,\n0,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_34",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "34_Orange Ki Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/34_Orange Ki Blast.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Orange Ki Blast",
+  "file_name": "Orange Ki Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "c1e8080fcc5db2294e7320f20c52675a9fa3734b"
+ },
+ "vision": {
+  "id": "S04_BST_34",
+  "name": "Orange Ki Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 stages +AT life cards.\nHIT: Your next successful energy attack this combat cannot have its damage modified nor prevented.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "ORANGE KI BLAST ) 034\nee",
+  "stages_text": "",
+  "error": null
+ }
+}

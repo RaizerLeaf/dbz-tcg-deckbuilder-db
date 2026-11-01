@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S34",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S34_Blue Conentrated Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S34_Blue Conentrated Blast.png",
+  "prefix": "S",
+  "number": 34,
+  "card_number": "S34",
+  "name_part": "Blue Conentrated Blast",
+  "file_name": "Blue Conentrated Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "46c68772ed7938640364131e137d5b391c202364"
+ },
+ "vision": {
+  "id": "S07_STR_S34",
+  "name": "Blue Concentrated Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 2 levels. Lower your opponent's anger 1 level.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_18; text compared on the sheet",
+  "_src": "S07.jsonl:217"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "BLUE CONCENTRATED BLAST ) $34\n —_ ~~ a /",
+  "stages_text": "4",
+  "error": null
+ }
+}

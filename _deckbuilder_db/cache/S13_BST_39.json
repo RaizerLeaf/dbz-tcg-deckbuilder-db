@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_39",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "39_Gotenks' Galactic Donut.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/39_Gotenks' Galactic Donut.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Gotenks' Galactic Donut",
+  "file_name": "Gotenks' Galactic Donut",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "12f1ecd22f70d10c867202faeffd4066a6420c7f"
+ },
+ "vision": {
+  "id": "S13_BST_39",
+  "name": "Gotenks' Galactic Donut",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is destroyed or banished from your Life Deck, gain 3 stages and Rejuvenate it.)\n[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Attach to your opponent's MP. While attached, at the beginning of your turn, you may Rejuvenate this card to banish the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named",
+  "_src": "S13.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.985,
+  "lower_conf": 87.9,
+  "header_text": "GOTENKS' GALACTIC DONUTE¢ ) R39 |\nll eee lll",
+  "stages_text": ",\n,\n\n,\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P7",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P7_Black Scout Maneuver.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P7_Black Scout Maneuver.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Black Scout Maneuver",
+  "file_name": "Black Scout Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7afdcfa1f6e3ca7bc1a286cddc9fa6234f9511d6"
+ },
+ "vision": {
+  "id": "S04_PRO_P7",
+  "name": "Black Scout Maneuver",
+  "sub": null,
+  "type": "Event",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent's Life Deck for all copies of that card and banish them.\n(Banish after use.)\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "prints '(Most Recent Printing)' at the end of the text box (MRP reprint). Corrected wording vs S01 R126/P16",
+  "_src": "S04.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "a os Oe a\nBLACK SCOUT MANEUVER () P7",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

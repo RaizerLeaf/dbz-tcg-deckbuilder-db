@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_01",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "01_Black Diabolic Scheme.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/01_Black Diabolic Scheme.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Diabolic Scheme",
+  "file_name": "Black Diabolic Scheme",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "42161d042830bf205151b3203fb4b5eebfe51fa5"
+ },
+ "vision": {
+  "id": "S15_BST_01",
+  "name": "Black Diabolic Scheme",
+  "sub": null,
+  "type": "Setup",
+  "num": "R1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\n[Instant] POWER: Use when entering combat. Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them. [Trait:Android]: Your opponent reveals their hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; Set 15 uses a new red kanji crest as set symbol; inline icon zoomed: grey R badge (Android)",
+  "_src": "S15.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 0.902,
+  "lower_conf": 76.0,
+  "header_text": "BLACK DIABOLIC SCHEME @ a",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_05",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "05_Black Headbutt.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/05_Black Headbutt.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Headbutt",
+  "file_name": "Black Headbutt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "21908c81d36d69c0fbe8e3f0ac45bcf4d8e07599"
+ },
+ "vision": {
+  "id": "S04_BST_05",
+  "name": "Black Headbutt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf this attack is stopped, banish the top card of your opponent's Life Deck.\nDAMAGE: AT life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "BLACK HEADBUTT () C5\nan |",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

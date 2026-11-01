@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P19",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P19_Black Refusal.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P19_Black Refusal.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Black Refusal",
+  "file_name": "Black Refusal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f100c10ec4558dac244973afc2b30dd64c7f113f"
+ },
+ "vision": {
+  "id": "S16_PRO_P19",
+  "name": "Black Refusal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may destroy a Setup or Drill you control. If you do, destroy up to 2 Setups and/or Drills.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S16.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.1,
+  "header_text": "BLACK REFUSAL () P19\nas",
+  "stages_text": "2\n37",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_27",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "27_Saiyan Flying Kick.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/27_Saiyan Flying Kick.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Saiyan Flying Kick",
+  "file_name": "Saiyan Flying Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b4cc68b31610942e5e9b4339712f8f7ce4b58a5"
+ },
+ "vision": {
+  "id": "S11_BST_27",
+  "name": "Saiyan Flying Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nAfter you use a HIT effect this combat, lower your opponent's anger 1 level. The next time a card effect causes you to discard a Styled card with Endurance from your hand this combat, draw a card.\nDAMAGE: 6 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 87.9,
+  "header_text": "SAIYAN FLYING KICK C) U27\nWP INA We OY pon POOLS CS!",
+  "stages_text": ",",
+  "error": null
+ }
+}

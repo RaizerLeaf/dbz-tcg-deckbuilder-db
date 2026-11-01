@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S85",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S85_Namekian Chop.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S85_Namekian Chop.png",
+  "prefix": "S",
+  "number": 85,
+  "card_number": "S85",
+  "name_part": "Namekian Chop",
+  "file_name": "Namekian Chop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "117fd232661ae6bba68c3c71f4c3a3129e59d796"
+ },
+ "vision": {
+  "id": "S04_STR_S85",
+  "name": "Namekian Chop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Raise your anger X levels. X = the number of Dragon Balls you control.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C29",
+  "_src": "S04.jsonl:238"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 78.9,
+  "header_text": "NAMEKIAN CHOP () $85\nanes tem te) maa",
+  "stages_text": "4",
+  "error": null
+ }
+}

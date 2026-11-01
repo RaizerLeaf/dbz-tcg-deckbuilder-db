@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_127",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "127_Saiyan Outrage.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/127_Saiyan Outrage.jpg",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Saiyan Outrage",
+  "file_name": "Saiyan Outrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "06a5b9f7860666a68af863c4dde2096c8873d94a"
+ },
+ "vision": {
+  "id": "S02_BST_127",
+  "name": "Saiyan Outrage",
+  "sub": null,
+  "type": "Event",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Defense] POWER: Stops a physical or energy attack. If the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "SAIYAN OUTRAGE () a127\nre 7 Come! fs ,",
+  "stages_text": "",
+  "error": null
+ }
+}

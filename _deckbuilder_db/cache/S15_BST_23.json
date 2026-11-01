@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_23",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "23_Red Evasive Manuver.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/23_Red Evasive Manuver.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Evasive Manuver",
+  "file_name": "Red Evasive Manuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6df1d637f4628783f89087e2f16d89746b63e32a"
+ },
+ "vision": {
+  "id": "S15_BST_23",
+  "name": "Red Evasive Manuver",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nYou may search your Banished Zone for a Styled attack and place it on the top or bottom of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "title printed 'Manuver' (typo on the card, matches filename)",
+  "_src": "S15.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 88.4,
+  "header_text": "RED EVASIVE MANUEVER () C23",
+  "stages_text": "4\n,\n2\n,",
+  "error": null
+ }
+}

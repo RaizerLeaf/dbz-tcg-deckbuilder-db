@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S134",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S134_Red Blazing Aura.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S134_Red Blazing Aura.png",
+  "prefix": "S",
+  "number": 134,
+  "card_number": "S134",
+  "name_part": "Red Blazing Aura",
+  "file_name": "Red Blazing Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "10f70bd1bf908aa7f7bffd059a3470382cb51125"
+ },
+ "vision": {
+  "id": "S04_STR_S134",
+  "name": "Red Blazing Aura",
+  "sub": null,
+  "type": "Event",
+  "num": "S134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 1 level. For the remainder of combat, your opponent's attacks deal -3 stages and -3 life cards of damage.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S49",
+  "_src": "S04.jsonl:287"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "RED BLAZING AURA @® sis4\nja yr Xi?) © =z",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

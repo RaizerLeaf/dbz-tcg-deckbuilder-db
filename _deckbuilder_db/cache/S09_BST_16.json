@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_16",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "16_Orange Bottle Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/16_Orange Bottle Drill.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Orange Bottle Drill",
+  "file_name": "Orange Bottle Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "302464781ab90b711d3c9caa0f8bb9155b07ea36"
+ },
+ "vision": {
+  "id": "S09_BST_16",
+  "name": "Orange Bottle Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your physical attacks deal +1 stage of damage.\nPOWER: Rejuvenate this Drill to perform a non-Styled physical attack dealing 3 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S09.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "ORANGE BOTTLE DRILL a C16)",
+  "stages_text": null,
+  "error": null
+ }
+}

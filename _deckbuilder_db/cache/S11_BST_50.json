@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_50",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "50_Yamu - Expendable.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/50_Yamu - Expendable.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Yamu - Expendable",
+  "file_name": "Yamu",
+  "file_subtitle": "Expendable",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e6a995ff36765db977873d539fceba9c121a77d6"
+ },
+ "vision": {
+  "id": "S11_BST_50",
+  "name": "Yamu",
+  "sub": "Expendable",
+  "type": "Ally",
+  "num": "U50",
+  "lvl": 1,
+  "stages": [
+   300,
+   150,
+   120,
+   100,
+   70,
+   50,
+   30,
+   10,
+   5,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Majin"
+  ],
+  "text": "(If your MP has [Trait:Majin], you may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when any number of Allies would leave play. Banish \"Yamu, Expendable.\" Your other [Trait:Majin] Allies cannot leave play until the beginning of the next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badges E + M",
+  "_src": "S11.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 78.5,
+  "header_text": "1 vay\nII. EXPENDABLE E) U50",
+  "stages_text": "300\n150\n120\n100\n70\n7 50\n0\n3\n10\n5\n1\n\n0",
+  "error": null
+ }
+}

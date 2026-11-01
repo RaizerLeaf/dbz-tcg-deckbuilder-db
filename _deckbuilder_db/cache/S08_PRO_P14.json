@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P14",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P14_Android 17 - Entertained.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P14_Android 17 - Entertained.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Android 17 - Entertained",
+  "file_name": "Android 17",
+  "file_subtitle": "Entertained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "58c8691d62bc62b20f56aef534cad7d725632aa3"
+ },
+ "vision": {
+  "id": "S08_PRO_P14",
+  "name": "Android 17",
+  "sub": "Entertained",
+  "type": "Main Personality",
+  "num": "P14",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   60000,
+   50000,
+   25000,
+   15000,
+   10000,
+   5000,
+   1500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Instant] POWER: Use after your opponent draws any number of cards from a card effect. Discard a card at random from your opponent's hand.\nPOWER: [Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Search your Life Deck or discard pile for \"Android 17's Van\" and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S54; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.8,
+  "header_text": "ANDROID 17\naa ENTERTAINED y m14\nESE wore et . eo ‘ inn nnn",
+  "stages_text": "100,000\n90,000\n80,000\n60,000\n\n50,000\n10,000\n1,000",
+  "error": null
+ }
+}

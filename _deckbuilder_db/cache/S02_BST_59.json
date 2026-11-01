@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_59",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "59_Energetic Left Blast.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/59_Energetic Left Blast.jpg",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Energetic Left Blast",
+  "file_name": "Energetic Left Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "519b1bf6dbf63522d78e8073ca4a771276dec981"
+ },
+ "vision": {
+  "id": "S02_BST_59",
+  "name": "Energetic Left Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack. DAMAGE: 1 life card. You may destroy an Ally. If you do, this attack deals +4 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "ENERGETIC LEFT BLAST () cs9\ni... tC",
+  "stages_text": "4\n1,",
+  "error": null
+ }
+}

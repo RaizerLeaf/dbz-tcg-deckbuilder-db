@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_10",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "10_Black Heel.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/10_Black Heel.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Black Heel",
+  "file_name": "Black Heel",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "86066149bb87b29f9391018729200ad278d3ffd8"
+ },
+ "vision": {
+  "id": "S07_BST_10",
+  "name": "Black Heel",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you have gained stages this combat, your opponent's MP loses 3 stages.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.1,
+  "header_text": "BLACK HEEL () C10\nSf aa",
+  "stages_text": "347\n,\n5,",
+  "error": null
+ }
+}

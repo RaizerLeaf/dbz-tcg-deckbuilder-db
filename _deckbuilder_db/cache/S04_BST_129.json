@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_129",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "129_Android 20's Scouting Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/129_Android 20's Scouting Drill.png",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Android 20's Scouting Drill",
+  "file_name": "Android 20's Scouting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "80ca4473ce337dcf50775a6026048b101dfa11d4"
+ },
+ "vision": {
+  "id": "S04_BST_129",
+  "name": "Android 20's Scouting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may use this Drill more than once per turn, but only once per attack.)\n[Defense] POWER: Destroy the top 2 cards of your Life Deck to prevent all damage from an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S04.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "| aD ee\no RB ad = ! ¥ : 1 R_R aw",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_22",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "22_Blue Overcharge.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/22_Blue Overcharge.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Blue Overcharge",
+  "file_name": "Blue Overcharge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "33d5f31da55e084788a1b6d1713a84af087b5f2d"
+ },
+ "vision": {
+  "id": "S05_BST_22",
+  "name": "Blue Overcharge",
+  "sub": null,
+  "type": "Event",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Prevent 3 life cards and 3 stages of damage from an attack.\nDraw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.6,
+  "header_text": "BLUE OVERCHARGE — @) 6:22.",
+  "stages_text": "2\n7\n3\n,",
+  "error": null
+ }
+}

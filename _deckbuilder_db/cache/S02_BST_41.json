@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_41",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "41_Orange Energy Bubble.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/41_Orange Energy Bubble.jpg",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Orange Energy Bubble",
+  "file_name": "Orange Energy Bubble",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8ab1ce9d0b21445ca10a10c27e66bce3cb64e5e6"
+ },
+ "vision": {
+  "id": "S02_BST_41",
+  "name": "Orange Energy Bubble",
+  "sub": null,
+  "type": "Event",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] POWER: You may destroy any of your Drills. Prevent X stages of damage from your opponent's attacks this combat. X = 1 + the number of Drills you destroyed.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "ic ORANGE ENERGY BUBBLE € cat",
+  "stages_text": "",
+  "error": null
+ }
+}

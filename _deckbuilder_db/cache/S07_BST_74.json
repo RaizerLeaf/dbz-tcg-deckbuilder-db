@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_74",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "74_Mercenary Tao - Armed.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/74_Mercenary Tao - Armed.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Mercenary Tao - Armed",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Armed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b236b840c79d89e04fb20c949f1c6b6dfc2cba04"
+ },
+ "vision": {
+  "id": "S07_BST_74",
+  "name": "Mercenary Tao",
+  "sub": "Armed",
+  "type": "Main Personality",
+  "num": "U74",
+  "lvl": 3,
+  "stages": [
+   387,
+   357,
+   327,
+   297,
+   267,
+   237,
+   207,
+   177,
+   147,
+   117,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your attacks is stopped, banish the top card of your opponent's Life Deck. If a Dragon Ball is banished in this way, you may play it.\nPOWER: The next non-Styled attack you perform this combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 0.884,
+  "lower_conf": 77.3,
+  "header_text": "S3 MERCENARY TAO U74\nLEVEL ARMED",
+  "stages_text": "387\n\n357\n\n327\n\n297\n\n267\n237\n207\n177\n\n147\n\n117\n0",
+  "error": null
+ }
+}

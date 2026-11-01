@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S105",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S105_Orange Calming Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S105_Orange Calming Drill.png",
+  "prefix": "S",
+  "number": 105,
+  "card_number": "S105",
+  "name_part": "Orange Calming Drill",
+  "file_name": "Orange Calming Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "bb1374017a6260414944f364fbfc49b8fd053c61"
+ },
+ "vision": {
+  "id": "S04_STR_S105",
+  "name": "Orange Calming Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Instant] POWER: Use when entering combat. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 C39; landscape layout",
+  "_src": "S04.jsonl:258"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 63.0,
+  "header_text": "a an S pe, ihe",
+  "stages_text": null,
+  "error": null
+ }
+}

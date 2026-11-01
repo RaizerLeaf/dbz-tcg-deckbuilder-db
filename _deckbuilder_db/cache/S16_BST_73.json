@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_73",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "73_Captain Ginyu - Clever Frog.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/73_Captain Ginyu - Clever Frog.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Captain Ginyu - Clever Frog",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Clever Frog",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b9978ac15e7f5f4f17e4d52b0e00e65391132503"
+ },
+ "vision": {
+  "id": "S16_BST_73",
+  "name": "Captain Ginyu",
+  "sub": "Clever Frog",
+  "type": "Main Personality",
+  "num": "S73",
+  "lvl": 2,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Namekian",
+   "Alien"
+  ],
+  "text": "[Continuous]: You may use the Powers of your \"Ginyu Force\" Allies regardless of your MP's power stage.\nPOWER: Search your Life Deck for an [Trait:Alien] Ally and play it. Rejuvenate X. X = the number of \"Ginyu Force\" Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges N (orange) and A (purple); inline icon is the purple A badge; text zoomed",
+  "_src": "S16.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 88.4,
+  "header_text": "@ | CAPTAIN GINYU $73\nLEVEL | CLEVER FROG",
+  "stages_text": "10\n9\n8\n, 7\n6\n5\n4\n3\n2\n0",
+  "error": null
+ }
+}

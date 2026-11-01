@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_15",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "15_Namekian Power Ball.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/15_Namekian Power Ball.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Power Ball",
+  "file_name": "Namekian Power Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "59bd50acc3b0f7dc647a0d6654aeeb6eb9d6cec5"
+ },
+ "vision": {
+  "id": "S12_BST_15",
+  "name": "Namekian Power Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 3 stages.\nDamage from this attack is banished.\nDAMAGE: 5 life cards.\nHIT: Shuffle a Dragon Ball or Ally you control into its owner's Life Deck to destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 87.7,
+  "header_text": "NAMEKIAN POWER BALL C) U15\n| ws",
+  "stages_text": "2\n1 7\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_20",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "20_Orange Energy Ball.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/20_Orange Energy Ball.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Energy Ball",
+  "file_name": "Orange Energy Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "220ead9e038f827a9c62f44496622f8740c3062f"
+ },
+ "vision": {
+  "id": "S11_BST_20",
+  "name": "Orange Energy Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may destroy a Drill or Setup you control to search your Life Deck for a Styled Drill or Styled Setup and place it into play.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 88.0,
+  "header_text": "ORANGE ENERGY BALL C) C20\nye",
+  "stages_text": "4\n6\n7\n0,",
+  "error": null
+ }
+}

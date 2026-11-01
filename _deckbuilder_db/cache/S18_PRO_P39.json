@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P39",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P39_Vegeta's Final Flash.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P39_Vegeta's Final Flash.png",
+  "prefix": "P",
+  "number": 39,
+  "card_number": "P39",
+  "name_part": "Vegeta's Final Flash",
+  "file_name": "Vegeta's Final Flash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c6c0d6032c574ab25d054c892f77c267f1d11895"
+ },
+ "vision": {
+  "id": "S18_PRO_P39",
+  "name": "Vegeta's Final Flash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 3: Energy attack.\nThis attack can only be stopped by an Energy Combat card. Raise your anger 2. Players can only attack or pass in their actions this combat.\nDAMAGE: 4 life cards.\nHIT: You may lower your MP 1 level. If you do, your opponent discards a random card from their hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '3:'; disclaimer line mentions 'Dragon Ball Daima'; no Endurance badge",
+  "_src": "S18.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.6,
+  "header_text": "VEGETA'S FINAL FLASH ? ) P39 |\n-",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

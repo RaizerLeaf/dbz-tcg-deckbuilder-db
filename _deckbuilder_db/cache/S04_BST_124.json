@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_124",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "124_Android 17's Back Smash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/124_Android 17's Back Smash.png",
+  "prefix": null,
+  "number": 124,
+  "card_number": "124",
+  "name_part": "Android 17's Back Smash",
+  "file_name": "Android 17's Back Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "555f8073761f057755e527624eb6ed668102766b"
+ },
+ "vision": {
+  "id": "S04_BST_124",
+  "name": "Android 17's Back Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. Your opponent skips his next action this combat.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "ANDROID 17’S BACK SMASH @@) R124\nell",
+  "stages_text": "2\n2",
+  "error": null
+ }
+}

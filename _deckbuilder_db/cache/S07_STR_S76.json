@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S76",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S76_Orange Energy Dan Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S76_Orange Energy Dan Drill.png",
+  "prefix": "S",
+  "number": 76,
+  "card_number": "S76",
+  "name_part": "Orange Energy Dan Drill",
+  "file_name": "Orange Energy Dan Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fd190da7b5a221320a3d86a008e36c70a9cdc723"
+ },
+ "vision": {
+  "id": "S07_STR_S76",
+  "name": "Orange Energy Dan Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Once per turn after you perform a successful energy attack, you may search your opponent's Life Deck for a card and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S41; text compared on the sheet",
+  "_src": "S07.jsonl:259"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "ORANGE ENERGY DAN DRILL © 376 |",
+  "stages_text": null,
+  "error": null
+ }
+}

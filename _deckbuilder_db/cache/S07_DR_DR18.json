@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR18",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR18_Gohan - Unassuming.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR18_Gohan - Unassuming.png",
+  "prefix": "DR",
+  "number": 18,
+  "card_number": "DR18",
+  "name_part": "Gohan - Unassuming",
+  "file_name": "Gohan",
+  "file_subtitle": "Unassuming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "93cd4a6a9621cfc95d5c5702afc0ac6dd1fd665e"
+ },
+ "vision": {
+  "id": "S07_DR_DR18",
+  "name": "Gohan",
+  "sub": "Unassuming",
+  "type": "Main Personality",
+  "num": "DR18",
+  "lvl": 3,
+  "stages": [
+   1700000,
+   1400000,
+   1100000,
+   800000,
+   500000,
+   200000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks are considered Styled and deal +2 stages of damage.\nPOWER: [Attack] Physical attack.\nYou may banish a Setup, Drill, or Ally.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P61",
+  "_src": "S07.jsonl:164"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.0,
+  "header_text": ": GOHAN a) '\nUNASSUMING 7 DR18\nW\\ Yt GAY) ———",
+  "stages_text": "1,700,000\n1,400,000\n1,100,000\n800,000\n500,000\n200,000\n100,000\n50,000\n25,000\n12,500\n,",
+  "error": null
+ }
+}

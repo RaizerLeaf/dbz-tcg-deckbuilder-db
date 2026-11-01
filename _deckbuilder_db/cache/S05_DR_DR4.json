@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S05_DR_DR4",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "DR4_Cell - Unstoppable (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/DR4_Cell - Unstoppable (CRD).png",
+  "prefix": "DR",
+  "number": 4,
+  "card_number": "DR4",
+  "name_part": "Cell - Unstoppable",
+  "file_name": "Cell",
+  "file_subtitle": "Unstoppable",
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "159ea0133ea71dcf1ff47c4590d8f4435ff58e23"
+ },
+ "vision": {
+  "id": "S05_DR_DR4",
+  "name": "Cell",
+  "sub": "Unstoppable",
+  "type": "Main Personality",
+  "num": "DR4",
+  "lvl": 4,
+  "stages": [
+   2500000,
+   2000000,
+   1500000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck for a Styled card and place it into your hand.\nPOWER: You may lower your MP 1 level to lower your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads VILLAIN; '(CRD)' stamped below (owner annotation). PZP P55 adds '(This card's non-[Instant] Power may only be used once per game.)'",
+  "_src": "S05.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 71.3,
+  "header_text": "Bea ce Om\nLEVEL UNSTOPPABLE ?\nSe YR ee",
+  "stages_text": "2,500,000\n2,000,000\n1,500,000\n1,000,000\n500,000\n400,000\n300,000\n200,000\n100,000\n50,000\n\n0",
+  "error": null
+ }
+}

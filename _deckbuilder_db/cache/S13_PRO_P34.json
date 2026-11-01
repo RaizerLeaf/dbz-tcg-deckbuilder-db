@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P34",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P34_Red Sacrifice.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P34_Red Sacrifice.png",
+  "prefix": "P",
+  "number": 34,
+  "card_number": "P34",
+  "name_part": "Red Sacrifice",
+  "file_name": "Red Sacrifice",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6905896812386d8083db2b96fdf5c584927a7c9c"
+ },
+ "vision": {
+  "id": "S13_PRO_P34",
+  "name": "Red Sacrifice",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, raise your anger 2 levels and damage from your next attack this combat cannot be prevented.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": "RED SACRIFICE () P34\nhae.",
+  "stages_text": "7\n,\n\n2\n\n,",
+  "error": null
+ }
+}

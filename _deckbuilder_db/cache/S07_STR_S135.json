@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S135",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S135_Black Swipe.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S135_Black Swipe.png",
+  "prefix": "S",
+  "number": 135,
+  "card_number": "S135",
+  "name_part": "Black Swipe",
+  "file_name": "Black Swipe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "36d4c072f5c9ad19fda3fea912582efcf2b0ca9a"
+ },
+ "vision": {
+  "id": "S07_STR_S135",
+  "name": "Black Swipe",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S64; text compared on the sheet",
+  "_src": "S07.jsonl:318"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 79.2,
+  "header_text": "BLACK SWIPE a ) |\nBLACK SWIPE 5135,\n—",
+  "stages_text": ",",
+  "error": null
+ }
+}

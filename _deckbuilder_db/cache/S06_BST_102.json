@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_102",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "102_Black Dispersion.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/102_Black Dispersion.jpg",
+  "prefix": null,
+  "number": 102,
+  "card_number": "102",
+  "name_part": "Black Dispersion",
+  "file_name": "Black Dispersion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "fa0247ba0355bd9f8a2f1e674b25ced7776e949f"
+ },
+ "vision": {
+  "id": "S06_BST_102",
+  "name": "Black Dispersion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages.\nDAMAGE: 5 life cards.\nHIT: If you have gained stages this combat, search your opponent's Life Deck for a Styled Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "BLACK DISPERSION ) R102\nmas wJflin a wee",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

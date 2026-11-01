@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P10_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P10_Black Nightmare (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P10_Black Nightmare (Restored).png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Black Nightmare",
+  "file_name": "Black Nightmare",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7b3f13b79fd2f99f43722e9f1b284d5efe9a522f"
+ },
+ "vision": {
+  "id": "S07_PRO_P10_RST",
+  "name": "Black Nightmare",
+  "sub": null,
+  "type": "Event",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\nPOWER: Search your opponent's Life Deck for a Setup or Drill and banish it. Your MP gains 4 stages. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer, modern wording; of a promo that was never officially released",
+  "_src": "S07.jsonl:203"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 89.7,
+  "header_text": "BLACK NIGHTMARE _~ ) P10 |",
+  "stages_text": "3\n4\n7\n,\n,",
+  "error": null
+ }
+}

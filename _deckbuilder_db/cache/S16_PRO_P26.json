@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P26",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P26_Orange Destruction.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P26_Orange Destruction.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Orange Destruction",
+  "file_name": "Orange Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "338305c463efecd4d836253ba43bad37cdcfb700"
+ },
+ "vision": {
+  "id": "S16_PRO_P26",
+  "name": "Orange Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys the top X cards of their Life Deck. X = 1 + the number of Drills you have in play.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S16.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.9,
+  "header_text": "ORANGE DESTRUCTION ) P26.",
+  "stages_text": "4\n141\n1",
+  "error": null
+ }
+}

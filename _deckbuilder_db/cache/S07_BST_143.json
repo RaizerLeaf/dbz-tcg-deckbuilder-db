@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_143",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "143_Fluury of Blows.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/143_Fluury of Blows.png",
+  "prefix": null,
+  "number": 143,
+  "card_number": "143",
+  "name_part": "Fluury of Blows",
+  "file_name": "Fluury of Blows",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5b76e429681eb06357ae9dd56994dc58177aa9fa"
+ },
+ "vision": {
+  "id": "S07_BST_143",
+  "name": "Flurry of Blows",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR143",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Whenever your opponent performs an attack that cannot be stopped, you may banish this card from your hand. If you do, that attack deals no damage and your opponent banishes the top 3 cards of his or her Life Deck.)\n[Attack] Energy attack costing 2 stages.\nYou may banish a card from your hand. If you do, damage from this attack is banished and cannot be prevented.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; filename typo 'Fluury'",
+  "_src": "S07.jsonl:143"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "FLURRY OF BLOWS unas\nwa -  C",
+  "stages_text": "0,\n,",
+  "error": null
+ }
+}

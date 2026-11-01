@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_77",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "77_Black Chaos.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/77_Black Chaos.jpg",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Black Chaos",
+  "file_name": "Black Chaos",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "cbcb00a8967edfa25d182014bd923b66ffe03f48"
+ },
+ "vision": {
+  "id": "S03_BST_77",
+  "name": "Black Chaos",
+  "sub": null,
+  "type": "Setup",
+  "num": "U77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, place it into play.) POWER: Name a card. Your opponent reveals his hand. If the card you named was revealed, place a card from your opponent's discard pile on top of his Life Deck and your opponent skips his next two actions.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "ic LACK CHAOS C) Oe\ne, —~“Eee GL) ec",
+  "stages_text": "4",
+  "error": null
+ }
+}

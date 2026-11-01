@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_09",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "09_Captain Ginyu - Aggressive.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/09_Captain Ginyu - Aggressive.jpg",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Captain Ginyu - Aggressive",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Aggressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "386ce5f108e2762fb1649f80e2a2afc744ddc3ee"
+ },
+ "vision": {
+  "id": "S02_BST_09",
+  "name": "Captain Ginyu",
+  "sub": "Aggressive",
+  "type": "Ally",
+  "num": "C9",
+  "lvl": 1,
+  "stages": [
+   75000,
+   65000,
+   55000,
+   45000,
+   35000,
+   25000,
+   15000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Continuous]: Your opponent plays with his hand revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S02.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.5,
+  "header_text": "| LL capTAIN GINYU (=\nLEVEL er —\na \"~~",
+  "stages_text": "75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n\n2,500\n\n1,250\n\n0",
+  "error": null
+ }
+}

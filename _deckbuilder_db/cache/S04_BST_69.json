@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_69",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "69_Blue Face Grab.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/69_Blue Face Grab.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Blue Face Grab",
+  "file_name": "Blue Face Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5d66c61babf7209760a974037940ec2da27a03c0"
+ },
+ "vision": {
+  "id": "S04_BST_69",
+  "name": "Blue Face Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U69",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nWhenever one of your effects causes a personality to lose stages this combat, double that amount.\nDAMAGE: 6 -X stages. X = your opponent's current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "BLUE FACE GRAB =) veo\n——e EE",
+  "stages_text": ", 7\n,",
+  "error": null
+ }
+}

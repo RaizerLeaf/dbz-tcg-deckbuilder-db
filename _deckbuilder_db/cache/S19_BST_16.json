@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_16",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "16_Namekian Ward.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/16_Namekian Ward.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Namekian Ward",
+  "file_name": "Namekian Ward",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fc077d129fc0e4e0dd056dea8afd72e15fde1705"
+ },
+ "vision": {
+  "id": "S19_BST_16",
+  "name": "Namekian Ward",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished by one of your effects, search your discard pile for a Drill and place it into play.)\n[Defense] Stops a physical attack.\nLower your opponent's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S19.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.6,
+  "header_text": "NAMEKIAN WARD )c16",
+  "stages_text": ",\n347\n2\n\n,",
+  "error": null
+ }
+}

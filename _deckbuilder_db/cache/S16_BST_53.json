@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_53",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "53_Vegeta's Fury.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/53_Vegeta's Fury.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Vegeta's Fury",
+  "file_name": "Vegeta's Fury",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ed27aa112235707c8f5d33ad10787b90804b5ff4"
+ },
+ "vision": {
+  "id": "S16_BST_53",
+  "name": "Vegeta's Fury",
+  "sub": null,
+  "type": "Event",
+  "num": "R53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 1 per deck. You cannot win by MPPV if you use this card.)\nPOWER: You may advance or lower your MP 1 level. Gain 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S16.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "VEGETA'S FURY ) R53\nSe AANA: See ’",
+  "stages_text": "2\n\n4\n,\n1,",
+  "error": null
+ }
+}

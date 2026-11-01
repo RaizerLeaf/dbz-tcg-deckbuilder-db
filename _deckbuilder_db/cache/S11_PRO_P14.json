@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P14",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P14_Black Taunt.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P14_Black Taunt.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Black Taunt",
+  "file_name": "Black Taunt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2a49b2c7134581885a99a645ef488ae1e99adeb1"
+ },
+ "vision": {
+  "id": "S11_PRO_P14",
+  "name": "Black Taunt",
+  "sub": null,
+  "type": "Event",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys the top X cards of their Life Deck. X = their current anger level + 1. Your opponent shuffles their hand into their Life Deck and draws the same number of cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.9,
+  "header_text": "BLACK TAUNT ) P14.",
+  "stages_text": "1\n7\n0\n,",
+  "error": null
+ }
+}

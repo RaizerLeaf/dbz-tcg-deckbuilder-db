@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P9",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P9_Blue Guard.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P9_Blue Guard.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Blue Guard",
+  "file_name": "Blue Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e82a094b164ad2893b2ba075791a452d8e3671a2"
+ },
+ "vision": {
+  "id": "S04_PRO_P9",
+  "name": "Blue Guard",
+  "sub": null,
+  "type": "?",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "",
+  "conf": "low",
+  "review": "image is a placeholder ('Evolution P9 BLUE GUARD Image N/A'); no card image, text cannot be read",
+  "note": "no card image in the folder",
+  "_src": "S04.jsonl:152"
+ },
+ "ocr": {
+  "agreement": null,
+  "lower_conf": 86.0,
+  "header_text": "",
+  "stages_text": "1",
+  "error": null
+ }
+}

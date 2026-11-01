@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_103",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "103_Black Dash.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/103_Black Dash.jpg",
+  "prefix": null,
+  "number": 103,
+  "card_number": "103",
+  "name_part": "Black Dash",
+  "file_name": "Black Dash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7523dd542d7e674c7d128296294dabb93d916bff"
+ },
+ "vision": {
+  "id": "S03_BST_103",
+  "name": "Black Dash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +2 stages. Raise your anger 2 levels. HIT: You may search your opponent's Life Deck for an Ally that isn't already in play and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "BLACK DASH Se () a103\n. ¢ _",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_29",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "29_Saiyan Burst.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/29_Saiyan Burst.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Burst",
+  "file_name": "Saiyan Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fd2c41c9a8c4c84d15807fbfa8fa7ca1620efff0"
+ },
+ "vision": {
+  "id": "S08_BST_29",
+  "name": "Saiyan Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Lower your opponent's anger 3 levels.\nDAMAGE: 5 life cards.\nHIT: Choose a Styled card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 89.4,
+  "header_text": "SAIYAN BURST C) C29\n“= 2 | vie | i",
+  "stages_text": "5\n1\n3,",
+  "error": null
+ }
+}

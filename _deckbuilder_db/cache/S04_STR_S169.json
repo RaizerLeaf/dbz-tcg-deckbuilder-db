@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S169",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S169_Saiyan Pinpoint Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S169_Saiyan Pinpoint Blast.png",
+  "prefix": "S",
+  "number": 169,
+  "card_number": "S169",
+  "name_part": "Saiyan Pinpoint Blast",
+  "file_name": "Saiyan Pinpoint Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "56f9a64b035d26f28de00f439b9db8fa376cacb0"
+ },
+ "vision": {
+  "id": "S04_STR_S169",
+  "name": "Saiyan Pinpoint Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S169",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may use a critical damage effect.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C56",
+  "_src": "S04.jsonl:322"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 78.0,
+  "header_text": "SS ee ee\nSAIYAN PINPOINT BLAST @® si09\nEe EE\ne — —",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

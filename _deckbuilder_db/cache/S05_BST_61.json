@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_61",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "61_Master Roshi - Expectant.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/61_Master Roshi - Expectant.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Master Roshi - Expectant",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Expectant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "51ff54dbd99951ed4cd7fb4ef694fe354dd96e07"
+ },
+ "vision": {
+  "id": "S05_BST_61",
+  "name": "Master Roshi",
+  "sub": "Expectant",
+  "type": "Main Personality",
+  "num": "U61",
+  "lvl": 1,
+  "stages": [
+   139,
+   129,
+   119,
+   109,
+   99,
+   89,
+   79,
+   69,
+   59,
+   49,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: After your Life Deck is shuffled, you may Rejuvenate 1.\n[Defense] POWER: Choose a Setup or Drill in your hand and place it into play to prevent all damage from an attack. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads HERO",
+  "_src": "S05.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.4,
+  "header_text": "‘L MASTER ROSHI U61\nLEVEL EXPECTANT",
+  "stages_text": "139\n\n129\n\n119\n\n109\n\n99\n89\n79\n69\n\n59\n\n49\n0",
+  "error": null
+ }
+}

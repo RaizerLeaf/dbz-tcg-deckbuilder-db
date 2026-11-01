@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_136",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "136_Red Powerful Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/136_Red Powerful Strike.png",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Red Powerful Strike",
+  "file_name": "Red Powerful Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3afe7dd1012e8299511b9197ecb901ba6e5c86a6"
+ },
+ "vision": {
+  "id": "S05_BST_136",
+  "name": "Red Powerful Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you have performed an attack from your discard pile this combat, raise your anger 2 levels.\nDAMAGE: 4 stages.\nHIT: If your MP is a Hero, your next Styled attack this combat gains \"Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "RED POWERFUL STRIKE >) R136\nen? wae’. \\\\ sf)",
+  "stages_text": "2\n,\n37\n2,",
+  "error": null
+ }
+}

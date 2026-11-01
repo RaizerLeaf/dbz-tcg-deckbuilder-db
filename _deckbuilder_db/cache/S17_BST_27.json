@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_27",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "27_Saiyan Desperate Rush.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/27_Saiyan Desperate Rush.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Saiyan Desperate Rush",
+  "file_name": "Saiyan Desperate Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f0ee6bb90592706e33d3c7070df89d0e6d1e9829"
+ },
+ "vision": {
+  "id": "S17_BST_27",
+  "name": "Saiyan Desperate Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nYou are considered to have no cards in your hand for your effects until the end of your next action this combat.\nDAMAGE: 5 stages.\nHIT: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 91.0,
+  "header_text": "SAIYAN DESPERATE RUSH €) U27\nSaas )h=h—hCC(i—tC~—  hUlUhUlUlhh lr",
+  "stages_text": "9\n4\n\n1\n21",
+  "error": null
+ }
+}

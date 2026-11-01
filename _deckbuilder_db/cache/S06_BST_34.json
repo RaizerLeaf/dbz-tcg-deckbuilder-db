@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_34",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "34_Orange Welcoming Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/34_Orange Welcoming Drill.jpg",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Orange Welcoming Drill",
+  "file_name": "Orange Welcoming Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "4c38a905167578eb9914eb2f6a6188a5fc45f582"
+ },
+ "vision": {
+  "id": "S06_BST_34",
+  "name": "Orange Welcoming Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: If you can declare combat, you must do so. Your attacks deal +1 stage of damage. Whenever an opponent's Setup or Drill enters play, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "ORANGE WELCOMING DRILL a) C34 |",
+  "stages_text": null,
+  "error": null
+ }
+}

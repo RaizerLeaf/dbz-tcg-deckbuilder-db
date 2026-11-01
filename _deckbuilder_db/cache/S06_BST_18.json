@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_18",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "18_Blue Brush Aside.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/18_Blue Brush Aside.jpg",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Blue Brush Aside",
+  "file_name": "Blue Brush Aside",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "07f52b6a87c98a6c038fe4d7047ddebe919cb776"
+ },
+ "vision": {
+  "id": "S06_BST_18",
+  "name": "Blue Brush Aside",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf you do not control an Ally, search your discard pile for an Ally and play it. If that Ally is in play at the end of combat, banish it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "BLUE BRUSH ASIDE () C18",
+  "stages_text": "347\n7",
+  "error": null
+ }
+}

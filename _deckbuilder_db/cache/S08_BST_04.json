@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_04",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "04_Black Gut Crusher.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/04_Black Gut Crusher.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Gut Crusher",
+  "file_name": "Black Gut Crusher",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "74d8af163b521be5bacdfbd2683650044364d412"
+ },
+ "vision": {
+  "id": "S08_BST_04",
+  "name": "Black Gut Crusher",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, search your Life Deck for a Styled Drill and place it into play.)\n[Attack] Physical attack.\nIf you have destroyed cards from your Life Deck this combat, damage from this attack cannot be prevented or modified.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": "BLACK GUT CRUSHER ) U4 |\n. , y",
+  "stages_text": "37\n,",
+  "error": null
+ }
+}

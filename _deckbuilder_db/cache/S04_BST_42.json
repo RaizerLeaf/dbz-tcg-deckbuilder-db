@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_42",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "42_Red Quick Jab.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/42_Red Quick Jab.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Red Quick Jab",
+  "file_name": "Red Quick Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ac0972924d76b8ad3788cd12499b72d9756c5c67"
+ },
+ "vision": {
+  "id": "S04_BST_42",
+  "name": "Red Quick Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is banished from the top of your discard pile by one of your effects, you may raise your anger 2 levels.)\n[Attack] Physical attack.\nYour opponent cannot lower your anger with [Defense] cards this combat.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "RED QUICK JAB () C42",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

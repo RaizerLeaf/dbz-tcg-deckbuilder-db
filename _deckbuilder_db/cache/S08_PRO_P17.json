@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P17",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P17_Assisted Kamehameha.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P17_Assisted Kamehameha.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Assisted Kamehameha",
+  "file_name": "Assisted Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ee47d72ce733e06ef66f3aa324d624e8ea27937a"
+ },
+ "vision": {
+  "id": "S08_PRO_P17",
+  "name": "Assisted Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf your MP is a Saiyan, this attack cannot be stopped and its damage cannot be prevented.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; FanZ reprint of S07 UR142 with modernised wording ('Saiyan' trait check)",
+  "_src": "S08.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.5,
+  "header_text": "ASSISTED KAMEHAMEHA () P17\nNUNEZ 4 2c JZ AGT HHA",
+  "stages_text": "7\n1,\n,",
+  "error": null
+ }
+}

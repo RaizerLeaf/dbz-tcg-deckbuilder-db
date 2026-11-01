@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_16",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "16_Black Barrier Destruction.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/16_Black Barrier Destruction.jpg",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Black Barrier Destruction",
+  "file_name": "Black Barrier Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c31bcd18f45073aa09b5c9ba67bfb79f0b5bbee1"
+ },
+ "vision": {
+  "id": "S02_BST_16",
+  "name": "Black Barrier Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 3. POWER: Choose 4 Styled cards in your discard pile and Rejuvenate them. Your opponent chooses 4 Styled cards in his discard pile and Rejuvenates them.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "(BLACK BARRIER DESTRUCTION (os\n. a ae",
+  "stages_text": "",
+  "error": null
+ }
+}

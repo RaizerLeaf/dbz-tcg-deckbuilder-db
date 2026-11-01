@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_02",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "02_Black Glare.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/02_Black Glare.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Glare",
+  "file_name": "Black Glare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "757f65149b57be41867112e9a4451243a9dacb2d"
+ },
+ "vision": {
+  "id": "S11_BST_02",
+  "name": "Black Glare",
+  "sub": null,
+  "type": "Event",
+  "num": "U2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\nPOWER: Your opponent plays with their hand revealed until the start of your next turn.\n[Trait:Android]: If you have 2 or less Traits, search your Life Deck for a Styled Setup or Styled Drill and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U2'; inline icon grey with R badge (Android)",
+  "_src": "S11.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 93.8,
+  "header_text": "BLACK GLARE en as\n_ =",
+  "stages_text": "4,\n,",
+  "error": null
+ }
+}

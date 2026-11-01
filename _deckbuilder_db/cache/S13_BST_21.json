@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_21",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "21_Orange Sidestep.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/21_Orange Sidestep.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Orange Sidestep",
+  "file_name": "Orange Sidestep",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "28dbb503a43614a40f6571a34848e5c2616357a4"
+ },
+ "vision": {
+  "id": "S13_BST_21",
+  "name": "Orange Sidestep",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw the bottom card of your discard pile.)\n[Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "ORANGE SIDESTEP C) C21,",
+  "stages_text": "42 4\n4\n,",
+  "error": null
+ }
+}

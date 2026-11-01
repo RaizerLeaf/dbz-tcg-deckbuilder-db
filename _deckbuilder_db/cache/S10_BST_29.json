@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_29",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "29_Red Sword Maneuver.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/29_Red Sword Maneuver.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Red Sword Maneuver",
+  "file_name": "Red Sword Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2ee673a36d8ae0e159dcc0f2f1caa7879c58c439"
+ },
+ "vision": {
+  "id": "S10_BST_29",
+  "name": "Red Sword Maneuver",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 1 stage.\nYou may banish a Drill you control to search your Life Deck for a Styled Drill and place it into play.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C29'",
+  "_src": "S10.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.9,
+  "header_text": "RED SWORD MANEUVER Cas\n— Real mae a",
+  "stages_text": "2\n37,\n,\n24",
+  "error": null
+ }
+}

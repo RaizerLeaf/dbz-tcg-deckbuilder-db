@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_121",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "121_Red Fantasy.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/121_Red Fantasy.jpg",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Red Fantasy",
+  "file_name": "Red Fantasy",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c972bcd015136a36b51040b7b83bc9b654eecd30"
+ },
+ "vision": {
+  "id": "S06_BST_121",
+  "name": "Red Fantasy",
+  "sub": null,
+  "type": "Event",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Your opponent skips his next action this combat. Banish the bottom 5 cards of your discard pile to banish the bottom 5 cards of your opponent's discard pile. If you have drawn a card this combat, you may lower your anger 2 levels. If you do, lower an MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 84.3,
+  "header_text": "RED FANTASY @ rr\n| | RA Ved 5 Gi See,",
+  "stages_text": "6\n5\n,",
+  "error": null
+ }
+}

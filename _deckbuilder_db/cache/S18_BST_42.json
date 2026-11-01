@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_42",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "42_Trunks - Powerful.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/42_Trunks - Powerful.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Trunks - Powerful",
+  "file_name": "Trunks",
+  "file_subtitle": "Powerful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ab471096f78e875764e0f2c516d3065cb48d4d72"
+ },
+ "vision": {
+  "id": "S18_BST_42",
+  "name": "Trunks",
+  "sub": "Powerful",
+  "type": "Main Personality",
+  "num": "S42",
+  "lvl": 2,
+  "stages": [
+   1700000,
+   1500000,
+   960000,
+   525000,
+   222000,
+   87000,
+   50000,
+   25000,
+   14000,
+   7000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use at the start of your turn. Foresee 2.\nPOWER: [Attack] Physical attack.\nFocused. Raise your anger 1.\nDAMAGE: 5 life cards.\nHIT: Search the bottom 5 cards of your Life Deck for a Named card or [Warning] card and place it into your hand. Shuffle the remaining cards into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E, S; black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S18.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.887,
+  "lower_conf": 76.3,
+  "header_text": "@ TRUNKS\nLEVEL POWERFUL () 542\nNe eee",
+  "stages_text": "1,700,000\n1,500,000\n960,000\n525,000\n222,000\n87,000\n50,000\n25,000\n14,000\n7,000\n0",
+  "error": null
+ }
+}

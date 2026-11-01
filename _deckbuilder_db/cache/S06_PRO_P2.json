@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P2",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P2_Orange Precise Shot.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P2_Orange Precise Shot.jpg",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Orange Precise Shot",
+  "file_name": "Orange Precise Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6f55014011ad46e412e8e04e151315802de2b532"
+ },
+ "vision": {
+  "id": "S06_PRO_P2",
+  "name": "Orange Precise Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nDAMAGE: 3 life cards.\nHIT: Search your opponent's Life Deck for a card and discard it. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 C41",
+  "_src": "S06.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 71.9,
+  "header_text": "ORANGE PRECISE SHOT ) P2 |",
+  "stages_text": "4 ,\n4\n,\n2",
+  "error": null
+ }
+}

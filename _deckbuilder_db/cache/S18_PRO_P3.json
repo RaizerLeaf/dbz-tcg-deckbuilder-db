@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P3",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P3_Black Dismissal.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P3_Black Dismissal.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Black Dismissal",
+  "file_name": "Black Dismissal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "10994e6d1e530859a3952355fdd4907969bd271f"
+ },
+ "vision": {
+  "id": "S18_PRO_P3",
+  "name": "Black Dismissal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYour MP gains 4 stages. Raise your anger 1. Lower your opponent's anger 1.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 86.6,
+  "header_text": "BLACK DISMISSAL __ ) P3 |\n——————— Oe TS way",
+  "stages_text": "3\n\n347\n1,\n\n1,",
+  "error": null
+ }
+}

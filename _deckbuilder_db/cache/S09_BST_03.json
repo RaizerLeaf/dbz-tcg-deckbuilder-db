@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_03",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "03_Black Energized Guard.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/03_Black Energized Guard.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Energized Guard",
+  "file_name": "Black Energized Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d210b9f5c9c5ae0583e9ce458ae2b03fdfc5158a"
+ },
+ "vision": {
+  "id": "S09_BST_03",
+  "name": "Black Energized Guard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If you have destroyed or banished cards from a player's Life Deck this combat, you may play this card to stop an energy attack instead.)\n[Defense] Stops a physical attack.\nRaise or lower a player's anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.8,
+  "header_text": "BLACK ENERGIZED GUARD () U3",
+  "stages_text": "3 ,\n\n,\n\n,\n,\n,\n5\n37\n,\n4",
+  "error": null
+ }
+}

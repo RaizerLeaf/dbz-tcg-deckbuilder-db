@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_25",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "25_Namekian Reinforced Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/25_Namekian Reinforced Drill.jpg",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Namekian Reinforced Drill",
+  "file_name": "Namekian Reinforced Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "311f41c79a88e4fd0bbfa7e49864baffe02956b2"
+ },
+ "vision": {
+  "id": "S03_BST_25",
+  "name": "Namekian Reinforced Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is in your discard pile, as an action you may banish three Physical Combat cards from your discard pile to place this card into play.) [Continuous]: Your attacks deal +1 stage of damage. While you control 3 or more Dragon Balls, your attacks deal +2 stages of damage instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "NAMEKIAN REINFORCE®D-DRILL () ces",
+  "stages_text": "",
+  "error": null
+ }
+}

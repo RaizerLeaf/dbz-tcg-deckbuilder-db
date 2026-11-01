@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_92",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "92_Piccolo - Confident.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/92_Piccolo - Confident.png",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Piccolo - Confident",
+  "file_name": "Piccolo",
+  "file_subtitle": "Confident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b7f0661ff445a3d08ce03cd3686444f9ddc91f8f"
+ },
+ "vision": {
+  "id": "S16_BST_92",
+  "name": "Piccolo",
+  "sub": "Confident",
+  "type": "Main Personality",
+  "num": "S92",
+  "lvl": 1,
+  "stages": [
+   450000,
+   375000,
+   300000,
+   150000,
+   90000,
+   75000,
+   40000,
+   15000,
+   9000,
+   5000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your Named attacks cost -1 stage (to a minimum of 0).\n[Instant] POWER: Use when entering combat. Search your Life Deck or Banished Zone for a copy of \"Piccolo's Special Beam Cannon\" and place it into your hand. Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge N (orange)",
+  "_src": "S16.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "PICCOLO",
+  "stages_text": "450,000\n375,000\n300,000\n150,000\n\n5 90,000\n\n75,000\n\n40,000\n\n15,000\n9,000\n\n, 5,000\n0",
+  "error": null
+ }
+}

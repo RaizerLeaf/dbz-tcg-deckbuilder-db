@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_21",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "21_Red Quickness Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/21_Red Quickness Drill.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Quickness Drill",
+  "file_name": "Red Quickness Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "6861643e30d500cf3ab3490dcbafccc65ba21ada"
+ },
+ "vision": {
+  "id": "S11_BST_21",
+  "name": "Red Quickness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled physical attacks deal +1 stage of damage.\n[Instant] POWER: Use when entering combat. Draw a card. Discard a card from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S11.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.9,
+  "header_text": "RED QUICKNESS DRILL () C21\net pe V—",
+  "stages_text": null,
+  "error": null
+ }
+}

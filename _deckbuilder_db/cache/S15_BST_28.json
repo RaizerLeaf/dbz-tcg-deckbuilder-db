@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_28",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "28_Saiyan Punishing Blow.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/28_Saiyan Punishing Blow.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Punishing Blow",
+  "file_name": "Saiyan Punishing Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9429d757ea281414467767aceb502c38d56bdf01"
+ },
+ "vision": {
+  "id": "S15_BST_28",
+  "name": "Saiyan Punishing Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1. If the highest power level on your MP's Level 4 is 500,000 or less, the next attack you perform this combat that does not have AT base damage has its power stage damage doubled.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 88.8,
+  "header_text": "U28\nSAIYAN PUNISHING BLOW C)\n\\ ~~",
+  "stages_text": "4,\n4\n347 2",
+  "error": null
+ }
+}

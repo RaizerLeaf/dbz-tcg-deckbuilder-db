@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_96",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "96_Red Trailing Blast (CRD).png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/96_Red Trailing Blast (CRD).png",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Red Trailing Blast",
+  "file_name": "Red Trailing Blast",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "bac51b96faf834af5bb1dec817f09242da760e3d"
+ },
+ "vision": {
+  "id": "S03_BST_96",
+  "name": "Red Trailing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack costing 1 stage. DAMAGE: 3 Life Cards. Attach to your MP. While attached when your MP changes levels, return this card to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "'Life Cards' capitalised as printed",
+  "_src": "S03.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "(RED TRAILING BLAST (2\n| |",
+  "stages_text": "5\n347",
+  "error": null
+ }
+}

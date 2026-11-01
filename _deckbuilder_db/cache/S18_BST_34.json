@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_34",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "34_Goku Black's Zero Mortal Plan.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/34_Goku Black's Zero Mortal Plan.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Goku Black's Zero Mortal Plan",
+  "file_name": "Goku Black's Zero Mortal Plan",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2bbfe0c38786a23b8c0afe030eb2ba77a320bea7"
+ },
+ "vision": {
+  "id": "S18_BST_34",
+  "name": "Goku Black's Zero Mortal Plan",
+  "sub": null,
+  "type": "Event",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is discarded or destroyed from your Life Deck, destroy a non-[Trait:God] Ally.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent places that card on top of their Life Deck. If your opponent has no cards in their hand, raise or lower a player's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; inline icon zoomed: gold G badge (God); no Endurance badge",
+  "_src": "S18.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 89.0,
+  "header_text": "GOKU BLACK'S ZERO MORTAL PLAN ) R34,\nee",
+  "stages_text": "",
+  "error": null
+ }
+}

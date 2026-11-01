@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P2",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P2_Broly - Vengeful.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P2_Broly - Vengeful.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Broly - Vengeful",
+  "file_name": "Broly",
+  "file_subtitle": "Vengeful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0c69ed7b1638960dba31201a06aedc924df64992"
+ },
+ "vision": {
+  "id": "S12_PRO_P2",
+  "name": "Broly",
+  "sub": "Vengeful",
+  "type": "Main Personality",
+  "num": "P2",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   800000,
+   400000,
+   100000,
+   50000,
+   40000,
+   25000,
+   15000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever you Rejuvenate during combat, gain 2 stages.\nPOWER: Rejuvenate 2. You may reveal 2 attack cards from your hand to search your Life Deck for a Styled Setup or Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge S (green); stats and text compared against S12_BST_49 on the sheet, identical",
+  "_src": "S12.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.3,
+  "header_text": "_ A |\nBROLY\n\\ -_ VENGEFUL Qa ze )\nLEVEL jie SC WK aS ~~\n——— a Vie : a, 8 NN NNO",
+  "stages_text": "1,500,000\n800,000\n400,000\n,100,000\n50,000,\n15,000\n1,000\n7",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_119",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "119_Saiyan Peace.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/119_Saiyan Peace.png",
+  "prefix": null,
+  "number": 119,
+  "card_number": "119",
+  "name_part": "Saiyan Peace",
+  "file_name": "Saiyan Peace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "de9afcd16ba694af6b0aed66f1c6aef3a1e3f921"
+ },
+ "vision": {
+  "id": "S04_BST_119",
+  "name": "Saiyan Peace",
+  "sub": null,
+  "type": "Setup",
+  "num": "R119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Instant] POWER: Use after your opponent advances a personality level. You may set your anger to 0. If you do, lower your opponent's MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "PAR TY |\n(AN",
+  "stages_text": null,
+  "error": null
+ }
+}

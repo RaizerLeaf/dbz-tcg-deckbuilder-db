@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_06",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "06_Black Toxic Blast.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/06_Black Toxic Blast.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Black Toxic Blast",
+  "file_name": "Black Toxic Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f9637051249b568f7c4f03bd232259010df1d174"
+ },
+ "vision": {
+  "id": "S19_BST_06",
+  "name": "Black Toxic Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Black Manipulative Mastery only. If this card is revealed from your hand by a Mastery effect, discard a card at random from your opponent's hand.)\n[Attack] 2: Energy attack.\nRaise or lower a player's anger 2.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "BLACK TOXIC BLAST ) RE",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

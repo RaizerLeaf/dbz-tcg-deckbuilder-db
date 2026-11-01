@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR23",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR23_Hercule - Guarded.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR23_Hercule - Guarded.png",
+  "prefix": "DR",
+  "number": 23,
+  "card_number": "DR23",
+  "name_part": "Hercule - Guarded",
+  "file_name": "Hercule",
+  "file_subtitle": "Guarded",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3867e62d0763823ba02d04911c6d495ea8d83485"
+ },
+ "vision": {
+  "id": "S07_DR_DR23",
+  "name": "Hercule",
+  "sub": "Guarded",
+  "type": "Main Personality",
+  "num": "DR23",
+  "lvl": 3,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(Your opponent cannot use effects that lower your MP 1 or more levels.)\n[Continuous]: Your anger cannot be lowered by critical damage effects. All attacks deal +1 stage of damage. Your damage modifiers are doubled. Your Named cards cannot have their damage modified and gain \"HIT: Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; power stages printed ascending (5..50) then 0, as on PZP",
+  "_src": "S07.jsonl:169"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "HERCULE +a)\nGUARDED - , DR23\nFO FR \\",
+  "stages_text": "10\n1 20\n25\n30\n35\n40\n50",
+  "error": null
+ }
+}

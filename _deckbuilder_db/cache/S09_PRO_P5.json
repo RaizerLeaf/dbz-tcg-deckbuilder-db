@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_PRO_P5",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "09_Set 9 (Legends)/Legends (Promos)",
+  "filename": "P5_I'll Dig Your Grave.png",
+  "rel_path": "09_Set 9 (Legends)/Legends (Promos)/P5_I'll Dig Your Grave.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "I'll Dig Your Grave",
+  "file_name": "I'll Dig Your Grave",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b281e16b10653bb2994f7aaf288f989e38381e9e"
+ },
+ "vision": {
+  "id": "S09_PRO_P5",
+  "name": "I'll Dig Your Grave",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a personality level with this card.)\n[Attack] Physical attack.\nDamage from your attacks cannot be prevented this combat.\nDAMAGE: 6 stages.\nHIT: You may advance your MP 1 level. If you do, advance your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; FanZ reprint of S03 UR141; printed title has no '!' (S03 prints it)",
+  "_src": "S09.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 83.4,
+  "header_text": "I'LL DIG YOUR GRAVE () P5",
+  "stages_text": ",,",
+  "error": null
+ }
+}

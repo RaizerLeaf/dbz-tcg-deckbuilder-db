@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_05",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "05_Black Energy Cutter.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/05_Black Energy Cutter.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Energy Cutter",
+  "file_name": "Black Energy Cutter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5095536c5ef541a6bc5ceaf6413b1ca8c009e3db"
+ },
+ "vision": {
+  "id": "S17_BST_05",
+  "name": "Black Energy Cutter",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\nRaise your anger 1. [Warning]: Search your Banished Zone for up to 3 Styled Setups and place them on the top or bottom of your discard pile in any order.\nDAMAGE: 6 life cards.\nHIT: Rejuvenate 3.\n([Trait:Saiyan]: Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; inline icon zoomed: green S badge (Saiyan)",
+  "_src": "S17.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.915,
+  "lower_conf": 90.1,
+  "header_text": "BLACK ENERGY CUTTER > ) US |",
+  "stages_text": ",",
+  "error": null
+ }
+}

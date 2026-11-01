@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P14",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P14_Blue Overpowering Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P14_Blue Overpowering Drill.jpg",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Blue Overpowering Drill",
+  "file_name": "Blue Overpowering Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "76f681d75c2d7cbfec72beeff7ce34e30ef12789"
+ },
+ "vision": {
+  "id": "S02_PRO_P14",
+  "name": "Blue Overpowering Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. This card is not discarded when advancing a level.) [Continuous]: Whenever you stop an attack, you may raise a player's anger 1 level. Your first copied attack each combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R107; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.8,
+  "header_text": "(BLUE OVERPOWERING DRILL (ns\nLae, WA ~~ # iF LPH ,",
+  "stages_text": ",2\n,\n0",
+  "error": null
+ }
+}

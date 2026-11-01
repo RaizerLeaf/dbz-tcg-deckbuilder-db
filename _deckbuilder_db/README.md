@@ -32,9 +32,10 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 
 ## Status (2026-11-01)
 - Phase 0 done: 3,113 images inventoried.
-- Phase 1 pilot (S01, S14, PZP = 652 images): OCR, vision pass, ingest and derive done.
-  Results and problem cards: `work/pilot/PILOT_REPORT.md`. Waiting for the owner's OK
-  before Phase 2.
+- Phase 1 pilot done and approved (`work/pilot/PILOT_REPORT.md`).
+- Phase 2 done: all 3,106 playable images read, ingested and derived. Draft `cards.json` /
+  `cards.csv` in this folder; report in `work/full/PHASE2_REPORT.md` (28 cards need review).
+- Next: Phase 3 (errata/rulings from the CRD PDFs), Phase 4 (MP index), Phase 5 (verification).
 
 ## Layout findings
 - PanZ Personalities print `ALLY` on the right edge for Allies and `HERO`/`VILLAIN` for MPs;

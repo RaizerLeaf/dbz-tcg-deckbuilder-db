@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR19",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR19_Gohan - Undeniable.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR19_Gohan - Undeniable.png",
+  "prefix": "DR",
+  "number": 19,
+  "card_number": "DR19",
+  "name_part": "Gohan - Undeniable",
+  "file_name": "Gohan",
+  "file_subtitle": "Undeniable",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0aa95a646fd90e75a3b7865e1c6c2392a48ee04a"
+ },
+ "vision": {
+  "id": "S07_DR_DR19",
+  "name": "Gohan",
+  "sub": "Undeniable",
+  "type": "Main Personality",
+  "num": "DR19",
+  "lvl": 4,
+  "stages": [
+   2800000,
+   2000000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks are considered Styled. Your physical attacks can only be stopped by Physical Combat cards. Your energy attacks can only be stopped by Energy Combat cards.\nPOWER: The next attack you perform this combat has its power stage cost reduced to 0 and its damage cannot be prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; 8th stage printed '50,000,' with a stray trailing comma; same as PZP P62",
+  "_src": "S07.jsonl:165"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "ya GOHAN\nfeta UNDENIABLE —\nraat N if H \\ WY f tty, if # [4 : ~~ Fr mf rf Ur Or Or!",
+  "stages_text": "2,800,000\n2,000,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000,\n25,000\n\n0",
+  "error": null
+ }
+}

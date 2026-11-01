@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_73",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "73_Goten - Super Saiyan.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/73_Goten - Super Saiyan.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Goten - Super Saiyan",
+  "file_name": "Goten",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c1683422dfcdbbd5a316e4fc28084b22c04a5341"
+ },
+ "vision": {
+  "id": "S10_BST_73",
+  "name": "Goten",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "S73",
+  "lvl": 4,
+  "stages": [
+   1150000,
+   1000000,
+   700000,
+   400000,
+   200000,
+   70000,
+   30000,
+   15000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(After you advance to this level, search your Life Deck, discard pile, and Banished Zone for a total of up to 2 Drills and play them.)\n[Continuous]: Your attacks deal +2 stages of damage and your opponent's attacks deal -2 stages of damage.\nPOWER: [Attack] Physical attack.\nYou may destroy a Drill you control. If you do, this attack deals +2 stages of damage for each Drill you control.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E + S",
+  "_src": "S10.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 80.9,
+  "header_text": "ZL. GOTEN\nLEVEL SUPER SAIYAN () 8/73\nBE QE  -U Uy ll",
+  "stages_text": "1,150,000\n1,000,000\n700,000\n400,000\n200,000\n70,000\n30,000\n15,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

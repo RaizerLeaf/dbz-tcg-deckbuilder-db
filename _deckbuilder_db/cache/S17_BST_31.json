@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_31",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "31_Devious Schemes.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/31_Devious Schemes.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Devious Schemes",
+  "file_name": "Devious Schemes",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "acc8d09d0a54510dc576ad72fce7a3e20d253951"
+ },
+ "vision": {
+  "id": "S17_BST_31",
+  "name": "Devious Schemes",
+  "sub": null,
+  "type": "Setup",
+  "num": "UR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. You may only use 1 \"Devious Schemes\" per turn.)\n[Instant] POWER: Use when entering combat. Place a Setup, Drill, or Ally in play on top of its owner's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; number area reads 'PREVIEW UR31'; no Endurance badge",
+  "_src": "S17.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "DEVIOUS SCHEMES Oa",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_54",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "54_Chilled - Pissed.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/54_Chilled - Pissed.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Chilled - Pissed",
+  "file_name": "Chilled",
+  "file_subtitle": "Pissed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9f2c1b6621acf15920a4e6f4d0a4d554fdd464f9"
+ },
+ "vision": {
+  "id": "S09_BST_54",
+  "name": "Chilled",
+  "sub": "Pissed",
+  "type": "Main Personality",
+  "num": "S54",
+  "lvl": 3,
+  "stages": [
+   600000,
+   480000,
+   460000,
+   350000,
+   200000,
+   150000,
+   125000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal their life card damage as stages of damage instead. Your attacks that deal 5 or more stages of damage are considered to deal critical damage. Whenever you deal critical damage, you may raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nDAMAGE: 6 stages.\nHIT: Raise your anger 1 level. Rejuvenate 2. Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.871,
+  "lower_conf": 81.0,
+  "header_text": "2 CHILLED",
+  "stages_text": "600,000\n480,000\n460,000\n350,000\n200,000\n150,000\n125,000\n50,000\n25,000\n410,000\n0",
+  "error": null
+ }
+}

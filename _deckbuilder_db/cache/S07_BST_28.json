@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_28",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "28_Namekian Wallop.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/28_Namekian Wallop.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Namekian Wallop",
+  "file_name": "Namekian Wallop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db2791c775e8f008c9547a0525b04b08488b6079"
+ },
+ "vision": {
+  "id": "S07_BST_28",
+  "name": "Namekian Wallop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your Life Deck for an Earth Dragon Ball and place it into play under your opponent's control.\nDAMAGE: 5 stages.\nHIT: Whenever you Rejuvenate this combat, destroy the top card of your opponent's Life deck.",
+  "conf": "high",
+  "review": null,
+  "note": "'Life deck' lower-case as printed",
+  "_src": "S07.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "NAMEKIAN WALLOP C) C28\n4 DB \\w RV",
+  "stages_text": "2\n347",
+  "error": null
+ }
+}

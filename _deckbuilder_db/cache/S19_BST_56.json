@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_56",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "56_Future Yajirobe - Survivor.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/56_Future Yajirobe - Survivor.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Future Yajirobe - Survivor",
+  "file_name": "Future Yajirobe",
+  "file_subtitle": "Survivor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6a0b48bb215e31ee4a028e7c71b506443526c496"
+ },
+ "vision": {
+  "id": "S19_BST_56",
+  "name": "Future Yajirobe",
+  "sub": "Survivor",
+  "type": "Ally",
+  "num": "U56",
+  "lvl": 1,
+  "stages": [
+   970,
+   870,
+   770,
+   670,
+   570,
+   470,
+   370,
+   270,
+   170,
+   70,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title gain \"HIT: Lower your opponent's anger 1 and your MP gains 3 stages.\"",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge E (blue)",
+  "_src": "S19.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "1 FUTURE YAJIROBE U56\nLEVEL | SURVIVOR",
+  "stages_text": "970\n\n870\n\n770\n\n670\n570\n470\n\n370\n270\n170\n\n70\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_104",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "104_Black Drain.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/104_Black Drain.jpg",
+  "prefix": null,
+  "number": 104,
+  "card_number": "104",
+  "name_part": "Black Drain",
+  "file_name": "Black Drain",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5066a065f2e8dafe07c751bbffc8d6ff2677e7e8"
+ },
+ "vision": {
+  "id": "S06_BST_104",
+  "name": "Black Drain",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDestroy the top card of your opponent's Life Deck.\nDAMAGE: 4 life cards.\nHIT: Return a Setup or Drill your opponent controls to its owner's hand. If you do, your opponent discards a random card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "BLACK DRAIN | ) R104\na VEN) nN”.",
+  "stages_text": ",",
+  "error": null
+ }
+}

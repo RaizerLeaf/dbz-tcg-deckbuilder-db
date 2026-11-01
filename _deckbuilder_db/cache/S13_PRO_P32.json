@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P32",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P32_Red Despair Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P32_Red Despair Drill.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Red Despair Drill",
+  "file_name": "Red Despair Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3e2452947f109b4b2ffcefad41ac2a77b68276f4"
+ },
+ "vision": {
+  "id": "S13_PRO_P32",
+  "name": "Red Despair Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Continuous]: Your attacks deal +X life cards of damage. X = your current anger level when you perform that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "RED DESPAIR DRILL () P32",
+  "stages_text": null,
+  "error": null
+ }
+}

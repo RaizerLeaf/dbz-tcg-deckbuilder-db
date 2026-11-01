@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_10",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "10_Black Enraged Outburst.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/10_Black Enraged Outburst.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Black Enraged Outburst",
+  "file_name": "Black Enraged Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "56a423153aa60a4a569480befd89a5d6b49a7f8a"
+ },
+ "vision": {
+  "id": "S05_BST_10",
+  "name": "Black Enraged Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf your anger level is 2 or lower, raise your anger 2 levels.\nDAMAGE: 4 life cards.\nHIT: Switch anger levels with your opponent.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "BLACK ENRAGED ouTeurst¢ ) C10\naus i iiwewmvemeer | «",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

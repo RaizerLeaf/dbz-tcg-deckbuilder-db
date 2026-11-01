@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S67",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S67_Blue Arm Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S67_Blue Arm Blast.png",
+  "prefix": "S",
+  "number": 67,
+  "card_number": "S67",
+  "name_part": "Blue Arm Blast",
+  "file_name": "Blue Arm Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "abb3299749c9628d928ec9998cab5907dbde918a"
+ },
+ "vision": {
+  "id": "S04_STR_S67",
+  "name": "Blue Arm Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S67",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical attack instead of as an attack.)\n[Attack] Energy attack costing 2 stages.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S53",
+  "_src": "S04.jsonl:220"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.7,
+  "header_text": "BLUE ARM BLAST\n| 7 | 4 i NH",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_62",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "62_Nail - Combat Ready.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/62_Nail - Combat Ready.jpg",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Nail - Combat Ready",
+  "file_name": "Nail",
+  "file_subtitle": "Combat Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "86c211540cb5a5bf6c8d81f86acb7af727f65e8a"
+ },
+ "vision": {
+  "id": "S02_BST_62",
+  "name": "Nail",
+  "sub": "Combat Ready",
+  "type": "Main Personality",
+  "num": "U62",
+  "lvl": 4,
+  "stages": [
+   150000,
+   145000,
+   140000,
+   135000,
+   130000,
+   125000,
+   120000,
+   115000,
+   110000,
+   105000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your maximum hand size is +1 during the Discard Step. POWER: [Attack] Physical Attack. DAMAGE: 7 stages. HIT: You may use the immediate effects of a Dragon Ball in play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S02.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.9,
+  "header_text": "(4 NAIL ne () use\nLEVEL —",
+  "stages_text": "150,000\n145,000\n140,000\n135,000\n130,000\n125,000\n120,000\n115,000\n110,000\n105,000\n\n0",
+  "error": null
+ }
+}

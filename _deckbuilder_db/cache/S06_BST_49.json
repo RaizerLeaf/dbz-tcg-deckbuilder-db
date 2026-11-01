@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_49",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "49_Red Training Burst.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/49_Red Training Burst.jpg",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Red Training Burst",
+  "file_name": "Red Training Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "90439f982b299e9c66f4e7ddc514967cf2153160"
+ },
+ "vision": {
+  "id": "S06_BST_49",
+  "name": "Red Training Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRearrange the top 5 cards of your discard pile.\nDAMAGE: 4 life cards.\nHIT: Your opponent skips his next action this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.0,
+  "header_text": "RED TRAINING BURST () C49\na wx 3 Y° \\ . gitar 2",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_57",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "57_Saiyan Sword Dodge.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/57_Saiyan Sword Dodge.jpg",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Sword Dodge",
+  "file_name": "Saiyan Sword Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0d0f5fbbb69119e604fe89a851b9dbaf12983451"
+ },
+ "vision": {
+  "id": "S06_BST_57",
+  "name": "Saiyan Sword Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYou may discard a card without \"Sword\" in the title from your hand. If you do, search your Life Deck for an attack card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "SAIYAN SWORD DODGE @ 0:7\nl/l SS Oe",
+  "stages_text": "347\n,\n,",
+  "error": null
+ }
+}

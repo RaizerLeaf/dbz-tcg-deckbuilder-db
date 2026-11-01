@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S37",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S37_Blue Mental Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S37_Blue Mental Drill.png",
+  "prefix": "S",
+  "number": 37,
+  "card_number": "S37",
+  "name_part": "Blue Mental Drill",
+  "file_name": "Blue Mental Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "a95f539373be35e97adfda2b2fce6eb15494813c"
+ },
+ "vision": {
+  "id": "S07_STR_S37",
+  "name": "Blue Mental Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your opponent plays with his or her hand revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S38; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:220"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 62.2,
+  "header_text": "BLUE MENTAL DRILL © $37 |",
+  "stages_text": null,
+  "error": null
+ }
+}

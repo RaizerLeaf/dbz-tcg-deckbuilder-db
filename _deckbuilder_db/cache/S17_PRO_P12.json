@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P12",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P12_Black Shoulder Charge.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P12_Black Shoulder Charge.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Black Shoulder Charge",
+  "file_name": "Black Shoulder Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9367ef6b7d9e37283385cd867b6f0d666cc29686"
+ },
+ "vision": {
+  "id": "S17_PRO_P12",
+  "name": "Black Shoulder Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is destroyed from your Life Deck by one of your effects, you may use a critical damage effect.)\n[Attack] Physical attack.\nPlace a card from each player's discard pile on top of its owner's Life Deck. Lower your opponent's anger 1.\nDAMAGE: 3 stages.\nHIT: Choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 90.8,
+  "header_text": "BLACK SHOULDER CHARGE ) P12)\ney at ea A, WU! ee ee",
+  "stages_text": "5\n\n7\n7\n\n54 ,\n\n7\n\n,\n\n,\n\n2274",
+  "error": null
+ }
+}

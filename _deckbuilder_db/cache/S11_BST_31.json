@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_31",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "31_Deflection Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/31_Deflection Drill.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Deflection Drill",
+  "file_name": "Deflection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "d1ddbd620e5bff5d190661d2d3d6771c4643b50a"
+ },
+ "vision": {
+  "id": "S11_BST_31",
+  "name": "Deflection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Deflection Drill\" in play. As an action, you may banish this card from your hand to gain 5 stages.)\n[Instant] POWER: Use when an opponent's card effect would destroy or banish cards from the top of your Life Deck. Destroy that many cards from the top of your opponent's Life Deck instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey frame; number area reads 'PREVIEW R31'",
+  "_src": "S11.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "DEFLECTION DRILL On)",
+  "stages_text": null,
+  "error": null
+ }
+}

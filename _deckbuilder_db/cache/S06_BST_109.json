@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_109",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "109_Blue Return Fire.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/109_Blue Return Fire.jpg",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Blue Return Fire",
+  "file_name": "Blue Return Fire",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1763877e18a5200bc44ea1eeb86e8a1efa808dce"
+ },
+ "vision": {
+  "id": "S06_BST_109",
+  "name": "Blue Return Fire",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise a player's anger 2 levels. If your opponent advanced a personality level with this card, damage from your attacks cannot be prevented this turn.\nDAMAGE: 5 life cards.\nHIT: Whenever one of your effects causes your opponent to gain anger this combat, you may raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "BLUE RETURN FIRE : ) R109 |\naT aa <\\.",
+  "stages_text": ", ,\n,\n, ,\n,",
+  "error": null
+ }
+}

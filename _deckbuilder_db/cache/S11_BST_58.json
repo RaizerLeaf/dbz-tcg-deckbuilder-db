@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_58",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "58_Buu - Steaming.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/58_Buu - Steaming.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Buu - Steaming",
+  "file_name": "Buu",
+  "file_subtitle": "Steaming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9c755e95dde230e026e171069db2b5b0a5a2b621"
+ },
+ "vision": {
+  "id": "S11_BST_58",
+  "name": "Buu",
+  "sub": "Steaming",
+  "type": "Main Personality",
+  "num": "S58",
+  "lvl": 4,
+  "stages": [
+   5000000,
+   4000000,
+   3000000,
+   2000000,
+   1000000,
+   700000,
+   500000,
+   300000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Prevent all damage from your opponent's first attack each combat.\n[Instant] POWER: Use after performing a successful attack. It gains \"HIT: Search your Life Deck, discard pile, or Banished Zone for a Named Setup and place it into play or use its Power.\"\nPOWER: [Attack] Physical attack.\nDAMAGE: 8 stages.\nHIT: Banish all Named Setups you own in play. Rejuvenate 5 for each card banished this way.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.894,
+  "lower_conf": 75.2,
+  "header_text": "41 Buu\nLEVEL STEAMING () 598",
+  "stages_text": "5,000,000\n4,000,000\n3,000,000\n2,000,000\n\n1,000,000\n\n700,000\n\n500,000\n\n300,000\n100,000\n50,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_109",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "109_Namekian Growth.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/109_Namekian Growth.jpg",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Namekian Growth",
+  "file_name": "Namekian Growth",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ebd1dea74ffb6398d209a7b30a857e63f2f2b64a"
+ },
+ "vision": {
+  "id": "S03_BST_109",
+  "name": "Namekian Growth",
+  "sub": null,
+  "type": "Setup",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: You may play a Dragon Ball from your hand or Rejuvenate 4. If your MP is level 3 or higher, you may instead search your Life Deck for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "(NAMEKIAN GROWTH: () m108",
+  "stages_text": "3\n1 1 ,\n,\n4\n\n,\n\n,\n\n,",
+  "error": null
+ }
+}

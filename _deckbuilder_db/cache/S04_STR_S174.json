@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S174",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S174_Saiyan Spin Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S174_Saiyan Spin Kick.png",
+  "prefix": "S",
+  "number": 174,
+  "card_number": "S174",
+  "name_part": "Saiyan Spin Kick",
+  "file_name": "Saiyan Spin Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "92211080e7ffb804eb1a859d4844845624e9b904"
+ },
+ "vision": {
+  "id": "S04_STR_S174",
+  "name": "Saiyan Spin Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S174",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level. Lower your opponent's anger 1 level. Destroy an Ally.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 U95",
+  "_src": "S04.jsonl:327"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 79.8,
+  "header_text": "SAIYAN SPIN KICK (sim\ny oO A FY — an",
+  "stages_text": ", 7\n,",
+  "error": null
+ }
+}

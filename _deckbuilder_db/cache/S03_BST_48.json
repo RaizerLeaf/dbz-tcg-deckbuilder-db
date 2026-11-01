@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_48",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "48_Red Right Punch.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/48_Red Right Punch.jpg",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Red Right Punch",
+  "file_name": "Red Right Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "30624699c5f194ce64533aa0e17381e0d118489a"
+ },
+ "vision": {
+  "id": "S03_BST_48",
+  "name": "Red Right Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT stages. Search your Life Deck for X Drills and place them into play. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "(RED RIGHT PUNCH (<=",
+  "stages_text": "8",
+  "error": null
+ }
+}

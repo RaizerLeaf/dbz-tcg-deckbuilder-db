@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_31",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "31_Namekian Heel Kick.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/31_Namekian Heel Kick.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Namekian Heel Kick",
+  "file_name": "Namekian Heel Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c9d0a84420973e7f7ea40f1405446f6227d6aa0d"
+ },
+ "vision": {
+  "id": "S05_BST_31",
+  "name": "Namekian Heel Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nGain 5 stages.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 60.0,
+  "header_text": "NAMEKIAN HEEL KICK ) 631 |",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

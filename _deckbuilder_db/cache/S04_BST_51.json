@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_51",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "51_Saiyan Discovery.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/51_Saiyan Discovery.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Saiyan Discovery",
+  "file_name": "Saiyan Discovery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "6237facae1157ba84f2862a7eb62d69d43a4e451"
+ },
+ "vision": {
+  "id": "S04_BST_51",
+  "name": "Saiyan Discovery",
+  "sub": null,
+  "type": "Event",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(You may have only one \"Saiyan Discovery\" attached.)\nPOWER: Destroy a Setup or Drill. Attach to your MP. While attached, your MP is considered to have a higher power level than the defending personality for your card effects.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 89.3,
+  "header_text": "SAIYAN DISCOVERY C) C51",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

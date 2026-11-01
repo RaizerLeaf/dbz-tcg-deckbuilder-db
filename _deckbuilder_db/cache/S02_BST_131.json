@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_131",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "131_Isolation.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/131_Isolation.jpg",
+  "prefix": null,
+  "number": 131,
+  "card_number": "131",
+  "name_part": "Isolation",
+  "file_name": "Isolation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b10ffaa27d49b7b909156c52da25bb146e370d82"
+ },
+ "vision": {
+  "id": "S02_BST_131",
+  "name": "Isolation",
+  "sub": null,
+  "type": "Setup",
+  "num": "R131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Instant] POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; 'redirect' (not 'redirected') as printed",
+  "_src": "S02.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.5,
+  "header_text": "(OR ei\nISOLATION cedntne () A131",
+  "stages_text": "4",
+  "error": null
+ }
+}

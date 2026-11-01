@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_95",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "95_Dabura - Second in Command.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/95_Dabura - Second in Command.png",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Dabura - Second in Command",
+  "file_name": "Dabura",
+  "file_subtitle": "Second in Command",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "41ca62c685f005e1bd95016bebfd2bdaf78cb00b"
+ },
+ "vision": {
+  "id": "S10_BST_95",
+  "name": "Dabura",
+  "sub": "Second in Command",
+  "type": "Main Personality",
+  "num": "S95",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   666000,
+   300000,
+   100000,
+   95000,
+   55000,
+   36000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage and +1 life card of damage.\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: 5 stages.\nHIT: Search your discard pile for a Styled or Named card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink) = Majin",
+  "_src": "S10.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.7,
+  "header_text": "— DABURA\nLEVEL SECOND IN COMMAND () S95\nLL. EEE ~<a,",
+  "stages_text": "1,500,000\n1,000,000\n666,000\n300,000\n100,000\n95,000\n55,000\n36,000\n10,000\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_129",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "129_Saiyan Face Off.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/129_Saiyan Face Off.png",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Saiyan Face Off",
+  "file_name": "Saiyan Face Off",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b19c9daaf2213bb96e9a2989635ff55b4b98d9e3"
+ },
+ "vision": {
+  "id": "S07_BST_129",
+  "name": "Saiyan Face Off",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf this is the first card you have played this combat, look at your opponent's hand and choose a card. Your opponent discards that card. Your opponent looks at your hand and chooses a card. Discard that card.\nDAMAGE: AT +3 stages.\nHIT: Effects that end combat cannot be used this turn.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "SAIYAN FACE OFF @® ri29\n-.”.~—t—<‘C~;72SPf l!)!)!ltt”t”tll ee !!ttCtC",
+  "stages_text": "37\n1\n,",
+  "error": null
+ }
+}

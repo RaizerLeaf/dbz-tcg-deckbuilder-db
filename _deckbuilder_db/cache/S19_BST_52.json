@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_52",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "52_Trunks' Final Hope Slash.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/52_Trunks' Final Hope Slash.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Trunks' Final Hope Slash",
+  "file_name": "Trunks' Final Hope Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ba05b7da27d3af28b92845431eda9239ec7da8ce"
+ },
+ "vision": {
+  "id": "S19_BST_52",
+  "name": "Trunks' Final Hope Slash",
+  "sub": null,
+  "type": "Event",
+  "num": "R52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered to have \"Sword\" in the title. You may only have one \"Trunks' Final Hope Slash\" attached.)\nPOWER: Foresee 3. Draw a card. Attach to your MP. While attached, whenever you Foresee any number of cards, place that many counters on this card. While attached, you may banish this card as an action to perform a physical attack dealing X life cards. X = the number of counters on this card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S19.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.3,
+  "header_text": "TRUNKS' FINAL HOPE SLASH é\nne 78 |",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

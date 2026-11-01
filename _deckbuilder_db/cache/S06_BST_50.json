@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_50",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "50_Red Wallop.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/50_Red Wallop.jpg",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Red Wallop",
+  "file_name": "Red Wallop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "418f5142623ad6c7cae180bef57ae0f516ee6e15"
+ },
+ "vision": {
+  "id": "S06_BST_50",
+  "name": "Red Wallop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may lower your anger by any amount. Your opponent's MP loses X stages. X = the amount of anger you lowered.\nDAMAGE: AT +3 stages.\nHIT: Banish 3 cards from a player's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "RED WALLOP () C50\noe oF Rn) =k",
+  "stages_text": "347\n,",
+  "error": null
+ }
+}

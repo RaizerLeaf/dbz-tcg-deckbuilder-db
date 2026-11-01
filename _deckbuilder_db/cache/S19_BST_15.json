@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_15",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "15_Namekian Multiform Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/15_Namekian Multiform Drill.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Multiform Drill",
+  "file_name": "Namekian Multiform Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3c772ba07f5519622fe32a8cf7ec837dd7e04b8d"
+ },
+ "vision": {
+  "id": "S19_BST_15",
+  "name": "Namekian Multiform Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Namekian Refined Mastery only.)\n[Instant] POWER: Use after performing a successful Styled attack. That attack gains: \"HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and destroy them.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; deck restriction names a specific Mastery",
+  "_src": "S19.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 78.8,
+  "header_text": "IAMEKIAN MULTIFORM DRILL () R15",
+  "stages_text": null,
+  "error": null
+ }
+}

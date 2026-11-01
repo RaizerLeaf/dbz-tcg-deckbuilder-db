@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S96",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S96_Namekian Regeneration.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S96_Namekian Regeneration.png",
+  "prefix": "S",
+  "number": 96,
+  "card_number": "S96",
+  "name_part": "Namekian Regeneration",
+  "file_name": "Namekian Regeneration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bf61483ea7e61e40367e7557835cdc247aa1f713"
+ },
+ "vision": {
+  "id": "S04_STR_S96",
+  "name": "Namekian Regeneration",
+  "sub": null,
+  "type": "Event",
+  "num": "S96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Rejuvenate the top or bottom 4 cards of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S106",
+  "_src": "S04.jsonl:249"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.5,
+  "header_text": "NAMEKIAN REGENERATION ©€© ») S96\nYi Se",
+  "stages_text": ",\n,\n4",
+  "error": null
+ }
+}

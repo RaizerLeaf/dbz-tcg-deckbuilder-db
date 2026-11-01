@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_70",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "70_Fused Zamasu - Clear Purpose.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/70_Fused Zamasu - Clear Purpose.png",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Fused Zamasu - Clear Purpose",
+  "file_name": "Fused Zamasu",
+  "file_subtitle": "Clear Purpose",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "951697dfe1778ba9fa76887986eebf5e639a4bc0"
+ },
+ "vision": {
+  "id": "S19_BST_70",
+  "name": "Fused Zamasu",
+  "sub": "Clear Purpose",
+  "type": "Main Personality",
+  "num": "S70",
+  "lvl": 2,
+  "stages": [
+   175000000,
+   69000000,
+   7500000,
+   1405000,
+   1070000,
+   786000,
+   393000,
+   128000,
+   64000,
+   32000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God",
+   "Fusion"
+  ],
+  "text": "(When you reach this level, use a critical damage effect.)\n[Continuous]: Your attacks deal +1 life card.\nPOWER: [Attack] 2: Energy attack.\nIf stopped, search your Life Deck for a card with [Trait:God] in the parenthetical text or text-box and place it into your hand.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G, F; stage cost printed as '2:'",
+  "_src": "S19.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 78.4,
+  "header_text": "@ | FUSED ZAMASU S70\nLEVEL | CLEAR PURPOSE",
+  "stages_text": "175,000,000\n69,000,000\n7,500,000\n1,405,000\n1,070,000\n786,000\n393,000\n128,000\n64,000\n32,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P23",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P23_Blue Overpowering Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P23_Blue Overpowering Drill.png",
+  "prefix": "P",
+  "number": 23,
+  "card_number": "P23",
+  "name_part": "Blue Overpowering Drill",
+  "file_name": "Blue Overpowering Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b3cd14aaa1baa263cae7f59d02f033e59efde4a9"
+ },
+ "vision": {
+  "id": "S13_PRO_P23",
+  "name": "Blue Overpowering Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. This card is not discarded when advancing a level.)\n[Continuous]: Whenever you stop an attack, you may raise a player's anger 1 level. Your first copied attack each combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "3LUE OVERPOWERING DRILL ©) P23",
+  "stages_text": null,
+  "error": null
+ }
+}

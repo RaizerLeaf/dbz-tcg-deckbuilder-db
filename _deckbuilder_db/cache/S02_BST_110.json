@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_110",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "110_Blue Back Break.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/110_Blue Back Break.jpg",
+  "prefix": null,
+  "number": 110,
+  "card_number": "110",
+  "name_part": "Blue Back Break",
+  "file_name": "Blue Back Break",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1b78073010a54829a01590c4df1a6418a6d5982c"
+ },
+ "vision": {
+  "id": "S02_BST_110",
+  "name": "Blue Back Break",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 5 stages. Raise your anger 1 level. You may shuffle an Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "| BLUE BACK BREAK... () A110\n. \\ ANS a7 NG. Ne ek -",
+  "stages_text": "2\n2\n2",
+  "error": null
+ }
+}

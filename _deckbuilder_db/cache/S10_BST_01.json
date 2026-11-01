@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_01",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "01_Black Mischievous Mastery.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/01_Black Mischievous Mastery.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Mischievous Mastery",
+  "file_name": "Black Mischievous Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "170b9c3af3c2d15e5aa48e9c96b17a359f753371"
+ },
+ "vision": {
+  "id": "S10_BST_01",
+  "name": "Black Mischievous Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent draws 1 or more cards during combat, destroy the top card of your opponent's Life Deck and you may raise a player's anger 1 level.\nPOWER: Banish the top card of your opponent's discard pile. Discard a card at random from your opponent's hand. Your opponent's next attack this combat gains \"Draw a card.\"",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip sits below the art (read from a crop of the original); DR (alternate-art tier) number printed",
+  "_src": "S10.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "4 a ae Yo a ;\n\\S\\ ah e\n\\) : dA j\n¢ »Y <<) pL7h A",
+  "stages_text": ",\n\n,\n1\n1\n, 0\n,",
+  "error": null
+ }
+}

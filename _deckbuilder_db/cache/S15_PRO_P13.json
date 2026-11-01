@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P13",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P13_Blue Resourceful Mastery.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P13_Blue Resourceful Mastery.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Blue Resourceful Mastery",
+  "file_name": "Blue Resourceful Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68fe4ee34c54ae96e06e8ef88af6328d1542f135"
+ },
+ "vision": {
+  "id": "S15_PRO_P13",
+  "name": "Blue Resourceful Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 stage. Your Styled attacks without \"anger\" printed in the text-box gain \"HIT: Raise or lower your opponent's anger 1.\"\n[Instant] POWER: Use when your opponent's MP changes levels from one of your cards or effects. Draw a card.\nPOWER: Discard a Styled card from your hand to perform a non-Styled physical attack dealing 3 stages of damage. If you discarded a Setup or Drill that can perform an attack, you may place it into play instead.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; P number printed; title read from a crop of the original",
+  "_src": "S15.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.7,
+  "header_text": "ft °\n, ihe alte",
+  "stages_text": "74\n3\n1,\n,,\n\n,",
+  "error": null
+ }
+}

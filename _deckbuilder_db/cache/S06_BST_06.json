@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_06",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "06_Black Fist Catch.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/06_Black Fist Catch.jpg",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Black Fist Catch",
+  "file_name": "Black Fist Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "20e3301c77ef3a786a0e7d4164fb752baf8805a3"
+ },
+ "vision": {
+  "id": "S06_BST_06",
+  "name": "Black Fist Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nChoose 3 cards in your opponent's discard pile. Your opponent Rejuvenates those cards. Your opponent chooses 3 cards in your discard pile. Rejuvenate those cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "BLACK FIST CATCH ) ce\nin \\a of \\\\ & aN oom",
+  "stages_text": "2",
+  "error": null
+ }
+}

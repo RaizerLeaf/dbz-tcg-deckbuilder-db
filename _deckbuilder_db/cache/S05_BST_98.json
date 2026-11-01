@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_98",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "98_Saiyan Back Crash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/98_Saiyan Back Crash.png",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Saiyan Back Crash",
+  "file_name": "Saiyan Back Crash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3649a32508798d7531a14cd3561967b5eda50d6c"
+ },
+ "vision": {
+  "id": "S05_BST_98",
+  "name": "Saiyan Back Crash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(If this card is Rejuvenated during combat, you may banish it instead to use a critical damage effect.)\n[Attack] Physical attack.\nYou may discard a card from your hand to use a critical damage effect.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 76.0,
+  "header_text": "SAIYAN BACK CRASH €) U98\nne” et aw AG y Aes,",
+  "stages_text": "2\n4\n7\n1\n,",
+  "error": null
+ }
+}

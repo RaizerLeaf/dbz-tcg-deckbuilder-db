@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P20",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P20_Black Chopping Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P20_Black Chopping Drill.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Black Chopping Drill",
+  "file_name": "Black Chopping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "98a8588f7939dd93beea273ccd27184b362ca6aa"
+ },
+ "vision": {
+  "id": "S13_PRO_P20",
+  "name": "Black Chopping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage and +1 life card of damage. Whenever your opponent performs an attack, banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "BLACK CHOPPING DRILL @ P20)",
+  "stages_text": null,
+  "error": null
+ }
+}

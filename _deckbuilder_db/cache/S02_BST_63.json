@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_63",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "63_Nappa - Overconfident.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/63_Nappa - Overconfident.jpg",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Nappa - Overconfident",
+  "file_name": "Nappa",
+  "file_subtitle": "Overconfident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ea4845e3bb36f361ca9418e0c25f059c233cf348"
+ },
+ "vision": {
+  "id": "S02_BST_63",
+  "name": "Nappa",
+  "sub": "Overconfident",
+  "type": "Main Personality",
+  "num": "U63",
+  "lvl": 3,
+  "stages": [
+   14000,
+   13000,
+   12000,
+   11000,
+   10000,
+   9000,
+   8000,
+   7000,
+   6000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: 7 stages. HIT: Banish a Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.6,
+  "header_text": "(3 NAPPA Oe\nLEVEL —\n, A .",
+  "stages_text": "14,000\n13,000\n12,000\n11,000\n10,000\n9,000\n5 8,000\n7,000\n\n6,000\n\n5,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_39",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "39_Orange Enraed Bash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/39_Orange Enraed Bash.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Orange Enraed Bash",
+  "file_name": "Orange Enraed Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "668c24816092a7f680993e5a106692af49730c56"
+ },
+ "vision": {
+  "id": "S05_BST_39",
+  "name": "Orange Enraged Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may search your discard pile for a Drill and Rejuvenate it.\nDAMAGE: AT +2 stages.\nHIT: You may search your Banished Zone for a Drill a Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "'a Rejuvenate it' as printed; filename typo 'Enraed'",
+  "_src": "S05.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 74.9,
+  "header_text": "ORANGE ENRAGED BASH € ) (39°\nQR ll (a Fa“",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

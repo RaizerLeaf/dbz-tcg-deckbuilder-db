@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_24",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "24_Red Charged Beam.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/24_Red Charged Beam.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Charged Beam",
+  "file_name": "Red Charged Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a879d47a0ffcc6eaaf83c0a80a92d36d698ce0e9"
+ },
+ "vision": {
+  "id": "S17_BST_24",
+  "name": "Red Charged Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Red Relentless Mastery only. If this card is banished from your Life Deck, you may discard a card from your hand to place it into your hand.)\n[Attack] 1: Energy attack.\nUnpreventable.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; stage cost printed as '1:'",
+  "_src": "S17.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 90.6,
+  "header_text": "RED CHARGED BEAM () U24\n» Vy",
+  "stages_text": "7\n2\n\n9\n,",
+  "error": null
+ }
+}

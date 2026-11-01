@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_30",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "30_Saiyan Quick Blasts.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/30_Saiyan Quick Blasts.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Saiyan Quick Blasts",
+  "file_name": "Saiyan Quick Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0651a0aadd075d9b5284ee881d9c5a76165d71d3"
+ },
+ "vision": {
+  "id": "S18_BST_30",
+  "name": "Saiyan Quick Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n[Attack] 2: Energy attack.\nYou are considered to have no cards in your hand for your effects until the end of your next action this combat.\nDAMAGE: 5 life cards.\nHIT: Foresee 3.",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge reads 0; stage cost printed as '2:'",
+  "_src": "S18.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 89.6,
+  "header_text": "SAIYAN QUICK BLASTS C) C30\nQa | aa“",
+  "stages_text": "4",
+  "error": null
+ }
+}

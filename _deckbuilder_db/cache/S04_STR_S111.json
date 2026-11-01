@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S111",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S111_Orange Energy Absorption.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S111_Orange Energy Absorption.png",
+  "prefix": "S",
+  "number": 111,
+  "card_number": "S111",
+  "name_part": "Orange Energy Absorption",
+  "file_name": "Orange Energy Absorption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1ccac120a4df2f6dc6c28b9bc2c93b79659ddbd9"
+ },
+ "vision": {
+  "id": "S04_STR_S111",
+  "name": "Orange Energy Absorption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\nGain 5 stages. Raise your anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C40",
+  "_src": "S04.jsonl:264"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 76.5,
+  "header_text": "ORANGE ENERGY ABSORPTION @ =) S111\nie agit",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

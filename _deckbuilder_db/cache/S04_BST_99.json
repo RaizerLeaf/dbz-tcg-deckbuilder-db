@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_99",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "99_Android 19 - Injured.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/99_Android 19 - Injured.png",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Android 19 - Injured",
+  "file_name": "Android 19",
+  "file_subtitle": "Injured",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "b7639752530289c3e4af264e4a1e8955a7241e76"
+ },
+ "vision": {
+  "id": "S04_BST_99",
+  "name": "Android 19",
+  "sub": "Injured",
+  "type": "Ally",
+  "num": "U99",
+  "lvl": 1,
+  "stages": [
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "(If your MP is Android 20, you may use these powers regardless of your MP's power stage.)\n[Instant] POWER: Use entering combat. Your MP gains 1 stage and your opponent's MP loses 1 stage.\nPOWER: Your opponent's next attack this combat costs +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'VILLAIN ALLY'. 'Use entering combat' (no 'when') as printed; PZP P190 adds 'when'",
+  "_src": "S04.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 0.854,
+  "lower_conf": 76.5,
+  "header_text": "LL ANDROID 19\nLEVEL INJURED () U99\n. f _~>",
+  "stages_text": "90,000\n\n70,000\n50,000\n30,000\n10,000\n7 8,000\n6,000\n1 4,000\n4 2,000\n1,000\n0",
+  "error": null
+ }
+}

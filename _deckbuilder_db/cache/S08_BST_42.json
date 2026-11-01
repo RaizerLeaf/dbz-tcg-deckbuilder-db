@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_42",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "42_Gohan - Strikes Back.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/42_Gohan - Strikes Back.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Gohan - Strikes Back",
+  "file_name": "Gohan",
+  "file_subtitle": "Strikes Back",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6af5ecefd41a6ce58832a33e8ebc322a52330342"
+ },
+ "vision": {
+  "id": "S08_BST_42",
+  "name": "Gohan",
+  "sub": "Strikes Back",
+  "type": "Main Personality",
+  "num": "S42",
+  "lvl": 2,
+  "stages": [
+   1000000,
+   800000,
+   600000,
+   500000,
+   400000,
+   200000,
+   50000,
+   30000,
+   15000,
+   9000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 life card of damage.\nPOWER: [Attack] Physical attack.\nLower your opponent's anger 2 levels. If your opponent has used a non-[Continuous] personality Power this turn, damage from this attack cannot be prevented.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S08.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "GOHAN",
+  "stages_text": "1,000,000\n800,000\n600,000\n500,000\n\n400,000\n\n200,000\n\n50,000\n\n30,000\n15,000\n9,000\n0",
+  "error": null
+ }
+}

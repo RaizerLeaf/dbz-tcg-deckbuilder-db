@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_43",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "43_Red Explosion.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/43_Red Explosion.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Red Explosion",
+  "file_name": "Red Explosion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c7e25fb7a76cfd4aa37b79d4b3e5712d79569d9f"
+ },
+ "vision": {
+  "id": "S07_BST_43",
+  "name": "Red Explosion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYour opponent skips his or her next action this combat. If this attack is stopped, your opponent's MP loses 2 stages.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "RED EXPLOSION () C43\nZz ..”©6U—UC=S",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S144",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S144_Black Overpowering Attack.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S144_Black Overpowering Attack.png",
+  "prefix": "S",
+  "number": 144,
+  "card_number": "S144",
+  "name_part": "Black Overpowering Attack",
+  "file_name": "Black Overpowering Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5fc45fd257282ce3fac47dc9a6932253df186910"
+ },
+ "vision": {
+  "id": "S07_STR_S144",
+  "name": "Black Overpowering Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S144",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +6 stages. You may not perform physical attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_19; text compared on the sheet",
+  "_src": "S07.jsonl:327"
+ },
+ "ocr": {
+  "agreement": 0.765,
+  "lower_conf": 72.4,
+  "header_text": "BLACK OVERPOWERING ATTACK ) $144\nsf nh,",
+  "stages_text": ",",
+  "error": null
+ }
+}

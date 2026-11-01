@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S124",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S124_Orange Refocus.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S124_Orange Refocus.png",
+  "prefix": "S",
+  "number": 124,
+  "card_number": "S124",
+  "name_part": "Orange Refocus",
+  "file_name": "Orange Refocus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d1095af4bfe1ef557bcdb99e21d187b848eb9052"
+ },
+ "vision": {
+  "id": "S04_STR_S124",
+  "name": "Orange Refocus",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nRaise your anger 1 level. You may search your discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C42",
+  "_src": "S04.jsonl:277"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 86.2,
+  "header_text": "ORANGE REFOCUS ES) $124.",
+  "stages_text": "4\n4\n,\n,\n,",
+  "error": null
+ }
+}

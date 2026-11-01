@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_65",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "65_Earth Dragon Ball 5.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/65_Earth Dragon Ball 5.png",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Earth Dragon Ball 5",
+  "file_name": "Earth Dragon Ball 5",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "085aac61dbfd0eda391494196285602046028994"
+ },
+ "vision": {
+  "id": "S07_BST_65",
+  "name": "Earth Dragon Ball 5",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "You may shuffle a Dragon Ball in play into its owner's Life Deck. Your MP gains 3 stages. Banish 3 cards from a discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "EARTH DRAGON BALL 5 U65\nyy wit’ «. io ye",
+  "stages_text": "4 ,\n3",
+  "error": null
+ }
+}

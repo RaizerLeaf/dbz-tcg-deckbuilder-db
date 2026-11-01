@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_22",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "22_Red Counter.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/22_Red Counter.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Counter",
+  "file_name": "Red Counter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1e895bcec8be5736b0634fcda75762b2014cbbea"
+ },
+ "vision": {
+  "id": "S12_BST_22",
+  "name": "Red Counter",
+  "sub": null,
+  "type": "Event",
+  "num": "U22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical attack.\n[Trait:Alien]: If you have only 1 Trait, you may banish a card from your hand to search your discard pile for a Named attack card and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: purple Alien badge",
+  "_src": "S12.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.925,
+  "lower_conf": 89.2,
+  "header_text": "RED COUNTER () U22",
+  "stages_text": "4\n\n3\n4\n,",
+  "error": null
+ }
+}

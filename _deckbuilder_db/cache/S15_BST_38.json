@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_38",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "38_Tapion's Ocarina.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/38_Tapion's Ocarina.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Tapion's Ocarina",
+  "file_name": "Tapion's Ocarina",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "4dc2ea3cf01efb576f8bcf23878edf576b307411"
+ },
+ "vision": {
+  "id": "S15_BST_38",
+  "name": "Tapion's Ocarina",
+  "sub": null,
+  "type": "Setup",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(You may only have one \"Tapion's Ocarina\" attached.)\nPOWER: Attach to your MP. Lower your opponent's anger 2. While attached, once per turn as an action you may use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named",
+  "_src": "S15.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 79.5,
+  "header_text": "TAPION'S OCARINA ae R38 |\nTn a) ee SS",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_07",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "07_Blue Dismissal.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/07_Blue Dismissal.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Dismissal",
+  "file_name": "Blue Dismissal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "573d75467dcccf20a9669ccd38971a78f57621cd"
+ },
+ "vision": {
+  "id": "S15_BST_07",
+  "name": "Blue Dismissal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck, Rejuvenate it.)\n[Defense] Stops a physical attack.\nName a card. Search your opponent's discard pile for a copy of that card and banish it.\n[Trait:Majin]: Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C7'; inline icon zoomed: pink M badge (Majin); no Endurance badge",
+  "_src": "S15.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 90.6,
+  "header_text": "BLUE DISMISSAL",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

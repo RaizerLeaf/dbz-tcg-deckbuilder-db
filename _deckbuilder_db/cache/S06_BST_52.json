@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_52",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "52_Saiyan Assistance.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/52_Saiyan Assistance.jpg",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Saiyan Assistance",
+  "file_name": "Saiyan Assistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0c26fc10c9464e1ae59d6acfefe1dac012d4e9fa"
+ },
+ "vision": {
+  "id": "S06_BST_52",
+  "name": "Saiyan Assistance",
+  "sub": null,
+  "type": "Event",
+  "num": "C52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(After your opponent's MP advances 1 or more levels from a card effect, you may banish this card from your hand to lower your opponent's MP 1 level.)\nPOWER: Lower your opponent's anger X levels. X = your current anger level. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 80.1,
+  "header_text": "SAIYAN ASSISTANCE © 02\naaa eS Oe.",
+  "stages_text": "7\n1\n1,",
+  "error": null
+ }
+}

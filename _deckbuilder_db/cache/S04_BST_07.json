@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_07",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "07_Black Protection.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/07_Black Protection.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Black Protection",
+  "file_name": "Black Protection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "720345328ea70afb48734386d1934483aff34c11"
+ },
+ "vision": {
+  "id": "S04_BST_07",
+  "name": "Black Protection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, you may draw a card.)\n[Defense] Stops an energy attack.\nYou may discard a Styled card from your hand. If you do, this card stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "BLACK PROTECTION () C7\nll oe =. s",
+  "stages_text": "",
+  "error": null
+ }
+}

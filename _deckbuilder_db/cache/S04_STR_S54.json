@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S54",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S54_Black Overhead Burst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S54_Black Overhead Burst.png",
+  "prefix": "S",
+  "number": 54,
+  "card_number": "S54",
+  "name_part": "Black Overhead Burst",
+  "file_name": "Black Overhead Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2d320eca57189f03881d8e457827b64643edfece"
+ },
+ "vision": {
+  "id": "S04_STR_S54",
+  "name": "Black Overhead Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nRaise your anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: You may discard a card from your hand. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 U76",
+  "_src": "S04.jsonl:207"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "non Oe PRY aan\nBLACK OVERHEAD BURST () S54",
+  "stages_text": "3",
+  "error": null
+ }
+}

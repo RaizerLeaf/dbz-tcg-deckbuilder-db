@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P2",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P2_Isolation.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P2_Isolation.jpg",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Isolation",
+  "file_name": "Isolation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d4760963f6b4e5cad9dae45403d9f2fae249423e"
+ },
+ "vision": {
+  "id": "S02_PRO_P2",
+  "name": "Isolation",
+  "sub": null,
+  "type": "Setup",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Instant] POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S02 R131 (same text)",
+  "_src": "S02.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.3,
+  "header_text": "ee\n(ISOLATION cos () pe\nNf RQ 2. ks * YY Bt a",
+  "stages_text": ",\n74\n\n4\n,",
+  "error": null
+ }
+}

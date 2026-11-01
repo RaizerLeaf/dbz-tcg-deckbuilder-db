@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_61",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "61_Nail - Unflinching.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/61_Nail - Unflinching.jpg",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Nail - Unflinching",
+  "file_name": "Nail",
+  "file_subtitle": "Unflinching",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b3b1c24fbf8cf0e17ddb8874dabc353f2b140d9e"
+ },
+ "vision": {
+  "id": "S02_BST_61",
+  "name": "Nail",
+  "sub": "Unflinching",
+  "type": "Main Personality",
+  "num": "U61",
+  "lvl": 3,
+  "stages": [
+   125000,
+   120000,
+   115000,
+   110000,
+   105000,
+   100000,
+   95000,
+   90000,
+   85000,
+   80000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +3 stages of damage. POWER: You may return a Dragon Ball in play to its owner's hand or you may choose a Dragon Ball in your hand and place it into play. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S02.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "3 NAIL voy. Uer\nLEVEL ~\n—",
+  "stages_text": "125,000\n120,000\n115,000\n110,000\n,105,000\n100,000\n95,000\n90,000\n85,000\n80,000\n\n0",
+  "error": null
+ }
+}

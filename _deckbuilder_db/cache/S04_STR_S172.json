@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S172",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S172_Saiyan Sabotage.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S172_Saiyan Sabotage.png",
+  "prefix": "S",
+  "number": 172,
+  "card_number": "S172",
+  "name_part": "Saiyan Sabotage",
+  "file_name": "Saiyan Sabotage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3ea7fb60f5f35e5764e8b6dc2c4548ae8171273c"
+ },
+ "vision": {
+  "id": "S04_STR_S172",
+  "name": "Saiyan Sabotage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S172",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT stages.\nHIT: Banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S84",
+  "_src": "S04.jsonl:325"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "NT Oe\nSAIYAN SABOTAGE @ siz\nTRY 2 SSR SR NU Oe ARR WED\n\n\\V QR Ne —<<£<{438T 7",
+  "stages_text": ",",
+  "error": null
+ }
+}

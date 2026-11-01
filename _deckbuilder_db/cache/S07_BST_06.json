@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_06",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "06_Black Flinch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/06_Black Flinch.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Black Flinch",
+  "file_name": "Black Flinch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "01f7221c30b3f3fcba8e113ac369a7c6318f9d2e"
+ },
+ "vision": {
+  "id": "S07_BST_06",
+  "name": "Black Flinch",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nYour next Styled attack this combat deals +4 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 82.6,
+  "header_text": "BLACK FLINCH () C6\nFF t~‘* ea",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

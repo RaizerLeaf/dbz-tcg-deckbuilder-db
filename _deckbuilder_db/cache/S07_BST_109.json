@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_109",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "109_Blue Left Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/109_Blue Left Blast.png",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Blue Left Blast",
+  "file_name": "Blue Left Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2e1ee76de0b8846cc6c55392d909329055b1e3d9"
+ },
+ "vision": {
+  "id": "S07_BST_109",
+  "name": "Blue Left Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nThe next time damage is prevented this combat, draw a card.\nDAMAGE: 4 life cards.\nHIT: Raise or lower a player's anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "BLUE LEFT BLAST ) R109\n~~,  ' a",
+  "stages_text": "",
+  "error": null
+ }
+}

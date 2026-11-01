@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_65",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "65_Garlic Jr. - Commanding.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/65_Garlic Jr. - Commanding.jpg",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Garlic Jr. - Commanding",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Commanding",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6d57cec0314bc42d16ac00b47c34dffa79c35b8a"
+ },
+ "vision": {
+  "id": "S03_BST_65",
+  "name": "Garlic Jr.",
+  "sub": "Commanding",
+  "type": "Main Personality",
+  "num": "U65",
+  "lvl": 1,
+  "stages": [
+   1500,
+   1300,
+   1100,
+   900,
+   700,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -1 life card of damage. You need 2 less anger to advance a personality level. POWER: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.6,
+  "header_text": "| lL cartic oR = () ues\nLEVEL —",
+  "stages_text": "1,500\n\n1,300\n\n1,100\n\n900\n\n700\n500\n5 400\n300\n\n200\n100\n\n0",
+  "error": null
+ }
+}

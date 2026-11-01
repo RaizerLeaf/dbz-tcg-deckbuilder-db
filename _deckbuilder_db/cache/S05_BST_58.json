@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_58",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "58_Saiyan Obstruction.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/58_Saiyan Obstruction.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Saiyan Obstruction",
+  "file_name": "Saiyan Obstruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6caa42e4f43854ac8905942a25a0a9a440b0ed3a"
+ },
+ "vision": {
+  "id": "S05_BST_58",
+  "name": "Saiyan Obstruction",
+  "sub": null,
+  "type": "Event",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n(If this card is discarded from your hand, Rejuvenate it).\n[Defense] Prevent all damage from an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "'it).' as printed; the defense icon starts the line with no 'POWER:'",
+  "_src": "S05.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 80.7,
+  "header_text": "SAIYAN OBSTRUCTION C) C58",
+  "stages_text": "7\n3 3 4\n,\n,",
+  "error": null
+ }
+}

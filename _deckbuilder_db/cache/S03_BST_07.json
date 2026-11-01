@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_07",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "07_ Lord Slug Amazed.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/07_ Lord Slug Amazed.jpg",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Lord Slug Amazed",
+  "file_name": "Lord Slug Amazed",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b6c3e89c9fe8b79c8c7da115241d0f02bc1090e0"
+ },
+ "vision": {
+  "id": "S03_BST_07",
+  "name": "Lord Slug",
+  "sub": "Amazed",
+  "type": "Ally",
+  "num": "C7",
+  "lvl": 1,
+  "stages": [
+   125000,
+   75000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) POWER: Place the top 3 Styled Events in your discard pile at the bottom of your Life Deck. Shuffle \"Lord Slug\" into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY; filename '07_ Lord Slug Amazed' lacks ' - '",
+  "_src": "S03.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": ". 1 LORD SLUG wees () C7\nSata AMAZED —_\nIN f fF J",
+  "stages_text": "125,000\n75,000\n25,000\n20,000\n\n15,000\n110,000\n5,000\n4,000\n\n3,000\n\n2,000\n\n0",
+  "error": null
+ }
+}

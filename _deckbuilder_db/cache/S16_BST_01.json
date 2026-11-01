@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_01",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "01_Black Meditative Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/01_Black Meditative Mastery.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Meditative Mastery",
+  "file_name": "Black Meditative Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68406161d567cd3f40cfac6c2749b3bf1adf5511"
+ },
+ "vision": {
+  "id": "S16_BST_01",
+  "name": "Black Meditative Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Your Setups gain \"Banish after use.\")\n[Instant] POWER: Use at the end of combat. Choose a Setup in your discard pile and Rejuvenate it.\nPOWER: Destroy a Setup you control to search your Life Deck for two different non-Limited Styled Setups and play them.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed; Set 16 uses a new 'Super' kanji crest as set symbol",
+  "_src": "S16.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "; *\n_ \\ A\nPet OG\n4 . . ‘, eo",
+  "stages_text": ",\n1\n,",
+  "error": null
+ }
+}

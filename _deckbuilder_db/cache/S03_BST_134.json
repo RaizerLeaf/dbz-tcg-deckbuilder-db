@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_134",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "134_Turles Energy Ring.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/134_Turles Energy Ring.jpg",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Turles Energy Ring",
+  "file_name": "Turles Energy Ring",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f766254f922182272909743de8817b2520ffead2"
+ },
+ "vision": {
+  "id": "S03_BST_134",
+  "name": "Turles' Energy Ring",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. Damage: 5 life cards +AT stages. HIT: If this attack did not deal critical damage, it stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; 'Damage:' in mixed case as printed; filename lacks the apostrophe",
+  "_src": "S03.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 0.906,
+  "lower_conf": 73.8,
+  "header_text": "*{ TURLES' ENERGY RING () A134",
+  "stages_text": "",
+  "error": null
+ }
+}

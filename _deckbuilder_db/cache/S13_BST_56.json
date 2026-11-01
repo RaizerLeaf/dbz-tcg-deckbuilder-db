@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_56",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "56_Gotenks - Super Saiyan 3.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/56_Gotenks - Super Saiyan 3.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Gotenks - Super Saiyan 3",
+  "file_name": "Gotenks",
+  "file_subtitle": "Super Saiyan 3",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "157b953ca976d9c4b13341735d329d6ae65716b9"
+ },
+ "vision": {
+  "id": "S13_BST_56",
+  "name": "Gotenks",
+  "sub": "Super Saiyan 3",
+  "type": "Main Personality",
+  "num": "S56",
+  "lvl": 4,
+  "stages": [
+   6000000,
+   3000000,
+   2000000,
+   1000000,
+   800000,
+   500000,
+   300000,
+   100000,
+   70000,
+   40000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled and gain \"HIT: Destroy the top card of your opponent's Life Deck.\"\nPOWER: [Attack] Energy attack costing 1 stage.\nChoose 3 cards in your opponent's discard pile and banish them. You may use this attack a second time this combat.\nDAMAGE: 5 life cards.\nHIT: You may destroy the top card of your Life Deck to gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges S, E, F; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 0.908,
+  "lower_conf": 79.8,
+  "header_text": "fA. GOTENKS\nLEVEL SUPER SAIYAN 3 () $96\nAO. Waar ae aa Ta",
+  "stages_text": "6,000,000\n3,000,000\n2,000,000\n1,000,000\n800,000\n500,000\n300,000\n100,000\n70,000\n40,000\n0",
+  "error": null
+ }
+}

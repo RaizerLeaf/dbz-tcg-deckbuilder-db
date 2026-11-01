@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P40",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P40_Red Trailing Blast.png",
+  "rel_path": "z_OP Series/OP4/P40_Red Trailing Blast.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Red Trailing Blast",
+  "file_name": "Red Trailing Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "06e32f85f32077311c9928a2f52bd29d86565606"
+ },
+ "vision": {
+  "id": "OP4_OP_P40",
+  "name": "Red Trailing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If the highest power level on your MP's Level 4 is more than 500,000 and this card would attach to your MP, banish it instead.)\n[Attack] 1: Energy attack.\nAttach to your MP. While attached when your MP changes levels, return this card to your hand.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); stage cost printed as '1:'",
+  "_src": "OP.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 90.6,
+  "header_text": "RED TRAILING BLAST () P40",
+  "stages_text": "",
+  "error": null
+ }
+}

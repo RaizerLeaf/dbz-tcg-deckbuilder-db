@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_68",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "68_Broly - Relentless.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/68_Broly - Relentless.jpg",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Broly - Relentless",
+  "file_name": "Broly",
+  "file_subtitle": "Relentless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9cbf41cbd765ae7906df8b1db326884ae842c3ae"
+ },
+ "vision": {
+  "id": "S06_BST_68",
+  "name": "Broly",
+  "sub": "Relentless",
+  "type": "Main Personality",
+  "num": "U68",
+  "lvl": 4,
+  "stages": [
+   3000000,
+   2000000,
+   1000000,
+   750000,
+   500000,
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent cannot use Endurance. Physical attacks performed by this personality deal +4 stages of damage and their damage is banished.\nPOWER: Banish the top 2 cards of your opponent's Life Deck. You may reveal 4 attack cards from your hand to banish any amount of Setups, Drills, and Allies.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "Zi BROLY\nLEVEL RELENTLESS",
+  "stages_text": "3,000,000\n2,000,000\n1,000,000\n750,000\n, 500,000\n250,000\n200,000\n150,000\n100,000\n50,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_87",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "87_Android 19 - Unimpressed.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/87_Android 19 - Unimpressed.png",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Android 19 - Unimpressed",
+  "file_name": "Android 19",
+  "file_subtitle": "Unimpressed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b644c07f7a2c3d155b49155b8f252f77170fdb05"
+ },
+ "vision": {
+  "id": "S04_BST_87",
+  "name": "Android 19",
+  "sub": "Unimpressed",
+  "type": "Main Personality",
+  "num": "U87",
+  "lvl": 3,
+  "stages": [
+   850000,
+   750000,
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After taking life card damage from an attack, gain 2 stages.\n[Instant] POWER: Use after you stop an attack. Search your Life Deck for a card that can attach to an MP and place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 personality layout; edge reads VILLAIN -> MP",
+  "_src": "S04.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "=3 ANDROID 19\nLEVEL UNIMPRESSED () U87",
+  "stages_text": "850,000\n750,000\n650,000\n550,000\n450,000\n350,000\n250,000\n150,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

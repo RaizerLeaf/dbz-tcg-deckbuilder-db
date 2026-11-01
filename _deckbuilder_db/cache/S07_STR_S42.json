@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S42",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S42_Blue Fear.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S42_Blue Fear.png",
+  "prefix": "S",
+  "number": 42,
+  "card_number": "S42",
+  "name_part": "Blue Fear",
+  "file_name": "Blue Fear",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5cce065bd52d0cd7b81e5cf389a99fedc58907ea"
+ },
+ "vision": {
+  "id": "S07_STR_S42",
+  "name": "Blue Fear",
+  "sub": null,
+  "type": "Event",
+  "num": "S42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, raise your anger 2 levels. Banish after use.) POWER: Use a critical damage effect. You may discard a card from your hand. If you do, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_25; text compared on the sheet",
+  "_src": "S07.jsonl:225"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "BLUE FEAR () S42\n/ai\\",
+  "stages_text": ",\n1,",
+  "error": null
+ }
+}

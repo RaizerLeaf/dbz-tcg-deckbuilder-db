@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_39",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "39_Krillin's Kamehameha.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/39_Krillin's Kamehameha.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Krillin's Kamehameha",
+  "file_name": "Krillin's Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2554c08b3853499788d9e13a563a90d5c8d44821"
+ },
+ "vision": {
+  "id": "S09_BST_39",
+  "name": "Krillin's Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. You may destroy the top card of your Life Deck to destroy an opponent's Setup or Drill. This attack does +X stages of damage. X = the number of stages your opponent's MP is above 0.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "KRILLIN'S KAMEHAMEHA () R39",
+  "stages_text": ",\n,\n\n,\n\n,\n,",
+  "error": null
+ }
+}

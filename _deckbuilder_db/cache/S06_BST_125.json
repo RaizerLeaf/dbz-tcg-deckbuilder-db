@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_125",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "125_Saiyan Denial.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/125_Saiyan Denial.jpg",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Saiyan Denial",
+  "file_name": "Saiyan Denial",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "bebe668395d504bd2f61720243b950e6172e5e4f"
+ },
+ "vision": {
+  "id": "S06_BST_125",
+  "name": "Saiyan Denial",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nAttach to your MP. While attached, you may choose for your Mastery POWER attacks to deal their power stage damage as life cards of damage instead.\nDAMAGE: 7 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "“SAIYAN DENIAL | DENIAL —s—~™S\nie Nw, Se oe “®s 9 258",
+  "stages_text": "4\n3\n3 5\n\n,\n\n,\n\n,",
+  "error": null
+ }
+}

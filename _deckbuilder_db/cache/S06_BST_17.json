@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_17",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "17_Blue Android Headbutt.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/17_Blue Android Headbutt.jpg",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Blue Android Headbutt",
+  "file_name": "Blue Android Headbutt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "211260d96756de596be624844d4ea9e022991d8c"
+ },
+ "vision": {
+  "id": "S06_BST_17",
+  "name": "Blue Android Headbutt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: If your opponent advanced a personality level with this card, set an MP's power level to 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "BLUE ANDROID HEADBUTT ) ci7",
+  "stages_text": "3",
+  "error": null
+ }
+}

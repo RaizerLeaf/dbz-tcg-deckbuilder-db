@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P52",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P52_Dene's Distress.png",
+  "rel_path": "z_OP Series/OP5/P52_Dene's Distress.png",
+  "prefix": "P",
+  "number": 52,
+  "card_number": "P52",
+  "name_part": "Dene's Distress",
+  "file_name": "Dene's Distress",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e045c572019e1df5f13858819256077875605269"
+ },
+ "vision": {
+  "id": "OP5_OP_P52",
+  "name": "Dende's Distress",
+  "sub": null,
+  "type": "Setup",
+  "num": "P52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent passes for their next action this combat or your opponent cannot declare combat during their next turn.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); landscape Setup layout; grey card; possessive title -> Named; no Endurance badge; filename says 'Dene's Distress'; the card prints 'Dende's'",
+  "_src": "OP.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.4,
+  "header_text": "DENDE'S DISTRESS ©) P52 ») P52 |",
+  "stages_text": null,
+  "error": null
+ }
+}

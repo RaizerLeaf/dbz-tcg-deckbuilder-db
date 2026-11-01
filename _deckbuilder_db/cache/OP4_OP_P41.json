@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P41",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P41_Saiyan Demolishing Beam.png",
+  "rel_path": "z_OP Series/OP4/P41_Saiyan Demolishing Beam.png",
+  "prefix": "P",
+  "number": 41,
+  "card_number": "P41",
+  "name_part": "Saiyan Demolishing Beam",
+  "file_name": "Saiyan Demolishing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "535753e4ceafcaa7c565ae2f4d25f31a56c775eb"
+ },
+ "vision": {
+  "id": "OP4_OP_P41",
+  "name": "Saiyan Demolishing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nDAMAGE: AT stages + 3 life cards.\nHIT: You may use the immediate effect of a Dragon Ball in play. If you do, banish this card after use. If you do not, Rejuvenate this card.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); stage cost printed as '2:'; 'AT stages + 3 life cards' printed as shown; no Endurance badge",
+  "_src": "OP.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.6,
+  "header_text": "SAIYAN DEMOLISHING BEAM C) P41\nwf rf",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

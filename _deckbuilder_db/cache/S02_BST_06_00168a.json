@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_06_00168a",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "06_Tenshinhan - Stubborn.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/06_Tenshinhan - Stubborn.jpg",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Tenshinhan - Stubborn",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Stubborn",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "00168acbe46b213421cc48d4ceb42d0138c90c8c"
+ },
+ "vision": {
+  "id": "S02_BST_06_00168a",
+  "name": "Tenshinhan",
+  "sub": "Stubborn",
+  "type": "Main Personality",
+  "num": "C8",
+  "lvl": 2,
+  "stages": [
+   11000,
+   10000,
+   9000,
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage. Once per combat after using a critical damage effect, you may search your discard pile for a non-Styled card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP. Card prints C8; filename '06_Tenshinhan - Stubborn' is a numbering typo (resolves the S02 06 duplicate)",
+  "_src": "S02.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "= TENSHINHAN ( =",
+  "stages_text": "11,000\n10,000\n9,000\n\n8,000\n\n7,000\n6,000\n5,000\n4,000\n\n3,000\n\n2,000\n\n0",
+  "error": null
+ }
+}

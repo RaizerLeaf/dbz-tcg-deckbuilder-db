@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P22",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P22_Red Stop.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P22_Red Stop.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Red Stop",
+  "file_name": "Red Stop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5bee923e011b82e1d030ec4e15cb7fe913f51e05"
+ },
+ "vision": {
+  "id": "S11_PRO_P22",
+  "name": "Red Stop",
+  "sub": null,
+  "type": "Event",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nYou may lower your anger 1 level. If you do, search your discard pile or Banished Zone for a Styled Drill and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "RED STOP () P99\nPORTER WO",
+  "stages_text": "",
+  "error": null
+ }
+}

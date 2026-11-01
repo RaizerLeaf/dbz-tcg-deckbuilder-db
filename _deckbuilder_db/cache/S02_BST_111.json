@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_111",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "111_Namekian Cut Off.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/111_Namekian Cut Off.jpg",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Namekian Cut Off",
+  "file_name": "Namekian Cut Off",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b6cbb670df034f5627833b44eb834f5507c712cb"
+ },
+ "vision": {
+  "id": "S02_BST_111",
+  "name": "Namekian Cut Off",
+  "sub": null,
+  "type": "Event",
+  "num": "R111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Destroy a Drill. If your MP is Gohan and you have Piccolo in play, destroy all of your opponent's Drills instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.6,
+  "header_text": "(NAMEKIAN CUT OFF. (=\nNow yh  \\iin ee Ae",
+  "stages_text": "8\n85\n,",
+  "error": null
+ }
+}

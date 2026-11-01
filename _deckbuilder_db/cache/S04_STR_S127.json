@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S127",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S127_Orange Stare Down.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S127_Orange Stare Down.png",
+  "prefix": "S",
+  "number": 127,
+  "card_number": "S127",
+  "name_part": "Orange Stare Down",
+  "file_name": "Orange Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "703b8d2b4ba341d03d5103f2b5559c80083d6372"
+ },
+ "vision": {
+  "id": "S04_STR_S127",
+  "name": "Orange Stare Down",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nBanish an opponent's Setup, Drill or Ally.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S117",
+  "_src": "S04.jsonl:280"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "ORANGE STARE DOWN $127\nViz -/) of peor",
+  "stages_text": "2\n3\n,\n,",
+  "error": null
+ }
+}

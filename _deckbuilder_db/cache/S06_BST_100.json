@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_100",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "100_Villainous Power Ball.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/100_Villainous Power Ball.jpg",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Villainous Power Ball",
+  "file_name": "Villainous Power Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "acf5b9fc797c9020f8d27f4d490b850fc2b93e24"
+ },
+ "vision": {
+  "id": "S06_BST_100",
+  "name": "Villainous Power Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 2 per deck.)\n[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 2 levels. Prevent 4 stages of damage from your opponent's attacks this combat.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "VILLAINOUS POWER BALL =) v100'\neT CO",
+  "stages_text": "0\n,\n,\n,\n4",
+  "error": null
+ }
+}

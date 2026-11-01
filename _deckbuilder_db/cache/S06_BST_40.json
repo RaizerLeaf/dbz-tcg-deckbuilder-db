@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_40",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "40_Orange Withdrawal.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/40_Orange Withdrawal.jpg",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Withdrawal",
+  "file_name": "Orange Withdrawal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ed11f3408ded16d8b079c7f31679fe4845c71c87"
+ },
+ "vision": {
+  "id": "S06_BST_40",
+  "name": "Orange Withdrawal",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand at the end of combat to search your discard pile for a Drill and place it on top of your Life Deck.)\n[Defense] Stops an energy attack.\nLower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "ORANGE WITHDRAWAL ) 040",
+  "stages_text": "74\n,",
+  "error": null
+ }
+}

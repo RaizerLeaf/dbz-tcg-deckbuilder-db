@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S155",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S155_Saiyan Offensive Rush.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S155_Saiyan Offensive Rush.png",
+  "prefix": "S",
+  "number": 155,
+  "card_number": "S155",
+  "name_part": "Saiyan Offensive Rush",
+  "file_name": "Saiyan Offensive Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "d2a6ed089435627476316640de75ed397d3d89ff"
+ },
+ "vision": {
+  "id": "S04_STR_S155",
+  "name": "Saiyan Offensive Rush",
+  "sub": null,
+  "type": "Setup",
+  "num": "S155",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP loses 4 stages. Your attacks deal +3 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S36; landscape layout",
+  "_src": "S04.jsonl:308"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.1,
+  "header_text": "EN Tw\n‘ WN fog",
+  "stages_text": null,
+  "error": null
+ }
+}

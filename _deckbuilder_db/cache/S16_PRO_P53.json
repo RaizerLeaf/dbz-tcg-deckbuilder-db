@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P53",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P53_Vegeta's Galick Gun.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P53_Vegeta's Galick Gun.png",
+  "prefix": "P",
+  "number": 53,
+  "card_number": "P53",
+  "name_part": "Vegeta's Galick Gun",
+  "file_name": "Vegeta's Galick Gun",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8d5d466c1471d965e8b363c0fb33a98da798138c"
+ },
+ "vision": {
+  "id": "S16_PRO_P53",
+  "name": "Vegeta's Galick Gun",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nUnpreventable. If you deal critical damage with this attack, you may use two critical damage effects instead of one. Raise your anger 1.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S16.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "VEGETA'S GALICK GUN () P53",
+  "stages_text": "7\n,\n1,",
+  "error": null
+ }
+}

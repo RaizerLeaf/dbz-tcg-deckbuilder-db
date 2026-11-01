@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_117",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "117_Orange Uncontrolled Blast.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/117_Orange Uncontrolled Blast.jpg",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Orange Uncontrolled Blast",
+  "file_name": "Orange Uncontrolled Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "192cab814a4d47c79ea4d394bf7b7bd08ab6d3d0"
+ },
+ "vision": {
+  "id": "S03_BST_117",
+  "name": "Orange Uncontrolled Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Attach to your opponent's MP. While attached, your opponent's first physical attack each combat cannot have its damage modified. Banish this card when any personality changes levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "ORANGE UNCONTROLLED. BLAST () A117\n___",
+  "stages_text": "",
+  "error": null
+ }
+}

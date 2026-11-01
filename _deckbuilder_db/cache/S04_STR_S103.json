@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S103",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S103_Orange Energy Gathering.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S103_Orange Energy Gathering.png",
+  "prefix": "S",
+  "number": 103,
+  "card_number": "S103",
+  "name_part": "Orange Energy Gathering",
+  "file_name": "Orange Energy Gathering",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "02560613a00fd3cea698888ef61f032970b9d442"
+ },
+ "vision": {
+  "id": "S04_STR_S103",
+  "name": "Orange Energy Gathering",
+  "sub": null,
+  "type": "Setup",
+  "num": "S103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP gains 7 stages. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S34; landscape layout",
+  "_src": "S04.jsonl:256"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.9,
+  "header_text": "pam\n6 =",
+  "stages_text": null,
+  "error": null
+ }
+}

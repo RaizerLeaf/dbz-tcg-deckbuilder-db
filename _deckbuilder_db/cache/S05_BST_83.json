@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_83",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "83_Blue Eating Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/83_Blue Eating Drill.png",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Blue Eating Drill",
+  "file_name": "Blue Eating Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "2659784c14e20c2869b7944649d6e53dfd9f786e"
+ },
+ "vision": {
+  "id": "S05_BST_83",
+  "name": "Blue Eating Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your first non-Styled attack each combat cannot have its damage modified.\n[Instant] POWER: Use after one of your Allies leaves play. If you control no Allies, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "BLUE EATING DRILL C) U83",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S145",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S145_Red Hop.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S145_Red Hop.png",
+  "prefix": "S",
+  "number": 145,
+  "card_number": "S145",
+  "name_part": "Red Hop",
+  "file_name": "Red Hop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8993b329a21c0070518f65bce651ff066e423502"
+ },
+ "vision": {
+  "id": "S04_STR_S145",
+  "name": "Red Hop",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S145",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nYour next attack this combat gains \"HIT: Use a critical damage effect.\"",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C46",
+  "_src": "S04.jsonl:298"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 75.3,
+  "header_text": "RED HOP () $145",
+  "stages_text": "7\n7\n2\n,\n,",
+  "error": null
+ }
+}

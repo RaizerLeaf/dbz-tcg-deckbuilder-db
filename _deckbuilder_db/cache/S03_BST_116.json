@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_116",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "116_Orange Empowered Kick.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/116_Orange Empowered Kick.jpg",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Orange Empowered Kick",
+  "file_name": "Orange Empowered Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b7e31d029cabecbb6332cdccf3b5a1035ea0171b"
+ },
+ "vision": {
+  "id": "S03_BST_116",
+  "name": "Orange Empowered Kick",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Destroy an Ally.",
+  "conf": "high",
+  "review": "printed card type is ENERGY COMBAT but the text is a Physical attack. Check against the CRD",
+  "note": null,
+  "_src": "S03.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.1,
+  "header_text": "CN SC ip\nANE RY Eee | SEER",
+  "stages_text": "4 ,\n4,\n4\n37",
+  "error": null
+ }
+}

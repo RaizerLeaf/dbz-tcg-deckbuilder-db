@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_16",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "16_Black Stop.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/16_Black Stop.jpg",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Black Stop",
+  "file_name": "Black Stop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7515349db1a77a0059c67f7ca3c3dbf9437276d7"
+ },
+ "vision": {
+  "id": "S03_BST_16",
+  "name": "Black Stop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Raise your anger 1 level. Your opponent plays with his hand revealed until the start of your next turn.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "BLACK STOP OSs: () O16",
+  "stages_text": "7 4",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_46",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "46_Red Hop.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/46_Red Hop.jpg",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Red Hop",
+  "file_name": "Red Hop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "db97d03b72002fbf2224ed323524f065b09f052f"
+ },
+ "vision": {
+  "id": "S03_BST_46",
+  "name": "Red Hop",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Your next attack this combat gains \"HIT: Use a critical damage effect.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "(RED HOP sedis () cas",
+  "stages_text": "37",
+  "error": null
+ }
+}

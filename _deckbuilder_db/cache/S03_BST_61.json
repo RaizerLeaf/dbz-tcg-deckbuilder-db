@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_61",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "61_Dr. Wheelo - Big Brain.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/61_Dr. Wheelo - Big Brain.jpg",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Dr. Wheelo - Big Brain",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Big Brain",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "735bbd2954eb61c40ec7cdb20168e61de67e5bd9"
+ },
+ "vision": {
+  "id": "S03_BST_61",
+  "name": "Dr. Wheelo",
+  "sub": "Big Brain",
+  "type": "Main Personality",
+  "num": "U61",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: Destroy the top card of your Life Deck to destroy the top 2 cards of your opponent's Life Deck. Set your anger level to 3.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.3,
+  "header_text": "LEVEL _",
+  "stages_text": "10\n\n9\n\n8\n\n7\n\n6\n\n5\n4\n\n4\n\n3\n\n2\n\n1\n\n0\n4",
+  "error": null
+ }
+}

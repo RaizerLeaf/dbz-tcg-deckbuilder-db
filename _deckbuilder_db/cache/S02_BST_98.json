@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_98",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "98_Nail’s Heritage.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/98_Nail’s Heritage.jpg",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Nail’s Heritage",
+  "file_name": "Nail’s Heritage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "35d93e7bb38d714059cd9c958cadd169691bcb0e"
+ },
+ "vision": {
+  "id": "S02_BST_98",
+  "name": "Nail's Heritage",
+  "sub": null,
+  "type": "Event",
+  "num": "U98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. If this card is in play, you may Rejuvenate it as an action. If you use this card a second time this combat, banish after use.) [Defense] POWER: Stops a Styled physical or Styled energy attack. This card stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "Gans HERITAGE © use\nes To. 4",
+  "stages_text": "",
+  "error": null
+ }
+}

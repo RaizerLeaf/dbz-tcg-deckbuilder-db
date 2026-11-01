@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_25",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "25_Namekian Flight.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/25_Namekian Flight.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Namekian Flight",
+  "file_name": "Namekian Flight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "78f974b4b3de13ad8243b83be66b5d715777591c"
+ },
+ "vision": {
+  "id": "S05_BST_25",
+  "name": "Namekian Flight",
+  "sub": null,
+  "type": "Setup",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card enters play, place a Dragon Ball you control at the bottom of its owner's Life Deck.)\nPOWER: Banish a card from your hand to draw the top or bottom card of your Life Deck. You may place a Dragon Ball from your hand into play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Setup layout",
+  "_src": "S05.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "NAMEKIAN FLIGHT C) 025",
+  "stages_text": null,
+  "error": null
+ }
+}

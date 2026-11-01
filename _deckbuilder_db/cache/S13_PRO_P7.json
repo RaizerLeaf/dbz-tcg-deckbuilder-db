@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P7",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P7_Vegito - Super Saiyan.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P7_Vegito - Super Saiyan.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Vegito - Super Saiyan",
+  "file_name": "Vegito",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dc53435ac1944034c87521a1993926ceed85e95c"
+ },
+ "vision": {
+  "id": "S13_PRO_P7",
+  "name": "Vegito",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   15000000,
+   10000000,
+   5000000,
+   1400000,
+   1000000,
+   800000,
+   400000,
+   200000,
+   90000,
+   50000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(Your Drills are not discarded when advancing or lowering from this level.)\n[Continuous]: Your energy attacks deal +1 life card of damage.\n[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand during combat. Draw a card and raise your anger 1 level.\nPOWER: [Attack] Energy attack costing 2 stages.\nSearch your Life Deck for a Drill and place it into play.\nDAMAGE: 5 life cards.\nHIT: Search your discard pile for 3 Styled cards and Rejuvenate them.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats match S13 S59 but wording differs; text zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 73.9,
+  "header_text": "— - Se Se\nVEGITO\n(3 SUPER SAIYAN | yy =7 )\nYZ (ia fi j' ons NNN nno",
+  "stages_text": "15,000,000\n10,000,000\n5,000,000\n1,400,000\n1,000,000\n800,000\n400,000\n200,000\n90,000\n50,000\n0\n\n53",
+  "error": null
+ }
+}

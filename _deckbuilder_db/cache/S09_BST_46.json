@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_46",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "46_Saibamen - Little Green Ghouls.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/46_Saibamen - Little Green Ghouls.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Saibamen - Little Green Ghouls",
+  "file_name": "Saibamen",
+  "file_subtitle": "Little Green Ghouls",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "695240a5540213a777f887a8046fb9091a74f63e"
+ },
+ "vision": {
+  "id": "S09_BST_46",
+  "name": "Saibamen",
+  "sub": "Little Green Ghouls",
+  "type": "Ally",
+  "num": "U46",
+  "lvl": 1,
+  "stages": [
+   1000,
+   600,
+   500,
+   250,
+   200,
+   100,
+   75,
+   50,
+   25,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(If your MP is a Saiyan and the highest power level on your MP's Level 4 is 500,000 or less, your Life Deck may include up to 3 copies of this card and you may use this Power regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nBanish the top card of your opponent's discard pile.\nDAMAGE: 2 life cards or 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S09.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.896,
+  "lower_conf": 80.0,
+  "header_text": "1 SAIBAMEN\nLEVEL LITTLE GREEN GHOULS () U46",
+  "stages_text": "1,000\n\n600\n\n500\n250\n200\n7 100\n4 75\n50\n25\n10\n\n0",
+  "error": null
+ }
+}

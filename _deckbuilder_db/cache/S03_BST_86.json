@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_86",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "86_Blue Upward Barrage.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/86_Blue Upward Barrage.jpg",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Blue Upward Barrage",
+  "file_name": "Blue Upward Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2782d185a83f061f972e9079861418195dfff9fb"
+ },
+ "vision": {
+  "id": "S03_BST_86",
+  "name": "Blue Upward Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. You may place a Styled Setup from your hand into play. If you do, you may raise or lower a player's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "(BLUE UPWARD BARRAGE (2",
+  "stages_text": "347",
+  "error": null
+ }
+}

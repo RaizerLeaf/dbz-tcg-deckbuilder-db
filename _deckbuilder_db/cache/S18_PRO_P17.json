@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P17",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P17_Orange Possession Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P17_Orange Possession Drill.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Orange Possession Drill",
+  "file_name": "Orange Possession Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "5ada3077f8752b88d5e09a66e8a1dab450c4802c"
+ },
+ "vision": {
+  "id": "S18_PRO_P17",
+  "name": "Orange Possession Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a Styled Drill from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S18.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "SRANGE POSSESSION DRILL © P17] ) P17",
+  "stages_text": null,
+  "error": null
+ }
+}

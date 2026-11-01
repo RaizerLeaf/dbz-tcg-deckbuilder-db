@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P28",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P28_Suppressive Strike.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P28_Suppressive Strike.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Suppressive Strike",
+  "file_name": "Suppressive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67a7ef4ab57c42cd5273839079e0d463b8092f1b"
+ },
+ "vision": {
+  "id": "S12_PRO_P28",
+  "name": "Suppressive Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nCard effects cannot end combat this turn.\n[Trait:Saiyan]: Rejuvenate 2. Cards that stop all physical attacks and/or energy attacks cannot be played nor used this turn.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-Styled) card; inline icon zoomed: green Saiyan badge; no Endurance badge",
+  "_src": "S12.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 87.6,
+  "header_text": "SUPPRESSIVE STRIKE S ) P28 |\nBO’ 2 (ee ~~",
+  "stages_text": "7,4\n\n2 2\n2\n\n37\n\n,",
+  "error": null
+ }
+}

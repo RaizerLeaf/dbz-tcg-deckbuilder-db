@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_92",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "92_Orange Distracting Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/92_Orange Distracting Drill.jpg",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Orange Distracting Drill",
+  "file_name": "Orange Distracting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "897efb81f57ac930633f756c302622b681f66504"
+ },
+ "vision": {
+  "id": "S03_BST_92",
+  "name": "Orange Distracting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may discard this card from your hand to perform a non-Styled physical attack dealing 3 stages of damage.) [Continuous]: Your AT damage is considered to be 4 for your Styled attacks.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.9,
+  "header_text": "ORANGE DISTRACTING DRILL () US2",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

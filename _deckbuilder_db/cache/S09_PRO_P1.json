@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_PRO_P1",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "09_Set 9 (Legends)/Legends (Promos)",
+  "filename": "P1_Bardock - True Saiyan.png",
+  "rel_path": "09_Set 9 (Legends)/Legends (Promos)/P1_Bardock - True Saiyan.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Bardock - True Saiyan",
+  "file_name": "Bardock",
+  "file_subtitle": "True Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cdd35e622fe68394bfb33caac98d82fded76946c"
+ },
+ "vision": {
+  "id": "S09_PRO_P1",
+  "name": "Bardock",
+  "sub": "True Saiyan",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   8000,
+   7500,
+   6500,
+   6000,
+   4500,
+   2500,
+   1500,
+   1250,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever a player searches your opponent's Life Deck, you may raise your anger 1 level.\nPOWER: Destroy the top card of your Life Deck. Your opponent reveals their hand. Search your opponent's Life Deck for a card and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S09 S48; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S09.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.7,
+  "header_text": "BARDOCK\naa TRUE SAIYAN y ml\nxen eo. te wae . eo ‘ Q enanal",
+  "stages_text": "8,000\n7,500\n6,500\n6,000\n4,500\n2,500\n1,500\n1,250\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

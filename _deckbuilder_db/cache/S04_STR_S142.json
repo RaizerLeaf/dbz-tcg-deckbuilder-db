@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S142",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S142_Red Freezing Beam.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S142_Red Freezing Beam.png",
+  "prefix": "S",
+  "number": 142,
+  "card_number": "S142",
+  "name_part": "Red Freezing Beam",
+  "file_name": "Red Freezing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a64da378bd81decc20dd03495dbb7424946d50e2"
+ },
+ "vision": {
+  "id": "S04_STR_S142",
+  "name": "Red Freezing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may raise your anger 1 level. Search your discard pile or Banished Zone for a Drill and place it into play.\nDAMAGE: AT +2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 U94",
+  "_src": "S04.jsonl:295"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 86.0,
+  "header_text": "RED FREEZING BEAM 142\naw",
+  "stages_text": ",",
+  "error": null
+ }
+}

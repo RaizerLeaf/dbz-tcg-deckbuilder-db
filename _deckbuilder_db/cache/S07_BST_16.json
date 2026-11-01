@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_16",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "16_Blue Patience.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/16_Blue Patience.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Blue Patience",
+  "file_name": "Blue Patience",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2f4af21355f211ec13c809442f31b4004a2f3b33"
+ },
+ "vision": {
+  "id": "S07_BST_16",
+  "name": "Blue Patience",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nLook at the top 4 cards of your Life Deck and place them back in any order.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 72.9,
+  "header_text": "BLUE PATIENCE ) C16\nNe Og",
+  "stages_text": "4",
+  "error": null
+ }
+}

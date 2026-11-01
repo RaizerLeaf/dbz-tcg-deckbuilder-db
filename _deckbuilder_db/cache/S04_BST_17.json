@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_17",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "17_Blue Vehicle Destruction.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/17_Blue Vehicle Destruction.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Blue Vehicle Destruction",
+  "file_name": "Blue Vehicle Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "78ba89d9b751803eddb9cfc060c98d77d2c05752"
+ },
+ "vision": {
+  "id": "S04_BST_17",
+  "name": "Blue Vehicle Destruction",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: 4 stages +AT life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 80.9,
+  "header_text": "BLUE VEHICLE DESTRUCTION",
+  "stages_text": ",,\n, 7\n2,\n\n,",
+  "error": null
+ }
+}

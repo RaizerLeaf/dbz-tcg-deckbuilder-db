@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S46",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S46_Black Flying Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S46_Black Flying Kick.png",
+  "prefix": "S",
+  "number": 46,
+  "card_number": "S46",
+  "name_part": "Black Flying Kick",
+  "file_name": "Black Flying Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bd97820940beadf06de2e39b9de4b5dab53d86c5"
+ },
+ "vision": {
+  "id": "S04_STR_S46",
+  "name": "Black Flying Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nBanish the top 3 cards of your opponent's discard pile.\nDAMAGE: AT +2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S131",
+  "_src": "S04.jsonl:199"
+ },
+ "ocr": {
+  "agreement": 0.895,
+  "lower_conf": 72.5,
+  "header_text": "BLACK FLYING KICK ) S46\n/)/ / /Fmm",
+  "stages_text": "7\n7",
+  "error": null
+ }
+}

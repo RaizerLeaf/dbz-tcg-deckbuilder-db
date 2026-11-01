@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S86",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S86_Namekian Crushing Slam.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S86_Namekian Crushing Slam.png",
+  "prefix": "S",
+  "number": 86,
+  "card_number": "S86",
+  "name_part": "Namekian Crushing Slam",
+  "file_name": "Namekian Crushing Slam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "93180ee01774693a764eecc23107cbbfd7321fe5"
+ },
+ "vision": {
+  "id": "S04_STR_S86",
+  "name": "Namekian Crushing Slam",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nShuffle the top 2 cards from your discard pile into your Life Deck.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S76",
+  "_src": "S04.jsonl:239"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 78.1,
+  "header_text": "NAMEKIAN CRUSHING SLAM © ») S86\nlh an »",
+  "stages_text": "6\n4\n,",
+  "error": null
+ }
+}

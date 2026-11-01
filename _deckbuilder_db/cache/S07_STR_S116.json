@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S116",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S116_Saiyan Spin Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S116_Saiyan Spin Kick.png",
+  "prefix": "S",
+  "number": 116,
+  "card_number": "S116",
+  "name_part": "Saiyan Spin Kick",
+  "file_name": "Saiyan Spin Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8cb25f3999a044d13efb576040816ffdd279a6a2"
+ },
+ "vision": {
+  "id": "S07_STR_S116",
+  "name": "Saiyan Spin Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. Lower your opponent's anger 1 level. Destroy an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_95; text compared on the sheet",
+  "_src": "S07.jsonl:299"
+ },
+ "ocr": {
+  "agreement": 0.739,
+  "lower_conf": 75.5,
+  "header_text": "[Pell it P54! i] Ft. a ;:<———:: a |b —_ If IP the.\n\nSAIYAN SPIN KICK ) S116\n\na a a ee\nv\n\n7) ee",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

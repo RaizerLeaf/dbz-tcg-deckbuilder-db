@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P33",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P33_Energy Toss.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P33_Energy Toss.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Energy Toss",
+  "file_name": "Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0510abde8f1b3256048b39be20645d0649c1ed82"
+ },
+ "vision": {
+  "id": "S18_PRO_P33",
+  "name": "Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Energy attack.\nRaise your anger 1. Lower your opponent's anger 2.\n[Trait:Earthling]: If you have only 1 Trait, banish 3 cards from your opponent's discard pile and this attack deals +2 life cards.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '1:'; inline icon zoomed: blue Capsule Corp E badge (Earthling); no Endurance badge",
+  "_src": "S18.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.927,
+  "lower_conf": 88.0,
+  "header_text": "ENERGY TOSS ; ) P33 |\noe a — |",
+  "stages_text": ",\n\n,\n\n2\n3",
+  "error": null
+ }
+}

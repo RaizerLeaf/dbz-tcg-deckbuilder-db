@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR5",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR5_Blue Resolute Mastery.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR5_Blue Resolute Mastery.png",
+  "prefix": "DR",
+  "number": 5,
+  "card_number": "DR5",
+  "name_part": "Blue Resolute Mastery",
+  "file_name": "Blue Resolute Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "be153d548e34325367b1902664de8ff231e421ca"
+ },
+ "vision": {
+  "id": "S07_DR_DR5",
+  "name": "Blue Resolute Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage.\nPOWER: Discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from filename and S14 P20",
+  "_src": "S07.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.2,
+  "header_text": "\\ !\nae 5\n> hel 2 ~",
+  "stages_text": "",
+  "error": null
+ }
+}

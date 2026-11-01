@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S84",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S84_Namekian Silencing.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S84_Namekian Silencing.png",
+  "prefix": "S",
+  "number": 84,
+  "card_number": "S84",
+  "name_part": "Namekian Silencing",
+  "file_name": "Namekian Silencing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5bf379417c262c8cf65bca6e26cec2377c35314a"
+ },
+ "vision": {
+  "id": "S07_STR_S84",
+  "name": "Namekian Silencing",
+  "sub": null,
+  "type": "Event",
+  "num": "S84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, your Dragon Balls cannot be captured this combat.) POWER: Your opponent may not play Events this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S47; text compared on the sheet",
+  "_src": "S07.jsonl:267"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "NAMEKIAN SILENCING ) sad\nTe — |",
+  "stages_text": "26\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_56",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "56_Kami - Earth's Guardian.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/56_Kami - Earth's Guardian.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Kami - Earth's Guardian",
+  "file_name": "Kami",
+  "file_subtitle": "Earth's Guardian",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "57fbf5c17169fdc160ca008d36d73172614a09d0"
+ },
+ "vision": {
+  "id": "S09_BST_56",
+  "name": "Kami",
+  "sub": "Earth's Guardian",
+  "type": "Main Personality",
+  "num": "S56",
+  "lvl": 1,
+  "stages": [
+   350,
+   325,
+   300,
+   275,
+   250,
+   225,
+   200,
+   175,
+   150,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "[Continuous]: After an Earth Dragon Ball enters play, destroy the top card of your opponent's Life Deck.\nPOWER: [Attack] Energy attack costing 1 stage.\nYou may shuffle an Earth Dragon Ball in play back into its owner's Life Deck to search your Life Deck for a Styled Drill and play it.\nDAMAGE: 3 life cards.\nHIT: Raise your anger 1 level or Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G (gold) + N (orange)",
+  "_src": "S09.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.859,
+  "lower_conf": 74.9,
+  "header_text": "KAMI",
+  "stages_text": "350\n325\n300\n275\n250\n225\n200\n175\n150\n4 100\n0",
+  "error": null
+ }
+}

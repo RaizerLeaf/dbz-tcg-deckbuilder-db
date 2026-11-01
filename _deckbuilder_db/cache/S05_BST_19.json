@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_19",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "19_Blue Energy Shield.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/19_Blue Energy Shield.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Blue Energy Shield",
+  "file_name": "Blue Energy Shield",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "486b7382bc0f8e365b4fe8c7b5c54b9379e39184"
+ },
+ "vision": {
+  "id": "S05_BST_19",
+  "name": "Blue Energy Shield",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may set your MP's power level to 0. Your Allies cannot be discarded by critical damage effects this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.3,
+  "header_text": "BLUE ENERGY SHIELD ) 19\na",
+  "stages_text": ",\n0,",
+  "error": null
+ }
+}

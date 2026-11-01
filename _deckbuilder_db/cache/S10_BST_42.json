@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_42",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "42_Suppressive Strike.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/42_Suppressive Strike.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Suppressive Strike",
+  "file_name": "Suppressive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a5077914fcba010797774092b861dd9025fec2de"
+ },
+ "vision": {
+  "id": "S10_BST_42",
+  "name": "Suppressive Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nCard effects cannot end combat this turn.\n[Trait:Saiyan]: Rejuvenate 2. Cards that stop all physical attacks and/or energy attacks cannot be played nor used this turn.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; number area reads 'PREVIEW R42'; inline icon green (Saiyan)",
+  "_src": "S10.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 88.5,
+  "header_text": "SUPPRESSIVE STRIKE On\nmW VY NON LY TAN YAW . 7B",
+  "stages_text": "4\n37\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_37",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "37_Broly's Gigantic Meteor.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/37_Broly's Gigantic Meteor.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Broly's Gigantic Meteor",
+  "file_name": "Broly's Gigantic Meteor",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db94fb7ed14f7b493fba178dfca6cef4a575f998"
+ },
+ "vision": {
+  "id": "S12_BST_37",
+  "name": "Broly's Gigantic Meteor",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is revealed from your hand, choose a card in your discard pile and Rejuvenate it.)\n[Attack] Energy attack costing 2 stages.\nIf stopped, banish the top 2 cards of your opponent's Life Deck.\nDAMAGE: 6 life cards.\nHIT: Raise your anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.961,
+  "lower_conf": 89.6,
+  "header_text": "BROLY'S GIGANTIC METEOR =) R37,\ni ftw ,",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

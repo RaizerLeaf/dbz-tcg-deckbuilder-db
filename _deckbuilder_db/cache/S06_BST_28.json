@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_28",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "28_Namekian Protective Posture.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/28_Namekian Protective Posture.jpg",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Namekian Protective Posture",
+  "file_name": "Namekian Protective Posture",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4b9aeac81038e454fb87070ccdf5b1ffe8e66bf2"
+ },
+ "vision": {
+  "id": "S06_BST_28",
+  "name": "Namekian Protective Posture",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nRejuvenate this card after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 59.5,
+  "header_text": "| NAMEKIAN PROTECTIVE POSTURE C) C28 |\n| el QQ |",
+  "stages_text": "",
+  "error": null
+ }
+}

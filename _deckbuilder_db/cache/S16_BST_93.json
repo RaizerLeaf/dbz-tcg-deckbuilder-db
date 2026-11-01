@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_93",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "93_Piccolo - On Guard.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/93_Piccolo - On Guard.png",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Piccolo - On Guard",
+  "file_name": "Piccolo",
+  "file_subtitle": "On Guard",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "04510990a8e3c4d1c3021fad44837192d9441859"
+ },
+ "vision": {
+  "id": "S16_BST_93",
+  "name": "Piccolo",
+  "sub": "On Guard",
+  "type": "Main Personality",
+  "num": "S93",
+  "lvl": 2,
+  "stages": [
+   1150000,
+   900000,
+   500000,
+   300000,
+   150000,
+   95000,
+   50000,
+   15000,
+   8000,
+   3000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your Named attacks cost -1 stage (to a minimum of 0) and are Focused.\nPOWER: [Attack] 2: Energy attack.\nRaise your anger 1. Search your discard pile for up to 2 Named cards and Rejuvenate them. If damage from this attack is prevented, search your Life Deck, discard pile, or Banished Zone for a copy of \"Piccolo's Special Beam Cannon\" and place it into your hand.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge N (orange); stage cost printed as '2:'",
+  "_src": "S16.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 81.4,
+  "header_text": "PICCOLO",
+  "stages_text": "1,150,000\n,900,000\n500,000\n300,000\n150,000\n95,000\n50,000\n15,000\n\n, 8,000\n4 3,000\n0",
+  "error": null
+ }
+}

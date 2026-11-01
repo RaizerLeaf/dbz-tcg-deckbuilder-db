@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P44",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P44_Namek Dragon Ball 5.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P44_Namek Dragon Ball 5.png",
+  "prefix": "P",
+  "number": 44,
+  "card_number": "P44",
+  "name_part": "Namek Dragon Ball 5",
+  "file_name": "Namek Dragon Ball 5",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1f50e2184e47f438017d985998bde751af7fc773"
+ },
+ "vision": {
+  "id": "S13_PRO_P44",
+  "name": "Namek Dragon Ball 5",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Gain 5 stages. Raise your anger 1 level. Draw a card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "NAMEK DRAGON BALL 5 (-) P44 |\n~—— _",
+  "stages_text": "4\n1",
+  "error": null
+ }
+}

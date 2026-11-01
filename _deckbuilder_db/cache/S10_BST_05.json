@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_05",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "05_Black Sword Rush.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/05_Black Sword Rush.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Sword Rush",
+  "file_name": "Black Sword Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1736bf8a16585976d1e99ecf42f5740944eedace"
+ },
+ "vision": {
+  "id": "S10_BST_05",
+  "name": "Black Sword Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level. If your opponent has drawn a card this combat, your opponent loses 2 stages.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C5'",
+  "_src": "S10.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 89.4,
+  "header_text": "BLACK SWORD RUSH Ce\n‘ ) <—w",
+  "stages_text": "1,\n4\n2,",
+  "error": null
+ }
+}

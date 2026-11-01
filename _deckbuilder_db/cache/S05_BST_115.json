@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_115",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "115_Overwhelming Power (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/115_Overwhelming Power (CRD).png",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Overwhelming Power",
+  "file_name": "Overwhelming Power",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "dc37415e40cd7b89b71ee14f4c52c414af2ffda6"
+ },
+ "vision": {
+  "id": "S05_BST_115",
+  "name": "Overwhelming Power",
+  "sub": null,
+  "type": "Event",
+  "num": "R115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a card effect, you may use a critical damage effect.)\nIf your MP's power level is higher than your opponent's MP's power level, destroy up to 2 Setups and/or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; no 'POWER:' label printed (S14 P45 reprint has 'POWER:' and says 'non-Mastery card effect'); filename flag (CRD)",
+  "_src": "S05.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "OVERWHELMING POWER () R115:\nNS 9 ello",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

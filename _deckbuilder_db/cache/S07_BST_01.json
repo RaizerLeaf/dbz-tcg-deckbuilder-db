@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_01",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "01_Black Protective Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/01_Black Protective Drill.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Protective Drill",
+  "file_name": "Black Protective Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "d4efbe891dae6074bfca1f46d427eb87cf4b564d"
+ },
+ "vision": {
+  "id": "S07_BST_01",
+  "name": "Black Protective Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This Drill is not discarded when changing levels.)\nPOWER: Reveal your hand. If you do, look at your opponent's hand and the top card of a player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 7 Drill layout (Z set icon)",
+  "_src": "S07.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "BLACK PROTECTIVE DRILL a C1 |\nee ee Nl ee —",
+  "stages_text": null,
+  "error": null
+ }
+}

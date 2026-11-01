@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P7",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P7_Buu - Monstrous.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P7_Buu - Monstrous.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Buu - Monstrous",
+  "file_name": "Buu",
+  "file_subtitle": "Monstrous",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a22b36f8371fb449d39f5e7ffe6ffcb1cfce3a23"
+ },
+ "vision": {
+  "id": "S11_PRO_P7",
+  "name": "Buu",
+  "sub": "Monstrous",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   4000000,
+   3300000,
+   2400000,
+   1700000,
+   1300000,
+   900000,
+   700000,
+   300000,
+   90000,
+   40000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Whenever you Rejuvenate, increase that amount by 1.\n[Instant] POWER: Use when entering combat. Rejuvenate the top or bottom card of your discard pile.\nPOWER: [Attack] Physical attack.\nSearch your discard pile or Banished Zone for a Named Setup and place it into play or use its Power.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badges M; stats and text compared against S11_BST_57 on the sheet, identical",
+  "_src": "S11.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 60.3,
+  "header_text": "fj Marta? _\nBUU\n(SE a =\nLEVEL J Ty — oe\n. a A -ANN ANN",
+  "stages_text": "74,000,000\n73,300,000\n2,400,000\n1,700,000\n4\n1,300,000\n900,000\n5 700,000\n300,000\n90,000\n40,000\n\n0",
+  "error": null
+ }
+}

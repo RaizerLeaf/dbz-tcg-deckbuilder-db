@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_11",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "11_Frieza - Mastermind.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/11_Frieza - Mastermind.jpg",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Frieza - Mastermind",
+  "file_name": "Frieza",
+  "file_subtitle": "Mastermind",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0cd157e383b05aa0a11f28a940493ac08bf7e93d"
+ },
+ "vision": {
+  "id": "S02_BST_11",
+  "name": "Frieza",
+  "sub": "Mastermind",
+  "type": "Ally",
+  "num": "C11",
+  "lvl": 1,
+  "stages": [
+   85000,
+   80000,
+   75000,
+   70000,
+   65000,
+   60000,
+   55000,
+   50000,
+   45000,
+   40000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Continuous]: Life card damage from attacks is banished.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S02.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 59.9,
+  "header_text": "| 1 FRIEZA Reaeaa () Cll",
+  "stages_text": "85,000\n80,000\n75,000\n70,000\n\n65,000\n\n60,000\n\n55,000\n50,000\n\n, 45,000\n40,000\n\n0",
+  "error": null
+ }
+}

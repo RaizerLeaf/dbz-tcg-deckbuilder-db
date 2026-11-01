@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_26",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "26_Namekian Concern.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/26_Namekian Concern.jpg",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Namekian Concern",
+  "file_name": "Namekian Concern",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "73b53f0c35c00e882a99ab1caf769d155e150056"
+ },
+ "vision": {
+  "id": "S06_BST_26",
+  "name": "Namekian Concern",
+  "sub": null,
+  "type": "Event",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\nPOWER: Look at the top 4 cards of your Life Deck. Place 1 of those cards on top of your Life Deck. Place the remaining cards at the bottom of your Life Deck in any order.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 85.2,
+  "header_text": "NAMEKIAN CONCERN ) C26\nie |) VA AN ee P Wet ee) PY",
+  "stages_text": "4",
+  "error": null
+ }
+}

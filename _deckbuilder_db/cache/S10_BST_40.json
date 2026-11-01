@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_40",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "40_Focused Blast.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/40_Focused Blast.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Focused Blast",
+  "file_name": "Focused Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "034bbd174fcb9ddb314d617aaca911e62124e612"
+ },
+ "vision": {
+  "id": "S10_BST_40",
+  "name": "Focused Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(While attached to a Drill or Dragon Ball, if a card effect would cause that card to leave play, you may banish this card instead.)\n[Attack] Energy attack costing 2 stages.\nRejuvenate 1.\n[Trait:Namekian]: Attach to a Drill or Dragon Ball in play.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; inline icon orange (Namekian)",
+  "_src": "S10.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 93.4,
+  "header_text": "FOCUSED BLAST fe ) R40 |",
+  "stages_text": "4,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_128",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "128_Android 19's Choke.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/128_Android 19's Choke.png",
+  "prefix": null,
+  "number": 128,
+  "card_number": "128",
+  "name_part": "Android 19's Choke",
+  "file_name": "Android 19's Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "21d8f00b0ab3a4b16afec67c41489afe47de422a"
+ },
+ "vision": {
+  "id": "S04_BST_128",
+  "name": "Android 19's Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Only one copy of Android 19's Choke can be attached in play.)\n[Attack] Physical attack.\nRaise your anger 2 levels. Attach to your opponent's MP. While attached, gain 1 stage whenever your opponent gains stages. Destroy this card when your MP's power level is 0.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.3,
+  "header_text": "ANDROID 19’S CHOKE ¢) R128\n= a —_ nv ne.",
+  "stages_text": "4 ,",
+  "error": null
+ }
+}

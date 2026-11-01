@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_90",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "90_Videl - Student.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/90_Videl - Student.png",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Videl - Student",
+  "file_name": "Videl",
+  "file_subtitle": "Student",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "423d88bf0da325c061dfa5abe2db612e1d87c891"
+ },
+ "vision": {
+  "id": "S10_BST_90",
+  "name": "Videl",
+  "sub": "Student",
+  "type": "Main Personality",
+  "num": "S90",
+  "lvl": 1,
+  "stages": [
+   150,
+   140,
+   130,
+   120,
+   110,
+   100,
+   80,
+   50,
+   20,
+   10,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: When you perform an attack that uses the AT, raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nDAMAGE: AT stages.\nHIT: Gain 5 stages or destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S10.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "VIDEL",
+  "stages_text": "150\n\n140\n\n130\n\n120\n\n110\n100\n80\n50\n\n20\n\n0",
+  "error": null
+ }
+}

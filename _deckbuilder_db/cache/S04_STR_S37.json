@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S37",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S37_Black Overpowering Attack.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S37_Black Overpowering Attack.png",
+  "prefix": "S",
+  "number": 37,
+  "card_number": "S37",
+  "name_part": "Black Overpowering Attack",
+  "file_name": "Black Overpowering Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5b1e3f116cdd09494b63d63fa1fec5fda84eaa26"
+ },
+ "vision": {
+  "id": "S04_STR_S37",
+  "name": "Black Overpowering Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may not perform physical attacks for the remainder of combat.\nDAMAGE: AT +6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 C19; title printed in gold",
+  "_src": "S04.jsonl:190"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "ie cee a NW £00 ASTER Le. a\n\nBLACK OVERPOWERING ATTACK D s37 |\n\n1 ST FE) GEER 20% fF___#N N NS 4 : 5.\nTle tt—‘é—™_",
+  "stages_text": ",\n4\n3",
+  "error": null
+ }
+}

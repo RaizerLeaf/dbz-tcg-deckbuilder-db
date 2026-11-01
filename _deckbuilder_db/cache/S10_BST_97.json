@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_97",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "97_Dabura - Enraged.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/97_Dabura - Enraged.png",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Dabura - Enraged",
+  "file_name": "Dabura",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8ee554d81518791cb85641c30882a3986c9802b5"
+ },
+ "vision": {
+  "id": "S10_BST_97",
+  "name": "Dabura",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "S97",
+  "lvl": 4,
+  "stages": [
+   2600000,
+   2000000,
+   1700000,
+   1500000,
+   1000000,
+   666000,
+   250000,
+   100000,
+   50000,
+   30000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage and +1 life card of damage and gain \"All of your opponent's personalities lose 2 stages.\"\nPOWER: Search your Life Deck or discard pile for a card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink) = Majin",
+  "_src": "S10.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "Zi. DABURA\nLEVEL ENRAGED () 537\nfC Of e-””ti(‘(“‘éw Mh a SN \\",
+  "stages_text": "2,600,000\n2,000,000\n1,700,000\n1,500,000\n\n1,000,000\n\n666,000\n\n250,000\n\n100,000\n50,000\n30,000\n0",
+  "error": null
+ }
+}

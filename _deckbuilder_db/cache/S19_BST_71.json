@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_71",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "71_Fused Zamasu - Monstrosity.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/71_Fused Zamasu - Monstrosity.png",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Fused Zamasu - Monstrosity",
+  "file_name": "Fused Zamasu",
+  "file_subtitle": "Monstrosity",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "949188f2006ada776c8511bb18057353c33d7cfb"
+ },
+ "vision": {
+  "id": "S19_BST_71",
+  "name": "Fused Zamasu",
+  "sub": "Monstrosity",
+  "type": "Main Personality",
+  "num": "S71",
+  "lvl": 3,
+  "stages": [
+   230000000,
+   125000000,
+   29000000,
+   1499000,
+   1120000,
+   880000,
+   499000,
+   333000,
+   92000,
+   50000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God",
+   "Fusion"
+  ],
+  "text": "(When you reach this level, Rejuvenate up to 3 cards with [Trait:God] in the parenthetical text or text-box from your discard pile.)\n[Continuous]: Your attacks deal +2 life cards.\nPOWER: Search your Life Deck for a card with [Trait:God] in the parenthetical text or text-box and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G, F",
+  "_src": "S19.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 83.6,
+  "header_text": "3 FUSED ZAMASU S71\nLEVEL | MONSTROSITY\nF_IAW",
+  "stages_text": "230,000,000\n125,000,000\n29,000,000\n1,499,000\n1,120,000\n880,000\n499,000\n333,000\n92,000\n50,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_14",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "14_Blue Flight.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/14_Blue Flight.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Blue Flight",
+  "file_name": "Blue Flight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "8e5d17dacf236950f6ca6f7771c679ff64ca930e"
+ },
+ "vision": {
+  "id": "S04_BST_14",
+  "name": "Blue Flight",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may banish an Ally you control to search your Life Deck or discard pile for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.8,
+  "header_text": "BLUE FLIGHT () C14",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

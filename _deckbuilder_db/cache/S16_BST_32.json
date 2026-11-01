@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_32",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "32_Saiyan Overload Drill.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/32_Saiyan Overload Drill.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Saiyan Overload Drill",
+  "file_name": "Saiyan Overload Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "361a7c24b7f987c079795115e7327cd02c583ac2"
+ },
+ "vision": {
+  "id": "S16_BST_32",
+  "name": "Saiyan Overload Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand during combat, you may play it.)\n[Continuous]: Whenever you perform a Styled attack, you may discard a card from your hand. If you do, that attack deals +X life cards. X = the amount of Endurance on the discarded card (to a maximum of 4).",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S16.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 87.4,
+  "header_text": "SAIYAN OVERLOAD DRILL €) U32",
+  "stages_text": null,
+  "error": null
+ }
+}

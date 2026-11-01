@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P45",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P45_Orange Reverent Ki Push.png",
+  "rel_path": "z_OP Series/OP5/P45_Orange Reverent Ki Push.png",
+  "prefix": "P",
+  "number": 45,
+  "card_number": "P45",
+  "name_part": "Orange Reverent Ki Push",
+  "file_name": "Orange Reverent Ki Push",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c4d5a556e3c1271a1198e49ad1c4fd861c33dccf"
+ },
+ "vision": {
+  "id": "OP5_OP_P45",
+  "name": "Orange Reverent Ki Push",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:God] only. You must destroy the top 2 cards of your Life Deck to use this card.)\n[Attack] Energy attack.\nSearch your discard pile for an Ally or Styled Drill and place it into play at the end of combat.\nDAMAGE: 5 life cards.\n(Created by Ty Tracey, OP4 West Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); restriction icon zoomed: gold G badge (God); no Endurance badge",
+  "_src": "OP.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 92.0,
+  "header_text": "ORANGE REVERENT KI PUSH C) P45 |\nnaw a Wi ae",
+  "stages_text": "1\n2\n,",
+  "error": null
+ }
+}

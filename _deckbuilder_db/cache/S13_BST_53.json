@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_53",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "53_Gotenks - Cocky.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/53_Gotenks - Cocky.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Gotenks - Cocky",
+  "file_name": "Gotenks",
+  "file_subtitle": "Cocky",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "652d014dbfb88e894fbefbe5250e7fe2bb9cd0ed"
+ },
+ "vision": {
+  "id": "S13_BST_53",
+  "name": "Gotenks",
+  "sub": "Cocky",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 1,
+  "stages": [
+   700000,
+   500000,
+   250000,
+   100000,
+   70000,
+   40000,
+   10000,
+   7000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled.\n[Instant] POWER: Use after one of your effects destroys or banishes cards from a player's Life Deck. Raise your anger 2 levels.\n[Defense] POWER: Prevent all damage from an attack.\nDestroy the top card of each player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges S, E, F; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.8,
+  "header_text": "LL GOTENKS\nLEVEL COCKY () Sas\ni ¥",
+  "stages_text": "700,000\n500,000\n250,000\n100,000\n\n5 70,000\n40,000\n10,000\n7,000\n\n4,000\n\n2,000\n\n0",
+  "error": null
+ }
+}

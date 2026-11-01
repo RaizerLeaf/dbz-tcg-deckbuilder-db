@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_11",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "11_Blue Counter.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/11_Blue Counter.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Blue Counter",
+  "file_name": "Blue Counter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "5f25bb7ed19927d3edb2c5d4f4de3913b9d4f832"
+ },
+ "vision": {
+  "id": "S04_BST_11",
+  "name": "Blue Counter",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf this card stopped an attack with a HIT effect, you may banish an Ally you control to perform a copy of that attack for your next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.6,
+  "header_text": "BLUE COUNTER () C11\ni ae ©",
+  "stages_text": ",\n,\n,\n,\n2",
+  "error": null
+ }
+}

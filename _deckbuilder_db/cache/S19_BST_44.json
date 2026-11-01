@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_44",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "44_Unpredictable Volley.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/44_Unpredictable Volley.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Unpredictable Volley",
+  "file_name": "Unpredictable Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bdd0409714c53af663f8afda2d972c38d1f278de"
+ },
+ "vision": {
+  "id": "S19_BST_44",
+  "name": "Unpredictable Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n([Trait:Fusion] only. This card is considered Styled.)\n[Attack] 2: Energy attack.\nLower your opponent's anger 1. Your opponent shuffles their hand into their Life Deck and draws the same number of cards.\nDAMAGE: 6 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; deck restriction icon zoomed: grey F badge (Fusion); stage cost printed as '2:'",
+  "_src": "S19.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 84.2,
+  "header_text": "UNPREDICTABLE VOLLEY )uR44|\n> EEUU /",
+  "stages_text": "",
+  "error": null
+ }
+}

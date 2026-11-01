@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_30",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "30_Saiyan Focused Blast.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/30_Saiyan Focused Blast.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Saiyan Focused Blast",
+  "file_name": "Saiyan Focused Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a4f6139ceb6d5f4221fd29047f36859da305b72e"
+ },
+ "vision": {
+  "id": "S15_BST_30",
+  "name": "Saiyan Focused Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] 2: Energy attack.\nFocused. If your MP is level 2, Unpreventable. Whenever you would gain anger this combat, you may gain 3 stages instead.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'",
+  "_src": "S15.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 89.5,
+  "header_text": "SAIYAN FOCUSED BLAST © v30",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

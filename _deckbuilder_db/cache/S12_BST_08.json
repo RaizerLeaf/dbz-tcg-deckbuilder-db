@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_08",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "08_Blue Crushing Blow.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/08_Blue Crushing Blow.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Crushing Blow",
+  "file_name": "Blue Crushing Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3e449cc10e7b95fd1855aa1aa417c2b819b2fb1f"
+ },
+ "vision": {
+  "id": "S12_BST_08",
+  "name": "Blue Crushing Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\n[Trait:Alien]: Lower your opponent's anger 2 levels.\nDAMAGE: 5 life cards or 5 stages.\nHIT: If you have used the Power of a Drill to perform an attack this combat, you may draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: purple Alien badge; no Endurance badge",
+  "_src": "S12.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 89.2,
+  "header_text": "BLUE CRUSHING BLOW ) ce.\nan > + Paw / we — |",
+  "stages_text": ",\n22\n2,\n,",
+  "error": null
+ }
+}

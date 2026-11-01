@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_19",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "19_Namekian Assistance Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/19_Namekian Assistance Drill.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Namekian Assistance Drill",
+  "file_name": "Namekian Assistance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "081aaaf3c3a79fd49d1b90d50b9ab23483012ad4"
+ },
+ "vision": {
+  "id": "S04_BST_19",
+  "name": "Namekian Assistance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous] While you control 2 or more Allies or 2 or more Dragon Balls, your maximum hand size is +1 during the Discard Step.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no colon after the infinity icon, as printed",
+  "_src": "S04.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.5,
+  "header_text": "+m oo +\n; cA / \\ Fe A\n| . . C0 er ee (Pn 2:",
+  "stages_text": null,
+  "error": null
+ }
+}

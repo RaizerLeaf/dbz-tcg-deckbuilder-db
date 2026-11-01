@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S101",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S101_Saiyan Back Crash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S101_Saiyan Back Crash.png",
+  "prefix": "S",
+  "number": 101,
+  "card_number": "S101",
+  "name_part": "Saiyan Back Crash",
+  "file_name": "Saiyan Back Crash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d45e180fa1091c53f3668539195f601cf4b019b"
+ },
+ "vision": {
+  "id": "S07_STR_S101",
+  "name": "Saiyan Back Crash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(If this card is Rejuvenated during combat, you may banish it instead to use a critical damage effect.)\n[Attack] Physical attack.\nYou may discard a card from your hand to use a critical damage effect.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_98; text compared on the sheet",
+  "_src": "S07.jsonl:284"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 78.3,
+  "header_text": "SAIYAN BACK CRASH @® si0\no> BA aw 4 \\ eee,",
+  "stages_text": ",\n4\n\n3 0\n\n,",
+  "error": null
+ }
+}

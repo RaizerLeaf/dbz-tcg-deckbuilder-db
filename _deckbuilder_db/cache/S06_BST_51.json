@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_51",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "51_Saiyan Targeting.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/51_Saiyan Targeting.jpg",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Saiyan Targeting",
+  "file_name": "Saiyan Targeting",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "fe870cd42493ddb062f4d84b9ea9d3b85e842872"
+ },
+ "vision": {
+  "id": "S06_BST_51",
+  "name": "Saiyan Targeting",
+  "sub": null,
+  "type": "Setup",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Attach to your MP. While attached and while you control no Drills, the effects of Drills with [Continuous] Powers cannot be used. Banish this card when you change levels.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "SAIYAN TARGETING a) C51 |",
+  "stages_text": null,
+  "error": null
+ }
+}

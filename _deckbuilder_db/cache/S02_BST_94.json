@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_94",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "94_Saiyan Rescue.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/94_Saiyan Rescue.jpg",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Saiyan Rescue",
+  "file_name": "Saiyan Rescue",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1edf346af494a5d3daeec78d178c787cbea005fb"
+ },
+ "vision": {
+  "id": "S02_BST_94",
+  "name": "Saiyan Rescue",
+  "sub": null,
+  "type": "Event",
+  "num": "U94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Saiyan Rescue\" attached.) POWER: Attach to your MP. Rejuvenate 1. [Continuous]: Once per turn as an action, choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.6,
+  "header_text": "(SAIYAN RESCUE = (2",
+  "stages_text": "3 4\n7",
+  "error": null
+ }
+}

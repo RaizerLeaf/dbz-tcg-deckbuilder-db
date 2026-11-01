@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_30",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "30_Afterimage Technique.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/30_Afterimage Technique.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Afterimage Technique",
+  "file_name": "Afterimage Technique",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "4e9cec311b74925144def4fcd97b3aa167a2467e"
+ },
+ "vision": {
+  "id": "S08_BST_30",
+  "name": "Afterimage Technique",
+  "sub": null,
+  "type": "Setup",
+  "num": "R30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. When this card enters play, search your Life Deck for a Named card and destroy it. You may shuffle this card from your hand into your Life Deck as an action to place a Dragon Ball or attached card in play on top of its owner's Life Deck.)\n[Defense] POWER: You may banish a Named card in your discard pile to stop an attack. Your next attack this combat is Focused.\n(Created by Sundeep Kutumbaka, 2016 World Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame",
+  "_src": "S08.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "AFTERIMAGE TECHNIQUE a R30 |\nTE",
+  "stages_text": null,
+  "error": null
+ }
+}

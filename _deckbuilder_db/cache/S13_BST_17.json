@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_17",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "17_Namekian Gut Kick.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/17_Namekian Gut Kick.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Namekian Gut Kick",
+  "file_name": "Namekian Gut Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d9fc56ecf49fafcdcd8ed5809ca5b2deab4566a9"
+ },
+ "vision": {
+  "id": "S13_BST_17",
+  "name": "Namekian Gut Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. You may discard a card from your hand. If you discarded a Styled card, this attack stays in play to be used a second time this combat.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.2,
+  "header_text": "NAMEKIAN GUT KICK\nll",
+  "stages_text": "2\n,\n1",
+  "error": null
+ }
+}

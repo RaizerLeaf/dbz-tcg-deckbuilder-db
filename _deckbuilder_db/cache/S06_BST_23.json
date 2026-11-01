@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_23",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "23_Namekian Vanishing Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/23_Namekian Vanishing Drill.jpg",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Namekian Vanishing Drill",
+  "file_name": "Namekian Vanishing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "ec351f0b8e60d69db67e7ba38b082efc1d1b99eb"
+ },
+ "vision": {
+  "id": "S06_BST_23",
+  "name": "Namekian Vanishing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Non-Styled attacks deal -2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 67.6,
+  "header_text": "NAMEKIAN VANISHING DRILL a) C23 |",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_74",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "74_Captain Ginyu - Frog No More.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/74_Captain Ginyu - Frog No More.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Captain Ginyu - Frog No More",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Frog No More",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "79cb1367b77b5074caae7671258970eb6cb3ac9d"
+ },
+ "vision": {
+  "id": "S16_BST_74",
+  "name": "Captain Ginyu",
+  "sub": "Frog No More",
+  "type": "Main Personality",
+  "num": "S74",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1250000,
+   1000000,
+   750000,
+   500000,
+   350000,
+   200000,
+   150000,
+   70000,
+   40000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: You may use the Powers of your \"Ginyu Force\" Allies regardless of your MP's power stage. Your attacks deal +2 life cards.\n[Instant] POWER: Use at the start of your Planning Step. Search your Life Deck or discard pile for an [Trait:Alien] Ally and play it.\nPOWER: Banish X cards from a player's discard pile. X = the number of \"Ginyu Force\" Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S16.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 79.4,
+  "header_text": "SQ CAPTAIN GINYU\n; LEVEL FROG NO MORE S74",
+  "stages_text": "1,500,000\n1,250,000\n1,000,000\n\n750,000\n\n500,000\n\n350,000\n\n200,000\n\n150,000\n70,000\n40,000\n0",
+  "error": null
+ }
+}

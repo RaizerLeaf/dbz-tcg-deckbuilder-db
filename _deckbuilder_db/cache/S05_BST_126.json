@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_126",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "126_Namekian Face Crush.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/126_Namekian Face Crush.png",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Namekian Face Crush",
+  "file_name": "Namekian Face Crush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9380e5d5af56c60fc2df0f9fab827c7a92c6338c"
+ },
+ "vision": {
+  "id": "S05_BST_126",
+  "name": "Namekian Face Crush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nReveal your hand.\nDAMAGE: 4 +X stages. X = the number of Dragon Balls you revealed.\nHIT: If your opponent prevented damage from this attack, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "NAMEKIAN FACE CRUSH ) R126.\n—e \\",
+  "stages_text": "7 ,\n347",
+  "error": null
+ }
+}

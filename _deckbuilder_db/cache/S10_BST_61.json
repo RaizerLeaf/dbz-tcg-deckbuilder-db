@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_61",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "61_Kibito - Assistant.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/61_Kibito - Assistant.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Kibito - Assistant",
+  "file_name": "Kibito",
+  "file_subtitle": "Assistant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e2d5b8a2066abd8b493ae19dba63c1dcb19ed2c2"
+ },
+ "vision": {
+  "id": "S10_BST_61",
+  "name": "Kibito",
+  "sub": "Assistant",
+  "type": "Ally",
+  "num": "U61",
+  "lvl": 1,
+  "stages": [
+   100000,
+   60000,
+   40000,
+   10000,
+   5000,
+   2500,
+   1500,
+   1000,
+   750,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "(If your MP is Supreme Kai, you may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge G",
+  "_src": "S10.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "1 ere\nLEVEL | ASSISTANT E) U61",
+  "stages_text": "100,000\n60,000\n40,000\n\n10,000\n5,000\n2,500\n\n1,500\n1,000\n750\n\n500\n\n0",
+  "error": null
+ }
+}

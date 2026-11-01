@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_126",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "126_Saiyan Intimidation.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/126_Saiyan Intimidation.jpg",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Saiyan Intimidation",
+  "file_name": "Saiyan Intimidation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d1306ce5c4e7bc38c611b20fb9df5c405ed2225f"
+ },
+ "vision": {
+  "id": "S02_BST_126",
+  "name": "Saiyan Intimidation",
+  "sub": null,
+  "type": "Setup",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.5,
+  "header_text": "(SAIYAN INTIMIDATION (a\nal",
+  "stages_text": "",
+  "error": null
+ }
+}

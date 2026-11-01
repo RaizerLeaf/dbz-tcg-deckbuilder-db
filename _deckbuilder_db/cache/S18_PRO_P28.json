@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P28",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P28_Saiyan Tracking Blast.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P28_Saiyan Tracking Blast.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Saiyan Tracking Blast",
+  "file_name": "Saiyan Tracking Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "abb6f163eac03f53483226767f588eea0818e1e7"
+ },
+ "vision": {
+  "id": "S18_PRO_P28",
+  "name": "Saiyan Tracking Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(You cannot win by MPPV if you use this card.)\n[Attack] 3: Energy attack.\nAttach to your MP. While attached, your opponent's effects cannot lower your MP's personality level. Banish this card after your opponent uses an effect that would have lowered your MP's personality level.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge reads 0; stage cost printed as '3:'; disclaimer line also mentions 'Dragon Ball Daima' (printed on this card only)",
+  "_src": "S18.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 90.5,
+  "header_text": "SAIYAN TRACKING BLAST @) rz\nA) a UR",
+  "stages_text": "",
+  "error": null
+ }
+}

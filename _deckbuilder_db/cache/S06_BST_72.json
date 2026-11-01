@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_72",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "72_Cooler - Overlord.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/72_Cooler - Overlord.jpg",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Cooler - Overlord",
+  "file_name": "Cooler",
+  "file_subtitle": "Overlord",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f43c9553c2c2efd86c0d99f268ff6dd4bdfab4aa"
+ },
+ "vision": {
+  "id": "S06_BST_72",
+  "name": "Cooler",
+  "sub": "Overlord",
+  "type": "Main Personality",
+  "num": "U72",
+  "lvl": 4,
+  "stages": [
+   2200000,
+   1900000,
+   1600000,
+   1300000,
+   1000000,
+   700000,
+   400000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [],
+  "text": "(You may only use this card's non-[Continuous] power once per game.)\n[Continuous]: Whenever a player gains anger, Rejuvenate 1.\nPOWER: Lower your MP 1 level to Rejuvenate 7 and end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'. PUR 6 here; PZP P143 reprint prints PUR 5",
+  "_src": "S06.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.8,
+  "header_text": "ai COOLER\nLEVEL OVERLORD",
+  "stages_text": "2,200,000\n1,900,000\n1,600,000\n\n1,300,000\n\n1,000,000\n\n700,000\n\n400,000\n\n100,000\n\n50,000\n\n25,000\n\n0",
+  "error": null
+ }
+}

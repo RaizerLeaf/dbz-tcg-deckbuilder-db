@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_76",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "76_Cell Jr. - Trapped.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/76_Cell Jr. - Trapped.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Cell Jr. - Trapped",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Trapped",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9379d6e1a1cde5d0548c62f4a2572a54ad877bcf"
+ },
+ "vision": {
+  "id": "S07_BST_76",
+  "name": "Cell Jr.",
+  "sub": "Trapped",
+  "type": "Ally",
+  "num": "U76",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 0,
+  "align": "Villain",
+  "traits": [],
+  "text": "(This personality cannot gain stages.)\n[Continuous]: While you control 1 Ally, your effects that destroy cards from the top of your opponent's Life Deck have that amount increased by 1. If your MP is Cell, your opponent's attacks deal -1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; PUR printed 0",
+  "_src": "S07.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.844,
+  "lower_conf": 77.2,
+  "header_text": "1 EE IR. €)\nLEVEL |} TRAPPED U76",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

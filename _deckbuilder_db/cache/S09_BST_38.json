@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_38",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "38_Kami's Focused Beams.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/38_Kami's Focused Beams.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Kami's Focused Beams",
+  "file_name": "Kami's Focused Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9595c990179b26a23d6662d049739fa3f9396ab"
+ },
+ "vision": {
+  "id": "S09_BST_38",
+  "name": "Kami's Focused Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nChoose a damage modifier in play. It is doubled for this attack. Search your Life Deck for a Styled Drill and place it into play.\nDAMAGE: 2 life cards.\nHIT: You may choose a non-personality/non-Mastery card you control in play. If you do, your opponent gains control of it and choose a card in your discard pile and Rejuvenate it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.6,
+  "header_text": "KAMI'S FOCUSED BEAMS () R38",
+  "stages_text": ",\n,\n1,",
+  "error": null
+ }
+}

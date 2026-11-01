@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_39",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "39_Energy Toss.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/39_Energy Toss.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Energy Toss",
+  "file_name": "Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f8167c103c1010b5dbaa9560ec1660a616cd719e"
+ },
+ "vision": {
+  "id": "S10_BST_39",
+  "name": "Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. Lower your opponent's anger 2 levels.\n[Trait:Earthling]: If you have only 1 Trait, choose 3 cards in your opponent's discard pile and banish them. This attack deals +2 life cards of damage.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; inline icon zoomed: blue Capsule Corp E badge (Earthling)",
+  "_src": "S10.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 87.6,
+  "header_text": "ENERGY TOSS ) R39",
+  "stages_text": "3 4,\n,\n\n,\n\n,",
+  "error": null
+ }
+}

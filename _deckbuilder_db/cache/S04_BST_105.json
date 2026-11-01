@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_105",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "105_Blue Transportation Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/105_Blue Transportation Drill.png",
+  "prefix": null,
+  "number": 105,
+  "card_number": "105",
+  "name_part": "Blue Transportation Drill",
+  "file_name": "Blue Transportation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "addb0ea89c05abfc2012574eb29183bc9bbf1bb2"
+ },
+ "vision": {
+  "id": "S04_BST_105",
+  "name": "Blue Transportation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when an Ally enters play under your control during combat and it is the only Ally you control. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.9,
+  "header_text": "= eer\nP bes oe",
+  "stages_text": null,
+  "error": null
+ }
+}

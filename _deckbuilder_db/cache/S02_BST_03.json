@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_03",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "03_Nappa - Rested.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/03_Nappa - Rested.jpg",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Nappa - Rested",
+  "file_name": "Nappa",
+  "file_subtitle": "Rested",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0ef4916dda5d741c305f6f8244b0ea4783082613"
+ },
+ "vision": {
+  "id": "S02_BST_03",
+  "name": "Nappa",
+  "sub": "Rested",
+  "type": "Main Personality",
+  "num": "C3",
+  "lvl": 1,
+  "stages": [
+   8750,
+   8000,
+   7250,
+   6500,
+   5750,
+   5000,
+   4250,
+   3500,
+   2750,
+   2000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: 3 stages. Destroy one of your opponent's Allies.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.4,
+  "header_text": "| 1 NAPPA che () co",
+  "stages_text": "8,750\n\n8,000\n\n7,250\n\n6,500\n5,750\n5,000\n4,250\n3,500\n\n2,750\n\n2,000\n\n0",
+  "error": null
+ }
+}

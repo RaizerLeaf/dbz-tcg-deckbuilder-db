@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P7",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P7_Supreme Kai - Ready for Battle.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P7_Supreme Kai - Ready for Battle.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Supreme Kai - Ready for Battle",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Ready for Battle",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8570e563a8302d03fb811defdcbeeaec7633318c"
+ },
+ "vision": {
+  "id": "S10_PRO_P7",
+  "name": "Supreme Kai",
+  "sub": "Ready for Battle",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   1100000,
+   1000000,
+   900000,
+   800000,
+   600000,
+   200000,
+   100000,
+   75000,
+   50000,
+   20000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Choose up to 5 cards in your discard pile and shuffle them into your Life Deck.\nPOWER: Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same as S10 S88",
+  "_src": "S10.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.1,
+  "header_text": "— - See Se\nYJ) SUPREME KAI\n3 READY FOR BATTLE oa =7 )\n. eae” / ‘Aaa soa NN ANN",
+  "stages_text": "1,100,000\n1,000,000\n900,000\n800,000\n600,000\n\n0\n200,000\n100,000\n75,000\n50,000\n20,000\n0",
+  "error": null
+ }
+}

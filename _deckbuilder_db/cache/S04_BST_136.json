@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_136",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "136_Energized Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/136_Energized Strike.png",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Energized Strike",
+  "file_name": "Energized Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "666df982ada61a2d07de6d606341d59bba0c76c0"
+ },
+ "vision": {
+  "id": "S04_BST_136",
+  "name": "Energized Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack.\nPlayers can only gain anger from the effects of Physical Combat or Energy Combat cards this turn.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 81.8,
+  "header_text": "ENERGIZED STRIKE ) R136\n. peel Se VALS,",
+  "stages_text": ",",
+  "error": null
+ }
+}

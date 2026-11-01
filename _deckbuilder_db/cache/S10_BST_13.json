@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_13",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "13_Blue Terror.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/13_Blue Terror.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Blue Terror",
+  "file_name": "Blue Terror",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7af5d7b4c85920f3dbd3f69d26a4297b0b2771f3"
+ },
+ "vision": {
+  "id": "S10_BST_13",
+  "name": "Blue Terror",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Attack] Energy attack costing 2 stages.\n[Trait:God]: Search your Life Deck for a non-Dragon Ball card and place it into your hand.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline Trait icon (gold God icon) leads the second line; FanZ rewrite of S01 R129 Blue Terror",
+  "_src": "S10.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 92.4,
+  "header_text": "BLUE TERROR () R13\na NN\\\\ \\ SR",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

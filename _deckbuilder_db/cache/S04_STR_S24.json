@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S24",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S24_Android 17 - In Action.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S24_Android 17 - In Action.png",
+  "prefix": "S",
+  "number": 24,
+  "card_number": "S24",
+  "name_part": "Android 17 - In Action",
+  "file_name": "Android 17",
+  "file_subtitle": "In Action",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "679af0f166a945e9d51b9f9a92d6b031836b51de"
+ },
+ "vision": {
+  "id": "S04_STR_S24",
+  "name": "Android 17",
+  "sub": "In Action",
+  "type": "Main Personality",
+  "num": "S24",
+  "lvl": 4,
+  "stages": [
+   1900000,
+   1700000,
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your physical attacks deal +X stages of damage and can only be stopped by Physical Combat cards. X = the number of Allies in your opponent's Banished Zone.\n[Instant] POWER: Use when entering combat. You may search your Banished Zone for \"Android 17's Van\" and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads VILLAIN",
+  "_src": "S04.jsonl:177"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "| 4 ANDROID 17 ++ '\nIN ACTION 2 S24",
+  "stages_text": "1,900,000\n1,700,000\n1,500,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000\n\n0",
+  "error": null
+ }
+}

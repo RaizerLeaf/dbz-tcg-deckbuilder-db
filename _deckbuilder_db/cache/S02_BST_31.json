@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_31",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "31_Namekian Forearm Block.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/31_Namekian Forearm Block.jpg",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Namekian Forearm Block",
+  "file_name": "Namekian Forearm Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a5ed7bf9f6afda2cc62d5873fc1d360c69790ba4"
+ },
+ "vision": {
+  "id": "S02_BST_31",
+  "name": "Namekian Forearm Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Raise your anger 1 level. You may discard a Dragon Ball from your hand. If you do, your physical attacks deal +1 stage of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.7,
+  "header_text": "(NAMEKIAN FOREARM. BLOCK (=",
+  "stages_text": "7",
+  "error": null
+ }
+}

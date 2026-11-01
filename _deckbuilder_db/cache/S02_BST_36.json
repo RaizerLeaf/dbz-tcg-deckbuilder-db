@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_36",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "36_Namekian Quick Shot.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/36_Namekian Quick Shot.jpg",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Namekian Quick Shot",
+  "file_name": "Namekian Quick Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "13596abba88671cc926f2b40c0f608a8e356a743"
+ },
+ "vision": {
+  "id": "S02_BST_36",
+  "name": "Namekian Quick Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack. DAMAGE: 2 life cards. You may discard a Dragon Ball from your hand. If you do, capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "(NAMEKIAN QUICK:SHOT (=e",
+  "stages_text": "4",
+  "error": null
+ }
+}

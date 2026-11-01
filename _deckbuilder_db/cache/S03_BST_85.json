@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_85",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "85_Blue Surround.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/85_Blue Surround.jpg",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Blue Surround",
+  "file_name": "Blue Surround",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "52c4aae73c3c9ee2e7cc0179fd6613c432402290"
+ },
+ "vision": {
+  "id": "S03_BST_85",
+  "name": "Blue Surround",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 5 stages. HIT: Attach to your opponent's MP. While attached at the start of your opponent's Rejuvenation Step, your opponent destroys a Setup or Drill if he did not declare Combat that turn. Banish this card when your opponent changes levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "| BLUE SURROUND... () bas\nfF NY _——— ee,",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

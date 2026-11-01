@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S47",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S47_Black Foreshadowing.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S47_Black Foreshadowing.png",
+  "prefix": "S",
+  "number": 47,
+  "card_number": "S47",
+  "name_part": "Black Foreshadowing",
+  "file_name": "Black Foreshadowing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3a7445bc566c79cef76837bf08a5714f2e854f6f"
+ },
+ "vision": {
+  "id": "S04_STR_S47",
+  "name": "Black Foreshadowing",
+  "sub": null,
+  "type": "Event",
+  "num": "S47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Destroy the top X cards of your opponent's Life Deck and gain X stages. X = the number of different card types in your opponent's Banished Zone.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 U74",
+  "_src": "S04.jsonl:200"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 82.4,
+  "header_text": "ne ne Pe Ay\nBLACK FORESHADOWING () $47\n— wa aK N f",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

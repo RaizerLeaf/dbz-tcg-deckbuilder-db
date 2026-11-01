@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_77",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "77_Frieza - Pragmatic.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/77_Frieza - Pragmatic.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Frieza - Pragmatic",
+  "file_name": "Frieza",
+  "file_subtitle": "Pragmatic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7cf3dbaa8849d6b957dcd5d63e265414f83aee48"
+ },
+ "vision": {
+  "id": "S16_BST_77",
+  "name": "Frieza",
+  "sub": "Pragmatic",
+  "type": "Main Personality",
+  "num": "S77",
+  "lvl": 2,
+  "stages": [
+   9030000,
+   6700000,
+   3450000,
+   1080000,
+   860000,
+   550000,
+   370000,
+   190000,
+   82000,
+   33000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card.\nPOWER: You may destroy the top 2 cards of each player's Life Deck. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S16.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "— FRIEZA\nLEVEL PRAGMATIC () S//",
+  "stages_text": "9,030,000\n6,700,000\n3,450,000\n1,080,000\n860,000\n550,000\n370,000\n190,000\n82,000\n33,000\n0",
+  "error": null
+ }
+}

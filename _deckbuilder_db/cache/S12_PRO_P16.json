@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P16",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P16_Blue Sowrd Stance.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P16_Blue Sowrd Stance.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Blue Sowrd Stance",
+  "file_name": "Blue Sowrd Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f4f6de94555f36e3effb9abf17732d358826cd43"
+ },
+ "vision": {
+  "id": "S12_PRO_P16",
+  "name": "Blue Sowrd Stance",
+  "sub": null,
+  "type": "Setup",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: [Attack] Physical attack.\nDAMAGE: 3 life cards or 3 stages.\nHIT: Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; title printed 'Sowrd' (typo on the card, matches filename)",
+  "_src": "S12.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 71.2,
+  "header_text": "BLUE SWORD STANCE () P16",
+  "stages_text": null,
+  "error": null
+ }
+}

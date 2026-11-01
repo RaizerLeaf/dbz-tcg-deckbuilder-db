@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S73",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S73_Orange Burning Aura Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S73_Orange Burning Aura Drill.png",
+  "prefix": "S",
+  "number": 73,
+  "card_number": "S73",
+  "name_part": "Orange Burning Aura Drill",
+  "file_name": "Orange Burning Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f5eabacd48ce66c9f582dab19a4fec4c05d41ddc"
+ },
+ "vision": {
+  "id": "S07_STR_S73",
+  "name": "Orange Burning Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if your opponent has not performed a successful physical attack this combat.) [Defense] POWER: Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S99; text compared on the sheet",
+  "_src": "S07.jsonl:256"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.4,
+  "header_text": "OSRANGE BURNING AURA DRILL & $73 |",
+  "stages_text": null,
+  "error": null
+ }
+}

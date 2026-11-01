@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_38",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "38_Orange Upward Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/38_Orange Upward Strike.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Orange Upward Strike",
+  "file_name": "Orange Upward Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "8272430095d60a7363ff7f02f6f617e954d66158"
+ },
+ "vision": {
+  "id": "S04_BST_38",
+  "name": "Orange Upward Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Lower your opponent's anger X levels. X = the number of Drills you control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "ORANGE UPWARD STRIKE ) 038\nSS ee",
+  "stages_text": ",\n3",
+  "error": null
+ }
+}

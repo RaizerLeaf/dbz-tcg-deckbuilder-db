@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_90",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "90_Red Palm Strike.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/90_Red Palm Strike.jpg",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Red Palm Strike",
+  "file_name": "Red Palm Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "71e711e1d8fe4fa0280771e44039d0f5a7ef632c"
+ },
+ "vision": {
+  "id": "S02_BST_90",
+  "name": "Red Palm Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Attack] Physical attack costing 1 stage. DAMAGE: AT +2 stages. Raise your anger 1 level. For the remainder of combat, whenever your opponent uses Endurance you may lower your anger 1 level. If you do, reduce that Endurance to 0. HIT: Use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "RED PALM STRIKE () Uso",
+  "stages_text": "4",
+  "error": null
+ }
+}

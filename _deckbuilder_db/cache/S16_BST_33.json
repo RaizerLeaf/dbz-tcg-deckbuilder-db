@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_33",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "33_Saiyan Assault.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/33_Saiyan Assault.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Saiyan Assault",
+  "file_name": "Saiyan Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3333471e0bcc970af939daf9b83f0aee06ac23cf"
+ },
+ "vision": {
+  "id": "S16_BST_33",
+  "name": "Saiyan Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nGain 3 stages. [Warning]: If you have only 1 Trait, Focused and raise your anger 2.\nDAMAGE: 6 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 91.5,
+  "header_text": "SAIYAN ASSAULT Eé) R33",
+  "stages_text": "4\n3\n1,\n\n2,",
+  "error": null
+ }
+}

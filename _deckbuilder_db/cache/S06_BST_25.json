@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_25",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "25_Namekian Arm Shield.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/25_Namekian Arm Shield.jpg",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Namekian Arm Shield",
+  "file_name": "Namekian Arm Shield",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "42861192ceb2d027e7a6da498bd5bcb829f16b3b"
+ },
+ "vision": {
+  "id": "S06_BST_25",
+  "name": "Namekian Arm Shield",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf you have no cards in your hand, your opponent's attacks deal -2 stages of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "NAMEKIAN ARM SHIELD ¢ ) C25\n| eee\"",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

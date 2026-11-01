@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_15",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "15_Namekian Timing.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/15_Namekian Timing.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Timing",
+  "file_name": "Namekian Timing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2cff2eb93fa2acbd90ea6b68bbcd988e09d62def"
+ },
+ "vision": {
+  "id": "S13_BST_15",
+  "name": "Namekian Timing",
+  "sub": null,
+  "type": "Event",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Destroy a Setup or Drill. If your MP has 2 or less Traits, raise your anger 1 level and gain 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "NAMEKIAN TIMING C) C15",
+  "stages_text": "4\n,\n2\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P34",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P34_Trunks' Sword Stance.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P34_Trunks' Sword Stance.png",
+  "prefix": "P",
+  "number": 34,
+  "card_number": "P34",
+  "name_part": "Trunks' Sword Stance",
+  "file_name": "Trunks' Sword Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8a628201255f4cec342aefc0fd365b274bef3e77"
+ },
+ "vision": {
+  "id": "S18_PRO_P34",
+  "name": "Trunks' Sword Stance",
+  "sub": null,
+  "type": "Event",
+  "num": "P34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\n[Instant] POWER: Use when entering combat. Name a card. Reveal the top card of your Life Deck. If the revealed card matches the card you named, raise your anger 6. You may shuffle your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S18.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.2,
+  "header_text": "TRUNKS' SWORD STANCE () P34\nAN f, L a ~~ —_ Sf",
+  "stages_text": ",,",
+  "error": null
+ }
+}

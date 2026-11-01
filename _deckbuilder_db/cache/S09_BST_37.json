@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_37",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "37_Kami's Guardian Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/37_Kami's Guardian Drill.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Kami's Guardian Drill",
+  "file_name": "Kami's Guardian Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b13ef9ff718c6285f739139eef4c5074be3a8b6e"
+ },
+ "vision": {
+  "id": "S09_BST_37",
+  "name": "Kami's Guardian Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This card is considered Styled.)\n[Continuous]: At the beginning of each player's turn, destroy the top X cards of that player's Life Deck. X = the number of Earth Dragon Balls the owner of this Drill owns in play.\nPOWER: Choose a card in your discard pile and Rejuvenate it. If you control 3 or more Earth Dragon Balls, you may choose 2 instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S09.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 80.0,
+  "header_text": "KAMI'S GUARDIAN DRILL a R37 |\n7",
+  "stages_text": null,
+  "error": null
+ }
+}

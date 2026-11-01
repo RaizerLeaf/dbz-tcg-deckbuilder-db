@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S159",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S159_Saiyan Direct Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S159_Saiyan Direct Strike.png",
+  "prefix": "S",
+  "number": 159,
+  "card_number": "S159",
+  "name_part": "Saiyan Direct Strike",
+  "file_name": "Saiyan Direct Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3f971147c9829a8810bb0d6c2f932f409ee22df3"
+ },
+ "vision": {
+  "id": "S04_STR_S159",
+  "name": "Saiyan Direct Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S159",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n[Attack] Physical attack.\nDAMAGE: AT +3 stages and +2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S81",
+  "_src": "S04.jsonl:312"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 78.1,
+  "header_text": "Fo OY A A WW A VS WY\nSAIYAN DIRECT STRIKE @ s159\na a ey x",
+  "stages_text": "37 7\n,",
+  "error": null
+ }
+}

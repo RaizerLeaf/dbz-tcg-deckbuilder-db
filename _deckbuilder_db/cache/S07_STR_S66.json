@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S66",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S66_Orange Left Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S66_Orange Left Punch.png",
+  "prefix": "S",
+  "number": 66,
+  "card_number": "S66",
+  "name_part": "Orange Left Punch",
+  "file_name": "Orange Left Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4ba0f640f3cebd0bc082584da93a4ab54f83062f"
+ },
+ "vision": {
+  "id": "S07_STR_S66",
+  "name": "Orange Left Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S66",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 1 level. If you control less than 3 Drills, this attack stays in play to be used a second time this combat.\nDAMAGE: AT +1 stage.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_35; text compared on the sheet; wording differs, transcribed from this card; this starter printing has the correct ATTACK icon (S04 C35 booster prints a shield icon)",
+  "_src": "S07.jsonl:249"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "ORANGE LEFT PUNCH ) S66\n— AWN) mw ii a_-",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

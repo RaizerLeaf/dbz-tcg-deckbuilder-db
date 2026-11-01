@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_105",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "105_Android 16's Tranquility.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/105_Android 16's Tranquility.png",
+  "prefix": null,
+  "number": 105,
+  "card_number": "105",
+  "name_part": "Android 16's Tranquility",
+  "file_name": "Android 16's Tranquility",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "e98a31b05005ea9111c4d22aeaba1830f53bb8bb"
+ },
+ "vision": {
+  "id": "S05_BST_105",
+  "name": "Android 16's Tranquility",
+  "sub": null,
+  "type": "Setup",
+  "num": "R105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Instant] POWER: Use at the end of your opponent's Planning Step. Your opponent must declare combat this turn.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame",
+  "_src": "S05.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 74.1,
+  "header_text": "ANDROID 16'S TRANQUILITY e R105 |",
+  "stages_text": null,
+  "error": null
+ }
+}

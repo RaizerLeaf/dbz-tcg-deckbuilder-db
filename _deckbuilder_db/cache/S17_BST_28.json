@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_28",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "28_Saiyan Sidestep.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/28_Saiyan Sidestep.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Sidestep",
+  "file_name": "Saiyan Sidestep",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f505ba3e8c619ccadc3e9ed27242f050275a0f8d"
+ },
+ "vision": {
+  "id": "S17_BST_28",
+  "name": "Saiyan Sidestep",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\n[Warning]: Raise your anger 2.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]",
+  "_src": "S17.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.786,
+  "lower_conf": 89.0,
+  "header_text": "SAIYAN SIDESTEP C) C28\nows Da . ~—~——e_—_ mm |!",
+  "stages_text": ",",
+  "error": null
+ }
+}

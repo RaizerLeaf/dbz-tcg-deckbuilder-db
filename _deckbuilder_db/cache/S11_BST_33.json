@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_33",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "33_On the Move!.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/33_On the Move!.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "On the Move!",
+  "file_name": "On the Move!",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "368f886a219ccc2be06d560852d67e56359ea635"
+ },
+ "vision": {
+  "id": "S11_BST_33",
+  "name": "On the Move!",
+  "sub": null,
+  "type": "Event",
+  "num": "UR33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand when an effect would cause a player to skip or pass an action to cancel that effect.)\n[Defense] POWER: Stops a physical or energy attack.\nIf that attack was a Physical Combat or Energy Combat card, return it to your opponent's hand. Draw a card. Gain 2 stages or your opponent loses 2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; number area reads 'PREVIEW UR33'",
+  "_src": "S11.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.985,
+  "lower_conf": 92.6,
+  "header_text": "ON THE MOVE!\nae",
+  "stages_text": "4\n,\n,\n\n,\n,",
+  "error": null
+ }
+}

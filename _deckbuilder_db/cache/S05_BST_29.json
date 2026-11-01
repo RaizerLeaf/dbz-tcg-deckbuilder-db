@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_29",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "29_Namekian Chest Explosion.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/29_Namekian Chest Explosion.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Namekian Chest Explosion",
+  "file_name": "Namekian Chest Explosion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "76f99356867f31a7367b1b3ea6e772ca7f782209"
+ },
+ "vision": {
+  "id": "S05_BST_29",
+  "name": "Namekian Chest Explosion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nSearch your Life Deck or discard pile for a Saiyan Ally and play it.\nDAMAGE: 5 +X life cards. X = the number of Saiyan personalities in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "NAMEKIAN CHEST EXPLOSION () C29",
+  "stages_text": "5\n\n7\n,\n,",
+  "error": null
+ }
+}

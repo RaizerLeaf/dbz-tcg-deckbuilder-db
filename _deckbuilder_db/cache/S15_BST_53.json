@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_53",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "53_Tapion - Swordsman.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/53_Tapion - Swordsman.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Tapion - Swordsman",
+  "file_name": "Tapion",
+  "file_subtitle": "Swordsman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f01ad65a8e0bed3b5ec3f78e728e381d229e153f"
+ },
+ "vision": {
+  "id": "S15_BST_53",
+  "name": "Tapion",
+  "sub": "Swordsman",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 3,
+  "stages": [
+   1250000,
+   1000000,
+   850000,
+   700000,
+   550000,
+   400000,
+   250000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title are Focused and deal +2 stages.\n[Instant] POWER: Use when entering combat. Search your discard pile for a card with \"Sword\" in the title and place it into your hand.\nPOWER: Gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S15.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "=3 TAPION\nLEVEL SWORDSMAN () 953",
+  "stages_text": "1,250,000\n1,000,000\n850,000\n700,000\n550,000\n400,000\n250,000\n100,000\n50,000\n,25,000\n0",
+  "error": null
+ }
+}

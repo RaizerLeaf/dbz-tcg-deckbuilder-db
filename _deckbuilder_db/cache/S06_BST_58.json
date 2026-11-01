@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_58",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "58_Saiyan Tantrum.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/58_Saiyan Tantrum.jpg",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Saiyan Tantrum",
+  "file_name": "Saiyan Tantrum",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "fd06aeb97584f884e1347cfab4012af97bf71450"
+ },
+ "vision": {
+  "id": "S06_BST_58",
+  "name": "Saiyan Tantrum",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is revealed from your hand, you may use a critical damage effect.)\n[Attack] Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Rejuvenate 3.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 79.0,
+  "header_text": "SAIYAN TANTRUM () C58\n- o™s fa : .",
+  "stages_text": ",\n6,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P16",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P16_Buu - Gohan Absorbed.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P16_Buu - Gohan Absorbed.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Buu - Gohan Absorbed",
+  "file_name": "Buu",
+  "file_subtitle": "Gohan Absorbed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4f122ef8f40a4cfa8f32111fd6de1335f3173fa7"
+ },
+ "vision": {
+  "id": "S13_PRO_P16",
+  "name": "Buu",
+  "sub": "Gohan Absorbed",
+  "type": "Main Personality",
+  "num": "P16",
+  "lvl": 4,
+  "stages": [
+   14500000,
+   10000000,
+   7000000,
+   4000000,
+   1300000,
+   800000,
+   600000,
+   300000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(When you reach this level, search your Life Deck, discard pile, or Banished Zone for a Named Setup or Named Drill and place it into play.)\n[Instant] POWER: Use when an effect requires you to discard 1 card from your hand. Reveal that card instead to draw a card.\nPOWER: Banish an attack from a player's discard pile. Perform a copy of that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink); stats and text compared against S13_BST_48 on the sheet, identical",
+  "_src": "S13.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.922,
+  "lower_conf": 68.2,
+  "header_text": "BUU\n4 GOHAN ABSORBED y m-16\nLEVEL foe. —\ni rn 7, ae ere ene re)",
+  "stages_text": "10,000,000\n7,000,000\n4,000,000\n\n1,300,000\n00,000\n300,000\n100,000\n50,000",
+  "error": null
+ }
+}

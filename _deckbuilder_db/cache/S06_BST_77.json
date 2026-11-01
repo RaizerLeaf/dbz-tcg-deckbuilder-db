@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_77",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "77_Icarus - Supportive (CRD).png",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/77_Icarus - Supportive (CRD).png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Icarus - Supportive",
+  "file_name": "Icarus",
+  "file_subtitle": "Supportive",
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1b34860c03cbc4a5bce019e71e6a7fd0c173f22c"
+ },
+ "vision": {
+  "id": "S06_BST_77",
+  "name": "Icarus",
+  "sub": "Supportive",
+  "type": "Ally",
+  "num": "U77",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Gohan, you may use this Power regardless of your MP's power stage.)\n[Continuous]: Your other Allies cannot be destroyed or banished by your opponent's card effects.\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; '(CRD)' stamped below (owner annotation). The CRD updates this text to 'other [Earthling] Allies' (as printed on PZP P175)",
+  "_src": "S06.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.7,
+  "header_text": "1 E- €)\nab SUPPORTIVE U77",
+  "stages_text": "10\n9\n\n8\n\n7\n6\n5\n\n4\n3\n2\n\n1\n0",
+  "error": null
+ }
+}

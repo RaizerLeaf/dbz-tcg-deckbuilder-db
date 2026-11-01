@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S167",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S167_Red Tactical Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S167_Red Tactical Drill.png",
+  "prefix": "S",
+  "number": 167,
+  "card_number": "S167",
+  "name_part": "Red Tactical Drill",
+  "file_name": "Red Tactical Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3d5d697c4977d6bcbbb3c7a2f6972b83cf1223f2"
+ },
+ "vision": {
+  "id": "S07_STR_S167",
+  "name": "Red Tactical Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S167",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's effects cannot lower your anger.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S43; text compared on the sheet",
+  "_src": "S07.jsonl:350"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 61.5,
+  "header_text": "RED TACTICAL DRILL () $167\nNN V—",
+  "stages_text": null,
+  "error": null
+ }
+}

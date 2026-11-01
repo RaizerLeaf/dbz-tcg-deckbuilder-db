@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_18",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "18_Orange Sadistic Strike.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/18_Orange Sadistic Strike.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orange Sadistic Strike",
+  "file_name": "Orange Sadistic Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "35c291262df95f3248b6064ed0b66cba71570ac9"
+ },
+ "vision": {
+  "id": "S18_BST_18",
+  "name": "Orange Sadistic Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1. You may destroy a Drill you control to search your Life Deck for a [Continuous] Drill and place it into play.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "the infinity symbol before 'Drill' is the Continuous icon; no Endurance badge",
+  "_src": "S18.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "ORANGE SADISTIC STRIKE R18,\n - we) lif, se nm",
+  "stages_text": "37",
+  "error": null
+ }
+}

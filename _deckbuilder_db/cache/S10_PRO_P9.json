@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P9",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P9_Videl - Student.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P9_Videl - Student.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Videl - Student",
+  "file_name": "Videl",
+  "file_subtitle": "Student",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f33edd1ba5866b7afa133202a3314dce63c2015e"
+ },
+ "vision": {
+  "id": "S10_PRO_P9",
+  "name": "Videl",
+  "sub": "Student",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   150,
+   140,
+   130,
+   120,
+   110,
+   100,
+   80,
+   50,
+   20,
+   10,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: When you perform an attack that uses the AT, raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nDAMAGE: AT stages.\nHIT: Gain 5 stages or destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same as S10 S90",
+  "_src": "S10.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "—_ ee OR RN ——\nVIDEL\nSTUDENT |\n\\ rr, |\na em “tty =",
+  "stages_text": "150\n\n140\n\n130\n120\n\n110\n\n1 100\n80\n50\n\n20\n\n10\n\n0",
+  "error": null
+ }
+}

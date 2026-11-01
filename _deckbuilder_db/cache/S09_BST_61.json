@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_61",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "61_Vegeta - The Crown Prince.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/61_Vegeta - The Crown Prince.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Vegeta - The Crown Prince",
+  "file_name": "Vegeta",
+  "file_subtitle": "The Crown Prince",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c41e9f725b4e06c2d561dceeeaedbb101e8616ae"
+ },
+ "vision": {
+  "id": "S09_BST_61",
+  "name": "Vegeta",
+  "sub": "The Crown Prince",
+  "type": "Main Personality",
+  "num": "S61",
+  "lvl": 1,
+  "stages": [
+   11000,
+   10500,
+   10000,
+   9000,
+   8000,
+   7000,
+   5000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(Saiyan Mastery only.)\n[Continuous]: Your attacks without \"anger\" printed in the text-box gain \"Raise your anger 1.\"\nPOWER: [Attack] Physical attack.\nRaise your anger 1. This attack is considered to deal critical damage.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.7,
+  "header_text": "|llivecctta\n; LEVEL | THE CROWN PRINCE 561",
+  "stages_text": "11,000\n10,500\n10,000\n\n9,000\n\n8,000\n\n,\n\n7,000\n\n5,000\n\n4,000\n2,000\n1,000\n\n0",
+  "error": null
+ }
+}

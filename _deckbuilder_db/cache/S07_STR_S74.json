@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S74",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S74_Orange Hiding Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S74_Orange Hiding Drill.png",
+  "prefix": "S",
+  "number": 74,
+  "card_number": "S74",
+  "name_part": "Orange Hiding Drill",
+  "file_name": "Orange Hiding Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3d1674f0f9467c979ab7ad0d0fefb27d83a71be2"
+ },
+ "vision": {
+  "id": "S07_STR_S74",
+  "name": "Orange Hiding Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S74",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S101; text compared on the sheet",
+  "_src": "S07.jsonl:257"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.7,
+  "header_text": "ORANGE HIDING DRILL & $74 |",
+  "stages_text": null,
+  "error": null
+ }
+}

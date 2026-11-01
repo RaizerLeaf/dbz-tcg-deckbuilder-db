@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_65",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "65_Broly - Survivor.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/65_Broly - Survivor.jpg",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Broly - Survivor",
+  "file_name": "Broly",
+  "file_subtitle": "Survivor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "992624cf0b4bbc9781b8cac3d4d2d3c9823f4f08"
+ },
+ "vision": {
+  "id": "S06_BST_65",
+  "name": "Broly",
+  "sub": "Survivor",
+  "type": "Main Personality",
+  "num": "U65",
+  "lvl": 1,
+  "stages": [
+   300000,
+   200000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After your opponent's MP advances a level, your opponent's MP loses 5 stages.\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level. You may reveal 2 attack cards from your hand to banish the top card of your opponent's Life Deck.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 0.87,
+  "lower_conf": 70.7,
+  "header_text": "BROLY\nEVEL SURVIVOR",
+  "stages_text": "300,000\n200,000\n100,000\n50,000\n,40,000\n30,000\n20,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

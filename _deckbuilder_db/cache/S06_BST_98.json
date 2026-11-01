@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_98",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "98_Saiyan Terrifying Strike.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/98_Saiyan Terrifying Strike.jpg",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Saiyan Terrifying Strike",
+  "file_name": "Saiyan Terrifying Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f67884da556e24588a6b80e279263557f4038685"
+ },
+ "vision": {
+  "id": "S06_BST_98",
+  "name": "Saiyan Terrifying Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf your opponent has gained stages this combat, this attack cannot be stopped.\nDAMAGE: AT +4 stages.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.2,
+  "header_text": "SAIYAN TERRIFYING STRIKE ©) 18\nTmt NS) AY \\ AO —— 222",
+  "stages_text": "347\n,",
+  "error": null
+ }
+}

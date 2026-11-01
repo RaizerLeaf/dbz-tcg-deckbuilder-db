@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S150",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S150_Red Power Punch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S150_Red Power Punch.png",
+  "prefix": "S",
+  "number": 150,
+  "card_number": "S150",
+  "name_part": "Red Power Punch",
+  "file_name": "Red Power Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c0ecdf4430937c3069063ed730c0d2a754fd3236"
+ },
+ "vision": {
+  "id": "S04_STR_S150",
+  "name": "Red Power Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S150",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nDAMAGE: AT +3 stages.\nHIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U100",
+  "_src": "S04.jsonl:303"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 87.4,
+  "header_text": "RED POWER PUNCH ) $150\nRif * le",
+  "stages_text": "",
+  "error": null
+ }
+}

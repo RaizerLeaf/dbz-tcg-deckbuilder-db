@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_38",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "38_Babidi's Dark Magic.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/38_Babidi's Dark Magic.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Babidi's Dark Magic",
+  "file_name": "Babidi's Dark Magic",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "79362626e6881f3a08ef0fce389c2bfd828326a8"
+ },
+ "vision": {
+  "id": "S11_BST_38",
+  "name": "Babidi's Dark Magic",
+  "sub": null,
+  "type": "Event",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card gains +X Endurance. X = the number of [Trait:Majin] Allies you control.)\nPOWER: Search your Life Deck or discard pile for a [Trait:Majin] Ally and place it into play at 3 stages above 0. Raise that Ally to its highest power stage or destroy the top X cards of your opponent's Life Deck. X = the number of [Trait:Majin] Allies you control.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; inline icons pink Majin used as a noun",
+  "_src": "S11.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 0.901,
+  "lower_conf": 89.5,
+  "header_text": "BABIDI'S DARK MAGIC ) R38\ni a ALS ~..LU\\",
+  "stages_text": "4\n2\n,\n,\n0,",
+  "error": null
+ }
+}

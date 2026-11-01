@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_111",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "111_Namekian Barricade.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/111_Namekian Barricade.png",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Namekian Barricade",
+  "file_name": "Namekian Barricade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ae6baa072b5a79ad0945b3cad616f11e6867cd34"
+ },
+ "vision": {
+  "id": "S07_BST_111",
+  "name": "Namekian Barricade",
+  "sub": null,
+  "type": "Event",
+  "num": "R111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical or energy attack.\nIf you do not control a Dragon Ball, search your Life Deck for an Earth Dragon Ball and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "NAMEKIAN BARRICADE Olin\nGe. »\\ aT tt aa wee",
+  "stages_text": "2",
+  "error": null
+ }
+}

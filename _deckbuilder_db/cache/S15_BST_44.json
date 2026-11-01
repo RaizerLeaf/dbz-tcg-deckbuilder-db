@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_44",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "44_Hirudegarn - Upper Half.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/44_Hirudegarn - Upper Half.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Hirudegarn - Upper Half",
+  "file_name": "Hirudegarn",
+  "file_subtitle": "Upper Half",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "532a0c18ba79e23801b589e0b7eeff70ddaa2efa"
+ },
+ "vision": {
+  "id": "S15_BST_44",
+  "name": "Hirudegarn",
+  "sub": "Upper Half",
+  "type": "Main Personality",
+  "num": "S44",
+  "lvl": 2,
+  "stages": [
+   950000,
+   700000,
+   550000,
+   300000,
+   150000,
+   80000,
+   55000,
+   30000,
+   15000,
+   5000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "God",
+   "Alien"
+  ],
+  "text": "[Continuous]: You may use your Level 1 non-[Continuous] Powers.\nPOWER: [Attack] Physical attack.\nDestroy an Ally.\nDAMAGE: 3 stages.\nHIT: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges G, A",
+  "_src": "S15.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.0,
+  "header_text": "@ | HIRUDEGARN\n/ LEVEL",
+  "stages_text": "7\n950,000\n700,000\n550,000\n300,000\n150,000\n80,000\n55,000\n30,000\n15,000\n5,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_26",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "26_Red Foreshadowing Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/26_Red Foreshadowing Drill.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Red Foreshadowing Drill",
+  "file_name": "Red Foreshadowing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "5781392cea137bd2c0ebe5ded51d76234d0aeb2d"
+ },
+ "vision": {
+  "id": "S13_BST_26",
+  "name": "Red Foreshadowing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand by an effect during combat, lower your opponent's anger 2 levels.)\n[Instant] POWER: Use when entering combat. Rearrange the bottom 3 cards of your discard pile.\nPOWER: Lower your opponent's anger 1 level. [Trait:Namekian]: Your next attack this turn costs -2 stages (to a minimum of 0).",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline icon zoomed: orange N badge (Namekian)",
+  "_src": "S13.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.915,
+  "lower_conf": 82.4,
+  "header_text": "ED FORESHADOWING DRILL () U26\nEE fl EEE ———",
+  "stages_text": null,
+  "error": null
+ }
+}

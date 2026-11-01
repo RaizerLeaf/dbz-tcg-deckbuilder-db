@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P12",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P12_Playful Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P12_Playful Punch.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Playful Punch",
+  "file_name": "Playful Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "792c85fa506c6f39214262c838c47eeff5b66787"
+ },
+ "vision": {
+  "id": "S07_PRO_P12",
+  "name": "Playful Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If the highest power level on your MP's Level 4 is 500,000 or less, you may play this card to stop a non-Styled attack instead of as an attack.)\n[Attack] Physical attack.\nYour MP gains 5 stages. Lower your opponent's anger 1 level.\nDAMAGE: 3 life cards.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #79); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:193"
+ },
+ "ocr": {
+  "agreement": 0.2,
+  "lower_conf": 48.9,
+  "header_text": "PLAYFUL PUNCH ) PI2 |\n-_  rv~ACTL -  ¥- = |",
+  "stages_text": "",
+  "error": null
+ }
+}

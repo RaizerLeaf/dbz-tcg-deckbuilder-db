@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_57",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "57_Goku Black - Partner In Time.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/57_Goku Black - Partner In Time.png",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Goku Black - Partner In Time",
+  "file_name": "Goku Black",
+  "file_subtitle": "Partner In Time",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "35fa8aaba2c9bb414b853f1861ab1fcb284ca0f8"
+ },
+ "vision": {
+  "id": "S19_BST_57",
+  "name": "Goku Black",
+  "sub": "Partner in Time",
+  "type": "Ally",
+  "num": "U57",
+  "lvl": 1,
+  "stages": [
+   750000,
+   500000,
+   300000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   8000,
+   4000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God"
+  ],
+  "text": "(Zamasu only. Once per combat you may place this card into play from your hand at 2 stages above 0 to discard a card from your opponent's hand. You may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Foresee 2. Banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badges S (green), G (gold); subtitle printed 'PARTNER IN TIME' (filename 'Partner In Time')",
+  "_src": "S19.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "1 | Goku BLACK U57\nLEVEL | PARTNER IN TIME\nN 1",
+  "stages_text": "750,000\n500,000\n300,000\n100,000\n80,000\n760,000\n40,000\n20,000\n8,000\n4,000\n\n0",
+  "error": null
+ }
+}

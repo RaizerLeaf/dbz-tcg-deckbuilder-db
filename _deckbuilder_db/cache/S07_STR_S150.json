@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S150",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S150_Red Blocking Hand.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S150_Red Blocking Hand.png",
+  "prefix": "S",
+  "number": 150,
+  "card_number": "S150",
+  "name_part": "Red Blocking Hand",
+  "file_name": "Red Blocking Hand",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5756172462ff839d283a375302edb2c9f4904da5"
+ },
+ "vision": {
+  "id": "S07_STR_S150",
+  "name": "Red Blocking Hand",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S150",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Raise your anger 2 levels. Gain 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S148; text compared on the sheet",
+  "_src": "S07.jsonl:333"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "RED BLOCKING HAND @® s150\n,\\ ,  »)» bei",
+  "stages_text": "",
+  "error": null
+ }
+}

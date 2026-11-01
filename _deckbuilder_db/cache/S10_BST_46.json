@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_46",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "46_Dabura's Demonic Slash.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/46_Dabura's Demonic Slash.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Dabura's Demonic Slash",
+  "file_name": "Dabura's Demonic Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d53e12110ce2cf8b3d7a36b62d26068509f4da6d"
+ },
+ "vision": {
+  "id": "S10_BST_46",
+  "name": "Dabura's Demonic Slash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level. Lower your opponent's anger 2 levels.\nDAMAGE: 5 stages.\nHIT: Search your Life Deck for a Styled or Named card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": "printed card type ENERGY COMBAT but the text is a Physical attack. Check the CRD",
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 89.8,
+  "header_text": "DABURA'S DEMONIC sLAsHe R46\nrT Wm  \\//7/ q@ YN ~~",
+  "stages_text": ",\n2,",
+  "error": null
+ }
+}

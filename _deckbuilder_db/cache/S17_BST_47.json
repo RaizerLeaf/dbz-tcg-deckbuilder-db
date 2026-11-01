@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_47",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "47_Cabba - Combat Stance.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/47_Cabba - Combat Stance.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Cabba - Combat Stance",
+  "file_name": "Cabba",
+  "file_subtitle": "Combat Stance",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b74092aca478ae91a7122e76562b4d049d6b9df8"
+ },
+ "vision": {
+  "id": "S17_BST_47",
+  "name": "Cabba",
+  "sub": "Combat Stance",
+  "type": "Main Personality",
+  "num": "S47",
+  "lvl": 2,
+  "stages": [
+   650000,
+   482000,
+   376000,
+   232000,
+   99000,
+   73000,
+   47000,
+   24000,
+   9000,
+   5000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nFocused. Lower your opponent's anger 1. [Warning]: Banish an opponent's Setup, Drill, or Ally.\nDAMAGE: 5 stages.\nHIT: Search your discard pile for up to 2 \"Heroes only\" and/or [Warning] cards and Rejuvenate them.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge S (green); black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S17.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 71.4,
+  "header_text": "CABBA",
+  "stages_text": "650,000\n482,000\n376,000\n232,000\n\n5 99,000\n73,000\n47,000\n24,000\n9,000\n\n5,000\n0",
+  "error": null
+ }
+}

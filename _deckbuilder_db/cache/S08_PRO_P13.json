@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P13",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P13_Android 16 - Focused.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P13_Android 16 - Focused.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Android 16 - Focused",
+  "file_name": "Android 16",
+  "file_subtitle": "Focused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "def78339fa1455c0281af4f61602bda6e575025c"
+ },
+ "vision": {
+  "id": "S08_PRO_P13",
+  "name": "Android 16",
+  "sub": "Focused",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 1,
+  "stages": [
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "(Your Life Deck may include non-Personality cards that are \"Heroes only.\")\nPOWER: [Attack] Physical attack.\nRaise or lower a player's anger 2 levels. You may Rejuvenate a card that is Alignment-restricted from your discard pile.\nDAMAGE: 2 life cards.\nHIT: If you have changed levels this combat, search your discard pile for a card that is Alignment-restricted and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S53; stats and text compared on the sheet, identical to the booster card; same as PZP P121A / S08 S53",
+  "_src": "S08.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 75.7,
+  "header_text": "_ - ee Sa :\nANDROID 16\nN 1 FOCUSED y m1s\nLEVEL foo ee\nST an Se JBN ANN",
+  "stages_text": "250,000\n\n200,000\n\n, 150,000\n\n100,000\n\n50,000\n\n1,\n\n25,000\n\n5 10,000\n\n5,000\n\n1,000\n\n500\n\n0\n4",
+  "error": null
+ }
+}

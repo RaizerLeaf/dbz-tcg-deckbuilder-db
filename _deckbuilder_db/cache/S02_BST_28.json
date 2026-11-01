@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_28",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "28_Blue Hand Blast.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/28_Blue Hand Blast.jpg",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Blue Hand Blast",
+  "file_name": "Blue Hand Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5137e7a340f075975091107fe1cc38fff9d59bc7"
+ },
+ "vision": {
+  "id": "S02_BST_28",
+  "name": "Blue Hand Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. Raise your anger 2 levels. HIT: Raise or lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "BLUE HAND BLAST () cee\nf aN",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

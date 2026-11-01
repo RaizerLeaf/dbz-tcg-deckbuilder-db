@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P5",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P5_Black Manipulative Mastery.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P5_Black Manipulative Mastery.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Black Manipulative Mastery",
+  "file_name": "Black Manipulative Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "210d2fc78a5563bce0c71a6897c48d83dad0526d"
+ },
+ "vision": {
+  "id": "S17_PRO_P5",
+  "name": "Black Manipulative Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 life card.\n[Defense] POWER: Reveal a Styled attack card from your hand and play it to prevent all damage from an attack instead of as an attack.\nPOWER: Destroy the top card of your Life Deck to gain 2 stages and banish the top or bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title and P5 read from a crop; same text as S13 BST_01 (DR1)",
+  "_src": "S17.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "’ wn hy\n= o .",
+  "stages_text": ",\n,\n5",
+  "error": null
+ }
+}

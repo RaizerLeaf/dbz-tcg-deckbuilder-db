@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_22",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "22_Red Desire.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/22_Red Desire.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Desire",
+  "file_name": "Red Desire",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "16800e017fd5da676a97c7ab5cc0f68e40705411"
+ },
+ "vision": {
+  "id": "S15_BST_22",
+  "name": "Red Desire",
+  "sub": null,
+  "type": "Event",
+  "num": "U22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Styled [Attack] card and place it on the top or bottom of your discard pile. Your opponent skips their next action this combat. [Trait:Alien]: Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S15.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 91.9,
+  "header_text": "RED DESIRE () U22",
+  "stages_text": "4",
+  "error": null
+ }
+}

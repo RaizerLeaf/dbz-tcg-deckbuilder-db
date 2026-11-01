@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_05",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "05_Dr. Wheelo - Intelligent (CRD).png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/05_Dr. Wheelo - Intelligent (CRD).png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Dr. Wheelo - Intelligent",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Intelligent",
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ae9bfffee949899a369293a097b5a80000040533"
+ },
+ "vision": {
+  "id": "S03_BST_05",
+  "name": "Dr. Wheelo",
+  "sub": "Intelligent",
+  "type": "Ally",
+  "num": "C5",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, Setup in play and shuffle that card into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY; '(CRD)' stamped below (owner annotation). PZP P180 reads 'Ally, Drill, or Setup'",
+  "_src": "S03.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.6,
+  "header_text": "1 DR. WHEELO- () cs\nEVEL | _",
+  "stages_text": "10\n\n9\n\n8\n\n7\n\n6\n5\n4\n3\n\n2\n\n1\n\n0",
+  "error": null
+ }
+}

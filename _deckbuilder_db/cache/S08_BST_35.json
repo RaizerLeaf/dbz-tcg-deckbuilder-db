@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_35",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "35_Pikkon's Hyper Tornado.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/35_Pikkon's Hyper Tornado.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Pikkon's Hyper Tornado",
+  "file_name": "Pikkon's Hyper Tornado",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "215f1e4abaaac1a8ea9c29fae4633f37bb3221b9"
+ },
+ "vision": {
+  "id": "S08_BST_35",
+  "name": "Pikkon's Hyper Tornado",
+  "sub": null,
+  "type": "Event",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is in your discard pile, you may banish it as an action to Rejuvenate 2.)\n[Defense] POWER: Stops a physical or energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S08.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "PIKKON'S HYPER TORNADO ) R35 |",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

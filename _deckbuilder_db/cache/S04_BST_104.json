@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_104",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "104_Blue Entertaining Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/104_Blue Entertaining Drill.png",
+  "prefix": null,
+  "number": 104,
+  "card_number": "104",
+  "name_part": "Blue Entertaining Drill",
+  "file_name": "Blue Entertaining Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "997cfcb906ee174ce46e6f9b32e5e41aa5313100"
+ },
+ "vision": {
+  "id": "S04_BST_104",
+  "name": "Blue Entertaining Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your effects would raise or lower your opponent's anger, you may choose for your opponent's MP to lose that amount of stages instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.1,
+  "header_text": "A dar r=, =A\nGh, aS",
+  "stages_text": null,
+  "error": null
+ }
+}

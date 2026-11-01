@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_58",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "58_Turles - Shadow of the Past.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/58_Turles - Shadow of the Past.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Turles - Shadow of the Past",
+  "file_name": "Turles",
+  "file_subtitle": "Shadow of the Past",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "002660f7ede614905ace49194ad6c49c66913041"
+ },
+ "vision": {
+  "id": "S15_BST_58",
+  "name": "Turles",
+  "sub": "Shadow of the Past",
+  "type": "Main Personality",
+  "num": "S58",
+  "lvl": 2,
+  "stages": [
+   100000,
+   70000,
+   35000,
+   15000,
+   10000,
+   7000,
+   3500,
+   2500,
+   1500,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(When you reach this level, use a critical damage effect.)\n[Continuous]: Your attacks deal +2 stages and are Unpreventable.\nPOWER: Choose 1 Styled card and 1 non-Styled card from your opponent's discard pile and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "S15.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "— TURLES\nLEVEL SHADOW OF THE PAST () $58",
+  "stages_text": "100,000\n70,000\n35,000\n15,000\n\n7\n10,000\n7,000\n3,500\n2,500\n1,500\n1,000\n0",
+  "error": null
+ }
+}

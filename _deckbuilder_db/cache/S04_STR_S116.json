@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S116",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S116_Orange Inspection.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S116_Orange Inspection.png",
+  "prefix": "S",
+  "number": 116,
+  "card_number": "S116",
+  "name_part": "Orange Inspection",
+  "file_name": "Orange Inspection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6d419de1835903f97a2365f9de6748a94e503841"
+ },
+ "vision": {
+  "id": "S04_STR_S116",
+  "name": "Orange Inspection",
+  "sub": null,
+  "type": "Event",
+  "num": "S116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Destroy an opponent's Setup or Drill to draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U93",
+  "_src": "S04.jsonl:269"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.0,
+  "header_text": "ORANGE INSPECTION Ee) S116\na r\\ewhiiin aaa:",
+  "stages_text": "6",
+  "error": null
+ }
+}

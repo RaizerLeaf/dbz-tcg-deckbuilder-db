@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_13",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "13_Namekian Heroic Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/13_Namekian Heroic Drill.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Heroic Drill",
+  "file_name": "Namekian Heroic Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fbf8f50ca87ccfcf84e6e06ea7aafd6316df4993"
+ },
+ "vision": {
+  "id": "S09_BST_13",
+  "name": "Namekian Heroic Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: If a Dragon Ball is destroyed from your opponent's Life Deck, you may place it into play under your control instead of your opponent placing it on the bottom of their Life Deck.\n[Instant] POWER: Use when you Rejuvenate. Banish that many cards from the top of your opponent's discard pile instead of Rejuvenating.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; number area reads 'PREVIEW C13' (preview printing)",
+  "_src": "S09.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "NAMEKIAN HEROIC DRILL On",
+  "stages_text": null,
+  "error": null
+ }
+}

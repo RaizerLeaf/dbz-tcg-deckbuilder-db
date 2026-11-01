@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_72",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "72_Android 16 - Injured.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/72_Android 16 - Injured.png",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Android 16 - Injured",
+  "file_name": "Android 16",
+  "file_subtitle": "Injured",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "631a3d21a49c7f0ad1d6ec5098b38696283ef7c8"
+ },
+ "vision": {
+  "id": "S05_BST_72",
+  "name": "Android 16",
+  "sub": "Injured",
+  "type": "Main Personality",
+  "num": "U72",
+  "lvl": 4,
+  "stages": [
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Whenever you play a \"Heroes only\" card, you may Rejuvenate 2. Whenever you play a \"Villains only\" card, you may banish the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads VILLAIN",
+  "_src": "S05.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.1,
+  "header_text": "ZA. ANDROID 16\nLEVEL INJURED () U72",
+  "stages_text": "1,000,000\n300,000\n800,000\n700,000\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

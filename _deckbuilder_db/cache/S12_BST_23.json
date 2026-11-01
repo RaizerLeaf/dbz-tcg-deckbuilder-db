@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_23",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "23_Red Focus.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/23_Red Focus.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Focus",
+  "file_name": "Red Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3eca94cf5dc9635c9e8564621f76edd41bad0a6e"
+ },
+ "vision": {
+  "id": "S12_BST_23",
+  "name": "Red Focus",
+  "sub": null,
+  "type": "Event",
+  "num": "R23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand as an action to banish a Named attack from your discard pile. If you do, perform a copy of that attack.)\nPOWER: Raise your anger 1 level. Lower your opponent's anger 1 level. Set your MP's power level to 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "RED FOCUS () R23\n-~m~ . TE y ae",
+  "stages_text": "4\n7 7\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_138",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "138_Optic Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/138_Optic Blast.png",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Optic Blast",
+  "file_name": "Optic Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "fd035c23af07a1451723a0dd64acd9d20cf8fe4c"
+ },
+ "vision": {
+  "id": "S04_BST_138",
+  "name": "Optic Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Capture a Dragon Ball. If you captured a Namek Dragon Ball, destroy the top 3 cards of your opponent's Life Deck. If you captured an Earth Dragon Ball, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 83.6,
+  "header_text": "OPTIC BLAST ) R138 |\n2",
+  "stages_text": "3",
+  "error": null
+ }
+}

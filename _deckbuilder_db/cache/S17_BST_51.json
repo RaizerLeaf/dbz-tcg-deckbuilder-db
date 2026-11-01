@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_51",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "51_Frost - Charging Form.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/51_Frost - Charging Form.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Frost - Charging Form",
+  "file_name": "Frost",
+  "file_subtitle": "Charging Form",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f1c9a2efdfcfa663807e0b7d0b7bf20961303371"
+ },
+ "vision": {
+  "id": "S17_BST_51",
+  "name": "Frost",
+  "sub": "Charging Form",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 2,
+  "stages": [
+   4200000,
+   2400000,
+   1500000,
+   930000,
+   700000,
+   540000,
+   230000,
+   100000,
+   57000,
+   12000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use after taking damage. Raise your anger 2.\nPOWER: [Attack] Physical attack.\nSearch your Life Deck or discard pile for \"Frost's Poison Barb\" and place it into play attached.\nDAMAGE: 4 life cards and 4 stages.\nHIT: Until the end of your next turn, your \"Villains only\" cards are considered Styled.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S17.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.904,
+  "lower_conf": 71.2,
+  "header_text": "— FROST\nLEVEL CHARGING FORM () $91\n_, 1",
+  "stages_text": "4,200,000\n2,400,000\n1,500,000\n930,000\n700,000\n540,000\n230,000\n100,000\n57,000\n12,000\n\n0",
+  "error": null
+ }
+}

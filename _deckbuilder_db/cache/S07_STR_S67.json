@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S67",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S67_Orange Possession Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S67_Orange Possession Drill.png",
+  "prefix": "S",
+  "number": 67,
+  "card_number": "S67",
+  "name_part": "Orange Possession Drill",
+  "file_name": "Orange Possession Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "05f8b9b005a031bc737635aa53cc99c2a181e4b1"
+ },
+ "vision": {
+  "id": "S07_STR_S67",
+  "name": "Orange Possession Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S67",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a Styled Drill from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_116; text compared on the sheet",
+  "_src": "S07.jsonl:250"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "ORANGE POSSESSION DRILL () S67",
+  "stages_text": null,
+  "error": null
+ }
+}

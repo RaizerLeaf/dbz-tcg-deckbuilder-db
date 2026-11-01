@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_100",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "100_Saiyan Sword Skill (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/100_Saiyan Sword Skill (CRD).png",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Saiyan Sword Skill",
+  "file_name": "Saiyan Sword Skill",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6d485587a3f3afa8bb29b392140b17466de73529"
+ },
+ "vision": {
+  "id": "S05_BST_100",
+  "name": "Saiyan Sword Skill",
+  "sub": null,
+  "type": "Event",
+  "num": "U100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Draw a card. If that card has \"Sword\" in the title, you may reveal it. If you do, your opponent's MP loses 5 stages. Attach to your MP. While attached, your attacks gain \"HIT: Your opponent skips their next action this combat.\" Banish this card when you deal critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "SAIYAN SWORD SKILL > vio0\nJAA wees.",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

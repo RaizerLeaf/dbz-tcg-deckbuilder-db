@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P19",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P19_Orange Adaptive Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P19_Orange Adaptive Mastery.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Orange Adaptive Mastery",
+  "file_name": "Orange Adaptive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1cb11b41178151721d832bf37c09634bf6a0bea7"
+ },
+ "vision": {
+  "id": "S13_PRO_P19",
+  "name": "Orange Adaptive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (zoomed); P number printed",
+  "_src": "S13.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "IN (4 EX",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

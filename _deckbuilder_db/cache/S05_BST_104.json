@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_104",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "104_Yamcha's Rescue.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/104_Yamcha's Rescue.png",
+  "prefix": null,
+  "number": 104,
+  "card_number": "104",
+  "name_part": "Yamcha's Rescue",
+  "file_name": "Yamcha's Rescue",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3d38ff24327194d2441adfdbeb82466034f180b8"
+ },
+ "vision": {
+  "id": "S05_BST_104",
+  "name": "Yamcha's Rescue",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished for Endurance, you may end combat at the beginning of your next action.)\n[Defense] Stops a physical or energy attack.\nShuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 75.8,
+  "header_text": "YAMCHA'S RESCUE ) R104\n———y —",
+  "stages_text": "3\n,\n,",
+  "error": null
+ }
+}

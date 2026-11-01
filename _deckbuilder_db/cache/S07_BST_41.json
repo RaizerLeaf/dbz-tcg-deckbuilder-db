@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_41",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "41_Red Driving Knee.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/41_Red Driving Knee.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Red Driving Knee",
+  "file_name": "Red Driving Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0bacb2ba049f8ddc90449012a506016a5a420442"
+ },
+ "vision": {
+  "id": "S07_BST_41",
+  "name": "Red Driving Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +2 stages.\nHIT: Use a critical damage effect. If your MP has gained stages this combat, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "RED DRIVING KNEE () C41\nye | as-__—- @",
+  "stages_text": "",
+  "error": null
+ }
+}

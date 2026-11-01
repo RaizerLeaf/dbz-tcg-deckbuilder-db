@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_03",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "03_Vicious Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/03_Vicious Strike.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Vicious Strike",
+  "file_name": "Vicious Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a5c748001c0568757455c373c2a7f9d8ab2fb04c"
+ },
+ "vision": {
+  "id": "S05_BST_03",
+  "name": "Vicious Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nEffects that Rejuvenate cards cannot be used this combat.\nDAMAGE: AT +2 stages.\nHIT: You may lower your MP 1 level. If you do, lower your opponent's MP 1 level at the end of combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 91.8,
+  "header_text": "VICIOUS STRIKE » C3 |",
+  "stages_text": "4",
+  "error": null
+ }
+}

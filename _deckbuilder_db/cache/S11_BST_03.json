@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_03",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "03_Blac Gut Check.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/03_Blac Gut Check.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Blac Gut Check",
+  "file_name": "Blac Gut Check",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "522dbaa79474b2ccc6750cd931360ad96695fa5f"
+ },
+ "vision": {
+  "id": "S11_BST_03",
+  "name": "Black Gut Check",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nChoose a random card from your opponent's hand and reveal it. If that card is a [Defense] card, this attack cannot be stopped.\nDAMAGE: AT + 4 stages.\nHIT: Raise or lower both players' anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Blac'; inline shield icon used as a noun",
+  "_src": "S11.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 90.5,
+  "header_text": "BLACK GUT CHECK ) U3",
+  "stages_text": "4\n2\n4\n, 4\n,\n37\n,",
+  "error": null
+ }
+}

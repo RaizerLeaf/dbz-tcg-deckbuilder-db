@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_102",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "102_Black Annihilation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/102_Black Annihilation.png",
+  "prefix": null,
+  "number": 102,
+  "card_number": "102",
+  "name_part": "Black Annihilation",
+  "file_name": "Black Annihilation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "30d3f329f975a60e47d7f5f24667051bcf939db2"
+ },
+ "vision": {
+  "id": "S07_BST_102",
+  "name": "Black Annihilation",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is destroyed from your Life Deck by one of your effects, you may Rejuvenate it and the bottom card of your discard pile.)\n[Attack] Energy attack costing 2 stages.\nBanish 3 cards from your opponent's discard pile.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 87.7,
+  "header_text": "BLACK ANNIHILATION () R102",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

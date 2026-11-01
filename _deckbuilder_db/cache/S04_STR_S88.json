@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S88",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S88_Namekian Energy Toss.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S88_Namekian Energy Toss.png",
+  "prefix": "S",
+  "number": 88,
+  "card_number": "S88",
+  "name_part": "Namekian Energy Toss",
+  "file_name": "Namekian Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d5bf1b4566408d4828fd019c2afb8f2c3f3618af"
+ },
+ "vision": {
+  "id": "S04_STR_S88",
+  "name": "Namekian Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nIf you control 2 or more Dragon Balls, all other attacks you perform this combat gain \"HIT: Rejuvenate 1.\"\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C32",
+  "_src": "S04.jsonl:241"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "NAMEKIAN ENERGY TOSS (=) S88\n——",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

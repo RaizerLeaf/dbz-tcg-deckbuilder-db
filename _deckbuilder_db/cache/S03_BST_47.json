@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_47",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "47_Red Resourceful Block.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/47_Red Resourceful Block.jpg",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Red Resourceful Block",
+  "file_name": "Red Resourceful Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1c21287c76b8929218a454af861057df0036295b"
+ },
+ "vision": {
+  "id": "S03_BST_47",
+  "name": "Red Resourceful Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Defense] Stops a physical attack. Lower your MP 1 level. If you do, advance your MP 1 level at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.1,
+  "header_text": "RED RESOURCEFUL. BLOCK () Caz\nhe , ho | y A",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

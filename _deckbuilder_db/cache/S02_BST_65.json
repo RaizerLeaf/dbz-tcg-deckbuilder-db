@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_65",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "65_Raditz - Angered.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/65_Raditz - Angered.jpg",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Raditz - Angered",
+  "file_name": "Raditz",
+  "file_subtitle": "Angered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ab9f5713e51ea2e92d49b6fe3cfedd35b41859aa"
+ },
+ "vision": {
+  "id": "S02_BST_65",
+  "name": "Raditz",
+  "sub": "Angered",
+  "type": "Main Personality",
+  "num": "U65",
+  "lvl": 3,
+  "stages": [
+   17000,
+   16000,
+   15000,
+   14000,
+   13000,
+   12000,
+   11000,
+   10000,
+   9000,
+   8000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Your opponent discards a random card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.8,
+  "header_text": "3 RADITZ coe () USS",
+  "stages_text": "17,000\n16,000\n15,000\n14,000\n13,000\n12,000\n11,000\n10,000\n9,000\n\n8,000\n\n0",
+  "error": null
+ }
+}

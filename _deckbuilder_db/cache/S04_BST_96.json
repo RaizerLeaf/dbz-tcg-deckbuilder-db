@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_96",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "96_Turtle - Protective.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/96_Turtle - Protective.png",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Turtle - Protective",
+  "file_name": "Turtle",
+  "file_subtitle": "Protective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "a04493b4fb4a2a254a89c7aa2ad63b37136e1ce6"
+ },
+ "vision": {
+  "id": "S04_BST_96",
+  "name": "Turtle",
+  "sub": "Protective",
+  "type": "Ally",
+  "num": "U96",
+  "lvl": 1,
+  "stages": [
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: At the start of your turn, banish the top card of each player's discard pile.\nPOWER: Shuffle \"Turtle\" into your Life Deck to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'HERO ALLY'",
+  "_src": "S04.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "LL sTURTLE\nLEVEL PROTECTIVE () U96\n4 EE\" —_—",
+  "stages_text": "11\n\n10\n\n9\n\n8\n7\n6\n\n5\n4\n3\n\n2\n0",
+  "error": null
+ }
+}

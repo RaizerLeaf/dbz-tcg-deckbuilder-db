@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_01",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "01_Kami - Guardian.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/01_Kami - Guardian.jpg",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Kami - Guardian",
+  "file_name": "Kami",
+  "file_subtitle": "Guardian",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "256bd219ab12e3194b0d0ef1b8b85b224a5193f1"
+ },
+ "vision": {
+  "id": "S03_BST_01",
+  "name": "Kami",
+  "sub": "Guardian",
+  "type": "Ally",
+  "num": "C1",
+  "lvl": 1,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Continuous]: At the start of your Rejuvenation Step, place the top card of your discard pile at the bottom of your Life Deck. When this card is leaving play, search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S03.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "{lL kam €) cr\nren =\n: me F 3 TES a",
+  "stages_text": "1,000\n\n300\n\n800\n\n700\n\n600\n500\n400\n300\n\n200\n\n100\n\n0",
+  "error": null
+ }
+}

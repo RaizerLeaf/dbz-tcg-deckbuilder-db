@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S95",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S95_Namekian Combat Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S95_Namekian Combat Drill.png",
+  "prefix": "S",
+  "number": 95,
+  "card_number": "S95",
+  "name_part": "Namekian Combat Drill",
+  "file_name": "Namekian Combat Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "09cb3614cda0a32c110e10d63afc037a36caf30a"
+ },
+ "vision": {
+  "id": "S07_STR_S95",
+  "name": "Namekian Combat Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: After taking damage from an attack, your MP gains X stages. X = the number of life cards that attack dealt.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S39; text compared on the sheet",
+  "_src": "S07.jsonl:278"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.7,
+  "header_text": "NAMEKIAN COMBAT DRILL © 305",
+  "stages_text": null,
+  "error": null
+ }
+}

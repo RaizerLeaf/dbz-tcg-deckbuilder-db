@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S62",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S62_Blue Ki Build Up.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S62_Blue Ki Build Up.png",
+  "prefix": "S",
+  "number": 62,
+  "card_number": "S62",
+  "name_part": "Blue Ki Build Up",
+  "file_name": "Blue Ki Build Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "f1d410e372feafd3e663c1c4b36a6dcdc966b8d8"
+ },
+ "vision": {
+  "id": "S04_STR_S62",
+  "name": "Blue Ki Build Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "S62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level.\nDAMAGE: 7 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S91; landscape layout",
+  "_src": "S04.jsonl:215"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.5,
+  "header_text": ". re\nan a re . y=",
+  "stages_text": null,
+  "error": null
+ }
+}

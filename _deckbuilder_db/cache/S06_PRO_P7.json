@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P7",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P7_Black Defensive Burst.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P7_Black Defensive Burst.jpg",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Black Defensive Burst",
+  "file_name": "Black Defensive Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1dde3ec6a404ebdd833d45538f3cce399f789823"
+ },
+ "vision": {
+  "id": "S06_PRO_P7",
+  "name": "Black Defensive Burst",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 4 life cards.\nHIT: Your opponent cannot perform physical attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S71",
+  "_src": "S06.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.6,
+  "header_text": "BLACK DEFENSIVE BURST () P7",
+  "stages_text": "347",
+  "error": null
+ }
+}

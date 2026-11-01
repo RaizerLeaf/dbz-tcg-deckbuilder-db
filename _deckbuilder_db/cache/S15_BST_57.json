@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_57",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "57_Pikkon - Warrior.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/57_Pikkon - Warrior.png",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Pikkon - Warrior",
+  "file_name": "Pikkon",
+  "file_subtitle": "Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1ff9cd15bd4a854f44eb1c4704619c478b36dcd6"
+ },
+ "vision": {
+  "id": "S15_BST_57",
+  "name": "Pikkon",
+  "sub": "Warrior",
+  "type": "Main Personality",
+  "num": "S57",
+  "lvl": 2,
+  "stages": [
+   1650000,
+   1200000,
+   950000,
+   700000,
+   450000,
+   200000,
+   95000,
+   60000,
+   45000,
+   9000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when an Event is played. Banish the top card of your Life Deck to cancel the effects of that card. Raise your anger 2.\n[Defense] POWER: Stops an energy attack.\nRejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S15.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "PIKKON",
+  "stages_text": "1,650,000\n1,200,000\n950,000\n700,000\n450,000\n200,000\n95,000\n60,000\n45,000\n9,000\n0",
+  "error": null
+ }
+}

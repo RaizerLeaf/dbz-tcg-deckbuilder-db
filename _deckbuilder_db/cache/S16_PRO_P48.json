@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P48",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P48_Gohan's Power Punch.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P48_Gohan's Power Punch.png",
+  "prefix": "P",
+  "number": 48,
+  "card_number": "P48",
+  "name_part": "Gohan's Power Punch",
+  "file_name": "Gohan's Power Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3459c9950b1af9f7698b786e63d3d8f2c068cedc"
+ },
+ "vision": {
+  "id": "S16_PRO_P48",
+  "name": "Gohan's Power Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2. If you advance a personality level with this card, Unstoppable.\nDAMAGE: AT + 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S16.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "GOHAN'S POWER PUNCH () P48\nhh",
+  "stages_text": "5\n,\n\n37\n\n,",
+  "error": null
+ }
+}

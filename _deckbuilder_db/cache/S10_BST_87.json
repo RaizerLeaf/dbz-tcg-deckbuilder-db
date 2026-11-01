@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_87",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "87_Supreme Kai - Shin.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/87_Supreme Kai - Shin.png",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Supreme Kai - Shin",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Shin",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fa27c71697ef75f5142d44524b4e2ba1c3fce85c"
+ },
+ "vision": {
+  "id": "S10_BST_87",
+  "name": "Supreme Kai",
+  "sub": "Shin",
+  "type": "Main Personality",
+  "num": "S87",
+  "lvl": 2,
+  "stages": [
+   775000,
+   600000,
+   500000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Look at the top 4 cards of your opponent's Life Deck and put them back in any order.\nPOWER: [Attack] Energy attack costing 2 stages.\nChoose up to 2 cards in your discard pile and shuffle them into your Life Deck.\nDAMAGE: 3 life cards.\nHIT: You may discard a card from your hand to draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 0.868,
+  "lower_conf": 75.0,
+  "header_text": "SUPREME KAI\n/",
+  "stages_text": "775,000\n600,000\n500,000\n300,000\n200,000\n100,000\n50,000\n25,000\n15,000\n\n5 10,000\n0",
+  "error": null
+ }
+}

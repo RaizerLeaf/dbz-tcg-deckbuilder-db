@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_128",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "128_Dr. Wheelo's History.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/128_Dr. Wheelo's History.jpg",
+  "prefix": null,
+  "number": 128,
+  "card_number": "128",
+  "name_part": "Dr. Wheelo's History",
+  "file_name": "Dr. Wheelo's History",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2064123707e5462867b2c26b54ef15ada7d59cab"
+ },
+ "vision": {
+  "id": "S03_BST_128",
+  "name": "Dr. Wheelo's History",
+  "sub": null,
+  "type": "Event",
+  "num": "R128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Destroy the top 3 cards of your opponent's Life Deck. You may lower your MP 1 level. If you do, destroy the top 5 instead.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 0.967,
+  "lower_conf": 75.9,
+  "header_text": "“(DR. WHEELO'S HISTORY a\nRL pet ett",
+  "stages_text": "4 ,\n\n2\n,\n, ,",
+  "error": null
+ }
+}

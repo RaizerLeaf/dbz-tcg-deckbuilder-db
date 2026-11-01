@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S129",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S129_Red Blaze.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S129_Red Blaze.png",
+  "prefix": "S",
+  "number": 129,
+  "card_number": "S129",
+  "name_part": "Red Blaze",
+  "file_name": "Red Blaze",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "685fdcc5d318fa9c81ba2b09ba1fae9c37730077"
+ },
+ "vision": {
+  "id": "S04_STR_S129",
+  "name": "Red Blaze",
+  "sub": null,
+  "type": "Setup",
+  "num": "S129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 1 level. Rejuvenate 2. You may use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S94; landscape layout",
+  "_src": "S04.jsonl:282"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "q \"Larrea ) _ i} a",
+  "stages_text": null,
+  "error": null
+ }
+}

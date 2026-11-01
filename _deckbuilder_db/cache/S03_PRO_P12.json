@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P12",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P12_Black Back Strike.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P12_Black Back Strike.jpg",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Black Back Strike",
+  "file_name": "Black Back Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 848,
+  "height": 1172,
+  "orientation": "portrait",
+  "sha1": "68822e7a2a859a60cb02530f9454ec1fc5b3d2ac"
+ },
+ "vision": {
+  "id": "S03_PRO_P12",
+  "name": "Black Back Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered to be a Named card for your card effects.) [Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. Damage from this attack cannot be prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 U79; text compared on the sheet, identical",
+  "_src": "S03.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "eLA LACK BACK STRIKE a =12",
+  "stages_text": "4",
+  "error": null
+ }
+}

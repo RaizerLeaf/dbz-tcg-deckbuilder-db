@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_29",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "29_Red Guilty Flash.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/29_Red Guilty Flash.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Red Guilty Flash",
+  "file_name": "Red Guilty Flash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1134768065e605415563c52552ed5ae6325cb11c"
+ },
+ "vision": {
+  "id": "S13_BST_29",
+  "name": "Red Guilty Flash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this attack is performed from your discard pile, gain 3 stages.)\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. You may lower your anger 2 levels. If you do, this attack stays in play to be used a second time this combat.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.9,
+  "header_text": "RED GUILTY FLASH () U29",
+  "stages_text": "4\n2 4\n, 2 ,\n,\n7\n,\n2\n,",
+  "error": null
+ }
+}

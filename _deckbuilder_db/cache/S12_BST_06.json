@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_06",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "06_Blue Agility.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/06_Blue Agility.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Blue Agility",
+  "file_name": "Blue Agility",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0fea85cd81016796f737ebbbaf9c614d7a9df7a7"
+ },
+ "vision": {
+  "id": "S12_BST_06",
+  "name": "Blue Agility",
+  "sub": null,
+  "type": "Setup",
+  "num": "U6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Blue Agility\" attached.)\nPOWER: Attach to your MP. Lower your opponent's anger 2 levels. While attached, your physical attacks deal +1 stage of damage and gain \"HIT: Lower your opponent's anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S12.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "BLUE AGILITY () U6\nee +t -* ———————s",
+  "stages_text": null,
+  "error": null
+ }
+}

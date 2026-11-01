@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_41",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "41_Show of Force.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/41_Show of Force.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Show of Force",
+  "file_name": "Show of Force",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e3c277ca941bd1b685a4bdbc5b56c2430fc7cb1c"
+ },
+ "vision": {
+  "id": "S16_BST_41",
+  "name": "Show of Force",
+  "sub": null,
+  "type": "Event",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Saiyan] only. Limit 1 per deck. Once per combat, you may shuffle this card from your hand into your Life Deck as an action to draw a card.)\nPOWER: Destroy a Setup. [Warning]: Destroy all Setups instead.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; inline icon zoomed: green S badge (Saiyan); no Endurance badge",
+  "_src": "S16.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.902,
+  "lower_conf": 85.6,
+  "header_text": "SHOW OF FORCE ) R41 |\n” Yes",
+  "stages_text": "4\n0\n4,",
+  "error": null
+ }
+}

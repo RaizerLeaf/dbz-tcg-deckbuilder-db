@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_43",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "43_Botamo - Sturdy.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/43_Botamo - Sturdy.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Botamo - Sturdy",
+  "file_name": "Botamo",
+  "file_subtitle": "Sturdy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6bd697db47208bbba8689d37555c3faad4de590a"
+ },
+ "vision": {
+  "id": "S17_BST_43",
+  "name": "Botamo",
+  "sub": "Sturdy",
+  "type": "Ally",
+  "num": "U43",
+  "lvl": 1,
+  "stages": [
+   100000,
+   89000,
+   67000,
+   45000,
+   23000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Champa, Cabba, Hit, Frost, and Dr. Rota only. You may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S17.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "1 : BOTAMO €)\ni}. STURDY U43",
+  "stages_text": "100,000\n89,000\n67,000\n45,000\n23,000\n8,000\n6,000\n4,000\n2,000\n, 1,000\n0",
+  "error": null
+ }
+}

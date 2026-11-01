@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_27",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "27_Blue Determined Attack.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/27_Blue Determined Attack.jpg",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Blue Determined Attack",
+  "file_name": "Blue Determined Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8a240922efffe7e3cbf612e568c5c2d46d591c8d"
+ },
+ "vision": {
+  "id": "S02_BST_27",
+  "name": "Blue Determined Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. If you stopped an attack in your opponent's last action, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "BLUE DETERMINED ATTACK () C27\n= i — 2 | eee",
+  "stages_text": "7\n,\n4\n, ,\n,\n43,",
+  "error": null
+ }
+}

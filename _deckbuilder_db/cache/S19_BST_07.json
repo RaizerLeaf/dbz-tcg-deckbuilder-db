@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_07",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "07_Blue Preventive Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/07_Blue Preventive Mastery.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Preventive Mastery",
+  "file_name": "Blue Preventive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d6ea0788f3ae921c93eed3059ce789cebf8d7ec6"
+ },
+ "vision": {
+  "id": "S19_BST_07",
+  "name": "Blue Preventive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Use only on the first attack your opponent performs in combat. Prevent all damage from this attack. You may discard a card from your hand to make this attack deal no damage.\nPOWER: Lower a player's anger 1. The next time one of your opponent's effects would raise their anger this combat, change that amount to 0.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from the filename and the visible title text, number DR7 visible",
+  "_src": "S19.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "aa",
+  "stages_text": ",\n8\n7",
+  "error": null
+ }
+}

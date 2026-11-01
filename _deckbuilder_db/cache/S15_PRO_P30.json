@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P30",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P30_Red Blocking Hand.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P30_Red Blocking Hand.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Red Blocking Hand",
+  "file_name": "Red Blocking Hand",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6a3d4ae4249866e7420cbe40d370fdb1ac1cc8ea"
+ },
+ "vision": {
+  "id": "S15_PRO_P30",
+  "name": "Red Blocking Hand",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nRaise your anger 2. Gain 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "RED BLOCKING HAND () P30",
+  "stages_text": "9",
+  "error": null
+ }
+}

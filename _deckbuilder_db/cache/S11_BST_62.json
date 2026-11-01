@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_62",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "62_Vegeta - Redeemed.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/62_Vegeta - Redeemed.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Vegeta - Redeemed",
+  "file_name": "Vegeta",
+  "file_subtitle": "Redeemed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43dc2fdc655314d90e87defbf03fde91db869e7f"
+ },
+ "vision": {
+  "id": "S11_BST_62",
+  "name": "Vegeta",
+  "sub": "Redeemed",
+  "type": "Main Personality",
+  "num": "S62",
+  "lvl": 4,
+  "stages": [
+   3200000,
+   1500000,
+   750000,
+   375000,
+   125000,
+   60000,
+   30000,
+   15000,
+   7000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nDamage from this attack cannot be modified or prevented.\nDAMAGE: 11 life cards.\nHIT: Lower your MP to level 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "Ee VEGETA\nLEVEL | REDEEMED C) S62",
+  "stages_text": "3,200,000\n1,500,000\n750,000\n375,000\n125,000\n60,000\n30,000\n15,000\n7,000\n\n1,000\n0",
+  "error": null
+ }
+}

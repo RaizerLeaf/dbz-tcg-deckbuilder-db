@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P1",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P1_Namekian Knowledge Mastery.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P1_Namekian Knowledge Mastery.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Namekian Knowledge Mastery",
+  "file_name": "Namekian Knowledge Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "c71efee4a7d8c2e741d2392e1c29ab6c45e5a615"
+ },
+ "vision": {
+  "id": "S04_PRO_P1",
+  "name": "Namekian Knowledge Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Set 4 Mastery layout; prints '(Most Recent Printing)' at the end of the text box (MRP reprint). Updated text vs S01 R131",
+  "_src": "S04.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "| PAL af |",
+  "stages_text": "4\n6\n1,\n0",
+  "error": null
+ }
+}

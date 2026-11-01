@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_142",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "142_Unleashed (CRD).png",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/142_Unleashed (CRD).png",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Unleashed",
+  "file_name": "Unleashed",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f3c5a207d39440f324d58576523a891a1f94bde0"
+ },
+ "vision": {
+  "id": "S06_BST_142",
+  "name": "Unleashed",
+  "sub": null,
+  "type": "Event",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. Advance or lower your MP up to X levels. X = the number of cards attached to your MP. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; filename flag (CRD). S14 P47 reprint has different text ('you may advance or lower your MP 1 level')",
+  "_src": "S06.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "UNLEASHED = )ur142\naria: — =  - | - ea",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P23",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P23_Orange Rage.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P23_Orange Rage.png",
+  "prefix": "P",
+  "number": 23,
+  "card_number": "P23",
+  "name_part": "Orange Rage",
+  "file_name": "Orange Rage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9e088b557ae01628d36d4c988eaa6da12bc59d7f"
+ },
+ "vision": {
+  "id": "S17_PRO_P23",
+  "name": "Orange Rage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\nRaise your anger 2.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'",
+  "_src": "S17.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 84.4,
+  "header_text": "ORANGE RAGE ) P23,",
+  "stages_text": "7",
+  "error": null
+ }
+}

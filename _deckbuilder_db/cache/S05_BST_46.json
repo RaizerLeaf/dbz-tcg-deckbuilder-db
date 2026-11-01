@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_46",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "46_Red Capture.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/46_Red Capture.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Red Capture",
+  "file_name": "Red Capture",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d21bd968a6d972ab7a5f72b0fd3b5b0402a3ea83"
+ },
+ "vision": {
+  "id": "S05_BST_46",
+  "name": "Red Capture",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYour next attack this combat deals +X stages of damage. X = the number of cards in your Banished Zone, to a maximum of 10.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "RED CAPTURE C) C46",
+  "stages_text": ",\n37\n,\n10,",
+  "error": null
+ }
+}

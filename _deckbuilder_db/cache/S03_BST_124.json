@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_124",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "124_Saiyan Menace.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/124_Saiyan Menace.jpg",
+  "prefix": null,
+  "number": 124,
+  "card_number": "124",
+  "name_part": "Saiyan Menace",
+  "file_name": "Saiyan Menace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "cfa50eb639c2a544b248e6b2139da289e298530a"
+ },
+ "vision": {
+  "id": "S03_BST_124",
+  "name": "Saiyan Menace",
+  "sub": null,
+  "type": "Setup",
+  "num": "R124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, you may place it into play instead.) POWER: All of your opponent's personalities lose 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "ne in",
+  "stages_text": "",
+  "error": null
+ }
+}

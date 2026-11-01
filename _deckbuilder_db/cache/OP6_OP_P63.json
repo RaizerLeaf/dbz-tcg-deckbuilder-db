@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P63",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P63_Dr. Wheelo's Flight.png",
+  "rel_path": "z_OP Series/OP6/P63_Dr. Wheelo's Flight.png",
+  "prefix": "P",
+  "number": 63,
+  "card_number": "P63",
+  "name_part": "Dr. Wheelo's Flight",
+  "file_name": "Dr. Wheelo's Flight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "76f6cac81ffc48f89ec8ac4e43cfe467bbf80f48"
+ },
+ "vision": {
+  "id": "OP6_OP_P63",
+  "name": "Dr. Wheelo's Flight",
+  "sub": null,
+  "type": "Event",
+  "num": "P63",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You cannot win by MPPV if you use this card. You may only have one \"Dr. Wheelo's Flight\" attached.)\n[Defense] POWER: Stops an attack.\nRaise your anger 6. Attach to your MP. While attached, if your MP is Dr. Wheelo, after one of your effects destroys cards from your opponent's Life Deck, banish that many cards from the top of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); grey card; possessive title -> Named",
+  "_src": "OP.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 89.6,
+  "header_text": "DR. WHEELO'S FLIGHT () P63",
+  "stages_text": "4 4\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S132",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S132_Black Nightmare.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S132_Black Nightmare.png",
+  "prefix": "S",
+  "number": 132,
+  "card_number": "S132",
+  "name_part": "Black Nightmare",
+  "file_name": "Black Nightmare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c001eaec77d8dc2a8be6e08640b5c44a0484961c"
+ },
+ "vision": {
+  "id": "S07_STR_S132",
+  "name": "Black Nightmare",
+  "sub": null,
+  "type": "Event",
+  "num": "S132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\nPOWER: Search your opponent's Life Deck for a Setup or Drill and banish it. Your MP gains 4 stages. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_12; text compared on the sheet",
+  "_src": "S07.jsonl:315"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 79.6,
+  "header_text": "BLACK NIGHTMARE ) $132\nSS yy ~~.",
+  "stages_text": "2 ,\n1\n,",
+  "error": null
+ }
+}

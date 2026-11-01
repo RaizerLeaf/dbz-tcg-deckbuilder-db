@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_36",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "36_Controlled Energy Burst.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/36_Controlled Energy Burst.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Controlled Energy Burst",
+  "file_name": "Controlled Energy Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "36b3becf8619d9bb5ae87b05fe25239467b26b16"
+ },
+ "vision": {
+  "id": "S11_BST_36",
+  "name": "Controlled Energy Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame",
+  "_src": "S11.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.8,
+  "header_text": "CONTROLLED ENERGY BURST é ) R36 |",
+  "stages_text": ",\n2,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S83",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S83_Namekian Hybrid Defense.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S83_Namekian Hybrid Defense.png",
+  "prefix": "S",
+  "number": 83,
+  "card_number": "S83",
+  "name_part": "Namekian Hybrid Defense",
+  "file_name": "Namekian Hybrid Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "49f3337c635edd9129437360d863c650ae74744d"
+ },
+ "vision": {
+  "id": "S07_STR_S83",
+  "name": "Namekian Hybrid Defense",
+  "sub": null,
+  "type": "Event",
+  "num": "S83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack. Choose X cards in your discard pile and Rejuvenate them. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_87; text compared on the sheet",
+  "_src": "S07.jsonl:266"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "NAMEKIAN HYBRID DEFENSE ) $83\n1X. | O——__ 7",
+  "stages_text": "7\n4\n1",
+  "error": null
+ }
+}

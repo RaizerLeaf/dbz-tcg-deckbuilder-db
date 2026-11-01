@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_62",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "62_Bergamo - Eldest Brother.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/62_Bergamo - Eldest Brother.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Bergamo - Eldest Brother",
+  "file_name": "Bergamo",
+  "file_subtitle": "Eldest Brother",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cb5ec3933a2315d2a3ebec7ecae6cc43fb41afb1"
+ },
+ "vision": {
+  "id": "S19_BST_62",
+  "name": "Bergamo",
+  "sub": "Eldest Brother",
+  "type": "Main Personality",
+  "num": "S62",
+  "lvl": 2,
+  "stages": [
+   3300000,
+   2494000,
+   1555000,
+   969000,
+   702000,
+   538000,
+   217000,
+   120000,
+   53000,
+   15000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(When you reach this level, place all [Trait:Alien] Allies from your Banished Zone on top of your discard pile.)\nPOWER: [Attack] 2: Energy attack.\nRaise your anger 2.\nDAMAGE: 5 life cards.\nHIT: Search your discard pile for a Named card and place it into your hand. If that card was a Setup, Drill, or Ally, you may place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); inline icon is the purple A badge; stage cost printed as '2:'",
+  "_src": "S19.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.887,
+  "lower_conf": 79.0,
+  "header_text": "— BERGAMO\nLEVEL ELDEST BROTHER () S62\n7 : '",
+  "stages_text": "3,300,000\n2,494,000\n1,555,000\n969,000\n702,000\n538,000\n217,000\n120,000\n53,000\n15,000\n0",
+  "error": null
+ }
+}

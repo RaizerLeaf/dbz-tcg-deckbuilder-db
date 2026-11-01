@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_28",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "28_Red Playful Rejection.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/28_Red Playful Rejection.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Red Playful Rejection",
+  "file_name": "Red Playful Rejection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "48f1da897f8e63ed04f63e316e2d3a92e395e23b"
+ },
+ "vision": {
+  "id": "S19_BST_28",
+  "name": "Red Playful Rejection",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is Rejuvenated during combat, lower your opponent's anger 1.)\n[Defense] Stops a physical attack.\nRaise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S19.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 88.7,
+  "header_text": "RED PLAYFUL REJECTION @) cz\na -. .. . _ |.",
+  "stages_text": "4\n347\n,",
+  "error": null
+ }
+}

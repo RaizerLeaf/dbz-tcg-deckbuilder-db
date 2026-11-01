@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_64",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "64_Black Shoulder Charge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/64_Black Shoulder Charge.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Black Shoulder Charge",
+  "file_name": "Black Shoulder Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "792981d43a0f2afd228a7fdcd2b00ec0a1770f7a"
+ },
+ "vision": {
+  "id": "S04_BST_64",
+  "name": "Black Shoulder Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is destroyed from your Life Deck by one of your effects, you may use a critical damage effect.)\n[Attack] Physical attack.\nPlace a card from each player's discard pile on top of its owner's Life Deck. Lower your opponent's anger 1 level.\nDAMAGE: 3 stages.\nHIT: Choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 84.1,
+  "header_text": "BLACK SHOULDER CHARGE () U64",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_31",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "31_Saiyan Surging Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/31_Saiyan Surging Mastery.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Saiyan Surging Mastery",
+  "file_name": "Saiyan Surging Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6cc8e80d6765cbac457ab83078e1028ce006eff4"
+ },
+ "vision": {
+  "id": "S19_BST_31",
+  "name": "Saiyan Surging Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your Styled attacks gain \"Raise your anger 1.\" At the start of the Discard Step, if your MP advanced a level this turn, lower your MP 1 level.\n[Instant] POWER: Use when an effect lowers your MP 1 or more levels. Draw a card.\nPOWER: Your next attack this combat deals +X life cards. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from the filename; number DR31 visible",
+  "_src": "S19.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "EO\ny\nJ A",
+  "stages_text": ",,\n1,\n,\n,",
+  "error": null
+ }
+}

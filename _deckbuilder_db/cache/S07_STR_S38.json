@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S38",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S38_Blue Draining Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S38_Blue Draining Blast.png",
+  "prefix": "S",
+  "number": 38,
+  "card_number": "S38",
+  "name_part": "Blue Draining Blast",
+  "file_name": "Blue Draining Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "16d4a67e4a8c2fbda38ebdd295a21e5810413e1f"
+ },
+ "vision": {
+  "id": "S07_STR_S38",
+  "name": "Blue Draining Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nThe personality performing this attack may pay any amount of stages. For every 2 stages paid, this attack deals an additional +1 life card of damage.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_26; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:221"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "BLUE DRAINING BLAST ) $38\n—_ 7",
+  "stages_text": "4\n2,\n41",
+  "error": null
+ }
+}

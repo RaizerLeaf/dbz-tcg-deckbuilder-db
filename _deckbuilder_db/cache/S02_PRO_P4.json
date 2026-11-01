@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P4",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P4_Wall Breaker.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P4_Wall Breaker.jpg",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Wall Breaker",
+  "file_name": "Wall Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8df129ced9be22633357575d3d1bf165e578ca70"
+ },
+ "vision": {
+  "id": "S02_PRO_P4",
+  "name": "Wall Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +1 stage. Attach to your opponent's MP. While attached, your opponent cannot gain anger. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R135; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.2,
+  "header_text": "ee eee e—g —_—\nWALL BREAKER es () oa\n| JN mm",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S31",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S31_Stare Down.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S31_Stare Down.png",
+  "prefix": "S",
+  "number": 31,
+  "card_number": "S31",
+  "name_part": "Stare Down",
+  "file_name": "Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e75628b57e73837cec70f818b79beb46c801b4f8"
+ },
+ "vision": {
+  "id": "S04_STR_S31",
+  "name": "Stare Down",
+  "sub": null,
+  "type": "Event",
+  "num": "S31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; Set 4 starter reprint of S01 R151",
+  "_src": "S04.jsonl:184"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "STARE DOWN () $31\nvf —_FlCtC~«d",
+  "stages_text": ",",
+  "error": null
+ }
+}

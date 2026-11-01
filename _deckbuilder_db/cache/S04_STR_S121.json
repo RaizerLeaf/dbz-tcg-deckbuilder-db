@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S121",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S121_Orange Precise Shot.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S121_Orange Precise Shot.png",
+  "prefix": "S",
+  "number": 121,
+  "card_number": "S121",
+  "name_part": "Orange Precise Shot",
+  "file_name": "Orange Precise Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cba858c56fc217971eddcc770a3eb3c6d9a6c015"
+ },
+ "vision": {
+  "id": "S04_STR_S121",
+  "name": "Orange Precise Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nDAMAGE: 3 life cards.\nHIT: Search your opponent's Life Deck for a card and discard it. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C41",
+  "_src": "S04.jsonl:274"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 80.9,
+  "header_text": "ORANGE PRECISE SHOT ) $121)\nae",
+  "stages_text": "1\n,\n2",
+  "error": null
+ }
+}

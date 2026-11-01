@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_34",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "34_Reality Check.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/34_Reality Check.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Reality Check",
+  "file_name": "Reality Check",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f6ca82d8cf86bb0154b22e4d993d25fc7839bc20"
+ },
+ "vision": {
+  "id": "S11_BST_34",
+  "name": "Reality Check",
+  "sub": null,
+  "type": "Event",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Destroy an opponent's Setup, Drill, Ally, or attached card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame",
+  "_src": "S11.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "REALITY CHECK ) R34\na. as oe ¥",
+  "stages_text": "1,",
+  "error": null
+ }
+}

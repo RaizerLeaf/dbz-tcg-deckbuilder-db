@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S82",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S82_Namekian Aerial Knee.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S82_Namekian Aerial Knee.png",
+  "prefix": "S",
+  "number": 82,
+  "card_number": "S82",
+  "name_part": "Namekian Aerial Knee",
+  "file_name": "Namekian Aerial Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "06b23f76f170164e15a265c348e365ff7ccfe864"
+ },
+ "vision": {
+  "id": "S07_STR_S82",
+  "name": "Namekian Aerial Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you control a Saiyan Personality, gain X stages and Rejuvenate X. X = Your MP's level.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_71; text compared on the sheet",
+  "_src": "S07.jsonl:265"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "NAMEKIAN AERIAL KNEE ) $82",
+  "stages_text": ",\n3\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_53",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "53_Saiyan High Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/53_Saiyan High Kick.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan High Kick",
+  "file_name": "Saiyan High Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "97fc956299ca3c7de756b81fe28aa065a377d69f"
+ },
+ "vision": {
+  "id": "S07_BST_53",
+  "name": "Saiyan High Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nIf you have more than 4 cards in your hand, this attack deals +6 life cards of damage.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 70.6,
+  "header_text": "SAIYAN HIGH KICK C) 053\nreA4",
+  "stages_text": ",\n37\n,\n,",
+  "error": null
+ }
+}

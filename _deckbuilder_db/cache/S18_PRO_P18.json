@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P18",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P18_Orange Collision.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P18_Orange Collision.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Orange Collision",
+  "file_name": "Orange Collision",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c064b8afd82d0fa11fc7c2d9960ae79e4b468a07"
+ },
+ "vision": {
+  "id": "S18_PRO_P18",
+  "name": "Orange Collision",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1.\nDAMAGE: AT + 4 stages.\nHIT: Search your discard pile for a Styled Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 86.5,
+  "header_text": "ORANGE COLLISION ) P18.",
+  "stages_text": "4,\n,",
+  "error": null
+ }
+}

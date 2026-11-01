@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P17",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P17_Blue Protective Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P17_Blue Protective Mastery.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Blue Protective Mastery",
+  "file_name": "Blue Protective Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0c2f948ae96ad397e168c2e3a961ed3f158de1ea"
+ },
+ "vision": {
+  "id": "S13_PRO_P17",
+  "name": "Blue Protective Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent needs 6 anger to advance a personality level.\n[Defense] POWER: You may discard a Physical Combat card from your hand to stop an energy attack or an Energy Combat card to stop a physical attack. If you discarded a Blue card, you may raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (zoomed); P number printed (promo, not DR)",
+  "_src": "S13.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "(4\n\n1 ¢\n\nLa4y\nPK SAY",
+  "stages_text": "4\n4\n3\n,",
+  "error": null
+ }
+}

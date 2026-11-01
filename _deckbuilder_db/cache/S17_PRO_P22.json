@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P22",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P22_Orange Refocus.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P22_Orange Refocus.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Orange Refocus",
+  "file_name": "Orange Refocus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3675c4e9b579458348d5cc8e408cb3502aa99361"
+ },
+ "vision": {
+  "id": "S17_PRO_P22",
+  "name": "Orange Refocus",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nRaise your anger 1. You may search your discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 87.2,
+  "header_text": "ORANGE REFOCUS ) P22 |\n—— ll OU) nt",
+  "stages_text": ", 7\n,\n\n,\n,",
+  "error": null
+ }
+}

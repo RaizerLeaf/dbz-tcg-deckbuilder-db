@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_55",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "55_Chilled - Prophet.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/55_Chilled - Prophet.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Chilled - Prophet",
+  "file_name": "Chilled",
+  "file_subtitle": "Prophet",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "965dcc476180651edc43303c3654664325549f9e"
+ },
+ "vision": {
+  "id": "S09_BST_55",
+  "name": "Chilled",
+  "sub": "Prophet",
+  "type": "Main Personality",
+  "num": "S55",
+  "lvl": 4,
+  "stages": [
+   650000,
+   500000,
+   400000,
+   300000,
+   200000,
+   150000,
+   100000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal their life card damage as stages of damage instead. Your attacks that deal 5 or more stages of damage are considered to deal critical damage. Personalities cannot be more than 5 stages above 0.\nPOWER: Gain 3 stages. Choose a personality in play. That personality loses 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.0,
+  "header_text": "41 CHILLED\nLEVEL PROPHET () 599\na 7 oe",
+  "stages_text": "650,000\n500,000\n400,000\n300,000\n200,000\n150,000\n100,000\n50,000\n25,000\n10,000\n\n0",
+  "error": null
+ }
+}

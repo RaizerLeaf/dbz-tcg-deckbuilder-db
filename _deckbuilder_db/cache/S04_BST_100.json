@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_100",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "100_Android 20 - Mastermind.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/100_Android 20 - Mastermind.png",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Android 20 - Mastermind",
+  "file_name": "Android 20",
+  "file_subtitle": "Mastermind",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ce615c42740518e61f93c18b27e6ad891e1051ee"
+ },
+ "vision": {
+  "id": "S04_BST_100",
+  "name": "Android 20",
+  "sub": "Mastermind",
+  "type": "Ally",
+  "num": "U100",
+  "lvl": 1,
+  "stages": [
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Damage from attacks performed by personalities with \"Android\" in the title cannot be prevented. When this card is leaving play, all personalities with \"Android\" in the title lose 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'VILLAIN ALLY'",
+  "_src": "S04.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "L ANDROID 20\nLEVEL MASTERMIND () U100",
+  "stages_text": "100,000\n80,000\n60,000\n40,000\n20,000\n715,000\n10,000\n5,000\n1,000\n500\n0",
+  "error": null
+ }
+}

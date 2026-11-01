@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S153",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S153_Red Destiny.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S153_Red Destiny.png",
+  "prefix": "S",
+  "number": 153,
+  "card_number": "S153",
+  "name_part": "Red Destiny",
+  "file_name": "Red Destiny",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f65e8ec0e50445f64d32146d2d16d018dafc06a4"
+ },
+ "vision": {
+  "id": "S07_STR_S153",
+  "name": "Red Destiny",
+  "sub": null,
+  "type": "Setup",
+  "num": "S153",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Raise your anger 2 levels. For the remainder of combat, your opponent's attacks deal -2 stages and -2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_44; text compared on the sheet",
+  "_src": "S07.jsonl:336"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 89.5,
+  "header_text": "RED DESTINY €) $153",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P14",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P14_Namekian Enlightened Mastery.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P14_Namekian Enlightened Mastery.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Namekian Enlightened Mastery",
+  "file_name": "Namekian Enlightened Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3dfe8e14d9de98bceb996f51d46633068771a6c5"
+ },
+ "vision": {
+  "id": "S15_PRO_P14",
+  "name": "Namekian Enlightened Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage. At the start of your Rejuvenation Step, you may shuffle a Dragon Ball you control back into its owner's Life Deck.\nPOWER: Draw a card. Discard a card from your hand. If you discarded a Dragon Ball, raise your anger 2 and stops a physical or energy attack in your opponent's next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; P number printed; last sentence transcribed as printed ('and stops a physical or energy attack'); title read from a crop of the original",
+  "_src": "S15.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "| \\ oe NM, |",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

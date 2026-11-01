@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_122",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "122_Blue Restraint.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/122_Blue Restraint.png",
+  "prefix": null,
+  "number": 122,
+  "card_number": "122",
+  "name_part": "Blue Restraint",
+  "file_name": "Blue Restraint",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "931ea271d0f66f6979ddf3b4ca4b75919c6e0e28"
+ },
+ "vision": {
+  "id": "S05_BST_122",
+  "name": "Blue Restraint",
+  "sub": null,
+  "type": "Event",
+  "num": "R122",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: You may search your Life Deck for up to 3 Allies and banish them. Destroy the top X cards of your opponent's Life Deck. X = the number of Allies in your Banished Zone.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:122"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.4,
+  "header_text": "BLUE RESTRAINT () R122",
+  "stages_text": "4\n4\n4\n,\n5,\n2,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_45",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "45_Bergamo's Dangers' Triangle.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/45_Bergamo's Dangers' Triangle.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Bergamo's Dangers' Triangle",
+  "file_name": "Bergamo's Dangers' Triangle",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d84aa45a7f31fb066701c85581412fd3349eb445"
+ },
+ "vision": {
+  "id": "S19_BST_45",
+  "name": "Bergamo's Dangers' Triangle",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nUnpreventable. If Basil is in play, Unstoppable. If Lavender is in play, banish 2 cards from your opponent's discard pile.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.2,
+  "header_text": "BERGAMO'S DANGERS’ TRIANGLE ) R45\n[_ ——",
+  "stages_text": ",",
+  "error": null
+ }
+}

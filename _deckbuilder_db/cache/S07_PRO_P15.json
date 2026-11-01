@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P15",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P15_Heroic Dashing Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P15_Heroic Dashing Punch.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Heroic Dashing Punch",
+  "file_name": "Heroic Dashing Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "0ce0790c6dbf05a72fab70ee01e9936590941a2e"
+ },
+ "vision": {
+  "id": "S07_PRO_P15",
+  "name": "Heroic Dashing Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 2 per deck.)\n[Attack] Physical attack.\nRaise your anger 1 level. Your opponent skips his next action this combat. For the remainder of combat, life card damage from attacks is banished.\nDAMAGE: 5 stages.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #142); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:195"
+ },
+ "ocr": {
+  "agreement": 0.021,
+  "lower_conf": 49.0,
+  "header_text": "HEROIC DASHING PUNCH @% P15",
+  "stages_text": ",",
+  "error": null
+ }
+}

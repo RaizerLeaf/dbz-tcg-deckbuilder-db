@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR4",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR4_Goku - Selfless.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR4_Goku - Selfless.png",
+  "prefix": "DR",
+  "number": 4,
+  "card_number": "DR4",
+  "name_part": "Goku - Selfless",
+  "file_name": "Goku",
+  "file_subtitle": "Selfless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "81930d4efda44d782c384aed8a9aaa7e67eec956"
+ },
+ "vision": {
+  "id": "S07_DR_DR4",
+  "name": "Goku",
+  "sub": "Selfless",
+  "type": "Main Personality",
+  "num": "DR4",
+  "lvl": 4,
+  "stages": [
+   2400000,
+   2000000,
+   1600000,
+   1200000,
+   800000,
+   400000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage and your opponent's attacks deal -2 life cards of damage.\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P66",
+  "_src": "S07.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": ": GOKU hry ;\nSELFLESS - , DR4\nAIX. WW) eS ereerwesre",
+  "stages_text": "2,400,000\n2,000,000\n1,600,000\n1,200,000\n800,000\n400,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+  "error": null
+ }
+}

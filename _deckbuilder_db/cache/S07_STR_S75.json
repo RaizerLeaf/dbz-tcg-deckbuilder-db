@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S75",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S75_Orange Steady Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S75_Orange Steady Drill.png",
+  "prefix": "S",
+  "number": 75,
+  "card_number": "S75",
+  "name_part": "Orange Steady Drill",
+  "file_name": "Orange Steady Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bf27cb3b3ada8ccd2a10b97e977f703d89006bf7"
+ },
+ "vision": {
+  "id": "S07_STR_S75",
+  "name": "Orange Steady Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S75",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if your opponent has not performed a successful energy attack this combat.) [Defense] POWER: Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S42; text compared on the sheet",
+  "_src": "S07.jsonl:258"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.2,
+  "header_text": "ORANGE STEADY DRILL & 7 |",
+  "stages_text": null,
+  "error": null
+ }
+}

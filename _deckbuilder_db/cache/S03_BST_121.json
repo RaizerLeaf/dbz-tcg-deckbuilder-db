@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_121",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "121_Red Restriction.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/121_Red Restriction.jpg",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Red Restriction",
+  "file_name": "Red Restriction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a2879465f53c7f82b224adf49a50189a92a99411"
+ },
+ "vision": {
+  "id": "S03_BST_121",
+  "name": "Red Restriction",
+  "sub": null,
+  "type": "Event",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Instant] POWER: Use when entering combat. Players can only attack or pass in their actions this combat. Draw 2 cards and then discard a card from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "(RED RESTRICTION 3 () miz1",
+  "stages_text": "2",
+  "error": null
+ }
+}

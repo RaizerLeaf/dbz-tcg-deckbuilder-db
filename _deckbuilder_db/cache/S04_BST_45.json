@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_45",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "45_Red Smash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/45_Red Smash.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Smash",
+  "file_name": "Red Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "55b19de900900a880a5f126bbe6f7f68502df51c"
+ },
+ "vision": {
+  "id": "S04_BST_45",
+  "name": "Red Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. Look at the top 3 cards of your discard pile and banish any amount of them.\nDAMAGE: 3 stages.\nHIT: Banish any amount of cards from your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.4,
+  "header_text": "RED SMASH C) C45\nACN \\ SMM",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

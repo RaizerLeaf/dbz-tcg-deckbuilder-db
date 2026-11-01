@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_86",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "86_Orange Charged Kick.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/86_Orange Charged Kick.jpg",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Orange Charged Kick",
+  "file_name": "Orange Charged Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "12802cecff0c645c2f25dd201829049053af8c4c"
+ },
+ "vision": {
+  "id": "S02_BST_86",
+  "name": "Orange Charged Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 2 level. Destroy one of your Drills. HIT: Return that Drill to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "'2 level' (singular) as printed",
+  "_src": "S02.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.5,
+  "header_text": "(ORANGE cHaRGED KICK use\n| OQ _ p L_i>—_——__--. 7",
+  "stages_text": "7\n,\n,\n4\n\n,\n4\n7\n43,",
+  "error": null
+ }
+}

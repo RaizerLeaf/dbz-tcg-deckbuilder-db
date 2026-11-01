@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_67",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "67_Buu - Dangerous.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/67_Buu - Dangerous.png",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Buu - Dangerous",
+  "file_name": "Buu",
+  "file_subtitle": "Dangerous",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0081d25a8d19de18bc8681c95bd5b7f12b1187fc"
+ },
+ "vision": {
+  "id": "S19_BST_67",
+  "name": "Buu",
+  "sub": "Dangerous",
+  "type": "Main Personality",
+  "num": "S67",
+  "lvl": 3,
+  "stages": [
+   5950000,
+   4185000,
+   2463000,
+   1744000,
+   1320000,
+   875000,
+   696000,
+   350000,
+   87000,
+   52000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(When you reach this level, Rejuvenate all Allies from your discard pile and Banished Zone.)\n[Continuous]: Your attacks deal +1 stage and +1 life card.\nPOWER: [Attack] Physical attack.\nIf Bee is in play, Focused. If Hercule is in play, Unpreventable. Raise your anger 1.\nDAMAGE: 5 stages.\nHIT: Search your discard pile for a card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge M (pink)",
+  "_src": "S19.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 77.1,
+  "header_text": "BUU",
+  "stages_text": "5,950,000\n4,185,000\n2,463,000\n1,744,000\n1,320,000\n875,000\n696,000\n350,000\n87,000\n52,000\n0",
+  "error": null
+ }
+}

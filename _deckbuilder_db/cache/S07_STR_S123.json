@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S123",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S123_Saiyan Unleashing Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S123_Saiyan Unleashing Drill.png",
+  "prefix": "S",
+  "number": 123,
+  "card_number": "S123",
+  "name_part": "Saiyan Unleashing Drill",
+  "file_name": "Saiyan Unleashing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1ec1c5cbd2d58ad6dcb1e1f2adff46218990ab62"
+ },
+ "vision": {
+  "id": "S07_STR_S123",
+  "name": "Saiyan Unleashing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your energy attacks deal +2 stages of damage and your physical attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_93; text compared on the sheet",
+  "_src": "S07.jsonl:306"
+ },
+ "ocr": {
+  "agreement": 0.45,
+  "lower_conf": 66.2,
+  "header_text": "SAIYAN UNLEASHING DRILL () $123",
+  "stages_text": null,
+  "error": null
+ }
+}

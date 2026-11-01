@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_70",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "70_Cell Jr. - Oppressive.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/70_Cell Jr. - Oppressive.png",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Cell Jr. - Oppressive",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Oppressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6528ec5902f2f146e546d3db9f0cc6332b8dba7f"
+ },
+ "vision": {
+  "id": "S07_BST_70",
+  "name": "Cell Jr.",
+  "sub": "Oppressive",
+  "type": "Main Personality",
+  "num": "U70",
+  "lvl": 3,
+  "stages": [
+   900000,
+   700000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   75000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: You may Rejuvenate an Ally with \"Cell Jr.\" in the title from your hand to stop a physical or energy attack.\nPOWER: [Attack] Physical attack.\nSearch your discard pile for 2 Allies with \"Cell Jr.\" in the title and Rejuvenate them.\nDAMAGE: 1 life card.\nHIT: Search your Life Deck for an Ally with \"Cell Jr.\" in the title and place it in your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 78.9,
+  "header_text": "3 CELL OR.\nLEVEL OPPRESSIVE () U70\n7 RE",
+  "stages_text": "900,000\n700,000\n500,000\n400,000\n300,000\n200,000\n100,000\n75,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

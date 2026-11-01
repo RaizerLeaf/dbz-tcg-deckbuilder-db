@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_69",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "69_Android 16 - Awoken.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/69_Android 16 - Awoken.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Android 16 - Awoken",
+  "file_name": "Android 16",
+  "file_subtitle": "Awoken",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "29844df040c2df6d8757cec20f5f2aac1a9de76c"
+ },
+ "vision": {
+  "id": "S05_BST_69",
+  "name": "Android 16",
+  "sub": "Awoken",
+  "type": "Main Personality",
+  "num": "U69",
+  "lvl": 1,
+  "stages": [
+   200000,
+   150000,
+   100000,
+   50000,
+   30000,
+   10000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "(Your Life Deck may include non-Personality cards that are \"Heroes only.\")\n[Continuous]: Whenever a player does not declare combat during his Combat Step, destroy the top card of his Life Deck. All attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads VILLAIN. A different Level 1 from PZP P121A (BONUS P121, 'Focused')",
+  "_src": "S05.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 76.8,
+  "header_text": "\"L ANDROID 16\nLEVEL AWOKEN () U69",
+  "stages_text": "200,000\n150,000\n100,000\n50,000\n30,000\n10,000\n5,000\n4,000\n\n3,000\n\n2,000\n0",
+  "error": null
+ }
+}

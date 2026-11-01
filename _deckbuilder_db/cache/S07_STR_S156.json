@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S156",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S156_Red Energy Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S156_Red Energy Blast.png",
+  "prefix": "S",
+  "number": 156,
+  "card_number": "S156",
+  "name_part": "Red Energy Blast",
+  "file_name": "Red Energy Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b14a330647471ec3523940e3640cdede9261ca12"
+ },
+ "vision": {
+  "id": "S07_STR_S156",
+  "name": "Red Energy Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S156",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Raise your anger 1 level. Banish a Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S60; text compared on the sheet",
+  "_src": "S07.jsonl:339"
+ },
+ "ocr": {
+  "agreement": 0.789,
+  "lower_conf": 80.2,
+  "header_text": "RED ENERGY BLAST €) st56\nar», =—Wa N wf oe",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

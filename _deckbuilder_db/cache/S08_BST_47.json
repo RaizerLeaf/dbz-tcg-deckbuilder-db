@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_47",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "47_King Kai - On the Move.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/47_King Kai - On the Move.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "King Kai - On the Move",
+  "file_name": "King Kai",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "55f8b90861e530d8c4cc7708b461cf2acb2d149e"
+ },
+ "vision": {
+  "id": "S08_BST_47",
+  "name": "King Kai",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "S47",
+  "lvl": 3,
+  "stages": [
+   6000,
+   5500,
+   4500,
+   3250,
+   3000,
+   2500,
+   2000,
+   1700,
+   1000,
+   500,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "(Your Bubbles and Gregory Allies can make actions regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Search your Life Deck for an Ally named \"Bubbles\" or \"Gregory\" and play it.\nPOWER: [Attack] Physical attack.\nIf this attack is stopped and you control a Bubbles and Gregory Ally, destroy the top 3 cards of your opponent's Life Deck.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S08.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 78.6,
+  "header_text": "S3 KING KAI\nLEVEL ON THE MOVE () 54/7",
+  "stages_text": "6,000\n5,500\n4,500\n\n3,250\n\n3,000\n2,500\n2,000\n1,700\n\n1,000\n\n500\n0",
+  "error": null
+ }
+}

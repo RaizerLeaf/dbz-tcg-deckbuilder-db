@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_90",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "90_Krillin - Lawman.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/90_Krillin - Lawman.png",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Krillin - Lawman",
+  "file_name": "Krillin",
+  "file_subtitle": "Lawman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d31f22ae7b1db1be96826e9f0bd1c9836a34d355"
+ },
+ "vision": {
+  "id": "S16_BST_90",
+  "name": "Krillin",
+  "sub": "Lawman",
+  "type": "Main Personality",
+  "num": "S90",
+  "lvl": 3,
+  "stages": [
+   911000,
+   809000,
+   664000,
+   597000,
+   420000,
+   245000,
+   104000,
+   69000,
+   18000,
+   7000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +2 life cards.\nPOWER: Shuffle up to 3 Energy Combat cards from your discard pile into your Life Deck. Draw a card.\n[Defense] POWER: Play an energy attack from your hand to stop an attack.\nLower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E (blue)",
+  "_src": "S16.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "S3 KRILLIN\nLEVEL LAWMAN () 590\n~~ — pase a",
+  "stages_text": "911,000\n809,000\n664,000\n597,000\n420,000\n245,000\n104,000\n69,000\n18,000\n7,000\n\n0",
+  "error": null
+ }
+}

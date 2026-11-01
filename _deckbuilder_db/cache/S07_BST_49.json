@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_49",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "49_Red Determination.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/49_Red Determination.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Red Determination",
+  "file_name": "Red Determination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ed54b1d1a18cd2193ae4aee03ab5d4ed92d618ba"
+ },
+ "vision": {
+  "id": "S07_BST_49",
+  "name": "Red Determination",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nIf your opponent's MP has lost stages from one of your effects this combat, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 81.8,
+  "header_text": "RED DETERMINATION @ ws",
+  "stages_text": "9 4\n7\n\n,\n,",
+  "error": null
+ }
+}

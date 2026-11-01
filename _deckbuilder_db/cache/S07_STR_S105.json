@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S105",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S105_Saiyan Energy Focus.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S105_Saiyan Energy Focus.png",
+  "prefix": "S",
+  "number": 105,
+  "card_number": "S105",
+  "name_part": "Saiyan Energy Focus",
+  "file_name": "Saiyan Energy Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "90c8e8fb62f3d703bec2db5bd00e875f7dbbd96d"
+ },
+ "vision": {
+  "id": "S07_STR_S105",
+  "name": "Saiyan Energy Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. Choose 3 non-personality/non-Mastery cards in play. Those cards lose all effects until the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_52; text compared on the sheet",
+  "_src": "S07.jsonl:288"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 80.8,
+  "header_text": "SAIYAN ENERGY FOCUS @® s105\n‘ >",
+  "stages_text": "",
+  "error": null
+ }
+}

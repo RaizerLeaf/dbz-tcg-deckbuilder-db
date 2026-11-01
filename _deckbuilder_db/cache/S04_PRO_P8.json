@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P8",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P8_Combination Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P8_Combination Drill.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Combination Drill",
+  "file_name": "Combination Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "91c5239cd1eb8a5f5cfe00b2ded67897b9e88398"
+ },
+ "vision": {
+  "id": "S04_PRO_P8",
+  "name": "Combination Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Continuous] POWER: When entering combat, choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may choose a Drill not named \"Combination Drill\" and destroy it.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey frame; prints '(Most Recent Printing)' at the end of the text box (MRP reprint). Infinity icon followed by 'POWER', as printed. Updated text vs S02 C60",
+  "_src": "S04.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "Via = os\nSF <4 loiak",
+  "stages_text": null,
+  "error": null
+ }
+}

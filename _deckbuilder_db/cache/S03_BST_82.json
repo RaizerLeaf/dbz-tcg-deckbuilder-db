@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_82",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "82_Blue Dominance.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/82_Blue Dominance.jpg",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Blue Dominance",
+  "file_name": "Blue Dominance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "427cd0dcca2f0f414923ddcaa331b7abd6f3c2be"
+ },
+ "vision": {
+  "id": "S03_BST_82",
+  "name": "Blue Dominance",
+  "sub": null,
+  "type": "Setup",
+  "num": "U82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card. Banish after use.) [Instant] POWER: Use when entering combat. Advance or lower your MP to level 2. Choose up to 2 Drills in your discard pile and place them into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.9,
+  "header_text": "| BLUE DOMINANCE) () Lae\ny kf .",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

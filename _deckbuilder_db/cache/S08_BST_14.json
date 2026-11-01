@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_14",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "14_Nameian Grab.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/14_Nameian Grab.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Nameian Grab",
+  "file_name": "Nameian Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d342274662306a43158d361f112b7a3c67eb6a31"
+ },
+ "vision": {
+  "id": "S08_BST_14",
+  "name": "Namekian Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nIf the highest power level on your MP's Level 4 is 500,000 or less, destroy an opponent's Setup, Drill, or Ally in play.\nDAMAGE: 3 life cards or 3 stages.\nHIT: Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Nameian'",
+  "_src": "S08.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 82.7,
+  "header_text": "NAMEKIAN GRAB C) C14\na 0 =~ —™zTF",
+  "stages_text": "3\n4\n,",
+  "error": null
+ }
+}

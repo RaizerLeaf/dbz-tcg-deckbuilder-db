@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P7",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P7_Black Swirl.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P7_Black Swirl.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Black Swirl",
+  "file_name": "Black Swirl",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f7a4c948978c9243b14df6e73b2a76e1c0671af3"
+ },
+ "vision": {
+  "id": "S05_PRO_P7",
+  "name": "Black Swirl",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nName a card. Your opponent cannot play that card for the remainder of combat.\nDAMAGE: 4 life cards\nHIT: Raise your anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 U78; no period after '4 life cards' as printed",
+  "_src": "S05.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.9,
+  "header_text": "BLACK SWIRL () P7\na i — i ?7 f »",
+  "stages_text": "4 ,\n,\n,",
+  "error": null
+ }
+}

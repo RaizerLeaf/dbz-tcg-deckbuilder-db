@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P12",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P12_Beerus - God of Destruction.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P12_Beerus - God of Destruction.jpg",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Beerus - God of Destruction",
+  "file_name": "Beerus",
+  "file_subtitle": "God of Destruction",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "624c9ec3e00bd17d1c557badfc8dadb8a7114053"
+ },
+ "vision": {
+  "id": "S06_PRO_P12",
+  "name": "Beerus",
+  "sub": "God of Destruction",
+  "type": "Ally",
+  "num": "P12",
+  "lvl": 1,
+  "stages": [
+   200000000,
+   20000000,
+   2000000,
+   1000000,
+   500000,
+   200000,
+   100000,
+   50000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(When this card enters play, destroy the top card of each player's Life Deck.)\n[Continuous]: Whenever a non-Dragon Ball card is discarded from a player's hand, banish it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; one Trait badge (G with a gold card symbol) = God; full-art 2016 promo",
+  "_src": "S06.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.7,
+  "header_text": "1 | BEERUS P12\nLEVEL | GOD OF DESTRUCTION",
+  "stages_text": "200,000,000\n20,000,000\n2,000,000\n1,000,000\n500,000\n200,000\n100,000\n50,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

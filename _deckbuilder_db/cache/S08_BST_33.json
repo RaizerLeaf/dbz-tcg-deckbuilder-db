@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_33",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "33_King Kai's Tactics.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/33_King Kai's Tactics.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "King Kai's Tactics",
+  "file_name": "King Kai's Tactics",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "6226458be95d904b2ed395af05bd40dd5ad73561"
+ },
+ "vision": {
+  "id": "S08_BST_33",
+  "name": "King Kai's Tactics",
+  "sub": null,
+  "type": "Setup",
+  "num": "R33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This attack's cost must be paid by any number of Allies you control, regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack costing 4 stages.\nLower your opponent's anger 2 levels. If 2 or more Allies paid for this attack's cost, its damage cannot be prevented.\nDAMAGE: 8 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame",
+  "_src": "S08.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "KING KAI'S TACTICS a R33 |\nDOES |, lee",
+  "stages_text": null,
+  "error": null
+ }
+}

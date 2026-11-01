@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P28",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P28_Dende - Alarmed.png",
+  "rel_path": "z_OP Series/OP3/P28_Dende - Alarmed.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Dende - Alarmed",
+  "file_name": "Dende",
+  "file_subtitle": "Alarmed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cbf5e89039619e54f81b1d5cc40eab72a07784e4"
+ },
+ "vision": {
+  "id": "OP3_OP_P28",
+  "name": "Dende",
+  "sub": "Alarmed",
+  "type": "Main Personality",
+  "num": "P28",
+  "lvl": 3,
+  "stages": [
+   7777,
+   6666,
+   5555,
+   4444,
+   3333,
+   2222,
+   1111,
+   99,
+   88,
+   77,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "(Your Dragon Balls are not considered attached cards for effects.)\n[Instant] POWER: Use when a Dragon Ball you own would be captured. Cancel that effect.\nPOWER: Attach a Dragon Ball you control to your MP. Draw a card. Gain 5 stages or Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); edge reads HERO -> MP; Trait badges G, N",
+  "_src": "OP.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "DENDE",
+  "stages_text": "7,777\n\n6,666\n\n5,555\n\n4,444\n\n5 3,333\n2,222\n1,111\n99\n\n88\n\n77\n0",
+  "error": null
+ }
+}

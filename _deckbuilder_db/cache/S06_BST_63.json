@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_63",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "63_Android 13 - Dark Villain.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/63_Android 13 - Dark Villain.jpg",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Android 13 - Dark Villain",
+  "file_name": "Android 13",
+  "file_subtitle": "Dark Villain",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "21cbec76def1d1cff5ed3a30787ffe5b9b0b7f12"
+ },
+ "vision": {
+  "id": "S06_BST_63",
+  "name": "Android 13",
+  "sub": "Dark Villain",
+  "type": "Main Personality",
+  "num": "U63",
+  "lvl": 3,
+  "stages": [
+   1900000,
+   1700000,
+   1500000,
+   1300000,
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Your opponent's MP loses 4 stages. Your opponent skips his first action this combat.\nPOWER: [Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: Your opponent's [Continuous] Powers cannot be used this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 0.861,
+  "lower_conf": 71.2,
+  "header_text": "=3 ANDROID 13 463\nLEVEL DARK VILLAIN",
+  "stages_text": "1,900,000\n1,700,000\n1,500,000\n\n1,300,000\n\n,1,100,000\n\n900,000\n\n700,000\n\n35500,000\n\n300,000\n\n100,000\n\n0",
+  "error": null
+ }
+}

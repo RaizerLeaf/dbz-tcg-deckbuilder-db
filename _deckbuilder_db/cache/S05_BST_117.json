@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_117",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "117_Black Choke.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/117_Black Choke.png",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Black Choke",
+  "file_name": "Black Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a92ba32fb0c5f5e234b810896841e3953c00a75e"
+ },
+ "vision": {
+  "id": "S05_BST_117",
+  "name": "Black Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: 3 stages +AT life cards.\nHIT: The next time one of your effects destroys cards from the top of an opponent's Life Deck this combat, you may increase that amount by 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "BLACK CHOKE | — g ) R117.",
+  "stages_text": "4\n4,\n37\n2,\n,",
+  "error": null
+ }
+}

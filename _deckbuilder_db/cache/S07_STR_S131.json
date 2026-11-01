@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S131",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S131_Black Lunge.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S131_Black Lunge.png",
+  "prefix": "S",
+  "number": 131,
+  "card_number": "S131",
+  "name_part": "Black Lunge",
+  "file_name": "Black Lunge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "49c296780b8a8a6c15de87da6c0f5acdb9d8ba58"
+ },
+ "vision": {
+  "id": "S07_STR_S131",
+  "name": "Black Lunge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +4 life cards. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_18; text compared on the sheet",
+  "_src": "S07.jsonl:314"
+ },
+ "ocr": {
+  "agreement": 0.5,
+  "lower_conf": 78.0,
+  "header_text": "BLACK LUNGE C) sia",
+  "stages_text": "",
+  "error": null
+ }
+}

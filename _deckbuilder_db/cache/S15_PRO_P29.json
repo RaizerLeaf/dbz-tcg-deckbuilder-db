@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P29",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P29_Orange Stare Down.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P29_Orange Stare Down.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Orange Stare Down",
+  "file_name": "Orange Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "184e0965e47b07cc215b0e0377ac8a754232bd8c"
+ },
+ "vision": {
+  "id": "S15_PRO_P29",
+  "name": "Orange Stare Down",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nBanish an opponent's Setup, Drill, or Ally.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; no Endurance badge",
+  "_src": "S15.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "ORANGE STARE DOWN : ) P29,\n9 Us ee eee",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S100",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S100_Namekian Sudden Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S100_Namekian Sudden Blast.png",
+  "prefix": "S",
+  "number": 100,
+  "card_number": "S100",
+  "name_part": "Namekian Sudden Blast",
+  "file_name": "Namekian Sudden Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8a098ffc82567b4245bfdaabd99fefd35c2e3eb5"
+ },
+ "vision": {
+  "id": "S04_STR_S100",
+  "name": "Namekian Sudden Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 5 life cards.\nHIT: Choose 4 cards in your discard pile. Banish 2 of those cards and shuffle the remaining into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S115",
+  "_src": "S04.jsonl:253"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "NAMEKIAN SUDDEN BLAST () $100\nST",
+  "stages_text": ",\n,\n,\n2",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_94",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "94_Korin - Watching from Afar.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/94_Korin - Watching from Afar.png",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Korin - Watching from Afar",
+  "file_name": "Korin",
+  "file_subtitle": "Watching from Afar",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "91a35293a2d5ebf50e4bb2f64d29651057a60f42"
+ },
+ "vision": {
+  "id": "S04_BST_94",
+  "name": "Korin",
+  "sub": "Watching From Afar",
+  "type": "Ally",
+  "num": "U94",
+  "lvl": 1,
+  "stages": [
+   25,
+   23,
+   21,
+   19,
+   17,
+   15,
+   13,
+   11,
+   9,
+   7,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: After taking life card damage from an attack, Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'HERO ALLY' (alignment printed on PanZ Set 4 Allies)",
+  "_src": "S04.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.2,
+  "header_text": "1 KORIN vod\nLEVEL WATCHING FROM AFAR",
+  "stages_text": "25\n23\n\n21\n\n19\n17\n15\n13\n11\n9\n\n7\n0",
+  "error": null
+ }
+}

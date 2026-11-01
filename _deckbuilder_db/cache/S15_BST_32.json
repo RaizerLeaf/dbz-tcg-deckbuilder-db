@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_32",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "32_Concentrated Power Beam.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/32_Concentrated Power Beam.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Concentrated Power Beam",
+  "file_name": "Concentrated Power Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "491225ea63b3d06720760dbce4eba4d1183cc965"
+ },
+ "vision": {
+  "id": "S15_BST_32",
+  "name": "Concentrated Power Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Heroes only.)\n[Attack] 2: Energy attack.\nFocused. Destroy a Setup.\nDAMAGE: 3 life cards.\nHIT: Styled Setups lose all effects until the end of the turn.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '2:'",
+  "_src": "S15.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 89.5,
+  "header_text": "CONCENTRATED POWER BEAM",
+  "stages_text": "9\n4,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P21",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P21_Red Forward Stance Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P21_Red Forward Stance Drill.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Red Forward Stance Drill",
+  "file_name": "Red Forward Stance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "82304c70ee3867d96751e8f0eda283272b4b47cd"
+ },
+ "vision": {
+  "id": "S11_PRO_P21",
+  "name": "Red Forward Stance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: You may lower your anger 1 level to stop a physical or energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S11.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 61.5,
+  "header_text": "ED FORWARD STANCE DRILL C P21",
+  "stages_text": null,
+  "error": null
+ }
+}

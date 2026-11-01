@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_49",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "49_Captain Ginyu's Reflexes.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/49_Captain Ginyu's Reflexes.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Captain Ginyu's Reflexes",
+  "file_name": "Captain Ginyu's Reflexes",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4ceaf16a33f88db7d6d3c098e87cfd7f4e9d787d"
+ },
+ "vision": {
+  "id": "S16_BST_49",
+  "name": "Captain Ginyu's Reflexes",
+  "sub": null,
+  "type": "Event",
+  "num": "R49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] POWER: Stops an attack.\nSearch your Life Deck for an [Trait:Alien] Ally and play it or search your discard pile or Banished Zone for a \"Ginyu Force\" Ally and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; inline icon zoomed: purple A badge (Alien)",
+  "_src": "S16.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.892,
+  "lower_conf": 82.1,
+  "header_text": "CAPTAIN GINYU'S REFLEXES ) R49 |\n..- - =.  ~ /-uQ",
+  "stages_text": "7\n2\n,\n12\n,",
+  "error": null
+ }
+}

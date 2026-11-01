@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_78",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "78_Blue Flinch.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/78_Blue Flinch.jpg",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Blue Flinch",
+  "file_name": "Blue Flinch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c7216ec59678d909a1d5a6d767f1a47f53b2cbb6"
+ },
+ "vision": {
+  "id": "S02_BST_78",
+  "name": "Blue Flinch",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U78",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. You may discard a Styled card from your hand. If you do, each player draws a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "| BLUE FLINCH cae () u7e8",
+  "stages_text": "7",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_28",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "28_Saiyan Rebuff.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/28_Saiyan Rebuff.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Rebuff",
+  "file_name": "Saiyan Rebuff",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6708bb492f61e4dcecf8183a491f00f882ec2424"
+ },
+ "vision": {
+  "id": "S18_BST_28",
+  "name": "Saiyan Rebuff",
+  "sub": null,
+  "type": "Event",
+  "num": "R28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops an attack.\nIf you have destroyed cards from your Life Deck this combat, destroy the top 3 cards of your opponent's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S18.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.2,
+  "header_text": "SAIYAN REBUFF C) R28\n1) ae |i",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

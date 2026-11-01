@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S167",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S167_Saiyan Light Jab.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S167_Saiyan Light Jab.png",
+  "prefix": "S",
+  "number": 167,
+  "card_number": "S167",
+  "name_part": "Saiyan Light Jab",
+  "file_name": "Saiyan Light Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1c9484084113e515625c867dee61e418afd722a7"
+ },
+ "vision": {
+  "id": "S04_STR_S167",
+  "name": "Saiyan Light Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S167",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Shuffle this card back into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S142",
+  "_src": "S04.jsonl:320"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 79.9,
+  "header_text": "SAIYAN LIGHT JAB $167\nsb, YY ~*~",
+  "stages_text": "7\n2",
+  "error": null
+ }
+}

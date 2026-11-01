@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_35",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "35_Orange Left Punch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/35_Orange Left Punch.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Orange Left Punch",
+  "file_name": "Orange Left Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "a9e181f53ab6f02869e5a15ca61c1d704ec48802"
+ },
+ "vision": {
+  "id": "S04_BST_35",
+  "name": "Orange Left Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Physical attack.\nLower your opponent's anger 1 level. If you control less than 3 Drills, this attack stays in play to be used a second time this combat.\nDAMAGE: AT +1 stage.\n(Banish after use.)",
+  "conf": "high",
+  "review": "printed with the DEFENSE (shield) icon before 'Physical attack.' Zoomed to confirm. Check the CRD",
+  "note": "icon recorded as printed",
+  "_src": "S04.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "ORANGE LEFT PUNCH ) 035\nAW) eel",
+  "stages_text": ", 5\n,\n,\n4\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_80",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "80_Black Confident Shot.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/80_Black Confident Shot.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Black Confident Shot",
+  "file_name": "Black Confident Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "172ffd8425abfd65eea6e6460fb9f0a58af2fce0"
+ },
+ "vision": {
+  "id": "S05_BST_80",
+  "name": "Black Confident Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDamage from this attack cannot be redirected. Your damage modifiers on this attack are doubled.\nDAMAGE: 2 life cards and 2 stages.\nHIT: If your opponent's MP's power level is 0, you may search your Life Deck for a Named attack card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "BLACK CONFIDENT SHOT @ ) U80\nDe Sie eee eee ee ae\n! Bm Arar *’ar |",
+  "stages_text": ",\n,\n\n4\n,\n,\n,\n,",
+  "error": null
+ }
+}

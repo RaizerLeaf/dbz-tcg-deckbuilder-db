@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_68",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "68_Beerus - Curious.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/68_Beerus - Curious.png",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Beerus - Curious",
+  "file_name": "Beerus",
+  "file_subtitle": "Curious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "602c9e2e7e5d657c1cbabe3b373abe66f67c9877"
+ },
+ "vision": {
+  "id": "S16_BST_68",
+  "name": "Beerus",
+  "sub": "Curious",
+  "type": "Main Personality",
+  "num": "S68",
+  "lvl": 1,
+  "stages": [
+   225000000,
+   54000000,
+   1355000,
+   1000000,
+   736000,
+   394000,
+   222000,
+   85000,
+   53000,
+   9000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Destroy the top card of each player's Life Deck.\nPOWER: [Attack] Energy attack.\nBanish 2 cards from your opponent's discard pile. Raise your anger 2.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold)",
+  "_src": "S16.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.0,
+  "header_text": "1 | BEERUS\n; LEVEL | CURIOUS S68",
+  "stages_text": "225,000,000\n54,000,000\n1,355,000\n1,000,000\n736,000\n394,000\n222,000\n85,000\n53,000\n9,000\n\n0",
+  "error": null
+ }
+}

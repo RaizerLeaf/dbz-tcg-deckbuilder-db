@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P35",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P35_Skillful Parry.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P35_Skillful Parry.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Skillful Parry",
+  "file_name": "Skillful Parry",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db68b3066811100d2eeb43ba613d0dcee67b45e2"
+ },
+ "vision": {
+  "id": "S17_PRO_P35",
+  "name": "Skillful Parry",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops a physical attack.\nGain 5 stages. [Trait:Namekian]: Rejuvenate 3.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; inline icon orange N badge (Namekian); same text as S16 BST_46",
+  "_src": "S17.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 0.75,
+  "lower_conf": 78.2,
+  "header_text": "SKILLFUL PARRY : ) P35\nCy",
+  "stages_text": "2\n3,",
+  "error": null
+ }
+}

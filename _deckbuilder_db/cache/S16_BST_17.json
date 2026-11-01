@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_17",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "17_Namekian Last Resort.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/17_Namekian Last Resort.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Namekian Last Resort",
+  "file_name": "Namekian Last Resort",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "81eecb8339d750ec6229bef2579cd571bc89f739"
+ },
+ "vision": {
+  "id": "S16_BST_17",
+  "name": "Namekian Last Resort",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\nLower your opponent's anger 1. [Warning]: Remain 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.833,
+  "lower_conf": 82.6,
+  "header_text": "NAMEKIAN LAST RESORT\nOS ae",
+  "stages_text": "2\n\n,\n,\n\n1,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_97",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "97_Raditz’s Dirty Tactics.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/97_Raditz’s Dirty Tactics.jpg",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Raditz’s Dirty Tactics",
+  "file_name": "Raditz’s Dirty Tactics",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6f57251a2022c9a0b599be635a950867f0e72fdd"
+ },
+ "vision": {
+  "id": "S02_BST_97",
+  "name": "Raditz's Dirty Tactics",
+  "sub": null,
+  "type": "Setup",
+  "num": "U97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) POWER: Name a Setup or Drill. Search your opponent's Life Deck and hand for all copies of that card and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "Sa\n(RADITZ'S DIRTY TACTICS (=",
+  "stages_text": "",
+  "error": null
+ }
+}

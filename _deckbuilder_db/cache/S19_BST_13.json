@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_13",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "13_Namekian Refined Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/13_Namekian Refined Mastery.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Refined Mastery",
+  "file_name": "Namekian Refined Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f98ddd3e8d9f27d167e03186961d2bcf811d48d4"
+ },
+ "vision": {
+  "id": "S19_BST_13",
+  "name": "Namekian Refined Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Attacks performed by your MP deal +1 life card. Whenever a Drill you own enters play during combat, gain 2 stages.\n[Instant] POWER: Use when you would Rejuvenate any number of cards during combat. Banish them instead to search your Life Deck for a Styled or Named Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from the filename; number DR13 visible",
+  "_src": "S19.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "— =\n<4\ny ~—-7,\nGules. Adana\\en\\Ghe —",
+  "stages_text": "13\n1\n,\n7\n,",
+  "error": null
+ }
+}

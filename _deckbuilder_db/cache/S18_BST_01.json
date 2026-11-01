@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_01",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "01_Black Flowing Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/01_Black Flowing Drill.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Flowing Drill",
+  "file_name": "Black Flowing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f47dbdda327430990f6741b5abf3be0e30a889ad"
+ },
+ "vision": {
+  "id": "S18_BST_01",
+  "name": "Black Flowing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: [Trait:Saiyan]: Use at the start of your Rejuvenation Step. Rejuvenate a Styled [Defense] card from your discard pile.\n[Instant] POWER: Use after your effect discards a card from your opponent's hand. Banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; Set 18 uses a new blue 'C' crest as set symbol; inline icon zoomed: green S badge (Saiyan); the shield icon is the Defense icon; no Endurance badge",
+  "_src": "S18.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 78.4,
+  "header_text": "BLACK FLOWING DRILL () U1",
+  "stages_text": null,
+  "error": null
+ }
+}

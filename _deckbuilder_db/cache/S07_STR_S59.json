@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S59",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S59_Orange Energy Absorption.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S59_Orange Energy Absorption.png",
+  "prefix": "S",
+  "number": 59,
+  "card_number": "S59",
+  "name_part": "Orange Energy Absorption",
+  "file_name": "Orange Energy Absorption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9bf70e529ae6c859c52eb531754dbe4041ee9b88"
+ },
+ "vision": {
+  "id": "S07_STR_S59",
+  "name": "Orange Energy Absorption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Defense] Stops an energy attack. Gain 5 stages. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_40; text compared on the sheet",
+  "_src": "S07.jsonl:242"
+ },
+ "ocr": {
+  "agreement": 0.706,
+  "lower_conf": 63.0,
+  "header_text": "ORANGE ENERGY ABSORPTION ) $59",
+  "stages_text": ",",
+  "error": null
+ }
+}

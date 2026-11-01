@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_103",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "103_Blue Kiss.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/103_Blue Kiss.png",
+  "prefix": null,
+  "number": 103,
+  "card_number": "103",
+  "name_part": "Blue Kiss",
+  "file_name": "Blue Kiss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "a1ae9a610b7f0ec2669fae825a2d41f271411849"
+ },
+ "vision": {
+  "id": "S04_BST_103",
+  "name": "Blue Kiss",
+  "sub": null,
+  "type": "Setup",
+  "num": "R103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Choose one of your Allies in play. That Ally may perform an attack in your next action this combat regardless of your MP's power stage. That attack deals +2 life cards of damage and cannot have its damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "fs 7",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_40",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "40_Majin Instability.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/40_Majin Instability.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Majin Instability",
+  "file_name": "Majin Instability",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "40322e2158440a207998858efe4c8941cd96fe95"
+ },
+ "vision": {
+  "id": "S16_BST_40",
+  "name": "Majin Denial",
+  "sub": null,
+  "type": "Event",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Majin] only. Limit 1 per deck. Once per combat, you may shuffle this card from your hand into your Life Deck as an action to Rejuvenate 3.)\nPOWER: Destroy a Drill. [Warning]: Destroy all Drills instead.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; filename says 'Majin Instability'; the card prints 'Majin Denial'; inline icon zoomed: pink M badge (Majin); black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 93.9,
+  "header_text": "MAJIN DENIAL ) R40\nee eee ee aE es",
+  "stages_text": "4\n\n0\n3,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_55",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "55_Hit - Assasin.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/55_Hit - Assasin.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Hit - Assasin",
+  "file_name": "Hit",
+  "file_subtitle": "Assasin",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "993e8baa1af30afe131bafa621dd3221c374d9e4"
+ },
+ "vision": {
+  "id": "S17_BST_55",
+  "name": "Hit",
+  "sub": "Assassin",
+  "type": "Main Personality",
+  "num": "S55",
+  "lvl": 2,
+  "stages": [
+   60000000,
+   22000000,
+   7420000,
+   1205000,
+   876000,
+   723000,
+   355000,
+   142000,
+   69000,
+   27000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when your opponent skips an action. Banish the top card of your opponent's Life Deck.\nPOWER: [Attack] Physical attack.\nYour opponent skips their next action this combat.\nDAMAGE: 1 life card.\nHIT: Your next attack this combat is Unstoppable.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S17.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 74.7,
+  "header_text": "— HIT\nLEVEL ASSASSIN () $55\nFT",
+  "stages_text": "60,000,000\n22,000,000\n7,420,000\n1,205,000\n876,000\n723,000\n355,000\n142,000\n69,000\n27,000\n0",
+  "error": null
+ }
+}

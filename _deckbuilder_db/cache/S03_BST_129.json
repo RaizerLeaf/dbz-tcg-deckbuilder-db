@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_129",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "129_Garlic Jr.'s Dead Zone.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/129_Garlic Jr.'s Dead Zone.jpg",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Garlic Jr.'s Dead Zone",
+  "file_name": "Garlic Jr.'s Dead Zone",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3ab8266d300bf360391817cd1642e2de2a947cad"
+ },
+ "vision": {
+  "id": "S03_BST_129",
+  "name": "Garlic Jr.'s Dead Zone",
+  "sub": null,
+  "type": "Setup",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) POWER: Shuffle all Dragon Balls in play into their owner's Life Decks to search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.6,
+  "header_text": "“(GARLIC JR.'S DEAD ZONE a\np f @€ jg i wg",
+  "stages_text": "277\n,\n,",
+  "error": null
+ }
+}

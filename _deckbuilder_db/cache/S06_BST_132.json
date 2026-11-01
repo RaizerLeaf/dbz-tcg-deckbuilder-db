@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_132",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "132_Android Insubordination.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/132_Android Insubordination.jpg",
+  "prefix": null,
+  "number": 132,
+  "card_number": "132",
+  "name_part": "Android Insubordination",
+  "file_name": "Android Insubordination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4105a16342cc484adeeec57e703594a1689c3825"
+ },
+ "vision": {
+  "id": "S06_BST_132",
+  "name": "Android Insubordination",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your MP has \"Android\" in the title, as an action you may banish this card from your discard pile to raise your anger 1 level.)\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +3 stages.\nHIT: Destroy a non-Styled Setup or non-Styled Drill.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 93.0,
+  "header_text": "ANDROID INSUBORDINATION @@) R132,\n_ '—",
+  "stages_text": ",\n37\n\n,\n\n,",
+  "error": null
+ }
+}

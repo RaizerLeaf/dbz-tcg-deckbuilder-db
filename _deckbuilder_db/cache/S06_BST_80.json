@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_80",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "80_Android 15 - Relaxed.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/80_Android 15 - Relaxed.jpg",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Android 15 - Relaxed",
+  "file_name": "Android 15",
+  "file_subtitle": "Relaxed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a9bf8a7c6148088e75f5d338dcb1e4a0df9f625f"
+ },
+ "vision": {
+  "id": "S06_BST_80",
+  "name": "Android 15",
+  "sub": "Relaxed",
+  "type": "Ally",
+  "num": "U80",
+  "lvl": 1,
+  "stages": [
+   125000,
+   110000,
+   95000,
+   80000,
+   65000,
+   50000,
+   35000,
+   20000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: At the end of your Planning Step, you may search your Life Deck for a card with \"Android\" in the title and destroy it. If you do, banish a Drill or an attached card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S06.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "1 aoe 15\nie RELAXED €) U80",
+  "stages_text": "125,000\n110,000\n95,000\n80,000\n65,000\n750,000\n35,000\n20,000\n5,000\n2,500\n\n0",
+  "error": null
+ }
+}

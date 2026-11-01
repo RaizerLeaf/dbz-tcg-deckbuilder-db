@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR30",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR30_Red Ascension Mastery.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR30_Red Ascension Mastery.png",
+  "prefix": "DR",
+  "number": 30,
+  "card_number": "DR30",
+  "name_part": "Red Ascension Mastery",
+  "file_name": "Red Ascension Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fd8bcc0da29d1fafb49d9ed3a12ef170ca285eb1"
+ },
+ "vision": {
+  "id": "S07_DR_DR30",
+  "name": "Red Ascension Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you use a critical damage effect, gain 2 stages. At the end of each combat, you may raise your anger 1 level.\nPOWER: Banish the top card of your Life Deck to raise your anger 1 level. If you banished a Styled card, your opponent skips his or her next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; name from filename and S14 P24",
+  "_src": "S07.jsonl:176"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "(( Y q",
+  "stages_text": "7\n0\n1,\n,",
+  "error": null
+ }
+}

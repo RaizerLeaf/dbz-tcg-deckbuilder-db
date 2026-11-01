@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_56",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "56_Super Dragon Ball 3.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/56_Super Dragon Ball 3.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Super Dragon Ball 3",
+  "file_name": "Super Dragon Ball 3",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2260cd2b8c98b33d5ead268424d69ae87a17fd66"
+ },
+ "vision": {
+  "id": "S16_BST_56",
+  "name": "Super Dragon Ball 3",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Draw a card. Banish 3 cards from your opponent's discard pile. Gain 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "SUPER DRAGON BALL 3 U56\nSUPER DRAGON BALL =P UEE",
+  "stages_text": "",
+  "error": null
+ }
+}

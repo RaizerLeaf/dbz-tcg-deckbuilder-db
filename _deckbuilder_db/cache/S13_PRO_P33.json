@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P33",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P33_Red Restraint.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P33_Red Restraint.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Red Restraint",
+  "file_name": "Red Restraint",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2701b91c380f99b456de367ce36db286e2cba4b8"
+ },
+ "vision": {
+  "id": "S13_PRO_P33",
+  "name": "Red Restraint",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, raise your anger 1 level, gain 3 stages and your next attack this combat deals +2 life cards of damage.)\n[Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.9,
+  "header_text": "RED RESTRAINT () P33\na Ba WO",
+  "stages_text": "37\n1,\n,",
+  "error": null
+ }
+}

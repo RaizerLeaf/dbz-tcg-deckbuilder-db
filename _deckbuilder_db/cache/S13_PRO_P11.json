@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P11",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P11_Gotenks - Super Saiyan.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P11_Gotenks - Super Saiyan.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Gotenks - Super Saiyan",
+  "file_name": "Gotenks",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "392f5b775b31cd0d950c62033f6312c0183fe229"
+ },
+ "vision": {
+  "id": "S13_PRO_P11",
+  "name": "Gotenks",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 3,
+  "stages": [
+   2200000,
+   1600000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   150000,
+   90000,
+   60000,
+   30000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled and gain \"HIT: Destroy the top card of your opponent's Life Deck.\"\nPOWER: [Attack] Energy attack costing 2 stages.\nIf stopped, search your Life Deck for a Named card and place it into your hand.\nDAMAGE: 6 life cards.\nHIT: Destroy the top card of each player's Life Deck. Banish the top 5 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats and text compared against S13_BST_55 on the sheet, identical; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.3,
+  "header_text": "SS .\nGOTENKS yy mu )\nSUPER SAIYAN Z\n3 aay 7 IZ Zh N\nMGS, NN ANN",
+  "stages_text": "2,200,000\n1,600,000\n1,200,000\n900,000\n600,000\n7 300,000\n150,000\n90,000\n60,000\n30,000\n0\n\n53",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P18",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P18_Namekian Hurried Quest.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P18_Namekian Hurried Quest.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Namekian Hurried Quest",
+  "file_name": "Namekian Hurried Quest",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2e442bdd087b46c744d82907be3a9392119af74f"
+ },
+ "vision": {
+  "id": "S12_PRO_P18",
+  "name": "Namekian Hurried Quest",
+  "sub": null,
+  "type": "Event",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Return a Dragon Ball in play to its owner's hand. If you do, use the immediate effect of a Dragon Ball you control then return it to its owner's hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.6,
+  "header_text": "NAMEKIAN HURRIED QUEST C) P18",
+  "stages_text": "",
+  "error": null
+ }
+}

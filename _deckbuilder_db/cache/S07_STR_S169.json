@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S169",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S169_Red Vault.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S169_Red Vault.png",
+  "prefix": "S",
+  "number": 169,
+  "card_number": "S169",
+  "name_part": "Red Vault",
+  "file_name": "Red Vault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "94e287215ad2a066083a5592be9923f2d72672fc"
+ },
+ "vision": {
+  "id": "S07_STR_S169",
+  "name": "Red Vault",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S169",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nLower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_46; text compared on the sheet",
+  "_src": "S07.jsonl:352"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 77.4,
+  "header_text": "RED VAULT @® sis:\n\"| |) LGM)",
+  "stages_text": "43\n7\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_75",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "75_Mercenary Tao - Shielded.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/75_Mercenary Tao - Shielded.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Mercenary Tao - Shielded",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Shielded",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5eecd0ff3f8812c0d76007dec77cc4b80cf33883"
+ },
+ "vision": {
+  "id": "S07_BST_75",
+  "name": "Mercenary Tao",
+  "sub": "Shielded",
+  "type": "Main Personality",
+  "num": "U75",
+  "lvl": 4,
+  "stages": [
+   487,
+   467,
+   447,
+   427,
+   407,
+   387,
+   367,
+   347,
+   327,
+   307,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform an attack, banish the top card of your opponent's Life Deck.\nPOWER: Look at your opponent's hand and choose non-Dragon Ball card in it. Banish that card.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN; 'choose non-Dragon Ball card' (no 'a') as printed",
+  "_src": "S07.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "Ai) MERCENARY TAO U75\nLEVEL | SHIELDED",
+  "stages_text": "487\n\n467\n447\n\n427\n\n407\n387\n367\n347\n\n327\n\n307\n0",
+  "error": null
+ }
+}

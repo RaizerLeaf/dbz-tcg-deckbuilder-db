@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_82",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "82_Namekian Hurried Quest.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/82_Namekian Hurried Quest.jpg",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Namekian Hurried Quest",
+  "file_name": "Namekian Hurried Quest",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3356066b1c2748c5092a2374930e98b07299a8c3"
+ },
+ "vision": {
+  "id": "S02_BST_82",
+  "name": "Namekian Hurried Quest",
+  "sub": null,
+  "type": "Event",
+  "num": "U82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Return a Dragon Ball in play to its owner's hand. If you do, use the immediate effects of a Dragon Ball you control and then return it to its owner's hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "NAMEKIAN HURRIED. QUEST () Use\n, | iii",
+  "stages_text": "2 ,",
+  "error": null
+ }
+}

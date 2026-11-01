@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_53",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "53_Android 16 - Focused.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/53_Android 16 - Focused.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Android 16 - Focused",
+  "file_name": "Android 16",
+  "file_subtitle": "Focused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cfb9488581adb466e9bf3b3583747fbc28937651"
+ },
+ "vision": {
+  "id": "S08_BST_53",
+  "name": "Android 16",
+  "sub": "Focused",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 1,
+  "stages": [
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "(Your Life Deck may include non-Personality cards that are \"Heroes only.\")\nPOWER: [Attack] Physical attack.\nRaise or lower a player's anger 2 levels. You may Rejuvenate a card that is Alignment-restricted from your discard pile.\nDAMAGE: 2 life cards.\nHIT: If you have changed levels this combat, search your discard pile for a card that is Alignment-restricted and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; same as PZP P121A",
+  "_src": "S08.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 0.879,
+  "lower_conf": 72.8,
+  "header_text": "| ANDROID 16\nLEVEL FOCUSED () S93\ni Fo",
+  "stages_text": "250,000\n200,000\n150,000\n100,000\n\n50,000\n\n25,000\n\n10,000\n\n5,000\n\n1,000\n\n500\n0",
+  "error": null
+ }
+}

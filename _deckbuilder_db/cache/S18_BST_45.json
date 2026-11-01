@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_45",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "45_Zamasu - God in Training.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/45_Zamasu - God in Training.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Zamasu - God in Training",
+  "file_name": "Zamasu",
+  "file_subtitle": "God in Training",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cbdea03b8ff1eabdcfdc560a718c2cca79103220"
+ },
+ "vision": {
+  "id": "S18_BST_45",
+  "name": "Zamasu",
+  "sub": "God in Training",
+  "type": "Main Personality",
+  "num": "S45",
+  "lvl": 1,
+  "stages": [
+   4750000,
+   3000000,
+   1440000,
+   990000,
+   440000,
+   220000,
+   88000,
+   33000,
+   6000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: After taking damage from an attack, Rejuvenate 1.\n[Defense] POWER: Use only on the first attack your opponent performs in combat. This attack deals no damage.\nRaise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold); text zoomed",
+  "_src": "S18.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.0,
+  "header_text": "1 | ZAMASU",
+  "stages_text": "4,750,000\n3,000,000\n1,440,000\n990,000\n440,000\n220,000\n88,000\n33,000\n6,000\n\n2,000\n0",
+  "error": null
+ }
+}

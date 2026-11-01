@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_34",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "34_Saiyan Flick.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/34_Saiyan Flick.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Saiyan Flick",
+  "file_name": "Saiyan Flick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b71606bc626f9b8ef08b764a9f31dc01213cda14"
+ },
+ "vision": {
+  "id": "S19_BST_34",
+  "name": "Saiyan Flick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf your MP is level 2 or higher, Focused and this attack deals +4 life cards.\nDAMAGE: AT + 4 stages.\nHIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S19.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "SAIYAN FLICK C) U34\n[_ ~¢@® «w ae id",
+  "stages_text": "4\n72,\n3",
+  "error": null
+ }
+}

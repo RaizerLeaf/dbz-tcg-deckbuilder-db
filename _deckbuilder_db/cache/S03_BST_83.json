@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_83",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "83_Blue Double Blast.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/83_Blue Double Blast.jpg",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Blue Double Blast",
+  "file_name": "Blue Double Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "787a4d986e2e65987529714b4149de1b0171c0f0"
+ },
+ "vision": {
+  "id": "S03_BST_83",
+  "name": "Blue Double Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. Lower your opponent's anger 2 levels. If your current anger level is higher than the MP level of your opponent, damage from this attack cannot be prevented.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "(BLUE DOUBLE BLAST.. (2\n.” &",
+  "stages_text": "3",
+  "error": null
+ }
+}

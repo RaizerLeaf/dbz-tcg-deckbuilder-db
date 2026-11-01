@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_108",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "108_Blue Elbow.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/108_Blue Elbow.png",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Blue Elbow",
+  "file_name": "Blue Elbow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1731dc0dba964bc552d0de6181d3382d377f9e58"
+ },
+ "vision": {
+  "id": "S07_BST_108",
+  "name": "Blue Elbow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, you may place it on top of your Life Deck.)\n[Attack] Physical attack.\nThe next time you prevent damage this combat, draw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 82.1,
+  "header_text": "BLUE ELBOW () R108",
+  "stages_text": "37\n,",
+  "error": null
+ }
+}

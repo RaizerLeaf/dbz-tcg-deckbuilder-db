@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S44",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S44_Black Enraged Assault.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S44_Black Enraged Assault.png",
+  "prefix": "S",
+  "number": 44,
+  "card_number": "S44",
+  "name_part": "Black Enraged Assault",
+  "file_name": "Black Enraged Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4e0f2dcecdfb28c54d672d33dd078e2cfc431b83"
+ },
+ "vision": {
+  "id": "S04_STR_S44",
+  "name": "Black Enraged Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nDAMAGE: 3 stages +3 life cards.\nHIT: Choose a card in your opponent's Banished Zone. Search your opponent's Life Deck for all copies of that card and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 R103",
+  "_src": "S04.jsonl:197"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 84.3,
+  "header_text": "BLACK ENRAGED ASSAULT () $44",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

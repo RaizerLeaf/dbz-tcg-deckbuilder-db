@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_62",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "62_Android 13 - Amused.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/62_Android 13 - Amused.jpg",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Android 13 - Amused",
+  "file_name": "Android 13",
+  "file_subtitle": "Amused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dc2eb4c86600ed604c4559650e2952e027abca43"
+ },
+ "vision": {
+  "id": "S06_BST_62",
+  "name": "Android 13",
+  "sub": "Amused",
+  "type": "Main Personality",
+  "num": "U62",
+  "lvl": 2,
+  "stages": [
+   900000,
+   750000,
+   600000,
+   450000,
+   300000,
+   150000,
+   120000,
+   90000,
+   60000,
+   30000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect.)\n[Instant] POWER: Use when entering combat. Banish Android 14 and Android 15 if they are under your control and/or in your discard pile to advance your MP 1 level.\nPOWER: [Attack] Physical attack.\nYour opponent skips his next action this combat.\nDAMAGE: 3 stages.\nHIT: Search your Banished Zone for a card with \"Android\" in the title and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 79.0,
+  "header_text": "— ANDROID 13\nLEVEL AMUSED",
+  "stages_text": "900,000\n750,000\n600,000\n\n450,000\n\n300,000\n\n150,000\n\n120,000\n\n90,000\n\n60,000\n\n30,000\n\n0",
+  "error": null
+ }
+}

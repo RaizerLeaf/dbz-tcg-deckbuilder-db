@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_04",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "04_Black Combined Blast.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/04_Black Combined Blast.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Combined Blast",
+  "file_name": "Black Combined Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "21c39e58f89a2aa12020d1f77f7c47a5f05371ba"
+ },
+ "vision": {
+  "id": "S18_BST_04",
+  "name": "Black Combined Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nPlace a Styled card from your discard pile on top of your Life Deck. [Warning]: Rejuvenate 3.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S18.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 90.0,
+  "header_text": "BLACK COMBINED BLAST ¢ ) U4\n————— oO",
+  "stages_text": "",
+  "error": null
+ }
+}

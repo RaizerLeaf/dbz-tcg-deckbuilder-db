@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_11",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "11_Blue Rebuke.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/11_Blue Rebuke.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Blue Rebuke",
+  "file_name": "Blue Rebuke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fa1ae977cf1b974f607d64dd02088f8aa3a366bf"
+ },
+ "vision": {
+  "id": "S07_BST_11",
+  "name": "Blue Rebuke",
+  "sub": null,
+  "type": "Setup",
+  "num": "C11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Blue Rebuke\" attached.)\nPOWER: Attach to your MP. While attached when your opponent changes levels, you may banish this card to search your Life Deck for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "BLUE REBUKE © C11 |",
+  "stages_text": null,
+  "error": null
+ }
+}

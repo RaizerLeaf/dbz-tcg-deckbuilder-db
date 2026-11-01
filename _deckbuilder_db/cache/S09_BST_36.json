@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_36",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "36_Chilled's Enraged Volley.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/36_Chilled's Enraged Volley.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Chilled's Enraged Volley",
+  "file_name": "Chilled's Enraged Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "99d9211380e0360b08890a76035c15b9fc88349b"
+ },
+ "vision": {
+  "id": "S09_BST_36",
+  "name": "Chilled's Enraged Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. Whenever your opponent's MP changes levels this combat, set their power level to 0. Whenever you use a critical damage effect this combat, choose a personality in play. That personality loses 1 stage.\nDAMAGE: 5 stages.\nHIT: This attack stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 87.6,
+  "header_text": "CHILLED'S ENRAGED VOLLEY @ ) R36 |\n~~ we > ;",
+  "stages_text": "5\n\n,\n\n,\n6,\n,,\n2,\n1,",
+  "error": null
+ }
+}

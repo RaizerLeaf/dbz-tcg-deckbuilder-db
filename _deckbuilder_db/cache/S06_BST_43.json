@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_43",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "43_Red Body Block.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/43_Red Body Block.jpg",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Red Body Block",
+  "file_name": "Red Body Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d99c47c330e71f53119c2dffc461369886137456"
+ },
+ "vision": {
+  "id": "S06_BST_43",
+  "name": "Red Body Block",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nThe next non-Styled attack you perform this combat cannot have its damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 70.7,
+  "header_text": "RED BODY BLOCK C) C43",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P27",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P27_Sinister Choke.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P27_Sinister Choke.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Sinister Choke",
+  "file_name": "Sinister Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "70c7e75a4e5cda69116d7a5e60dc5fcb7fef38ac"
+ },
+ "vision": {
+  "id": "S11_PRO_P27",
+  "name": "Sinister Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDamage from this attack cannot be prevented. This attack cannot be stopped and its damage is banished if your opponent controls a total of 7 or more of the following card types: personalities, Drills, Setups, and Dragon Balls.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "SINISTER CHOKE () P?/\nwana, A,",
+  "stages_text": ",\n8\n,\n07\n,",
+  "error": null
+ }
+}

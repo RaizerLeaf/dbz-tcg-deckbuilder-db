@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_84",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "84_Black Construction Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/84_Black Construction Drill.png",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Black Construction Drill",
+  "file_name": "Black Construction Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "4ca6738c662662609177d3fba6afd3187b161001"
+ },
+ "vision": {
+  "id": "S07_BST_84",
+  "name": "Black Construction Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(When this card enters play during the Planning Step, each player places their hand on top of their Life Deck.)\n[Continuous]: At the start of your turn, banish the top 3 cards of each player's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 82.1,
+  "header_text": "BLACK CONSTRUCTION DRILL () U84",
+  "stages_text": null,
+  "error": null
+ }
+}

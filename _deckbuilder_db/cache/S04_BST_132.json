@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_132",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "132_Elimination.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/132_Elimination.png",
+  "prefix": null,
+  "number": 132,
+  "card_number": "132",
+  "name_part": "Elimination",
+  "file_name": "Elimination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "5315616c85442cb477bcc02c8f09d375d51eb506"
+ },
+ "vision": {
+  "id": "S04_BST_132",
+  "name": "Elimination",
+  "sub": null,
+  "type": "Setup",
+  "num": "R132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. [Defense] cards that stop attacks lose all immediate effects this combat. Choose 2 Styled attacks from your discard pile and shuffle them into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame; the inline shield icon is used as a noun ('[Defense] cards')",
+  "_src": "S04.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.0,
+  "header_text": "= % rs i> SSA A 4 y\n— a2 26 4 SKE h& =e",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S97",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S97_Namekian Reinforced Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S97_Namekian Reinforced Block.png",
+  "prefix": "S",
+  "number": 97,
+  "card_number": "S97",
+  "name_part": "Namekian Reinforced Block",
+  "file_name": "Namekian Reinforced Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8c3e2ac3753842196349c2228978bdf04d8cdf3e"
+ },
+ "vision": {
+  "id": "S04_STR_S97",
+  "name": "Namekian Reinforced Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nYour Dragon Balls cannot be captured this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C29",
+  "_src": "S04.jsonl:250"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 70.3,
+  "header_text": "NAMEKIAN REINFORCED BLOCK () $97",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

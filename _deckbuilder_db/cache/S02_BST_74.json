@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_74",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "74_Black Foreshadowing.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/74_Black Foreshadowing.jpg",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Black Foreshadowing",
+  "file_name": "Black Foreshadowing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3f35e1f2a6393f94257cf97ae5ca98677f0dee21"
+ },
+ "vision": {
+  "id": "S02_BST_74",
+  "name": "Black Foreshadowing",
+  "sub": null,
+  "type": "Event",
+  "num": "U74",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 3. POWER: Destroy the top X cards of your opponent's Life Deck and gain X stages. X = the number of different card types in your opponent's Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "BLACK FORESHADOWING () U74\n. i d t |",
+  "stages_text": "8",
+  "error": null
+ }
+}

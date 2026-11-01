@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_129",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "129_Saiyan Trample.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/129_Saiyan Trample.jpg",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Saiyan Trample",
+  "file_name": "Saiyan Trample",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9cbbedec145cb296bb2a68c93fd7e80774bb5faf"
+ },
+ "vision": {
+  "id": "S06_BST_129",
+  "name": "Saiyan Trample",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAfter the next time your opponent's MP advances a level this combat, set his power level to 0.\nDAMAGE: AT +AT stages.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "SAIYAN TRAMPLE @® ri29\n—_— ..  . ——-",
+  "stages_text": "3\n5\n347",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_04",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "04_Black Cut-Off.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/04_Black Cut-Off.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Cut-Off",
+  "file_name": "Black Cut-Off",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e6f41f002fd5efa1c551f97cfe8302d19cd44821"
+ },
+ "vision": {
+  "id": "S10_BST_04",
+  "name": "Black Cut-Off",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your MP has [Trait:Majin], this card is considered to have \"Sword\" in the title for your card effects.)\n[Attack] Physical attack costing 1 stage.\nThe next time your opponent draws a card this combat, draw a card.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline Trait icon = pink 'M' = Majin (not in the six Trait reference cards: the Majin list is separate)",
+  "_src": "S10.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 93.3,
+  "header_text": "BLACK CUT-OFF () R4\nEE) WT ED =.",
+  "stages_text": "8\n\n,\n\n2\n2 27\n\n37\n\n,",
+  "error": null
+ }
+}

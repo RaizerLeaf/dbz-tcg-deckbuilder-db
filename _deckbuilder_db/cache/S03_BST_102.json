@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_102",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "102_Black Combo.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/102_Black Combo.jpg",
+  "prefix": null,
+  "number": 102,
+  "card_number": "102",
+  "name_part": "Black Combo",
+  "file_name": "Black Combo",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ec5ce299ffe33e42764bedaf26c935cb8d6ecbf0"
+ },
+ "vision": {
+  "id": "S03_BST_102",
+  "name": "Black Combo",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +1 stage. Raise your anger 2 levels. HIT: You may choose a card attached to an MP and attach to a different MP.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "BLACK COMBO veces () 102",
+  "stages_text": "",
+  "error": null
+ }
+}

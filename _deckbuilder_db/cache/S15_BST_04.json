@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_04",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "04_Black Shattering Strike.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/04_Black Shattering Strike.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Shattering Strike",
+  "file_name": "Black Shattering Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0deb8479ccf226e76ce1ebdd2e5455f51517848e"
+ },
+ "vision": {
+  "id": "S15_BST_04",
+  "name": "Black Shattering Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is revealed from your hand by a Mastery effect, raise your anger 1.)\n[Attack] Physical attack.\nRaise your anger 1.\n[Trait:Namekian]: Shuffle into your Life Deck after use.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: orange N badge (Namekian)",
+  "_src": "S15.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.892,
+  "lower_conf": 89.3,
+  "header_text": "BLACK SHATTERING STRIKE () U4\nee",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_04",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "04_Black Jeer.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/04_Black Jeer.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Jeer",
+  "file_name": "Black Jeer",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "02bfe252d1937871e9d7f1859fb1c36931a448e7"
+ },
+ "vision": {
+  "id": "S13_BST_04",
+  "name": "Black Jeer",
+  "sub": null,
+  "type": "Event",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is destroyed from your Life Deck by one of your effects, gain 3 stages.)\nPOWER: Banish the bottom 5 cards of your opponent's discard pile. If you banished less than 5 cards, destroy the difference from the top of your opponent's Life Deck. If a Dragon Ball is destroyed by this effect, you may place it into play under your control instead of your opponent placing it on the bottom of their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 90.9,
+  "header_text": "BLACK JEER () C4",
+  "stages_text": "2",
+  "error": null
+ }
+}

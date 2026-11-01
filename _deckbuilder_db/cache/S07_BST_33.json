@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_33",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "33_Orange Spying Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/33_Orange Spying Drill.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Orange Spying Drill",
+  "file_name": "Orange Spying Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2a93a8cc75fe933141ab9e3b196b29b940689744"
+ },
+ "vision": {
+  "id": "S07_BST_33",
+  "name": "Orange Spying Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(When this Drill enters play, look at your opponent's hand.)\nPOWER: Return this Drill to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 85.5,
+  "header_text": "ORANGE SPYING DRILL a 03 |",
+  "stages_text": null,
+  "error": null
+ }
+}

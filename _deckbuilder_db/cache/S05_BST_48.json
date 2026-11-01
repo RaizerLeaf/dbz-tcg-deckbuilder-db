@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_48",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "48_Red Inferno.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/48_Red Inferno.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Red Inferno",
+  "file_name": "Red Inferno",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ef36daeb90b5fc900af5f557d3b7dbce562af096"
+ },
+ "vision": {
+  "id": "S05_BST_48",
+  "name": "Red Inferno",
+  "sub": null,
+  "type": "Event",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Red Inferno\" attached.)\nPOWER: Draw a card. Attach to your MP. While attached, whenever one of your card effects banishes or reveals a card from your hand you may use a critical damage effect. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "RED INFERNO C) C48",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

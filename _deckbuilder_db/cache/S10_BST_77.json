@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_77",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "77_Kid Trunks - Super Saiyan.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/77_Kid Trunks - Super Saiyan.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Kid Trunks - Super Saiyan",
+  "file_name": "Kid Trunks",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6a6b27331e856afd67a510e0f440309276c71274"
+ },
+ "vision": {
+  "id": "S10_BST_77",
+  "name": "Kid Trunks",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "S77",
+  "lvl": 4,
+  "stages": [
+   1200000,
+   1100000,
+   1000000,
+   500000,
+   250000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(When you reach this level during combat, your opponent skips their next action this combat.)\n[Instant] POWER: Use when a player skips an action. Destroy a Setup, Drill, or Ally.\nPOWER: [Attack] Energy attack costing 2 stages.\nAttacks you perfom this combat have their power stage cost reduced to 0.\nDAMAGE: 5 life cards.\nHIT: Draw the bottom card of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; 'perfom' as printed",
+  "_src": "S10.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.852,
+  "lower_conf": 80.7,
+  "header_text": "KID TRUNKS",
+  "stages_text": "1,200,000\n1,100,000\n1,000,000\n500,000\n250,000\n75,000\n50,000\n25,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

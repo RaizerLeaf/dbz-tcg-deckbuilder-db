@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_81",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "81_Ox King - Naming Genius.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/81_Ox King - Naming Genius.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Ox King - Naming Genius",
+  "file_name": "Ox King",
+  "file_subtitle": "Naming Genius",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "02ce6b79b3de3129f42b96f31c55689d09c61240"
+ },
+ "vision": {
+  "id": "S07_BST_81",
+  "name": "Ox King",
+  "sub": "Naming Genius",
+  "type": "Ally",
+  "num": "U81",
+  "lvl": 1,
+  "stages": [
+   12,
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Chi-Chi, Goku, Gohan, Goten, Pan, or Videl, Rejuvenate 3 when this card enters play.)\n[Continuous]: Damage from attacks can only be modified by the effects of Physical Combat or Energy Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; '(FROZEN)' stamped below the card (owner annotation) but the filename has no (Frozen) flag",
+  "_src": "S07.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 77.0,
+  "header_text": "1 | ox KING 81\nLEVEL | NAMING GENIUS",
+  "stages_text": "12\n\n1\n10\n\n9\n8\n7\n\n6\n5\n4\n\n3\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_97",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "97_Red Pummel.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/97_Red Pummel.png",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Red Pummel",
+  "file_name": "Red Pummel",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f900a935579d8754e7f03b1f22264185db82f5b6"
+ },
+ "vision": {
+  "id": "S07_BST_97",
+  "name": "Red Pummel",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour anger cannot be raised or lowered this turn.\nDAMAGE: 3 life cards.\nHIT: At the end of combat, you may set your anger to 0. If you do, search your Life Deck or discard pile for a Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "RED PUMMEL () U97\nLiMa@ 4m",
+  "stages_text": "3\n37",
+  "error": null
+ }
+}

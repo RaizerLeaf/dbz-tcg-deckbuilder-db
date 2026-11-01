@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P17",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P17_Black Capture.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P17_Black Capture.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Black Capture",
+  "file_name": "Black Capture",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c8ce7f09c342032b2a3b017e7f19432bbcb5e7f5"
+ },
+ "vision": {
+  "id": "S10_PRO_P17",
+  "name": "Black Capture",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nDAMAGE: 5 life cards.\nHIT: Attach to your opponent's MP. While attached, at the beginning of each turn, your opponent banishes the top card of their Life Deck. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": "FanZ reprint of S01 S52 (attach clause moved into HIT)",
+  "_src": "S10.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "BLACK CAPTURE () P17",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

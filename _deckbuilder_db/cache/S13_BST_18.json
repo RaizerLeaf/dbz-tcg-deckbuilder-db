@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_18",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "18_Namekian Head Lock.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/18_Namekian Head Lock.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Namekian Head Lock",
+  "file_name": "Namekian Head Lock",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d09376dd35e1abd9124bf6b09a3cee88696ba674"
+ },
+ "vision": {
+  "id": "S13_BST_18",
+  "name": "Namekian Head Lock",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nIf your MP has 2 or less Traits, search your discard pile for a Styled card and Rejuvenate it.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 86.7,
+  "header_text": "NAMEKIAN HEAD LOCK C) U18\n> — rae 4",
+  "stages_text": "37",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_62",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "62_Black Empowered Elbow.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/62_Black Empowered Elbow.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Black Empowered Elbow",
+  "file_name": "Black Empowered Elbow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cc029433d8815239336793091fd33f1764a063ad"
+ },
+ "vision": {
+  "id": "S04_BST_62",
+  "name": "Black Empowered Elbow",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYour opponent chooses one of his Drills and destroys it.\nDAMAGE: 3 life cards.\nHIT: Your opponent chooses one of his Drills and destroys it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 75.9,
+  "header_text": "BLACK EMPOWERED ELBOW ) 62\n1 3 TR SN 2 eS ee eel\nSS Ms ——_ ££ «éi*|",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

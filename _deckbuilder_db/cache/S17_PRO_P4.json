@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P4",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P4_Gohan - Martyr.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P4_Gohan - Martyr.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Gohan - Martyr",
+  "file_name": "Gohan",
+  "file_subtitle": "Martyr",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "922eca6cb8520c0e2e60b803fe7fff7ba0f1551f"
+ },
+ "vision": {
+  "id": "S17_PRO_P4",
+  "name": "Gohan",
+  "sub": "Martyr",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1500000,
+   1400000,
+   1300000,
+   1100000,
+   700000,
+   400000,
+   200000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards. Your opponent cannot use the effects of personality cards. Lower your MP 1 level at the end of combat.\nPOWER: Your opponent discards a card from their hand. Banish the bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; edge reads HERO -> MP; Trait badges N, E, S; text zoomed",
+  "_src": "S17.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "GOHAN",
+  "stages_text": "3 1,850,000\n1,500,000\n1,400,000\n1,300,000\n\n1,100,000\n\n700,000\n\n400,000\n\n200,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

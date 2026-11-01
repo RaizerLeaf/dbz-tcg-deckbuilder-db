@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S175",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S175_Saiyan Swat.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S175_Saiyan Swat.png",
+  "prefix": "S",
+  "number": 175,
+  "card_number": "S175",
+  "name_part": "Saiyan Swat",
+  "file_name": "Saiyan Swat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "762293acc73f8d5c8dc6a04bd8a1c231003d24bc"
+ },
+ "vision": {
+  "id": "S04_STR_S175",
+  "name": "Saiyan Swat",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S175",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nSearch your discard pile for a card with Endurance and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C59",
+  "_src": "S04.jsonl:328"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "“SAIYAN SWAT | () $175\na AD",
+  "stages_text": ", 2\n,\n,",
+  "error": null
+ }
+}

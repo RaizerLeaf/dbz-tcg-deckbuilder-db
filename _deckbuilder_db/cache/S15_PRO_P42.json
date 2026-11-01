@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P42",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P42_Blinding Energy Move.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P42_Blinding Energy Move.png",
+  "prefix": "P",
+  "number": 42,
+  "card_number": "P42",
+  "name_part": "Blinding Energy Move",
+  "file_name": "Blinding Energy Move",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0fc62117612ac2f5a3f1274f4e28ab7051b86c9c"
+ },
+ "vision": {
+  "id": "S15_PRO_P42",
+  "name": "Blinding Energy Move",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You must banish the top 2 cards of your Life Deck to play this card.)\n[Attack] Energy attack.\nAt the beginning of the next action this combat, end combat.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S15.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "BLINDING ENERGY MOVE () P42\nhe a a Tee",
+  "stages_text": ",\n7\n,\n,",
+  "error": null
+ }
+}

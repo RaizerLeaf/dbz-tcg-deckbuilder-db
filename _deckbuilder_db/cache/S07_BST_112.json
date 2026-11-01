@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_112",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "112_Namekian Fierce Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/112_Namekian Fierce Punch.png",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Namekian Fierce Punch",
+  "file_name": "Namekian Fierce Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bb9d78c163af6471d246bd73135b0ea3452d20bb"
+ },
+ "vision": {
+  "id": "S07_BST_112",
+  "name": "Namekian Fierce Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nCapture an Earth Dragon Ball.\nDamage: AT life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "'Damage:' mixed case as printed",
+  "_src": "S07.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "NAMEKIAN FIERCE PUNCH ) R112\n. CAD) hhh",
+  "stages_text": ",",
+  "error": null
+ }
+}

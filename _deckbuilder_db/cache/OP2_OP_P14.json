@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP2_OP_P14",
+  "set_number": null,
+  "set_name": "OP2",
+  "set_code": "OP2",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP2",
+  "filename": "P14_Red Android Twin Beams.png",
+  "rel_path": "z_OP Series/OP2/P14_Red Android Twin Beams.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Red Android Twin Beams",
+  "file_name": "Red Android Twin Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a15ad468d6f6c7a48ceb8fe76cef1c69cdbddcd1"
+ },
+ "vision": {
+  "id": "OP2_OP_P14",
+  "name": "Red Android Twin Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Limit 2 per deck. If your MP does not have [Trait:Saiyan], when one of your effects requires you to lower your anger, you may banish this card from your discard pile to reduce that amount to 0.)\n[Attack] Energy attack costing 2 stages.\nLower a player's anger 2 levels.\nDAMAGE: 5 life cards.\n(Created by Kevin Dennis, OP2 North Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP2); prints a design credit line; inline icon zoomed: green S badge (Saiyan)",
+  "_src": "OP.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 90.1,
+  "header_text": "RED ANDROID TWIN BEAMS () P14\n%",
+  "stages_text": "2\n4 7\n2\n0",
+  "error": null
+ }
+}

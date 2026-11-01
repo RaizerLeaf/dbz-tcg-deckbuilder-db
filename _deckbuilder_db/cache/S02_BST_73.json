@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_73",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "73_Black Viewing Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/73_Black Viewing Drill.jpg",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Black Viewing Drill",
+  "file_name": "Black Viewing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8bccd5e25e59be1057e7fd6cf838ef47cb134e0f"
+ },
+ "vision": {
+  "id": "S02_BST_73",
+  "name": "Black Viewing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: After your opponent discards a card from their hand by a card effect during combat, destroy the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "mixes 'their' and 'his' as printed",
+  "_src": "S02.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.9,
+  "header_text": "(BLACK VIEWING DRILL (7\n|“.",
+  "stages_text": "5",
+  "error": null
+ }
+}

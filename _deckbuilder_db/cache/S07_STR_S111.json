@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S111",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S111_Saiyan Multi-Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S111_Saiyan Multi-Blast.png",
+  "prefix": "S",
+  "number": 111,
+  "card_number": "S111",
+  "name_part": "Saiyan Multi-Blast",
+  "file_name": "Saiyan Multi-Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fce29edb2dd3bf34dc23f777f56cf456ec1e569"
+ },
+ "vision": {
+  "id": "S07_STR_S111",
+  "name": "Saiyan Multi-Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_104; text compared on the sheet",
+  "_src": "S07.jsonl:294"
+ },
+ "ocr": {
+  "agreement": 0.812,
+  "lower_conf": 77.7,
+  "header_text": "SAIYAN MULTI-BLAST Csi",
+  "stages_text": "",
+  "error": null
+ }
+}

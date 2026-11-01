@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_125",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "125_Saiyan Backbreaker.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/125_Saiyan Backbreaker.jpg",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Saiyan Backbreaker",
+  "file_name": "Saiyan Backbreaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a3336a8025efd6147972f95d5e6aa67e936d9bf6"
+ },
+ "vision": {
+  "id": "S03_BST_125",
+  "name": "Saiyan Backbreaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Banish after use.) [Attack] Physical attack. DAMAGE: AT +1 stage. You may shuffle an attached card in play into its owner's Life Deck. If you do, this attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "(SAIYAN BACKBREAKER () mi2s",
+  "stages_text": "7",
+  "error": null
+ }
+}

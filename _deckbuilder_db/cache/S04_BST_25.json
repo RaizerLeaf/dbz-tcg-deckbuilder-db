@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_25",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "25_Namekian Intervention.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/25_Namekian Intervention.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Namekian Intervention",
+  "file_name": "Namekian Intervention",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "cda19ea4aca827db35d06cedd4c080b0f3f2c41c"
+ },
+ "vision": {
+  "id": "S04_BST_25",
+  "name": "Namekian Intervention",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(As an action, you may play this card to perform a Styled physical attack dealing AT +2 stages of damage.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "NAMEKIAN INTERVENTION ) 025",
+  "stages_text": ",\n4\n7,\n,\n,",
+  "error": null
+ }
+}

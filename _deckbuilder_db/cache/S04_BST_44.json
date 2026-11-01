@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_44",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "44_Red Robotic Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/44_Red Robotic Blast.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Robotic Blast",
+  "file_name": "Red Robotic Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "add62acd27caff153968001c1ab66d942dd76d45"
+ },
+ "vision": {
+  "id": "S04_BST_44",
+  "name": "Red Robotic Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nSearch your Life Deck or Banished Zone for a Styled attack card and place it on top of your discard pile.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "RED ROBOTIC BLAST @ wu\nOe eS wd",
+  "stages_text": ",\n9\n,",
+  "error": null
+ }
+}

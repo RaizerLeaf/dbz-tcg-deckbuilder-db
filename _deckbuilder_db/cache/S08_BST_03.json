@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_03",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "03_Black Restoration.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/03_Black Restoration.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Restoration",
+  "file_name": "Black Restoration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d068743f28191f2bf8039832205e17059b3a942"
+ },
+ "vision": {
+  "id": "S08_BST_03",
+  "name": "Black Restoration",
+  "sub": null,
+  "type": "Event",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Choose up to 3 Styled cards in your discard pile and shuffle them into your Life Deck. Choose 3 Styled cards in your opponent's discard pile and banish them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "BLACK RESTORATION () C3\nAW ait -_rwiy /‘e FF |",
+  "stages_text": ",\n2\n1\n5",
+  "error": null
+ }
+}

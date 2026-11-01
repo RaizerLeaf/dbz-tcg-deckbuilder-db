@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_24",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "24_Red Sleeper Hold.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/24_Red Sleeper Hold.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Sleeper Hold",
+  "file_name": "Red Sleeper Hold",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e630dcbac11eea008cea025789750a33daccbb0c"
+ },
+ "vision": {
+  "id": "S11_BST_24",
+  "name": "Red Sleeper Hold",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this attack is performed from your discard pile, banish an Ally.)\n[Attack] Physical attack.\nSearch your Life Deck for a Styled [Attack] or [Defense] card and discard it. Raise your anger 1 level.\nDAMAGE: 4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline attack/shield icons used as nouns",
+  "_src": "S11.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 88.9,
+  "header_text": "RED SLEEPER HOLD () C24",
+  "stages_text": "",
+  "error": null
+ }
+}

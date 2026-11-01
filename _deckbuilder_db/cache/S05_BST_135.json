@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_135",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "135_Red Downward Burst.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/135_Red Downward Burst.png",
+  "prefix": null,
+  "number": 135,
+  "card_number": "135",
+  "name_part": "Red Downward Burst",
+  "file_name": "Red Downward Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cbb547c9a858c4d99a92a80bb65be92f6e3da7ac"
+ },
+ "vision": {
+  "id": "S05_BST_135",
+  "name": "Red Downward Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. You may lower your anger 3 levels to search your discard pile or Banished Zone for a card that can attach to an MP and place it into play attached.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "RED DOWNWARD BURST >) R135\na | — 0 a a",
+  "stages_text": ",",
+  "error": null
+ }
+}

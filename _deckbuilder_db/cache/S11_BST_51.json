@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_51",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "51_Babidi - Mastermind.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/51_Babidi - Mastermind.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Babidi - Mastermind",
+  "file_name": "Babidi",
+  "file_subtitle": "Mastermind",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "edc516a77102b67870bb98d1a4b67eb04adc98eb"
+ },
+ "vision": {
+  "id": "S11_BST_51",
+  "name": "Babidi",
+  "sub": "Mastermind",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 1,
+  "stages": [
+   1000,
+   800,
+   600,
+   400,
+   200,
+   100,
+   50,
+   25,
+   10,
+   5,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "POWER: [Attack] Energy attack.\nSearch your Life Deck for a [Trait:Majin] Ally and play it. That Ally can make actions regardless of your MP's power stage this combat.\nDAMAGE: 2 life cards.\nHIT: Raise your anger X levels. X = the number of [Trait:Majin] Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M",
+  "_src": "S11.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 78.5,
+  "header_text": "1 BABIDI\nLEVEL MASTERMIND () $51\nmeme eal ND A]",
+  "stages_text": "1,000\n800\n, 600\n400\n\n200\n100\n50\n25\n\n10\n\n5\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P65",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P65_King Kai's Driving Drill.png",
+  "rel_path": "z_OP Series/OP6/P65_King Kai's Driving Drill.png",
+  "prefix": "P",
+  "number": 65,
+  "card_number": "P65",
+  "name_part": "King Kai's Driving Drill",
+  "file_name": "King Kai's Driving Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bad437ef3bf5d29dd8b987c68f523936316a7b19"
+ },
+ "vision": {
+  "id": "OP6_OP_P65",
+  "name": "King Kai's Driving Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(This card is considered Styled. This Drill is not discarded when you advance a level.)\n[Instant] POWER: Use at the start of your turn. Foresee 3.\n[Instant] POWER: Use after one of your effects discards a card from your hand. Draw a card. If Bubbles and Gregory are in play, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); landscape Drill layout; grey card; possessive title -> Named",
+  "_src": "OP.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 82.2,
+  "header_text": "KING KAI'S DRIVING DRILL © P65",
+  "stages_text": null,
+  "error": null
+ }
+}

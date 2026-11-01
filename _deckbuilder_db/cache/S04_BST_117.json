@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_117",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "117_Red Eye Beams.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/117_Red Eye Beams.png",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Red Eye Beams",
+  "file_name": "Red Eye Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "1a68f2d3b61b72cad65b736eade3a2134a4d20cd"
+ },
+ "vision": {
+  "id": "S04_BST_117",
+  "name": "Red Eye Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nDAMAGE: 2 life cards.\nHIT: Banish the top card of your Life Deck. While that card is banished, you may play it one time this combat as though it were in your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": "RED EYE BEAMS R117\nOe eee",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

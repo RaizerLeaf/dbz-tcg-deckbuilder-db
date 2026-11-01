@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P7",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P7_Blue Positioning Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P7_Blue Positioning Drill.jpg",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Blue Positioning Drill",
+  "file_name": "Blue Positioning Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1500,
+  "height": 2100,
+  "orientation": "portrait",
+  "sha1": "ba069d6c4ce31e00397c51a7d4254d580d6f24f5"
+ },
+ "vision": {
+  "id": "S03_PRO_P7",
+  "name": "Blue Positioning Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you stop an attack, place a Styled card from your discard pile on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S97; text compared on the sheet, identical",
+  "_src": "S03.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "(BLUE POSITIONING::DRILL () P7\nes Oe Uy 7",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

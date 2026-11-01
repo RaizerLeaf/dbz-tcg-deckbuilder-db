@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_136",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "136_Android 13's Impenetrable Defense.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/136_Android 13's Impenetrable Defense.jpg",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Android 13's Impenetrable Defense",
+  "file_name": "Android 13's Impenetrable Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dcac08093d7d7bf8a72b6125062458cdcf2a5305"
+ },
+ "vision": {
+  "id": "S06_BST_136",
+  "name": "Android 13's Impenetrable Defense",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded or destroyed from your Life Deck, you may banish it to raise your anger 2 levels.)\n[Defense] Stops a physical attack.\nYour opponent's MP loses 5 stages. Your next successful attack this combat cannot have its damage prevented and gains \"HIT: End combat at the beginning of the next action this turn.\"",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.8,
+  "header_text": "ANDROID 13'S IMPENETRABLE DEFENSE @ 5 ) R136\nSen's ir it",
+  "stages_text": ",\n347\n,",
+  "error": null
+ }
+}

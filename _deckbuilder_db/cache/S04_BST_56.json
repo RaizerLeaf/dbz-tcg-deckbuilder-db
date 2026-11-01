@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_56",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "56_Saiyan Palm Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/56_Saiyan Palm Block.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Saiyan Palm Block",
+  "file_name": "Saiyan Palm Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "094ff1bb4d15dca1e3ecae76a6e7157e21c2b967"
+ },
+ "vision": {
+  "id": "S04_BST_56",
+  "name": "Saiyan Palm Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf your MP has a lower power level than the attacking personality, your power level is considered to be 1,000,000 this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "SAIYAN PALM BLOCK @ cs",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

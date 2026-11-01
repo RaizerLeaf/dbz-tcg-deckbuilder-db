@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_46",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "46_King Kai - Joyful.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/46_King Kai - Joyful.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "King Kai - Joyful",
+  "file_name": "King Kai",
+  "file_subtitle": "Joyful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5e494d35812a0f036a827337e10853a9d905f37e"
+ },
+ "vision": {
+  "id": "S08_BST_46",
+  "name": "King Kai",
+  "sub": "Joyful",
+  "type": "Main Personality",
+  "num": "S46",
+  "lvl": 2,
+  "stages": [
+   5000,
+   4500,
+   3500,
+   3250,
+   2000,
+   1500,
+   1000,
+   700,
+   600,
+   300,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "(Your Bubbles and Gregory Allies can make actions regardless of your MP's power stage.)\nPOWER: Rejuvenate 2. Raise an Ally to its highest power stage. For the remainder of combat, attacks performed by that Ally deal +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S08.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "= KING KAI\nLEVEL JOYFUL () 546\nWE, hae",
+  "stages_text": "5,000\n4,500\n3,500\n\n3,250\n\n2,000\n1,500\n1,000\n700\n\n600\n\n300\n\n0",
+  "error": null
+ }
+}

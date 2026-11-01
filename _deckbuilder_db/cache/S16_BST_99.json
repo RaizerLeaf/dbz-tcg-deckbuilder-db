@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_99",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "99_Vegeta - Super Saiyan Blue.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/99_Vegeta - Super Saiyan Blue.png",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Vegeta - Super Saiyan Blue",
+  "file_name": "Vegeta",
+  "file_subtitle": "Super Saiyan Blue",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "338bf28aeb3b533c22fa1410772d214d714c53b2"
+ },
+ "vision": {
+  "id": "S16_BST_99",
+  "name": "Vegeta",
+  "sub": "Super Saiyan Blue",
+  "type": "Main Personality",
+  "num": "S99",
+  "lvl": 4,
+  "stages": [
+   170000000,
+   95800000,
+   30400000,
+   7500000,
+   1250000,
+   870000,
+   640000,
+   350000,
+   120000,
+   75000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Saiyan"
+  ],
+  "text": "(When you reach this level, shuffle up to 4 cards with \"anger\" in the text-box from your discard pile into your Life Deck.)\n[Continuous]: Your attacks deal +2 stages. Your opponent's attacks deal -2 stages.\nPOWER: Search your Life Deck for a [Attack] card with \"anger\" in the text-box and place it into your hand. Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G (gold), S (green)",
+  "_src": "S16.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "ZA VEGETA\nLEVEL SUPER SAIYAN BLUE () $99\nee 6 6U6hLELn.lUCmhlCU/lc(iCWaC",
+  "stages_text": "170,000,000\n95,800,000\n30,400,000\n7,500,000\n1,250,000\n870,000\n640,000\n350,000\n120,000\n75,000\n0",
+  "error": null
+ }
+}

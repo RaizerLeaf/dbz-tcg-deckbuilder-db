@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_19",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "19_Orange Cunning Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/19_Orange Cunning Mastery.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Cunning Mastery",
+  "file_name": "Orange Cunning Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fcdbb0f193422e82cc0476b4474e684b68e27f6a"
+ },
+ "vision": {
+  "id": "S19_BST_19",
+  "name": "Orange Cunning Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card. Whenever a Drill you own would be discarded due to your MP changing levels, you may Rejuvenate it instead.\n[Instant] POWER: Use when you would use a critical damage effect during combat. Search your Life Deck for a Styled Drill and place it into play instead.\nPOWER: Rejuvenate a Drill from your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from the filename; number DR19 visible",
+  "_src": "S19.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "eS |",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

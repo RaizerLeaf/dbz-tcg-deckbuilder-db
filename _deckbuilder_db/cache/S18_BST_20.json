@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_20",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "20_Orange Residual Shot.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/20_Orange Residual Shot.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Residual Shot",
+  "file_name": "Orange Residual Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4a1f3ca5470d04de4104506bc7623a2d3fc3dacd"
+ },
+ "vision": {
+  "id": "S18_BST_20",
+  "name": "Orange Residual Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Orange Combative Mastery only.)\n[Attack] 1: Energy attack.\nFocused. The next time one of your effects would prevent damage this turn, prevent all damage instead.\nDAMAGE: 4 life cards.\nHIT: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; stage cost printed as '1:'",
+  "_src": "S18.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 85.9,
+  "header_text": "ORANGE RESIDUAL SHOT C) U20\nge mee",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

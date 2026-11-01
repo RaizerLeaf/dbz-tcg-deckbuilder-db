@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_142",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "142_Hidden Power Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/142_Hidden Power Drill.png",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Hidden Power Drill",
+  "file_name": "Hidden Power Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "07270f71a8ab7bab36781763dbf13673d726e65e"
+ },
+ "vision": {
+  "id": "S04_BST_142",
+  "name": "Hidden Power Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this Drill enters play, set all personalities to 5 stages above 0.)\n[Continuous]: Personalities cannot be more than 5 stages above 0. Whenever an Ally's power level is 0, it is banished.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey frame",
+  "_src": "S04.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.6,
+  "header_text": "WwW! Black",
+  "stages_text": null,
+  "error": null
+ }
+}

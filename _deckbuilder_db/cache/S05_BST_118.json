@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_118",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "118_Black Double Team.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/118_Black Double Team.png",
+  "prefix": null,
+  "number": 118,
+  "card_number": "118",
+  "name_part": "Black Double Team",
+  "file_name": "Black Double Team",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6b6fc8e72ba48c3ef3cb5ef57314cc5c7de3f5c6"
+ },
+ "vision": {
+  "id": "S05_BST_118",
+  "name": "Black Double Team",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is destroyed from your Life Deck by one of your effects, you may place it into your hand.)\n[Attack] Physical attack.\nIf your opponent has no cards in his hand, damage from this attack cannot be prevented.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 78.5,
+  "header_text": "BLACK DOUBLE TEAM > R118",
+  "stages_text": "7\n7\n2\n,\n,",
+  "error": null
+ }
+}

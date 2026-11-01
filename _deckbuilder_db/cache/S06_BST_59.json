@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_59",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "59_Android Arm Breaker.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/59_Android Arm Breaker.jpg",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Android Arm Breaker",
+  "file_name": "Android Arm Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5b99498d5340e8f854241a39ba1c1f8b73bcae71"
+ },
+ "vision": {
+  "id": "S06_BST_59",
+  "name": "Android Arm Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nAttach to your opponent's MP. While attached, your opponent cannot use effects that advance or lower your opponent's MP 1 or more levels. Banish this card when your opponent deals critical damage.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 77.4,
+  "header_text": "ANDROID ARM BREAKER ) C59\n— ee eee )",
+  "stages_text": "5",
+  "error": null
+ }
+}

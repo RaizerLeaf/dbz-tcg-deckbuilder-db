@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P50",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P50_Bojack's Cosmic Bomber.png",
+  "rel_path": "z_OP Series/OP5/P50_Bojack's Cosmic Bomber.png",
+  "prefix": "P",
+  "number": 50,
+  "card_number": "P50",
+  "name_part": "Bojack's Cosmic Bomber",
+  "file_name": "Bojack's Cosmic Bomber",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1d4aa9b96a726bfbdcc153a1e72c16ab4eca62ea"
+ },
+ "vision": {
+  "id": "OP5_OP_P50",
+  "name": "Bojack's Cosmic Bomber",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nUnmodifiable. If Team Bojack is in play, Unstoppable.\nDAMAGE: 6 life cards.\nHIT: Raise your anger 2 or search your discard pile or Banished Zone for an [Trait:Alien] Ally and Rejuvenate it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); grey card; possessive title -> Named; inline icon purple A badge (Alien); stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 90.3,
+  "header_text": "BOJACK'S COSMIC BOMBER @= ) P50 |\n—_ 4, (~ Lae nD. Kl",
+  "stages_text": ",,",
+  "error": null
+ }
+}

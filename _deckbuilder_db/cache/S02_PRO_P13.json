@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P13",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P13_Black Declaration.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P13_Black Declaration.jpg",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Black Declaration",
+  "file_name": "Black Declaration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7addd37ad064f349e0f01a755a761445338fd9fa"
+ },
+ "vision": {
+  "id": "S02_PRO_P13",
+  "name": "Black Declaration",
+  "sub": null,
+  "type": "Setup",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, place it into play.) ENDURANCE 2. POWER: Choose an Ally, Drill, Setup or Dragon Ball in play and shuffle that card into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R101; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "(BLACK DECLARATION () =15\nWe WA LIE Le Ue | ae”",
+  "stages_text": "",
+  "error": null
+ }
+}

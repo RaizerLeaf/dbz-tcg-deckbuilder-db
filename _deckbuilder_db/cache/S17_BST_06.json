@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_06",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "06_Blue Protection.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/06_Blue Protection.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Blue Protection",
+  "file_name": "Blue Protection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a6691a73710ffb51b71ea3149c43d1e28da6f017"
+ },
+ "vision": {
+  "id": "S17_BST_06",
+  "name": "Blue Protection",
+  "sub": null,
+  "type": "Event",
+  "num": "C6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n[Defense] POWER: Prevent all damage from an attack.\nYou may play an Ally from your hand. If you do, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C6'",
+  "_src": "S17.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 87.2,
+  "header_text": "BLUE PROTECTION",
+  "stages_text": "4\n,0,",
+  "error": null
+ }
+}

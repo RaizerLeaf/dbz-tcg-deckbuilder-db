@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_35",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "35_Bojack's Nefarious Plot.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/35_Bojack's Nefarious Plot.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Bojack's Nefarious Plot",
+  "file_name": "Bojack's Nefarious Plot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "26bf9593685eb08a25d9e97156d2ce17b51f3b97"
+ },
+ "vision": {
+  "id": "S12_BST_35",
+  "name": "Bojack's Nefarious Plot",
+  "sub": null,
+  "type": "Setup",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is leaving play from your effect, you may banish it to draw a card.)\nPOWER: Your attacks deal -1 stage and -1 life card of damage this combat. Damage from your attacks cannot be prevented this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S12.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 82.0,
+  "header_text": "; i sete\nBOJACK'S NEFARIOUS PLOT f) R35",
+  "stages_text": null,
+  "error": null
+ }
+}

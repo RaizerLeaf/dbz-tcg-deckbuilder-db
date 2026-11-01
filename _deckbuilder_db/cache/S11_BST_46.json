@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_46",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "46_Dabura - Devil.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/46_Dabura - Devil.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Dabura - Devil",
+  "file_name": "Dabura",
+  "file_subtitle": "Devil",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "594092c29365e92313e7fce1eadc5c0ad1866bdd"
+ },
+ "vision": {
+  "id": "S11_BST_46",
+  "name": "Dabura",
+  "sub": "Devil",
+  "type": "Ally",
+  "num": "U46",
+  "lvl": 1,
+  "stages": [
+   800000,
+   666000,
+   200000,
+   50000,
+   25000,
+   10000,
+   5000,
+   3000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(If your MP is Babidi, you may use this Power regardless of your MP's power stage.)\n[Continuous]: Whenever a [Trait:Majin] Ally enters play under your control, destroy the top card of your opponent's Life Deck.\n[Defense] POWER: Prevent all damage from a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badge M",
+  "_src": "S11.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 81.5,
+  "header_text": "L DABURA\nLEVEL DEVIL () U46",
+  "stages_text": "800,000\n666,000\n200,000\n50,000\n25,000\n7 10,000\n5,000\n3,000\n1,000\n500\n\n0",
+  "error": null
+ }
+}

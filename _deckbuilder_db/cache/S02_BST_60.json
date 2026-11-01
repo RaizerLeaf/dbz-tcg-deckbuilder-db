@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_60",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "60_Combination Drill (CRD).png",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/60_Combination Drill (CRD).png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Combination Drill",
+  "file_name": "Combination Drill",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e2c4fa2632b4b92d2da86906102fa2c40786ab9e"
+ },
+ "vision": {
+  "id": "S02_BST_60",
+  "name": "Combination Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Instant] POWER: Use when entering combat. Choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may then use the effect of this Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.4,
+  "header_text": "(CompINaTION DRILL €) ceo",
+  "stages_text": "4",
+  "error": null
+ }
+}

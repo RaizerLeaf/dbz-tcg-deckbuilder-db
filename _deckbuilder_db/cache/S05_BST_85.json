@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_85",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "85_Blue Dispersing Beam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/85_Blue Dispersing Beam.png",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Blue Dispersing Beam",
+  "file_name": "Blue Dispersing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e403f17bf8fac4a9e2b9191e6ef0a0060f85458b"
+ },
+ "vision": {
+  "id": "S05_BST_85",
+  "name": "Blue Dispersing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise or lower your opponent's anger 1 level.\nDAMAGE: 5 life cards.\nHIT: Raise or lower a player's anger 2 levels. If your opponent advanced a personality level with this card, banish all Allies or all Drills.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "BLUE DISPERSING BEAM () U85\nrs y eam  y",
+  "stages_text": ",",
+  "error": null
+ }
+}

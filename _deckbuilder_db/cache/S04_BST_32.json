@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_32",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "32_Orange Duck.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/32_Orange Duck.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Orange Duck",
+  "file_name": "Orange Duck",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "309d18867d8d137dd1ba6efbb89b9e0309035dc3"
+ },
+ "vision": {
+  "id": "S04_BST_32",
+  "name": "Orange Duck",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nThe next time your MP changes levels this combat, you may search your discard pile for a Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 87.8,
+  "header_text": "ORANGE DUCK ) 032,",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

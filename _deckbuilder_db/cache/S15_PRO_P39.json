@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P39",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P39_ Defiant Challenge.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P39_ Defiant Challenge.png",
+  "prefix": "P",
+  "number": 39,
+  "card_number": "P39",
+  "name_part": "Defiant Challenge",
+  "file_name": "Defiant Challenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bff58d1c6fdca29bc6f0bb03107477d752df6f98"
+ },
+ "vision": {
+  "id": "S15_PRO_P39",
+  "name": "Defiant Challenge",
+  "sub": null,
+  "type": "Event",
+  "num": "P39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Banished Zone for a Named card and place it on top of your Life Deck. Search your Life Deck for a Named attack card and place it into your hand. Your opponent may discard a card from their hand to search their Life Deck for a Named attack card and place it into their hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge; filename has a leading space before 'Defiant'",
+  "_src": "S15.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "DEFIANT CHALLENGE ? ) P39 |\n—<— OL,",
+  "stages_text": "4\n12\n2",
+  "error": null
+ }
+}

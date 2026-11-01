@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_64",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "64_Master Roshi - Barricade.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/64_Master Roshi - Barricade.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Master Roshi - Barricade",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Barricade",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2f2b467fd489c682e33d65bde2e3095690e9e17a"
+ },
+ "vision": {
+  "id": "S05_BST_64",
+  "name": "Master Roshi",
+  "sub": "Barricade",
+  "type": "Main Personality",
+  "num": "U64",
+  "lvl": 4,
+  "stages": [
+   500,
+   450,
+   400,
+   350,
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: The first time each turn when your opponent uses an effect to search a Life Deck or discard pile for 1 card, you may search and choose that card instead of your opponent.\nPOWER: Banish a Drill or Setup you control to destroy the top 4 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads HERO",
+  "_src": "S05.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "@ MASTER ROSHI UB4\nLEVEL BARRICADE\na tiét",
+  "stages_text": "500\n450\n\n400\n\n350\n\n300\n250\n200\n150\n\n100\n\n50\n\n0",
+  "error": null
+ }
+}

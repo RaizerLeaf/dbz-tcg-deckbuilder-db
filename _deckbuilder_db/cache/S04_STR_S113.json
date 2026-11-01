@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S113",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S113_Orange Eruption.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S113_Orange Eruption.png",
+  "prefix": "S",
+  "number": 113,
+  "card_number": "S113",
+  "name_part": "Orange Eruption",
+  "file_name": "Orange Eruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ffce2b02d702cad439fd01edaad6da278f1eaa8d"
+ },
+ "vision": {
+  "id": "S04_STR_S113",
+  "name": "Orange Eruption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 2 levels. Lower your opponent's anger 2 levels.\nDAMAGE: 2 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C37",
+  "_src": "S04.jsonl:266"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "ORANGE ERUPTION ) S113\n\\ j / ’",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

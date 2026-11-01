@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_30",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "30_Saiyan Energy Release.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/30_Saiyan Energy Release.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Saiyan Energy Release",
+  "file_name": "Saiyan Energy Release",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5457059d37d3f262d8f8c51d2acd3f0cbdf6e804"
+ },
+ "vision": {
+  "id": "S09_BST_30",
+  "name": "Saiyan Energy Release",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nYour opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 90.2,
+  "header_text": "SAIYAN ENERGY RELEASE C) U30\nA , ‘Soy .",
+  "stages_text": ",",
+  "error": null
+ }
+}

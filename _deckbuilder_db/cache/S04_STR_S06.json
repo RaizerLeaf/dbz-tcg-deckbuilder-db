@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S06",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S06_Goku - Relaxed.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S06_Goku - Relaxed.png",
+  "prefix": "S",
+  "number": 6,
+  "card_number": "S06",
+  "name_part": "Goku - Relaxed",
+  "file_name": "Goku",
+  "file_subtitle": "Relaxed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "6b84134f5a95e7d14afa5cc4fe8eca2a4f74c7bb"
+ },
+ "vision": {
+  "id": "S04_STR_S06",
+  "name": "Goku",
+  "sub": "Relaxed",
+  "type": "Main Personality",
+  "num": "S6",
+  "lvl": 1,
+  "stages": [
+   120000,
+   95000,
+   70000,
+   45000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack.\nYou may return an Ally you control to its owner's hand.\nDAMAGE: 2 life cards.\nHIT: At the end of combat, you may search your Life Deck for an Ally and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO",
+  "_src": "S04.jsonl:159"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "GOKU * *\nBiss @s",
+  "stages_text": "120,000\n95,000\n70,000\n45,000\n20,000\n15,000\n10,000\n5,000\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

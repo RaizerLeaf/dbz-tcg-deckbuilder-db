@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P3",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P3_Gohan - Empowered.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P3_Gohan - Empowered.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Gohan - Empowered",
+  "file_name": "Gohan",
+  "file_subtitle": "Empowered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9e7713e5e6814627b412f4c92acb2a432c544ac1"
+ },
+ "vision": {
+  "id": "S08_PRO_P3",
+  "name": "Gohan",
+  "sub": "Empowered",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1300000,
+   1200000,
+   1000000,
+   80000,
+   60000,
+   50000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 life card of damage.\nPOWER: [Attack] Physical attack.\nRejuvenate 2. If your opponent has used a non-[Continuous] personality Power this turn, you may use this attack a second time this combat.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S43; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.1,
+  "header_text": "GOHAN\n. EMPOWERED y PS\n“f. an aN ANN",
+  "stages_text": "1,500,000\n1,300,000\n1,200,000\n1,000,000\n80,000\n\n7 60,000\n90,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_37",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "37_Head Smash.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/37_Head Smash.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Head Smash",
+  "file_name": "Head Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3c729c1c504138fb4ab015032c98c1c8ad0db119"
+ },
+ "vision": {
+  "id": "S13_BST_37",
+  "name": "Head Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nLower your opponent's anger 1 level. The next time your opponent would gain anger this combat, change that amount to 0.\nDAMAGE: 4 life cards or 4 stages.\n[Trait:Fusion]: HIT: Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-Styled) card; icon zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.907,
+  "lower_conf": 85.7,
+  "header_text": "HEAD SMASH | )UR37|",
+  "stages_text": ",\n4\n4\n347\n1\n0",
+  "error": null
+ }
+}

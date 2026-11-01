@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_21",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "21_Red Panic.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/21_Red Panic.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Panic",
+  "file_name": "Red Panic",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "6e96b762bf46fa885948f9ee03f19b1f0db11be9"
+ },
+ "vision": {
+  "id": "S08_BST_21",
+  "name": "Red Panic",
+  "sub": null,
+  "type": "Setup",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished from your Life Deck or discard pile by one of your effects and you have not searched your Life Deck this turn, search your Life Deck or Banished Zone for a Dragon Ball and place it into play.)\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a Drill and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S08.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "RED PANIC C) C21",
+  "stages_text": null,
+  "error": null
+ }
+}

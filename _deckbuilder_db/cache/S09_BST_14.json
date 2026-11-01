@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_14",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "14_Namekian Justice Punch.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/14_Namekian Justice Punch.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Justice Punch",
+  "file_name": "Namekian Justice Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "972911c2d08385dbfee495a7f4e1fe20d00245a6"
+ },
+ "vision": {
+  "id": "S09_BST_14",
+  "name": "Namekian Justice Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nThis attack can only be stopped by a Physical Combat card.\nDAMAGE: 5 stages.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U14'",
+  "_src": "S09.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 82.9,
+  "header_text": "NAMEKIAN JUSTICE PUNCH Cie\nN°) =$©RE—- wer “a |",
+  "stages_text": "4",
+  "error": null
+ }
+}

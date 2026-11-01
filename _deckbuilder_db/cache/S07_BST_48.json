@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_48",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "48_Red Tilt.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/48_Red Tilt.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Red Tilt",
+  "file_name": "Red Tilt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f50c0b520ab265a543f2ae7dbb0c29238c6b3318"
+ },
+ "vision": {
+  "id": "S07_BST_48",
+  "name": "Red Tilt",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nThe next time one of your effects banishes a card from your Life Deck or discard pile this combat, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "RED TILT () C48\nGD | CE || ee | 2 eum",
+  "stages_text": ",\n,\n\n4\n\n,",
+  "error": null
+ }
+}

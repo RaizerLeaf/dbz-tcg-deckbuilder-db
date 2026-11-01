@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_25",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "25_Red Quick Blast.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/25_Red Quick Blast.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Quick Blast",
+  "file_name": "Red Quick Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "60ae81ca9e2f73c5c470780999e8efa3f5e793e8"
+ },
+ "vision": {
+  "id": "S15_BST_25",
+  "name": "Red Quick Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this attack is performed from your discard pile, you may destroy an Ally or attached card.)\n[Attack] 1: Energy attack.\nRaise your anger 1.\nDAMAGE: 4 life cards.\nHIT: You may banish the top card of your Life Deck to destroy an Ally or attached card.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S15.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.3,
+  "header_text": "RED QUICK BLAST @) cz\nwy ») i EE",
+  "stages_text": ",\n71\n,\n2",
+  "error": null
+ }
+}

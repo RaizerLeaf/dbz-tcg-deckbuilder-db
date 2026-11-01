@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_79",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "79_Playful Punch.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/79_Playful Punch.png",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Playful Punch",
+  "file_name": "Playful Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1ec2d840318559bdfa71601119c9ab1be2570f46"
+ },
+ "vision": {
+  "id": "S05_BST_79",
+  "name": "Playful Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U79",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If the highest power level on your MP's Level 4 is 500,000 or less, you may play this card to stop a non-Styled attack instead of as an attack.)\n[Attack] Physical attack.\nYour MP gains 5 stages. Lower your opponent's anger 1 level.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.8,
+  "header_text": "PLAYFUL PUNCH ‘",
+  "stages_text": ",",
+  "error": null
+ }
+}

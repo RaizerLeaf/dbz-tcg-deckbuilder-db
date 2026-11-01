@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P3",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P3_Captain Ginyu - Frog.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P3_Captain Ginyu - Frog.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Captain Ginyu - Frog",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Frog",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e54411ecd69bea38851181bee77c6c9102965ad1"
+ },
+ "vision": {
+  "id": "S10_PRO_P3",
+  "name": "Captain Ginyu",
+  "sub": "Frog",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 4,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Namekian",
+   "Alien"
+  ],
+  "text": "[Continuous]: Your Allies may make actions regardless of your MP's power stage and they cannot be discarded. Your attacks deal +X life cards. X = the number of Allies you have in play when you perform that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; same as PZP P82; Trait badges N + A",
+  "_src": "S10.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 64.4,
+  "header_text": "CAPTAIN GINYU\nLEVEL Jaen\n|: ae _ : : a ote ° e X , an",
+  "stages_text": "10\n3\n7",
+  "error": null
+ }
+}

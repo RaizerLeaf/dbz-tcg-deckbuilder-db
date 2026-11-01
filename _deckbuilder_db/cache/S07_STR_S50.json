@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S50",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S50_Blue Guard.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S50_Blue Guard.png",
+  "prefix": "S",
+  "number": 50,
+  "card_number": "S50",
+  "name_part": "Blue Guard",
+  "file_name": "Blue Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "58de47dbdbf05faf52e349138e49a4368a0c898f"
+ },
+ "vision": {
+  "id": "S07_STR_S50",
+  "name": "Blue Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card.)\n[Defense] Stops an energy attack.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S65; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:233"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "BLUE GUARD ) $50",
+  "stages_text": "0\n,\n,",
+  "error": null
+ }
+}

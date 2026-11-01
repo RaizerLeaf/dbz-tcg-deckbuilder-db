@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_32",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "32_Namekian Reinforced Jab.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/32_Namekian Reinforced Jab.jpg",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Namekian Reinforced Jab",
+  "file_name": "Namekian Reinforced Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "26b879cd31be6dfc7fe79fffa08acf5276d0bd37"
+ },
+ "vision": {
+  "id": "S03_BST_32",
+  "name": "Namekian Reinforced Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. Banish up to 3 cards from your discard pile. HIT: Banish up to 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "| NAMEKIAN REINFORCED. JAB ( =",
+  "stages_text": "",
+  "error": null
+ }
+}

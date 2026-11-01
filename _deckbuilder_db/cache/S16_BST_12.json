@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_12",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "12_Blue Drastic Blast.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/12_Blue Drastic Blast.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Blue Drastic Blast",
+  "file_name": "Blue Drastic Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2b77d960bb63abdcb915632b2550ad96dcdc1f1e"
+ },
+ "vision": {
+  "id": "S16_BST_12",
+  "name": "Blue Drastic Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\n[Warning]: Search your Life Deck or discard pile for an Ally and place it into play at 5 stages above 0.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 91.7,
+  "header_text": "BLUE DRASTIC BLAST () C12\nA\\W",
+  "stages_text": "0,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_45",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "45_Buu - Evil Incarnate.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/45_Buu - Evil Incarnate.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Buu - Evil Incarnate",
+  "file_name": "Buu",
+  "file_subtitle": "Evil Incarnate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "40b70509839f9c75e0cac3281ba6a2fe3eefb1fb"
+ },
+ "vision": {
+  "id": "S13_BST_45",
+  "name": "Buu",
+  "sub": "Evil Incarnate",
+  "type": "Main Personality",
+  "num": "S45",
+  "lvl": 1,
+  "stages": [
+   2500000,
+   1700000,
+   1200000,
+   800000,
+   500000,
+   300000,
+   150000,
+   60000,
+   30000,
+   7000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Whenever you perform a copied attack, raise your anger 1 level.\n[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand. Reveal that card instead.\nPOWER: Choose a non-[Instant]/non-[Continuous] Power of a personality in play that is not \"Buu, Evil Incarnate.\" Use that Power. If that Power is an attack, it is considered a copied attack for your effects.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink); text zoomed",
+  "_src": "S13.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 80.7,
+  "header_text": "| ‘1 | Buu\n; EVIL INCARNATE 945",
+  "stages_text": "2,500,000\n1,700,000\n1,200,000\n\n800,000\n\n500,000\n\n300,000\n\n150,000\n\n60,000\n30,000\n7,000\n0",
+  "error": null
+ }
+}

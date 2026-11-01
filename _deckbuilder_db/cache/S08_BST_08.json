@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_08",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "08_Blue Quick Save.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/08_Blue Quick Save.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Quick Save",
+  "file_name": "Blue Quick Save",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5d949709d7f7bf85a76c1e6a129766099b970472"
+ },
+ "vision": {
+  "id": "S08_BST_08",
+  "name": "Blue Quick Save",
+  "sub": null,
+  "type": "Event",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Instant] POWER: Use when one of your your Allies would leave play from an opponent's effect. Rejuvenate it instead. Your opponent must pass for their next action this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "'your your' as printed",
+  "_src": "S08.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.972,
+  "lower_conf": 88.3,
+  "header_text": "BLUE QUICK SAVE () C8",
+  "stages_text": "",
+  "error": null
+ }
+}

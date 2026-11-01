@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_134",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "134_Goku's Search.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/134_Goku's Search.png",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Goku's Search",
+  "file_name": "Goku's Search",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "10847b58841cb32a8345edf8c19ce9d3aee5b9df"
+ },
+ "vision": {
+  "id": "S07_BST_134",
+  "name": "Goku's Search",
+  "sub": null,
+  "type": "Event",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\nPOWER: Search your Life Deck for an Ally, Drill, or Dragon Ball and place it into play. Your MP gains 5 stages. Search your discard pile for 2 cards and Rejuvenate them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.5,
+  "header_text": "GOKU'S SEARCH ) R134\n-_—Ap, | iD |",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

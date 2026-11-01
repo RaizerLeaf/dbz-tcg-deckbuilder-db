@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_04",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "04_Nappa - Smirking.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/04_Nappa - Smirking.jpg",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Nappa - Smirking",
+  "file_name": "Nappa",
+  "file_subtitle": "Smirking",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d90536b1d1dc593ddf11a561a1312f745dbafed9"
+ },
+ "vision": {
+  "id": "S02_BST_04",
+  "name": "Nappa",
+  "sub": "Smirking",
+  "type": "Main Personality",
+  "num": "C4",
+  "lvl": 2,
+  "stages": [
+   9000,
+   8500,
+   8000,
+   7500,
+   7000,
+   6500,
+   6000,
+   5500,
+   5000,
+   4500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: If you changed levels this combat, your opponent's personalities lose 2 stages whenever you perform an attack. Otherwise, your opponent's MP loses 1 stage whenever you perform an attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "E NAPPA C) a\nLEVEL ee ~",
+  "stages_text": "9,000\n\n8,500\n\n8,000\n\n7,500\n\n7,000\n6,500\n5 6,000\n5,500\n\n5,000\n\n4,500\n\n0",
+  "error": null
+ }
+}

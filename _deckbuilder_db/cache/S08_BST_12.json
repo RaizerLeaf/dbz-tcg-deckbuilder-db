@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_12",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "12_Namekian Aggressive Drill.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/12_Namekian Aggressive Drill.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Aggressive Drill",
+  "file_name": "Namekian Aggressive Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "5e4a8d790d3e17eaf1f7954d8b21c8928603feab"
+ },
+ "vision": {
+  "id": "S08_BST_12",
+  "name": "Namekian Aggressive Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card enters play during combat, you may shuffle a Dragon Ball from your Banished Zone into your Life Deck.)\n[Continuous]: Your physical attacks deal +1 stage of damage.\nPOWER: If you can win by MPPV, raise your anger 1 level. If your MP is not a Saiyan, lower your opponent's anger 2 levels and you may destroy a Setup.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S08.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "AMEKIAN AGGRESSIVE DRILL () U12",
+  "stages_text": null,
+  "error": null
+ }
+}

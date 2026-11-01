@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P5",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P5_Red Shining Sword Attack.png",
+  "rel_path": "z_OP Series/OP1/P5_Red Shining Sword Attack.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Red Shining Sword Attack",
+  "file_name": "Red Shining Sword Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "322b2b6e97fd519673c3f2f193aba3560475d0eb"
+ },
+ "vision": {
+  "id": "OP1_OP_P5",
+  "name": "Red Shining Sword Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card is considered Named.)\n[Attack] Energy attack costing 2 stages.\nYou may raise your anger 1 level. If you have played another card with \"Sword\" in the title this turn, your opponent cannot modify or prevent damage from this attack and damage from this attack is banished.\nDAMAGE: 5 life cards.\n(Banish after use.)\n(Created by Oscar L., OP1 West Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); prints a design credit line",
+  "_src": "OP.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.984,
+  "lower_conf": 90.3,
+  "header_text": "RED SHINING SWORD attack & P5\n|",
+  "stages_text": "4\n,\n,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_04",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "04_Black Duck.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/04_Black Duck.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Duck",
+  "file_name": "Black Duck",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "694c04c8cd21b198bf1b4b0cc4722f680ae80e4d"
+ },
+ "vision": {
+  "id": "S07_BST_04",
+  "name": "Black Duck",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nName a card. Destroy the top card of your Life Deck. If the card you named was destroyed, destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "BLACK DUCK () C4",
+  "stages_text": "4\n7\n37\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR17",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR17_Gohan - Unlocked.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR17_Gohan - Unlocked.png",
+  "prefix": "DR",
+  "number": 17,
+  "card_number": "DR17",
+  "name_part": "Gohan - Unlocked",
+  "file_name": "Gohan",
+  "file_subtitle": "Unlocked",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6b385678326d68984a59bb64b4f1692f5890c1ec"
+ },
+ "vision": {
+  "id": "S07_DR_DR17",
+  "name": "Gohan",
+  "sub": "Unlocked",
+  "type": "Main Personality",
+  "num": "DR17",
+  "lvl": 2,
+  "stages": [
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   50000,
+   25000,
+   12500,
+   6250,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks are considered Styled. Whenever your MP would advance a level, you may lower your MP 1 level instead.\nPOWER: Discard a card from your hand to search your Life Deck for a Styled [Attack] or [Defense] card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P60",
+  "_src": "S07.jsonl:163"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "f pm] GOHAN ( tu\nLEVEL | UNLOCKED >\n(oe Ae ee ce",
+  "stages_text": "1,100,000\n900,000\n700,000\n500,000\n300,000\n100,000\n, 50,000\n25,000\n12,500\n6,250\n\n0",
+  "error": null
+ }
+}

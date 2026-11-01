@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_09",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "09_Black Amusement Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/09_Black Amusement Drill.jpg",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Black Amusement Drill",
+  "file_name": "Black Amusement Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "fe8edea88e1141bccb20be826a2315cad275bb40"
+ },
+ "vision": {
+  "id": "S03_BST_09",
+  "name": "Black Amusement Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent reveals his hand, you may look at the top 2 cards of a player's Life Deck. If you do, you may place any of those cards at the bottom of that player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "(BLACK AMUSEMENT DRILL (=",
+  "stages_text": "4",
+  "error": null
+ }
+}

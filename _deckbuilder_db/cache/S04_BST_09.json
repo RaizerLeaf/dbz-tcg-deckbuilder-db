@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_09",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "09_Black Travelling Punch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/09_Black Travelling Punch.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Black Travelling Punch",
+  "file_name": "Black Travelling Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "1c7d011459aff8c73964637276b68da16f30d60a"
+ },
+ "vision": {
+  "id": "S04_BST_09",
+  "name": "Black Travelling Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nIf this attack is stopped by a Physical Combat or Energy Combat card, destroy the top 2 cards of your opponent's Life Deck. If this attack is stopped by any other card type or by a floating effect, banish the top 2 cards of your opponent's Life Deck.\nDAMAGE: 0 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.982,
+  "lower_conf": 89.9,
+  "header_text": "BLACK TRAVELLING PUNCH () C9\n7 . . en ——-- eae",
+  "stages_text": "7 ,\n2",
+  "error": null
+ }
+}

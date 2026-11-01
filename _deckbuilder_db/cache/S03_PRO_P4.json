@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P4",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P4_Red Shoulder Grab.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P4_Red Shoulder Grab.jpg",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Red Shoulder Grab",
+  "file_name": "Red Shoulder Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "bb397bda517c1aebb98268ae1fae57065b09b010"
+ },
+ "vision": {
+  "id": "S03_PRO_P4",
+  "name": "Red Shoulder Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 C50; text compared on the sheet, identical",
+  "_src": "S03.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "(RED SHOULDER GRAB ( )-\nCo ; eae f",
+  "stages_text": "",
+  "error": null
+ }
+}

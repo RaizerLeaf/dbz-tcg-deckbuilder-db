@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_18",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "18_Blue Recless Charge.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/18_Blue Recless Charge.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Blue Recless Charge",
+  "file_name": "Blue Recless Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "434f8fc3f75c03410e6ca031fb845b69a2aff9b9"
+ },
+ "vision": {
+  "id": "S07_BST_18",
+  "name": "Blue Reckless Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Your MP gains 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Recless'",
+  "_src": "S07.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 69.3,
+  "header_text": "BLUE RECKLESS CHARGE () C18\nant) a 7 = oo Bee",
+  "stages_text": "4\n2,\n1,",
+  "error": null
+ }
+}

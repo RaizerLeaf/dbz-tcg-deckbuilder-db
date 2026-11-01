@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S04",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S04_Trunks - Overpowering.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S04_Trunks - Overpowering.png",
+  "prefix": "S",
+  "number": 4,
+  "card_number": "S04",
+  "name_part": "Trunks - Overpowering",
+  "file_name": "Trunks",
+  "file_subtitle": "Overpowering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "60414d72e01be485736f2efb5161891347334c74"
+ },
+ "vision": {
+  "id": "S04_STR_S04",
+  "name": "Trunks",
+  "sub": "Overpowering",
+  "type": "Main Personality",
+  "num": "S4",
+  "lvl": 4,
+  "stages": [
+   1700000,
+   1600000,
+   1500000,
+   1400000,
+   1300000,
+   1200000,
+   1100000,
+   1000000,
+   500000,
+   250000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +5 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO",
+  "_src": "S04.jsonl:157"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 57.6,
+  "header_text": "ya TRUNKS ,\nNaya OVERPOWERING N f\nOP a Re\n. ~_-. 7 Oks — 4a eee ee ae a.",
+  "stages_text": "1,700,000\n1,600,000\n1,500,000\n1,400,000\n1,300,000\n1,200,000\n1,100,000\n1,000,000\n500,000\n250,000\n\n0",
+  "error": null
+ }
+}

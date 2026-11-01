@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_43",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "43_Red Bribe.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/43_Red Bribe.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Red Bribe",
+  "file_name": "Red Bribe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "7a995fdc7f53026236c5e2b99bd7c71bcf223151"
+ },
+ "vision": {
+  "id": "S05_BST_43",
+  "name": "Red Bribe",
+  "sub": null,
+  "type": "Setup",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Use the immediate effects of a Dragon Ball in play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Setup layout",
+  "_src": "S05.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.4,
+  "header_text": "RED BRIBE () C43",
+  "stages_text": null,
+  "error": null
+ }
+}

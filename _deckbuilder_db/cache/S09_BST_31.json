@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_31",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "31_Ocular Pat Down.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/31_Ocular Pat Down.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Ocular Pat Down",
+  "file_name": "Ocular Pat Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "d48d694950843bc4fa7412d999d3811c5a99513c"
+ },
+ "vision": {
+  "id": "S09_BST_31",
+  "name": "Ocular Pat Down",
+  "sub": null,
+  "type": "Setup",
+  "num": "UR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 2 per deck. If this card is banished for Endurance and your opponent cannot win by MPPV, you may lower your opponent's MP 1 level.)\nPOWER: Your opponent reveals their hand. Choose up to 7 cards in your opponent's discard pile and banish them. Your opponent chooses up to 7 cards in your discard pile and banishes them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame; number area reads 'PREVIEW UR31'",
+  "_src": "S09.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 85.7,
+  "header_text": "OCULAR PAT DOWN Co\nNee, a Ln Te es |",
+  "stages_text": null,
+  "error": null
+ }
+}

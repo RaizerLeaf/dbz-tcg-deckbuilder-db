@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_78",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "78_Cell Jr. - Unrelenting.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/78_Cell Jr. - Unrelenting.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Cell Jr. - Unrelenting",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Unrelenting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "792484810383d44cf6c15a09bb609a0d875b23b2"
+ },
+ "vision": {
+  "id": "S07_BST_78",
+  "name": "Cell Jr.",
+  "sub": "Unrelenting",
+  "type": "Ally",
+  "num": "U78",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 0,
+  "align": "Villain",
+  "traits": [],
+  "text": "(This personality cannot gain stages.)\nPOWER: [Attack] Physical attack.\nAllies you control cannot perform attacks this combat.\nDAMAGE: 3 +X stages. X= the number of Allies in play with \"Cell Jr.\" in the title.\nHIT: Shuffle all Allies you control with \"Cell Jr.\" in the title into their owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; PUR printed 0",
+  "_src": "S07.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.804,
+  "lower_conf": 74.7,
+  "header_text": "L CELL JR.\nLEVEL UNRELENTING () U78\n> oo! -",
+  "stages_text": "100,000\n4 90,000\n80,000\n70,000\n60,000\n70,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

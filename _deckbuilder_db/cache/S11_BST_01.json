@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_01",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "01_Black Focus.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/01_Black Focus.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Focus",
+  "file_name": "Black Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1b134664f21aba621aef092262beb899b822dd18"
+ },
+ "vision": {
+  "id": "S11_BST_01",
+  "name": "Black Focus",
+  "sub": null,
+  "type": "Setup",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You may only have one \"Black Focus\" attached. If this card is discarded from your hand during combat, place it into play.)\nPOWER: Attach to your MP. The next attack you perform this combat gains \"If this attack deals critical damage, draw a card.\" While attached, whenever an effect would raise your anger, you may banish the top card of your opponent's discard pile instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; Set 11 uses the Majin crest as set symbol",
+  "_src": "S11.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 88.2,
+  "header_text": "BLACK FOCUS o) C1 |\n2 ee tS",
+  "stages_text": null,
+  "error": null
+ }
+}

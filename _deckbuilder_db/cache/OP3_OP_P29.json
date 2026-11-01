@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P29",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P29_Dende - Protector.png",
+  "rel_path": "z_OP Series/OP3/P29_Dende - Protector.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Dende - Protector",
+  "file_name": "Dende",
+  "file_subtitle": "Protector",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "af51b46eebb17347cc880179563181d513c4d75c"
+ },
+ "vision": {
+  "id": "OP3_OP_P29",
+  "name": "Dende",
+  "sub": "Protector",
+  "type": "Main Personality",
+  "num": "P29",
+  "lvl": 4,
+  "stages": [
+   14777,
+   13666,
+   12555,
+   9444,
+   8333,
+   7222,
+   6111,
+   5000,
+   4999,
+   3888,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "(Your Dragon Balls are not considered attached cards for effects.)\n[Continuous]: Dragon Balls attached to your MP cannot be captured.\nPOWER: Attach a Dragon Ball you control to your MP. You may search your Banished Zone for a Dragon Ball and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); edge reads HERO -> MP; Trait badges G, N; stages are not strictly descending-by-pattern (printed as shown)",
+  "_src": "OP.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "44 DENDE\nLEVEL PROTECTOR () P29",
+  "stages_text": "14,777\n13,666\n12,555\n9,444\n\n5 8,333\n7,222\n6,111\n5,000\n\n4,999\n\n3,888\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_73",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "73_Gohan - To The Rescue.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/73_Gohan - To The Rescue.jpg",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Gohan - To The Rescue",
+  "file_name": "Gohan",
+  "file_subtitle": "To The Rescue",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1247e47e6b32676fea7acb692b483f2954db02de"
+ },
+ "vision": {
+  "id": "S06_BST_73",
+  "name": "Gohan",
+  "sub": "To the Rescue",
+  "type": "Main Personality",
+  "num": "U73",
+  "lvl": 1,
+  "stages": [
+   100000,
+   85000,
+   70000,
+   55000,
+   40000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect.)\n[Instant] POWER: Use when entering combat. Search your Life Deck for an Ally and play it. If you control 3 or more Allies, advance your MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO MP'",
+  "_src": "S06.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 70.5,
+  "header_text": "GOHAN\nTO THE RESCUE",
+  "stages_text": "100,000\n85,000\n70,000\n\n1 55,000\n2 40,000\n25,000\n20,000\n15,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

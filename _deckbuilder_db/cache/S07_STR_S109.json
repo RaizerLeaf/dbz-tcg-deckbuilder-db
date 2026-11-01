@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S109",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S109_Saiyan Analysis Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S109_Saiyan Analysis Drill.png",
+  "prefix": "S",
+  "number": 109,
+  "card_number": "S109",
+  "name_part": "Saiyan Analysis Drill",
+  "file_name": "Saiyan Analysis Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "acf886fdec45c98af9406e951572bb95d0d89ab7"
+ },
+ "vision": {
+  "id": "S07_STR_S109",
+  "name": "Saiyan Analysis Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: You need 1 less anger to advance a personality level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S103; text compared on the sheet",
+  "_src": "S07.jsonl:292"
+ },
+ "ocr": {
+  "agreement": 0.833,
+  "lower_conf": 54.8,
+  "header_text": "SAIYAN ANALYSIS DRILL () $109",
+  "stages_text": null,
+  "error": null
+ }
+}

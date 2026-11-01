@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S139",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S139_Red Energ Outburst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S139_Red Energ Outburst.png",
+  "prefix": "S",
+  "number": 139,
+  "card_number": "S139",
+  "name_part": "Red Energ Outburst",
+  "file_name": "Red Energ Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bbc5f5fd686b05f8ac87372174def96ca2beb6c3"
+ },
+ "vision": {
+  "id": "S04_STR_S139",
+  "name": "Red Energy Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: If you have dealt critical damage this combat, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S61; filename typo 'Energ'",
+  "_src": "S04.jsonl:292"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "RED ENERGY OUTBURST @® s139\nOe ee VN",
+  "stages_text": "4\n4\n,\n\n,\n,",
+  "error": null
+ }
+}

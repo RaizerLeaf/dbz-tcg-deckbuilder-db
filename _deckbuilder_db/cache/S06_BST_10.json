@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_10",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "10_Black Sword Attack.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/10_Black Sword Attack.jpg",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Black Sword Attack",
+  "file_name": "Black Sword Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "942eca05b63908edda757e8d6c909c08cd1432e9"
+ },
+ "vision": {
+  "id": "S06_BST_10",
+  "name": "Black Sword Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level. You may banish 2 cards with \"Sword\" in the title from your discard pile to return a Setup or Drill in play to its owner's hand.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 76.3,
+  "header_text": "\"BLACK SWORD ATTACK | SWORD ATTACK",
+  "stages_text": "7\n4\n37 2",
+  "error": null
+ }
+}

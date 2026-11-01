@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P4",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P4_Orange Luxury.png",
+  "rel_path": "z_OP Series/OP1/P4_Orange Luxury.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Orange Luxury",
+  "file_name": "Orange Luxury",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f61f91bdc99a48b37ea3271243a35bda7203e738"
+ },
+ "vision": {
+  "id": "OP1_OP_P4",
+  "name": "Orange Luxury",
+  "sub": null,
+  "type": "Event",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw 2 cards. Discard a card from your hand. You may choose a Drill in your hand and place it into play.\n(Banish after use.)\n(Created by Cory Aguilard, OP1 South Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); prints a design credit line; no Endurance badge",
+  "_src": "OP.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "ORANGE LUXURY ) Pa\nawww; If",
+  "stages_text": ",\n0\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S149",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S149_Red Power Lift.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S149_Red Power Lift.png",
+  "prefix": "S",
+  "number": 149,
+  "card_number": "S149",
+  "name_part": "Red Power Lift",
+  "file_name": "Red Power Lift",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d875b8c44f55a0636cea6001db9585136bf8ab33"
+ },
+ "vision": {
+  "id": "S04_STR_S149",
+  "name": "Red Power Lift",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S149",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nStops the next physical attack performed against you this combat.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S80",
+  "_src": "S04.jsonl:302"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 82.5,
+  "header_text": "RED POWER LIFT () $145\nYr ow Ys Vr aw",
+  "stages_text": "4\n,\n, ,",
+  "error": null
+ }
+}

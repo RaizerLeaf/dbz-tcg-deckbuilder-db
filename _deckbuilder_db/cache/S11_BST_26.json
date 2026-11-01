@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_26",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "26_Saiyan Combative Stance.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/26_Saiyan Combative Stance.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Saiyan Combative Stance",
+  "file_name": "Saiyan Combative Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d4ed97ad838b4a6f1f4f79e1ee6442e367ef498b"
+ },
+ "vision": {
+  "id": "S11_BST_26",
+  "name": "Saiyan Combative Stance",
+  "sub": null,
+  "type": "Event",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 1 per deck. You may only have one \"Saiyan Combative Stance\" attached.)\nPOWER: Draw a card. Attach to your MP. While attached, once per combat, after you discard a Styled card with Endurance from your hand, gain 3 stages and choose a Styled card in your discard pile and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 92.2,
+  "header_text": "SAIYAN COMBATIVE STANCE C) C26\nee dlc CO",
+  "stages_text": ",\n,\n3",
+  "error": null
+ }
+}

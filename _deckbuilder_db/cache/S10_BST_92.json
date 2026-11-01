@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_92",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "92_Videl - Learning the Moves.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/92_Videl - Learning the Moves.png",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Videl - Learning the Moves",
+  "file_name": "Videl",
+  "file_subtitle": "Learning the Moves",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "33cf532ea0a5bb4001de6af95f5e03028cc27d01"
+ },
+ "vision": {
+  "id": "S10_BST_92",
+  "name": "Videl",
+  "sub": "Learning the Moves",
+  "type": "Main Personality",
+  "num": "S92",
+  "lvl": 3,
+  "stages": [
+   300,
+   250,
+   220,
+   200,
+   180,
+   150,
+   140,
+   120,
+   100,
+   50,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your AT is considered to be 4 for your attacks.\nPOWER: [Attack] Physical attack.\nPlace a Setup and Drill in play on top of their owner's Life Decks or use a critical damage effect and this attack is considered to deal critical damage.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S10.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "VIDEL",
+  "stages_text": "4 300\n250\n\n220\n\n200\n\n180\n150\n140\n120\n\n100\n\n, 50\n0",
+  "error": null
+ }
+}

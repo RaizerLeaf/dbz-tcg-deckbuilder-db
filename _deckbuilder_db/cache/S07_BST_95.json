@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_95",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "95_Red Scanning Drill (CRD).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/95_Red Scanning Drill (CRD).png",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Red Scanning Drill",
+  "file_name": "Red Scanning Drill",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "84b726a2a6190b758c1cc3a304b23d3d5a600aa8"
+ },
+ "vision": {
+  "id": "S07_BST_95",
+  "name": "Red Scanning Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded when changing levels, destroy the top 2 cards of your opponent's Life Deck.)\n[Continuous]: Whenever your anger is lowered, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; '(CRD)' stamped below (owner annotation)",
+  "_src": "S07.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "RED SCANNING DRILL @ us|",
+  "stages_text": null,
+  "error": null
+ }
+}

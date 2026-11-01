@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P18",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P18_Namekian Resourceful Shot.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P18_Namekian Resourceful Shot.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Namekian Resourceful Shot",
+  "file_name": "Namekian Resourceful Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67ce37bf582e3eae45f7d06a0d3233f08fae37f8"
+ },
+ "vision": {
+  "id": "S11_PRO_P18",
+  "name": "Namekian Resourceful Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 2 per deck. If this card is in your discard pile, you may banish a card from your hand to play it as an action.)\n[Attack] Energy attack costing 1 stage.\nUse a critical damage effect.\nDAMAGE: 4 life cards.\n(Banish after use.)\n(Created by Cory Aguilard, 2017 World's Qualifier)",
+  "conf": "high",
+  "review": null,
+  "note": "card prints a design credit line",
+  "_src": "S11.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 0.925,
+  "lower_conf": 84.8,
+  "header_text": "NAMEKIAN RESOURCEFUL SHOT C) P18\n[ory | Vr 4",
+  "stages_text": "4\n2\n\n7 7\n,\n\n,",
+  "error": null
+ }
+}

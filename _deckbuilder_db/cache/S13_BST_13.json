@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_13",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "13_Namekian Imposing Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/13_Namekian Imposing Mastery.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Imposing Mastery",
+  "file_name": "Namekian Imposing Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4bb74f105335ec5c6a8c3596cf30efb9e1e02b3d"
+ },
+ "vision": {
+  "id": "S13_BST_13",
+  "name": "Namekian Imposing Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when you would Rejuvenate a Styled [Attack] card during combat. You may place it into your hand instead.\nPOWER: Shuffle the top and bottom cards of your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (read from a crop of the original); DR number printed; the inline icon in the first Power is the attack (crossed swords) symbol used as an adjective",
+  "_src": "S13.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "eV",
+  "stages_text": "0\n2\n013\n,\n7\n,",
+  "error": null
+ }
+}

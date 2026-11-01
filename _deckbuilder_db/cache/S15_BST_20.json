@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_20",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "20_Orange Heat Wave.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/20_Orange Heat Wave.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Heat Wave",
+  "file_name": "Orange Heat Wave",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1e75fc44111ac4a8c64aa30a1eb5b2556d1c16c"
+ },
+ "vision": {
+  "id": "S15_BST_20",
+  "name": "Orange Heat Wave",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nFocused. Raise your anger 1.\nDAMAGE: 5 life cards.\nHIT: Search your discard pile for X Styled cards and Rejuvenate them. X = your current anger level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; no Endurance badge",
+  "_src": "S15.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "ORANGE HEAT WAVE\nAaa SF 4 We",
+  "stages_text": "",
+  "error": null
+ }
+}

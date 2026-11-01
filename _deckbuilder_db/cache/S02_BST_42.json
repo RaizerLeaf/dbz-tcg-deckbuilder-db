@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_42",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "42_Orange Nudge.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/42_Orange Nudge.jpg",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Orange Nudge",
+  "file_name": "Orange Nudge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d973ce56c3816032cbe9d4e60caeda619226a642"
+ },
+ "vision": {
+  "id": "S02_BST_42",
+  "name": "Orange Nudge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. Destroy one of your Drills and then place it back into play at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "ORANGE NUDGE vec () c4a2\n™~, VW WY |",
+  "stages_text": "4",
+  "error": null
+ }
+}

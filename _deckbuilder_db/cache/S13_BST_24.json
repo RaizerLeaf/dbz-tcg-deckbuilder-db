@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_24",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "24_Orange Spiral Shot.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/24_Orange Spiral Shot.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Orange Spiral Shot",
+  "file_name": "Orange Spiral Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "381df8c5f0f4b84cbaed25c288990d41f19fdb26"
+ },
+ "vision": {
+  "id": "S13_BST_24",
+  "name": "Orange Spiral Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a non-Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 88.0,
+  "header_text": "ORANGE SPIRAL SHOT ) U24,\n[.n™",
+  "stages_text": "4\n,\n1,",
+  "error": null
+ }
+}

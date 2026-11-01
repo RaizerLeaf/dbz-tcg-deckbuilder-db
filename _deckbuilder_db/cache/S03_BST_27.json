@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_27",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "27_Namekian Clench.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/27_Namekian Clench.jpg",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Namekian Clench",
+  "file_name": "Namekian Clench",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ba994ad168cb9112b248c1980b1dd9d917c0795b"
+ },
+ "vision": {
+  "id": "S03_BST_27",
+  "name": "Namekian Clench",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Banish after use.) [Attack] Physical attack. DAMAGE: 5 stages. HIT: Rejuvenate a Styled card from your Banished Zone not named Namekian Clench.",
+  "conf": "high",
+  "review": null,
+  "note": "'Namekian Clench' printed in italics, without quotes",
+  "_src": "S03.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "NAMEKIAN CLENGH (ice?",
+  "stages_text": "",
+  "error": null
+ }
+}

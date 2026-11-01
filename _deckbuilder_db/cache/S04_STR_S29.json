@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S29",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S29_Android 18 - Determined.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S29_Android 18 - Determined.png",
+  "prefix": "S",
+  "number": 29,
+  "card_number": "S29",
+  "name_part": "Android 18 - Determined",
+  "file_name": "Android 18",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e28e7cfca158aebdab4222f5a12aa8d901659890"
+ },
+ "vision": {
+  "id": "S04_STR_S29",
+  "name": "Android 18",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "S29",
+  "lvl": 4,
+  "stages": [
+   1800000,
+   1700000,
+   1600000,
+   1500000,
+   1300000,
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's physical attacks cost +2 stages to perform.\nPOWER: [Attack] Energy attack.\nDAMAGE: 0 life cards.\nHIT: Set your opponent's MP's power level to 0.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads VILLAIN",
+  "_src": "S04.jsonl:182"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.4,
+  "header_text": "| 4 ANDROID 18 “ '\nDETERMINED ey 82g\na 4 ~~ is ee ee",
+  "stages_text": "1,800,000\n1,700,000\n1,600,000\n1,500,000\n1,300,000\n1,100,000\n900,000\n700,000\n500,000\n300,000\n\n0",
+  "error": null
+ }
+}

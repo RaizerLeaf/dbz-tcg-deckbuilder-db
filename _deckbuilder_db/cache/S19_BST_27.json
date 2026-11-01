@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_27",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "27_Red Mega Punch.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/27_Red Mega Punch.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Red Mega Punch",
+  "file_name": "Red Mega Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fea52df90c4db07d63dc1e210ffb242c7252789"
+ },
+ "vision": {
+  "id": "S19_BST_27",
+  "name": "Red Mega Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nLower your opponent's anger 2. If you have banished cards from your Life Deck this turn, Unpreventable.\nDAMAGE: 6 stages.\nHIT: Rejuvenate after use.",
+  "conf": "high",
+  "review": null,
+  "note": "printed 'HIT: Rejuvenate after use.' as shown",
+  "_src": "S19.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 90.1,
+  "header_text": "RED MEGA PUNCH () R2/",
+  "stages_text": "3\n37\n,",
+  "error": null
+ }
+}

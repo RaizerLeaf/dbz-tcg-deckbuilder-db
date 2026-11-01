@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_82",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "82_Saiyan Fierce Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/82_Saiyan Fierce Kick.png",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Saiyan Fierce Kick",
+  "file_name": "Saiyan Fierce Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ac52845b906f65075be5bab90e173988ad52aad1"
+ },
+ "vision": {
+  "id": "S04_BST_82",
+  "name": "Saiyan Fierce Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +3 stages.\nHIT: Raise your anger 1 level. If you advance a personality level with this card and your MP is 2 or more levels higher than your opponent's MP, banish your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "SAIYAN FIERCE KICK () U82\nNe.",
+  "stages_text": ",\n7\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_74",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "74_Mr. Popo - Guide.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/74_Mr. Popo - Guide.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Mr. Popo - Guide",
+  "file_name": "Mr. Popo",
+  "file_subtitle": "Guide",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "efa9e3ec34c649f257dcc422a31d08d676fc582d"
+ },
+ "vision": {
+  "id": "S05_BST_74",
+  "name": "Mr. Popo",
+  "sub": "Guide",
+  "type": "Ally",
+  "num": "U74",
+  "lvl": 1,
+  "stages": [
+   1030,
+   930,
+   830,
+   730,
+   630,
+   530,
+   430,
+   330,
+   230,
+   130,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Each combat, the first Rejuvenation effect for both players is optional. Whenever a player Rejuvenates, that player's opponent may draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'",
+  "_src": "S05.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "LMR. Popo\nLEVEL GUIDE () U74",
+  "stages_text": "1030\n\n930\n830\n\n730\n630\n530\n\n430\n330\n230\n\n130\n0",
+  "error": null
+ }
+}

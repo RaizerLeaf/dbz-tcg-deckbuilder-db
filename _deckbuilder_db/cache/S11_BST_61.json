@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_61",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "61_Vegeta - Relentless.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/61_Vegeta - Relentless.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Vegeta - Relentless",
+  "file_name": "Vegeta",
+  "file_subtitle": "Relentless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b65dc27c620775580bf1565f318ee4c1d8e2aad2"
+ },
+ "vision": {
+  "id": "S11_BST_61",
+  "name": "Vegeta",
+  "sub": "Relentless",
+  "type": "Main Personality",
+  "num": "S61",
+  "lvl": 3,
+  "stages": [
+   2700000,
+   2100000,
+   1500000,
+   1000000,
+   600000,
+   300000,
+   90000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +2 stages of damage. After you gain anger, you may banish a card from each player's discard pile.\nPOWER: Draw the bottom card of your discard pile. Destroy a Setup, Drill, or Ally. If there are no non-Styled cards in your discard pile, destroy a Setup, Drill, or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.4,
+  "header_text": "=3 VEGETA\nLEVEL RELENTLESS () $61\n, Te, o>",
+  "stages_text": "2,700,000\n2,100,000\n1,500,000\n1,000,000\n\n600,000\n\n300,000\n\n90,000\n\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

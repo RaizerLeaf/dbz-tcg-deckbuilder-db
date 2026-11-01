@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_95",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "95_Red Double Blast.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/95_Red Double Blast.jpg",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Red Double Blast",
+  "file_name": "Red Double Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1b44a210d1986ead894b9107b310f25016b5e277"
+ },
+ "vision": {
+  "id": "S06_BST_95",
+  "name": "Red Double Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nChoose a card in your opponent's discard pile and banish it.\nDAMAGE: 3 stages.\nHIT: This attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 77.4,
+  "header_text": "RED DOUBLE BLAST () U95\nln > ¢",
+  "stages_text": "4\n1\n,\n,",
+  "error": null
+ }
+}

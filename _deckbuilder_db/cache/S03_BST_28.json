@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_28",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "28_Namekian Mouth Beam (CRD).png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/28_Namekian Mouth Beam (CRD).png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Namekian Mouth Beam",
+  "file_name": "Namekian Mouth Beam",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "632576d62b5e18c1e7a05fb249a24e1487e8070a"
+ },
+ "vision": {
+  "id": "S03_BST_28",
+  "name": "Namekian Mouth Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Choose a Styled block in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "filename flag (CRD); no stamp visible on the sheet crop",
+  "_src": "S03.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "NAMEKIAN MOUTH: BEAM () cee\n- e~ Ul",
+  "stages_text": "24\n4\n1,",
+  "error": null
+ }
+}

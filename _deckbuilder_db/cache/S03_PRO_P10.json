@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P10",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P10_Black Power Up.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P10_Black Power Up.jpg",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Black Power Up",
+  "file_name": "Black Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "cf42c0b0076b3f3aef16b2e747092a53499ca8a5"
+ },
+ "vision": {
+  "id": "S03_PRO_P10",
+  "name": "Black Power Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise a personality to its highest power stage. You may end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S31; text compared on the sheet, identical",
+  "_src": "S03.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "(BLACK POWER UP. (=\n,F06UmtCt a Fh CC ellPFor",
+  "stages_text": "0",
+  "error": null
+ }
+}

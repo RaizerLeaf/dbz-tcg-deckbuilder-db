@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_83",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "83_Namekian Patient Block.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/83_Namekian Patient Block.jpg",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Namekian Patient Block",
+  "file_name": "Namekian Patient Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7bb1d54c7b432f70c360aa400681615368dcba4c"
+ },
+ "vision": {
+  "id": "S02_BST_83",
+  "name": "Namekian Patient Block",
+  "sub": null,
+  "type": "Event",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops an energy attack. You may return a Dragon Ball you control to its owner's hand. If you do, your next attack this combat gains \"HIT: Use a critical damage effect.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "NAMEKIAN PATIENT. BLOCK () USS",
+  "stages_text": "",
+  "error": null
+ }
+}

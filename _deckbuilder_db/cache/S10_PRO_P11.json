@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P11",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P11_Videl - Learning the Moves.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P11_Videl - Learning the Moves.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Videl - Learning the Moves",
+  "file_name": "Videl",
+  "file_subtitle": "Learning the Moves",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "664cfa4e400e596b28ee3b12271297566237b3d3"
+ },
+ "vision": {
+  "id": "S10_PRO_P11",
+  "name": "Videl",
+  "sub": "Learning the Moves",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 3,
+  "stages": [
+   300,
+   250,
+   220,
+   200,
+   180,
+   150,
+   140,
+   120,
+   100,
+   50,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your AT is considered to be 4 for your attacks.\nPOWER: [Attack] Physical attack.\nPlace a Setup and Drill in play on top of their owner's Life Decks or use a critical damage effect and this attack is considered to deal critical damage.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same as S10 S92",
+  "_src": "S10.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "VIDEL )\n; 3 LEARNING THE MOVES y mi\nLEVEL fe = re ———\na Be ae QnnNn",
+  "stages_text": "5 300\n250\n8 220\n200\n180\n\n0\n1 150\n140\n120\n100\n50\n0",
+  "error": null
+ }
+}

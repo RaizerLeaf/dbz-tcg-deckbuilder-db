@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S138",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S138_Red Energy Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S138_Red Energy Blast.png",
+  "prefix": "S",
+  "number": 138,
+  "card_number": "S138",
+  "name_part": "Red Energy Blast",
+  "file_name": "Red Energy Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f6af5f389b43ef7519e6e0f7af13f8bc36384cf5"
+ },
+ "vision": {
+  "id": "S04_STR_S138",
+  "name": "Red Energy Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Banish a Drill or Ally.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S60",
+  "_src": "S04.jsonl:291"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "RED ENERGY BLAST @® sis8\n_~a —",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

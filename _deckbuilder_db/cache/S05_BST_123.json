@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_123",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "123_Blue Toss.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/123_Blue Toss.png",
+  "prefix": null,
+  "number": 123,
+  "card_number": "123",
+  "name_part": "Blue Toss",
+  "file_name": "Blue Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1dec78d8940ac33b617640773a529c48ae275695"
+ },
+ "vision": {
+  "id": "S05_BST_123",
+  "name": "Blue Toss",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour next attack this combat has its power stage cost reduced to 0.\nDAMAGE: AT +4 stages.\nHIT: Choose an Ally in play and place it at the bottom of its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "BLUE TOSS >) R123\n~j \\ RO nN a oN @",
+  "stages_text": "",
+  "error": null
+ }
+}

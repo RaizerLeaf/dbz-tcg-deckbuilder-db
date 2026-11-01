@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_140",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "140_Cooler's Supernova.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/140_Cooler's Supernova.jpg",
+  "prefix": null,
+  "number": 140,
+  "card_number": "140",
+  "name_part": "Cooler's Supernova",
+  "file_name": "Cooler's Supernova",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c24205a7dbe41a00db7e21765bd99094f85109fe"
+ },
+ "vision": {
+  "id": "S06_BST_140",
+  "name": "Cooler's Supernova",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is in your discard pile, you may Rejuvenate it when entering combat to destroy a Setup or Drill.)\n[Attack] Energy attack costing 3 stages.\nDamage from this attack cannot be prevented. Raise your anger 2 levels.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "COOLER'S SUPERNOVA (@) R140.\n————~—~—~—”:C",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

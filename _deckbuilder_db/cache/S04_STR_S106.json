@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S106",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S106_Orange Empowered Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S106_Orange Empowered Drill.png",
+  "prefix": "S",
+  "number": 106,
+  "card_number": "S106",
+  "name_part": "Orange Empowered Drill",
+  "file_name": "Orange Empowered Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "86188d1fb848297feee91a83276ebf482ab165bb"
+ },
+ "vision": {
+  "id": "S04_STR_S106",
+  "name": "Orange Empowered Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your MP's PUR is +1. At the beginning of your turn, banish the bottom 3 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U90; landscape layout",
+  "_src": "S04.jsonl:259"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 75.6,
+  "header_text": "baal hia: ' 86\n4 le > : = 3 S|\n> \\ | a\nBe) » x",
+  "stages_text": null,
+  "error": null
+ }
+}

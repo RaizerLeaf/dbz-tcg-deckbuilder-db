@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR14",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR14_Cell - Unstoppable.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR14_Cell - Unstoppable.png",
+  "prefix": "DR",
+  "number": 14,
+  "card_number": "DR14",
+  "name_part": "Cell - Unstoppable",
+  "file_name": "Cell",
+  "file_subtitle": "Unstoppable",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a3058e8aeb040286badfde23946705a2f2ad7a66"
+ },
+ "vision": {
+  "id": "S07_DR_DR14",
+  "name": "Cell",
+  "sub": "Unstoppable",
+  "type": "Main Personality",
+  "num": "DR14",
+  "lvl": 4,
+  "stages": [
+   2500000,
+   2000000,
+   1500000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "(This card's non-[Instant] power may only be used once per game.)\n[Instant] POWER: Use when entering combat. Search your Life Deck for a Styled card and place it into your hand.\nPOWER: You may lower your MP 1 level to lower your opponent's MP 1 level.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads VILLAIN; low-res image; prints '(Most Recent Printing)'. Adds the once-per-game clause vs S05 DR4",
+  "_src": "S07.jsonl:160"
+ },
+ "ocr": {
+  "agreement": 0.86,
+  "lower_conf": 67.8,
+  "header_text": "-E Cin\ngg UNSTOPPABLE py\n-_ ea, ~ ty",
+  "stages_text": "2,500,000\n2,000,000\n1,500,000\n1,000,000\n500,000\n400,000\n300,000\n200,000\n100,000\n50,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_58",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "58_Kami - Fighting Spirit.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/58_Kami - Fighting Spirit.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Kami - Fighting Spirit",
+  "file_name": "Kami",
+  "file_subtitle": "Fighting Spirit",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "333b1a91ba354335e439d6ca762c9ad6afc1bf3d"
+ },
+ "vision": {
+  "id": "S09_BST_58",
+  "name": "Kami",
+  "sub": "Fighting Spirit",
+  "type": "Main Personality",
+  "num": "S58",
+  "lvl": 3,
+  "stages": [
+   1050,
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "(When you advance to this level, you may shuffle a Dragon Ball in play back into its owner's Life Deck. Search your Banished Zone for an Earth Dragon Ball and place it into play.)\n[Continuous]: While you control 3 or more Earth Dragon Balls, your opponent's attacks deal -3 stages of damage and your energy attacks deal +3 life cards of damage.\nPOWER: Raise your anger 1 level. You may banish an Earth Dragon Ball you control. If you do, search your Banished Zone for a Dragon Ball or Styled Drill and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S09.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 0.937,
+  "lower_conf": 82.4,
+  "header_text": "KAMI",
+  "stages_text": "1,050\n\n1,000\n\n900\n\n800\n\n700\n600\n500\n400\n\n300\n\n200\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_124",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "124_Saiyan Overpowering Aura Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/124_Saiyan Overpowering Aura Drill.jpg",
+  "prefix": null,
+  "number": 124,
+  "card_number": "124",
+  "name_part": "Saiyan Overpowering Aura Drill",
+  "file_name": "Saiyan Overpowering Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "2cbc02179cd0a7fc6651315cc0e56e642e713494"
+ },
+ "vision": {
+  "id": "S06_BST_124",
+  "name": "Saiyan Overpowering Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(When this Drill enters play, search your Life Deck or discard pile for a card that can attach to your MP and place it into play attached.)\n[Continuous]: Whenever you Rejuvenate during combat, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 81.0,
+  "header_text": "ATYAN OVERPOWERING AURA DRILL () R124\n5 EO __— EEE So EE",
+  "stages_text": null,
+  "error": null
+ }
+}

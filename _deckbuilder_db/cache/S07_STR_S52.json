@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S52",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S52_Blue Cover UP.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S52_Blue Cover UP.png",
+  "prefix": "S",
+  "number": 52,
+  "card_number": "S52",
+  "name_part": "Blue Cover UP",
+  "file_name": "Blue Cover UP",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4b5314fe51ccbedb67c861d112283b5fb1cd107a"
+ },
+ "vision": {
+  "id": "S07_STR_S52",
+  "name": "Blue Cover Up",
+  "sub": null,
+  "type": "Event",
+  "num": "S52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat. Your attacks deal +2 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_24; text compared on the sheet",
+  "_src": "S07.jsonl:235"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "BLUE COVER UP ) $62\nSs llrl OOO T,C~«~S",
+  "stages_text": "6\n,",
+  "error": null
+ }
+}

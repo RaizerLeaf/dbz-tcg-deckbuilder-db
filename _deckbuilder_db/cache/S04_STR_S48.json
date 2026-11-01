@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S48",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S48_Black Hair Trap.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S48_Black Hair Trap.png",
+  "prefix": "S",
+  "number": 48,
+  "card_number": "S48",
+  "name_part": "Black Hair Trap",
+  "file_name": "Black Hair Trap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cbafeca66849fa56fe0481eb5c932deacb1e343a"
+ },
+ "vision": {
+  "id": "S04_STR_S48",
+  "name": "Black Hair Trap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 3 +X stages. X = the number of different card types in your opponent's Banished Zone.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 C22",
+  "_src": "S04.jsonl:201"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "BLACK HAIR TRAP () $48\nlf Ww f/f -~ * Dieamdéanit we 4 Oe",
+  "stages_text": ",",
+  "error": null
+ }
+}

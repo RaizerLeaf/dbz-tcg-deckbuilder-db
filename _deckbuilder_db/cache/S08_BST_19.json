@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_19",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "19_Orange Bicycle Kick.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/19_Orange Bicycle Kick.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Bicycle Kick",
+  "file_name": "Orange Bicycle Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "995445dec4dab25d29dc6823fd67ff16bb4a49a6"
+ },
+ "vision": {
+  "id": "S08_BST_19",
+  "name": "Orange Bicycle Kick",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower a player's anger 2 levels. Rejuvenate up to 3 Drills you control. Search your Life Deck for X [Continuous] Styled Drills and place them into play. X = the number of Drills you Rejuvenated.\nDAMAGE: AT +5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": "printed card type ENERGY COMBAT but the text is a Physical attack. Check the CRD",
+  "note": null,
+  "_src": "S08.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.6,
+  "header_text": "ORANGE BICYCLE KICK )R19.",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

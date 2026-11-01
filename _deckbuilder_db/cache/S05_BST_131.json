@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_131",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "131_Orange Right Beam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/131_Orange Right Beam.png",
+  "prefix": null,
+  "number": 131,
+  "card_number": "131",
+  "name_part": "Orange Right Beam",
+  "file_name": "Orange Right Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7038ddbe97bba73f8b77615cd1f9665a0540b162"
+ },
+ "vision": {
+  "id": "S05_BST_131",
+  "name": "Orange Right Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is Rejuvenated, lower your opponent's anger 1 level.)\n[Attack] Energy attack costing 3 stages.\nLower your opponent's anger 2 levels. This attack cannot be stopped by a non-Styled card.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "ORANGE RIGHT BEAM ©) R131",
+  "stages_text": "5\n,\n7\n,\n\n1,\n\n,",
+  "error": null
+ }
+}

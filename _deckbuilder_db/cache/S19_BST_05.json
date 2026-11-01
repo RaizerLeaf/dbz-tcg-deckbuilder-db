@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_05",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "05_Black Magma Blast.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/05_Black Magma Blast.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Magma Blast",
+  "file_name": "Black Magma Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dbc05905c0d92856437816efa7eecd19c2a54bff"
+ },
+ "vision": {
+  "id": "S19_BST_05",
+  "name": "Black Magma Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Black Ominous Mastery only.)\n[Attack] 2: Energy attack.\nFocused. Raise your anger 2. [Warning]: You may lower your MP 1 level. If you do, this attack deals +6 life cards.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S19.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.972,
+  "lower_conf": 92.6,
+  "header_text": "BLACK MAGMA BLAST () U5\nPS 7",
+  "stages_text": ",\n,\n6,",
+  "error": null
+ }
+}

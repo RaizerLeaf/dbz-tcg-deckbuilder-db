@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_87",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "87_Blue Tracking Beam.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/87_Blue Tracking Beam.png",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Blue Tracking Beam",
+  "file_name": "Blue Tracking Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b26ecc5c79ec3ddc69e83697d089f31787dee5cf"
+ },
+ "vision": {
+  "id": "S07_BST_87",
+  "name": "Blue Tracking Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nRaise a player's anger 2 levels.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate X. X = the amount of life card damage this attack dealt.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.8,
+  "header_text": "BLUE TRACKING BEAM\n= v7 —",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

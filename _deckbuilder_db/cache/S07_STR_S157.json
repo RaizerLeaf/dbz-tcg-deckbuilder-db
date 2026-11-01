@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S157",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S157_Red Energy Defensive Stance.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S157_Red Energy Defensive Stance.png",
+  "prefix": "S",
+  "number": 157,
+  "card_number": "S157",
+  "name_part": "Red Energy Defensive Stance",
+  "file_name": "Red Energy Defensive Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6cfea1c840318deaf98a1002e21f9bc1cd4b90ed"
+ },
+ "vision": {
+  "id": "S07_STR_S157",
+  "name": "Red Energy Defensive Stance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S157",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S69; text compared on the sheet",
+  "_src": "S07.jsonl:340"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 76.5,
+  "header_text": "RED ENERGY DEFENSIVE STANCE C) S157.\na",
+  "stages_text": "",
+  "error": null
+ }
+}

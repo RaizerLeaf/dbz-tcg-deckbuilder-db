@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S124",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S124_Black Command.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S124_Black Command.png",
+  "prefix": "S",
+  "number": 124,
+  "card_number": "S124",
+  "name_part": "Black Command",
+  "file_name": "Black Command",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bc36692bb27c0cff895f526c09a08f7f43483b97"
+ },
+ "vision": {
+  "id": "S07_STR_S124",
+  "name": "Black Command",
+  "sub": null,
+  "type": "Event",
+  "num": "S124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand, you may banish it to raise your anger 2 levels.)\nPOWER: Banish the top 5 cards of your opponent's discard pile. If less than 5 cards are banished, your opponent destroys the top 3 cards of his or her Life Deck.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S45; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:307"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 86.0,
+  "header_text": "BLACK COMMAND ) $124",
+  "stages_text": "0",
+  "error": null
+ }
+}

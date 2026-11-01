@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P9",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P9_Pikkon - Hero of the West.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P9_Pikkon - Hero of the West.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Pikkon - Hero of the West",
+  "file_name": "Pikkon",
+  "file_subtitle": "Hero of the West",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a08f43844281259b7ef3b161fd6f320749969b9b"
+ },
+ "vision": {
+  "id": "S15_PRO_P9",
+  "name": "Pikkon",
+  "sub": "Hero of the West",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   15000,
+   9000,
+   3000,
+   1500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when an Event is played as an action. Banish the top card of your Life Deck to cancel the effects of that card.\nPOWER: [Attack] Energy attack.\nSearch your discard pile for a card and Rejuvenate it.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple); promo-only Level 1 Pikkon (the booster Pikkon S57 is Level 2); text zoomed",
+  "_src": "S15.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.1,
+  "header_text": "PIKKON Pg\nHERO OF THE WEST",
+  "stages_text": "1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n15,000\n9,000\n\n3,000\n\n1,500\n0",
+  "error": null
+ }
+}

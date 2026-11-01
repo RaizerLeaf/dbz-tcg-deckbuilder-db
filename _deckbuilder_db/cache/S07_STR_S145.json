@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S145",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S145_Black Speedy Dodge.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S145_Black Speedy Dodge.png",
+  "prefix": "S",
+  "number": 145,
+  "card_number": "S145",
+  "name_part": "Black Speedy Dodge",
+  "file_name": "Black Speedy Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c1ecabbd38522e57ce599ff16d438de86c8e2ce6"
+ },
+ "vision": {
+  "id": "S07_STR_S145",
+  "name": "Black Speedy Dodge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S145",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may discard a card from your hand. If you do, your opponent discards a card from his or her hand.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S123; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:328"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "BLACK SPEEDY DODGE > ) $145 |\nf i 4 iT =",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

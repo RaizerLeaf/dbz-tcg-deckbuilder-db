@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_118",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "118_Orange Immense Blast.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/118_Orange Immense Blast.jpg",
+  "prefix": null,
+  "number": 118,
+  "card_number": "118",
+  "name_part": "Orange Immense Blast",
+  "file_name": "Orange Immense Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e9787e38181881735a3f2a417a407d348b54276e"
+ },
+ "vision": {
+  "id": "S06_BST_118",
+  "name": "Orange Immense Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: Discard a card from your hand to use a critical damage effect. If the discarded card was a Drill, you may place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 77.2,
+  "header_text": "ORANGE IMMENSE BLAST ) R118\n~~ WW al-4aa =e",
+  "stages_text": "4",
+  "error": null
+ }
+}

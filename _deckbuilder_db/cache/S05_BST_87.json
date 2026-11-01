@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_87",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "87_Namekian Focused Ball.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/87_Namekian Focused Ball.png",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Namekian Focused Ball",
+  "file_name": "Namekian Focused Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "eca9abe1b573704f317988b20b6d3edf438121d4"
+ },
+ "vision": {
+  "id": "S05_BST_87",
+  "name": "Namekian Focused Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYou may look at the top card of your Life Deck. If you do, you may place it at the bottom of your Life Deck.\nDAMAGE: 2 life cards.\nHIT: Draw the top or bottom card of your Life Deck or discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "NAMEKIAN FOCUSED BALL\nay Se Wi |” “ee",
+  "stages_text": "4\n4\n\n,\n\n,",
+  "error": null
+ }
+}

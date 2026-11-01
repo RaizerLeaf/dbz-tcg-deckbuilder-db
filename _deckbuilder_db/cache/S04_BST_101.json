@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_101",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "101_Black Learning Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/101_Black Learning Drill.png",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Black Learning Drill",
+  "file_name": "Black Learning Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "3f9e0d55b66135871e33faca59ac1a780ae47ba3"
+ },
+ "vision": {
+  "id": "S04_BST_101",
+  "name": "Black Learning Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: When this Drill is entering play, name a Setup or Drill in play not named \"Black Learning Drill\". Cards with that name lose all effects.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.1,
+  "header_text": "ery 8 Loc\nt-~ seh A —_ -\neen, | | 43 4) Eel”\n“RoR | ao E =",
+  "stages_text": null,
+  "error": null
+ }
+}

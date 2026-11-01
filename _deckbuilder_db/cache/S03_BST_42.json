@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_42",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "42_Orange Smash (CRD).png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/42_Orange Smash (CRD).png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Orange Smash",
+  "file_name": "Orange Smash",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9b4f98ceb7c5564a27bd5d58d8d84e6f98200294"
+ },
+ "vision": {
+  "id": "S03_BST_42",
+  "name": "Orange Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. Banish up to 3 of your Drills and return them to play at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.7,
+  "header_text": "ORANGE SMASH oe () cae\nwr",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

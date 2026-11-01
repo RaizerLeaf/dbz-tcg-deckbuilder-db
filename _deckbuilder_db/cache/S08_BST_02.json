@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_02",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "02_Black Absorption Drill.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/02_Black Absorption Drill.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Absorption Drill",
+  "file_name": "Black Absorption Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "93486e2beae7a10a0c047c1802601a816fcf3952"
+ },
+ "vision": {
+  "id": "S08_BST_02",
+  "name": "Black Absorption Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. If this card is destroyed from your Life Deck, choose 2 cards in your opponent's discard pile, banish them and gain 2 stages. If this card is discarded from your hand, Rejuvenate the bottom 2 cards of your discard pile.)\n[Continuous]: Whenever you discard, destroy, or banish cards from your opponent's Life Deck from a non-damage effect, you may place a Styled card from either player's discard pile on top of its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S08.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "BLACK ABSORPTION DRILL a R2 |",
+  "stages_text": null,
+  "error": null
+ }
+}

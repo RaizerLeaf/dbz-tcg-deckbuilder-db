@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_34",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "34_Orange Charging Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/34_Orange Charging Drill.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Orange Charging Drill",
+  "file_name": "Orange Charging Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "45c45b9203461ea6fa5791c9c29bf7a691791287"
+ },
+ "vision": {
+  "id": "S05_BST_34",
+  "name": "Orange Charging Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your other Drills leaves play, lower your opponent's anger 1 level. Whenever this Drill leaves play, your attacks this combat deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "ORANGE CHARGING DRILL C) C34",
+  "stages_text": null,
+  "error": null
+ }
+}

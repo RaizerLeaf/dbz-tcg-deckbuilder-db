@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S32",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S32_Confrontation.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S32_Confrontation.png",
+  "prefix": "S",
+  "number": 32,
+  "card_number": "S32",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9b13152d331c6ac73cc50ff783756758b1c41011"
+ },
+ "vision": {
+  "id": "S04_STR_S32",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "S32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; Set 4 starter reprint of S01 R150",
+  "_src": "S04.jsonl:185"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "CONFRONTATION () $32\n, if Lil. :",
+  "stages_text": ",\n1",
+  "error": null
+ }
+}

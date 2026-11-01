@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S60",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S60_Tenshinhan - Returned.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S60_Tenshinhan - Returned.png",
+  "prefix": "S",
+  "number": 60,
+  "card_number": "S60",
+  "name_part": "Tenshinhan - Returned",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Returned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6a2e107fe1c83e6d2bf99658720c025fdbc57625"
+ },
+ "vision": {
+  "id": "S04_STR_S60",
+  "name": "Tenshinhan",
+  "sub": "Returned",
+  "type": "Ally",
+  "num": "S60",
+  "lvl": 1,
+  "stages": [
+   95000,
+   80000,
+   65000,
+   50000,
+   35000,
+   20000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nDAMAGE: 3 life cards.\nHIT: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Set 4 starter reprint of S01 C9 (Heroes-only clause replaced by printed alignment)",
+  "_src": "S04.jsonl:213"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.7,
+  "header_text": "| TENSHINHAN\nLEVEL RETURNED () S60",
+  "stages_text": "95,000\n80,000\n65,000\n50,000\n35,000\n20,000\n5,000\n4,000\n3,000\n\n2,000\n0",
+  "error": null
+ }
+}

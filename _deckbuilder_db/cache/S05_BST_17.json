@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_17",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "17_Blue Clash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/17_Blue Clash.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Blue Clash",
+  "file_name": "Blue Clash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c77147e642269c160203106b1639eaaa1a488358"
+ },
+ "vision": {
+  "id": "S05_BST_17",
+  "name": "Blue Clash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nDamage from this attack cannot be prevented. If your opponent banished an Ally in his last action this combat, this attack deals +4 life cards of damage.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck or Banished Zone for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "BLUE CLASH\n“ {| —”— lc lan",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

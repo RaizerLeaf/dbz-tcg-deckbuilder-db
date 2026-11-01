@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P20",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P20_Blue Clash.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P20_Blue Clash.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Blue Clash",
+  "file_name": "Blue Clash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "54f49ee3f98e12c2207fce7456c00a684d15141a"
+ },
+ "vision": {
+  "id": "S16_PRO_P20",
+  "name": "Blue Clash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Energy attack.\nUnpreventable. If your opponent banished an Ally in their last action this combat, this attack deals +4 life cards.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck or Banished Zone for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S16.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "BLUE CLASH ) P20.",
+  "stages_text": "4,",
+  "error": null
+ }
+}

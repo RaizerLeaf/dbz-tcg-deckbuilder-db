@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S93",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S93_Namekian Narrow Escape.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S93_Namekian Narrow Escape.png",
+  "prefix": "S",
+  "number": 93,
+  "card_number": "S93",
+  "name_part": "Namekian Narrow Escape",
+  "file_name": "Namekian Narrow Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "24426059037bd8e13936f049347ce6de8f0b6d14"
+ },
+ "vision": {
+  "id": "S04_STR_S93",
+  "name": "Namekian Narrow Escape",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nAll Styled energy attacks cost -1 stage to perform this combat, to a minimum of 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S89",
+  "_src": "S04.jsonl:246"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 78.7,
+  "header_text": "pA NNN ENN gen 5 es a ne 2 Oe i Ve TF\nNAMEKIAN NARROW ESCAPE () $93\n| we Ve pear! 77\" 77 ¢ And |",
+  "stages_text": ",\n4\n,\n1",
+  "error": null
+ }
+}

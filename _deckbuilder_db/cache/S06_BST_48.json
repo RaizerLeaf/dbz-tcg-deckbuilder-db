@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_48",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "48_Red Lasers.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/48_Red Lasers.jpg",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Red Lasers",
+  "file_name": "Red Lasers",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "96ea0cbb53e9a2054da2c6ab2ff63ab9f903b4f3"
+ },
+ "vision": {
+  "id": "S06_BST_48",
+  "name": "Red Lasers",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 4 stages.\nAt the start of your next action this combat, you may search your Life Deck for a Styled energy attack card and discard it.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 80.1,
+  "header_text": "RED LASERS @ us\n~~ °°» »}»",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

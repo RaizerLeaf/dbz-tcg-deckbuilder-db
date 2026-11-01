@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S49",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S49_Blue Round Throw.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S49_Blue Round Throw.png",
+  "prefix": "S",
+  "number": 49,
+  "card_number": "S49",
+  "name_part": "Blue Round Throw",
+  "file_name": "Blue Round Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "33c412c1b2f038566237a27057963331e84e3f73"
+ },
+ "vision": {
+  "id": "S07_STR_S49",
+  "name": "Blue Round Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop an energy attack instead of as an attack.) [Attack] Physical attack. DAMAGE: AT +5 stages. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S75; text compared on the sheet",
+  "_src": "S07.jsonl:232"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 78.3,
+  "header_text": "BLUE ROUND THROW ) $49\n_ Rem ene cermin eee cere ee ee ey re 4. We",
+  "stages_text": ",",
+  "error": null
+ }
+}

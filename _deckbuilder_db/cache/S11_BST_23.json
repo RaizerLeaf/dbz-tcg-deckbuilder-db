@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_23",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "23_Red Dual Punch.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/23_Red Dual Punch.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Dual Punch",
+  "file_name": "Red Dual Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ad003243da2e8aa3475adb0b3e24cbd3c800bd23"
+ },
+ "vision": {
+  "id": "S11_BST_23",
+  "name": "Red Dual Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 1 level. Banish the top card of each player's discard pile.\n[Trait:Namekian]: This attack gains \"HIT: Rejuvenate 3.\" If your anger level is 4 or greater, this attack cannot be stopped.\nDAMAGE: AT + 4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon orange N (Namekian), confirmed by zoom",
+  "_src": "S11.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.915,
+  "lower_conf": 86.8,
+  "header_text": "RED DUAL PUNCH () U23\nA) \\\\\\\\ ly) A",
+  "stages_text": "347\n,\n\n,\n3,",
+  "error": null
+ }
+}

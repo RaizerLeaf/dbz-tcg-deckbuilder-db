@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_34",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "34_Saiyan Leg Catch.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/34_Saiyan Leg Catch.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Saiyan Leg Catch",
+  "file_name": "Saiyan Leg Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b825fbc91fb83a2a408cbf6f2160718154bbde3f"
+ },
+ "vision": {
+  "id": "S13_BST_34",
+  "name": "Saiyan Leg Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, you may banish it to gain 3 stages.)\n[Defense] Stops a physical attack.\nDestroy the top card of a player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.4,
+  "header_text": "SAIYAN LEG CATCH C) C34\nEEO, CS",
+  "stages_text": "5 ,\n,\n\n,\n\n,",
+  "error": null
+ }
+}

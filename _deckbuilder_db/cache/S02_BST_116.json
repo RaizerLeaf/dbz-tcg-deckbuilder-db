@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_116",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "116_Orange Possession Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/116_Orange Possession Drill.jpg",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Orange Possession Drill",
+  "file_name": "Orange Possession Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "35a0de6750e0900524f8e59e6bd15f594643295a"
+ },
+ "vision": {
+  "id": "S02_BST_116",
+  "name": "Orange Possession Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a Styled Drill from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "ORANGE POSSESSION- DRILL () 3116\ni“",
+  "stages_text": "",
+  "error": null
+ }
+}

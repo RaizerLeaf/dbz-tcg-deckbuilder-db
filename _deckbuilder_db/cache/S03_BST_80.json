@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_80",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "80_Black Teamwork.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/80_Black Teamwork.jpg",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Black Teamwork",
+  "file_name": "Black Teamwork",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3284ddfab5fc0434d993792a90954dffbae07869"
+ },
+ "vision": {
+  "id": "S03_BST_80",
+  "name": "Black Teamwork",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 2 life cards. HIT: Your opponent destroys the top X cards of his Life Deck. X = the number of cards with Endurance in his Banished Zone, to a max of 10.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "| BLACK TEAMWORK. () USO\n; , / £a",
+  "stages_text": "2\n\n,\n4\n37",
+  "error": null
+ }
+}

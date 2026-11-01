@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_17",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "17_Namekian Cross Counter.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/17_Namekian Cross Counter.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Namekian Cross Counter",
+  "file_name": "Namekian Cross Counter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "691e37a255757acf10122866e8b78dda6d0e9d75"
+ },
+ "vision": {
+  "id": "S10_BST_17",
+  "name": "Namekian Cross Counter",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nYour next physical attack this combat cannot be stopped by Event cards and deals +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 83.6,
+  "header_text": "NAMEKIAN CROSS COUNTER U17\nNY Nee a",
+  "stages_text": "7\n7,\n\n4 7\n,",
+  "error": null
+ }
+}

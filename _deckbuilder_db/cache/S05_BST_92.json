@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_92",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "92_Orange Clearing Blast.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/92_Orange Clearing Blast.png",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Orange Clearing Blast",
+  "file_name": "Orange Clearing Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b3a999c5805e08d66b7780a2f0c20fdb931ec05b"
+ },
+ "vision": {
+  "id": "S05_BST_92",
+  "name": "Orange Clearing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nDamage from this attack is banished.\nDAMAGE: 5 life cards.\nHIT: Banish all Drills you control. At the end of combat, choose up to 3 Drills from your Banished Zone and place them into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "ORANGE CLEARING BLAST ) u92\n: cenit’ gfe s» Ya |",
+  "stages_text": ", 5\n,\n4 4\n,\n\n,\n\n,",
+  "error": null
+ }
+}

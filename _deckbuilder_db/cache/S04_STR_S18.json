@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S18",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S18_Vegeta - Super Saiyan.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S18_Vegeta - Super Saiyan.png",
+  "prefix": "S",
+  "number": 18,
+  "card_number": "S18",
+  "name_part": "Vegeta - Super Saiyan",
+  "file_name": "Vegeta",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ce41a667d71c652bb4baf28d57922f74a304e682"
+ },
+ "vision": {
+  "id": "S04_STR_S18",
+  "name": "Vegeta",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "S18",
+  "lvl": 3,
+  "stages": [
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: The first time each combat a card effect requires you to discard 1 card from your hand, you may reveal that card instead. Whenever you perform a Styled attack, you may choose for that attack to deal its life card damage as stages of damage instead or vice versa.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO",
+  "_src": "S04.jsonl:171"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.9,
+  "header_text": "VEGETA p\n1 SUPER SAIYAN _» S18 ;",
+  "stages_text": "1,000,000\n900,000\n800,000\n1700,000\n600,000\n1500,000\n400,000\n300,000\n200,000\n100,000\n\n0",
+  "error": null
+ }
+}

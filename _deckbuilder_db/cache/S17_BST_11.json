@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_11",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "11_Namekian Therapeutic Drill.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/11_Namekian Therapeutic Drill.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Namekian Therapeutic Drill",
+  "file_name": "Namekian Therapeutic Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "6f6c0fc59ae91d4794e1ef1cc8400f86992da785"
+ },
+ "vision": {
+  "id": "S17_BST_11",
+  "name": "Namekian Therapeutic Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by an effect, you may place it into play.)\n[Instant] POWER: Use after a Dragon Ball in play is shuffled into your Life Deck by one of your effects. Draw a card. [Trait:God]: Gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; icon is the gold G badge (God, as on S17 BST_01); no Endurance badge",
+  "_src": "S17.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 85.6,
+  "header_text": "AMEKIAN THERAPEUTIC DRILL &) Ul |",
+  "stages_text": null,
+  "error": null
+ }
+}

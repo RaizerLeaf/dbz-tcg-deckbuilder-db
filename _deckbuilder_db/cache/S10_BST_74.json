@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_74",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "74_Kid Trunks - Son of Vegeta.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/74_Kid Trunks - Son of Vegeta.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Kid Trunks - Son of Vegeta",
+  "file_name": "Kid Trunks",
+  "file_subtitle": "Son of Vegeta",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f1c418d3831b4d83b5af14dc0faff8caf165042b"
+ },
+ "vision": {
+  "id": "S10_BST_74",
+  "name": "Kid Trunks",
+  "sub": "Son of Vegeta",
+  "type": "Main Personality",
+  "num": "S74",
+  "lvl": 1,
+  "stages": [
+   115000,
+   80000,
+   60000,
+   30000,
+   15000,
+   7500,
+   4500,
+   3000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when a player skips an action. Gain 4 stages and lower your opponent's anger 1 level.\nPOWER: [Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 3 life cards.\nHIT: Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E + S",
+  "_src": "S10.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.5,
+  "header_text": "KID TRUNKS",
+  "stages_text": "115,000\n80,000\n60,000\n30,000\n15,000\n7,500\n4,500\n3,000\n2,000\n\n, 1,000\n0",
+  "error": null
+ }
+}

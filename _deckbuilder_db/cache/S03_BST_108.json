@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_108",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "108_Blue Takedown.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/108_Blue Takedown.jpg",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Blue Takedown",
+  "file_name": "Blue Takedown",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "66fc903b974c37be8550262cc16675dfc2a74155"
+ },
+ "vision": {
+  "id": "S03_BST_108",
+  "name": "Blue Takedown",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 4 stages. Lower your opponent's anger 1 level. If your opponent's anger was lowered to 0, lower your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "BLUE TAKEDOWN ce () A108",
+  "stages_text": ",",
+  "error": null
+ }
+}

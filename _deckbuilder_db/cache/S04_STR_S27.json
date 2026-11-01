@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S27",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S27_Android 18 - Threatening.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S27_Android 18 - Threatening.png",
+  "prefix": "S",
+  "number": 27,
+  "card_number": "S27",
+  "name_part": "Android 18 - Threatening",
+  "file_name": "Android 18",
+  "file_subtitle": "Threatening",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9de62926f961f76372126bf52b1fb3e346c802f0"
+ },
+ "vision": {
+  "id": "S04_STR_S27",
+  "name": "Android 18",
+  "sub": "Threatening",
+  "type": "Main Personality",
+  "num": "S27",
+  "lvl": 2,
+  "stages": [
+   750000,
+   550000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: While your MP's power level is over 50,000, your opponent's physical attacks cannot have their damage modified. Your attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads VILLAIN",
+  "_src": "S04.jsonl:180"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "y=] ANDROID 18 *\nWat THREATENING 2 S27",
+  "stages_text": "750,000\n550,000\n350,000\n250,000\n150,000\n50,000\n25,000\n10,000\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

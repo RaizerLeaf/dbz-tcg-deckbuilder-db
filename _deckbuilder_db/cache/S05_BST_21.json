@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_21",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "21_Blue Outbreak.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/21_Blue Outbreak.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Blue Outbreak",
+  "file_name": "Blue Outbreak",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d32fd32a365357806ad5ec15eeae0e090c0c588f"
+ },
+ "vision": {
+  "id": "S05_BST_21",
+  "name": "Blue Outbreak",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nYou may look at the top 3 cards of your Life Deck and place them back in any order.\nDAMAGE: 3 life cards +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.5,
+  "header_text": "BLUE OUTBREAK C) C21",
+  "stages_text": ", ,\n,,\n\n, 2\n,\n,",
+  "error": null
+ }
+}

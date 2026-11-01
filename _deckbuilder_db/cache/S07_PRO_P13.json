@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P13",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P13_Quick Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P13_Quick Blast.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Quick Blast",
+  "file_name": "Quick Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5c8887812ca4f48fa0ae9c584f308c9d70d2eed2"
+ },
+ "vision": {
+  "id": "S07_PRO_P13",
+  "name": "Quick Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] Energy attack costing 1 stage.\nAttach to your MP. While attached, [Defense] cards played from the hand are banished after use. While attached at the end of combat, you may shuffle this card into your Life Deck. Destroy this card when your opponent deals critical damage.\nDAMAGE: 4 life cards or 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo reprint of S06 C60 (released printing)",
+  "_src": "S07.jsonl:206"
+ },
+ "ocr": {
+  "agreement": 0.981,
+  "lower_conf": 91.3,
+  "header_text": "QUICK BLAST ) P13",
+  "stages_text": "7\n,\n2,",
+  "error": null
+ }
+}

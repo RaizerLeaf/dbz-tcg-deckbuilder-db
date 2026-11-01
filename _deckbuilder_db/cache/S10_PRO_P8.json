@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P8",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P8_Supreme Kai - Combatant.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P8_Supreme Kai - Combatant.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Supreme Kai - Combatant",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Combatant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e4f492879bd3b85373fb9164c971cd94ad4d4e22"
+ },
+ "vision": {
+  "id": "S10_PRO_P8",
+  "name": "Supreme Kai",
+  "sub": "Combatant",
+  "type": "Main Personality",
+  "num": "P8",
+  "lvl": 4,
+  "stages": [
+   1750000,
+   1550000,
+   1350000,
+   1150000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Look at the top 5 cards of your opponent's Life Deck and put them back in any order.\nPOWER: [Attack] Energy attack. You may shuffle any number of cards from your hand into your Life Deck to draw the same number of cards.\nDAMAGE: 5 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; promo text is run together in one paragraph and reads 'DAMAGE: 5 life card.' (singular, typo)",
+  "_src": "S10.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "(4 Ea a >\nLEVEL |igen (| 4... _>\n —, > nn a smratate",
+  "stages_text": "1,750,000\n1,350,000\n1,150,000\n1,000,000\n800,000\n600,000\n400,000\n100,000\n50,000\n0",
+  "error": null
+ }
+}

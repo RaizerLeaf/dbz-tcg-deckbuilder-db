@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_39",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "39_Tapion's Brave Sword Attack.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/39_Tapion's Brave Sword Attack.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Tapion's Brave Sword Attack",
+  "file_name": "Tapion's Brave Sword Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b216f6808308c3c6f9345656cdc7fa28f8abe56b"
+ },
+ "vision": {
+  "id": "S15_BST_39",
+  "name": "Tapion's Brave Sword Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] 1: Physical attack.\nIf your MP has a lower power level than the defending personality, Remain 1. Rejuvenate 2.\nDAMAGE: 6 life cards.\n(If you use this card a second time this combat, banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '1:'",
+  "_src": "S15.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 87.4,
+  "header_text": "TAPION'S BRAVE SWORD ATTACK @ ) R39\n~~ EW IGA 2",
+  "stages_text": "2 ,\n2,",
+  "error": null
+ }
+}

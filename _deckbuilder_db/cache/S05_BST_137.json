@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_137",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "137_Saiyan Extreme Training.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/137_Saiyan Extreme Training.png",
+  "prefix": null,
+  "number": 137,
+  "card_number": "137",
+  "name_part": "Saiyan Extreme Training",
+  "file_name": "Saiyan Extreme Training",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "720f1d7c24e5f689e59b02706188663b42a8fc83"
+ },
+ "vision": {
+  "id": "S05_BST_137",
+  "name": "Saiyan Extreme Training",
+  "sub": null,
+  "type": "Setup",
+  "num": "R137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\nPOWER: Rejuvenate a Styled card from your discard pile. Attach to your MP. While attached, whenever you would advance a personality level you may lower your anger to 0 instead. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S05.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 84.6,
+  "header_text": "SAIYAN EXTREME TRAINING () R137",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_81",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "81_Saiyan Empowered Slide.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/81_Saiyan Empowered Slide.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Saiyan Empowered Slide",
+  "file_name": "Saiyan Empowered Slide",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "00a5ffc72b34f3f7fbbeba11ef82a5ac255d3292"
+ },
+ "vision": {
+  "id": "S04_BST_81",
+  "name": "Saiyan Empowered Slide",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 1 stage.\nUntil the end of your next turn, while your power level is above 0 your power level is considered to be 1,000,000.\nDAMAGE: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 83.6,
+  "header_text": "SAIYAN EMPOWERED SLIDE () U81\ni, —_ am",
+  "stages_text": ",\n00,",
+  "error": null
+ }
+}

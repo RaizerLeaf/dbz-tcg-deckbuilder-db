@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_04",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "04_Black Pressure Point.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/04_Black Pressure Point.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Pressure Point",
+  "file_name": "Black Pressure Point",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "49ff55e35241fa2ce137a3cb1a2663bf7f50b3cb"
+ },
+ "vision": {
+  "id": "S11_BST_04",
+  "name": "Black Pressure Point",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 1 level. You may discard a card from your hand to lower your opponent's anger 1 level and place a Styled card from your discard pile on top of your Life Deck.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.979,
+  "lower_conf": 90.8,
+  "header_text": "BLACK PRESSURE POINT ) C4 |\na {C22 =n 7” an",
+  "stages_text": "1",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P21",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P21_Black Erasing Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P21_Black Erasing Drill.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Black Erasing Drill",
+  "file_name": "Black Erasing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9811ff735febc8bb0c97c04ec8b177b126bcb3ba"
+ },
+ "vision": {
+  "id": "S13_PRO_P21",
+  "name": "Black Erasing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Continuous]: Whenever you perform a successful energy attack, you may destroy an opponent's Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.8,
+  "header_text": "BLACK ERASING DRILL () P21",
+  "stages_text": null,
+  "error": null
+ }
+}

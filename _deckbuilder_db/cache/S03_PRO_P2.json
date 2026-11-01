@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P2",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P2_Blue Betrayal.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P2_Blue Betrayal.jpg",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Blue Betrayal",
+  "file_name": "Blue Betrayal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "89974ef0855c125d3dc4656941b150c5efce4ae1"
+ },
+ "vision": {
+  "id": "S03_PRO_P2",
+  "name": "Blue Betrayal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. Banish an opponent's Setup, Drill, or Ally in play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 U80; text compared on the sheet, identical",
+  "_src": "S03.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.3,
+  "header_text": "(BLUE BETRAYAL (=\nee ra",
+  "stages_text": "4",
+  "error": null
+ }
+}

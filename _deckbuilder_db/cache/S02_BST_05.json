@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_05",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "05_Raditz - True Saiyan.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/05_Raditz - True Saiyan.jpg",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Raditz - True Saiyan",
+  "file_name": "Raditz",
+  "file_subtitle": "True Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e765feef09894dcb5e71211f526879d1183523d0"
+ },
+ "vision": {
+  "id": "S02_BST_05",
+  "name": "Raditz",
+  "sub": "True Saiyan",
+  "type": "Main Personality",
+  "num": "C5",
+  "lvl": 1,
+  "stages": [
+   8700,
+   7800,
+   6900,
+   6000,
+   5100,
+   4200,
+   3300,
+   2400,
+   1500,
+   600,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: 1 life card. Reveal the top 2 cards of your Life Deck. Place 1 into your hand and banish the other. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "| L papitz €) cs\nLEVEL joe RR ens",
+  "stages_text": "8,700\n\n7,800\n\n6,900\n\n6,000\n\n5,100\n4,200\n3,300\n2,400\n\n1,500\n\n600\n\n0",
+  "error": null
+ }
+}

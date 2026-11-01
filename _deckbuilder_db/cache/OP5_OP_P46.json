@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P46",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P46_Red Surgical Assault.png",
+  "rel_path": "z_OP Series/OP5/P46_Red Surgical Assault.png",
+  "prefix": "P",
+  "number": 46,
+  "card_number": "P46",
+  "name_part": "Red Surgical Assault",
+  "file_name": "Red Surgical Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9b053f1f9df713d284ad0e4d42692d28539c5e10"
+ },
+ "vision": {
+  "id": "OP5_OP_P46",
+  "name": "Red Surgical Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Red Relentless Mastery only. If this card is banished from your Life Deck, Rejuvenate it.)\n[Attack] Physical attack.\nYou may search your Life Deck for a Styled [Defense] card and banish it.\nDAMAGE: 4 life cards.\n(Created by Frank DeLuca, OP4 North Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); deck restriction names a specific Mastery; the shield icon is the Defense icon",
+  "_src": "OP.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 91.3,
+  "header_text": "RED SURGICAL ASSAULT () P46\nNene, | ||) nn ae",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

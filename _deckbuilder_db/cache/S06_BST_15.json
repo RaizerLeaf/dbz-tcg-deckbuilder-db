@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_15",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "15_Blue Seizing Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/15_Blue Seizing Drill.jpg",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Blue Seizing Drill",
+  "file_name": "Blue Seizing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "3d566206c1195a5711d430b178a093c5c60fd2aa"
+ },
+ "vision": {
+  "id": "S06_BST_15",
+  "name": "Blue Seizing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: The Endurance on non-Styled cards cannot be used.\n[Instant] POWER: Use after you perform a successful Styled attack. Banish a Setup you control to search your discard pile for a Styled Setup and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "BLUE SEIZING DRILL () C15",
+  "stages_text": null,
+  "error": null
+ }
+}

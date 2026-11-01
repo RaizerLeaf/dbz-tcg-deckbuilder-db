@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_55",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "55_Future Mai - Loyal Partner.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/55_Future Mai - Loyal Partner.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Future Mai - Loyal Partner",
+  "file_name": "Future Mai",
+  "file_subtitle": "Loyal Partner",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ec4108c9cc33eb9a3e269ddc00c3958cfdb36537"
+ },
+ "vision": {
+  "id": "S19_BST_55",
+  "name": "Future Mai",
+  "sub": "Loyal Partner",
+  "type": "Ally",
+  "num": "U55",
+  "lvl": 1,
+  "stages": [
+   15,
+   14,
+   13,
+   12,
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Once per game, you may place this card into play from your hand as an action to search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP is Trunks, you may use this Power regardless of your MP's power stage.)\nPOWER: Foresee 2. Gain 2 stages. Search your discard pile for a card with \"attach\" in the text-box and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge E (blue)",
+  "_src": "S19.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "LL FUTURE MAI\nLEVEL LOYAL PARTNER () U55",
+  "stages_text": "15\n\n14\n\n13\n12\n9\n7\n\n6\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_35",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "35_Orange Confidence.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/35_Orange Confidence.jpg",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Orange Confidence",
+  "file_name": "Orange Confidence",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b341752b913081b11042802f32cf16e7d15b649b"
+ },
+ "vision": {
+  "id": "S03_BST_35",
+  "name": "Orange Confidence",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. Raise your anger 1 level. Your AT damage is considered to be 4 for your Styled attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "(ORANGE CONFIDENCE (=",
+  "stages_text": "",
+  "error": null
+ }
+}

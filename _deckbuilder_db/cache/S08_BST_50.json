@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_50",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "50_Pikkon - New Rival.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/50_Pikkon - New Rival.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Pikkon - New Rival",
+  "file_name": "Pikkon",
+  "file_subtitle": "New Rival",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a47be7c181feb5b04d030fb99f32101cf8560d24"
+ },
+ "vision": {
+  "id": "S08_BST_50",
+  "name": "Pikkon",
+  "sub": "New Rival",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   700000,
+   500000,
+   300000,
+   100000,
+   80000,
+   50000,
+   30000,
+   9900,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, Rejuvenate 1 and banish the top card of their Life Deck.\nPOWER: Rejuvenate 3. Your may discard a card from your hand. If you do, your opponent's next attack this combat deals no damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; 'Your may' as printed",
+  "_src": "S08.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "PIKKON",
+  "stages_text": "1,500,000\n1,000,000\n700,000\n500,000\n300,000\n100,000\n80,000\n50,000\n30,000\n9,900\n\n0",
+  "error": null
+ }
+}

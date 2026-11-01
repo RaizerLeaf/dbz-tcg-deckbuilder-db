@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_67",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "67_Blue Hush.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/67_Blue Hush.png",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Blue Hush",
+  "file_name": "Blue Hush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "258c3b6040eaefc39fd05d8aa4aeba62cfc0a29d"
+ },
+ "vision": {
+  "id": "S04_BST_67",
+  "name": "Blue Hush",
+  "sub": null,
+  "type": "Setup",
+  "num": "U67",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant]: Use when entering combat. Attacks can only be stopped by cards played from the hand this combat. Your attacks deal +1 stage of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; lightning icon followed by ':' with no 'POWER' word, as printed",
+  "_src": "S04.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.6,
+  "header_text": "ll Zz =",
+  "stages_text": null,
+  "error": null
+ }
+}

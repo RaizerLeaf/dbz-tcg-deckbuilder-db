@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_10",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "10_Blue Energy Ricochet.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/10_Blue Energy Ricochet.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Energy Ricochet",
+  "file_name": "Blue Energy Ricochet",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5bfed50e08ec906fdaffa7d52efe59e36264bb92"
+ },
+ "vision": {
+  "id": "S11_BST_10",
+  "name": "Blue Energy Ricochet",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nLower your opponent's anger 2 levels. Until the end of the turn, after you use a Setup, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 88.9,
+  "header_text": "BLUE ENERGY RICOCHET a\nee ia | |) |, | ee",
+  "stages_text": ",\n\n,\n2,\n,\n1",
+  "error": null
+ }
+}

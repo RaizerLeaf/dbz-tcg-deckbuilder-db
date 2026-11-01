@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_142",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "142_True Power.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/142_True Power.jpg",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "True Power",
+  "file_name": "True Power",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8e3d4b9ab97ba6ebc9ec8f850a63b6fd279f6d06"
+ },
+ "vision": {
+  "id": "S03_BST_142",
+  "name": "True Power",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if you have not performed an attack this combat. This attack cannot have its damage modified. Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 10 life cards. If stopped, banish your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "; TRUE POWER ces () UALA2\nee | ee ee eee",
+  "stages_text": "4",
+  "error": null
+ }
+}

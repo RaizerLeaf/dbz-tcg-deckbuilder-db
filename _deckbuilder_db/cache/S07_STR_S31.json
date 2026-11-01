@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S31",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S31_Confrontation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S31_Confrontation.png",
+  "prefix": "S",
+  "number": 31,
+  "card_number": "S31",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6f1d9b755f57f05cbb3eeec04db4d9bc9606ac66"
+ },
+ "vision": {
+  "id": "S07_STR_S31",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "S31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into his or her Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_150; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:214"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "CONFRONTATION ) S31\n~~ ost Nl ——_ ae fe",
+  "stages_text": "4\n,\n1",
+  "error": null
+ }
+}

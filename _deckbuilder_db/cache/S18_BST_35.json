@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_35",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "35_Zamasu's Immortal Body.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/35_Zamasu's Immortal Body.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Zamasu's Immortal Body",
+  "file_name": "Zamasu's Immortal Body",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1cc117d18d62a18594c064dd5ae147c1a182bc6"
+ },
+ "vision": {
+  "id": "S18_BST_35",
+  "name": "Zamasu's Immortal Body",
+  "sub": null,
+  "type": "Event",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Defense] POWER: Prevent all damage from an attack.\nPrevent all damage from your opponent's attacks this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S18.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "ZAMASU'S IMMORTAL BODY ©) R35\n5 ee de",
+  "stages_text": ",",
+  "error": null
+ }
+}

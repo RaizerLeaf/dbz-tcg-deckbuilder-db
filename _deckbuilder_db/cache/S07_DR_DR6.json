@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR6",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR6_Vegeta - Experienced.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR6_Vegeta - Experienced.png",
+  "prefix": "DR",
+  "number": 6,
+  "card_number": "DR6",
+  "name_part": "Vegeta - Experienced",
+  "file_name": "Vegeta",
+  "file_subtitle": "Experienced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e283bf6f1de3d14f3a1f4dcd939cbcf1fba9ec3f"
+ },
+ "vision": {
+  "id": "S07_DR_DR6",
+  "name": "Vegeta",
+  "sub": "Experienced",
+  "type": "Main Personality",
+  "num": "DR6",
+  "lvl": 1,
+  "stages": [
+   250000,
+   175000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(Damage from your non-Styled attacks can only be modified by this card's effect.)\n[Continuous]: Your non-Styled attacks deal +2 life cards of damage.\nPOWER: [Attack] Energy attack costing 1 stage.\nBanish a card from your opponent's discard pile.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; 'this card's effect' (PZP P75 says 'effects')",
+  "_src": "S07.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 82.0,
+  "header_text": "VEGETA Pp\n: EXPERIENCED ww DR6 :\nLL nee ig a",
+  "stages_text": "250,000\n175,000\n100,000\n480,000\n60,000\n40,000\n20,000\n10,000",
+  "error": null
+ }
+}

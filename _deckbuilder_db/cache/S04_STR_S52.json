@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S52",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S52_Black Lightning Storm.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S52_Black Lightning Storm.png",
+  "prefix": "S",
+  "number": 52,
+  "card_number": "S52",
+  "name_part": "Black Lightning Storm",
+  "file_name": "Black Lightning Storm",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "38524152c3a118cc354fca7b53b2ef6852de26fb"
+ },
+ "vision": {
+  "id": "S04_STR_S52",
+  "name": "Black Lightning Storm",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Your opponent plays with his hand revealed until the start of your next turn.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S51",
+  "_src": "S04.jsonl:205"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "BLACK LIGHTNING STORM ) $62\n_ .tCS~N”~C~NtCO”SCN",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_88",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "88_Blue Skid.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/88_Blue Skid.jpg",
+  "prefix": null,
+  "number": 88,
+  "card_number": "88",
+  "name_part": "Blue Skid",
+  "file_name": "Blue Skid",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e81e5f38e23c1ecfd95de4efd6438c17adc3f8d0"
+ },
+ "vision": {
+  "id": "S06_BST_88",
+  "name": "Blue Skid",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAt the end of combat, you may reveal the bottom card of your Life Deck. If the revealed card is an Ally, you may play it.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "BLUE SKID\na oN 4 4 Nw oe",
+  "stages_text": "4\n347",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_27",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "27_Saiyan Training Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/27_Saiyan Training Drill.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Saiyan Training Drill",
+  "file_name": "Saiyan Training Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "a2e1b5e0e7c733a9f2c148dfd7b77da2bc2dc487"
+ },
+ "vision": {
+  "id": "S18_BST_27",
+  "name": "Saiyan Training Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Saiyan Defiant Mastery only.)\n[Instant] POWER: Use when your Mastery effect would cause you to discard 2 cards from your hand. Banish this card instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; deck restriction names a specific Mastery",
+  "_src": "S18.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 86.6,
+  "header_text": "| SAIYAN TRAINING DRILL €) U27",
+  "stages_text": null,
+  "error": null
+ }
+}

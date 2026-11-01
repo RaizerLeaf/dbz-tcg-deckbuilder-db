@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P22",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P22_Red Controlled Anger Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P22_Red Controlled Anger Drill.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Red Controlled Anger Drill",
+  "file_name": "Red Controlled Anger Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "42091c160f3b6d02dd5a35e676b32230f354dee4"
+ },
+ "vision": {
+  "id": "S12_PRO_P22",
+  "name": "Red Controlled Anger Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(When this Drill leaves play, raise your anger 1 level.)\nPOWER: Rejuvenate X. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S12.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 66.5,
+  "header_text": ":D CONTROLLED ANGER pri. @) P22\nSn eee a",
+  "stages_text": null,
+  "error": null
+ }
+}

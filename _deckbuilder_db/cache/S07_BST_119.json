@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_119",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "119_Orange Collision.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/119_Orange Collision.png",
+  "prefix": null,
+  "number": 119,
+  "card_number": "119",
+  "name_part": "Orange Collision",
+  "file_name": "Orange Collision",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d5b07e61454d4114b0523623aefd849a8023f6e"
+ },
+ "vision": {
+  "id": "S07_BST_119",
+  "name": "Orange Collision",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +4 stages.\nHIT: Search your discard pile for a Styled Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 81.4,
+  "header_text": "ORANGE COLLISION ) R119.",
+  "stages_text": "",
+  "error": null
+ }
+}

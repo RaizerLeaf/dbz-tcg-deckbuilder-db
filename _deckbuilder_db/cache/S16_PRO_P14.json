@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P14",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P14_Krillin - Victorious copy.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P14_Krillin - Victorious copy.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Krillin - Victorious copy",
+  "file_name": "Krillin",
+  "file_subtitle": "Victorious copy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8bddd926f15b11d15e10388be53ba15949fc9eae"
+ },
+ "vision": {
+  "id": "S16_PRO_P14",
+  "name": "Krillin",
+  "sub": "Victorious",
+  "type": "Main Personality",
+  "num": "P14",
+  "lvl": 4,
+  "stages": [
+   1000100,
+   1000000,
+   800000,
+   600000,
+   400000,
+   100000,
+   70000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1 and banish the top card of your opponent's Life Deck.\nPOWER: [Attack] 2: Energy attack.\nYou may use this attack a second time this combat.\nDAMAGE: 5 life cards.\nHIT: Search your Life Deck or discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; filename ends in ' copy'; edge reads HERO -> MP; Trait badge E (blue); top stage printed 1,000,100 (zoomed; looks like a printed oddity, kept as printed); stage cost printed as '2:'; text zoomed",
+  "_src": "S16.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 81.1,
+  "header_text": "KRILLIN",
+  "stages_text": "1,000,100\n1,000,000\n800,000\n600,000\n400,000\n100,000\n70,000\n30,000\n20,000\n310,000\n0",
+  "error": null
+ }
+}

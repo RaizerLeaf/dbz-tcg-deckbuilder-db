@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_129",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "129_Saiyan Body Blow.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/129_Saiyan Body Blow.jpg",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Saiyan Body Blow",
+  "file_name": "Saiyan Body Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d7a9051b7d0c31f2edcad16f8e42ae53a37d2ce9"
+ },
+ "vision": {
+  "id": "S02_BST_129",
+  "name": "Saiyan Body Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +3 stages. You may search your Life Deck for a card that can attach to your MP and place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "(SAIYAN BODY BLOW. (a\nLN",
+  "stages_text": "0",
+  "error": null
+ }
+}

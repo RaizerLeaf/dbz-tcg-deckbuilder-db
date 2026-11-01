@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_107",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "107_Blue Friendliness.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/107_Blue Friendliness.png",
+  "prefix": null,
+  "number": 107,
+  "card_number": "107",
+  "name_part": "Blue Friendliness",
+  "file_name": "Blue Friendliness",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9a88bff47ba7b4d721177533d8f0041ed8b203dc"
+ },
+ "vision": {
+  "id": "S07_BST_107",
+  "name": "Blue Friendliness",
+  "sub": null,
+  "type": "Setup",
+  "num": "R107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, you may place it into play.)\nPOWER: Draw a card. Your opponent draws a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "BLUE FRIENDLINESS () R107",
+  "stages_text": null,
+  "error": null
+ }
+}

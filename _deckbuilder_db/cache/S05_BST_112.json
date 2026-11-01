@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_112",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "112_Clash of Wills.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/112_Clash of Wills.png",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Clash of Wills",
+  "file_name": "Clash of Wills",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "927a1de6e91bdf679020b1e7b23b20578e584ffb"
+ },
+ "vision": {
+  "id": "S05_BST_112",
+  "name": "Clash of Wills",
+  "sub": null,
+  "type": "Event",
+  "num": "R112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nRaise your opponent's anger 6 levels. Raise your anger 6 levels. Banish the top card of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; no 'POWER:' label printed",
+  "_src": "S05.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.8,
+  "header_text": "CLASH OF WILLS ©) R112",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

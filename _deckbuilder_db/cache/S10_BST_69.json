@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_69",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "69_Android 18 - Runner Up.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/69_Android 18 - Runner Up.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Android 18 - Runner Up",
+  "file_name": "Android 18",
+  "file_subtitle": "Runner Up",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9890cf256e0f1c140f5567a8cf95dd13c8f0dfe9"
+ },
+ "vision": {
+  "id": "S10_BST_69",
+  "name": "Android 18",
+  "sub": "Runner Up",
+  "type": "Main Personality",
+  "num": "S69",
+  "lvl": 4,
+  "stages": [
+   2000000,
+   1900000,
+   1700000,
+   1500000,
+   1200000,
+   800000,
+   500000,
+   200000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Your attacks with \"Android\" in the title are considered Styled. When you reach this level, search your discard pile and/or Banished Zone for 2 Styled cards and/or cards with \"Android\" in the title and Rejuvenate them.)\n[Continuous]: Your Styled attacks cost -2 stages (to a minimum of 0) and deal +2 life cards of damage.\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a card with \"Android\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E + R",
+  "_src": "S10.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 83.7,
+  "header_text": "Zi. ANDROID 18\nLEVEL RUNNER UP () S69\nCa” EES",
+  "stages_text": "2,000,000\n1,900,000\n1,700,000\n\n1,500,000\n1,200,000\n800,000\n500,000\n\n200,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

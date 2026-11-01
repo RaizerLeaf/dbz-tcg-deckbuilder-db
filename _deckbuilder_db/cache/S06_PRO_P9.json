@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P9",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P9_Namekian Combat Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P9_Namekian Combat Drill.jpg",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Namekian Combat Drill",
+  "file_name": "Namekian Combat Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "dde01ca78cc266e8b9901260aa0f6b8256a623a9"
+ },
+ "vision": {
+  "id": "S06_PRO_P9",
+  "name": "Namekian Combat Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: After taking damage from an attack, your MP gains X stages. X = the number of life cards that attack dealt.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; promo reprint of S01 S39",
+  "_src": "S06.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "~NAMEKIAN COMBAT DRILL © |",
+  "stages_text": null,
+  "error": null
+ }
+}

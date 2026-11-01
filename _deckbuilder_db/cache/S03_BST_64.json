@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_64",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "64_Dr. Wheelo - Robotic.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/64_Dr. Wheelo - Robotic.jpg",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Dr. Wheelo - Robotic",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Robotic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e98860caff2f2c82b17834317b89fd6b13f6ec94"
+ },
+ "vision": {
+  "id": "S03_BST_64",
+  "name": "Dr. Wheelo",
+  "sub": "Robotic",
+  "type": "Main Personality",
+  "num": "U64",
+  "lvl": 4,
+  "stages": [
+   2600,
+   2400,
+   2200,
+   2000,
+   1800,
+   1600,
+   1400,
+   1200,
+   1000,
+   500,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your effects destroys cards from the top of your opponent's Life Deck, increase that amount by 2 and Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "[4 DR. WHEELO (=\nLEVEL _",
+  "stages_text": "2,600\n\n2,400\n\n2,200\n\n2,000\n1,800\n1,600\n1,400\n1,200\n\n1,000\n\n, 500\n0",
+  "error": null
+ }
+}

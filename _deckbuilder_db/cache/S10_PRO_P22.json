@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P22",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P22_Red Relaxation.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P22_Red Relaxation.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Red Relaxation",
+  "file_name": "Red Relaxation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9eaeb567d6e78ea0a7f20a4292a72be1439c11b0"
+ },
+ "vision": {
+  "id": "S10_PRO_P22",
+  "name": "Red Relaxation",
+  "sub": null,
+  "type": "Setup",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat.\nUse a critical damage effect. Your MP gains 2 stages. Draw the bottom card of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; reprint of S03 R118",
+  "_src": "S10.jsonl:122"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "RED RELAXATION () P22",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_09",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "09_Blue Combined Effort.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/09_Blue Combined Effort.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Combined Effort",
+  "file_name": "Blue Combined Effort",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fd80563ff2b5ebf184165e8fbdfa4c8ca4d2ec0f"
+ },
+ "vision": {
+  "id": "S11_BST_09",
+  "name": "Blue Combined Effort",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This attack's cost must be paid by an Ally you control, regardless of your MP's power stage.)\n[Attack] Energy attack costing 4 stages.\nDamage from this attack cannot be modified.\nDAMAGE: 10 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U9'",
+  "_src": "S11.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.3,
+  "header_text": "BLUE COMBINED EFFORT",
+  "stages_text": "2\n7\n,\n7",
+  "error": null
+ }
+}

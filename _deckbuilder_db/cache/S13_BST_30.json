@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_30",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "30_Red Lightning Cutter.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/30_Red Lightning Cutter.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Red Lightning Cutter",
+  "file_name": "Red Lightning Cutter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "135d1250a9c3a5a1d610772240fc5ed06d08643b"
+ },
+ "vision": {
+  "id": "S13_BST_30",
+  "name": "Red Lightning Cutter",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack.\nRaise your anger 1 level.\nDAMAGE: 1 life card.\nHIT: You may lower your anger 1 level to destroy all of your opponent's Setups or all of their attached cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 89.8,
+  "header_text": "RED LIGHTNING CUTTER () R30\nBW -",
+  "stages_text": "",
+  "error": null
+ }
+}

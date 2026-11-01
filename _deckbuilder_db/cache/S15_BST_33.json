@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_33",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "33_Malefic Energy Shield.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/33_Malefic Energy Shield.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Malefic Energy Shield",
+  "file_name": "Malefic Energy Shield",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4e14438bd9d73523fa9e2599cca56b385bd72c6e"
+ },
+ "vision": {
+  "id": "S15_BST_33",
+  "name": "Malefic Energy Shield",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Villains only.)\n[Defense] Stops an energy attack.\nYou may banish a card from your hand to search your discard pile for a Styled [Defense] card that can stop an energy attack and place it into your hand. Destroy the top card of your opponent's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card",
+  "_src": "S15.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 84.6,
+  "header_text": "MALEFIC ENERGY SHIELD =) UR33\nrll _—/ =—l a of",
+  "stages_text": "4\n6\n,",
+  "error": null
+ }
+}

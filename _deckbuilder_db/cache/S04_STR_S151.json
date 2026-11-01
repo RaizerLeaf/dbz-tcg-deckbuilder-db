@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S151",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S151_Red Right Cross.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S151_Red Right Cross.png",
+  "prefix": "S",
+  "number": 151,
+  "card_number": "S151",
+  "name_part": "Red Right Cross",
+  "file_name": "Red Right Cross",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9307c72c4d26d8687218561a0a21de28fb81bcef"
+ },
+ "vision": {
+  "id": "S04_STR_S151",
+  "name": "Red Right Cross",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S151",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 4 stages.\nRaise your anger 2 levels.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S139",
+  "_src": "S04.jsonl:304"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 80.3,
+  "header_text": "RED RIGHT CROSS @ 3151\nCO a ee",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

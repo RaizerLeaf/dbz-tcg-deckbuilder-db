@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P29",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P29_Torturous Volley.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P29_Torturous Volley.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Torturous Volley",
+  "file_name": "Torturous Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f76b9ebc438c50a0616a5731b6619929beff89c2"
+ },
+ "vision": {
+  "id": "S12_PRO_P29",
+  "name": "Torturous Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nChoose a card in your discard pile and Rejuvenate it.\n[Trait:Alien]: If you have 2 or less Traits, Remain 1.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-Styled) card; inline icon zoomed: purple Alien badge; stage cost printed as '2:' rather than 'costing 2 stages'; no Endurance badge",
+  "_src": "S12.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.903,
+  "lower_conf": 83.0,
+  "header_text": "TORTUROUS VOLLEY ; ) P29 |\n=_—_~ ep",
+  "stages_text": "3\n,\n1,",
+  "error": null
+ }
+}

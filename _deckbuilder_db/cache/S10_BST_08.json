@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_08",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "08_Blue Sword Stance.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/08_Blue Sword Stance.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Sword Stance",
+  "file_name": "Blue Sword Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9c471a5bb8ead93ba59aa63b97390ddd5f521462"
+ },
+ "vision": {
+  "id": "S10_BST_08",
+  "name": "Blue Sword Stance",
+  "sub": null,
+  "type": "Setup",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: [Attack] Physical attack.\nDAMAGE: 3 life cards or 3 stages.\nHIT: Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; number area reads 'PREVIEW C8'",
+  "_src": "S10.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 68.3,
+  "header_text": "BLUE SWORD STANCE Our",
+  "stages_text": null,
+  "error": null
+ }
+}

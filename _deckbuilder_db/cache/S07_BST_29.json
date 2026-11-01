@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_29",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "29_Namekian Clamp.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/29_Namekian Clamp.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Namekian Clamp",
+  "file_name": "Namekian Clamp",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "25b5d043ec4f6a58e30953eeb4b7b601e5037a30"
+ },
+ "vision": {
+  "id": "S07_BST_29",
+  "name": "Namekian Clamp",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops a physical attack.\nShuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 67.0,
+  "header_text": "NAMEKIAN CLAMP C) C25",
+  "stages_text": "1\n7",
+  "error": null
+ }
+}

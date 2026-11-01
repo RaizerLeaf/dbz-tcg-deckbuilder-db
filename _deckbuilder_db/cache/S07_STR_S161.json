@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S161",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S161_Red Intimidation Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S161_Red Intimidation Drill.png",
+  "prefix": "S",
+  "number": 161,
+  "card_number": "S161",
+  "name_part": "Red Intimidation Drill",
+  "file_name": "Red Intimidation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1ef8811f2f2e3f8aeb735385c859cabeba6923fb"
+ },
+ "vision": {
+  "id": "S07_STR_S161",
+  "name": "Red Intimidation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S161",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Once per turn when you deal critical damage, you may draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S102; text compared on the sheet",
+  "_src": "S07.jsonl:344"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.0,
+  "header_text": "RED INTIMIDATION DRILL C) $161\naes ee",
+  "stages_text": null,
+  "error": null
+ }
+}

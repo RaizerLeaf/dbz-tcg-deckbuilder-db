@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P3",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P3_Yajirobe - Opportunist.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P3_Yajirobe - Opportunist.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Yajirobe - Opportunist",
+  "file_name": "Yajirobe",
+  "file_subtitle": "Opportunist",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0f8626999c8fb5842fde3d3e33360ff0a8a24997"
+ },
+ "vision": {
+  "id": "S13_PRO_P3",
+  "name": "Yajirobe",
+  "sub": "Opportunist",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 3,
+  "stages": [
+   1200,
+   1000,
+   500,
+   200,
+   100,
+   70,
+   30,
+   15,
+   7,
+   2,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever you play a card with \"Sword\" in the title, gain 2 stages. Your attacks with \"Sword\" in the title gain \"HIT: Lower your opponent's anger 1 level.\"\nPOWER: Discard a card from your hand to search your Life Deck for a Styled card with \"Sword\" in the title and place it into your hand. If you discarded a card with \"Sword\" in the title, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S13.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.9,
+  "header_text": "YAJTROBE P3\nOPPORTUNIST",
+  "stages_text": "1,200\n\n, 1,000\n500\n\n200\n\n100\n0\n30\n15\n\n7\n\n2\n0",
+  "error": null
+ }
+}

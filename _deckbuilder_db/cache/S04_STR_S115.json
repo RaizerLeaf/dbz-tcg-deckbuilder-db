@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S115",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S115_Orange Extension.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S115_Orange Extension.png",
+  "prefix": "S",
+  "number": 115,
+  "card_number": "S115",
+  "name_part": "Orange Extension",
+  "file_name": "Orange Extension",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "fb16fe1b45d06e532c6788d9010a4f37e5aee657"
+ },
+ "vision": {
+  "id": "S04_STR_S115",
+  "name": "Orange Extension",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you have performed another physical attack from your hand this combat, search your Life Deck for a Styled Drill and play it.\nDAMAGE: AT +2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C38",
+  "_src": "S04.jsonl:268"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "Y Newt:",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

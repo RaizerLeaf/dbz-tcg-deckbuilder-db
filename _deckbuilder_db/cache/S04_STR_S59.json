@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S59",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S59_Black Swipe.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S59_Black Swipe.png",
+  "prefix": "S",
+  "number": 59,
+  "card_number": "S59",
+  "name_part": "Black Swipe",
+  "file_name": "Black Swipe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "edb289ac40dc5bd7233269432f91f3f82a6a6b3e"
+ },
+ "vision": {
+  "id": "S04_STR_S59",
+  "name": "Black Swipe",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nBanish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S64",
+  "_src": "S04.jsonl:212"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 71.0,
+  "header_text": "BLACK SWIPE () $59\nf lh xl\"",
+  "stages_text": ",",
+  "error": null
+ }
+}

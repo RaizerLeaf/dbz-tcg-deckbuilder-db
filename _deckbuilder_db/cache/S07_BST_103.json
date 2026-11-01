@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_103",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "103_Black Flashback.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/103_Black Flashback.png",
+  "prefix": null,
+  "number": 103,
+  "card_number": "103",
+  "name_part": "Black Flashback",
+  "file_name": "Black Flashback",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "925144e6eaff7e7de2822a97734e88cf88c0c70c"
+ },
+ "vision": {
+  "id": "S07_BST_103",
+  "name": "Black Flashback",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLook at your opponent's hand and choose a non-Dragon Ball card in it. Banish that card. At the beginning of your opponent's next action this combat, return that card to its owner's hand from the Banished Zone.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "BLACK FLASHBACK () R103",
+  "stages_text": "7\n,\n3\n,",
+  "error": null
+ }
+}

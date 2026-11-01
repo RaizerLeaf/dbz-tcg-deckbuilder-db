@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P31",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P31_Saiyan Reverse Catch.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P31_Saiyan Reverse Catch.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Saiyan Reverse Catch",
+  "file_name": "Saiyan Reverse Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "07a354f9438f263e4049414552854d95b9eeff78"
+ },
+ "vision": {
+  "id": "S17_PRO_P31",
+  "name": "Saiyan Reverse Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nYour opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 88.7,
+  "header_text": "SAIYAN REVERSE CATCH C) P31\n——( tl arr NT _—_ ~< _",
+  "stages_text": "2,\n,",
+  "error": null
+ }
+}

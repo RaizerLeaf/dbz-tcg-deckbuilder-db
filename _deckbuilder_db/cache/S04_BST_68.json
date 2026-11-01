@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_68",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "68_Blue Awakening Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/68_Blue Awakening Drill.png",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Blue Awakening Drill",
+  "file_name": "Blue Awakening Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "4bc4ef8d4269aa061667951a88bb3bceccecf75a"
+ },
+ "vision": {
+  "id": "S04_BST_68",
+  "name": "Blue Awakening Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U68",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Banish a Styled Setup you control to search your discard pile for a Styled Setup and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.8,
+  "header_text": "\\ ry = : ere",
+  "stages_text": null,
+  "error": null
+ }
+}

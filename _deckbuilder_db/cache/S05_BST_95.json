@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_95",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "95_Red Infuriated Attack.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/95_Red Infuriated Attack.png",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Red Infuriated Attack",
+  "file_name": "Red Infuriated Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "fde602f6cd44b55bb9eb14865bf20ea3d9526648"
+ },
+ "vision": {
+  "id": "S05_BST_95",
+  "name": "Red Infuriated Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished from your discard pile during combat, your next successful attack combat cannot have its damage prevented.)\nPhysical attack.\nDamage from this attack is banished.\nDAMAGE: 3 +X life cards. X = your MP's current level.",
+  "conf": "high",
+  "review": null,
+  "note": "NO attack icon before 'Physical attack.' as printed; 'next successful attack combat' as printed",
+  "_src": "S05.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "RED INFURIATED ATTACK €) U95\nP <4 ae “a  ——",
+  "stages_text": "3,",
+  "error": null
+ }
+}

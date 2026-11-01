@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S160",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S160_Red Heating Beams.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S160_Red Heating Beams.png",
+  "prefix": "S",
+  "number": 160,
+  "card_number": "S160",
+  "name_part": "Red Heating Beams",
+  "file_name": "Red Heating Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e7486ae03b7b9c106869d529580ca130ca871958"
+ },
+ "vision": {
+  "id": "S07_STR_S160",
+  "name": "Red Heating Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S160",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. You may lower your anger 1 level to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S59; text compared on the sheet",
+  "_src": "S07.jsonl:343"
+ },
+ "ocr": {
+  "agreement": 0.64,
+  "lower_conf": 77.6,
+  "header_text": "RED HEATING BEAMS C) $160.\n7. wre. — 2",
+  "stages_text": "",
+  "error": null
+ }
+}

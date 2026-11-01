@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S45",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S45_Black Finger Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S45_Black Finger Block.png",
+  "prefix": "S",
+  "number": 45,
+  "card_number": "S45",
+  "name_part": "Black Finger Block",
+  "file_name": "Black Finger Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "298c7d8103f1384facff5488ac604445df129ae0"
+ },
+ "vision": {
+  "id": "S04_STR_S45",
+  "name": "Black Finger Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nYour MP gains 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S85",
+  "_src": "S04.jsonl:198"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 64.3,
+  "header_text": "BLACK FINGER BLOCK ) S45\n{SRR ORI tes i A A",
+  "stages_text": ",\n3 7",
+  "error": null
+ }
+}

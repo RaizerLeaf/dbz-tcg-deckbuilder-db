@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S125",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S125_Orange Revenge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S125_Orange Revenge.png",
+  "prefix": "S",
+  "number": 125,
+  "card_number": "S125",
+  "name_part": "Orange Revenge",
+  "file_name": "Orange Revenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c9a8c409a12e712cda9df4d867f7ad7891bfbeac"
+ },
+ "vision": {
+  "id": "S04_STR_S125",
+  "name": "Orange Revenge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nRaise your anger 1 level.\nDAMAGE: 4 life cards +AT stages.\nHIT: Choose 2 Energy Combat cards in your discard pile and place them on top of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C43",
+  "_src": "S04.jsonl:278"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.8,
+  "header_text": "ORANGE REVENGE ) S125",
+  "stages_text": ",\n21,\n,",
+  "error": null
+ }
+}

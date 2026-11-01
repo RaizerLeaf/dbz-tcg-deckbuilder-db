@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P11",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P11_Pikkon - Prized Fighter.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P11_Pikkon - Prized Fighter.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Pikkon - Prized Fighter",
+  "file_name": "Pikkon",
+  "file_subtitle": "Prized Fighter",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8e044987bfaf4d6b6cb5d6d3b682cd152d4f128c"
+ },
+ "vision": {
+  "id": "S15_PRO_P11",
+  "name": "Pikkon",
+  "sub": "Prized Fighter",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 4,
+  "stages": [
+   2500000,
+   2000000,
+   1700000,
+   1500000,
+   600000,
+   300000,
+   100000,
+   50000,
+   30000,
+   15000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, Rejuvenate 5.\nPOWER: [Attack] Energy attack.\nThis attack can only be stopped by an Energy Combat card.\nDAMAGE: 1 life card.\nHIT: Banish the bottom 5 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple); promo-only Level 4 Pikkon",
+  "_src": "S15.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.2,
+  "header_text": "PIKKON",
+  "stages_text": ", 2,500,000\n2,000,000\n1,700,000\n1,500,000\n\n600,000\n\n300,000\n\n100,000\n\n50,000\n30,000\n15,000\n0",
+  "error": null
+ }
+}

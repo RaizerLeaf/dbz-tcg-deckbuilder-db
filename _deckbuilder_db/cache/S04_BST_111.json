@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_111",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "111_Orange Freezing Drill CRD.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/111_Orange Freezing Drill CRD.png",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Orange Freezing Drill CRD",
+  "file_name": "Orange Freezing Drill CRD",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "eebd284d88dda4f9e2d555c4adccab95394eed77"
+ },
+ "vision": {
+  "id": "S04_BST_111",
+  "name": "Orange Freezing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Orange Adept Mastery only.)\n[Continuous]: Your attacks cannot have their damage modified by your opponent's card effects. Attacks can only be stopped by Physical Combat or Energy Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; filename '111_Orange Freezing Drill CRD' (CRD without parentheses, so not parsed as a flag)",
+  "_src": "S04.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "mM — >\nGLX, ame = 1 Ere",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_44",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "44_Red Departing Shot.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/44_Red Departing Shot.jpg",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Departing Shot",
+  "file_name": "Red Departing Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f3dbeac218dc219daee17608d55c4ed5c2d213d1"
+ },
+ "vision": {
+  "id": "S06_BST_44",
+  "name": "Red Departing Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nWhenever a Drill leaves play this turn, destroy the top card of your opponent's Life Deck.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.7,
+  "header_text": "RED DEPARTING SHOT () C44",
+  "stages_text": "7\n4\n,\n,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S33",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S33_Blue Slide.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S33_Blue Slide.png",
+  "prefix": "S",
+  "number": 33,
+  "card_number": "S33",
+  "name_part": "Blue Slide",
+  "file_name": "Blue Slide",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b12fcde5fe186367a4f4d83fee23ba79e8244d2"
+ },
+ "vision": {
+  "id": "S07_STR_S33",
+  "name": "Blue Slide",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish the top 3 cards of your opponent's discard pile.\nDAMAGE: AT +3 life cards.\nHIT: Your opponent cannot play non-Styled cards this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_23; text compared on the sheet",
+  "_src": "S07.jsonl:216"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "BLUE SLIDE () $33",
+  "stages_text": "3\n4",
+  "error": null
+ }
+}

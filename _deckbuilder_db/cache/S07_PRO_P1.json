@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P1",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P1_Confrontation.jpg",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P1_Confrontation.jpg",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 200,
+  "height": 280,
+  "orientation": "portrait",
+  "sha1": "90236402203125666cfa39706ed4c75742050c5c"
+ },
+ "vision": {
+  "id": "S07_PRO_P1",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) POWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into his Life Deck.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S01 #150); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:186"
+ },
+ "ocr": {
+  "agreement": 0.091,
+  "lower_conf": 49.1,
+  "header_text": "CONFRONTATION ) PI\n>.",
+  "stages_text": "3",
+  "error": null
+ }
+}

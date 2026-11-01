@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_44",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "44_Red Cover Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/44_Red Cover Drill.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Cover Drill",
+  "file_name": "Red Cover Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "815a4992843a71949ef349181cad5d4ecb506427"
+ },
+ "vision": {
+  "id": "S05_BST_44",
+  "name": "Red Cover Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is banished from your discard pile during combat, you may place a Styled Drill from your discard pile into play.)\n[Continuous]: Your physical attacks cannot have their damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 87.7,
+  "header_text": "RED COVER DRILL () C44",
+  "stages_text": null,
+  "error": null
+ }
+}

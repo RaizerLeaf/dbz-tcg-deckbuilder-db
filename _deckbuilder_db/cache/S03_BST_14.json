@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_14",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "14_Black Flying Knee.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/14_Black Flying Knee.jpg",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Black Flying Knee",
+  "file_name": "Black Flying Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "cf2a710711cc6a28e72e9ab85d0a4e9db71253f8"
+ },
+ "vision": {
+  "id": "S03_BST_14",
+  "name": "Black Flying Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 6 stages. Name 2 cards. Your opponent reveals the top 4 cards of his Life Deck. If both cards you named were revealed, this attack deals +6 life cards of damage and cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "Gurck FLYING: KNEES €) Cla\nvem i- = gam",
+  "stages_text": ",\n0",
+  "error": null
+ }
+}

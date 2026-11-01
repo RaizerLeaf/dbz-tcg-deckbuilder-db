@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P5_RST",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P5_Saiyan Enraged (Restored).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P5_Saiyan Enraged (Restored).png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Saiyan Enraged",
+  "file_name": "Saiyan Enraged",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "af6147516bb4042bd4f94475559dde6b8b1e5d54"
+ },
+ "vision": {
+  "id": "S05_PRO_P5_RST",
+  "name": "Saiyan Enraged",
+  "sub": null,
+  "type": "Setup",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 2 levels. Rejuvenate the bottom 2 cards of your discard pile. If your MP's power level is higher than your opponent's MP's power level, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) image: a fan-made re-creation of P5 with a FanZ disclaimer in place of the Panini copyright; same text as the original scan",
+  "_src": "S05.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "SAIYAN ENRAGED () P5\nes gg —",
+  "stages_text": null,
+  "error": null
+ }
+}

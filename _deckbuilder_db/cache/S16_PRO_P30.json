@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P30",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P30_Red Tandem Attack.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P30_Red Tandem Attack.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Red Tandem Attack",
+  "file_name": "Red Tandem Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3941bfea2cf56588d7487de4ae32698058ab6eb8"
+ },
+ "vision": {
+  "id": "S16_PRO_P30",
+  "name": "Red Tandem Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand by an opponent's effect, draw a card and raise your anger 1.)\n[Attack] Physical attack.\nRaise your anger 1. If your opponent has 5 or more cards in their hand, draw a card.\nDAMAGE: AT + 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 88.0,
+  "header_text": "RED TANDEM ATTACK () P30",
+  "stages_text": "0\n\n,\n\n,\n6\n,\n1,",
+  "error": null
+ }
+}

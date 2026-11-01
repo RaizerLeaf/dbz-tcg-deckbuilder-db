@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P6",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P6_Quickness Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P6_Quickness Drill.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Quickness Drill",
+  "file_name": "Quickness Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "7fce7ca34d2309dc33d6db666362b10909063eea"
+ },
+ "vision": {
+  "id": "S04_PRO_P6",
+  "name": "Quickness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Instant] POWER: Use when entering combat. You may discard a card from your hand to place the bottom card of your discard pile into your hand.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey frame; prints '(Most Recent Printing)' at the end of the text box (MRP reprint). Updated text vs S01 U114",
+  "_src": "S04.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "eee ee 7\n\n= oe “Rohs | ' a OO\n=4 ‘ i 23\nioe wep lave allt",
+  "stages_text": null,
+  "error": null
+ }
+}

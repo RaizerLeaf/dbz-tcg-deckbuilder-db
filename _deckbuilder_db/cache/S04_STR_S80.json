@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S80",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S80_Blue Wrist Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S80_Blue Wrist Block.png",
+  "prefix": "S",
+  "number": 80,
+  "card_number": "S80",
+  "name_part": "Blue Wrist Block",
+  "file_name": "Blue Wrist Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2ca65b90486c1a76aa978448170dc5d04ff83474"
+ },
+ "vision": {
+  "id": "S04_STR_S80",
+  "name": "Blue Wrist Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nDestroy one of your opponent's Setups or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S87",
+  "_src": "S04.jsonl:233"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.4,
+  "header_text": "BLUE WRIST BLOCK ) $80 |\n— >» . ow",
+  "stages_text": "",
+  "error": null
+ }
+}

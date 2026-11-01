@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_100",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "100_Tenshinhan’s Preparation.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/100_Tenshinhan’s Preparation.jpg",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Tenshinhan’s Preparation",
+  "file_name": "Tenshinhan’s Preparation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8b27985bdb00fa8cea90496cc8142ca51c40b1e2"
+ },
+ "vision": {
+  "id": "S02_BST_100",
+  "name": "Tenshinhan's Preparation",
+  "sub": null,
+  "type": "Event",
+  "num": "U100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, you may draw a card.) POWER: Destroy the top 2 cards of each player's Life Deck. Raise your anger 2 levels and lower your opponent's anger 2 levels. Rejuvenate this card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.1,
+  "header_text": "TENSHINHAN'S PREPARATION () W100\n--mUCc i‘é‘CiY",
+  "stages_text": ",",
+  "error": null
+ }
+}

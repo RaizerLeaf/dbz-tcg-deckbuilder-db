@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_50",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "50_Red Sword Stab.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/50_Red Sword Stab.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Red Sword Stab",
+  "file_name": "Red Sword Stab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e58006f0fe1b802f01a5f1fa34da6d004ad68629"
+ },
+ "vision": {
+  "id": "S05_BST_50",
+  "name": "Red Sword Stab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 61.0,
+  "header_text": "RED SWORD STAB C) C50\nTa \\ \\N",
+  "stages_text": "4\n2\n4\n7 4\n,\n,",
+  "error": null
+ }
+}

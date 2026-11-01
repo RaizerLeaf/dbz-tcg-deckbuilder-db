@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_23",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "23_Red Cheap Shot.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/23_Red Cheap Shot.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Cheap Shot",
+  "file_name": "Red Cheap Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "177058fb90ad5bca127f645a615d75c72eb1133f"
+ },
+ "vision": {
+  "id": "S09_BST_23",
+  "name": "Red Cheap Shot",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 1 level. If stopped, search your discard pile for a Drill and play it.\nDAMAGE: AT + 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 91.5,
+  "header_text": "RED CHEAP SHOT () U23\n7\" E--lUlUSSUCUC~SSC",
+  "stages_text": "4\n3\n7\n37 ,\n,\n,",
+  "error": null
+ }
+}

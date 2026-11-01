@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P7",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P7_Janemba - Vicious.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P7_Janemba - Vicious.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Janemba - Vicious",
+  "file_name": "Janemba",
+  "file_subtitle": "Vicious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d09c9ccc87295706d85d4720808b8920e2463686"
+ },
+ "vision": {
+  "id": "S15_PRO_P7",
+  "name": "Janemba",
+  "sub": "Vicious",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   10500000,
+   7000000,
+   3500000,
+   2000000,
+   900000,
+   600000,
+   300000,
+   100000,
+   75000,
+   25000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(When you reach this level, search your Life Deck or discard pile for a card and attach it to your MP.)\n[Continuous]: Whenever you perform a Styled attack, you may destroy an attached card. If you do, that attack deals +X life cards. X = the attached card's Endurance.\nPOWER: Raise your anger 2. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge G (gold); stats and text compared against S15_BST_49 on the sheet, identical",
+  "_src": "S15.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 62.2,
+  "header_text": "_ A Ne\nJANEMBA\n\\ 3 VICIOUS Qa 77 )\ni Vita.\nOP | he RA eas ys Y. BNN nnn",
+  "stages_text": "10,500,000\n7,000,000\n3,500,000\n2,000,000\n\n900,000\n\n4\n\n600,000\n\n300,000\n\n100,000\n75,000\n25,000",
+  "error": null
+ }
+}

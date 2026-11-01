@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_95",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "95_Red Tandem Attack.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/95_Red Tandem Attack.jpg",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Red Tandem Attack",
+  "file_name": "Red Tandem Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "34befdd1666758cd53e06b4f0455ba3dc73c2720"
+ },
+ "vision": {
+  "id": "S03_BST_95",
+  "name": "Red Tandem Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by an opponent's effect, draw a card and raise your anger 1 level.) ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. If your opponent has 5 or more cards in his hand, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "(RED TANDEM ATTACK: (2\n= =~ FF) WwW .__.",
+  "stages_text": "6",
+  "error": null
+ }
+}

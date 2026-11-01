@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S119",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S119_Saiyan Left Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S119_Saiyan Left Kick.png",
+  "prefix": "S",
+  "number": 119,
+  "card_number": "S119",
+  "name_part": "Saiyan Left Kick",
+  "file_name": "Saiyan Left Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d5763345b523da48a8bc24f341fd8c64dc9e062a"
+ },
+ "vision": {
+  "id": "S07_STR_S119",
+  "name": "Saiyan Left Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +4 life cards. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S83; text compared on the sheet",
+  "_src": "S07.jsonl:302"
+ },
+ "ocr": {
+  "agreement": 0.571,
+  "lower_conf": 68.2,
+  "header_text": "SAIYAN LEFT KICK €) si19",
+  "stages_text": "",
+  "error": null
+ }
+}

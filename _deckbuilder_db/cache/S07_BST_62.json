@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_62",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "62_Earth Dragon Ball 2.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/62_Earth Dragon Ball 2.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Earth Dragon Ball 2",
+  "file_name": "Earth Dragon Ball 2",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e15cc0641d19d3e659cf7ff76db1ac268c9a4c81"
+ },
+ "vision": {
+  "id": "S07_BST_62",
+  "name": "Earth Dragon Ball 2",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Advance or lower your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.4,
+  "header_text": "EARTH DRAGON BALL 2 U62\nEAR RAGON BAL 2 =",
+  "stages_text": "7",
+  "error": null
+ }
+}

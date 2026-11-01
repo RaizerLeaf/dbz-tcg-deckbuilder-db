@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S94",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S94_Namekian Onslaught.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S94_Namekian Onslaught.png",
+  "prefix": "S",
+  "number": 94,
+  "card_number": "S94",
+  "name_part": "Namekian Onslaught",
+  "file_name": "Namekian Onslaught",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "db0c8f1ac46945ba50e1033465761616b9796c30"
+ },
+ "vision": {
+  "id": "S04_STR_S94",
+  "name": "Namekian Onslaught",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRejuvenate 1. If you control 2 or more Dragon Balls, this attack stays in play to be used a second time this combat.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C34",
+  "_src": "S04.jsonl:247"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "NAMEKIAN ONSLAUGHT 4) ) $94 |\n1 «",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S87",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S87_Namekian Energy Guard.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S87_Namekian Energy Guard.png",
+  "prefix": "S",
+  "number": 87,
+  "card_number": "S87",
+  "name_part": "Namekian Energy Guard",
+  "file_name": "Namekian Energy Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f7549b861fe6d976273445ac37980a3d13ea6be3"
+ },
+ "vision": {
+  "id": "S04_STR_S87",
+  "name": "Namekian Energy Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nShuffle the top and bottom cards of your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S127",
+  "_src": "S04.jsonl:240"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "NAMEKIAN ENERGY GUARD\nmm fm ie:",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_10",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "10_Blue Pacing Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/10_Blue Pacing Drill.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Pacing Drill",
+  "file_name": "Blue Pacing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f37804eec15ec885671041169a1042c1ce44bd1f"
+ },
+ "vision": {
+  "id": "S10_BST_10",
+  "name": "Blue Pacing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: [Trait:Namekian]: If you have 2 or less Traits, your opponent cannot use effects that lower your MP 1 or more levels.\nPOWER: Perform a Styled physical attack dealing 1 stage of damage. Damage from this attack cannot be modified.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline Trait icon (orange Namekian icon) after the infinity icon",
+  "_src": "S10.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 84.8,
+  "header_text": "BLUE PACING DRILL & 10)",
+  "stages_text": null,
+  "error": null
+ }
+}

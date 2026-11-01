@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_90",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "90_Namekian Whack.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/90_Namekian Whack.png",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Namekian Whack",
+  "file_name": "Namekian Whack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8701f0988cb6b29bf0b9ed20f5d9c508f35d001a"
+ },
+ "vision": {
+  "id": "S07_BST_90",
+  "name": "Namekian Whack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAttach to your MP. While attached whenever one of your effects destroys non-Dragon Ball cards from the top of your opponent's Life Deck, they are banished instead.\nDAMAGE: 7 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "NAMEKIAN WHACK ) u90",
+  "stages_text": ",\n3",
+  "error": null
+ }
+}

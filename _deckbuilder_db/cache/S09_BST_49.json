@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_49",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "49_Bardock - Vengeful.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/49_Bardock - Vengeful.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Bardock - Vengeful",
+  "file_name": "Bardock",
+  "file_subtitle": "Vengeful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "14fcbb83d4538fddac33cb9a7bc93adae8a590a3"
+ },
+ "vision": {
+  "id": "S09_BST_49",
+  "name": "Bardock",
+  "sub": "Vengeful",
+  "type": "Main Personality",
+  "num": "S49",
+  "lvl": 2,
+  "stages": [
+   35000,
+   33000,
+   30000,
+   25000,
+   20000,
+   18500,
+   15000,
+   10000,
+   9000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent plays with their hand revealed. Whenever an effect destroys cards from your opponent's Life Deck, you may raise your anger 1 level.\nPOWER: Destroy the top card of your Life Deck to banish the bottom card of your opponent's discard pile. You may discard a card from your hand. If you do, your opponent discards a card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "@ BARDOCK\nLEVEL VENGEFUL () 549\ni | . 5 Tr ff \\CUQYY",
+  "stages_text": "35,000\n33,000\n30,000\n25,000\n20,000\n18,500\n15,000\n10,000\n9,000\n\n1,000\n0",
+  "error": null
+ }
+}

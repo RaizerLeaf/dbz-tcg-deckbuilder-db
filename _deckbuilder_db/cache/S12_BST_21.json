@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_21",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "21_Red Attitude Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/21_Red Attitude Drill.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Attitude Drill",
+  "file_name": "Red Attitude Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "00c7381cf0d016afd9f66e4f039d67dcb64b5d07"
+ },
+ "vision": {
+  "id": "S12_BST_21",
+  "name": "Red Attitude Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use after your opponent lowers your anger. Pay 3 stages to raise your anger X levels. X = the amount of anger lowered.\nPOWER: Gain 3 stages.\n[Trait:Android]: Your attacks deal +1 life card of damage this combat. Search your discard pile for a Styled card and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: grey R badge (Android); no Endurance badge",
+  "_src": "S12.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 84.4,
+  "header_text": "RED ATTITUDE DRILL () U21",
+  "stages_text": null,
+  "error": null
+ }
+}

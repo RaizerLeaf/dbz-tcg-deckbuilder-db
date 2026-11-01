@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_01",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "01_Black Mist.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/01_Black Mist.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Mist",
+  "file_name": "Black Mist",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0eaa2af68395e2881e7de44d3408aaa78616d1f7"
+ },
+ "vision": {
+  "id": "S12_BST_01",
+  "name": "Black Mist",
+  "sub": null,
+  "type": "Setup",
+  "num": "R1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand as an action to banish a Styled Event from your discard pile. If you do, play a copy of that Event.)\nPOWER: Discard a card from your hand. Return this card to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; Set 12 gold crest set symbol; no Endurance badge",
+  "_src": "S12.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "BLACK MIST () R1",
+  "stages_text": null,
+  "error": null
+ }
+}

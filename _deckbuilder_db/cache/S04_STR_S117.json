@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S117",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S117_Orange Launcher.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S117_Orange Launcher.png",
+  "prefix": "S",
+  "number": 117,
+  "card_number": "S117",
+  "name_part": "Orange Launcher",
+  "file_name": "Orange Launcher",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bb3400659664d5126aad3bf0f9b455adaa3f879d"
+ },
+ "vision": {
+  "id": "S04_STR_S117",
+  "name": "Orange Launcher",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nYou may use a critical damage effect.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S138",
+  "_src": "S04.jsonl:270"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 77.0,
+  "header_text": "ORANGE LAUNCHER _ $117",
+  "stages_text": ",\n3\n\n4\n,",
+  "error": null
+ }
+}

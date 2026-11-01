@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_69",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "69_Fused Zamasu - Ascended.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/69_Fused Zamasu - Ascended.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Fused Zamasu - Ascended",
+  "file_name": "Fused Zamasu",
+  "file_subtitle": "Ascended",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b9905285117d03449ca5ad196523eec06e5ec2e1"
+ },
+ "vision": {
+  "id": "S19_BST_69",
+  "name": "Fused Zamasu",
+  "sub": "Ascended",
+  "type": "Main Personality",
+  "num": "S69",
+  "lvl": 1,
+  "stages": [
+   130000000,
+   67000000,
+   1480000,
+   1000000,
+   499000,
+   220000,
+   95000,
+   67000,
+   9000,
+   6000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card.\n[Instant] POWER: Use when entering combat. Draw the bottom card of your Life Deck. If that card has [Trait:God] in the parenthetical text or text-box, you may reveal it to raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S (green), G (gold), F (grey starburst); inline icon matches the gold G badge",
+  "_src": "S19.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 0.927,
+  "lower_conf": 90.6,
+  "header_text": "\"L FUSED ZAMASU\nLEVEL ASCENDED () S69\n, / fy r i/,s @",
+  "stages_text": "130,000,000\n67,000,000\n1,480,000\n1,000,000\n499,000\n220,000\n95,000\n67,000\n9,000\n\n6,000\n\n0",
+  "error": null
+ }
+}

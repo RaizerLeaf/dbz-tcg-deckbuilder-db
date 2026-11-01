@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_57",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "57_Saiyan Smack.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/57_Saiyan Smack.png",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Smack",
+  "file_name": "Saiyan Smack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "1d958cb5e11530f7f1b80c89136c85a9ae8e1015"
+ },
+ "vision": {
+  "id": "S04_BST_57",
+  "name": "Saiyan Smack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAll Allies in play lose 2 stages.\nDAMAGE: AT +1 stage.\nHIT: All of your opponent's personalities lose 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.8,
+  "header_text": "SAIYAN SMACK C) C57\n> ee —_ 6h =—C6/s",
+  "stages_text": "4",
+  "error": null
+ }
+}

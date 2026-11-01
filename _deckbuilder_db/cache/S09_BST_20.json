@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_20",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "20_Orange Energized Push.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/20_Orange Energized Push.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Energized Push",
+  "file_name": "Orange Energized Push",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0e33e42146ed42a0f085b3985da84d028fd121ef"
+ },
+ "vision": {
+  "id": "S09_BST_20",
+  "name": "Orange Energized Push",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This attack is also considered a physical attack for your modifiers.)\n[Attack] Energy attack costing 1 stage.\nIf you control 3 or more Drills, your physical attacks deal +2 stages of damage this combat.\nDAMAGE: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 86.7,
+  "header_text": "ORANGE ENERGIZED PUSH C) U20",
+  "stages_text": ",\n7\n\n4\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P18",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P18_Black Power Up.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P18_Black Power Up.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Black Power Up",
+  "file_name": "Black Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "c31bc1f047e252920c91dc2a29731ba46139af65"
+ },
+ "vision": {
+  "id": "S15_PRO_P18",
+  "name": "Black Power Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise a personality to its highest power stage. You may end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; black-and-white manga art; no Endurance badge",
+  "_src": "S15.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.7,
+  "header_text": "BLACK POWER UP @ ris)",
+  "stages_text": null,
+  "error": null
+ }
+}

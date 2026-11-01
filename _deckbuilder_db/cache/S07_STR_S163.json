@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S163",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S163_Red Power Rush.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S163_Red Power Rush.png",
+  "prefix": "S",
+  "number": 163,
+  "card_number": "S163",
+  "name_part": "Red Power Rush",
+  "file_name": "Red Power Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9ad4ceabbcd5eeb592ac9e16a0b600cd2e65162b"
+ },
+ "vision": {
+  "id": "S07_STR_S163",
+  "name": "Red Power Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S163",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. If you have 3 or more anger, this attack cannot be stopped or have its damage prevented by Physical Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S140; text compared on the sheet",
+  "_src": "S07.jsonl:346"
+ },
+ "ocr": {
+  "agreement": 0.8,
+  "lower_conf": 83.2,
+  "header_text": "RED POWER RUSH €) s163\neR,",
+  "stages_text": ",\n3\n,",
+  "error": null
+ }
+}

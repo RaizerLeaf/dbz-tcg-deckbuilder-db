@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_12",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "12_Blue Intimidation.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/12_Blue Intimidation.jpg",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Blue Intimidation",
+  "file_name": "Blue Intimidation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "7d9eea1da74c931595062976ce50c4d27b7cb5da"
+ },
+ "vision": {
+  "id": "S06_BST_12",
+  "name": "Blue Intimidation",
+  "sub": null,
+  "type": "Setup",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If you have not drawn a card this combat, you may draw a card when this card enters play during combat.)\nPOWER: You may discard any number of cards from your hand to draw the same number of cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "BLUE INTIMIDATION a C1 |",
+  "stages_text": null,
+  "error": null
+ }
+}

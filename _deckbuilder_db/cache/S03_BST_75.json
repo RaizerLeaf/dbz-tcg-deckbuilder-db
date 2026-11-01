@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_75",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "75_Turles - Triumphant.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/75_Turles - Triumphant.jpg",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Turles - Triumphant",
+  "file_name": "Turles",
+  "file_subtitle": "Triumphant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "64947cdd40f8053fa4d783db83e4652079792b9c"
+ },
+ "vision": {
+  "id": "S03_BST_75",
+  "name": "Turles",
+  "sub": "Triumphant",
+  "type": "Main Personality",
+  "num": "U75",
+  "lvl": 3,
+  "stages": [
+   125000,
+   105000,
+   85000,
+   65000,
+   45000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: Banish the top 3 cards of your opponent's discard pile. [Continuous]: Your attacks deal +3 stages of damage and cannot have their damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "E TURLES () Je\nLEVEL TRIUMPHANT i ; —_\n|",
+  "stages_text": "125,000\n105,000\n85,000\n65,000\n45,000\n25,000\n20,000\n15,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

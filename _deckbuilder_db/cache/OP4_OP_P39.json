@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P39",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P39_Namekian Right Throw.png",
+  "rel_path": "z_OP Series/OP4/P39_Namekian Right Throw.png",
+  "prefix": "P",
+  "number": 39,
+  "card_number": "P39",
+  "name_part": "Namekian Right Throw",
+  "file_name": "Namekian Right Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d923a8fcb0f05b2f8b2873831b05bf9c4b03bda"
+ },
+ "vision": {
+  "id": "OP4_OP_P39",
+  "name": "Namekian Right Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2.\nDAMAGE: AT + 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4)",
+  "_src": "OP.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 85.5,
+  "header_text": "NAMEKIAN RIGHT THROW C) P39\n2 rE f ; \\/ ae",
+  "stages_text": "4\n2\n9\n2",
+  "error": null
+ }
+}

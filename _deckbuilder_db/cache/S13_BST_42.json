@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_42",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "42_Scheming Ghost - Full-Roaming Vapor.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/42_Scheming Ghost - Full-Roaming Vapor.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Scheming Ghost - Full-Roaming Vapor",
+  "file_name": "Scheming Ghost",
+  "file_subtitle": "Full-Roaming Vapor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "36552c22a509c644e506af3d898fc2dc4636d40d"
+ },
+ "vision": {
+  "id": "S13_BST_42",
+  "name": "Scheming Ghost",
+  "sub": "Full-Roaming Vapor",
+  "type": "Ally",
+  "num": "U42",
+  "lvl": 1,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(Gotenks only. You may use this Power regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Destroy the top 2 cards of your opponent's Life Deck. Destroy this card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges S, E, F; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "1 | SCHEMING GHOST 42\nLEVEL | FULL-ROAMING VAPOR",
+  "stages_text": "1,000\n\n900\n\n800\n\n700\n600\n500\n\n400\n300\n200\n\n100\n0",
+  "error": null
+ }
+}

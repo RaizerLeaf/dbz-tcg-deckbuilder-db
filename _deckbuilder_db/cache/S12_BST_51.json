@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_51",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "51_Broly - Bio Warrior.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/51_Broly - Bio Warrior.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Broly - Bio Warrior",
+  "file_name": "Broly",
+  "file_subtitle": "Bio Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6e0e1b1c906b84be95fa95276332ee86d7b7135f"
+ },
+ "vision": {
+  "id": "S12_BST_51",
+  "name": "Broly",
+  "sub": "Bio Warrior",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 4,
+  "stages": [
+   3200000,
+   2200000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   150000,
+   75000,
+   30000,
+   10000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Whenever you Rejuvenate during combat, attacks in your next action this combat are considered to deal critical damage.\nPOWER: [Attack] Energy attack.\nChoose 3 cards in your discard pile and Rejuvenate them.\nDAMAGE: 4 life cards.\nHIT: Banish the top 10 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "S12.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.927,
+  "lower_conf": 74.8,
+  "header_text": "A BROLY S51\nLEVEL BIO WARRIOR\nWw VV | ' 1 JY ? oan /f il",
+  "stages_text": "3,200,000\n2,200,000\n1,200,000\n\n900,000\n\n600,000\n\n300,000\n\n150,000\n\n75,000\n30,000\n10,000\n0",
+  "error": null
+ }
+}

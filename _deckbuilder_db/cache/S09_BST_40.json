@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_40",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "40_Master Roshi's Kamehameha.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/40_Master Roshi's Kamehameha.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Master Roshi's Kamehameha",
+  "file_name": "Master Roshi's Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f79f4d52133a6ed98e659020f68f460450ea8519"
+ },
+ "vision": {
+  "id": "S09_BST_40",
+  "name": "Master Roshi's Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nThis attack can only be stopped by an Energy Combat card. Shuffle a non-MP/non-Mastery card not attached to your MP in play back into its owner's Life Deck.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 83.8,
+  "header_text": "MASTER ROSHI'S KAMEHAMEHA =) R40,\n—_E_—hdUlc kel OTOUC«SYC",
+  "stages_text": ",",
+  "error": null
+ }
+}

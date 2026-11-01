@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_137",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "137_Enhanced Reflexes.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/137_Enhanced Reflexes.png",
+  "prefix": null,
+  "number": 137,
+  "card_number": "137",
+  "name_part": "Enhanced Reflexes",
+  "file_name": "Enhanced Reflexes",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "5216e8af85e6f934e27b9c6abdd054846bf884e5"
+ },
+ "vision": {
+  "id": "S04_BST_137",
+  "name": "Enhanced Reflexes",
+  "sub": null,
+  "type": "Event",
+  "num": "R137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Defense] Stops a physical or energy attack.\nIf that attack was a Named card, it deals no damage and is banished after use. Banish the top card of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "ENHANCED REFLEXES ) R137]\naw «=. ae iad ae,",
+  "stages_text": ",\n\n4\n,\n,",
+  "error": null
+ }
+}

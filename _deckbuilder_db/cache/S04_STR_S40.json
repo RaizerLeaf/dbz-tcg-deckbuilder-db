@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S40",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S40_Black Defensive Burst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S40_Black Defensive Burst.png",
+  "prefix": "S",
+  "number": 40,
+  "card_number": "S40",
+  "name_part": "Black Defensive Burst",
+  "file_name": "Black Defensive Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9180901b1b6bcd3eb357614bc9d36a177f2105ec"
+ },
+ "vision": {
+  "id": "S04_STR_S40",
+  "name": "Black Defensive Burst",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 4 life cards.\nHIT: Your opponent cannot perform physical attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S71",
+  "_src": "S04.jsonl:193"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "BLACK DEFENSIVE BURST ) 40\nCN Cy ny ae",
+  "stages_text": ",",
+  "error": null
+ }
+}

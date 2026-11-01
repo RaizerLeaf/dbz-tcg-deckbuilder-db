@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S42",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S42_Black Energy Toss.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S42_Black Energy Toss.png",
+  "prefix": "S",
+  "number": 42,
+  "card_number": "S42",
+  "name_part": "Black Energy Toss",
+  "file_name": "Black Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f43d1bcc6eaad6b2bf66e0267d267a287ca7792e"
+ },
+ "vision": {
+  "id": "S04_STR_S42",
+  "name": "Black Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages.\nDAMAGE: 4 life cards.\nHIT: Gain 3 stages and your opponent cannot play Events for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S110",
+  "_src": "S04.jsonl:195"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "BLACK ENERGY TOSS ) $42\nerence ——_—",
+  "stages_text": "7 43\n,",
+  "error": null
+ }
+}

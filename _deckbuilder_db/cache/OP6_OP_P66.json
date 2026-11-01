@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P66",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P66_Mercenary Tao's Traversal Drill.png",
+  "rel_path": "z_OP Series/OP6/P66_Mercenary Tao's Traversal Drill.png",
+  "prefix": "P",
+  "number": 66,
+  "card_number": "P66",
+  "name_part": "Mercenary Tao's Traversal Drill",
+  "file_name": "Mercenary Tao's Traversal Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "592390e0566873a8f5b29edb620f7e35cfdafc70"
+ },
+ "vision": {
+  "id": "OP6_OP_P66",
+  "name": "Mercenary Tao's Traversal Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P66",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 1 per deck. This card is considered Styled. This Drill is not discarded when you advance a level.)\n[Continuous]: Your attacks deal +1 life card.\n[Trait:Android]: Your opponent's maximum hand size is -1 during the Discard Step.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); landscape Drill layout; grey card; possessive title -> Named; inline icon zoomed: grey R badge (Android)",
+  "_src": "OP.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 0.902,
+  "lower_conf": 86.5,
+  "header_text": "-RCENARY TAO'S TRAVERSAL Der. P66 |\nNN",
+  "stages_text": null,
+  "error": null
+ }
+}

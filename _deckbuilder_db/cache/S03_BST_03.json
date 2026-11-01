@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_03",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "03_Oolong - Concerned.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/03_Oolong - Concerned.jpg",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Oolong - Concerned",
+  "file_name": "Oolong",
+  "file_subtitle": "Concerned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "812b804f3c93ca04f89c69f529d62690845ecbf9"
+ },
+ "vision": {
+  "id": "S03_BST_03",
+  "name": "Oolong",
+  "sub": "Concerned",
+  "type": "Ally",
+  "num": "C3",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Continuous]: Dragon Balls lose all effects.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S03.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 49.6,
+  "header_text": "l ootone cs\nLEVEL —",
+  "stages_text": "50\n\n45\n\n40\n\n35\n\n30\n25\n20\n15\n\n10\n\n5\n\n0",
+  "error": null
+ }
+}

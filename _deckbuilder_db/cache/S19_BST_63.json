@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_63",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "63_Bergamo - The Crusher.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/63_Bergamo - The Crusher.png",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Bergamo - The Crusher",
+  "file_name": "Bergamo",
+  "file_subtitle": "The Crusher",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "12f186e374efc9fd81ba6431728d38648b408fe0"
+ },
+ "vision": {
+  "id": "S19_BST_63",
+  "name": "Bergamo",
+  "sub": "The Crusher",
+  "type": "Main Personality",
+  "num": "S63",
+  "lvl": 3,
+  "stages": [
+   4222000,
+   3444000,
+   2888000,
+   1000000,
+   877000,
+   633000,
+   355000,
+   199000,
+   66000,
+   11000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck, discard pile, or Banished Zone for a \"Trio of Danger\" Ally and play it.\nPOWER: [Attack] 2: Energy attack.\nFocused. If Basil is in play, destroy the top 3 cards of your opponent's Life Deck. If Lavender is in play, banish 3 cards from your opponent's discard pile.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); stage cost printed as '2:'",
+  "_src": "S19.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "3 BERGAMO\nLEVEL THE CRUSHER () 963",
+  "stages_text": "44,222,000\n3,444,000\n2,888,000\n1,000,000\n877,000\n633,000\n355,000\n199,000\n66,000\n11,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_110",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "110_Blue Smug Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/110_Blue Smug Punch.png",
+  "prefix": null,
+  "number": 110,
+  "card_number": "110",
+  "name_part": "Blue Smug Punch",
+  "file_name": "Blue Smug Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "37cb87637b6ba2abc359bc6d8b650384fc31aafc"
+ },
+ "vision": {
+  "id": "S07_BST_110",
+  "name": "Blue Smug Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAttach to your MP. While attached, your card effects that raise or lower your opponent's anger have that amount increased by 1. Banish this card when your opponent changes levels.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "BLUE SMUG PUNCH ) R110\nfl Sei,",
+  "stages_text": "7\n37\n\n,\n1,",
+  "error": null
+ }
+}

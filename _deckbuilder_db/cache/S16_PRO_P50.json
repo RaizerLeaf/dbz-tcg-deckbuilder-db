@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P50",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P50_Krillin's Destructo Disk.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P50_Krillin's Destructo Disk.png",
+  "prefix": "P",
+  "number": 50,
+  "card_number": "P50",
+  "name_part": "Krillin's Destructo Disk",
+  "file_name": "Krillin's Destructo Disk",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "926a2d10f59c48a6283e5ccce01d356525ece630"
+ },
+ "vision": {
+  "id": "S16_PRO_P50",
+  "name": "Krillin's Destructo Disk",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nUnstoppable and Unpreventable.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S16.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "KRILLIN'S DESTRUCTO DISK () P50\ni",
+  "stages_text": "",
+  "error": null
+ }
+}

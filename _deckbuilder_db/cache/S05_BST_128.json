@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_128",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "128_Orange Hoping Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/128_Orange Hoping Drill.png",
+  "prefix": null,
+  "number": 128,
+  "card_number": "128",
+  "name_part": "Orange Hoping Drill",
+  "file_name": "Orange Hoping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "a5f7de4de85ec4128c7a0561376289137293555e"
+ },
+ "vision": {
+  "id": "S05_BST_128",
+  "name": "Orange Hoping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 stage of damage. Whenever you play a card with \"Sword\" in the title, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; 'HOPING' (one P) is the printed spelling",
+  "_src": "S05.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "ORANGE HOPING DRILL () R128",
+  "stages_text": null,
+  "error": null
+ }
+}

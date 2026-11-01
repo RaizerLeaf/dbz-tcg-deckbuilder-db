@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S39",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S39_Black Blinding Burst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S39_Black Blinding Burst.png",
+  "prefix": "S",
+  "number": 39,
+  "card_number": "S39",
+  "name_part": "Black Blinding Burst",
+  "file_name": "Black Blinding Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "60dacd6302fac2b79b529fe655a6dafd0766b7aa"
+ },
+ "vision": {
+  "id": "S04_STR_S39",
+  "name": "Black Blinding Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C11",
+  "_src": "S04.jsonl:192"
+ },
+ "ocr": {
+  "agreement": 0.875,
+  "lower_conf": 72.5,
+  "header_text": "BLACK BLINDING BURST () $39\nA << aa, «ll fl y |",
+  "stages_text": "2\n7\n21,",
+  "error": null
+ }
+}

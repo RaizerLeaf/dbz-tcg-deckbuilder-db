@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S133",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S133_Red Back Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S133_Red Back Kick.png",
+  "prefix": "S",
+  "number": 133,
+  "card_number": "S133",
+  "name_part": "Red Back Kick",
+  "file_name": "Red Back Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5844051125ec785cb6bcf44254f8fbe05819ed93"
+ },
+ "vision": {
+  "id": "S04_STR_S133",
+  "name": "Red Back Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may lower your anger 3 levels to stop all energy attacks this combat.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C45",
+  "_src": "S04.jsonl:286"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "RED BACK KICK @ s133\nEee = /' a",
+  "stages_text": ",\n,\n3",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_33",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "33_Exposed.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/33_Exposed.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Exposed",
+  "file_name": "Exposed",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b3cf4d80300c7ffa6462a213f49975b037580add"
+ },
+ "vision": {
+  "id": "S17_BST_33",
+  "name": "Exposed",
+  "sub": null,
+  "type": "Event",
+  "num": "R33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is discarded or destroyed from your Life Deck, banish a Drill.)\nPOWER: Banish a Drill. Rejuvenate 2. Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card",
+  "_src": "S17.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 85.8,
+  "header_text": "EXPOSED ) R33\nllc ll.lU—",
+  "stages_text": "4\n,\n\n,\n\n2,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_86",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "86_Black Liberation.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/86_Black Liberation.jpg",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Black Liberation",
+  "file_name": "Black Liberation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a49bc79ef659f4ab3d4d5592a24deca821ce50eb"
+ },
+ "vision": {
+  "id": "S06_BST_86",
+  "name": "Black Liberation",
+  "sub": null,
+  "type": "Event",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when a Setup or Drill in play is destroyed from a card effect. Place that card in play under your control.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "BLACK LIBERATION ) U8",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

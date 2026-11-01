@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_09",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "09_Blue Teleportation Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/09_Blue Teleportation Drill.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Teleportation Drill",
+  "file_name": "Blue Teleportation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ef1fa1f9e9e3d22bae58b25ee8551355ebe9a6bd"
+ },
+ "vision": {
+  "id": "S19_BST_09",
+  "name": "Blue Teleportation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. If this card is discarded from your hand by a card effect, you may place it into play.)\n[Instant] POWER: Use after your opponent's attack deals no damage. Place a Styled card from your discard pile on top of your Life Deck.\nPOWER: If you have discarded a card from your hand this combat, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S19.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "BLUE TELEPORTATION DRILL &) U9 |",
+  "stages_text": null,
+  "error": null
+ }
+}

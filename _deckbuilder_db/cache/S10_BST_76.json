@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_76",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "76_Kid Trunks - Competitive.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/76_Kid Trunks - Competitive.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Kid Trunks - Competitive",
+  "file_name": "Kid Trunks",
+  "file_subtitle": "Competitive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b52298fa7249b699fe1f62cd9209e001e3f2eda8"
+ },
+ "vision": {
+  "id": "S10_BST_76",
+  "name": "Kid Trunks",
+  "sub": "Competitive",
+  "type": "Main Personality",
+  "num": "S76",
+  "lvl": 3,
+  "stages": [
+   625000,
+   500000,
+   250000,
+   100000,
+   50000,
+   40000,
+   25000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(When you reach this level during combat, your opponent skips their next action this combat.)\n[Instant] POWER: Use when a player skips an action. Rejuvenate 2 and raise your MP to its highest power stage.\nPOWER: Draw a card. The next Styled or Named attack you perform this combat has its power stage cost reduced to 0 and deals +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 77.0,
+  "header_text": "KID TRUNKS",
+  "stages_text": "625,000\n500,000\n250,000\n100,000\n\n5 50,000\n40,000\n25,000\n15,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

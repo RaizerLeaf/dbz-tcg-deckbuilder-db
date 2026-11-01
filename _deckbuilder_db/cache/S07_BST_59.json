@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_59",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "59_Saiyan Bash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/59_Saiyan Bash.png",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Saiyan Bash",
+  "file_name": "Saiyan Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "baa3bcda7b43d2aeacc34a61559b3c92bdb23c3f"
+ },
+ "vision": {
+  "id": "S07_BST_59",
+  "name": "Saiyan Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may destroy 3 Setups you control. If you do, Rejuvenate 4.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "SAIYAN BASH C) C59\nP tte) / | ~ 7 T&R",
+  "stages_text": "2\n7\n,\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_18",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "18_Namekian Wild Blast.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/18_Namekian Wild Blast.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Namekian Wild Blast",
+  "file_name": "Namekian Wild Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5c0c21140d0ef745b93052963c0ba7cfdc63bc30"
+ },
+ "vision": {
+  "id": "S16_BST_18",
+  "name": "Namekian Wild Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nFocused. [Warning]: This attack deals +4 life cards.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 87.6,
+  "header_text": "NAMEKIAN WILD BLAST C) U18\nfe ee",
+  "stages_text": "",
+  "error": null
+ }
+}

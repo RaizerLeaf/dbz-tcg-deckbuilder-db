@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_53",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "53_Vegito's Final Kamehameha.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/53_Vegito's Final Kamehameha.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Vegito's Final Kamehameha",
+  "file_name": "Vegito's Final Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e31282391f7fc46a0384487605541fc0b189ac2e"
+ },
+ "vision": {
+  "id": "S19_BST_53",
+  "name": "Vegito's Final Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is revealed from your hand, gain 3 stages.)\n[Attack] 2: Energy attack.\nFocused. Unpreventable. Raise your anger 2. Your opponent can only attack or pass in their next action this combat.\nDAMAGE: 5 life cards.\nHIT: You may lower your MP 1 level to draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.1,
+  "header_text": "VEGITO'S FINAL KAMEHAMEHA ) R53\n> NNN OO ae",
+  "stages_text": ",\n2\n3",
+  "error": null
+ }
+}

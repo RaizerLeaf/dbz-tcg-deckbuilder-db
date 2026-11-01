@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_40",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "40_Buu's Chocolate.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/40_Buu's Chocolate.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Buu's Chocolate",
+  "file_name": "Buu's Chocolate",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bc31eac152832a3493f69615ef9e2123f8c09adb"
+ },
+ "vision": {
+  "id": "S11_BST_40",
+  "name": "Buu's Chocolate",
+  "sub": null,
+  "type": "Setup",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(Limit 1 per deck. Whenever this card leaves play, banish the card \"Buu's Chocolate\" was attached to.)\nPOWER: Attach to a Drill in play. Gain control of that Drill and it loses all effects. While attached, you may banish this card as an action to raise your anger 1 level and your opponent loses 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame",
+  "_src": "S11.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 93.2,
+  "header_text": "BUU'S CHOCOLATE ae R40 |\na ee",
+  "stages_text": null,
+  "error": null
+ }
+}

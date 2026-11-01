@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_93",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "93_Saiyan Unleashing Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/93_Saiyan Unleashing Drill.jpg",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Saiyan Unleashing Drill",
+  "file_name": "Saiyan Unleashing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8accca0edf9b6aa3a2074034a67063cb52211f81"
+ },
+ "vision": {
+  "id": "S02_BST_93",
+  "name": "Saiyan Unleashing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your energy attacks deal +2 stages of damage and your physical attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "(SAIYAN UNLEASHING BRILL €) USS\nWEA UWL) ULL",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

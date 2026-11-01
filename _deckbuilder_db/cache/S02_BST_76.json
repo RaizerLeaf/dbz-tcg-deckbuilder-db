@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_76",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "76_Black Overhead Burst.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/76_Black Overhead Burst.jpg",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Black Overhead Burst",
+  "file_name": "Black Overhead Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dc742f5642262ea7c3a37460690a9defafa3bb43"
+ },
+ "vision": {
+  "id": "S02_BST_76",
+  "name": "Black Overhead Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. Raise your anger 2 levels. HIT: You may discard a card from your hand. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "(BLACK OVERHEAD: BURST €) U7e8\nTe / COA",
+  "stages_text": "7\n4",
+  "error": null
+ }
+}

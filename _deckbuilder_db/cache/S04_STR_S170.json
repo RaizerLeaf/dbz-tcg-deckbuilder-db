@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S170",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S170_Saiyan Prelude.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S170_Saiyan Prelude.png",
+  "prefix": "S",
+  "number": 170,
+  "card_number": "S170",
+  "name_part": "Saiyan Prelude",
+  "file_name": "Saiyan Prelude",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1a39f26acb5ddd612dc56dd0df1714e53273b7ae"
+ },
+ "vision": {
+  "id": "S04_STR_S170",
+  "name": "Saiyan Prelude",
+  "sub": null,
+  "type": "Event",
+  "num": "S170",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP gains 5 stages. Your next attack this combat deals +5 stages of damage.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S50",
+  "_src": "S04.jsonl:323"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "_SAIYAN PRELUDE $170\n|e",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

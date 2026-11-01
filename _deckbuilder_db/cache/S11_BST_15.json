@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_15",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "15_Namekian Feinforced Blast.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/15_Namekian Feinforced Blast.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Feinforced Blast",
+  "file_name": "Namekian Feinforced Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "49f8f345d9f59b6d1ac47461682c9c1c64e8f038"
+ },
+ "vision": {
+  "id": "S11_BST_15",
+  "name": "Namekian Reinforced Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 1 stage.\nDestroy the top card of your opponent's Life Deck.\nDAMAGE: 2 life cards.\nHIT: You may banish a Dragon Ball you own. If you do, destroy the top 4 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Feinforced'",
+  "_src": "S11.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 86.3,
+  "header_text": "NAMEKIAN REINFORCED BLAST )C15.\n— — of Ae 4",
+  "stages_text": "79,\n,",
+  "error": null
+ }
+}

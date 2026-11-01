@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_36",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "36_Saiyan Refocus.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/36_Saiyan Refocus.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Saiyan Refocus",
+  "file_name": "Saiyan Refocus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c0a920c6d01aae9ea8d3e423574d71e05e69c7ec"
+ },
+ "vision": {
+  "id": "S16_BST_36",
+  "name": "Saiyan Refocus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(As an action, you may discard this card from your hand to perform a Styled energy attack dealing 3 life cards.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 91.5,
+  "header_text": "SAIYAN REFOCUS €) C36\nll, — Uhl",
+  "stages_text": "4\n1\n4\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_34",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "34_Saiyan Display of Power.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/34_Saiyan Display of Power.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Saiyan Display of Power",
+  "file_name": "Saiyan Display of Power",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7db5b221090ab432a4d68261dde1eb4b0d7ac1ee"
+ },
+ "vision": {
+  "id": "S10_BST_34",
+  "name": "Saiyan Display of Power",
+  "sub": null,
+  "type": "Event",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 2 per deck. As an action, you may discard this card from your hand to perform a Styled physical attack dealing 3 stages of damage.)\n[Instant] POWER: Use when entering combat. Your opponent skips their first action this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 0.977,
+  "lower_conf": 92.0,
+  "header_text": "SAIYAN DISPLAY OF POWER Eé) R34",
+  "stages_text": "3\n6\n,",
+  "error": null
+ }
+}

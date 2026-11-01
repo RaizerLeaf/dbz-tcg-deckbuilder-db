@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_02",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "02_Black Breaker.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/02_Black Breaker.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Breaker",
+  "file_name": "Black Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ee2ccb8244e1dba9aebde05e3fadf1ac85fe35a6"
+ },
+ "vision": {
+  "id": "S07_BST_02",
+  "name": "Black Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour Styled attacks deal +1 stage and +1 life card of damage until the end of your next turn.\nDAMAGE: 4 stages.\nHIT: Banish the bottom 3 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "BLACK BREAKER ) c2-\nami ayy —",
+  "stages_text": "41\n,",
+  "error": null
+ }
+}

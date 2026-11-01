@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_108",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "108_Blue Leaping Kick.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/108_Blue Leaping Kick.jpg",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Blue Leaping Kick",
+  "file_name": "Blue Leaping Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "814a5d16e4687308fbd17eafb341925a63b0e425"
+ },
+ "vision": {
+  "id": "S02_BST_108",
+  "name": "Blue Leaping Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. Lower your opponent's anger 1 level. You may discard a card from your hand. If you do, this attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 75.8,
+  "header_text": "(BLUE LEAPING KICK. ( )n0e\na |",
+  "stages_text": "4",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_93",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "93_Orange Stab.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/93_Orange Stab.png",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Orange Stab",
+  "file_name": "Orange Stab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a83a250dc55177ef1f7cfa1cba4fe3d5f9067823"
+ },
+ "vision": {
+  "id": "S05_BST_93",
+  "name": "Orange Stab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may banish a Drill from your hand to search your Life Deck for a Styled physical attack with a printed HIT effect and place it into your hand.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "ORANGE STAB C) U93\n7 ee” we an “Same",
+  "stages_text": "38\n37\n,",
+  "error": null
+ }
+}

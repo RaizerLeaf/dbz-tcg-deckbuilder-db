@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P61",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P61_Android 16's Hell Flash.png",
+  "rel_path": "z_OP Series/OP6/P61_Android 16's Hell Flash.png",
+  "prefix": "P",
+  "number": 61,
+  "card_number": "P61",
+  "name_part": "Android 16's Hell Flash",
+  "file_name": "Android 16's Hell Flash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f9b13657b3d8df667ced693f7488ff873b318c6a"
+ },
+ "vision": {
+  "id": "OP6_OP_P61",
+  "name": "Android 16's Hell Flash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P61",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. This card is considered Styled. You may only have one \"Android 16's Hell Flash\" attached.)\n[Attack] 2: Energy attack.\nDamage from this attack is banished. Attach to your MP. While attached, your Alignment-restricted cards are considered Styled.\nDAMAGE: 6 life cards.\nHIT: Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.0,
+  "header_text": "ANDROID 16'S HELL FLASH () P61\nma 4m",
+  "stages_text": "16",
+  "error": null
+ }
+}

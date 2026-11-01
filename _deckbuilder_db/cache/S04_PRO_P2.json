@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P2",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P2_Black Punishment.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P2_Black Punishment.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Black Punishment",
+  "file_name": "Black Punishment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bf56454198ad076d87b02f056b0bb04cb087e96b"
+ },
+ "vision": {
+  "id": "S04_PRO_P2",
+  "name": "Black Punishment",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the top card of his Life Deck.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "prints '(Most Recent Printing)' at the end of the text box (MRP reprint). Updated text vs S01 C19 ('whenever a card is banished')",
+  "_src": "S04.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "ah ‘Sth. VA. WEA NY GY | SVR. VO YY Oe A a mH é m\n0 SF SE RET SOS WT SG EO ee GH.\nty",
+  "stages_text": "5",
+  "error": null
+ }
+}

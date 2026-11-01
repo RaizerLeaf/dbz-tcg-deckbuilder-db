@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_86",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "86_Blue Release Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/86_Blue Release Drill.png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Blue Release Drill",
+  "file_name": "Blue Release Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e25e4ed2f876f5e24b05266748203651b5dac075"
+ },
+ "vision": {
+  "id": "S07_BST_86",
+  "name": "Blue Release Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card enters play, shuffle all attached cards into their owner's Life Deck.)\nPOWER: Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 83.6,
+  "header_text": "BLUE RELEASE DRILL © vss\n7” ——S",
+  "stages_text": null,
+  "error": null
+ }
+}

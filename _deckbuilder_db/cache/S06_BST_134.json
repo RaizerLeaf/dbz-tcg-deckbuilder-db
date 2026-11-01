@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_134",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "134_Stomach Crusher.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/134_Stomach Crusher.jpg",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Stomach Crusher",
+  "file_name": "Stomach Crusher",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e4ccebe39e1010c3af68a4d929e3cff90ff681a5"
+ },
+ "vision": {
+  "id": "S06_BST_134",
+  "name": "Stomach Crusher",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nCards that end combat cannot be played nor used this turn. Players cannot use Setups this combat unless they have performed a Styled attack from their hand during combat.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 87.5,
+  "header_text": "STOMACH CRUSHER ©) R134",
+  "stages_text": ",\n4\n347\n3",
+  "error": null
+ }
+}

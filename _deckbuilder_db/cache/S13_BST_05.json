@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_05",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "05_Black Deceptive Strike.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/05_Black Deceptive Strike.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Deceptive Strike",
+  "file_name": "Black Deceptive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db00d2fad3d0f07941e0ea0e2705abd631f5b7e7"
+ },
+ "vision": {
+  "id": "S13_BST_05",
+  "name": "Black Deceptive Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is revealed from your hand, you may use a critical damage effect.)\n[Attack] Physical attack.\nLower your opponent's anger 1 level.\n[Trait:Majin]: Banish the bottom 3 cards of your opponent's discard pile.\nDAMAGE: 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: pink Majin badge; no Endurance badge",
+  "_src": "S13.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 90.7,
+  "header_text": "BLACK DECEPTIVE STRIKE () U5\n7 _ |",
+  "stages_text": "1,",
+  "error": null
+ }
+}

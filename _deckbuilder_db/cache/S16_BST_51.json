@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_51",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "51_Gohan's Safeguard.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/51_Gohan's Safeguard.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Gohan's Safeguard",
+  "file_name": "Gohan's Safeguard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0be8df8ca388e3667d8de6ac8b9fd26e26876a39"
+ },
+ "vision": {
+  "id": "S16_BST_51",
+  "name": "Gohan's Safeguard",
+  "sub": null,
+  "type": "Event",
+  "num": "R51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This card is considered Styled.)\n[Defense] POWER: Prevent all damage from an attack.\n[Warning]: You may destroy a Setup, Drill, Ally, or attached card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.88,
+  "lower_conf": 83.8,
+  "header_text": "GOHAN'S SAFEGUARD ) R51 |\nELH GSS ON. _ we",
+  "stages_text": "1\n2\n\n7\n\n,,",
+  "error": null
+ }
+}

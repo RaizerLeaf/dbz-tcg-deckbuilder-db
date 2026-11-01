@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P26",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P26_Saiyan Showdown Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P26_Saiyan Showdown Drill.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Saiyan Showdown Drill",
+  "file_name": "Saiyan Showdown Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "a76b61a6f1a6774dcbcb978f77dd8dc601638314"
+ },
+ "vision": {
+  "id": "S12_PRO_P26",
+  "name": "Saiyan Showdown Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your MP is a Hero, this Drill is not discarded when you advance a level.)\n[Continuous]: Your Styled physical attacks deal +2 stages of damage. Damage from your attacks cannot be redirected to Allies.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S12.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "SAIYAN SHOWDOWN DRILL ) P26\nej T_T, De 4 _ ea",
+  "stages_text": null,
+  "error": null
+ }
+}

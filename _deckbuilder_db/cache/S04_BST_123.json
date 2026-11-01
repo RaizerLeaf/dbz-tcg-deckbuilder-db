@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_123",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "123_Android 17's Van.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/123_Android 17's Van.png",
+  "prefix": null,
+  "number": 123,
+  "card_number": "123",
+  "name_part": "Android 17's Van",
+  "file_name": "Android 17's Van",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "b101c6c864a64122862b5e24bee96e88420b83fd"
+ },
+ "vision": {
+  "id": "S04_BST_123",
+  "name": "Android 17's Van",
+  "sub": null,
+  "type": "Setup",
+  "num": "R123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Banish 2 Allies. If you control no Allies, you may search your Life Deck, discard pile, or Banished Zone for an Ally with \"Android\" in the title and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame",
+  "_src": "S04.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "— > “ | ic\n> SN “ 1\n> >» i j -",
+  "stages_text": null,
+  "error": null
+ }
+}

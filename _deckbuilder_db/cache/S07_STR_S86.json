@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S86",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S86_Namekian Right Throw.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S86_Namekian Right Throw.png",
+  "prefix": "S",
+  "number": 86,
+  "card_number": "S86",
+  "name_part": "Namekian Right Throw",
+  "file_name": "Namekian Right Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cfd3d606bc0ef8142577ff123cc0ffdff9080a0a"
+ },
+ "vision": {
+  "id": "S07_STR_S86",
+  "name": "Namekian Right Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2.\nDAMAGE: AT + 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_35; text compared on the sheet; wording differs, transcribed from this card; image text uses FanZ wording ('MP has 2 or less Traits', 'anger 2'): this image appears edited to show errata (cf. FanZ CRD erratum for Namekian Right Throw)",
+  "_src": "S07.jsonl:269"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 84.8,
+  "header_text": "NAMEKIAN RIGHT THROW ) S86\n~",
+  "stages_text": "3 2\n2,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_10",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "10_Blue Seeking Blast.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/10_Blue Seeking Blast.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Seeking Blast",
+  "file_name": "Blue Seeking Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "63c9561fedb8482c3ca366d5de7a2d72ae5268c0"
+ },
+ "vision": {
+  "id": "S09_BST_10",
+  "name": "Blue Seeking Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Styled Drill and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 87.6,
+  "header_text": "BLUE SEEKING BLAST () R10\nAi Ws 1) ee",
+  "stages_text": ",\n1,",
+  "error": null
+ }
+}

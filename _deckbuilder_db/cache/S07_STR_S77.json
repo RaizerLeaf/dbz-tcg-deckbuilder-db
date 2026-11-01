@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S77",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S77_Stare Down.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S77_Stare Down.png",
+  "prefix": "S",
+  "number": 77,
+  "card_number": "S77",
+  "name_part": "Stare Down",
+  "file_name": "Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9ca1811bc003d97878e54881084e7c98b834b3e7"
+ },
+ "vision": {
+  "id": "S07_STR_S77",
+  "name": "Stare Down",
+  "sub": null,
+  "type": "Event",
+  "num": "S77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) POWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_151; text compared on the sheet",
+  "_src": "S07.jsonl:260"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.3,
+  "header_text": "I 35 [fF Foe Sima ee PY [Pte\nom DOWN () S77 |\nA | (sz",
+  "stages_text": ",\n, ,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S134",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S134_Black Side Thrust.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S134_Black Side Thrust.png",
+  "prefix": "S",
+  "number": 134,
+  "card_number": "S134",
+  "name_part": "Black Side Thrust",
+  "file_name": "Black Side Thrust",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3a4e1ed8c2a974f7a17f9df0b6cad896cb86b5a"
+ },
+ "vision": {
+  "id": "S07_STR_S134",
+  "name": "Black Side Thrust",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Name a non-Dragon Ball card. Search your opponent's Life Deck for 1 copy of that card and discard it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S73; text compared on the sheet",
+  "_src": "S07.jsonl:317"
+ },
+ "ocr": {
+  "agreement": 0.852,
+  "lower_conf": 77.5,
+  "header_text": "BLACK SIDE THRUST ) $134\nam) 6 60 eee it",
+  "stages_text": "4\n37",
+  "error": null
+ }
+}

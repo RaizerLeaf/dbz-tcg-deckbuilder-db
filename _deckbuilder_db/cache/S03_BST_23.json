@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_23",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "23_Blue Safeguard.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/23_Blue Safeguard.jpg",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Blue Safeguard",
+  "file_name": "Blue Safeguard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8f62a271ee3535a09e38883c8a956a3be053d656"
+ },
+ "vision": {
+  "id": "S03_BST_23",
+  "name": "Blue Safeguard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. If your opponent's anger level is 0, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.0,
+  "header_text": "| BLUE SAFEGUARD. () ces",
+  "stages_text": ",",
+  "error": null
+ }
+}

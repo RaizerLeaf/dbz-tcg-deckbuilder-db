@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_37",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "37_Orange Redirection.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/37_Orange Redirection.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Orange Redirection",
+  "file_name": "Orange Redirection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "01a05aeb48ceb62424c0137f108dd797d02d9aa0"
+ },
+ "vision": {
+  "id": "S07_BST_37",
+  "name": "Orange Redirection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nRaise your anger 1 level. If you control more than 2 Drills, raise your anger 2 levels instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "ORANGE REDIRECTION C) 37.\nWes! 24 7 , ;",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

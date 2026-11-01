@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_11",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "11_Namekian Determination.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/11_Namekian Determination.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Namekian Determination",
+  "file_name": "Namekian Determination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b5d5efb501a96b63bf060411ba24326fa9c544af"
+ },
+ "vision": {
+  "id": "S12_BST_11",
+  "name": "Namekian Determination",
+  "sub": null,
+  "type": "Setup",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand by a card effect, play it instead.)\n[Instant] POWER: Use when a card effect would discard a card from your hand. You may choose not to discard.\nPOWER: Gain 5 stages. Rejuvenate 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S12.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 78.5,
+  "header_text": "NAMEKIAN DETERMINATION &) U11 |\n—_— hs. en",
+  "stages_text": null,
+  "error": null
+ }
+}

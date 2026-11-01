@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_33",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "33_Namekian Right Burst.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/33_Namekian Right Burst.jpg",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Namekian Right Burst",
+  "file_name": "Namekian Right Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0a8082e42b8ffd39a4d9d9a7b02f32ebcfefb135"
+ },
+ "vision": {
+  "id": "S03_BST_33",
+  "name": "Namekian Right Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. If you control 2 or more Dragon Balls, you may shuffle your hand into your Life Deck to draw the same number of cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "(NAMEKIAN RIGHT BuRsT <3\nYY, RB ff",
+  "stages_text": "4",
+  "error": null
+ }
+}

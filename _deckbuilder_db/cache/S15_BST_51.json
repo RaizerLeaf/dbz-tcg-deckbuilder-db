@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_51",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "51_Tapion - Mysterious Warrior.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/51_Tapion - Mysterious Warrior.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Tapion - Mysterious Warrior",
+  "file_name": "Tapion",
+  "file_subtitle": "Mysterious Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2aad197113b9727256c71e83b2d6270a7c4c2999"
+ },
+ "vision": {
+  "id": "S15_BST_51",
+  "name": "Tapion",
+  "sub": "Mysterious Warrior",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 1,
+  "stages": [
+   350000,
+   275000,
+   200000,
+   125000,
+   90000,
+   60000,
+   30000,
+   10000,
+   7000,
+   4000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage.\nPOWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a card with \"Sword\" in the title from your hand. If you discarded a card with \"Sword\" in the title, raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S15.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "TAPION S51\nMYSTERIOUS WARRIOR\nD , a Pino:",
+  "stages_text": "350,000\n275,000\n200,000\n125,000\n\n5 90,000\n60,000\n30,000\n10,000\n7,000\n\n1 4,000\n0",
+  "error": null
+ }
+}

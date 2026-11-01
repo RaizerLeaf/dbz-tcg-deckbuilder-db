@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_60",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "60_Lavender - Trio of Danger.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/60_Lavender - Trio of Danger.png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Lavender - Trio of Danger",
+  "file_name": "Lavender",
+  "file_subtitle": "Trio of Danger",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3b6305ff54a2d9d7be3590e81db1937a6eb2844e"
+ },
+ "vision": {
+  "id": "S19_BST_60",
+  "name": "Lavender",
+  "sub": "Trio of Danger",
+  "type": "Ally",
+  "num": "U60",
+  "lvl": 1,
+  "stages": [
+   300000,
+   150000,
+   70000,
+   50000,
+   30000,
+   10000,
+   7000,
+   5000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Bergamo only. This card is considered Named. You may use this Power regardless of your MP's power stage.)\n[Continuous]: After taking damage, banish the top card of your opponent's discard pile.\n[Defense] POWER: Prevent all damage from a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S19.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.2,
+  "header_text": "1 [LAVENDER\nLEVEL | TRIO OF DANGER E) U60",
+  "stages_text": "300,000\n150,000\n70,000\n50,000\n30,000\n710,000\n7,000\n5,000\n3,000\n41,000\n0",
+  "error": null
+ }
+}

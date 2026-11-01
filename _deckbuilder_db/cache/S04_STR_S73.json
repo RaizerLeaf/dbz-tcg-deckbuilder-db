@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S73",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S73_Blue Encircled Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S73_Blue Encircled Strike.png",
+  "prefix": "S",
+  "number": 73,
+  "card_number": "S73",
+  "name_part": "Blue Encircled Strike",
+  "file_name": "Blue Encircled Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "728ab56979eb6e2b09a80225cf403f06522ffe05"
+ },
+ "vision": {
+  "id": "S04_STR_S73",
+  "name": "Blue Encircled Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 3 life cards.\nHIT: Banish the top 5 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C20",
+  "_src": "S04.jsonl:226"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "BLUE ENCIRCLED STRIKE () $73\nPP | / a 1%¢ =~ @ |.",
+  "stages_text": "85\n,\n, ,\n4\n,",
+  "error": null
+ }
+}

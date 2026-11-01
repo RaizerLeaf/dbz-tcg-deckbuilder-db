@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_19",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "19_Blue Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/19_Blue Strike.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Blue Strike",
+  "file_name": "Blue Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e964fc3d8cbb4734ebe5955ae74a7e7de5079a7c"
+ },
+ "vision": {
+  "id": "S07_BST_19",
+  "name": "Blue Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your discard pile for up to 2 Styled Setups and place them in your hand.\nDAMAGE: 2 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.7,
+  "header_text": "BLUE STRIKE () C19",
+  "stages_text": "3,\n2\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_42",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "42_Yamcha's Spirit Ball.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/42_Yamcha's Spirit Ball.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Yamcha's Spirit Ball",
+  "file_name": "Yamcha's Spirit Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fb02e0c1621a529702f4c0514c7c7702b4756ff0"
+ },
+ "vision": {
+  "id": "S09_BST_42",
+  "name": "Yamcha's Spirit Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nThis attack stays in play to be used a second and third time this combat.\nDAMAGE: 3 life cards.\nHIT: Lower your opponent's anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "YAMCHA'S SPIRIT BALL () R42\n> 6 6Ult",
+  "stages_text": "7\n,\n4\n,",
+  "error": null
+ }
+}

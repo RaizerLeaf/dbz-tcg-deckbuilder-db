@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P6",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P6_Janemba - Rotund.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P6_Janemba - Rotund.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Janemba - Rotund",
+  "file_name": "Janemba",
+  "file_subtitle": "Rotund",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fb3091c0bf1466a75eba2a203190d3373cd062c"
+ },
+ "vision": {
+  "id": "S15_PRO_P6",
+  "name": "Janemba",
+  "sub": "Rotund",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   3200000,
+   2500000,
+   1800000,
+   1300000,
+   900000,
+   650000,
+   400000,
+   150000,
+   75000,
+   40000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nFocused. You may destroy an attached card. If you do, this attack gains \"HIT: Raise your anger X. X = the attached card's Endurance.\"\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge G (gold); stats and text compared against S15_BST_48 on the sheet, identical",
+  "_src": "S15.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.5,
+  "header_text": "[> Eon & =\nLEVEL tgs ee\nan oe ys Q9 9nNN NNN",
+  "stages_text": "3,200,000\n2,500,000\n1,800,000\n1,300,000\n7900,000\n650,000\n400,000,\n150,000\n2\n75,000\n0,000",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_15",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "15_Namekian Force Push.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/15_Namekian Force Push.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Force Push",
+  "file_name": "Namekian Force Push",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "12ba583d0c40408dcf3bcb5ad558d6b86a6cdcf4"
+ },
+ "vision": {
+  "id": "S09_BST_15",
+  "name": "Namekian Force Push",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nThis attack can only be stopped by an Energy Combat card. This attack deals +X life cards of damage. X = the number of Earth Dragon Balls you own in play.\nDAMAGE: 5 life cards.\nHIT: Banish the top or bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW R15'",
+  "_src": "S09.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 86.9,
+  "header_text": "NAMEKIAN FORCE PUSH\nrRNA RQ QQ OS RP e)",
+  "stages_text": "7\n5\n\n2 ,,\n\n4\n\n,",
+  "error": null
+ }
+}

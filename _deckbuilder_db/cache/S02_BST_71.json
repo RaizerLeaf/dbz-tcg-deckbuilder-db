@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_71",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "71_Trunks - Bashful (CRD).png",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/71_Trunks - Bashful (CRD).png",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Trunks - Bashful",
+  "file_name": "Trunks",
+  "file_subtitle": "Bashful",
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c2eeb5d347f5856d824d584c6bf4628b4bacd3df"
+ },
+ "vision": {
+  "id": "S02_BST_71",
+  "name": "Trunks",
+  "sub": "Bashful",
+  "type": "Ally",
+  "num": "U71",
+  "lvl": 1,
+  "stages": [
+   95000,
+   85000,
+   75000,
+   65000,
+   55000,
+   45000,
+   35000,
+   25000,
+   20000,
+   15000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Instant] POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY; '(CRD)' stamped below the card (owner annotation)",
+  "_src": "S02.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.1,
+  "header_text": "| | 1 TRUNKS co () UTI\nges = om -",
+  "stages_text": "95,000\n85,000\n75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n20,000\n15,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_43",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "43_Bardock - Oozaru.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/43_Bardock - Oozaru.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Bardock - Oozaru",
+  "file_name": "Bardock",
+  "file_subtitle": "Oozaru",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3d16165ce2bef25d40b34b53717a574f11a003a"
+ },
+ "vision": {
+  "id": "S09_BST_43",
+  "name": "Bardock",
+  "sub": "Oozaru",
+  "type": "Ally",
+  "num": "U43",
+  "lvl": 1,
+  "stages": [
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   4000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nIf stopped, draw a card.\nDAMAGE: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge S (green) = Saiyan",
+  "_src": "S09.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "BARDOCK\n| Bs Qu:",
+  "stages_text": "80,000\n60,000\n40,000\n20,000\n10,000\n7 5,000\n4,000\n1,000\n500\n\n250\n\n0",
+  "error": null
+ }
+}

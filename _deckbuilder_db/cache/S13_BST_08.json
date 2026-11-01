@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_08",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "08_Blue Taunting Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/08_Blue Taunting Drill.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Taunting Drill",
+  "file_name": "Blue Taunting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "58cc04545f516cd05a19cb7d4f049f3aa71b0ca0"
+ },
+ "vision": {
+  "id": "S13_BST_08",
+  "name": "Blue Taunting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck, gain 5 stages.)\n[Continuous]: Players cannot use Setups during combat unless they have performed an attack this turn.\n[Instant] POWER: Use after you perform a successful copied attack. Rejuvenate 2. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.2,
+  "header_text": "BLUE TAUNTING DRILL () U8\na = ———————s",
+  "stages_text": null,
+  "error": null
+ }
+}

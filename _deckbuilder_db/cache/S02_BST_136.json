@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_136",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "136_Nail’s Dashing Attack.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/136_Nail’s Dashing Attack.jpg",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Nail’s Dashing Attack",
+  "file_name": "Nail’s Dashing Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2b29688a244088203a1b6c83fae45bf924fab406"
+ },
+ "vision": {
+  "id": "S02_BST_136",
+  "name": "Nail's Dashing Attacking",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered Styled for your card effects.) [Attack] Physical attack. DAMAGE: AT +4 stages. Use a critical damage effect. HIT: Shuffle this card into your Life Deck.",
+  "conf": "high",
+  "review": "printed card type is ENERGY COMBAT but the text is a Physical attack; printed title reads 'DASHING ATTACKING' (filename 'Dashing Attack'). Check against the CRD",
+  "note": "grey frame; title zoomed to confirm 'ATTACKING'",
+  "_src": "S02.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.5,
+  "header_text": "Qars DASHING ATTACKING é) AIS",
+  "stages_text": "",
+  "error": null
+ }
+}

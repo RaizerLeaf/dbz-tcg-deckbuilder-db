@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_73",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "73_Namekian Energy Assault.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/73_Namekian Energy Assault.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Namekian Energy Assault",
+  "file_name": "Namekian Energy Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "851b2a17e66c728f040c0df849dcc7786b79fbf6"
+ },
+ "vision": {
+  "id": "S04_BST_73",
+  "name": "Namekian Energy Assault",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYou may shuffle a Dragon Ball you control into its owner's Life Deck to search your Life Deck or discard pile for an Ally and play it.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "NAMEKIAN ENERGY ASSAULT @ =) U73_\nee",
+  "stages_text": ",\n1\n,",
+  "error": null
+ }
+}

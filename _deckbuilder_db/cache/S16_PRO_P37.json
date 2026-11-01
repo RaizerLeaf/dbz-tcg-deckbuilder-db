@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P37",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P37_Confrontation.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P37_Confrontation.png",
+  "prefix": "P",
+  "number": 37,
+  "card_number": "P37",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "95cf5b32cb404826bec96fbb6ebcc81fa67b7405"
+ },
+ "vision": {
+  "id": "S16_PRO_P37",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "P37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S16.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.6,
+  "header_text": "CONFRONTATION () P37\nES gto /’ / Pay bee db .",
+  "stages_text": ",\n4\n5",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_13",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "13_Namekian Regroup.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/13_Namekian Regroup.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Regroup",
+  "file_name": "Namekian Regroup",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68e2a8cec928aa893e639889c3d53b0b498dc636"
+ },
+ "vision": {
+  "id": "S15_BST_13",
+  "name": "Namekian Regroup",
+  "sub": null,
+  "type": "Event",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when a Dragon Ball you control would be captured. Shuffle that Dragon Ball back into its owner's Life Deck instead. If your MP has only 1 Trait, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "NAMEKIAN REGROUP C) C13",
+  "stages_text": "34\n4\n2,\n4,",
+  "error": null
+ }
+}

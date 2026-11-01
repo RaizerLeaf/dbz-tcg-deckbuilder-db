@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P18",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P18_Black Reflection.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P18_Black Reflection.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Black Reflection",
+  "file_name": "Black Reflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fa71a7914a1773530ea23088528450c4bb0cbd7d"
+ },
+ "vision": {
+  "id": "S16_PRO_P18",
+  "name": "Black Reflection",
+  "sub": null,
+  "type": "Event",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your opponent's Banished Zone for an attack card and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S16.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.1,
+  "header_text": "BLACK REFLECTION ) P18.",
+  "stages_text": ",",
+  "error": null
+ }
+}

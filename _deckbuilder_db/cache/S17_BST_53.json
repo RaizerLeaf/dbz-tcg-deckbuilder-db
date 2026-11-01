@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_53",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "53_Frost - Full Tilt.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/53_Frost - Full Tilt.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Frost - Full Tilt",
+  "file_name": "Frost",
+  "file_subtitle": "Full Tilt",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b9405845657e2adce2b7a6909e3fa174d44cc3a2"
+ },
+ "vision": {
+  "id": "S17_BST_53",
+  "name": "Frost",
+  "sub": "Full Tilt",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 4,
+  "stages": [
+   8000000,
+   6800000,
+   4600000,
+   2400000,
+   930000,
+   750000,
+   580000,
+   320000,
+   100000,
+   55000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards. You may use your Level 3 [Continuous] Powers.\nPOWER: Lower your MP 1 level to search your discard pile and/or Banished Zone for up to 3 \"Villains only\" cards and Rejuvenate them.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S17.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.1,
+  "header_text": "4A FROST\nLEVEL FULL TILT () 593",
+  "stages_text": "8,000,000\n6,800,000\n4,600,000\n2,400,000\n930,000\n750,000\n580,000\n320,000\n100,000\n55,000\n\n0",
+  "error": null
+ }
+}

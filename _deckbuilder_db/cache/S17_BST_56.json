@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_56",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "56_Hit - Ace of Universe 6.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/56_Hit - Ace of Universe 6.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Hit - Ace of Universe 6",
+  "file_name": "Hit",
+  "file_subtitle": "Ace of Universe 6",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6fbb6e35408c72c2e54ca962ce9ea324f0829857"
+ },
+ "vision": {
+  "id": "S17_BST_56",
+  "name": "Hit",
+  "sub": "Ace of Universe 6",
+  "type": "Main Personality",
+  "num": "S56",
+  "lvl": 3,
+  "stages": [
+   160000000,
+   42000000,
+   7940000,
+   1420000,
+   1069000,
+   836000,
+   482000,
+   297000,
+   80000,
+   43000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when your opponent skips an action or an effect ends combat. Banish the top 3 cards of your opponent's Life Deck.\nPOWER: Draw a card. Stops an attack in your opponent's next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S17.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "3 HIT\n; LEVEL | ACE OF UNIVERSE 6 S56",
+  "stages_text": "160,000,000\n42,000,000\n7,940,000\n1,420,000\n1,069,000\n836,000\n482,000\n297,000\n80,000\n43,000\n0",
+  "error": null
+ }
+}

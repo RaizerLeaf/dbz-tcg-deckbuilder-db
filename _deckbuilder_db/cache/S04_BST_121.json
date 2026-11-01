@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_121",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "121_Saiyan Destructive Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/121_Saiyan Destructive Blast.png",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Saiyan Destructive Blast",
+  "file_name": "Saiyan Destructive Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "6aee23b81f693aa5eae3ea3c4f4e09e14520b70a"
+ },
+ "vision": {
+  "id": "S04_BST_121",
+  "name": "Saiyan Destructive Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nPlace an Ally in play on top of its owner's Life Deck.\nDAMAGE: 4 life cards.\nHIT: Place an Ally in play at the bottom of its owner's Life Deck. Shuffle an Ally in play into its owner's Life Deck. Destroy an Ally. Banish an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "SAIYAN DESTRUCTIVE pLasT¢ ) R121\nhi / ’ a",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

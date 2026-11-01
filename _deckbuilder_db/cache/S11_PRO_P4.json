@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P4",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P4_Vegeta - Redeemed.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P4_Vegeta - Redeemed.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Vegeta - Redeemed",
+  "file_name": "Vegeta",
+  "file_subtitle": "Redeemed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "423ad7dcc86e76a1318bb4290d01795c32d797ac"
+ },
+ "vision": {
+  "id": "S11_PRO_P4",
+  "name": "Vegeta",
+  "sub": "Redeemed",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 4,
+  "stages": [
+   3200000,
+   1500000,
+   750000,
+   375000,
+   125000,
+   60000,
+   30000,
+   15000,
+   7000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nDamage from this attack cannot be modified or prevented.\nDAMAGE: 11 life cards.\nHIT: Lower your MP to level 1.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badges M + S; stats and text compared against S11_BST_62 on the sheet, identical",
+  "_src": "S11.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 53.4,
+  "header_text": "VEGETA\nfea REDEEMED Ny Qa ra )\nLEVEL [or \\ \\y ee es a ~\nmes aN \\\\NVI \\V/ |W a, 8 NN ANNO",
+  "stages_text": "3,200,000\n1,500,000\n750,000\n375,000\n125,000\n,000\n15,000\n1,000",
+  "error": null
+ }
+}

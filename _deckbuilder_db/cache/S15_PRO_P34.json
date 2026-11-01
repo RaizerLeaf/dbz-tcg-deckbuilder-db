@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P34",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P34_Saiyan Elbow Drop.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P34_Saiyan Elbow Drop.png",
+  "prefix": "P",
+  "number": 34,
+  "card_number": "P34",
+  "name_part": "Saiyan Elbow Drop",
+  "file_name": "Saiyan Elbow Drop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b2bfc55fb743767aadc0cc9cbc51dad1a2f096cd"
+ },
+ "vision": {
+  "id": "S15_PRO_P34",
+  "name": "Saiyan Elbow Drop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Physical attack.\nRemain 1.\nDAMAGE: AT + 3 stages.\n(Banish after use.)\n(Tournament of Power 2021)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; prints a '(Tournament of Power 2021)' event line; no Endurance badge",
+  "_src": "S15.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.2,
+  "header_text": "SAIYAN ELBOW DROP @ P34",
+  "stages_text": "4\n4",
+  "error": null
+ }
+}

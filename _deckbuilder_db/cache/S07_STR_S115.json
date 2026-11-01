@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S115",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S115_Saiyan Rescue.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S115_Saiyan Rescue.png",
+  "prefix": "S",
+  "number": 115,
+  "card_number": "S115",
+  "name_part": "Saiyan Rescue",
+  "file_name": "Saiyan Rescue",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43ac06f616a4987c4dccd009dfc936c955a7acfe"
+ },
+ "vision": {
+  "id": "S07_STR_S115",
+  "name": "Saiyan Rescue",
+  "sub": null,
+  "type": "Event",
+  "num": "S115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Saiyan Rescue\" attached.)\nPOWER: Attach to your MP. Rejuvenate 1. While attached, once per turn as an action you may choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_94; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:298"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "SAIYAN RESCUE (sits\nPe eNNS ee",
+  "stages_text": "3\n\n4\n,\n1,",
+  "error": null
+ }
+}

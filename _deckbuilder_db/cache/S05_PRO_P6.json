@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P6",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P6_Namekian Double Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P6_Namekian Double Strike.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Namekian Double Strike",
+  "file_name": "Namekian Double Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5c2213e1ab005df02b0d7e5fae64381b291fe6a5"
+ },
+ "vision": {
+  "id": "S05_PRO_P6",
+  "name": "Namekian Double Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, you may use a critical damage effect.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": "printed type PHYSICAL COMBAT but the text is an Energy attack (S01 C30 original is Energy Combat). Check the CRD",
+  "note": "promo reprint of S01 C30",
+  "_src": "S05.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 82.1,
+  "header_text": "NAMEKIAN DOUBLE STRIKE () P6\na =",
+  "stages_text": ",\n1",
+  "error": null
+ }
+}

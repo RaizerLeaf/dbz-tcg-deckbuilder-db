@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_22",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "22_Orange Back Smash.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/22_Orange Back Smash.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Orange Back Smash",
+  "file_name": "Orange Back Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "13faeb9a02461b9987f71b3d5c147f86d3f2548a"
+ },
+ "vision": {
+  "id": "S16_BST_22",
+  "name": "Orange Back Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf a Drill you controlled was destroyed from play by one of your effects this turn, search your Life Deck for a [Continuous] Drill and place it into play. [Warning]: Focused.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 90.5,
+  "header_text": "ORANGE BACK SMASH C) U22",
+  "stages_text": "4\n7\n,",
+  "error": null
+ }
+}

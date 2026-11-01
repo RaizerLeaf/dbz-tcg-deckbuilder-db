@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S152",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S152_Red Shattering Leap.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S152_Red Shattering Leap.png",
+  "prefix": "S",
+  "number": 152,
+  "card_number": "S152",
+  "name_part": "Red Shattering Leap",
+  "file_name": "Red Shattering Leap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3a65ff8e67e045c8d29491a19a8cef54a1b0f667"
+ },
+ "vision": {
+  "id": "S04_STR_S152",
+  "name": "Red Shattering Leap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S152",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 1 stage.\nDAMAGE: AT +4 stages.\nHIT: This attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C49",
+  "_src": "S04.jsonl:305"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 84.2,
+  "header_text": "RED SHATTERING LEAP @ s12\nll a >",
+  "stages_text": ",\n,\n,\n\n2",
+  "error": null
+ }
+}

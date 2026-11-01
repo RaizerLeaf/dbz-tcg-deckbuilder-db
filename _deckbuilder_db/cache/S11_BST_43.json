@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_43",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "43_Piccolo's Lethal Chop.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/43_Piccolo's Lethal Chop.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Piccolo's Lethal Chop",
+  "file_name": "Piccolo's Lethal Chop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6c9004347a189f5839f642fa272afd8e60b07be1"
+ },
+ "vision": {
+  "id": "S11_BST_43",
+  "name": "Piccolo's Lethal Chop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 1 per deck.)\n[Attack] 1: Physical attack.\nUnpreventable. You may shuffle a non-MP/non-Mastery card in play back into its owner's Life Deck.\nDAMAGE: 6 life cards or 6 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; first card seen with the 'Unpreventable' keyword in the text",
+  "_src": "S11.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 86.8,
+  "header_text": "PICCOLO'S LETHAL CHOP ) R43",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

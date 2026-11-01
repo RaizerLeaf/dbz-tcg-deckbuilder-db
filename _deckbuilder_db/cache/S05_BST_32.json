@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_32",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "32_Namekian Resistance.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/32_Namekian Resistance.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Namekian Resistance",
+  "file_name": "Namekian Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "75b65e5fbc3e33fc7c1cb08cf1490345e2e62968"
+ },
+ "vision": {
+  "id": "S05_BST_32",
+  "name": "Namekian Resistance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may use the immediate effects of a Dragon Ball in play. If you do, your opponent may use the immediate effects of a Dragon Ball in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "NAMEKIAN RESISTANCE ) 632 |\n> if ~~ aT oe",
+  "stages_text": "7\n,\n\n2\n,",
+  "error": null
+ }
+}

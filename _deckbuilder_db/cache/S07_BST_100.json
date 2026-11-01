@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_100",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "100_Saiyan Slap.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/100_Saiyan Slap.png",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Saiyan Slap",
+  "file_name": "Saiyan Slap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "af7cffe59cb2fcabc3caed680bac0d8d44ef65c0"
+ },
+ "vision": {
+  "id": "S07_BST_100",
+  "name": "Saiyan Slap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nSearch your discard pile for up to 3 cards with \"Sword\" in the title and Rejuvenate them.\nDAMAGE: AT +3 stages.\nHIT: Rejuvenate 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 80.7,
+  "header_text": "SAIYAN SLAP () U100\nr ON 4 “ey” SS a \\ i ££",
+  "stages_text": "7\n\n8\n,\n03",
+  "error": null
+ }
+}

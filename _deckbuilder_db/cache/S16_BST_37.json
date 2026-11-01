@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_37",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "37_Prophetic Visions.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/37_Prophetic Visions.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Prophetic Visions",
+  "file_name": "Prophetic Visions",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ec3481879bf43de2482df27c292930282070cf54"
+ },
+ "vision": {
+  "id": "S16_BST_37",
+  "name": "Prophetic Visions",
+  "sub": null,
+  "type": "Setup",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:God] only. Limit 1 per deck.)\nPOWER: Search your Life Deck for a Styled card and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; inline icon zoomed: gold G badge (God), used as a deck restriction; no Endurance badge",
+  "_src": "S16.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 77.0,
+  "header_text": ": ae at\nPROPHETIC VISIONS  ) R37\nes se ee Sema case",
+  "stages_text": null,
+  "error": null
+ }
+}

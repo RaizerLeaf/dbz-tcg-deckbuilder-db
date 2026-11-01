@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_32",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "32_Reinforcements.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/32_Reinforcements.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Reinforcements",
+  "file_name": "Reinforcements",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3e039af8e880b2f62fa1128f491f37be0a3d40c"
+ },
+ "vision": {
+  "id": "S12_BST_32",
+  "name": "Reinforcements",
+  "sub": null,
+  "type": "Event",
+  "num": "R32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\nPOWER: Search your Life Deck or discard pile for an Ally and place it into play at 5 stages above 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 78.4,
+  "header_text": "REINFORCEMENTS () R32",
+  "stages_text": ",\n\n7\n,\n\n1\n\n0,",
+  "error": null
+ }
+}

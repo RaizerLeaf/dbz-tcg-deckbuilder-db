@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P5",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P5_Bojack - Looming Threat.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P5_Bojack - Looming Threat.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Bojack - Looming Threat",
+  "file_name": "Bojack",
+  "file_subtitle": "Looming Threat",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f3cf5bca75f419e622c48b9d9bf586a07e8fe4ba"
+ },
+ "vision": {
+  "id": "S12_PRO_P5",
+  "name": "Bojack",
+  "sub": "Looming Threat",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   800000,
+   300000,
+   100000,
+   50000,
+   30000,
+   10000,
+   7000,
+   5000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Named Ally or Named Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge A (purple); stats and text compared against S12_BST_44 on the sheet, identical",
+  "_src": "S12.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 61.7,
+  "header_text": "BOJACK\naa LOOMING THREAT y PS\n0 De a Se ann nnn",
+  "stages_text": "800,000\n\n300,000\n\n100,000\n50,000\n30,000\n700\n\n5,000\n1,000\n\n1,",
+  "error": null
+ }
+}

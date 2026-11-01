@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_76",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "76_Red Premonition.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/76_Red Premonition.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Red Premonition",
+  "file_name": "Red Premonition",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "f3c686552008af0195330cd4a0437a03ffa0822a"
+ },
+ "vision": {
+  "id": "S04_BST_76",
+  "name": "Red Premonition",
+  "sub": null,
+  "type": "Setup",
+  "num": "U76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Whenever this card is revealed from your hand, you may banish it to search your Life Deck for a Styled event and place it into your hand.)\nPOWER: Lower your MP 1 level to advance or lower your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.5,
+  "header_text": "i”\n4",
+  "stages_text": null,
+  "error": null
+ }
+}

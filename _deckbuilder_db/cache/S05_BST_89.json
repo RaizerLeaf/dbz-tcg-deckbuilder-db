@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_89",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "89_Namekian Preparation.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/89_Namekian Preparation.png",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Namekian Preparation",
+  "file_name": "Namekian Preparation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "78a968b62b4d1205f78b95d9bfc1091fb89a1fb4"
+ },
+ "vision": {
+  "id": "S05_BST_89",
+  "name": "Namekian Preparation",
+  "sub": null,
+  "type": "Event",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Instant] POWER: Use when you perform a physical attack. Use a critical damage effect. You may return a Dragon Ball in play to its owner's hand. If you do, cancel the immediate effects of all [Defense] cards this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 74.7,
+  "header_text": "NAMEKIAN PREPARATION C) U89\na _~_— _ «| > v 7",
+  "stages_text": "4 ,\n,\n2\n4\n0,",
+  "error": null
+ }
+}

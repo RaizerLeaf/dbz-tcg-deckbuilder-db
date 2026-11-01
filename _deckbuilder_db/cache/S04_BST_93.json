@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_93",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "93_Vegeta - Unrelenting.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/93_Vegeta - Unrelenting.png",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Vegeta - Unrelenting",
+  "file_name": "Vegeta",
+  "file_subtitle": "Unrelenting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "88b93f44105d083b0720737b3af311cf98d88dad"
+ },
+ "vision": {
+  "id": "S04_BST_93",
+  "name": "Vegeta",
+  "sub": "Unrelenting",
+  "type": "Ally",
+  "num": "U93",
+  "lvl": 1,
+  "stages": [
+   150000,
+   100000,
+   75000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Goku, once per combat you may place this card into play from your hand at 2 power stages above 0 to stop a physical or energy attack.)\nPOWER: [Attack] Energy attack costing 1 stage.\nDAMAGE: AT life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'HERO ALLY' (alignment printed on PanZ Set 4 Allies)",
+  "_src": "S04.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 0.878,
+  "lower_conf": 79.7,
+  "header_text": "VEGETA\nLEVEL UNRELENTING () U93\n—— ZT =—lrlC Xl, i LL OT Ew a",
+  "stages_text": "150,000\n100,000\n75,000\n50,000\n25,000\n20,000\n15,000\n10,000\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

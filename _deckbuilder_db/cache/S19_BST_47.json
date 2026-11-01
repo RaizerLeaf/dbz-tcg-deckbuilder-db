@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_47",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "47_Buu's Slumber.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/47_Buu's Slumber.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Buu's Slumber",
+  "file_name": "Buu's Slumber",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3ba383783938e79590468b977546372894270468"
+ },
+ "vision": {
+  "id": "S19_BST_47",
+  "name": "Buu's Slumber",
+  "sub": null,
+  "type": "Setup",
+  "num": "R47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. If this card is in your discard pile, you may banish it as an action to lower your opponent's anger 2.)\nPOWER: Search your discard pile for up to 2 cards and shuffle them into your Life Deck.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S19.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.3,
+  "header_text": "BUU'S SLUMBER ae R47 |",
+  "stages_text": null,
+  "error": null
+ }
+}

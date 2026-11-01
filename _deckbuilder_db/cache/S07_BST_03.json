@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_03",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "03_Black Dispel.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/03_Black Dispel.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Dispel",
+  "file_name": "Black Dispel",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bda16cafe8209e3bc97b312eb8838a1020233bd5"
+ },
+ "vision": {
+  "id": "S07_BST_03",
+  "name": "Black Dispel",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nThe next time one of your effects requires you to discard a card from your hand this combat, you may reveal it instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "BLACK DISPEL ) 63 |\naS",
+  "stages_text": ",\n5\n,\n,",
+  "error": null
+ }
+}

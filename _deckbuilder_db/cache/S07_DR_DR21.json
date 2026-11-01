@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR21",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR21_Hercule - Champion.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR21_Hercule - Champion.png",
+  "prefix": "DR",
+  "number": 21,
+  "card_number": "DR21",
+  "name_part": "Hercule - Champion",
+  "file_name": "Hercule",
+  "file_subtitle": "Champion",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2036f902a98aeff91abe82938a858ca203461b47"
+ },
+ "vision": {
+  "id": "S07_DR_DR21",
+  "name": "Hercule",
+  "sub": "Champion",
+  "type": "Main Personality",
+  "num": "DR21",
+  "lvl": 1,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(Your Life Deck cannot include cards that perform energy attacks.)\n[Continuous]: Your attacks deal +100 stages of damage. Your attacks cannot have their damage modified by your effects.\nPOWER: [Attack] Physical attack.\nYour MP gains 5 stages. Search your Life Deck for \"Hercule's Dynamite Kick\" and place it into your hand.\nDAMAGE: 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; power stages printed ascending (5..50) then 0, as on PZP",
+  "_src": "S07.jsonl:167"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 85.0,
+  "header_text": "f NI HERCULE @ vei\nFara] CHAMPION Py",
+  "stages_text": "1 25\n30\n35\n40\n45\n\n50\n\n0",
+  "error": null
+ }
+}

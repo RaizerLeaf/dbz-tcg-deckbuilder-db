@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P24",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P24_Dragon Radar.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P24_Dragon Radar.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Dragon Radar",
+  "file_name": "Dragon Radar",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "10b74395e35db5c5e138ee731be8db0c61f6aa2d"
+ },
+ "vision": {
+  "id": "S10_PRO_P24",
+  "name": "Dragon Radar",
+  "sub": null,
+  "type": "Setup",
+  "num": "P24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Dragon ball and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame; reprint of S01 R149; 'Dragon ball' lower-case b as printed",
+  "_src": "S10.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.9,
+  "header_text": "DRAGON RADAR a) P24 |\nSS ee Se",
+  "stages_text": null,
+  "error": null
+ }
+}

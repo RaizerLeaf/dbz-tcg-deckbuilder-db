@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_116",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "116_Orange Affection Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/116_Orange Affection Drill.png",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Orange Affection Drill",
+  "file_name": "Orange Affection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "55e366932636eea8fb990e783d70fc3a50ce7700"
+ },
+ "vision": {
+  "id": "S07_BST_116",
+  "name": "Orange Affection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Reveal up to 2 Drills from your hand and shuffle them into your Life Deck to draw the same number of cards.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "ORANGE AFFECTION DRILL () R116",
+  "stages_text": null,
+  "error": null
+ }
+}

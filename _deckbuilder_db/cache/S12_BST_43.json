@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_43",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "43_Team Bojack - Gathered.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/43_Team Bojack - Gathered.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Team Bojack - Gathered",
+  "file_name": "Team Bojack",
+  "file_subtitle": "Gathered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "df7b76ea96652ab5ad01b1834a582335e6455187"
+ },
+ "vision": {
+  "id": "S12_BST_43",
+  "name": "Team Bojack",
+  "sub": "Gathered",
+  "type": "Ally",
+  "num": "U43",
+  "lvl": 1,
+  "stages": [
+   500000,
+   100000,
+   50000,
+   25000,
+   9000,
+   5000,
+   1000,
+   600,
+   300,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Bojack Only. This card is considered Named and you may use these Powers regardless of your MP's power stage.)\n[Instant] POWER: Use when this card is leaving play. Banish it to use a critical damage effect.\nPOWER: [Attack] Energy attack costing 2 stages.\nDAMAGE: 2 life cards.\nHIT: You may banish a Setup, Drill, Ally, or attached card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S12.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 76.0,
+  "header_text": "LL TEAM BOJACK\nLEVEL GATHERED () U43",
+  "stages_text": "500,000\n100,000\n50,000\n25,000\n9,000\n7 5,000\n1,000\n600\n300\n\n100\n0",
+  "error": null
+ }
+}

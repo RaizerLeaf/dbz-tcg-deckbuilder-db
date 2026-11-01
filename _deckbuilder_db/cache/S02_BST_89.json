@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_89",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "89_Red City Destruction.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/89_Red City Destruction.jpg",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Red City Destruction",
+  "file_name": "Red City Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0b106225a0daf6060285a64507cb381df8ab0b2a"
+ },
+ "vision": {
+  "id": "S02_BST_89",
+  "name": "Red City Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Use a critical damage effect. Your anger cannot be lowered by critical damage effects this turn. Until the start of your next turn, your effects that require you to lower your anger are reduced by 1 (to a minimum of 0).",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.5,
+  "header_text": "(RED CITY DESTRUCTION (29\n1 ‘N i ; eto",
+  "stages_text": ",",
+  "error": null
+ }
+}

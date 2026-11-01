@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_16",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "16_Blue Waiting Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/16_Blue Waiting Drill.jpg",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Blue Waiting Drill",
+  "file_name": "Blue Waiting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "a2923f66172abe7666c2517d35ee3f76bf663e14"
+ },
+ "vision": {
+  "id": "S06_BST_16",
+  "name": "Blue Waiting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Whenever you Rejuvenate an Ally, destroy the top 2 cards of your opponent's Life Deck.\nWhenever you play an Ally, Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 78.7,
+  "header_text": "BLUE WAITING DRILL © cis |\nLn eore Seee 0C :",
+  "stages_text": null,
+  "error": null
+ }
+}

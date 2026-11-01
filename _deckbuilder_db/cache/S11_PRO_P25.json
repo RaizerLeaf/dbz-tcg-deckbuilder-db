@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P25",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P25_Heroic Plan.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P25_Heroic Plan.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Heroic Plan",
+  "file_name": "Heroic Plan",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2af24b8694a94b42d2e2bd16bf136b90495dee47"
+ },
+ "vision": {
+  "id": "S11_PRO_P25",
+  "name": "Heroic Plan",
+  "sub": null,
+  "type": "Setup",
+  "num": "P25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 1 per deck.)\nPOWER: Search your Life Deck for a Setup, Drill, or Ally and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; black-and-white manga art; no Endurance badge",
+  "_src": "S11.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "HEROIC PLAN a) P25 |",
+  "stages_text": null,
+  "error": null
+ }
+}

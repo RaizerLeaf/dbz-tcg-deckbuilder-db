@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_53",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "53_Saiyan Energy Outburst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/53_Saiyan Energy Outburst.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan Energy Outburst",
+  "file_name": "Saiyan Energy Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ba8cc1b2507b2b15ab42d00823d0e9de2f926052"
+ },
+ "vision": {
+  "id": "S04_BST_53",
+  "name": "Saiyan Energy Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nYour opponent's effects cannot discard cards from your hand this combat.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "SAIYAN ENERGY OUTBURST () C53\na’ 7 Paes, ahh ir 4",
+  "stages_text": ",\n6\n,\n,",
+  "error": null
+ }
+}

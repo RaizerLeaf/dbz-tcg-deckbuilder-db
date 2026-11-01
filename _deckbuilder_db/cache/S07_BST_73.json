@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_73",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "73_Mercenary Tao - Reckless.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/73_Mercenary Tao - Reckless.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Mercenary Tao - Reckless",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Reckless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6f95f251ce0ef462f43952189e47729711d85009"
+ },
+ "vision": {
+  "id": "S07_BST_73",
+  "name": "Mercenary Tao",
+  "sub": "Reckless",
+  "type": "Main Personality",
+  "num": "U73",
+  "lvl": 2,
+  "stages": [
+   287,
+   257,
+   227,
+   197,
+   167,
+   137,
+   107,
+   77,
+   47,
+   17,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform an attack, destroy the top card of your opponent's Life Deck.\nPOWER: [Attack] Physical attack.\nYou may shuffle a card from your hand into your Life Deck to draw a card.\nDAMAGE: 1 life card.\nHIT: Your next attack this combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 76.5,
+  "header_text": "= | MERCENARY TAO\nEV RECKLESS",
+  "stages_text": "287\n\n257\n227\n\n197\n167\n137\n107\n77\n\n47\n\n17\n0",
+  "error": null
+ }
+}

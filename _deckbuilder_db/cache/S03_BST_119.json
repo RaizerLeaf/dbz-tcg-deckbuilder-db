@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_119",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "119_Red Threatening Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/119_Red Threatening Drill.jpg",
+  "prefix": null,
+  "number": 119,
+  "card_number": "119",
+  "name_part": "Red Threatening Drill",
+  "file_name": "Red Threatening Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e895ab00c91ede2ec8dca75ad87833c9bfab3a0b"
+ },
+ "vision": {
+  "id": "S03_BST_119",
+  "name": "Red Threatening Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When you advance a level, you may banish this drill instead of discarding it. If you do, your physical attacks deal +3 stages of damage this combat.) [Continuous]: Your attacks deal +1 stage of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "(RED THREATENING. DRILL (=\nel sh Cae —_—— >",
+  "stages_text": "",
+  "error": null
+ }
+}

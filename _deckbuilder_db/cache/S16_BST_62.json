@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_62",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "62_King Kai - Coach.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/62_King Kai - Coach.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "King Kai - Coach",
+  "file_name": "King Kai",
+  "file_subtitle": "Coach",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0ce1dd929a342314235b52ee20bec76436de2ca0"
+ },
+ "vision": {
+  "id": "S16_BST_62",
+  "name": "King Kai",
+  "sub": "Coach",
+  "type": "Ally",
+  "num": "U62",
+  "lvl": 1,
+  "stages": [
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   800,
+   600,
+   400,
+   200,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: Your personality PURs are +1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge G (gold)",
+  "_src": "S16.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "1 ES KAI\nLEVEL | COACH E) U62",
+  "stages_text": "3,500\n\n3,000\n\n2,500\n\n2,000\n3\n\n1,500\n\n1,000\n\n800\n\n600\n\n400\n\n1 200\n\n0",
+  "error": null
+ }
+}

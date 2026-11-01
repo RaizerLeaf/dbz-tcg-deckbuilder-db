@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_02",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "02_Blac Reflex.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/02_Blac Reflex.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Blac Reflex",
+  "file_name": "Blac Reflex",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f80116baae2cda0811b47e199aa33d52811084bd"
+ },
+ "vision": {
+  "id": "S10_BST_02",
+  "name": "Black Reflex",
+  "sub": null,
+  "type": "Setup",
+  "num": "U2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(When your opponent draws a card during combat, you may banish this card from your hand to draw a card.)\nPOWER: Rejuvenate 1. Choose a card in your opponent's discard pile and banish it. Banish the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 10 Setup layout (Heroes-star set symbol); filename typo 'Blac'",
+  "_src": "S10.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 79.6,
+  "header_text": "BLACK REFLEX () U2",
+  "stages_text": null,
+  "error": null
+ }
+}

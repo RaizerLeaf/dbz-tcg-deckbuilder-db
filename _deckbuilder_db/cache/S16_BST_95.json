@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_95",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "95_Piccolo - Fighting Spirit.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/95_Piccolo - Fighting Spirit.png",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Piccolo - Fighting Spirit",
+  "file_name": "Piccolo",
+  "file_subtitle": "Fighting Spirit",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9a7eabec7e615481d27053f53e4cea514dae3a59"
+ },
+ "vision": {
+  "id": "S16_BST_95",
+  "name": "Piccolo",
+  "sub": "Fighting Spirit",
+  "type": "Main Personality",
+  "num": "S95",
+  "lvl": 4,
+  "stages": [
+   2750000,
+   2400000,
+   2250000,
+   1700000,
+   1350000,
+   900000,
+   550000,
+   300000,
+   150000,
+   70000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your attacks cost -2 stages (to a minimum of 0) and are Focused.\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a Named card and place it into your hand. Rejuvenate 3.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge N (orange)",
+  "_src": "S16.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "PICCOLO",
+  "stages_text": "2,750,000\n2,400,000\n2,250,000\n1,700,000\n1,350,000\n900,000\n550,000\n300,000\n150,000\n70,000\n0",
+  "error": null
+ }
+}

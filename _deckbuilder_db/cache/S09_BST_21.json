@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_21",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "21_Red Oversized Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/21_Red Oversized Drill.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Oversized Drill",
+  "file_name": "Red Oversized Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "84163c7dbe94414dab930ce9bdc78d5ea4fca151"
+ },
+ "vision": {
+  "id": "S09_BST_21",
+  "name": "Red Oversized Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. If this card is in your discard pile, you may banish it as an action to gain 2 stages and place a card from your discard pile on top of your discard pile.)\n[Continuous]: Your attacks deal +1 stage of damage. Your opponent's attacks deal -1 stage of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S09.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "RED OVERSIZED DRILL () C21",
+  "stages_text": null,
+  "error": null
+ }
+}

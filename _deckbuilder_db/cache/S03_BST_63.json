@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_63",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "63_Dr. Wheelo - Confined.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/63_Dr. Wheelo - Confined.jpg",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Dr. Wheelo - Confined",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Confined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d981bd241fffa40a6d5fc5f5730b70806610c0be"
+ },
+ "vision": {
+  "id": "S03_BST_63",
+  "name": "Dr. Wheelo",
+  "sub": "Confined",
+  "type": "Main Personality",
+  "num": "U63",
+  "lvl": 3,
+  "stages": [
+   1400,
+   1350,
+   1300,
+   1250,
+   1200,
+   1150,
+   1100,
+   1000,
+   900,
+   800,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Instant] POWER: Use after you perform a successful attack. Destroy the top 2 cards of your opponent's Life Deck and Rejuvenate 2. [Continuous]: Whenever one of your effects destroys cards from the top of your opponent's Life Deck, increase that amount by 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "3 DR. WHEELO. uses\nLEVEL —",
+  "stages_text": "1,400\n1,350\n\n, 1,300\n1,250\n1,200\n1,150\n1,100\n1,000\n\n900\n\n800\n\n0",
+  "error": null
+ }
+}

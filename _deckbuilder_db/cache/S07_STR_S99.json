@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S99",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S99_Namekian Check Explosion.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S99_Namekian Check Explosion.png",
+  "prefix": "S",
+  "number": 99,
+  "card_number": "S99",
+  "name_part": "Namekian Check Explosion",
+  "file_name": "Namekian Check Explosion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2c7357d65a6cf5756a2e13851017a7ee8dccd104"
+ },
+ "vision": {
+  "id": "S07_STR_S99",
+  "name": "Namekian Chest Explosion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nSearch your Life Deck or discard pile for a Saiyan Ally and play it.\nDAMAGE: 5 +X life cards. X = the number of Saiyan personalities in play.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_29; text compared on the sheet; filename typo 'Check Explosion' (card prints CHEST)",
+  "_src": "S07.jsonl:282"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "NAMEKIAN CHEST EXPLOSION () $99",
+  "stages_text": ",",
+  "error": null
+ }
+}

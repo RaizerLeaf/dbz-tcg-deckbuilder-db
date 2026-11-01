@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_10",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "10_Blue Gut Punch.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/10_Blue Gut Punch.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Gut Punch",
+  "file_name": "Blue Gut Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1c4e08dae47a53bfe6f9cf55a32c88507a182746"
+ },
+ "vision": {
+  "id": "S18_BST_10",
+  "name": "Blue Gut Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2. [Warning]: Focused.\nDAMAGE: 4 stages.\nHIT: Search your discard pile for up to 3 [Attack] Setups and shuffle them into your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S18.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 92.7,
+  "header_text": "BLUE GUT PUNCH () U10\nwe Re NN |. an",
+  "stages_text": ",\n,\n25\n37\n,\n2",
+  "error": null
+ }
+}

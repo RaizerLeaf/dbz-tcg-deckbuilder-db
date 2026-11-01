@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_04",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "04_Black Punt.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/04_Black Punt.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Punt",
+  "file_name": "Black Punt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6bef300e0695be27b789dc1183a6fdae97c419bc"
+ },
+ "vision": {
+  "id": "S09_BST_04",
+  "name": "Black Punt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Villains only. You may only have one \"Black Punt\" attached.)\n[Attack] Physical attack costing 1 stage.\nAttach to your MP. While attached, your attacks are considered Styled. Banish this card when your opponent's MP advances a level.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 91.4,
+  "header_text": "BLACK PUNT () U4",
+  "stages_text": "37\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_31",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "31_Saiyan Enhanced Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/31_Saiyan Enhanced Mastery.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Saiyan Enhanced Mastery",
+  "file_name": "Saiyan Enhanced Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0c8ac58b622d76ea1409f69f88a3f69a19e703f8"
+ },
+ "vision": {
+  "id": "S13_BST_31",
+  "name": "Saiyan Enhanced Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\nPOWER: Choose up to 2 Styled [Attack] and/or [Defense] cards in your discard pile and Rejuvenate them. You may raise a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (zoomed); DR number printed; inline symbols are the attack and defense icons used as adjectives",
+  "_src": "S13.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "| Wiz\n( NI Rh ANUS N \\ =~",
+  "stages_text": "4\n\n31\n0\n1,\n,\n1",
+  "error": null
+ }
+}

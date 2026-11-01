@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_15",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "15_Namekian Resourceful Shot.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/15_Namekian Resourceful Shot.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Resourceful Shot",
+  "file_name": "Namekian Resourceful Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c56e67715d97c8fd8d27334027c71422d0b6373c"
+ },
+ "vision": {
+  "id": "S08_BST_15",
+  "name": "Namekian Resourceful Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 2 per deck. If this card is in your discard pile, you may banish a card from your hand to play it as an action.)\n[Attack] Energy attack costing 1 stage.\nUse a critical damage effect.\nDAMAGE: 4 life cards.\n(Banish after use.)\n(Created by Cory Aguilard, 2017 World's Qualifier)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.887,
+  "lower_conf": 83.6,
+  "header_text": "NAMEKIAN RESOURCEFUL SHOT C) R15",
+  "stages_text": "7\n1\n,",
+  "error": null
+ }
+}

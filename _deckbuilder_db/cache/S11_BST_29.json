@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_29",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "29_Saiyan Forceful Stop.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/29_Saiyan Forceful Stop.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Forceful Stop",
+  "file_name": "Saiyan Forceful Stop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1bd489f37f4431887ccb10e263eadbe67ef02d47"
+ },
+ "vision": {
+  "id": "S11_BST_29",
+  "name": "Saiyan Forceful Stop",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This card's Endurance is considered to be 5 for your card effects.)\n[Defense] Stops an energy attack.\nLower your opponent's anger 1 level. Your attacks deal +X stages of damage this combat. X = your MP's current level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 87.5,
+  "header_text": "SAIYAN FORCEFUL STOP C) C29\ny” 64 es",
+  "stages_text": "2\n4\n,",
+  "error": null
+ }
+}

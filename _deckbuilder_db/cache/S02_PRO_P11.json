@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P11",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P11_Red Controlled Attack.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P11_Red Controlled Attack.jpg",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Red Controlled Attack",
+  "file_name": "Red Controlled Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f39d343c225c7895e8bd152f84166fad9b07d0e2"
+ },
+ "vision": {
+  "id": "S02_PRO_P11",
+  "name": "Red Controlled Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. HIT: You may lower your MP 1 level. If you do, your opponent skips his next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R123; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "(RED CONTROLLED. ATTACK (\n7",
+  "stages_text": "2\n4\n43",
+  "error": null
+ }
+}

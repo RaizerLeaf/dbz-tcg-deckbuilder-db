@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_78",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "78_Android 13 - Powerful.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/78_Android 13 - Powerful.jpg",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Android 13 - Powerful",
+  "file_name": "Android 13",
+  "file_subtitle": "Powerful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e59539448360fe37a7d501cffa4add28f2dba661"
+ },
+ "vision": {
+  "id": "S06_BST_78",
+  "name": "Android 13",
+  "sub": "Powerful",
+  "type": "Ally",
+  "num": "U78",
+  "lvl": 1,
+  "stages": [
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack costing 1 stage.\nYou may banish one of your other Allies you control with \"Android\" in the title to draw a card.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S06.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 75.4,
+  "header_text": "1 poe 13 €)\nLEVEL POWERFUL U78",
+  "stages_text": "150,000\n125,000\n100,000\n75,000\n50,000\n7 25,000\n20,000\n15,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_43",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "43_Red Maneuvering Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/43_Red Maneuvering Drill.jpg",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Red Maneuvering Drill",
+  "file_name": "Red Maneuvering Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "110799a5711c1b3cb8b8c3c3b7549e1a23b9d20e"
+ },
+ "vision": {
+  "id": "S03_BST_43",
+  "name": "Red Maneuvering Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your attacks lowers your anger, that attack deals +X stages of damage. X = the amount of anger lowered.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.1,
+  "header_text": "RED MANEUVERING. DRILL () cas",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

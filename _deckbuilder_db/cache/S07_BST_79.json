@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_79",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "79_Baba - Suprise Visitor.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/79_Baba - Suprise Visitor.png",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Baba - Suprise Visitor",
+  "file_name": "Baba",
+  "file_subtitle": "Suprise Visitor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "dc9ff06923a2c1e242c001e34ae12c0b3a628da8"
+ },
+ "vision": {
+  "id": "S07_BST_79",
+  "name": "Baba",
+  "sub": "Surprise Visitor",
+  "type": "Ally",
+  "num": "U79",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Players play with their hand revealed. Allies gain \"Endurance 1.\"",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; filename typo 'Suprise'",
+  "_src": "S07.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "1 BABA\nLEVEL SURPRISE VISITOR () U79\n{",
+  "stages_text": "10\n\n9\n\n8\n7\n6\n5\n\n4\n3\n2\n\n1\n0",
+  "error": null
+ }
+}

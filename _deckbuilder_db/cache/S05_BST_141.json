@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_141",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "141_Power Mimic.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/141_Power Mimic.png",
+  "prefix": null,
+  "number": 141,
+  "card_number": "141",
+  "name_part": "Power Mimic",
+  "file_name": "Power Mimic",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "97cc42ca6a0a5a5aef378da02a94042ddea4692f"
+ },
+ "vision": {
+  "id": "S05_BST_141",
+  "name": "Power Mimic",
+  "sub": null,
+  "type": "Setup",
+  "num": "UR141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 2 per deck.)\n[Instant] POWER: Use when needed. Banish this card at the end of the turn. Choose a Styled Drill you control. Treat this card as a copy of that Drill.\n(Created by Phil McGrath, 2015 Gen Con Winner)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame; the creator credit line is printed in the text box",
+  "_src": "S05.jsonl:141"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "| POWER MIMIC @uniai\neee” kn ts on i ee ae ae ee Fo 7 _",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_26",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "26_Namekian Choke.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/26_Namekian Choke.jpg",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Namekian Choke",
+  "file_name": "Namekian Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e8c84b087d70b362f389481414552914d9c3957b"
+ },
+ "vision": {
+  "id": "S03_BST_26",
+  "name": "Namekian Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 6 stages. Attach to your MP. While attached, Dragon Balls lose all immediate effects. Banish this card at the end of a combat where your opponent controls 2 or more Dragon Balls.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 78.9,
+  "header_text": "NAMEKIAN CHOKE () cee",
+  "stages_text": ",",
+  "error": null
+ }
+}

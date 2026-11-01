@@ -1,0 +1,67 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_79",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "79_Vegito - Tenacious.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/79_Vegito - Tenacious.png",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Vegito - Tenacious",
+  "file_name": "Vegito",
+  "file_subtitle": "Tenacious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ec5bb7bafc1418f7e46b64d113b9451893afcb86"
+ },
+ "vision": {
+  "id": "S19_BST_79",
+  "name": "Vegito",
+  "sub": "Tenacious",
+  "type": "Main Personality",
+  "num": "S79",
+  "lvl": 3,
+  "stages": [
+   299000000,
+   155000000,
+   39000000,
+   8888000,
+   1400000,
+   915000,
+   670000,
+   362000,
+   99000,
+   55000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(When you reach this level, draw a card.)\n[Continuous]: Whenever you perform an attack, you may choose for that attack to deal its life card damage as stages or vice versa.\n[Instant] POWER: Use when one of your effects requires you to discard 1 or 2 cards from your hand. Reveal those cards instead.\nPOWER: Shuffle up to 3 cards from your discard pile into your Life Deck. Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G, S, E, F",
+  "_src": "S19.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 0.907,
+  "lower_conf": 82.6,
+  "header_text": "=3 VEGITO\nLEVEL TENACIOUS () S/9\nVYTm_Y a",
+  "stages_text": "299,000,000\n155,000,000\n39,000,000\n8,888,000\n1,400,000\n915,000\n670,000\n362,000\n99,000\n55,000\n\n0",
+  "error": null
+ }
+}

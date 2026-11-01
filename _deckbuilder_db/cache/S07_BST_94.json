@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_94",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "94_Red Flourish.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/94_Red Flourish.png",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Red Flourish",
+  "file_name": "Red Flourish",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "b43f5bb16fa2130b9503582d9e8aa2db0afff7da"
+ },
+ "vision": {
+  "id": "S07_BST_94",
+  "name": "Red Flourish",
+  "sub": null,
+  "type": "Setup",
+  "num": "U94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Your successful energy attacks are considered to deal critical damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "RED FLOURISH () U94",
+  "stages_text": null,
+  "error": null
+ }
+}

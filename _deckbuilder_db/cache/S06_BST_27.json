@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_27",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "27_Namekian Multi-Opponent Combat.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/27_Namekian Multi-Opponent Combat.jpg",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Namekian Multi-Opponent Combat",
+  "file_name": "Namekian Multi-Opponent Combat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "404c10ab4cf74a87ed90c04081bd0151364405f6"
+ },
+ "vision": {
+  "id": "S06_BST_27",
+  "name": "Namekian Multi-Opponent Combat",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThe next time you draw a card this combat, use a critical damage effect.\nDAMAGE: AT +3 stages.\nHIT: Destroy a Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "NAMEKIAN MULTI-OPPONENT COMBAT ) C27",
+  "stages_text": "4\n,\n7\n,",
+  "error": null
+ }
+}

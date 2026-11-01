@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_89",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "89_Namekian Gut Punch.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/89_Namekian Gut Punch.jpg",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Namekian Gut Punch",
+  "file_name": "Namekian Gut Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "87ae85d77c1d0f4b32a51d49db5f0a8d38c94456"
+ },
+ "vision": {
+  "id": "S03_BST_89",
+  "name": "Namekian Gut Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Destroy X Allies. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.6,
+  "header_text": "(NAMEKIAN GUT PUNCH (2",
+  "stages_text": "7",
+  "error": null
+ }
+}

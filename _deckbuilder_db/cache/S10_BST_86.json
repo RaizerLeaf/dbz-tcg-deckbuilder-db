@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_86",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "86_Supreme Kai - Mysterious.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/86_Supreme Kai - Mysterious.png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Supreme Kai - Mysterious",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Mysterious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f537172eb6b3999eab23fb76548deadc61d78a60"
+ },
+ "vision": {
+  "id": "S10_BST_86",
+  "name": "Supreme Kai",
+  "sub": "Mysterious",
+  "type": "Main Personality",
+  "num": "S86",
+  "lvl": 1,
+  "stages": [
+   300000,
+   250000,
+   225000,
+   175000,
+   125000,
+   60000,
+   50000,
+   40000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck.\nPOWER: [Attack] Energy attack.\nSearch your Life Deck for a [Trait:God] Ally and play it.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge G",
+  "_src": "S10.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 81.4,
+  "header_text": "SUPREME KAI",
+  "stages_text": "300,000\n250,000\n225,000\n175,000\n125,000\n60,000\n50,000\n40,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

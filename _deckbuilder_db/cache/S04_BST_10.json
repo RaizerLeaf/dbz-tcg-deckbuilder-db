@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_10",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "10_Blue Cleanse.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/10_Blue Cleanse.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Cleanse",
+  "file_name": "Blue Cleanse",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "7b7c2a9b614bc711ad6dfeda0453f28aa3d50c7f"
+ },
+ "vision": {
+  "id": "S04_BST_10",
+  "name": "Blue Cleanse",
+  "sub": null,
+  "type": "Setup",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use after you advance a personality level during combat. Search your Life Deck for a Named card that performs a physical attack and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.3,
+  "header_text": "~~ See",
+  "stages_text": null,
+  "error": null
+ }
+}

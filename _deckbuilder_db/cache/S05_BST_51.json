@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_51",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "51_Red Tandem Blast.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/51_Red Tandem Blast.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Red Tandem Blast",
+  "file_name": "Red Tandem Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "64fd04b44f9d5bdcccb7b72ffa0f85968556779c"
+ },
+ "vision": {
+  "id": "S05_BST_51",
+  "name": "Red Tandem Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nYou may lower your anger 2 levels or lower your MP 1 level. If you do either of them, your opponent cannot play non-Styled cards this combat.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.4,
+  "header_text": "RED TANDEM BLAST 2) 051\n——__—A.",
+  "stages_text": "4\n2\n3\n2\n,",
+  "error": null
+ }
+}

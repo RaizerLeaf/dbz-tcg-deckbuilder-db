@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_133",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "133_Android Attack Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/133_Android Attack Drill.png",
+  "prefix": null,
+  "number": 133,
+  "card_number": "133",
+  "name_part": "Android Attack Drill",
+  "file_name": "Android Attack Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "d75885e113cc853169811d746912ec920a9ee0b9"
+ },
+ "vision": {
+  "id": "S04_BST_133",
+  "name": "Android Attack Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one copy of Android Attack Drill in play.)\n[Continuous]: Your attacks deal +1 life card of damage. Attacks performed by personalities with \"Android\" in the title deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S04.jsonl:133"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "R¢ | > ee\naS) | fe Ete",
+  "stages_text": null,
+  "error": null
+ }
+}

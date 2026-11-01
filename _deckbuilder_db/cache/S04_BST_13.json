@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_13",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "13_Blue Eye Lasers.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/13_Blue Eye Lasers.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Blue Eye Lasers",
+  "file_name": "Blue Eye Lasers",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "a7e2d7491fbe4cac43fa154dbbd6fc4a44bfd7e9"
+ },
+ "vision": {
+  "id": "S04_BST_13",
+  "name": "Blue Eye Lasers",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your opponent's anger 2 levels. If your opponent advanced a personality level with this card, this attack stays in play to be used a second time this combat.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.7,
+  "header_text": "BLUE EYE LASERS () C13\na _—- ##= 4",
+  "stages_text": "2,",
+  "error": null
+ }
+}

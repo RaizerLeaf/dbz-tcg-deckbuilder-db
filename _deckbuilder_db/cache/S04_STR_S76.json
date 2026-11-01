@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S76",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S76_Blue Narrow Escape.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S76_Blue Narrow Escape.png",
+  "prefix": "S",
+  "number": 76,
+  "card_number": "S76",
+  "name_part": "Blue Narrow Escape",
+  "file_name": "Blue Narrow Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "0b828720821f79e504ecccd59cbf8909f9ba88c6"
+ },
+ "vision": {
+  "id": "S04_STR_S76",
+  "name": "Blue Narrow Escape",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops an energy attack.\nChoose 2 Energy Combat cards in your discard pile and place them on top of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S125",
+  "_src": "S04.jsonl:229"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 68.4,
+  "header_text": "BLUE NARROW ESCAPE () $76\nry - Wy > — a ;",
+  "stages_text": "3\n\n4\n,2\n,",
+  "error": null
+ }
+}

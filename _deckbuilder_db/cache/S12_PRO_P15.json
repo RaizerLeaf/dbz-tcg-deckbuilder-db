@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P15",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P15_Black Trick Shot.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P15_Black Trick Shot.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Black Trick Shot",
+  "file_name": "Black Trick Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "282fc8b8409ddd2a04a7c59dd9fcd9a95d74857c"
+ },
+ "vision": {
+  "id": "S12_PRO_P15",
+  "name": "Black Trick Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level. Until the start of your next turn, after a player gains anger, lower that player's anger 1 level. Damage from this attack cannot be prevented or modified.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 87.5,
+  "header_text": "BLACK TRICK SHOT () P15\na £m \\\\) GaN 1 te",
+  "stages_text": "2\n1,\n2\n1,",
+  "error": null
+ }
+}

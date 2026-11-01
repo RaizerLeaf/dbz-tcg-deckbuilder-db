@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S11",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S11_Piccolo - Composed.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S11_Piccolo - Composed.png",
+  "prefix": "S",
+  "number": 11,
+  "card_number": "S11",
+  "name_part": "Piccolo - Composed",
+  "file_name": "Piccolo",
+  "file_subtitle": "Composed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6d280f7174f7ff724ce06a2a2d77dd62dfd2d600"
+ },
+ "vision": {
+  "id": "S04_STR_S11",
+  "name": "Piccolo",
+  "sub": "Composed",
+  "type": "Main Personality",
+  "num": "S11",
+  "lvl": 1,
+  "stages": [
+   112000,
+   104000,
+   96000,
+   48000,
+   24000,
+   12000,
+   6000,
+   3000,
+   1500,
+   750,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Whenever you gain stages from a card effect, raise your anger 1 level. Whenever you Rejuvenate during combat, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO; read from original (sheet tile was cropped)",
+  "_src": "S04.jsonl:164"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "PICCOLO \" KOT\nCOMPOSED od",
+  "stages_text": "104,000\n96,000\n48,000\n\n24,000\n6,000",
+  "error": null
+ }
+}

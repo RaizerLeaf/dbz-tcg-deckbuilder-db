@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P8",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P8_Saiyan Transformation Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P8_Saiyan Transformation Drill.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Saiyan Transformation Drill",
+  "file_name": "Saiyan Transformation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 559,
+  "height": 400,
+  "orientation": "landscape",
+  "sha1": "029b5fff76bd4930c05ae4989260d44d62db890f"
+ },
+ "vision": {
+  "id": "S07_PRO_P8",
+  "name": "Saiyan Transformation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This Drill is not discarded when you advance a level.)\nPOWER: Rejuvenate 1.\n[Instant] POWER: Use when entering combat. You may banish this Drill to return all Drills in play to their owner's hands.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #97); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:189"
+ },
+ "ocr": {
+  "agreement": 0.206,
+  "lower_conf": 50.8,
+  "header_text": "AITYAN TRANSFORMATION ORILL 6) ra |",
+  "stages_text": null,
+  "error": null
+ }
+}

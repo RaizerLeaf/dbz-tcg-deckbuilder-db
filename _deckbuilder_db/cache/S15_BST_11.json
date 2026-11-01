@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_11",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "11_Namekian Pose.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/11_Namekian Pose.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Namekian Pose",
+  "file_name": "Namekian Pose",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fcc5e754a428e7c0e75ff2285216ce57266a8b4b"
+ },
+ "vision": {
+  "id": "S15_BST_11",
+  "name": "Namekian Pose",
+  "sub": null,
+  "type": "Setup",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand by a Mastery effect, you may play it instead and your next Styled attack this combat gains \"Focused.\")\n[Instant] POWER: Use when entering combat. Choose up to 3 Styled cards in your discard pile and shuffle them into your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S15.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 82.8,
+  "header_text": "NAMEKIAN POSE & : : |\ngg 7 TDs ‘iii |",
+  "stages_text": null,
+  "error": null
+ }
+}

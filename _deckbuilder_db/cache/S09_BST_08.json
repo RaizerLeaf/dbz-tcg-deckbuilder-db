@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_08",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "08_Blue Zinger.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/08_Blue Zinger.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Zinger",
+  "file_name": "Blue Zinger",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "34d73e2ab1b95b2b0910db71bec46047a11a960a"
+ },
+ "vision": {
+  "id": "S09_BST_08",
+  "name": "Blue Zinger",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nLower your opponent's anger 1 level. If you have prevented damage this combat from a non-Endurance source, this attack deals +5 life cards of damage.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 86.1,
+  "header_text": "BLUE ZINGER () Ug\n=",
+  "stages_text": "4 4\n\n7\n37\n1,",
+  "error": null
+ }
+}

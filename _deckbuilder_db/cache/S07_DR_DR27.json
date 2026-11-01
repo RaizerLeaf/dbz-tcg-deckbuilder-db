@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR27",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR27_Trunks - Frenzied.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR27_Trunks - Frenzied.png",
+  "prefix": "DR",
+  "number": 27,
+  "card_number": "DR27",
+  "name_part": "Trunks - Frenzied",
+  "file_name": "Trunks",
+  "file_subtitle": "Frenzied",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43120fa089a460cbc2c93b2a6315a6d68bea456a"
+ },
+ "vision": {
+  "id": "S07_DR_DR27",
+  "name": "Trunks",
+  "sub": "Frenzied",
+  "type": "Main Personality",
+  "num": "DR27",
+  "lvl": 2,
+  "stages": [
+   850000,
+   700000,
+   550000,
+   400000,
+   250000,
+   100000,
+   50000,
+   25000,
+   12500,
+   6250,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Whenever you play a Named card, you may use a critical damage effect.\n[Defense] POWER: Stops a physical attack. You may Rejuvenate a card with \"Sword\" in the title from your Banished Zone to raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P72",
+  "_src": "S07.jsonl:173"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.5,
+  "header_text": "f LEVEL Ee py ove?\nstom \\ | ps y | Sy ~*~ = ~*~ fe FF",
+  "stages_text": "850,000\n700,000\n550,000\n400,000\n250,000\n100,000\n50,000\n25,000\n12,500\n6,250\n\n0",
+  "error": null
+ }
+}

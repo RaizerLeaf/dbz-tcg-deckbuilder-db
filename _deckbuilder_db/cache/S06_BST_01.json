@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_01",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "01_Black Android Programming.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/01_Black Android Programming.jpg",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Android Programming",
+  "file_name": "Black Android Programming",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "b75201055491c5eeb206123f94607ef354dc1441"
+ },
+ "vision": {
+  "id": "S06_BST_01",
+  "name": "Black Android Programming",
+  "sub": null,
+  "type": "Setup",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, you may place it into play.)\nPOWER: Attach to your MP. While attached, your effects that banish cards from the top of your opponent's Life Deck or discard pile have that amount increased by 1. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 6 Setup layout",
+  "_src": "S06.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "“ACK ANDROID PROGRAMMING () C1",
+  "stages_text": null,
+  "error": null
+ }
+}

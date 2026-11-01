@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_26",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "26_Namekian Wrist Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/26_Namekian Wrist Strike.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Namekian Wrist Strike",
+  "file_name": "Namekian Wrist Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "d838d6792bee90bf6f017d2c6b0f71850ad5202f"
+ },
+ "vision": {
+  "id": "S04_BST_26",
+  "name": "Namekian Wrist Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nIf Gohan or Namek Dragon Ball 5 are in play, this attack stays in play to be used a second time this combat.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 87.7,
+  "header_text": "NAMEKIAN WRIST STRIKE ) 026",
+  "stages_text": ",",
+  "error": null
+ }
+}

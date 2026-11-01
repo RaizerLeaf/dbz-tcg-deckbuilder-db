@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S148",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S148_Red Lightning Slash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S148_Red Lightning Slash.png",
+  "prefix": "S",
+  "number": 148,
+  "card_number": "S148",
+  "name_part": "Red Lightning Slash",
+  "file_name": "Red Lightning Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "00b12bf5a5c5ba1bd671744aeaf5969906cdbcba"
+ },
+ "vision": {
+  "id": "S04_STR_S148",
+  "name": "Red Lightning Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S148",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT stages.\nHIT: You may lower your anger 2 levels to destroy all of your opponent's Allies or all of his Drills.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U99",
+  "_src": "S04.jsonl:301"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "RED LIGHTNING SLASH sie",
+  "stages_text": "4\n,\n,\n,\n,",
+  "error": null
+ }
+}

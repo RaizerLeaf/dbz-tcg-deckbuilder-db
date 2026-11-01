@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_26",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "26_Saiyan Quest.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/26_Saiyan Quest.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Saiyan Quest",
+  "file_name": "Saiyan Quest",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "013f0ff23e687d9bbf7ecd84d5de7ef338f422ba"
+ },
+ "vision": {
+  "id": "S15_BST_26",
+  "name": "Saiyan Quest",
+  "sub": null,
+  "type": "Event",
+  "num": "R26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(Limit 1 per deck.)\nPOWER: If your MP is level 2, search your Life Deck for a Dragon Ball and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge reads 0",
+  "_src": "S15.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 90.6,
+  "header_text": "SAIYAN QUEST C) R26\nFe A Mt neg",
+  "stages_text": "8\n\n,\n\n4\n,",
+  "error": null
+ }
+}

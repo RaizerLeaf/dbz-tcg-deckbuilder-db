@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_55",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "55_Saiyan Internal Conflict.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/55_Saiyan Internal Conflict.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Saiyan Internal Conflict",
+  "file_name": "Saiyan Internal Conflict",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e4b26d8b74b8f117f4601c2d3f5c7ddad610d132"
+ },
+ "vision": {
+  "id": "S07_BST_55",
+  "name": "Saiyan Internal Conflict",
+  "sub": null,
+  "type": "Event",
+  "num": "C55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Destroy any amount of Setups or Drills you control. For each Drill destroyed this way, banish a Setup or Drill. Rejuvenate this card after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "SAIYAN INTERNAL CONFLICT C) 055\naay anw",
+  "stages_text": ",\n7\n,\n,",
+  "error": null
+ }
+}

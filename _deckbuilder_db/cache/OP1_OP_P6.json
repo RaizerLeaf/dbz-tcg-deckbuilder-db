@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P6",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P6_Saiyan Swift Sword Drill.png",
+  "rel_path": "z_OP Series/OP1/P6_Saiyan Swift Sword Drill.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Saiyan Swift Sword Drill",
+  "file_name": "Saiyan Swift Sword Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "308ae2156fb8c2f4881545b9a0c2840012e539f4"
+ },
+ "vision": {
+  "id": "OP1_OP_P6",
+  "name": "Saiyan Swift Sword Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(Limit 1 per deck.)\n[Continuous]: Whenever you perform an attack with \"Sword\" in the title your MP may pay 1 stage to make that attack deal +1 stage and +1 life card.\n[Instant] POWER: [Trait:Earthling]: If you have 2 or less Traits, use after performing a successful Styled or Named attack that has \"Sword\" in the title. That attack gains Remain 1.\n(Created by Jordan Syverson, OP1 Supreme Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); landscape Drill layout; Endurance badge reads 0; inline icon zoomed: blue Capsule Corp E badge (Earthling); prints a design credit line",
+  "_src": "OP.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 86.5,
+  "header_text": "AIYAN SWIFT SWORD DRILL () P6",
+  "stages_text": null,
+  "error": null
+ }
+}

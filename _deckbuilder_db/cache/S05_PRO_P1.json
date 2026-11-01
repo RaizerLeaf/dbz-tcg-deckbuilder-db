@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P1",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P1_Blue Dominance.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P1_Blue Dominance.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Blue Dominance",
+  "file_name": "Blue Dominance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "904cfdcf2ddd5d6e7347863f212efddc60fdc804"
+ },
+ "vision": {
+  "id": "S05_PRO_P1",
+  "name": "Blue Dominance",
+  "sub": null,
+  "type": "Setup",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\n[Instant] POWER: Use when entering combat. Advance or lower your MP to level 2. Choose up to 2 Drills in your discard pile and place them into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Setup layout; promo reprint of S03 U82 with modernised layout",
+  "_src": "S05.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "BLUE DOMINANCE C) PI |\nLC. A a) le ore Bs ERE . - 4 / A ee",
+  "stages_text": null,
+  "error": null
+ }
+}

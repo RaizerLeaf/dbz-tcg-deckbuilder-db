@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_44",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "44_Chilled - Cackling Tyrant.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/44_Chilled - Cackling Tyrant.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Chilled - Cackling Tyrant",
+  "file_name": "Chilled",
+  "file_subtitle": "Cackling Tyrant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4055ae94d079e3c4dc0bab7b48c2736400ea15ee"
+ },
+ "vision": {
+  "id": "S09_BST_44",
+  "name": "Chilled",
+  "sub": "Cackling Tyrant",
+  "type": "Ally",
+  "num": "U44",
+  "lvl": 1,
+  "stages": [
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   2000,
+   1500,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(If your MP is Frieza, Cooler or King Cold, you may use this Power regardless of your MP's power stage.)\n[Continuous]: Cards cannot attach to personalities.\nPOWER: Rejuvenate 1. Banish the bottom 3 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple) = Alien",
+  "_src": "S09.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "1 |cumtep\nLEVEL | CACKLING TYRANT E) U44",
+  "stages_text": "30,000\n20,000\n10,000\n5,000\n2,500\n7 2,000\n1,500\n1,000\n500\n250\n0",
+  "error": null
+ }
+}

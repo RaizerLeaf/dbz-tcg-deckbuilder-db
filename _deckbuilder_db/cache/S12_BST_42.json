@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_42",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "42_Porunga - Dragon of Namek.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/42_Porunga - Dragon of Namek.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Porunga - Dragon of Namek",
+  "file_name": "Porunga",
+  "file_subtitle": "Dragon of Namek",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "69d42b8b9657f059b3e4c2b08e0e25f410d31676"
+ },
+ "vision": {
+  "id": "S12_BST_42",
+  "name": "Porunga",
+  "sub": "Dragon of Namek",
+  "type": "Ally",
+  "num": "UR42",
+  "lvl": 1,
+  "stages": [
+   1999,
+   1799,
+   1599,
+   1399,
+   1199,
+   999,
+   799,
+   599,
+   399,
+   199,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(Once per turn when this Ally enters play, you may Rejuvenate a Setup or Drill from your discard pile.)\n[Continuous]: After a player discards a card from their hand by a card effect, you may Rejuvenate 1.\n(Created by Tommy Andre, OP2 TOP Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge G (gold); number area reads 'PREVIEW UR42'; card prints a design credit line",
+  "_src": "S12.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "1 | PORUNGA preview\nLEVEL | DRAGON OF NAMEK UR42",
+  "stages_text": "1,999\n1,799\n1,599\n1,399\n1,199\n4\n999\n799\n599\n399\n199\n0",
+  "error": null
+ }
+}

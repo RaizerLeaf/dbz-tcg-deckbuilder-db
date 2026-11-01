@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_16",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "16_Orange Assistance Drill.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/16_Orange Assistance Drill.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Orange Assistance Drill",
+  "file_name": "Orange Assistance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "38d3675dd658f35a1281a2809295340a2a022d81"
+ },
+ "vision": {
+  "id": "S08_BST_16",
+  "name": "Orange Assistance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Attacks performed by your Allies deal +1 life card of damage. If an Ally you control would be banished by an opponent's effect, shuffle it into its owner's Life Deck instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S08.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.2,
+  "header_text": "ORANGE ASSISTANCE DRILL () C16",
+  "stages_text": null,
+  "error": null
+ }
+}

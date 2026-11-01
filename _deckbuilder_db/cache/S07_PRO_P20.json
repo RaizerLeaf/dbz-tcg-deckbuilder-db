@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P20",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P20_Sinister Choke.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P20_Sinister Choke.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Sinister Choke",
+  "file_name": "Sinister Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "1980e26edd31df0783663ee1028a5367512bf2f8"
+ },
+ "vision": {
+  "id": "S07_PRO_P20",
+  "name": "Sinister Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDamage from this attack cannot be prevented. This attack cannot be stopped and its damage is banished if your opponent controls a total of 7 or more of the following card types: personalities, Drills, Setups, and Dragon Balls.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S04 #139); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image. The overlaid image also shows \"(Dragon Prix 2017)\" at the bottom of the text box.",
+  "_src": "S07.jsonl:199"
+ },
+ "ocr": {
+  "agreement": 0.043,
+  "lower_conf": 40.0,
+  "header_text": "SINISTER CHOKE ) P20 |\n| “HT i",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

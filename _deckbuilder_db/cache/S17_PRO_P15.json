@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P15",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P15_Blue Head Knock.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P15_Blue Head Knock.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Blue Head Knock",
+  "file_name": "Blue Head Knock",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "41471b394aa7529616c78367a5eb4780dffa9e92"
+ },
+ "vision": {
+  "id": "S17_PRO_P15",
+  "name": "Blue Head Knock",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nLower your opponent's anger to 0.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 86.4,
+  "header_text": "BLUE HEAD KNOCK ) P15.\n= J",
+  "stages_text": "3 ,\n2\n37 2\n0,",
+  "error": null
+ }
+}

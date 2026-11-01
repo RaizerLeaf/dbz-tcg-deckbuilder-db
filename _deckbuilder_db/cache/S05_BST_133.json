@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_133",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "133_Red Aerial Assault.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/133_Red Aerial Assault.png",
+  "prefix": null,
+  "number": 133,
+  "card_number": "133",
+  "name_part": "Red Aerial Assault",
+  "file_name": "Red Aerial Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "912d3982c252373f7ea34c4de0c48670aff4bed4"
+ },
+ "vision": {
+  "id": "S05_BST_133",
+  "name": "Red Aerial Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThe next time you reveal a card from your hand this combat, you may raise your anger 2 levels.\nDAMAGE: AT +3 stages.\nHIT: Damage from your attacks cannot be prevented this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:133"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "RED AERIAL ASSAULT C) R133\nKX“ Sf Jf Gn e223",
+  "stages_text": "2\n3\n1",
+  "error": null
+ }
+}

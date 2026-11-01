@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P9_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P9_Blue Slide (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P9_Blue Slide (Restored).png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Blue Slide",
+  "file_name": "Blue Slide",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6deffce2b3524c0909edeb1939a8acffe95098dd"
+ },
+ "vision": {
+  "id": "S07_PRO_P9_RST",
+  "name": "Blue Slide",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish the top 3 cards of your opponent's discard pile.\nDAMAGE: AT + 3 life cards.\nHIT: Your opponent cannot play non-Styled cards this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer, modern wording; of a promo that was never officially released",
+  "_src": "S07.jsonl:202"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "BLUE SLIDE ) Po\n;",
+  "stages_text": ",",
+  "error": null
+ }
+}

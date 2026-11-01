@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_03",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "03_Black Recollection Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/03_Black Recollection Drill.jpg",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Recollection Drill",
+  "file_name": "Black Recollection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "48bb061351ce9986340a930f58ba4fd5d060b0f8"
+ },
+ "vision": {
+  "id": "S06_BST_03",
+  "name": "Black Recollection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use at the start of your turn. Destroy the top X cards of your Life Deck to destroy the top X cards of your opponent's Life Deck. X = the number of Dragon Balls you control.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "BLACK RECOLLECTION DRILL ©) C3 |",
+  "stages_text": null,
+  "error": null
+ }
+}

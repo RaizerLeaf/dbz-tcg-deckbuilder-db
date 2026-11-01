@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S39",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S39_Blue Energy Overload.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S39_Blue Energy Overload.png",
+  "prefix": "S",
+  "number": 39,
+  "card_number": "S39",
+  "name_part": "Blue Energy Overload",
+  "file_name": "Blue Energy Overload",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "530792aa5c385018680d4364e820fab5c59d1f40"
+ },
+ "vision": {
+  "id": "S07_STR_S39",
+  "name": "Blue Energy Overload",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, put the top Physical Combat card from your discard pile at the bottom of your Life Deck.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S54; text compared on the sheet",
+  "_src": "S07.jsonl:222"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "BLUE ENERGY OVERLOAD ) $39",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

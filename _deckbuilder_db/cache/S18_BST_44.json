@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_44",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "44_Trunks - Super Saiyan Rage.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/44_Trunks - Super Saiyan Rage.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Trunks - Super Saiyan Rage",
+  "file_name": "Trunks",
+  "file_subtitle": "Super Saiyan Rage",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "da53347a7360a8d8b290d8cbec3eefc0be3fce21"
+ },
+ "vision": {
+  "id": "S18_BST_44",
+  "name": "Trunks",
+  "sub": "Super Saiyan Rage",
+  "type": "Main Personality",
+  "num": "S44",
+  "lvl": 4,
+  "stages": [
+   90000000,
+   45600000,
+   8395000,
+   4870000,
+   1225000,
+   732000,
+   555000,
+   284000,
+   100000,
+   69000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use at the start of your turn. Foresee 5.\nPOWER: [Attack] Physical attack.\nYou are considered to have no cards in your hand for your effects until the end of your next action this combat.\nDAMAGE: 10 stages.\nHIT: Search your discard pile and/or Banished Zone for up to 3 Named cards or [Warning] cards and shuffle them into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E, S; black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S18.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.873,
+  "lower_conf": 78.0,
+  "header_text": "1. TRUNKS\nLEVEL SUPER SAIYAN RAGE () 944\nee 4 eee",
+  "stages_text": "90,000,000\n45,600,000\n8,395,000\n4,870,000\n1,225,000\n732,000\n555,000\n284,000\n100,000\n69,000\n0",
+  "error": null
+ }
+}

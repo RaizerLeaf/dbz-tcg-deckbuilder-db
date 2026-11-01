@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_08",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "08_Black Overload.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/08_Black Overload.jpg",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Black Overload",
+  "file_name": "Black Overload",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1a7d523497e838ecc3b9846208da5737e3592a7e"
+ },
+ "vision": {
+  "id": "S06_BST_08",
+  "name": "Black Overload",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nYour MP may pay 3 stages to make this attack's damage unpreventable.\nDAMAGE: 4 life cards.\nHIT: If this attack dealt critical damage, you may discard a card from your hand to destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.9,
+  "header_text": "BLACK OVERLOAD C) C8\n2S Bae i! , 4",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

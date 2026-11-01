@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P16",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P16_King Cold - Caught off Guard.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P16_King Cold - Caught off Guard.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "King Cold - Caught off Guard",
+  "file_name": "King Cold",
+  "file_subtitle": "Caught off Guard",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "965f0542aea6bb4f620557ec1ed70e3da2b3bcf7"
+ },
+ "vision": {
+  "id": "S16_PRO_P16",
+  "name": "King Cold",
+  "sub": "Caught Off Guard",
+  "type": "Ally",
+  "num": "P16",
+  "lvl": 1,
+  "stages": [
+   500000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(If your MP is Chilled, Cooler, or Frieza, this card is considered Named and you may use this Power regardless of your MP's power stage.)\n[Continuous]: If your MP is Frieza, your opponent cannot use effects that lower your MP 1 or more levels.\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Rejuvenate a Named card in your discard pile or Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S16.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 0.937,
+  "lower_conf": 79.2,
+  "header_text": "LL KING COLD P15\nLEVEL CAUGHT OFF GUARD",
+  "stages_text": "500,000\n300,000\n200,000\n100,000\n50,000\n725,000\n10,000\n5,000\n1,000\n500\n\n0",
+  "error": null
+ }
+}

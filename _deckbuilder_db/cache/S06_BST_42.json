@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_42",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "42_Red Android Palm Blast.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/42_Red Android Palm Blast.jpg",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Red Android Palm Blast",
+  "file_name": "Red Android Palm Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f3df4e9f7cdde9cfe9c822a72d2122dced510bf5"
+ },
+ "vision": {
+  "id": "S06_BST_42",
+  "name": "Red Android Palm Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck, you may use a critical damage effect.)\n[Attack] Energy attack costing 1 stage.\nDAMAGE: 1 life card.\nHIT: Reveal the top 3 cards of your Life Deck. You may place 1 revealed card on the top of your discard pile. Banish the remaining cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "RED ANDROID PALM BLAST @ wz",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

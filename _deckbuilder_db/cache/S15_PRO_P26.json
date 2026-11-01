@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P26",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P26_Namekian Right Kick.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P26_Namekian Right Kick.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Namekian Right Kick",
+  "file_name": "Namekian Right Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2e158376f1a760f1553ba7b6d6e34deb5181e509"
+ },
+ "vision": {
+  "id": "S15_PRO_P26",
+  "name": "Namekian Right Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] Physical attack.\nDAMAGE: 6 stages.\nHIT: Search your Life Deck for a Named card and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "NAMEKIAN RIGHT KICK C) P26",
+  "stages_text": "1\n347",
+  "error": null
+ }
+}

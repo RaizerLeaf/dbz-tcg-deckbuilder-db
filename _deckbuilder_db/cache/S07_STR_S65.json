@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S65",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S65_Orange Overhead Smash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S65_Orange Overhead Smash.png",
+  "prefix": "S",
+  "number": 65,
+  "card_number": "S65",
+  "name_part": "Orange Overhead Smash",
+  "file_name": "Orange Overhead Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ba1628f8db33ac36a5d467999abf23a5ff874ce4"
+ },
+ "vision": {
+  "id": "S07_STR_S65",
+  "name": "Orange Overhead Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +3 stages. If you have at least 5 Drills in play, this attack deals an additional +7 life cards of damage. HIT: Shuffle all Drills in your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_95; text compared on the sheet",
+  "_src": "S07.jsonl:248"
+ },
+ "ocr": {
+  "agreement": 0.825,
+  "lower_conf": 81.6,
+  "header_text": "ORANGE OVERHEAD SMASH ) S65 |\nAR wy ( ww Ae",
+  "stages_text": "4\n,\n0,",
+  "error": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P1_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P1_Confrontation (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P1_Confrontation (Restored).png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b66a22b1b531f60fb68f6fb6244772f931306391"
+ },
+ "vision": {
+  "id": "S07_PRO_P1_RST",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer of a promo that was never officially released; grey frame",
+  "_src": "S07.jsonl:178"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "CONFRONTATION ? ) Pi\nmm / |) oo a",
+  "stages_text": "1\n,\n5",
+  "error": null
+ }
+}

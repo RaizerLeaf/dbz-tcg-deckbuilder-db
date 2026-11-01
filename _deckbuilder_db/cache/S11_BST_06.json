@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_06",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "06_Blue Rivalry Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/06_Blue Rivalry Drill.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Blue Rivalry Drill",
+  "file_name": "Blue Rivalry Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "4554a7b8519ca24ff0cfb530e6c97931d0b39d5b"
+ },
+ "vision": {
+  "id": "S11_BST_06",
+  "name": "Blue Rivalry Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Continuous]: Your opponent's attacks deal -1 stage and -1 life card of damage. If your MP is level 2, your opponent cannot use effects that change your level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S11.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 82.3,
+  "header_text": "BLUE RIVALRY DRILL @ rc |",
+  "stages_text": null,
+  "error": null
+ }
+}

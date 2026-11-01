@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_116",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "116_Orange Counter Ball.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/116_Orange Counter Ball.jpg",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Orange Counter Ball",
+  "file_name": "Orange Counter Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "629210fcdae27f7b2965cd4badc78b1362c6c4a5"
+ },
+ "vision": {
+  "id": "S06_BST_116",
+  "name": "Orange Counter Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 1 stage.\nSearch your discard pile for a Styled attack card and Rejuvenate it.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 74.6,
+  "header_text": "ORANGE COUNTER BALL ) R16\nCO ET",
+  "stages_text": "2\n\n5\n,\n,",
+  "error": null
+ }
+}

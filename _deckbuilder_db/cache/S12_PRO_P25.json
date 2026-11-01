@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P25",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P25_Red Controlled Blast.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P25_Red Controlled Blast.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Red Controlled Blast",
+  "file_name": "Red Controlled Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "97ef6a745dc35d336ada648722046872a558f40c"
+ },
+ "vision": {
+  "id": "S12_PRO_P25",
+  "name": "Red Controlled Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical attack instead of as an attack.)\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S12.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.2,
+  "header_text": "RED CONTROLLED BLAST () P25\n\\ f",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

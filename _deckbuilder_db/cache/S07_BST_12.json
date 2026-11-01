@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_12",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "12_Blue Introduction.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/12_Blue Introduction.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Blue Introduction",
+  "file_name": "Blue Introduction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "7f86cfacdacba7b4246adaa5f512c395b88d83ff"
+ },
+ "vision": {
+  "id": "S07_BST_12",
+  "name": "Blue Introduction",
+  "sub": null,
+  "type": "Setup",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card from your hand to stop an attack performed by an Ally.)\nPOWER: Banish an Ally. If you control no Allies, search your discard pile for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "BLUE INTRODUCTION () C12",
+  "stages_text": null,
+  "error": null
+ }
+}

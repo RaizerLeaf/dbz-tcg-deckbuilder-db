@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_19",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "19_Orange Energy Rush.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/19_Orange Energy Rush.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Energy Rush",
+  "file_name": "Orange Energy Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f7063a9158a3ef66dd885ea335495ff8574111a1"
+ },
+ "vision": {
+  "id": "S15_BST_19",
+  "name": "Orange Energy Rush",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Energy attack.\nIf you have performed another energy attack from your hand this combat, search your Life Deck for a non-Styled Drill and play it.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S15.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.0,
+  "header_text": "ORANGE ENERGY RUSH )c19,",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_55",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "55_Saiyan Evasion.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/55_Saiyan Evasion.jpg",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Saiyan Evasion",
+  "file_name": "Saiyan Evasion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "df20c4da07ee8086610c5b41f4046afadcad4d6a"
+ },
+ "vision": {
+  "id": "S03_BST_55",
+  "name": "Saiyan Evasion",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Search your discard pile for a card with Endurance and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "(SAIYAN EVASION (<=",
+  "stages_text": ", 4",
+  "error": null
+ }
+}

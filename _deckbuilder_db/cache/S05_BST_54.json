@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_54",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "54_Saiyan Energy Aura.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/54_Saiyan Energy Aura.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Saiyan Energy Aura",
+  "file_name": "Saiyan Energy Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "eee0e41efddbcf81af7e42af624fb14681f8b63a"
+ },
+ "vision": {
+  "id": "S05_BST_54",
+  "name": "Saiyan Energy Aura",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(If this is revealed from your hand during combat, you may raise your anger 1 level.)\n[Defense] Stops an energy attack.\nYou may reveal a Styled card from your hand. If you do, your opponent's personalities lose 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 76.6,
+  "header_text": "SAIYAN ENERGY AURA €) C54\n-~ sty \\ \\| 4a",
+  "stages_text": "1,\n,\n,\n,",
+  "error": null
+ }
+}

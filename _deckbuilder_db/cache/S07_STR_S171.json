@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S171",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S171_Red Energy Outburst.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S171_Red Energy Outburst.png",
+  "prefix": "S",
+  "number": 171,
+  "card_number": "S171",
+  "name_part": "Red Energy Outburst",
+  "file_name": "Red Energy Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3b36bb52012704188f706d855506d2c14882092b"
+ },
+ "vision": {
+  "id": "S07_STR_S171",
+  "name": "Red Energy Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S171",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: If you have dealt critical damage this combat, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S61; text compared on the sheet",
+  "_src": "S07.jsonl:354"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "RED ENERGY OUTBURST @ sin\nee Cee at",
+  "stages_text": ",",
+  "error": null
+ }
+}

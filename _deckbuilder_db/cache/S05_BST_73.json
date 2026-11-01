@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_73",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "73_Dr. Brief - Analyzing.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/73_Dr. Brief - Analyzing.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Dr. Brief - Analyzing",
+  "file_name": "Dr. Brief",
+  "file_subtitle": "Analyzing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "848fd9667d0eca2921d6785eadfdcc8df9715c34"
+ },
+ "vision": {
+  "id": "S05_BST_73",
+  "name": "Dr. Brief",
+  "sub": "Analyzing",
+  "type": "Ally",
+  "num": "U73",
+  "lvl": 1,
+  "stages": [
+   5,
+   5,
+   4,
+   4,
+   3,
+   3,
+   2,
+   2,
+   1,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "(If your MP is Bulma, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "purple Ally frame; edge reads 'HERO ALLY'",
+  "_src": "S05.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.9,
+  "header_text": "LDR. BRIEF\nLEVEL ANALYZING () U73\n- hl es",
+  "stages_text": "5\n5\n4\n4\n3\n\n3\n2\n2\n, 1\n\n0",
+  "error": null
+ }
+}

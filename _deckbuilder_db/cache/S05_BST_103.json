@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_103",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "103_Yamcha's Expert Assistance.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/103_Yamcha's Expert Assistance.png",
+  "prefix": null,
+  "number": 103,
+  "card_number": "103",
+  "name_part": "Yamcha's Expert Assistance",
+  "file_name": "Yamcha's Expert Assistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "87f5c5804da312fbc526c7db9b4dfb62fbeb0403"
+ },
+ "vision": {
+  "id": "S05_BST_103",
+  "name": "Yamcha's Expert Assistance",
+  "sub": null,
+  "type": "Setup",
+  "num": "R103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your MP's power level is 0, you may play this card from your hand as an action.)\nPOWER: Draw a card. Your opponent passes for his next two actions this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame",
+  "_src": "S05.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "(AMCHA'S EXPERT ASSISTANCE 2) R103 |\nTT CO a ee ——",
+  "stages_text": null,
+  "error": null
+ }
+}

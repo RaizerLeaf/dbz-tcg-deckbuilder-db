@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_46",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "46_Red Vault.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/46_Red Vault.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Red Vault",
+  "file_name": "Red Vault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "14e25c461e0d6d4237bf7c2475a0c69848bb0d36"
+ },
+ "vision": {
+  "id": "S04_BST_46",
+  "name": "Red Vault",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nLower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 80.5,
+  "header_text": "RED VAULT €) CAG\n‘ | VY KAZE) _",
+  "stages_text": ", 7\n,\n\n,\n1,",
+  "error": null
+ }
+}

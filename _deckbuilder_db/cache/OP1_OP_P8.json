@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P8",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P8_Raditz - Proud.png",
+  "rel_path": "z_OP Series/OP1/P8_Raditz - Proud.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Raditz - Proud",
+  "file_name": "Raditz",
+  "file_subtitle": "Proud",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "14657110fa7533a7a07d55ece5a14548ae273148"
+ },
+ "vision": {
+  "id": "OP1_OP_P8",
+  "name": "Raditz",
+  "sub": "Proud",
+  "type": "Ally",
+  "num": "P8",
+  "lvl": 1,
+  "stages": [
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   50,
+   25,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(Once per combat you may place this card into play from your hand as an action to choose a Styled card in your discard pile and Rejuvenate it.)\nPOWER: Search your Life Deck for a Styled Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); edge reads 'VILLAIN ALLY'; Trait badge S (green)",
+  "_src": "OP.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "1 eae? C)\nLEVEL | PROUD P8",
+  "stages_text": "700\n\n600\n500\n400\n300\n7 200\n100\n50\n25\n10\n\n0",
+  "error": null
+ }
+}

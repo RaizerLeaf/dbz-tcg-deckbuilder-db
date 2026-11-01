@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P12",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P12_Pikkon - Prized Fighter.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P12_Pikkon - Prized Fighter.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Pikkon - Prized Fighter",
+  "file_name": "Pikkon",
+  "file_subtitle": "Prized Fighter",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4cc38e897cd2ce8c1e58672290bec8bb69b41c4a"
+ },
+ "vision": {
+  "id": "S08_PRO_P12",
+  "name": "Pikkon",
+  "sub": "Prized Fighter",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 4,
+  "stages": [
+   2500000,
+   2000000,
+   1700000,
+   1500000,
+   600000,
+   300000,
+   100000,
+   50000,
+   30000,
+   15000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, Rejuvenate 5.\nPOWER: [Attack] Energy attack.\nThis attack can only be stopped by an Energy Combat card.\nDAMAGE: 1 life card.\nHIT: Banish the bottom 5 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S52; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 56.4,
+  "header_text": "— - See Se\nMy) PIKKON ~ Z\nfa PRIZED FIGHTER oa -l1le\nLEVEL on = =)\ni TOES A, ance alamearala",
+  "stages_text": "2,500,000\n2,000,000\n1,700,000\n1,500,000\n\n5 600,000\n2\n300,000\n100,000\n50,000\n30,000\n15,000\n\n0",
+  "error": null
+ }
+}

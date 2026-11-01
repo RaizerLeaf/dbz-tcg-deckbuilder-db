@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P21",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P21_Blue Lunar Ray.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P21_Blue Lunar Ray.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Blue Lunar Ray",
+  "file_name": "Blue Lunar Ray",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1dd13c9178c8b686fc133403f20540cbd4fdce7c"
+ },
+ "vision": {
+  "id": "S16_PRO_P21",
+  "name": "Blue Lunar Ray",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nYou may search your discard pile for an Ally and place it into play at 3 stages above 0.\nDAMAGE: 4 life cards.\nHIT: Raise that Ally to its highest power stage.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; no Endurance badge",
+  "_src": "S16.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.3,
+  "header_text": "BLUE LUNAR RAY\naaa",
+  "stages_text": "0,",
+  "error": null
+ }
+}

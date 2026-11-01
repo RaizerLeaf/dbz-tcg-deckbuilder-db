@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR12",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR12_Cell - Combative.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR12_Cell - Combative.png",
+  "prefix": "DR",
+  "number": 12,
+  "card_number": "DR12",
+  "name_part": "Cell - Combative",
+  "file_name": "Cell",
+  "file_subtitle": "Combative",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "de3a2575d052a693fdbe20ac562308e1957a159e"
+ },
+ "vision": {
+  "id": "S07_DR_DR12",
+  "name": "Cell",
+  "sub": "Combative",
+  "type": "Main Personality",
+  "num": "DR12",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   500000,
+   250000,
+   125000,
+   95000,
+   65000,
+   35000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck, discard pile, or Banished Zone for an Ally with \"Cell Jr.\" in the title and play it.\nPOWER: You may set your MP to its 0 power stage. Destroy the top 3 cards of your opponent's Life Deck. Shuffle an Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads VILLAIN; same as PZP P57",
+  "_src": "S07.jsonl:158"
+ },
+ "ocr": {
+  "agreement": 0.983,
+  "lower_conf": 70.4,
+  "header_text": "yy CELL “2 DR12\nTaya COMBATIVE\nee SON GaN Se —————",
+  "stages_text": "1,500,000\n1,000,000\n500,000\n250,000\n125,000\n, 95,000\n65,000\n, 35,000\n5,000\n1,000",
+  "error": null
+ }
+}

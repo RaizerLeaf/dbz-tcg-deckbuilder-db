@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_71",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "71_Namekian Aerial Knee.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/71_Namekian Aerial Knee.png",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Namekian Aerial Knee",
+  "file_name": "Namekian Aerial Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "957ad34bff19fbd888fb679dfe05b5a7a802fd67"
+ },
+ "vision": {
+  "id": "S04_BST_71",
+  "name": "Namekian Aerial Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U71",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you control a Saiyan Personality, gain X stages and Rejuvenate X. X = Your MP's level.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.3,
+  "header_text": "NAMEKIAN AERIAL KNEE\nFS I Som i. °°} |",
+  "stages_text": "7\n,\n,\n,",
+  "error": null
+ }
+}

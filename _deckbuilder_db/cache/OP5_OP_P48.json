@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P48",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P48_Champa - Salty.png",
+  "rel_path": "z_OP Series/OP5/P48_Champa - Salty.png",
+  "prefix": "P",
+  "number": 48,
+  "card_number": "P48",
+  "name_part": "Champa - Salty",
+  "file_name": "Champa",
+  "file_subtitle": "Salty",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6414786a02b9bd98f265f5cb6c2e3bd7d6cb74e1"
+ },
+ "vision": {
+  "id": "OP5_OP_P48",
+  "name": "Champa",
+  "sub": "Salty",
+  "type": "Ally",
+  "num": "P48",
+  "lvl": 1,
+  "stages": [
+   190000000,
+   19000000,
+   1500000,
+   900000,
+   500000,
+   170000,
+   100000,
+   40000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(If your MP is Hit, Frost, or Kefla, you may use this Power regardless of your MP's power stage.)\nPOWER: Draw 2 cards and then discard 2 cards from your hand unless you discard an Ally from your hand.\n(Created by Kevin Dennis, OP4 TOP Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); edge reads 'HERO/VILLAIN ALLY'; Trait badge G (gold); prints a design credit line",
+  "_src": "OP.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "1 cuanrn C)\nLEVEL | SALTY P48",
+  "stages_text": "190,000,000\n19,000,000\n1,500,000\n900,000\n500,000\n170,000\n100,000\n40,000\n15,000\n10,000\n\n0",
+  "error": null
+ }
+}

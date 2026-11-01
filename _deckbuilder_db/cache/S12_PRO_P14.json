@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P14",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P14_Black Delay.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P14_Black Delay.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Black Delay",
+  "file_name": "Black Delay",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "623db31f168fa8cbbc8a4abf2e58fca046302e87"
+ },
+ "vision": {
+  "id": "S12_PRO_P14",
+  "name": "Black Delay",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nIf that attack was a Physical Combat card, return it to your opponent's hand. Your opponent discards a random card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 85.4,
+  "header_text": "BLACK DELAY",
+  "stages_text": ", ,\n,\n,\n,",
+  "error": null
+ }
+}

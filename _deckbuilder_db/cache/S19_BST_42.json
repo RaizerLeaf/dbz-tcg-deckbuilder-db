@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_42",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "42_Assisted Galick Gun.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/42_Assisted Galick Gun.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Assisted Galick Gun",
+  "file_name": "Assisted Galick Gun",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2765840dc5cb96d2367ec284909550e5d7c6e876"
+ },
+ "vision": {
+  "id": "S19_BST_42",
+  "name": "Assisted Galick Gun",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Earthling] and 2 or less Traits only.)\n[Attack] 2: Energy attack.\nRaise your anger 1. If your MP has [Trait:Saiyan] and you stopped an attack on your opponent's last action this combat, your opponent passes for their next action this combat.\nDAMAGE: 5 life cards.\nHIT: Use a critical damage effect.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; icons zoomed: blue Capsule Corp E badge (Earthling) and green S badge (Saiyan); stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.911,
+  "lower_conf": 90.5,
+  "header_text": "ASSISTED GALICK GUN. & )UR42|\n:",
+  "stages_text": ",\n4\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S19",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S19_Vegeta - Elite.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S19_Vegeta - Elite.png",
+  "prefix": "S",
+  "number": 19,
+  "card_number": "S19",
+  "name_part": "Vegeta - Elite",
+  "file_name": "Vegeta",
+  "file_subtitle": "Elite",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c96285a467619101d3b63fbedbbc7efe1628af6d"
+ },
+ "vision": {
+  "id": "S04_STR_S19",
+  "name": "Vegeta",
+  "sub": "Elite",
+  "type": "Main Personality",
+  "num": "S19",
+  "lvl": 4,
+  "stages": [
+   1750000,
+   1550000,
+   1350000,
+   1150000,
+   950000,
+   750000,
+   550000,
+   350000,
+   250000,
+   150000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: The first Styled physical attack you perform each combat cannot be stopped. The first Styled energy attack you perform each combat gains \"HIT: Search your discard pile for a physical attack card and place it into your hand.\"",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO. Starter art version of S04 UR144",
+  "_src": "S04.jsonl:172"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "VEGETA gk\n1 ELITE ed 319 ;\neh, werswewen",
+  "stages_text": "1,750,000\n1,550,000\n1,350,000\n11,150,000\n950,000\n750,000\n550,000\n350,000\n250,000\n150,000\n\n0",
+  "error": null
+ }
+}

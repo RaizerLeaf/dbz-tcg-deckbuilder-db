@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_09",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "09_Blue Charging Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/09_Blue Charging Drill.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Charging Drill",
+  "file_name": "Blue Charging Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2fc5e77e1bcf20492c63c9bafde694eebcf9597f"
+ },
+ "vision": {
+  "id": "S10_BST_09",
+  "name": "Blue Charging Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Discard a card from your hand to perform a Styled energy attack costing 2 stages and dealing 4 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S10.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 84.9,
+  "header_text": "BLUE CHARGING DRILL a C9 |",
+  "stages_text": null,
+  "error": null
+ }
+}

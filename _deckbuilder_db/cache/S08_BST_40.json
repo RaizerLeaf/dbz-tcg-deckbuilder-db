@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_40",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "40_King Cold - Caught Off Guard.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/40_King Cold - Caught Off Guard.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "King Cold - Caught Off Guard",
+  "file_name": "King Cold",
+  "file_subtitle": "Caught Off Guard",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5934634f4404175b8c276aba20956993064a0802"
+ },
+ "vision": {
+  "id": "S08_BST_40",
+  "name": "King Cold",
+  "sub": "Caught Off Guard",
+  "type": "Ally",
+  "num": "U40",
+  "lvl": 1,
+  "stages": [
+   500000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(If your MP is Chilled, Cooler, or Frieza, this card is considered Named and you may use this Power regardless of your MP's power stage.)\n[Continuous]: If your MP is Frieza, your opponent cannot use effects that lower your MP 1 or more levels.\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Rejuvenate a Named card in your discard pile or Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A = Alien",
+  "_src": "S08.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.921,
+  "lower_conf": 77.3,
+  "header_text": "1 ES COLD\nLEVEL | CAUGHT OFF GUARD E) U40",
+  "stages_text": "500,000\n300,000\n200,000\n100,000\n50,000\n725,000\n10,000\n5,000\n1,000\n500\n0",
+  "error": null
+ }
+}

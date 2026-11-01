@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_50",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "50_Bardock - Displaced.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/50_Bardock - Displaced.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Bardock - Displaced",
+  "file_name": "Bardock",
+  "file_subtitle": "Displaced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "802bb256533f0f1409166132918b838642b5f287"
+ },
+ "vision": {
+  "id": "S09_BST_50",
+  "name": "Bardock",
+  "sub": "Displaced",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 3,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   40000,
+   30000,
+   15000,
+   10000,
+   9000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent plays with their hand revealed.\nPOWER: Search your opponent's Life Deck for up to 3 Styled cards and destroy them. Reveal the top 4 cards of your Life Deck and place them back in any order. Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "=} BARDOCK\nLEVEL DISPLACED () $50",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n\n40,000\n30,000\n15,000\n10,000\n9,000\n\n5,000\n0",
+  "error": null
+ }
+}

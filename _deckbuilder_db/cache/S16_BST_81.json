@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_81",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "81_Gohan - Cheerful.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/81_Gohan - Cheerful.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Gohan - Cheerful",
+  "file_name": "Gohan",
+  "file_subtitle": "Cheerful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "925f66687ed9d7636af4c3b92526a1a6833ad488"
+ },
+ "vision": {
+  "id": "S16_BST_81",
+  "name": "Gohan",
+  "sub": "Cheerful",
+  "type": "Main Personality",
+  "num": "S81",
+  "lvl": 2,
+  "stages": [
+   3000000,
+   1520000,
+   970000,
+   550000,
+   230000,
+   94000,
+   52000,
+   20000,
+   18000,
+   7000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +1 life card.\nPOWER: [Attack] 1: Energy attack.\nSearch your discard pile for a Styled card and shuffle it into your Life Deck. [Warning]: If you control no Allies, draw a card.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S; black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S16.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.977,
+  "lower_conf": 77.6,
+  "header_text": "— GOHAN\nLEVEL CHEERFUL () 581\neT - oo",
+  "stages_text": "3,000,000\n1,520,000\n970,000\n550,000\n230,000\n94,000\n52,000\n20,000\n18,000\n7,000\n0",
+  "error": null
+ }
+}

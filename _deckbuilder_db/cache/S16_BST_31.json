@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_31",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "31_Saiyan Defiant Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/31_Saiyan Defiant Mastery.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Saiyan Defiant Mastery",
+  "file_name": "Saiyan Defiant Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "909934b2aee2685b1c5fab679a817372504556eb"
+ },
+ "vision": {
+  "id": "S16_BST_31",
+  "name": "Saiyan Defiant Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card.\n[Defense] POWER: Prevent all damage from an attack if you have 1 or less cards in your hand. Raise or lower a player's anger 1.\nPOWER: Discard 2 cards from your hand to search your Life Deck for a Styled [Warning] card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed; black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.981,
+  "lower_conf": 90.5,
+  "header_text": "",
+  "stages_text": "4\n7\n\n31\n\n2\n\n,\n\n1,\n\n7",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_118",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "118_Red Relaxation.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/118_Red Relaxation.jpg",
+  "prefix": null,
+  "number": 118,
+  "card_number": "118",
+  "name_part": "Red Relaxation",
+  "file_name": "Red Relaxation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "78d8c688fa435e25cf0749ea183b6ae79c8aebff"
+ },
+ "vision": {
+  "id": "S03_BST_118",
+  "name": "Red Relaxation",
+  "sub": null,
+  "type": "Setup",
+  "num": "R118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Instant] POWER: Use when entering combat. Use a critical damage effect. Your MP gains 2 stages. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "(RED RELAXATION @) ae\na,",
+  "stages_text": "5\n\n7\n7\n\n3",
+  "error": null
+ }
+}

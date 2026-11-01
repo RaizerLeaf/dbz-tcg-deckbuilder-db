@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P6",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P6_Buu - Abomination.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P6_Buu - Abomination.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Buu - Abomination",
+  "file_name": "Buu",
+  "file_subtitle": "Abomination",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2f623fc56325198b9c0704ceb9761029a67282d6"
+ },
+ "vision": {
+  "id": "S11_PRO_P6",
+  "name": "Buu",
+  "sub": "Abomination",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   3000000,
+   2300000,
+   1600000,
+   1200000,
+   800000,
+   600000,
+   400000,
+   200000,
+   60000,
+   30000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: After taking damage from an attack, Rejuvenate 1.\nPOWER: [Attack] Physical attack.\nChoose a card in your discard pile and shuffle it into your Life Deck.\nDAMAGE: 6 stages.\nHIT: Raise your anger 2 levels or Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badges M; stats and text compared against S11_BST_56 on the sheet, identical",
+  "_src": "S11.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "BUU\n(2 ABOMINATION y 7s )",
+  "stages_text": "3,000,000\n2,300,000\n1,200,000\n7800,000\n4600,000\n5 400,000\n200,000\n60,000\n30,000\n0\n7",
+  "error": null
+ }
+}

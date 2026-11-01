@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P8",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P8_King Kai - North Kai.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P8_King Kai - North Kai.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "King Kai - North Kai",
+  "file_name": "King Kai",
+  "file_subtitle": "North Kai",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a9e87fb6bc2766e8e7070658d06bbf4e8d2c5cfa"
+ },
+ "vision": {
+  "id": "S08_PRO_P8",
+  "name": "King Kai",
+  "sub": "North Kai",
+  "type": "Main Personality",
+  "num": "P8",
+  "lvl": 4,
+  "stages": [
+   8000,
+   7500,
+   6500,
+   6250,
+   6000,
+   4500,
+   4000,
+   3700,
+   2000,
+   1500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "(When one of your Allies would leave play, you may choose to have it stay in play instead. Your Allies without [Continuous] Powers can make actions regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nDAMAGE: 5 life cards.\nHIT: For the remainder of combat, attacks performed by your Allies deal +5 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S48; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.1,
+  "header_text": "KING KAI\nfa NORTH KAI oa Ps\nLEVEL SSO nee Ve\neee 2. | xe CEO. : i = ath",
+  "stages_text": "8,000\n\n7,500\n\n6,500\n\n6,250\n\n6,000\n0\n\n4,500\n\n4,000\n\n3,700\n\n2,000\n0\n\n1,500\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_66",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "66_Broly - Determined.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/66_Broly - Determined.jpg",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Broly - Determined",
+  "file_name": "Broly",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1ce7e1cfd06d0bc1d96bc088f9018346782b7341"
+ },
+ "vision": {
+  "id": "S06_BST_66",
+  "name": "Broly",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "U66",
+  "lvl": 2,
+  "stages": [
+   1200000,
+   800000,
+   400000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After your opponent's MP advances a level, your opponent's MP loses 7 stages. Physical attacks performed by this personality deal +2 stages of damage.\nPOWER: Banish the top card of your opponent's Life Deck. You may reveal 2 attack cards from your hand to banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 0.885,
+  "lower_conf": 67.4,
+  "header_text": "— BROLY\nLEVEL DETERMINED",
+  "stages_text": "1,200,000\n800,000\n400,000\n\n100,000\n,50,000\n40,000\n30,000\n20,000\n10,000\n\n4 5,000\n0",
+  "error": null
+ }
+}

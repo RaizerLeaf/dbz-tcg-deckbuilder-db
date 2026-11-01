@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P31",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P31_Red Escape.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P31_Red Escape.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Red Escape",
+  "file_name": "Red Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "33f6f068e34e9f3b1695f4de6e3848982fe46bb2"
+ },
+ "vision": {
+  "id": "S16_PRO_P31",
+  "name": "Red Escape",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV the turn you play this card.)\n[Defense] Stops an energy attack.\nAdvance your MP one personality level. Lower your MP one personality level at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S16.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 0.969,
+  "lower_conf": 93.2,
+  "header_text": "RED ESCAPE () P31\n14 \\ im |",
+  "stages_text": ",\n7\n,\n,",
+  "error": null
+ }
+}

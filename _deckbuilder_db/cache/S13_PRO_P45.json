@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P45",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P45_Namek Dragon Ball 6.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P45_Namek Dragon Ball 6.png",
+  "prefix": "P",
+  "number": 45,
+  "card_number": "P45",
+  "name_part": "Namek Dragon Ball 6",
+  "file_name": "Namek Dragon Ball 6",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d88b4dbe7d861d78547e78a70ce25283896864fc"
+ },
+ "vision": {
+  "id": "S13_PRO_P45",
+  "name": "Namek Dragon Ball 6",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your MP's PUR is +3. Your opponent's attacks deal -2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.6,
+  "header_text": "NAMEK DRAGON BALL 6 6) P45\nee... La. cr",
+  "stages_text": "2\n3,\n9",
+  "error": null
+ }
+}

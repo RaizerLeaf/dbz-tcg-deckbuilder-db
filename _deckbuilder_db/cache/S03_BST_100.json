@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_100",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "100_Saiyan Upward Kick.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/100_Saiyan Upward Kick.jpg",
+  "prefix": null,
+  "number": 100,
+  "card_number": "100",
+  "name_part": "Saiyan Upward Kick",
+  "file_name": "Saiyan Upward Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c354c6d520ea85342ea6fecf38d2cf8490274806"
+ },
+ "vision": {
+  "id": "S03_BST_100",
+  "name": "Saiyan Upward Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. Your opponent cannot gain stages this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.5,
+  "header_text": "(SAIYAN UPWARD KICK (x20",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

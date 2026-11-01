@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_20",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "20_Blue Encircled Strike.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/20_Blue Encircled Strike.jpg",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Blue Encircled Strike",
+  "file_name": "Blue Encircled Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a0dd95806de9e771ed27ab4cd441d564f72b5101"
+ },
+ "vision": {
+  "id": "S03_BST_20",
+  "name": "Blue Encircled Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 3 life cards. HIT: Banish the top 5 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "(Give ENCIRCLED: STRIKE €) CeO |\nSel) a Tee) To",
+  "stages_text": "9\n2",
+  "error": null
+ }
+}

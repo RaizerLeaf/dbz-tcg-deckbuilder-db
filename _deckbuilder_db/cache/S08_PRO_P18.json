@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P18",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P18_Unleashed.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P18_Unleashed.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Unleashed",
+  "file_name": "Unleashed",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3c07fbd30269bf085c92cbd9835193e0ba3e1848"
+ },
+ "vision": {
+  "id": "S08_PRO_P18",
+  "name": "Unleashed",
+  "sub": null,
+  "type": "Event",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; same text as S14 P47 (differs from S06 UR142 original)",
+  "_src": "S08.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 81.7,
+  "header_text": "UNLEASHED () P18\nPONE CN OV AY SS ALI” Ot |",
+  "stages_text": "1\n,\n2\n1\n,\n,1,",
+  "error": null
+ }
+}

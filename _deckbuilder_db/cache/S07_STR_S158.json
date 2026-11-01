@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S158",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S158_Red Flares.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S158_Red Flares.png",
+  "prefix": "S",
+  "number": 158,
+  "card_number": "S158",
+  "name_part": "Red Flares",
+  "file_name": "Red Flares",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a57dd815d7c2bb8abcd54a451c6275738a9894db"
+ },
+ "vision": {
+  "id": "S07_STR_S158",
+  "name": "Red Flares",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S158",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. You may choose for this attack to deal no damage to lower your MP one personality level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_48; text compared on the sheet",
+  "_src": "S07.jsonl:341"
+ },
+ "ocr": {
+  "agreement": 0.759,
+  "lower_conf": 82.7,
+  "header_text": "IP 8! i] PSG ll if PSH | ns: : ——:: | ren I y :lliod:TS\nRED FLARES ) S158.\nI i ; [PF y: aa: of a of lad ee ay",
+  "stages_text": "2\n24\n,",
+  "error": null
+ }
+}

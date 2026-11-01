@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_31",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "31_Orange Bravado.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/31_Orange Bravado.jpg",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Orange Bravado",
+  "file_name": "Orange Bravado",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "2bde0d1e2a30a0877540690a6be92754fa0a69f4"
+ },
+ "vision": {
+  "id": "S06_BST_31",
+  "name": "Orange Bravado",
+  "sub": null,
+  "type": "Setup",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card enters play during combat, damage from your attacks cannot be prevented this combat.)\nPOWER: Banish all Drills you control. Your Styled attacks deal +3 stages of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "ORANGE BRAVADO a 2 |\nee",
+  "stages_text": null,
+  "error": null
+ }
+}

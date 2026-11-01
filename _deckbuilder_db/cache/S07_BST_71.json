@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_71",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "71_Cell Jr. - Confident.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/71_Cell Jr. - Confident.png",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Cell Jr. - Confident",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Confident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7fc12443ad06c57ac9385fdbb15102461b624756"
+ },
+ "vision": {
+  "id": "S07_BST_71",
+  "name": "Cell Jr.",
+  "sub": "Confident",
+  "type": "Main Personality",
+  "num": "U71",
+  "lvl": 4,
+  "stages": [
+   1100000,
+   900000,
+   700000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: As an action during combat, you may banish an Ally with \"Cell Jr.\" in the title from your hand to destroy the top 3 cards of your opponent's Life Deck. Your physical attacks that do not have AT base damage deal +3 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "LEVE",
+  "stages_text": "1,100,000\n900,000\n700,000\n500,000\n\n400,000\n300,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

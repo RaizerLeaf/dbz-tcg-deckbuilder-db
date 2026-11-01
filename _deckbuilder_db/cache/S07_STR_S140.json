@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S140",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S140_Black Hair Trap.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S140_Black Hair Trap.png",
+  "prefix": "S",
+  "number": 140,
+  "card_number": "S140",
+  "name_part": "Black Hair Trap",
+  "file_name": "Black Hair Trap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b5335da4fda4e92d7c15b7b2bf12ec5b83f20564"
+ },
+ "vision": {
+  "id": "S07_STR_S140",
+  "name": "Black Hair Trap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: 3 +X stages. X = the number of different card types in your opponent's Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_22; text compared on the sheet",
+  "_src": "S07.jsonl:323"
+ },
+ "ocr": {
+  "agreement": 0.864,
+  "lower_conf": 75.6,
+  "header_text": "BLACK HAIR TRAP ) $140 |\nShu | -V* iam te’ 7",
+  "stages_text": "37",
+  "error": null
+ }
+}

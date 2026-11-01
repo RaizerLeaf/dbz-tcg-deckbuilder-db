@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_79",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "79_Blue Leverage.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/79_Blue Leverage.jpg",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Blue Leverage",
+  "file_name": "Blue Leverage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b8f9808dfb10346d643a510d4f62d10efdb19ec9"
+ },
+ "vision": {
+  "id": "S02_BST_79",
+  "name": "Blue Leverage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U79",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Reveal the top 3 cards of your Life Deck to all players. Your opponent chooses 1 of those cards. The chosen card is placed into your hand and the other 2 are placed back in any order. If your Main Personality's level is 3 or higher, you get to choose the card instead.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S02.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "| BLUE LEVERAGE sehen (> “=",
+  "stages_text": "0",
+  "error": null
+ }
+}

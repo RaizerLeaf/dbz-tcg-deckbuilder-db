@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_130",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "130_Orange Overflowing Burst.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/130_Orange Overflowing Burst.png",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Orange Overflowing Burst",
+  "file_name": "Orange Overflowing Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3c97c397910020ba8467509c0babc565d070ab9c"
+ },
+ "vision": {
+  "id": "S05_BST_130",
+  "name": "Orange Overflowing Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nPrevent all damage from the next non-Styled attack your opponent performs this combat.\nDAMAGE: 4 life cards.\nHIT: Your opponent's non-Styled attacks deal -2 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.3,
+  "header_text": "ORANGE OVERFLOWING BURST @) R130.\nae",
+  "stages_text": "1,",
+  "error": null
+ }
+}

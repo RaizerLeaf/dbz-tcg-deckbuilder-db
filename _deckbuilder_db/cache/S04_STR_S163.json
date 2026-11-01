@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S163",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S163_Saiyan Foot Stomp.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S163_Saiyan Foot Stomp.png",
+  "prefix": "S",
+  "number": 163,
+  "card_number": "S163",
+  "name_part": "Saiyan Foot Stomp",
+  "file_name": "Saiyan Foot Stomp",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3b941b4a166c0f61c4a4087be5d35a1ceeaf9cf6"
+ },
+ "vision": {
+  "id": "S04_STR_S163",
+  "name": "Saiyan Foot Stomp",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S163",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nDAMAGE: AT +2 stages.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C55",
+  "_src": "S04.jsonl:316"
+ },
+ "ocr": {
+  "agreement": 0.875,
+  "lower_conf": 75.8,
+  "header_text": "SAIYAN FOOT STOMP ¢ ) s163",
+  "stages_text": ",\n\n3\n\n,\n,",
+  "error": null
+ }
+}

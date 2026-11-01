@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_107",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "107_Blue Discharge.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/107_Blue Discharge.jpg",
+  "prefix": null,
+  "number": 107,
+  "card_number": "107",
+  "name_part": "Blue Discharge",
+  "file_name": "Blue Discharge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ccf5b88d7d1b43262a357a4aaaec842ccb7c8ddb"
+ },
+ "vision": {
+  "id": "S06_BST_107",
+  "name": "Blue Discharge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot play this card unless you control at least 1 Ally.)\n[Attack] Energy attack costing 2 stages.\nRaise or lower a player's anger 2 levels.\nDAMAGE: 7 life cards.\nHIT: Rejuvenate an Ally you control to search your discard pile for an Ally and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 88.3,
+  "header_text": "BLUE DISCHARGE R107\nft -~ _-  -/? mp eee",
+  "stages_text": "7\n9\n3\n,\n,",
+  "error": null
+ }
+}

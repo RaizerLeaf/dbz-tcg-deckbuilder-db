@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P7",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P7_Blue Crush.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P7_Blue Crush.jpg",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Blue Crush",
+  "file_name": "Blue Crush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4598e7177d118c71e5e23ec4ab2a62a9f9c108b8"
+ },
+ "vision": {
+  "id": "S02_PRO_P7",
+  "name": "Blue Crush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 stages. If you have performed a copied attack this combat, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R109; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.9,
+  "header_text": "Give crush >\ndi 1.7",
+  "stages_text": ",\n7\n7\n0",
+  "error": null
+ }
+}

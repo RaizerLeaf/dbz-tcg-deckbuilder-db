@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_70",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "70_Cooler - Transformed.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/70_Cooler - Transformed.jpg",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Cooler - Transformed",
+  "file_name": "Cooler",
+  "file_subtitle": "Transformed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4f32560275d5e122c4b969f1a8f9421f7d7fe0ec"
+ },
+ "vision": {
+  "id": "S06_BST_70",
+  "name": "Cooler",
+  "sub": "Transformed",
+  "type": "Main Personality",
+  "num": "U70",
+  "lvl": 2,
+  "stages": [
+   1000000,
+   700000,
+   400000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After taking damage that was not prevented, raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nRejuvenate 2.\nDAMAGE: 5 life cards.\nHIT: You may discard a card from your hand to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 0.853,
+  "lower_conf": 76.4,
+  "header_text": "@— COOLER\nLEVEL TRANSFORMED",
+  "stages_text": "1,000,000\n700,000\n400,000\n\n100,000\n80,000\n60,000\n40,000\n20,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

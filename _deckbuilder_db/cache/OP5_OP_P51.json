@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P51",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P51_Cell Jr.'s Beatdown.png",
+  "rel_path": "z_OP Series/OP5/P51_Cell Jr.'s Beatdown.png",
+  "prefix": "P",
+  "number": 51,
+  "card_number": "P51",
+  "name_part": "Cell Jr.'s Beatdown",
+  "file_name": "Cell Jr.'s Beatdown",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "15a5c4e8ba1535da3373671fb322a098449fc1f5"
+ },
+ "vision": {
+  "id": "OP5_OP_P51",
+  "name": "Cell Jr.'s Beatdown",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may search your Life Deck for a card with a [Continuous] effect and place it into play.\nDAMAGE: 6 stages.\nHIT: Lower both players' MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); grey card; possessive title -> Named; the infinity symbol is the Continuous icon; no Endurance badge",
+  "_src": "OP.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "CELL JR.'S BEATDOWN () P51\ney ON oe ee oe",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

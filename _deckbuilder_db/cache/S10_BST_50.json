@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_50",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "50_Kid Trunks' Quickness Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/50_Kid Trunks' Quickness Drill.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Kid Trunks' Quickness Drill",
+  "file_name": "Kid Trunks' Quickness Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b36021256f1cff13453930bbee0d41ccaf7ed1ca"
+ },
+ "vision": {
+  "id": "S10_BST_50",
+  "name": "Kid Trunks' Quickness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 1 per deck. This card is considered Styled. This Drill is not discarded when you change levels.)\n[Instant] POWER: Use when entering combat. Gain 2 stages and draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S10.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 86.9,
+  "header_text": "D TRUNKS' QUICKNESS DRILL R50 |",
+  "stages_text": null,
+  "error": null
+ }
+}

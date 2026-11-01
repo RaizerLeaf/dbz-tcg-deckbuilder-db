@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S97",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S97_Namekian Focused Beams.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S97_Namekian Focused Beams.png",
+  "prefix": "S",
+  "number": 97,
+  "card_number": "S97",
+  "name_part": "Namekian Focused Beams",
+  "file_name": "Namekian Focused Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8b4bd96784b2e58848a0e525b360861d6c9ab5e0"
+ },
+ "vision": {
+  "id": "S07_STR_S97",
+  "name": "Namekian Focused Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. If this attack is stopped, Banish the bottom 2 cards of your discard pile. HIT: Rejuvenate 3.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S56; text compared on the sheet",
+  "_src": "S07.jsonl:280"
+ },
+ "ocr": {
+  "agreement": 0.759,
+  "lower_conf": 90.6,
+  "header_text": "NAMEKIAN FOCUSED BEAMS\nCC  —_——=—— i ~~ —~ |",
+  "stages_text": "2",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_69",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "69_Cell Jr. - On the Move.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/69_Cell Jr. - On the Move.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Cell Jr. - On the Move",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1a9107d3ddfceb66355bd180f93d39b0d8a8b070"
+ },
+ "vision": {
+  "id": "S07_BST_69",
+  "name": "Cell Jr.",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "U69",
+  "lvl": 2,
+  "stages": [
+   700000,
+   500000,
+   300000,
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Once per combat, you may discard an Ally with \"Cell Jr.\" in the title from your hand to stop an attack.\nPOWER: [Attack] Physical attack.\nDAMAGE: 5 +X stages. X = the number of personalities with \"Cell Jr.\" in the title in your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 0.837,
+  "lower_conf": 77.5,
+  "header_text": "& CELL JR.\nLEVEL ON THE MOVE () U69\n~_ NR |",
+  "stages_text": ", 700,000\n500,000\n300,000\n100,000\n\n90,000\n\n80,000\n\n70,000\n\n60,000\n50,000\n40,000\n\n0",
+  "error": null
+ }
+}

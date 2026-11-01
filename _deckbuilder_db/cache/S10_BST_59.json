@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_59",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "59_Dende - Earth's Guardian.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/59_Dende - Earth's Guardian.png",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Dende - Earth's Guardian",
+  "file_name": "Dende",
+  "file_subtitle": "Earth's Guardian",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "08299546f1526999a300ead98126d0de31dedd67"
+ },
+ "vision": {
+  "id": "S10_BST_59",
+  "name": "Dende",
+  "sub": "Earth's Guardian",
+  "type": "Ally",
+  "num": "U59",
+  "lvl": 1,
+  "stages": [
+   1000,
+   600,
+   400,
+   200,
+   100,
+   50,
+   40,
+   30,
+   20,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "(If Dende would leave play and your MP is Piccolo or Nail, you may shuffle him into your Life Deck instead.)\n[Continuous]: If your MP has [Trait:Namekian], while your MP's power level is over 0, its power level is considered to be +500,000.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges G + N",
+  "_src": "S10.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 81.5,
+  "header_text": "| DENDE\nLEVEL EARTH'S GUARDIAN () U59",
+  "stages_text": "1,000\n\n600\n\n400\n200\n40\n30\n20\n5 1\n0",
+  "error": null
+ }
+}

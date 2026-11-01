@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_46",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "46_Buu - Looming Threat.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/46_Buu - Looming Threat.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Buu - Looming Threat",
+  "file_name": "Buu",
+  "file_subtitle": "Looming Threat",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3986ee93eb1d8f74c1d05cbdf05030bc005a09e"
+ },
+ "vision": {
+  "id": "S13_BST_46",
+  "name": "Buu",
+  "sub": "Looming Threat",
+  "type": "Main Personality",
+  "num": "S46",
+  "lvl": 2,
+  "stages": [
+   3500000,
+   2800000,
+   1700000,
+   1250000,
+   850000,
+   700000,
+   400000,
+   200000,
+   70000,
+   30000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(When you reach this level, search your Life Deck or Banished Zone for a Named Setup or Named Drill and place it into play.)\nPOWER: [Attack] Physical attack.\nIf your opponent has used a non-[Continuous] personality Power this turn, raise your anger 2 levels and this attack is considered a copied attack.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink); text zoomed",
+  "_src": "S13.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.927,
+  "lower_conf": 73.5,
+  "header_text": "=  BUU\n; LEVEL | LOOMING THREAT 546\nearn —J",
+  "stages_text": "3,500,000\n2,800,000\n1,700,000\n1,250,000\n850,000\n1700,000\n400,000\n200,000\n70,000\n30,000\n0",
+  "error": null
+ }
+}

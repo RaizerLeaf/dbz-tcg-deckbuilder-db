@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_122",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "122_Red Motivational Kick.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/122_Red Motivational Kick.jpg",
+  "prefix": null,
+  "number": 122,
+  "card_number": "122",
+  "name_part": "Red Motivational Kick",
+  "file_name": "Red Motivational Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "bb3410aaa9c177a6fa7511e230f5bd9a74341eed"
+ },
+ "vision": {
+  "id": "S06_BST_122",
+  "name": "Red Motivational Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R122",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished from your discard pile during combat, place it into your hand.)\n[Attack] Physical attack.\nDamage from this attack cannot be modified. You may destroy an Ally.\nDAMAGE: 1 life card.\nHIT: Destroy an opponent's Setup.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:122"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "RED MOTIVATIONAL KICK @ ri22\n|",
+  "stages_text": "7\n4\n347\n\n,\n,",
+  "error": null
+ }
+}

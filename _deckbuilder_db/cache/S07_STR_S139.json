@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S139",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S139_Devastating Blow.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S139_Devastating Blow.png",
+  "prefix": "S",
+  "number": 139,
+  "card_number": "S139",
+  "name_part": "Devastating Blow",
+  "file_name": "Devastating Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d45fdfc81a1b95d3eeb5af243077ebd0a04382a0"
+ },
+ "vision": {
+  "id": "S07_STR_S139",
+  "name": "Devastating Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +1 stage. Raise your anger 1 level. Lower your opponent's anger 2 levels. Choose 3 cards in your opponent's discard pile and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_110; text compared on the sheet",
+  "_src": "S07.jsonl:322"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 90.8,
+  "header_text": "DEVASTATING BLOW ) $139\nFas",
+  "stages_text": ",\n37",
+  "error": null
+ }
+}

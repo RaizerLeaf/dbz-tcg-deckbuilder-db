@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_67",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "67_Whis - Entertained.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/67_Whis - Entertained.png",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Whis - Entertained",
+  "file_name": "Whis",
+  "file_subtitle": "Entertained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6a8a0241b9756a54a0b643dc084caefc76cedb37"
+ },
+ "vision": {
+  "id": "S16_BST_67",
+  "name": "Whis",
+  "sub": "Guide Angel",
+  "type": "Ally",
+  "num": "U67",
+  "lvl": 1,
+  "stages": [
+   300000000,
+   30000000,
+   3000000,
+   2000000,
+   600000,
+   300000,
+   200000,
+   60000,
+   30000,
+   20000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(Once per game, if your MP is Beerus, you may play this card from your hand as an action to end combat.)\n[Continuous]: The top card of each player's Life Deck is revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge G (gold)",
+  "_src": "S16.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "1 EE\nLEVEL GUIDE ANGEL E) U67",
+  "stages_text": "300,000,000\n30,000,000\n3,000,000\n42,000,000\n600,000\n300,000\n200,000\n60,000\n30,000\n20,000\n0",
+  "error": null
+ }
+}

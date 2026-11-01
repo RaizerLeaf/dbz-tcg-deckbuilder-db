@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S74",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S74_Blue Fist Catch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S74_Blue Fist Catch.png",
+  "prefix": "S",
+  "number": 74,
+  "card_number": "S74",
+  "name_part": "Blue Fist Catch",
+  "file_name": "Blue Fist Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a6d4d3851babcf4f25b7fafe216badd16d9be07c"
+ },
+ "vision": {
+  "id": "S04_STR_S74",
+  "name": "Blue Fist Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S74",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nLower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S86",
+  "_src": "S04.jsonl:227"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 58.7,
+  "header_text": "BLUE FIST CATCH () 3/4",
+  "stages_text": ",\n,\n1,",
+  "error": null
+ }
+}

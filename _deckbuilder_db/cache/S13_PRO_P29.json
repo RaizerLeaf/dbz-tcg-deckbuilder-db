@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P29",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P29_Orange Disaster Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P29_Orange Disaster Drill.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Orange Disaster Drill",
+  "file_name": "Orange Disaster Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "cd603e96adf8ca9137aefc979d6687547d6129f1"
+ },
+ "vision": {
+  "id": "S13_PRO_P29",
+  "name": "Orange Disaster Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled physical attacks deal +2 stages of damage and gain \"Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "ORANGE DISASTER DRILL a P29 |\n— EE EEE",
+  "stages_text": null,
+  "error": null
+ }
+}

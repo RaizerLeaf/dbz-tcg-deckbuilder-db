@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_57",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "57_Saiyan Leaping Burst.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/57_Saiyan Leaping Burst.jpg",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Leaping Burst",
+  "file_name": "Saiyan Leaping Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "679e085fbe984cf5370c5aa085f3ef7999e3b862"
+ },
+ "vision": {
+  "id": "S03_BST_57",
+  "name": "Saiyan Leaping Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. If you have destroyed cards from the top of your Life Deck this combat, Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "(SALYAN LEAPING BURST (=\nen a 2 es",
+  "stages_text": "2\n37",
+  "error": null
+ }
+}

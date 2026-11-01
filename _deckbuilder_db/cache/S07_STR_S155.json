@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S155",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S155_Red Duck.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S155_Red Duck.png",
+  "prefix": "S",
+  "number": 155,
+  "card_number": "S155",
+  "name_part": "Red Duck",
+  "file_name": "Red Duck",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ef9e35856453f5becb3203375c7a7ec22efd3ec2"
+ },
+ "vision": {
+  "id": "S07_STR_S155",
+  "name": "Red Duck",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S155",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops a physical attack. Rejuvenate X. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_47; text compared on the sheet",
+  "_src": "S07.jsonl:338"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 77.0,
+  "header_text": "RED DUCK | @ 155:\na S- 4",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

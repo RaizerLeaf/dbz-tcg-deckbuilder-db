@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S137",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S137_Red Double Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S137_Red Double Strike.png",
+  "prefix": "S",
+  "number": 137,
+  "card_number": "S137",
+  "name_part": "Red Double Strike",
+  "file_name": "Red Double Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "fff157fde57ed24014f62d4bff57d1437f0cbf1d"
+ },
+ "vision": {
+  "id": "S04_STR_S137",
+  "name": "Red Double Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. This attack stays in play to be used a second time this combat.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C46",
+  "_src": "S04.jsonl:290"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "RED DOUBLE STRIKE @ s137",
+  "stages_text": ",\n, ,\n1,",
+  "error": null
+ }
+}

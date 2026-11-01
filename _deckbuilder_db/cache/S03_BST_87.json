@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_87",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "87_Namekian Disturbance.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/87_Namekian Disturbance.jpg",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Namekian Disturbance",
+  "file_name": "Namekian Disturbance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9e8964d6bca5dc97e256539f51e960a40e54773d"
+ },
+ "vision": {
+  "id": "S03_BST_87",
+  "name": "Namekian Disturbance",
+  "sub": null,
+  "type": "Setup",
+  "num": "U87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Search your Life Deck for a Namek Dragon Ball with a number in the title that is less than or equal to your MP's personality level and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "(NAMEKIAN DISTURBANCE (x",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

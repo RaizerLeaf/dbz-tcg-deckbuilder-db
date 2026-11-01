@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P8",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P8_Vegito - Dominant.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P8_Vegito - Dominant.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Vegito - Dominant",
+  "file_name": "Vegito",
+  "file_subtitle": "Dominant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d8cb0ec537f09012ab25bd168b3855c52cdc9dd8"
+ },
+ "vision": {
+  "id": "S13_PRO_P8",
+  "name": "Vegito",
+  "sub": "Dominant",
+  "type": "Main Personality",
+  "num": "P8",
+  "lvl": 4,
+  "stages": [
+   20000000,
+   17000000,
+   9000000,
+   5000000,
+   1400000,
+   900000,
+   700000,
+   400000,
+   100000,
+   80000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your energy attacks deal +1 life card.\n[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand during combat. Draw a card and search your discard pile for 2 Styled cards and Rejuvenate them.\nPOWER: [Attack] Energy attack.\nSearch your Life Deck, discard pile, or Banished Zone for a Drill and place it into play.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; same text as S13 S60; text zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.8,
+  "header_text": "— Sen Gan Ss\nBlesze | rN ~ >\nLEVEL foe Ay SOX\nlerdal | y/ R /} i’ (oe =: alele",
+  "stages_text": "20,000,000\n17,000,000\n9,000,000\n5,000,000\n1,400,000\n7 900,000\n700,000\n400,000\n\n100,000\n\n80,000\n0",
+  "error": null
+ }
+}

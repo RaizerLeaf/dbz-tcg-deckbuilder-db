@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_26",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "26_Red Amplifed Mastery.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/26_Red Amplifed Mastery.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Red Amplifed Mastery",
+  "file_name": "Red Amplifed Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c45ee763c81f252f794dab2be932753db72fec75"
+ },
+ "vision": {
+  "id": "S10_BST_26",
+  "name": "Red Amplified Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0). Whenever a Drill you control leaves play, Rejuvenate 1.\n[Instant] POWER: Use when your MP changes levels. Choose a Drill you control. It cannot be discarded or destroyed this turn.\nPOWER: Raise or lower a player's anger 1 level. Gain X stages and your next Styled attack this combat deals +X life cards of damage. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; number reads DR26; filename typo 'Amplifed'",
+  "_src": "S10.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "",
+  "stages_text": "3\n26\n1\n,\n1,\n,\n,\n41 4",
+  "error": null
+ }
+}

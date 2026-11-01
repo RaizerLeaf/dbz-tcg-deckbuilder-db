@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_59",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "59_Basil - Trio of Danger.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/59_Basil - Trio of Danger.png",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Basil - Trio of Danger",
+  "file_name": "Basil",
+  "file_subtitle": "Trio of Danger",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d8940de827ea76e83c1cbde8cf0004951dbf1aa3"
+ },
+ "vision": {
+  "id": "S19_BST_59",
+  "name": "Basil",
+  "sub": "Trio of Danger",
+  "type": "Ally",
+  "num": "U59",
+  "lvl": 1,
+  "stages": [
+   500000,
+   300000,
+   150000,
+   90000,
+   70000,
+   50000,
+   30000,
+   8000,
+   5000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Bergamo only. This card is considered Named. You may use this Power regardless of your MP's power stage.)\n[Continuous]: Attacks performed by your MP gain \"If this attack is stopped, destroy the top card of your opponent's Life Deck.\"\n[Defense] POWER: Prevent all damage from an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S19.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "1 BASIL\nLEVEL TRIO OF DANGER () U59",
+  "stages_text": "500,000\n300,000\n150,000\n90,000\n70,000\n750,000\n30,000\n8,000\n5,000\n2,000\n0",
+  "error": null
+ }
+}

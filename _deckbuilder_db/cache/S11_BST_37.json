@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_37",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "37_Babidi's Corruption.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/37_Babidi's Corruption.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Babidi's Corruption",
+  "file_name": "Babidi's Corruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0c69cdcbcba6a1f12182a3995242ca091c8acd76"
+ },
+ "vision": {
+  "id": "S11_BST_37",
+  "name": "Babidi's Corruption",
+  "sub": null,
+  "type": "Event",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished for Endurance, you may discard a card at random from your opponent's hand. If you do, your opponent draws a card.)\nPOWER: Search your Life Deck or discard pile for an Ally and play it. You may banish an Ally you control to end combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; holofoil art; text box reads in a single column (portrait card)",
+  "_src": "S11.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.982,
+  "lower_conf": 89.4,
+  "header_text": "BABIDI'S CORRUPTION",
+  "stages_text": "8\n\n3 4 5,\n7,\n2 4\n\n0\n,\n,,\n,",
+  "error": null
+ }
+}

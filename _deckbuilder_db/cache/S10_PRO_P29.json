@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P29",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P29_Confrontation.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P29_Confrontation.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "53775b8bcb6542868523d65163e37f1bc234640d"
+ },
+ "vision": {
+  "id": "S10_PRO_P29",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "manga-style art, grey frame; reprint of S01 R150",
+  "_src": "S10.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 58.2,
+  "header_text": "IPs a ee ee ee a\n| CONFRONTATION () P29 |\n‘‘ 2p WHR",
+  "stages_text": "4,\n\n4\n,\n,",
+  "error": null
+ }
+}

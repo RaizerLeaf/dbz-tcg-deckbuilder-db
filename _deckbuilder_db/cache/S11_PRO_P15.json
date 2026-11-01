@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P15",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P15_Blue Leverage.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P15_Blue Leverage.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Blue Leverage",
+  "file_name": "Blue Leverage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5f00604e4369ae1f0fa75483afbee6e3be979b31"
+ },
+ "vision": {
+  "id": "S11_PRO_P15",
+  "name": "Blue Leverage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nReveal the top 3 cards of your Life Deck. Your opponent chooses 1 of those cards. Place the chosen card into your hand and the other 2 on top of your Life Deck in any order. If your MP is level 3 or higher, you choose the card instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.7,
+  "header_text": "BLUE LEVERAGE ) P15.",
+  "stages_text": ",\n,\n2,",
+  "error": null
+ }
+}

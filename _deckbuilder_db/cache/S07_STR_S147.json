@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S147",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S147_Black Entanglement.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S147_Black Entanglement.png",
+  "prefix": "S",
+  "number": 147,
+  "card_number": "S147",
+  "name_part": "Black Entanglement",
+  "file_name": "Black Entanglement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "807378651f1623d986fa40d33ef1798c50d70568"
+ },
+ "vision": {
+  "id": "S07_STR_S147",
+  "name": "Black Entanglement",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S147",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Your opponent reveals his or her hand and banishes any Setups or Drills in it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S72; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:330"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.2,
+  "header_text": "BLACK ENTANGLEMENT $147\n4",
+  "stages_text": "37",
+  "error": null
+ }
+}

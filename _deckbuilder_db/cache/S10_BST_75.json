@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_75",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "75_Kid Trunks - Dashing.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/75_Kid Trunks - Dashing.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Kid Trunks - Dashing",
+  "file_name": "Kid Trunks",
+  "file_subtitle": "Dashing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d6b8d490626992000071130d6b810d0b50f66f91"
+ },
+ "vision": {
+  "id": "S10_BST_75",
+  "name": "Kid Trunks",
+  "sub": "Dashing",
+  "type": "Main Personality",
+  "num": "S75",
+  "lvl": 2,
+  "stages": [
+   325000,
+   200000,
+   100000,
+   80000,
+   50000,
+   25000,
+   15000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when a player skips an action. Use a critical damage effect.\nPOWER: [Attack] Energy attack costing 3 stages.\nThe next Styled or Named attack you perform this combat has its power stage cost reduced to 0.\nDAMAGE: 5 life cards.\nHIT: Banish the top or bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 76.7,
+  "header_text": "KID TRUNKS\n:",
+  "stages_text": ", 325,000\n200,000\n100,000\n80,000\n\n50,000\n\n25,000\n\n15,000\n\n10,000\n5,000\n\n, 1,000\n0",
+  "error": null
+ }
+}

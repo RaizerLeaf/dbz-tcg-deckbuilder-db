@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_20",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "20_Orange Combative Mastery.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/20_Orange Combative Mastery.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Combative Mastery",
+  "file_name": "Orange Combative Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9dbe53a822be59271c7ed60884b1dad119196b25"
+ },
+ "vision": {
+  "id": "S10_BST_20",
+  "name": "Orange Combative Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -1 stage of damage. Your Styled energy attacks gain \"HIT: Prevent 3 stages and 3 life cards of damage from your opponent's attacks in their next action this combat.\"\nPOWER: Gain 2 stages. Choose a card in your discard pile and Rejuvenate it. If that card is a Styled Drill, you may place it into play instead.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; number reads DR20",
+  "_src": "S10.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "V4 a j\ni AN y~ SS |",
+  "stages_text": "4\n20\n1\n,",
+  "error": null
+ }
+}

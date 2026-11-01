@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S146",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S146_Red Jump Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S146_Red Jump Kick.png",
+  "prefix": "S",
+  "number": 146,
+  "card_number": "S146",
+  "name_part": "Red Jump Kick",
+  "file_name": "Red Jump Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c209e5249c3192708f69442616640cfdbf692945"
+ },
+ "vision": {
+  "id": "S04_STR_S146",
+  "name": "Red Jump Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S146",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +2 stages.\nHIT: Lower both players' MPs one personality level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U98",
+  "_src": "S04.jsonl:299"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "RED JUMP KICK ©) sis\neee a",
+  "stages_text": "1",
+  "error": null
+ }
+}

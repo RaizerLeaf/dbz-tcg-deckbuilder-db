@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_02",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "02_Debilitating Volley.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/02_Debilitating Volley.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Debilitating Volley",
+  "file_name": "Debilitating Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d406adc9388986b1d72bf678268bcbc7bdaf2a2e"
+ },
+ "vision": {
+  "id": "S05_BST_02",
+  "name": "Debilitating Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered Styled.)\nEnergy attack costing 1 stage.\nLower your opponent's anger 1 level.\nDAMAGE: 3 stages +3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; NO attack icon before 'Energy attack' as printed",
+  "_src": "S05.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "DEBILITATING VOLLEY » (2 |\n3! Re a . \\w wert wr\" y",
+  "stages_text": "4\n2\n,\n\n,\n,\n1,",
+  "error": null
+ }
+}

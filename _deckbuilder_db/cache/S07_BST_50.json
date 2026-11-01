@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_50",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "50_Red Jab.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/50_Red Jab.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Red Jab",
+  "file_name": "Red Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bc7c351376da5239e5c58c5172a02b59a5998640"
+ },
+ "vision": {
+  "id": "S07_BST_50",
+  "name": "Red Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nUse a critical damage effect. You may pay 3 stages. If you do, damage from this attack cannot be prevented.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.6,
+  "header_text": "RED JAB () C50\nXN \\",
+  "stages_text": ",\n\n0\n\n4\n3,",
+  "error": null
+ }
+}

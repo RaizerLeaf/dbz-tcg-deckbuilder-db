@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_139",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "139_Pulverize.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/139_Pulverize.jpg",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Pulverize",
+  "file_name": "Pulverize",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "bffd1c51dc4ff2a59a9be57290244d2eb6990fa7"
+ },
+ "vision": {
+  "id": "S03_BST_139",
+  "name": "Pulverize",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Banish 2 cards from your opponent's discard pile. At the end of combat, search your Life Deck for a Physical Combat or Energy Combat attack card and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 81.0,
+  "header_text": "{ PULVERT ZB eee @) ALSS\n- A",
+  "stages_text": "4\n43,2",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_70",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "70_Piccolo - Waiting.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/70_Piccolo - Waiting.jpg",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Piccolo - Waiting",
+  "file_name": "Piccolo",
+  "file_subtitle": "Waiting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ce0fb29e864ed75b4f91e4328e1eef0dc3f6dab8"
+ },
+ "vision": {
+  "id": "S02_BST_70",
+  "name": "Piccolo",
+  "sub": "Waiting",
+  "type": "Ally",
+  "num": "U70",
+  "lvl": 1,
+  "stages": [
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. If your MP is Gohan, you may use this power regardless of your MP's power stage.) [Defense] POWER: Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S02.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.6,
+  "header_text": "| l piccolo (7\nLEVEL WAD 7",
+  "stages_text": "80,000\n70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

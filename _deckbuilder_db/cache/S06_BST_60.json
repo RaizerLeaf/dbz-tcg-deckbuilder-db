@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_60",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "60_Quick Blast.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/60_Quick Blast.jpg",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Quick Blast",
+  "file_name": "Quick Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3f41d8905ba713cfaa6dcd783d5baf7e7763409f"
+ },
+ "vision": {
+  "id": "S06_BST_60",
+  "name": "Quick Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] Energy attack costing 1 stage.\nAttach to your MP. While attached, [Defense] cards played from the hand are banished after use. While attached at the end of combat, you may shuffle this card into your Life Deck. Destroy this card when your opponent deals critical damage.\nDAMAGE: 4 life cards or 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; inline shield icon used as a noun",
+  "_src": "S06.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "QUICK BLAST | ) C60 |\neres —",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S49",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S49_Black Hug Maneuver.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S49_Black Hug Maneuver.png",
+  "prefix": "S",
+  "number": 49,
+  "card_number": "S49",
+  "name_part": "Black Hug Maneuver",
+  "file_name": "Black Hug Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b1f875de473f9b004ca7d6217f3a2985f5a78c72"
+ },
+ "vision": {
+  "id": "S04_STR_S49",
+  "name": "Black Hug Maneuver",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 2 levels.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C16",
+  "_src": "S04.jsonl:202"
+ },
+ "ocr": {
+  "agreement": 0.833,
+  "lower_conf": 66.6,
+  "header_text": "BLACK HUG MANEUVER () $49\n‘A ee ee /",
+  "stages_text": "4",
+  "error": null
+ }
+}

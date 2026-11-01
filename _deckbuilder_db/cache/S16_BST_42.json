@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_42",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "42_The Spirit of Earth.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/42_The Spirit of Earth.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "The Spirit of Earth",
+  "file_name": "The Spirit of Earth",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "35facf26d61864a8cc464dff7ef34dca87f21baa"
+ },
+ "vision": {
+  "id": "S16_BST_42",
+  "name": "The Spirit of Earth",
+  "sub": null,
+  "type": "Event",
+  "num": "R42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Earthling] only. Limit 1 per deck.)\n[Instant] POWER: If you have only 1 Trait, use when an Event is played or a Setup Power is used. Cancel the effects of that card. Gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; inline icon zoomed: blue Capsule Corp E badge (Earthling); no Endurance badge",
+  "_src": "S16.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 84.9,
+  "header_text": "THE SPIRIT OF EARTH\nCT ce”",
+  "stages_text": "33 9\n,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_49",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "49_Fused Zamasu's Wall of Light.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/49_Fused Zamasu's Wall of Light.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Fused Zamasu's Wall of Light",
+  "file_name": "Fused Zamasu's Wall of Light",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6c44ea389e7913536bf6efd30263543f2cba7f2b"
+ },
+ "vision": {
+  "id": "S19_BST_49",
+  "name": "Fused Zamasu's Wall of Light",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:God] only.)\n[Attack] 2: Energy attack.\nBanish an opponent's Setup, Drill, or Ally.\nDAMAGE: 6 life cards.\nHIT: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; deck restriction icon zoomed: gold G badge (God); stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 79.6,
+  "header_text": "FUSED ZAMASU'S WALL OF LIGHT @ ) R49 |",
+  "stages_text": "",
+  "error": null
+ }
+}

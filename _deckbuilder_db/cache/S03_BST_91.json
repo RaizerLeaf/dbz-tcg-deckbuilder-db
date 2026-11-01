@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_91",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "91_Orange Commanding Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/91_Orange Commanding Drill.jpg",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Orange Commanding Drill",
+  "file_name": "Orange Commanding Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "00713b624ee948b62513e5a89e74842afac05cb5"
+ },
+ "vision": {
+  "id": "S03_BST_91",
+  "name": "Orange Commanding Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Discard a card from your hand to perform a non-Styled physical attack dealing AT +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "[ORANGE COMMANDING--DRILL (=",
+  "stages_text": "1\n9 28\n3",
+  "error": null
+ }
+}

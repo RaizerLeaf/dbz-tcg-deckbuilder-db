@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_120",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "120_Saiyan Dash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/120_Saiyan Dash.png",
+  "prefix": null,
+  "number": 120,
+  "card_number": "120",
+  "name_part": "Saiyan Dash",
+  "file_name": "Saiyan Dash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "865bd42b7c6b886841d3c984e5ca84f4b4530cd8"
+ },
+ "vision": {
+  "id": "S04_BST_120",
+  "name": "Saiyan Dash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThis attack can only be stopped by a Physical Combat, Energy Combat, or Event card.\nDAMAGE: AT +3 stages.\nHIT: Setups cannot be used this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "SAIYAN DASH R120",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

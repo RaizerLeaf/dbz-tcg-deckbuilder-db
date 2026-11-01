@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P43",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P43_Blue Blurred Blast.png",
+  "rel_path": "z_OP Series/OP5/P43_Blue Blurred Blast.png",
+  "prefix": "P",
+  "number": 43,
+  "card_number": "P43",
+  "name_part": "Blue Blurred Blast",
+  "file_name": "Blue Blurred Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c1c7899deb259d3259b70b309fe784bfc86051a0"
+ },
+ "vision": {
+  "id": "OP5_OP_P43",
+  "name": "Blue Blurred Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. If this card is discarded from your hand by a Mastery effect, you may banish it to search your discard pile for an Ally and play it.)\n[Attack] 2: Energy attack.\nAttach to your MP. While attached, you may banish this card as an action to make your attacks considered Styled this combat. Banish this card when your opponent advances a level.\nDAMAGE: 3 life cards.\n(Created by Andrew Bjornstad, OP4 Supreme Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.1,
+  "header_text": "BLUE BLURRED BLAST ) P43",
+  "stages_text": ",\n4\n\n,\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P26",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P26_Dende - Watcher.png",
+  "rel_path": "z_OP Series/OP3/P26_Dende - Watcher.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Dende - Watcher",
+  "file_name": "Dende",
+  "file_subtitle": "Watcher",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "81bce15534c704a89c861c77f0495d2a03a92081"
+ },
+ "vision": {
+  "id": "OP3_OP_P26",
+  "name": "Dende",
+  "sub": "Watcher",
+  "type": "Main Personality",
+  "num": "P26",
+  "lvl": 1,
+  "stages": [
+   777,
+   666,
+   555,
+   444,
+   333,
+   222,
+   111,
+   99,
+   88,
+   77,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "[Continuous]: After a Dragon Ball you own enters play, gain 2 stages.\nPOWER: Rejuvenate 1. You may shuffle a Dragon Ball you control back into its owner's Life Deck to search your Life Deck for a non-Styled Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); edge reads HERO -> MP; Trait badges G (gold), N (orange)",
+  "_src": "OP.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "DENDE",
+  "stages_text": "777\n666\n555\n\n444\n\n333\n222\n111\n99\n\n88\n\n77\n0",
+  "error": null
+ }
+}

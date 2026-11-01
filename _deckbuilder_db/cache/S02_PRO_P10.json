@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P10",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P10_Saiyan Outrage.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P10_Saiyan Outrage.jpg",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Saiyan Outrage",
+  "file_name": "Saiyan Outrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "62902260c2e8534330d361c8c35e3d975e5b9e4a"
+ },
+ "vision": {
+  "id": "S02_PRO_P10",
+  "name": "Saiyan Outrage",
+  "sub": null,
+  "type": "Event",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Defense] POWER: Stops a physical or energy attack. If the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R127; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "SAIYAN OUTRAGE Ln () 10\n>  «, 7 /",
+  "stages_text": "1\n\n, 4\n,\n\n4",
+  "error": null
+ }
+}

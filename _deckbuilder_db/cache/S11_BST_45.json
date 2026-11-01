@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_45",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "45_Buu - Feasting.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/45_Buu - Feasting.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Buu - Feasting",
+  "file_name": "Buu",
+  "file_subtitle": "Feasting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "905ebf46ea3eca1e7b2605150f9c4c749ead80c5"
+ },
+ "vision": {
+  "id": "S11_BST_45",
+  "name": "Buu",
+  "sub": "Feasting",
+  "type": "Ally",
+  "num": "U45",
+  "lvl": 1,
+  "stages": [
+   1600000,
+   1200000,
+   800000,
+   500000,
+   300000,
+   150000,
+   100000,
+   50000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(If your MP is Babidi, you may use this Power regardless of your MP's power stage.)\n[Continuous]: After a [Trait:Majin] Ally you control leaves play, destroy the top card of your opponent's Life Deck.\n[Defense] POWER: Prevent all damage from an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badge M",
+  "_src": "S11.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 75.8,
+  "header_text": "L Buu\nLEVEL FEASTING () U45",
+  "stages_text": "1,600,000\n\n, 1,200,000\n800,000\n500,000\n300,000\n7150,000\n100,000\n50,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

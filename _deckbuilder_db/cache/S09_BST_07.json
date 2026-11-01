@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_07",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "07_Blue Recuperating Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/07_Blue Recuperating Drill.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Recuperating Drill",
+  "file_name": "Blue Recuperating Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "5c5ba1ff08b8c5e78e4dd9ec1b0c02b52fa92cab"
+ },
+ "vision": {
+  "id": "S09_BST_07",
+  "name": "Blue Recuperating Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Raise or lower a player's anger 1 level.\nPOWER: Discard a card from your hand to perform a copy of the last attack your opponent used this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S09.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "BLUE RECUPERATING DRILL & U7 |\n00] i)",
+  "stages_text": null,
+  "error": null
+ }
+}

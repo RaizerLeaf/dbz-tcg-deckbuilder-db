@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_14",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "14_Blue Deterrence.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/14_Blue Deterrence.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Blue Deterrence",
+  "file_name": "Blue Deterrence",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "013a284e4466a76b82c9a441d64639ee8dbeca86"
+ },
+ "vision": {
+  "id": "S07_BST_14",
+  "name": "Blue Deterrence",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nLower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 63.1,
+  "header_text": "BLUE DETERRENCE () C14\nWy? lan",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

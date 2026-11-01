@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_83",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "83_Gohan - Defiant.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/83_Gohan - Defiant.png",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Gohan - Defiant",
+  "file_name": "Gohan",
+  "file_subtitle": "Defiant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "936552cb4035319c8004a27aef32e2ce56bf52bf"
+ },
+ "vision": {
+  "id": "S16_BST_83",
+  "name": "Gohan",
+  "sub": "Defiant",
+  "type": "Main Personality",
+  "num": "S83",
+  "lvl": 4,
+  "stages": [
+   6500000,
+   4480000,
+   1750000,
+   1360000,
+   970000,
+   590000,
+   225000,
+   99000,
+   67000,
+   12000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +2 life cards. You are considered to have no cards in your hand for your effects.\nPOWER: [Attack] Energy attack.\nFocused. [Warning]: You may banish a Setup, Drill, Ally, or attached card.\nDAMAGE: 6 life cards.\nHIT: Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S; black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S16.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 75.9,
+  "header_text": "GOHAN\n:",
+  "stages_text": "6,500,000\n4,480,000\n1,750,000\n1,360,000\n\n970,000\n\n590,000\n\n225,000\n\n99,000\n67,000\n12,000\n0",
+  "error": null
+ }
+}

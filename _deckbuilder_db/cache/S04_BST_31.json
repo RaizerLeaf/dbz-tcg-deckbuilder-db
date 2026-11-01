@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_31",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "31_Orange Concealment.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/31_Orange Concealment.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Orange Concealment",
+  "file_name": "Orange Concealment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "4ed762473ed4e6847bf0652456dcb13534d4938c"
+ },
+ "vision": {
+  "id": "S04_BST_31",
+  "name": "Orange Concealment",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYour physical attacks cannot have their damage prevented this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "ORANGE CONCEALMENT ) 31\n—————————————— ee",
+  "stages_text": ",",
+  "error": null
+ }
+}

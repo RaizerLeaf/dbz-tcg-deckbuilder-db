@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_20",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "20_Orange Quick Toss.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/20_Orange Quick Toss.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Quick Toss",
+  "file_name": "Orange Quick Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6d9e3640c7d21a42808ad5e5e1889d87d3c01067"
+ },
+ "vision": {
+  "id": "S12_BST_20",
+  "name": "Orange Quick Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 1 stage.\nLower your opponent's anger 1 level.\n[Trait:Earthling]: This attack stays in play to be used a second time this combat.\nDAMAGE: 3 life cards.\nHIT: Gain 2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: blue Capsule Corp Earthling badge",
+  "_src": "S12.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 85.1,
+  "header_text": "ORANGE QUICK TOSS ) U20",
+  "stages_text": "1\n,\n1,",
+  "error": null
+ }
+}

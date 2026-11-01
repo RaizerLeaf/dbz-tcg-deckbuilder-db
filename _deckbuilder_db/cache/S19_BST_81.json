@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_81",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "81_Yamcha - Star Player.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/81_Yamcha - Star Player.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Yamcha - Star Player",
+  "file_name": "Yamcha",
+  "file_subtitle": "Star Player",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a6a96c93f4e9d8926ac18c7517b9972201c46795"
+ },
+ "vision": {
+  "id": "S19_BST_81",
+  "name": "Yamcha",
+  "sub": "Star Player",
+  "type": "Main Personality",
+  "num": "S81",
+  "lvl": 1,
+  "stages": [
+   115000,
+   100000,
+   85000,
+   60000,
+   45000,
+   30000,
+   15000,
+   9000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks cost -1 stages (to a minimum of 0).\nPOWER: [Attack] Energy attack.\nThis attack is considered to deal critical damage.\nDAMAGE: 2 life cards.\nHIT: Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E (blue); 'cost -1 stages' printed as shown",
+  "_src": "S19.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 75.4,
+  "header_text": "YAMCHA",
+  "stages_text": "115,000\n100,000\n85,000\n60,000\n\n5 45,000\n30,000\n15,000\n9,000\n\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

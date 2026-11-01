@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P37",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P37_Raditz - Entangled.png",
+  "rel_path": "z_OP Series/OP4/P37_Raditz - Entangled.png",
+  "prefix": "P",
+  "number": 37,
+  "card_number": "P37",
+  "name_part": "Raditz - Entangled",
+  "file_name": "Raditz",
+  "file_subtitle": "Entangled",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b5ea5b69774b24fc354fcf8fa943ea364a739426"
+ },
+ "vision": {
+  "id": "OP4_OP_P37",
+  "name": "Raditz",
+  "sub": "Entangled",
+  "type": "Main Personality",
+  "num": "P37",
+  "lvl": 4,
+  "stages": [
+   22000,
+   21000,
+   20000,
+   19000,
+   18000,
+   17000,
+   16000,
+   15000,
+   14000,
+   13000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: Draw a card. Your opponent discards a card from their hand. You may discard a card from your hand to use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "OP.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "41 RADITZ\nLEVEL ENTANGLED () P37",
+  "stages_text": "22,000\n21,000\n20,000\n19,000\n\n7\n18,000\n17,000\n16,000\n15,000\n14,000\n13,000\n0",
+  "error": null
+ }
+}

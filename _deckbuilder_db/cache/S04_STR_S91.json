@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S91",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S91_Namekian Gut Punch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S91_Namekian Gut Punch.png",
+  "prefix": "S",
+  "number": 91,
+  "card_number": "S91",
+  "name_part": "Namekian Gut Punch",
+  "file_name": "Namekian Gut Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e40d3a1392303e5e5f0569d2cd221caf2fa3c37e"
+ },
+ "vision": {
+  "id": "S04_STR_S91",
+  "name": "Namekian Gut Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDestroy X Allies. X = your MP's level.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 U89",
+  "_src": "S04.jsonl:244"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "a a\nNAMEKIAN GUT PUNCH () $91\npe i> zm. |",
+  "stages_text": "5\n4\n, 2 , ,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_106",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "106_Blue Precarious Defense.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/106_Blue Precarious Defense.jpg",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Blue Precarious Defense",
+  "file_name": "Blue Precarious Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d0863e2910a63ea421bf9f13fe0388d9ca6da7d0"
+ },
+ "vision": {
+  "id": "S03_BST_106",
+  "name": "Blue Precarious Defense",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may discard this card from your hand during the Planning Step. If you do, choose a Setup in play and place it at the bottom of its owner's Life Deck.) ENDURANCE 1. [Defense] Prevent all damage from a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "(BLUE PRECARIOUS DEFENSE () A106",
+  "stages_text": "0",
+  "error": null
+ }
+}

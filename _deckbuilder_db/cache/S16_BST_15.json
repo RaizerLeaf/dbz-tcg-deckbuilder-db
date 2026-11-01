@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_15",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "15_Namekian Unburden Drill.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/15_Namekian Unburden Drill.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Unburden Drill",
+  "file_name": "Namekian Unburden Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "5339d4c6e5116361faf5705ed897a1c0e11d13de"
+ },
+ "vision": {
+  "id": "S16_BST_15",
+  "name": "Namekian Unburden Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Discard a card from your hand to prevent all damage from an attack. If your MP has only 1 Trait, stop that attack instead. [Warning]: Gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 89.3,
+  "header_text": "NAMEKIAN UNBURDEN DRILL © r15)",
+  "stages_text": null,
+  "error": null
+ }
+}

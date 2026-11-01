@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_43",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "43_Torturous Volley.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/43_Torturous Volley.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Torturous Volley",
+  "file_name": "Torturous Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b2f1fb48c812f8536427065a169373407e95e30a"
+ },
+ "vision": {
+  "id": "S10_BST_43",
+  "name": "Torturous Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nChoose a card in your discard pile and Rejuvenate it.\n[Trait:Alien]: If you have 2 or less Traits, Remain 1.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; first card seen with 'Remain 1' keyword; inline icon purple (Alien)",
+  "_src": "S10.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 81.4,
+  "header_text": "TORTUROUS VOLLEY () R43",
+  "stages_text": "1,\n1,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_51",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "51_Top's Justice Reverse Choke.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/51_Top's Justice Reverse Choke.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Top's Justice Reverse Choke",
+  "file_name": "Top's Justice Reverse Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "195c24e342564d0ad3e730a661634067ecc5e759"
+ },
+ "vision": {
+  "id": "S19_BST_51",
+  "name": "Top's Justice Reverse Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThe next time your opponent plays an Event as an action this combat, you may banish the top card of your Life Deck to cancel the effects of that card. Attach to your opponent's MP. While attached, at the start of each turn, banish the top card of your opponent's Life Deck. Rejuvenate this card when your opponent deals critical damage.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; number area reads 'PREVIEW R51'; possessive title -> Named; no Endurance badge",
+  "_src": "S19.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "TOP'S JUSTICE REVERSE CHOKE",
+  "stages_text": "1\n2\n3,\n1\n,\n4",
+  "error": null
+ }
+}

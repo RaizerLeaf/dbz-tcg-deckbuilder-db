@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_89",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "89_Krillin - Happy.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/89_Krillin - Happy.png",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Krillin - Happy",
+  "file_name": "Krillin",
+  "file_subtitle": "Happy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3ca76205644f18829e2e432587ac111d074c3aed"
+ },
+ "vision": {
+  "id": "S16_BST_89",
+  "name": "Krillin",
+  "sub": "Happy",
+  "type": "Main Personality",
+  "num": "S89",
+  "lvl": 2,
+  "stages": [
+   600000,
+   420000,
+   237000,
+   152000,
+   83000,
+   69000,
+   25000,
+   18000,
+   9000,
+   4000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card.\n[Defense] POWER: Prevent all damage from an attack.\nLower a player's anger 1. You may discard a card from your hand to draw a card. If you discarded a Styled card, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E (blue)",
+  "_src": "S16.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 75.3,
+  "header_text": "KRILLIN\n:",
+  "stages_text": "600,000\n420,000\n237,000\n152,000\n83,000\n69,000\n25,000\n18,000\n9,000\n\n4,000\n\n0",
+  "error": null
+ }
+}

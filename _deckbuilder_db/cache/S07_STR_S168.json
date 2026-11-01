@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S168",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S168_Red Tandem Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S168_Red Tandem Blast.png",
+  "prefix": "S",
+  "number": 168,
+  "card_number": "S168",
+  "name_part": "Red Tandem Blast",
+  "file_name": "Red Tandem Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f518df10a5f972e5c3e9659854aad056591cc8c9"
+ },
+ "vision": {
+  "id": "S07_STR_S168",
+  "name": "Red Tandem Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S168",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nYou may lower your anger 2 levels or lower your MP 1 level. If you do either of them, your opponent cannot play non-Styled cards this combat.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_51; text compared on the sheet",
+  "_src": "S07.jsonl:351"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "RED TANDEM BLAST @ sis8\nso=a2=em~A sk lel",
+  "stages_text": "1\n,\n2,\n,",
+  "error": null
+ }
+}

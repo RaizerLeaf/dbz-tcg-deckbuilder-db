@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P12_RST",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P12_Namekian Targeted Strike (Restored).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P12_Namekian Targeted Strike (Restored).png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Namekian Targeted Strike",
+  "file_name": "Namekian Targeted Strike",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "27e4aad838b61a804e97f9245449cc238cf6a24f"
+ },
+ "vision": {
+  "id": "S05_PRO_P12_RST",
+  "name": "Namekian Targeted Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: You may use the effect of a Dragon Ball in play. If you do, banish this card after use.",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation of P12 with a FanZ disclaimer; promo reprint of S01 U88",
+  "_src": "S05.jsonl:161"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "NAMEKIAN TARGETED STRIKE ) P12,\nLE",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

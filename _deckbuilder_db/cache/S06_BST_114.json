@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_114",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "114_Namekian Ending.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/114_Namekian Ending.jpg",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Namekian Ending",
+  "file_name": "Namekian Ending",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "70dceb940022bfe2fe6919692663073328629057"
+ },
+ "vision": {
+  "id": "S06_BST_114",
+  "name": "Namekian Ending",
+  "sub": null,
+  "type": "Event",
+  "num": "R114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Search your Life Deck for a Namek Dragon Ball and place it into play. At the end of combat, shuffle a Dragon Ball you control into its owner's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 85.9,
+  "header_text": "NAMEKIAN ENDING ) R114 |",
+  "stages_text": "4\n2\n,",
+  "error": null
+ }
+}

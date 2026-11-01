@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_135",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "135_Information Gathering.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/135_Information Gathering.jpg",
+  "prefix": null,
+  "number": 135,
+  "card_number": "135",
+  "name_part": "Information Gathering",
+  "file_name": "Information Gathering",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "da9bc0c5210b617b76e2b6da9bb9423e87f92f4e"
+ },
+ "vision": {
+  "id": "S03_BST_135",
+  "name": "Information Gathering",
+  "sub": null,
+  "type": "Setup",
+  "num": "R135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Search your Banished Zone for a Dragon Ball and place it at the bottom of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "{ INFORMATION GATHERING () 3135\n~~ *",
+  "stages_text": ",\n,\n1,",
+  "error": null
+ }
+}

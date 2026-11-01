@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S34",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S34_Black Radiating Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S34_Black Radiating Drill.png",
+  "prefix": "S",
+  "number": 34,
+  "card_number": "S34",
+  "name_part": "Black Radiating Drill",
+  "file_name": "Black Radiating Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "8be1892af27721c645b0639f9aa12aec9a7f1d38"
+ },
+ "vision": {
+  "id": "S04_STR_S34",
+  "name": "Black Radiating Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's energy attacks cost +1 stage to perform. Whenever your opponent Rejuvenates, banish the bottom card of his discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 C15; landscape layout",
+  "_src": "S04.jsonl:187"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.1,
+  "header_text": "—_— —— ao aere\nWea - a. rm\n| ae et { RR -s# 14.2",
+  "stages_text": null,
+  "error": null
+ }
+}

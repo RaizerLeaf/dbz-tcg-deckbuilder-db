@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P6",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P6_Supere Kai - Shin.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P6_Supere Kai - Shin.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Supere Kai - Shin",
+  "file_name": "Supere Kai",
+  "file_subtitle": "Shin",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4443f31595d9f271c9224819e3791abdb49ec44d"
+ },
+ "vision": {
+  "id": "S10_PRO_P6",
+  "name": "Supreme Kai",
+  "sub": "Shin",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   775000,
+   600000,
+   500000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Look at the top 4 cards of your opponent's Life Deck and put them back in any order.\nPOWER: [Attack] Energy attack costing 2 stages.\nChoose up to 2 cards in your discard pile and shuffle them into your Life Deck.\nDAMAGE: 3 life cards.\nHIT: You may discard a card from your hand to draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same as S10 S87; filename typo 'Supere'",
+  "_src": "S10.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.1,
+  "header_text": "SUPREME KAI\newer - o >\nLEVEL apepes oo | on ~~\n\n\\ _———— 7) - ee NAN",
+  "stages_text": "775,000\n600,000\n900,000\n300,000\n200,000\n\n7 100,000\n90,000\n25,000\n15,000\n10,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_127",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "127_Saiyan Dive.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/127_Saiyan Dive.png",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Saiyan Dive",
+  "file_name": "Saiyan Dive",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ba8f3d404749c686685726869a48624103421dca"
+ },
+ "vision": {
+  "id": "S07_BST_127",
+  "name": "Saiyan Dive",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(This card's Endurance is considered to be 10 for your card effects.)\n[Attack] Physical attack.\nYou may banish 2 non-[Attack] cards from your discard pile. If you do, banish a Setup or Drill in play.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "inline attack icon used as a noun ('non-[Attack] cards')",
+  "_src": "S07.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 84.5,
+  "header_text": "SAIYAN DIVE @) ri27\neee nh mmm",
+  "stages_text": "4\n3 0",
+  "error": null
+ }
+}

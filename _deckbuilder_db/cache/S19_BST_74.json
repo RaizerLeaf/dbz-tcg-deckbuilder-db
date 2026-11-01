@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_74",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "74_Top - The Bold.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/74_Top - The Bold.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Top - The Bold",
+  "file_name": "Top",
+  "file_subtitle": "The Bold",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f1794c4cce6eef630e0a09dc06543e63092208f"
+ },
+ "vision": {
+  "id": "S19_BST_74",
+  "name": "Top",
+  "sub": "The Bold",
+  "type": "Main Personality",
+  "num": "S74",
+  "lvl": 2,
+  "stages": [
+   69000000,
+   37000000,
+   8690000,
+   1325000,
+   969000,
+   750000,
+   469000,
+   205000,
+   69000,
+   30000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage.\nPOWER: [Attack] Physical attack.\nRejuvenate up to 2 cards with \"attach\" in the text-box from your discard pile.\nDAMAGE: 5 stages.\nHIT: Raise or lower a player's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "TOP",
+  "stages_text": "69,000,000\n37,000,000\n8,690,000\n1,325,000\n969,000\n750,000\n469,000\n205,000\n69,000\n30,000\n0",
+  "error": null
+ }
+}

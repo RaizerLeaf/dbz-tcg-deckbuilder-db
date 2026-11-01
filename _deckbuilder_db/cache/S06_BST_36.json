@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_36",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "36_Orange Earthquake.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/36_Orange Earthquake.jpg",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Orange Earthquake",
+  "file_name": "Orange Earthquake",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f7bbb90444dbccf8b4ca367d9c80716eb4a2f838"
+ },
+ "vision": {
+  "id": "S06_BST_36",
+  "name": "Orange Earthquake",
+  "sub": null,
+  "type": "Event",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw a card. Attach this card to your MP. While attached, non-Personality cards that advance an MP 1 or more levels cannot be played nor used. Banish this card when your opponent performs a successful Styled attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "ORANGE EARTHQUAKE ) 036\nput Va) SR a",
+  "stages_text": "31\n,\n\n2\n,",
+  "error": null
+ }
+}

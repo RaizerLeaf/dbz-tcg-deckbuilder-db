@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_124",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "124_Red Pound.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/124_Red Pound.png",
+  "prefix": null,
+  "number": 124,
+  "card_number": "124",
+  "name_part": "Red Pound",
+  "file_name": "Red Pound",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5a67c021371fbf7275e219eca9a1fb86d41c86b2"
+ },
+ "vision": {
+  "id": "S07_BST_124",
+  "name": "Red Pound",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThis attack cannot have its damage modified. If your MP has gained stages this combat, raise your anger 2 levels.\nDAMAGE: 8 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "RED POUND C) ri24\nWm ~ si x. / A eee",
+  "stages_text": ",,\n7, ,\n,\n,\n37\n,",
+  "error": null
+ }
+}

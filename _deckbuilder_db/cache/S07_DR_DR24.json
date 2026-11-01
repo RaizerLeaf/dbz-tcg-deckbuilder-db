@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR24",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR24_Hercule - In Action.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR24_Hercule - In Action.png",
+  "prefix": "DR",
+  "number": 24,
+  "card_number": "DR24",
+  "name_part": "Hercule - In Action",
+  "file_name": "Hercule",
+  "file_subtitle": "In Action",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ebaccda737098715ff139543797d148ea3077975"
+ },
+ "vision": {
+  "id": "S07_DR_DR24",
+  "name": "Hercule",
+  "sub": "In Action",
+  "type": "Main Personality",
+  "num": "DR24",
+  "lvl": 4,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Whenever you use a Named card, destroy the top card of your opponent's Life Deck and lower each player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; power stages printed ascending (5..50) then 0, as on PZP",
+  "_src": "S07.jsonl:170"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.5,
+  "header_text": "HERCULE o> pro\nIN ACTION ay\nLl) <=, ee",
+  "stages_text": "10\n\n15\n\n20\n2\n\n35\n\n40\n\n,\n\n50\n\n0",
+  "error": null
+ }
+}

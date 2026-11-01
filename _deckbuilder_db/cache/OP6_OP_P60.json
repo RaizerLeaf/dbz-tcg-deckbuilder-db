@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P60",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P60_Saiyan Ki Blitz.png",
+  "rel_path": "z_OP Series/OP6/P60_Saiyan Ki Blitz.png",
+  "prefix": "P",
+  "number": 60,
+  "card_number": "P60",
+  "name_part": "Saiyan Ki Blitz",
+  "file_name": "Saiyan Ki Blitz",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b7b79d55abd4254a54b44b90de3c4b360e8327e7"
+ },
+ "vision": {
+  "id": "OP6_OP_P60",
+  "name": "Saiyan Ki Blitz",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Saiyan Defiant Mastery only. If this card is discarded from your hand by a Mastery effect, raise your anger 1.)\n[Attack] 1: Energy attack.\nRaise your anger 1.\nDAMAGE: 3 life cards.\nHIT: Search your Life Deck for a Dragon Ball and place it into play.\n(Banish after use.)\n(Created by Wayne Bettis, OP5 Supreme Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); deck restriction names a specific Mastery; stage cost printed as '1:'",
+  "_src": "OP.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 93.4,
+  "header_text": "SAIYAN KI BLITZ C) P60",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

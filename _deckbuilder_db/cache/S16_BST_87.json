@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_87",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "87_Goku - Super Saiyan Blue.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/87_Goku - Super Saiyan Blue.png",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Goku - Super Saiyan Blue",
+  "file_name": "Goku",
+  "file_subtitle": "Super Saiyan Blue",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bc5358e054c6a314355a645c485a8b7b111e7833"
+ },
+ "vision": {
+  "id": "S16_BST_87",
+  "name": "Goku",
+  "sub": "Super Saiyan Blue",
+  "type": "Main Personality",
+  "num": "S87",
+  "lvl": 4,
+  "stages": [
+   190000000,
+   98200000,
+   42700000,
+   8325000,
+   1450000,
+   957000,
+   742000,
+   434000,
+   220000,
+   83000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(When you reach this level, Rejuvenate up to 5 Drills from your discard pile and/or Banished Zone.)\nPOWER: [Attack] Energy attack.\n[Warning]: Rejuvenate 3.\nDAMAGE: 4 life cards + X stages.\nX = 3 times the number Drills you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G, E, S; black warning triangle transcribed as [Warning]; 'the number Drills' printed without 'of'",
+  "_src": "S16.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 83.4,
+  "header_text": "41 Goku\nLEVEL SUPER SAIYAN BLUE () 987\nle ee",
+  "stages_text": "190,000,000\n98,200,000\n42,700,000\n8,325,000\n1,450,000\n957,000\n742,000\n434,000\n220,000\n83,000\n0",
+  "error": null
+ }
+}

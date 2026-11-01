@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_35",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "35_Saiyan Hulking Slash.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/35_Saiyan Hulking Slash.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Saiyan Hulking Slash",
+  "file_name": "Saiyan Hulking Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "14c1daa29a95ae35859c60b9a4c46fa7ac0ef694"
+ },
+ "vision": {
+  "id": "S19_BST_35",
+  "name": "Saiyan Hulking Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Saiyan Surging Mastery only.)\n[Attack] Physical attack.\nLower your opponent's anger 2.\nDAMAGE: 5 stages.\nHIT: Raise your anger 2.\n([Trait:Fusion]: Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; inline icon zoomed: grey F starburst badge (Fusion); no Endurance badge",
+  "_src": "S19.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 90.0,
+  "header_text": "SAIYAN HULKING SLASH C) C35\n4 AM.",
+  "stages_text": "37\n,\n2,",
+  "error": null
+ }
+}

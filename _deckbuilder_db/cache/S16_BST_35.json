@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_35",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "35_Saiyan Energy Flurry.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/35_Saiyan Energy Flurry.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Saiyan Energy Flurry",
+  "file_name": "Saiyan Energy Flurry",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b4b099976d8db911ac476e699b9bdf5eaf41b86e"
+ },
+ "vision": {
+  "id": "S16_BST_35",
+  "name": "Saiyan Energy Flurry",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nSearch your discard pile for a Styled card with Endurance and shuffle it into your Life Deck. [Warning]: Remain 1.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 0.967,
+  "lower_conf": 92.5,
+  "header_text": "SAIYAN ENERGY FLURRY C) U35\na. -",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

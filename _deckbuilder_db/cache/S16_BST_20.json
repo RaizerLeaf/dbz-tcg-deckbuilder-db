@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_20",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "20_Orange Redacted Drill.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/20_Orange Redacted Drill.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Redacted Drill",
+  "file_name": "Orange Redacted Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0c9e0dd6bebbd56a51d0be643cf97c9df97f0625"
+ },
+ "vision": {
+  "id": "S16_BST_20",
+  "name": "Orange Redacted Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Once per turn, after this Drill is destroyed from play by one of your effects, you may banish it to search your Life Deck for a Non-Styled Drill and place it into play.)\n[Instant] POWER: Use when entering combat. Gain 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S16.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 82.7,
+  "header_text": "ORANGE REDACTED DRILL () R20",
+  "stages_text": null,
+  "error": null
+ }
+}

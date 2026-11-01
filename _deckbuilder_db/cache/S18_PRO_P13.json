@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P13",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P13_Namekian Grab.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P13_Namekian Grab.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Namekian Grab",
+  "file_name": "Namekian Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f908614690ce067cc1c231c89554214a2074f2e1"
+ },
+ "vision": {
+  "id": "S18_PRO_P13",
+  "name": "Namekian Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nIf the highest power level on your MP's Level 4 is 500,000 or less, destroy an opponent's Setup, Drill, or Ally in play.\nDAMAGE: 3 life cards or 3 stages.\nHIT: Lower your opponent's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 85.3,
+  "header_text": "NAMEKIAN GRAB C) P13\n| |",
+  "stages_text": "37 2\n4",
+  "error": null
+ }
+}

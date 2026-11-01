@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_109",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "109_Blue Crush.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/109_Blue Crush.jpg",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Blue Crush",
+  "file_name": "Blue Crush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4c02a5a34441c1f41c367620b7e6772ee98f1246"
+ },
+ "vision": {
+  "id": "S02_BST_109",
+  "name": "Blue Crush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 stages. If you have performed a copied attack this combat, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.0,
+  "header_text": "BLUE CRUSH colyies () A109\n| i? SS qs",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_40",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "40_Orange Gathering.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/40_Orange Gathering.jpg",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Gathering",
+  "file_name": "Orange Gathering",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "16ff79c9a84c19269c92861a2534572cb257a098"
+ },
+ "vision": {
+  "id": "S03_BST_40",
+  "name": "Orange Gathering",
+  "sub": null,
+  "type": "Event",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your MP gains 5 stages. If your MP is Tenshinhan, Yamcha, Chaozu or Yajirobe, look at the top 5 cards of your Life Deck, place them back in any order, and then draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "(ORANGE GATHERING. a\nT Fa YQ",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_79",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "79_Frieza - Impressive Foe.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/79_Frieza - Impressive Foe.png",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Frieza - Impressive Foe",
+  "file_name": "Frieza",
+  "file_subtitle": "Impressive Foe",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "62fa0f2135d02615ddbe4727869e438411836673"
+ },
+ "vision": {
+  "id": "S16_BST_79",
+  "name": "Frieza",
+  "sub": "Impressive Foe",
+  "type": "Main Personality",
+  "num": "S79",
+  "lvl": 4,
+  "stages": [
+   160000000,
+   72800000,
+   25400000,
+   6500000,
+   1125000,
+   840000,
+   520000,
+   330000,
+   100000,
+   55000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards.\n[Instant] POWER: Use when you play a non-Styled attack. That attack gains \"Remain 1.\"\nPOWER: Your MP gains 3 + X stages. X = the number of non-Styled cards in your discard pile. [Warning]: Rejuvenate 4.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S16.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 77.0,
+  "header_text": "441 FRIEZA\nLEVEL IMPRESSIVE FOE () 8/9",
+  "stages_text": "160,000,000\n72,800,000\n25,400,000\n6,500,000\n1,125,000\n840,000\n520,000\n330,000\n100,000\n455,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_75",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "75_Master Roshi - Restrained.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/75_Master Roshi - Restrained.jpg",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Master Roshi - Restrained",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Restrained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "82892f54b693f4fe2fbc00c85bd34c559876fb1b"
+ },
+ "vision": {
+  "id": "S06_BST_75",
+  "name": "Master Roshi",
+  "sub": "Restrained",
+  "type": "Main Personality",
+  "num": "U75",
+  "lvl": 1,
+  "stages": [
+   130,
+   120,
+   110,
+   100,
+   90,
+   80,
+   70,
+   60,
+   50,
+   40,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(You may use the power of your \"Turtle\" regardless of your MP's power stage.)\n[Continuous]: Whenever you banish cards from your opponent's discard pile, destroy the top card of your opponent's Life Deck.\nPOWER: Search your Life Deck for an Ally named \"Turtle\" and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO MP'",
+  "_src": "S06.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 72.1,
+  "header_text": "MASTER ROSHI U75\nRESTRAINED\n2g : af > 77a —_ Hf",
+  "stages_text": "130\n120\n110\n\n1 100\n2 90\n7 80\n1 70\n60\n50\n\n40\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_55",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "55_Saiyan Face Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/55_Saiyan Face Strike.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Saiyan Face Strike",
+  "file_name": "Saiyan Face Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5955319af960bfdf2aa2ba30a8ee379e7413e4dd"
+ },
+ "vision": {
+  "id": "S05_BST_55",
+  "name": "Saiyan Face Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2 levels. If this attack is stopped, draw a card.\nDAMAGE: AT stages.\nHIT: Lower your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": "SAIYAN FACE STRIKE 2) C55\n\\ ee oo",
+  "stages_text": "",
+  "error": null
+ }
+}

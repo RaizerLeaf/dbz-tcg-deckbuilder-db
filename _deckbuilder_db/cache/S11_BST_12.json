@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_12",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "12_Namekian Empowering Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/12_Namekian Empowering Drill.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Empowering Drill",
+  "file_name": "Namekian Empowering Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "d80eaad4d777a896dd39c881d981b1aa9b0a5f3a"
+ },
+ "vision": {
+  "id": "S11_BST_12",
+  "name": "Namekian Empowering Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Look at the top 2 cards of your Life Deck and place any number of them on the top or bottom of your Life Deck.\nPOWER: Gain 2 stages. If your MP has 2 or less Traits, choose a Styled [Attack] card in your discard pile and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline attack icon used as a noun",
+  "_src": "S11.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "AMEKIAN EMPOWERING DRILL a R12)",
+  "stages_text": null,
+  "error": null
+ }
+}

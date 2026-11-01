@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_32",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "32_Saiyan Confidence Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/32_Saiyan Confidence Drill.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Saiyan Confidence Drill",
+  "file_name": "Saiyan Confidence Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "47cca3889585648118a938e255b00e7ac4f6c0b0"
+ },
+ "vision": {
+  "id": "S13_BST_32",
+  "name": "Saiyan Confidence Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck, you may place it into play.)\n[Continuous]: Your Styled attacks deal +1 life card of damage.\nPOWER: Lower a player's anger 1 level.\n[Trait:Fusion]: You may destroy an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 87.1,
+  "header_text": "SAIYAN CONFIDENCE DRILL €) U32\n_ ee ee Ye eee \\ TA Sn",
+  "stages_text": null,
+  "error": null
+ }
+}

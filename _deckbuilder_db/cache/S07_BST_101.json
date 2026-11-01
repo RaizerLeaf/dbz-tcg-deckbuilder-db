@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_101",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "101_Black Memories.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/101_Black Memories.png",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Black Memories",
+  "file_name": "Black Memories",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "7f309b47b444617ac4432c39fc1462cc9073aa13"
+ },
+ "vision": {
+  "id": "S07_BST_101",
+  "name": "Black Memories",
+  "sub": null,
+  "type": "Setup",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your opponent has more than 1 card in his or her hand when this card is discarded from your hand, your opponent chooses a card from his or her hand and places it on top of his or her Life Deck.)\nPOWER: Banish a Setup or Drill you control. Search your opponent's Life Deck for a Setup or Drill and place it into play under your control.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "BLACK MEMORIES C) R101 |\nnn ae | ee a eT ee ON 7",
+  "stages_text": null,
+  "error": null
+ }
+}

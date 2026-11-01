@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_45",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "45_Red Disregard.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/45_Red Disregard.jpg",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Disregard",
+  "file_name": "Red Disregard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b0bd0750c3ca54f325c34830d65e11180c2280bd"
+ },
+ "vision": {
+  "id": "S06_BST_45",
+  "name": "Red Disregard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished by one of your effects, raise your anger 1 level.)\n[Defense] Stops a physical attack.\nBanish up to 10 cards from your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 0.967,
+  "lower_conf": 74.2,
+  "header_text": "RED DISREGARD () C45",
+  "stages_text": "3\n4 ,\n,\n,",
+  "error": null
+ }
+}

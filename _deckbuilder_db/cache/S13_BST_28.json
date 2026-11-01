@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_28",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "28_Red Energy Defection.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/28_Red Energy Defection.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Red Energy Defection",
+  "file_name": "Red Energy Defection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fda7d88c58ac6c4a12e4525157b6a989307dc6e"
+ },
+ "vision": {
+  "id": "S13_BST_28",
+  "name": "Red Energy Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, you may banish it to choose up to 3 Styled cards in your discard pile and shuffle them into your Life Deck.)\n[Defense] Stops an energy attack.\nGain 3 stages. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "filename says 'Energy Defection'; the card prints 'Deflection'; no Endurance badge",
+  "_src": "S13.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "RED ENERGY DEFLECTION €) C28\n— ————",
+  "stages_text": "",
+  "error": null
+ }
+}

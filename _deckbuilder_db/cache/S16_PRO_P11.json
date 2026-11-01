@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P11",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P11_Krillin - Settled Down.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P11_Krillin - Settled Down.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Krillin - Settled Down",
+  "file_name": "Krillin",
+  "file_subtitle": "Settled Down",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "84d2211a9b286a21638d61574a2e7065c438e143"
+ },
+ "vision": {
+  "id": "S16_PRO_P11",
+  "name": "Krillin",
+  "sub": "Settled Down",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 1,
+  "stages": [
+   220000,
+   120000,
+   90000,
+   60000,
+   30000,
+   15000,
+   10000,
+   8000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages.\nPOWER: [Attack] 2: Energy attack.\nAt the end of combat, search your Life Deck for a Styled Setup and place it into play.\nDAMAGE: 4 life cards.\nHIT: Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; edge reads HERO -> MP; Trait badge E (blue); stage cost printed as '2:'",
+  "_src": "S16.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "KRILLIN",
+  "stages_text": "220,000\n120,000\n90,000\n60,000\n\n5 30,000\n15,000\n10,000\n8,000\n\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

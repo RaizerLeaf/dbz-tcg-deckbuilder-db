@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_71",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "71_Lord Slug - Renewed.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/71_Lord Slug - Renewed.jpg",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Lord Slug - Renewed",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Renewed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "50483aa92026f106c32b6026ed8e51dd5e415d91"
+ },
+ "vision": {
+  "id": "S03_BST_71",
+  "name": "Lord Slug",
+  "sub": "Renewed",
+  "type": "Main Personality",
+  "num": "U71",
+  "lvl": 3,
+  "stages": [
+   200000,
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   10000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 stages of damage. The first time during combat one of your effects shuffles or Rejuvenates cards from your discard pile into your Life Deck, double that amount.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "[B vor sus Om\nCae | —",
+  "stages_text": "200,000\n150,000\n125,000\n100,000\n75,000\n50,000\n10,000\n1,000\n\n500\n\n250\n\n0",
+  "error": null
+ }
+}

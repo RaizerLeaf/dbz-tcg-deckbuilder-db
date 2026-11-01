@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_51",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "51_Saiyan Hanging Out Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/51_Saiyan Hanging Out Drill.jpg",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Saiyan Hanging Out Drill",
+  "file_name": "Saiyan Hanging Out Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9180ec4cb770dc84b9bcca5a51db57aa5b80158c"
+ },
+ "vision": {
+  "id": "S03_BST_51",
+  "name": "Saiyan Hanging Out Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's first attack each combat costs +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.2,
+  "header_text": "(SAIYAN HANGING OUT:DRILL (=",
+  "stages_text": "",
+  "error": null
+ }
+}

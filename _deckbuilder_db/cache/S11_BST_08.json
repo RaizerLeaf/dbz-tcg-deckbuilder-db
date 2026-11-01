@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_08",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "08_Blue Security.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/08_Blue Security.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Security",
+  "file_name": "Blue Security",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "038ce7aed6836f5d21b7fd8110c138ae9a383405"
+ },
+ "vision": {
+  "id": "S11_BST_08",
+  "name": "Blue Security",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nYou may banish an Ally you control. If you do, search your Life Deck or discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 87.8,
+  "header_text": "BLUE SECURITY ) ca",
+  "stages_text": "347 ,\n,",
+  "error": null
+ }
+}

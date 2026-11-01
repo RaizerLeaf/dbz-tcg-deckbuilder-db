@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_26",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "26_Saiyan Muck Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/26_Saiyan Muck Drill.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Saiyan Muck Drill",
+  "file_name": "Saiyan Muck Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "4edc810152d41a154ddf8fa13da1654381229e5b"
+ },
+ "vision": {
+  "id": "S12_BST_26",
+  "name": "Saiyan Muck Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this Drill enters play, look at your opponent's hand.)\n[Continuous]: Your Styled attacks deal +1 life card of damage.\n[Instant] POWER: Use after one of your effects destroys cards from your Life Deck. Rejuvenate the bottom 2 cards of your discard pile and destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 83.4,
+  "header_text": "SAIYAN MUCK DRILL () U26",
+  "stages_text": null,
+  "error": null
+ }
+}

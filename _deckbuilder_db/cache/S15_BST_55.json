@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_55",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "55_Cooler - Ghastly Apparition.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/55_Cooler - Ghastly Apparition.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Cooler - Ghastly Apparition",
+  "file_name": "Cooler",
+  "file_subtitle": "Ghastly Apparition",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "545aba08c6864216083063dc46a8819ea7746ffe"
+ },
+ "vision": {
+  "id": "S15_BST_55",
+  "name": "Cooler",
+  "sub": "Ghastly Apparition",
+  "type": "Main Personality",
+  "num": "S55",
+  "lvl": 1,
+  "stages": [
+   250000,
+   150000,
+   100000,
+   70000,
+   35000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when you would Rejuvenate a card during combat. Banish it instead to raise your anger 2.\nPOWER: [Attack] 1: Energy attack.\nDraw a card. Discard a card from your hand.\nDAMAGE: 2 life cards.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); stage cost printed as '1:'",
+  "_src": "S15.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "L COOLER\nLEVEL GHASTLY APPARITION () $55\n—_—- _ CN",
+  "stages_text": "250,000\n150,000\n100,000\n70,000\n35,000\n20,000\n15,000\n10,000\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

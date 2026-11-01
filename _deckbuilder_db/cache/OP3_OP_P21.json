@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P21",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P21_Red Monstrous Blow.png",
+  "rel_path": "z_OP Series/OP3/P21_Red Monstrous Blow.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Red Monstrous Blow",
+  "file_name": "Red Monstrous Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "563aa0b11ab1303bda9d9ef4839ec8d023fe3809"
+ },
+ "vision": {
+  "id": "OP3_OP_P21",
+  "name": "Red Monstrous Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If your MP has [Trait:Alien], this card is considered Named.)\n[Attack] Physical attack.\nRaise your anger 1. Gain 3 stages.\nDAMAGE: AT + 3 life cards.\nHIT: The next non-Styled attack you perform this combat is Unpreventable.\n(Created by Vinnie DeLucca, OP3 Supreme Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); inline icon zoomed: purple A badge (Alien); prints a design credit line; no Endurance badge",
+  "_src": "OP.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 90.0,
+  "header_text": "RED MONSTROUS BLOW C) P21.\nDS Att wn Naa",
+  "stages_text": "5\n0",
+  "error": null
+ }
+}

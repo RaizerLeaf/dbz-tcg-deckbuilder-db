@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_24",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "24_Blue Cover Up.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/24_Blue Cover Up.jpg",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Blue Cover Up",
+  "file_name": "Blue Cover Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c5c7c489ae6e4ed067e09b61dc8bb23493341377"
+ },
+ "vision": {
+  "id": "S02_BST_24",
+  "name": "Blue Cover Up",
+  "sub": null,
+  "type": "Event",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat. Your attacks deal +2 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.9,
+  "header_text": "iC LUE COVER UP € cea\nOO °° FED See COC 6S",
+  "stages_text": "4 ,",
+  "error": null
+ }
+}

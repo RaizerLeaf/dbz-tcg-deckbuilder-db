@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_58",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "58_Vegito - Boastful.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/58_Vegito - Boastful.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Vegito - Boastful",
+  "file_name": "Vegito",
+  "file_subtitle": "Boastful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "841373321876c3fb1f127167fc24fd2fe5fba0d9"
+ },
+ "vision": {
+  "id": "S13_BST_58",
+  "name": "Vegito",
+  "sub": "Boastful",
+  "type": "Main Personality",
+  "num": "S58",
+  "lvl": 2,
+  "stages": [
+   12000000,
+   8000000,
+   3000000,
+   1300000,
+   900000,
+   700000,
+   300000,
+   100000,
+   80000,
+   40000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +1 life card.\n[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand during combat. Rejuvenate 2.\nPOWER: [Attack] 1: Energy attack.\nRaise your anger 1.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges S, E, F; stage cost printed as '1:'; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.887,
+  "lower_conf": 77.0,
+  "header_text": "VEGITO",
+  "stages_text": "12,000,000\n8,000,000\n3,000,000\n1,300,000\n900,000\n700,000\n300,000\n100,000\n80,000\n40,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_08",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "08_Black Request.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/08_Black Request.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Black Request",
+  "file_name": "Black Request",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "fd87be06556adaaf42785615d561ef0a454384ca"
+ },
+ "vision": {
+  "id": "S04_BST_08",
+  "name": "Black Request",
+  "sub": null,
+  "type": "Event",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Look at the top 3 cards of your opponent's Life Deck and place them back in any order. If your next action is a Styled attack, it stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": "BLACK REQUEST () C8\n, Ye ee eee a ee |",
+  "stages_text": "1,\n,",
+  "error": null
+ }
+}

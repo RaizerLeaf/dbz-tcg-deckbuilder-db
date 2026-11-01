@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_36",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "36_Pikkon's Thunder Flash.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/36_Pikkon's Thunder Flash.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Pikkon's Thunder Flash",
+  "file_name": "Pikkon's Thunder Flash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7880950a7f06c0a4cd87a675e5bbefcebd83070d"
+ },
+ "vision": {
+  "id": "S08_BST_36",
+  "name": "Pikkon's Thunder Flash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated during combat, raise your anger 1 and lower your opponent's anger 1.)\n[Attack] 1: Energy attack.\nRaise your anger 1. Rejuvenate 1. Banish a card from your opponent's discard pile. If that card was an Event, search your opponent's Life Deck for a copy of that card and banish it.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S08.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "PIKKON'S THUNDER FLASH EG\nLl lO",
+  "stages_text": "35\n\n, ,\n1\n,",
+  "error": null
+ }
+}

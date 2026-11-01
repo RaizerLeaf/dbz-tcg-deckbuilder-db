@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P19",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P19_Time is a Warrior's Tool.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P19_Time is a Warrior's Tool.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Time is a Warrior's Tool",
+  "file_name": "Time is a Warrior's Tool",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "62f5e2074af3f075a3c04dd4865fb92db2ce20b5"
+ },
+ "vision": {
+  "id": "S07_PRO_P19",
+  "name": "Time Is A Warrior's Tool",
+  "sub": null,
+  "type": "Event",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Defense] POWER: Stops a physical or energy attack. Stops all of your opponent's attacks this combat.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S01 #152); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:198"
+ },
+ "ocr": {
+  "agreement": 0.05,
+  "lower_conf": 42.0,
+  "header_text": "; TIME IS A WARRIOR'S TOOL ma)\n——————— Ey",
+  "stages_text": "",
+  "error": null
+ }
+}

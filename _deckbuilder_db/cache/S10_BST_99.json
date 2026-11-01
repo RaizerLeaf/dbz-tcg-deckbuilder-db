@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_99",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "99_Yamcha - Suited Up.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/99_Yamcha - Suited Up.png",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Yamcha - Suited Up",
+  "file_name": "Yamcha",
+  "file_subtitle": "Suited Up",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3c2b97baf921450e5e85ec8369df7de8b68544cd"
+ },
+ "vision": {
+  "id": "S10_BST_99",
+  "name": "Yamcha",
+  "sub": "Suited Up",
+  "type": "Main Personality",
+  "num": "S99",
+  "lvl": 1,
+  "stages": [
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2500,
+   1250,
+   750,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] Energy attack.\nLower your opponent's anger 1 level.\nDAMAGE: 2 life cards.\nHIT: Stops the next energy attack performed against you this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "YAMCHA",
+  "stages_text": ", 100,000\n80,000\n60,000\n40,000\n\n5 20,000\n\n10,000\n\n5,000\n\n2,500\n\n1,250\n\n750\n\n0",
+  "error": null
+ }
+}

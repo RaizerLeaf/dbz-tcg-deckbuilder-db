@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_69",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "69_Beerus - Impulsive.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/69_Beerus - Impulsive.png",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Beerus - Impulsive",
+  "file_name": "Beerus",
+  "file_subtitle": "Impulsive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "549f40067f6960789653d10ba719090d1597fc4c"
+ },
+ "vision": {
+  "id": "S16_BST_69",
+  "name": "Beerus",
+  "sub": "Impulsive",
+  "type": "Main Personality",
+  "num": "S69",
+  "lvl": 2,
+  "stages": [
+   300000000,
+   99000000,
+   8500000,
+   1450000,
+   1072000,
+   849000,
+   476000,
+   225000,
+   83000,
+   55000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 stage and -1 life card.\nPOWER: Destroy the top 2 cards of each player's Life Deck. You may discard a card from your hand to search your Life Deck for a Styled or Named card with \"Destroy\" or \"Banish\" in the text-box that is not banished after use and place it into your hand. Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold); text zoomed",
+  "_src": "S16.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "Sy BEERUS\nLEVEL | IMPULSIVE C) S69",
+  "stages_text": "300,000,000\n99,000,000\n8,500,000\n1,450,000\n1,072,000\n849,000\n476,000\n225,000\n83,000\n55,000\n0",
+  "error": null
+ }
+}

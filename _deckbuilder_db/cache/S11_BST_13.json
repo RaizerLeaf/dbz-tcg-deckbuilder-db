@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_13",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "13_Namekian Rush.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/13_Namekian Rush.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Rush",
+  "file_name": "Namekian Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8119cccce460d5ebb2cfe8c63b4b7d77bbc0704d"
+ },
+ "vision": {
+  "id": "S11_BST_13",
+  "name": "Namekian Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 5 stages.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C13'",
+  "_src": "S11.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 81.3,
+  "header_text": "NAMEKIAN RUSH\n— © 2 wee",
+  "stages_text": "4\n\n3\n37 2\n1,",
+  "error": null
+ }
+}

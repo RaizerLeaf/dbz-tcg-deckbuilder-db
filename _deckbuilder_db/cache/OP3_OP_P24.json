@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P24",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P24_Dende's Healing Aura.png",
+  "rel_path": "z_OP Series/OP3/P24_Dende's Healing Aura.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Dende's Healing Aura",
+  "file_name": "Dende's Healing Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f5ae7f8f39cd225b070b7fdf421b12acad7926e3"
+ },
+ "vision": {
+  "id": "OP3_OP_P24",
+  "name": "Dende's Healing Aura",
+  "sub": null,
+  "type": "Event",
+  "num": "P24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished for Endurance, gain 5 stages.)\n[Defense] POWER: Stops a physical or energy attack.\nChoose a Setup or Styled Drill in your discard pile and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); grey card; possessive title -> Named; no credit line",
+  "_src": "OP.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 87.5,
+  "header_text": "DENDE'S HEALING AURA () P24",
+  "stages_text": "7, 4\n,",
+  "error": null
+ }
+}

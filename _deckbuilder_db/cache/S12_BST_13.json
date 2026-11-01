@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_13",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "13_Namekian Duck.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/13_Namekian Duck.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Duck",
+  "file_name": "Namekian Duck",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f5f9c817d37bc8dff56330dc32c1877d5b4095da"
+ },
+ "vision": {
+  "id": "S12_BST_13",
+  "name": "Namekian Duck",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand by a Mastery effect, gain 5 stages.)\n[Defense] Stops a physical attack.\nRaise your anger 1 level. If the highest power level on your MP's Level 4 is 500,000 or less, shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW C13'",
+  "_src": "S12.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 87.1,
+  "header_text": "NAMEKIAN DUCK\nAWW) to” ! Ga >",
+  "stages_text": "2\n,\n,\n0\n,\n\n,",
+  "error": null
+ }
+}

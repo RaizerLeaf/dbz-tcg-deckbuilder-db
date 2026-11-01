@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P49",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P49_Android 19's Draining Grasp.png",
+  "rel_path": "z_OP Series/OP5/P49_Android 19's Draining Grasp.png",
+  "prefix": "P",
+  "number": 49,
+  "card_number": "P49",
+  "name_part": "Android 19's Draining Grasp",
+  "file_name": "Android 19's Draining Grasp",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4a8836061bd2152502879a5821e69825108e6e51"
+ },
+ "vision": {
+  "id": "OP5_OP_P49",
+  "name": "Android 19's Draining Grasp",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYour opponent loses 4 stages. Search your Life Deck for a card with \"Android\" in the title and place it into your hand. Attach to your MP. While attached, you may banish this card to cancel the immediate effects of a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); grey card; possessive title -> Named; no Endurance badge",
+  "_src": "OP.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "a poe, a ee ee —\n| ANDROID 19'S DRAINING craspf P49 |",
+  "stages_text": "4\n37\n\n,\n,",
+  "error": null
+ }
+}

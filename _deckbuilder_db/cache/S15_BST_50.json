@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_50",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "50_Janemba - Embodiment of Evil.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/50_Janemba - Embodiment of Evil.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Janemba - Embodiment of Evil",
+  "file_name": "Janemba",
+  "file_subtitle": "Embodiment of Evil",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7cc7ead0ca77bfe0bf53bd8192d7efff0fc43851"
+ },
+ "vision": {
+  "id": "S15_BST_50",
+  "name": "Janemba",
+  "sub": "Embodiment of Evil",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 4,
+  "stages": [
+   11800000,
+   9700000,
+   7600000,
+   3500000,
+   1300000,
+   800000,
+   450000,
+   200000,
+   80000,
+   55000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Whenever you perform an attack, you may destroy an attached card. If you do, that attack deals +X life cards. X = the attached card's Endurance.\nPOWER: [Attack] 2: Energy attack.\nSearch your discard pile for up to 3 cards and attach them to your MP.\nDAMAGE: 7 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold); stage cost printed as '2:'",
+  "_src": "S15.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 78.0,
+  "header_text": "ES JANEMBA\nLEVEL’ EMBODIMENT OF EVIL C) $50 |",
+  "stages_text": "11,800,000\n9,700,000\n7,600,000\n3,500,000\n1,300,000\n800,000\n450,000\n200,000\n80,000\n55,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_18",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "18_Orange Shopping Drill.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/18_Orange Shopping Drill.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orange Shopping Drill",
+  "file_name": "Orange Shopping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "68355abd491dc15b53a5d09b08d51fdb52d8d9a9"
+ },
+ "vision": {
+  "id": "S15_BST_18",
+  "name": "Orange Shopping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your opponent cannot use effects that banish cards from your discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; number area reads 'PREVIEW U18'",
+  "_src": "S15.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 74.5,
+  "header_text": "ORANGE SHOPPING DRILL Oar",
+  "stages_text": null,
+  "error": null
+ }
+}

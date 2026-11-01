@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_15",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "15_Namekian Contained Wave.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/15_Namekian Contained Wave.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Contained Wave",
+  "file_name": "Namekian Contained Wave",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b759449c85fe7af62b32611f2678cd1a9a93c336"
+ },
+ "vision": {
+  "id": "S18_BST_15",
+  "name": "Namekian Contained Wave",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Namekian Radiant Mastery only. Limit 2 per deck.)\n[Attack] 2: Energy attack.\nYou are considered to have 3 Earth Dragon Balls you own in play and less than 3 Dragon Balls you own in play for your effects until the end of your next action this combat.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "deck restriction names a specific Mastery; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S18.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "NAMEKIAN CONTAINED WAVE C) R15\nr OY",
+  "stages_text": ",\n7",
+  "error": null
+ }
+}

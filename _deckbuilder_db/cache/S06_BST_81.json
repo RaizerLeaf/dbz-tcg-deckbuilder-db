@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_81",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "81_Broly - Undaunted.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/81_Broly - Undaunted.jpg",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Broly - Undaunted",
+  "file_name": "Broly",
+  "file_subtitle": "Undaunted",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "578f35d98f189a95b488348a225fb5c79b728385"
+ },
+ "vision": {
+  "id": "S06_BST_81",
+  "name": "Broly",
+  "sub": "Undaunted",
+  "type": "Ally",
+  "num": "U81",
+  "lvl": 1,
+  "stages": [
+   200000,
+   150000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: You cannot win by MPPV. If your MP is a Saiyan, players cannot use effects to lower an MP 1 or more levels. Whenever a card would be discarded after use, it is banished instead.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S06.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.8,
+  "header_text": "BROLY\n| UNDAUNTED €) U81",
+  "stages_text": "200,000\n150,000\n100,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n2,500\n\n0",
+  "error": null
+ }
+}

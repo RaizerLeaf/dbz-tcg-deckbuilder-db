@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P26",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P26_Wall Breaker.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P26_Wall Breaker.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Wall Breaker",
+  "file_name": "Wall Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b56f0d01da0ba93c52907e6b20e0c239d79ac8a"
+ },
+ "vision": {
+  "id": "S10_PRO_P26",
+  "name": "Wall Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAttach to your opponent's MP. While attached, your opponent cannot gain anger. Banish this card when your opponent deals critical damage.\nDAMAGE: AT + 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; reprint of S02 R135",
+  "_src": "S10.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.7,
+  "header_text": "WALL BREAKER S ) P26 |\noo - xf F- me",
+  "stages_text": ",\n,\n\n,\n\n,",
+  "error": null
+ }
+}

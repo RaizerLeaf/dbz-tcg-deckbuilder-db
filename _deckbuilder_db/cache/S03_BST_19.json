@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_19",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "19_Blue Barrier.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/19_Blue Barrier.jpg",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Blue Barrier",
+  "file_name": "Blue Barrier",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "084677f7c642120ce7beadfd853c708a513bf90a"
+ },
+ "vision": {
+  "id": "S03_BST_19",
+  "name": "Blue Barrier",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. Destroy an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 60.0,
+  "header_text": "(BLUE BARRIER ( =\n4 .",
+  "stages_text": "5",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_98",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "98_Android 18 - Smirking.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/98_Android 18 - Smirking.png",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Android 18 - Smirking",
+  "file_name": "Android 18",
+  "file_subtitle": "Smirking",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "162d4b0643c6ac3630e2ff1d7a4c0e5d9831a5a8"
+ },
+ "vision": {
+  "id": "S04_BST_98",
+  "name": "Android 18",
+  "sub": "Smirking",
+  "type": "Ally",
+  "num": "U98",
+  "lvl": 1,
+  "stages": [
+   130000,
+   110000,
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "(If your MP is Android 17, you may use this power regardless of your MP's power stage.)\nPOWER: Discard a card from your hand to perform a non-Styled physical attack dealing 2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'VILLAIN ALLY'",
+  "_src": "S04.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.9,
+  "header_text": "ANDROID 18\nLEVEL SMIRKING () U98\nhi aa ae",
+  "stages_text": "130,000\n\n110,000\n90,000\n70,000\n50,000\n730,000\n10,000\n5,000\n1,000\n500\n0",
+  "error": null
+ }
+}

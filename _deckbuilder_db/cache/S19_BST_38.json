@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_38",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "38_Divine Instincts.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/38_Divine Instincts.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Divine Instincts",
+  "file_name": "Divine Instincts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7a44a854ae6a80bf73760ba0a6ea8006fc4c467a"
+ },
+ "vision": {
+  "id": "S19_BST_38",
+  "name": "Divine Instincts",
+  "sub": null,
+  "type": "Event",
+  "num": "UR38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:God] only. You may banish this card from your hand when an effect would cause a player to skip or pass an action to cancel that effect and draw a card.)\n[Defense] POWER: Stops an attack.\nLower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; deck restriction icon zoomed: gold G badge (God); no Endurance badge",
+  "_src": "S19.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 78.9,
+  "header_text": "DIVINE INSTINCTS se )UR38\nie. \\V J",
+  "stages_text": "9\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P6",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P6_Black Overload.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P6_Black Overload.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Black Overload",
+  "file_name": "Black Overload",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "03b1fa0d7705dd9b0b760c81306c7e3826f742ca"
+ },
+ "vision": {
+  "id": "S07_PRO_P6",
+  "name": "Black Overload",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nYour MP may pay 3 stages to make this attack's damage unpreventable.\nDAMAGE: 4 life cards.\nHIT: If this attack dealt critical damage, you may discard a card from your hand to destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo; reprint of S06 C8",
+  "_src": "S07.jsonl:185"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "BLACK OVERLOAD () P6\nOO, ——_—",
+  "stages_text": "48\n4\n408\n4888\n4\n04\n4468888\n,\n,",
+  "error": null
+ }
+}

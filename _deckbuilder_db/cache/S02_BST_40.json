@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_40",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "40_Orange Crashing Drill (CRD).png",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/40_Orange Crashing Drill (CRD).png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Crashing Drill",
+  "file_name": "Orange Crashing Drill",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f8917ba2e138a2ab1071aea43d3e76a6d723054e"
+ },
+ "vision": {
+  "id": "S02_BST_40",
+  "name": "Orange Crashing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: When this card enters play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "'(CRD)' stamped below the card (owner annotation)",
+  "_src": "S02.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.5,
+  "header_text": "ORANGE CRASHING DRILL () CAO",
+  "stages_text": ", 2\n, 4\n\n7\n4 44\n4\n\n1\n\n7\n,",
+  "error": null
+ }
+}

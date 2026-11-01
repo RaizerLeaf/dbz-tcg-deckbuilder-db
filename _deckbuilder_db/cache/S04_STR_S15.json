@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S15",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S15_Namekian Restored Mastery (Frozen).png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S15_Namekian Restored Mastery (Frozen).png",
+  "prefix": "S",
+  "number": 15,
+  "card_number": "S15",
+  "name_part": "Namekian Restored Mastery",
+  "file_name": "Namekian Restored Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4f96578779a3f491e1f09c7a393751f3cf020185"
+ },
+ "vision": {
+  "id": "S04_STR_S15",
+  "name": "Namekian Restored Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use at the end of the turn. Reveal the bottom card of your Life Deck. If that card is Styled or a Dragon Ball, you may place it into your hand. If you do, place a card from your hand on the top or bottom of your Life Deck.\nPOWER: Raise your anger 2 levels. You may discard a Dragon Ball or Styled card from your hand to shuffle your Life Deck and draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Set 4 Mastery layout; '(FROZEN)' stamped below the card (owner annotation) but the filename has no (Frozen) flag",
+  "_src": "S04.jsonl:165"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "> oN ah.",
+  "stages_text": "2\n,\n0\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_39",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "39_Orange Interference.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/39_Orange Interference.jpg",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Orange Interference",
+  "file_name": "Orange Interference",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e163170994812ee25754754a1e3e3260a4309e03"
+ },
+ "vision": {
+  "id": "S06_BST_39",
+  "name": "Orange Interference",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYour next Styled energy attack this combat has its power stage cost reduced to 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "ORANGE INTERFERENCE () C39\n~_ a, a” 7 | wT s/f",
+  "stages_text": "3\n347\n00,",
+  "error": null
+ }
+}

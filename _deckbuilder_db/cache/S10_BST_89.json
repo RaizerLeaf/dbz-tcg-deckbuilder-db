@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_89",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "89_Supreme Kai - Combatant.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/89_Supreme Kai - Combatant.png",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Supreme Kai - Combatant",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Combatant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "62035e1def4607810dbed922464cc2a9f514eb40"
+ },
+ "vision": {
+  "id": "S10_BST_89",
+  "name": "Supreme Kai",
+  "sub": "Combatant",
+  "type": "Main Personality",
+  "num": "S89",
+  "lvl": 4,
+  "stages": [
+   1750000,
+   1550000,
+   1350000,
+   1150000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Look at the top 5 cards of your opponent's Life Deck and put them back in any order.\nPOWER: [Attack] Energy attack.\nYou may shuffle any number of cards from your hand into your Life Deck to draw the same number of cards.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "SUPREME KAI",
+  "stages_text": "1,750,000\n1,550,000\n1,350,000\n1,150,000\n\n1,000,000\n\n800,000\n\n600,000\n\n400,000\n100,000\n50,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_75",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "75_Orange Scorn.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/75_Orange Scorn.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Orange Scorn",
+  "file_name": "Orange Scorn",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "d9bf864b87231038ccda0290a0d2f0b3631ec38c"
+ },
+ "vision": {
+  "id": "S04_BST_75",
+  "name": "Orange Scorn",
+  "sub": null,
+  "type": "Setup",
+  "num": "U75",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant]: Use after performing a successful Styled physical attack. Banish 2 Drills. Search your Life Deck for a Styled Drill and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; lightning icon + ':' with no 'POWER'",
+  "_src": "S04.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.9,
+  "header_text": ". a\nie we =\n, ° a) =n * ———",
+  "stages_text": null,
+  "error": null
+ }
+}

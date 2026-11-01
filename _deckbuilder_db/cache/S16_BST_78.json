@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_78",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "78_Frieza - Energized.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/78_Frieza - Energized.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Frieza - Energized",
+  "file_name": "Frieza",
+  "file_subtitle": "Energized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "70b6b11bba0087afb28c37bd55fae365aa26dd31"
+ },
+ "vision": {
+  "id": "S16_BST_78",
+  "name": "Frieza",
+  "sub": "Energized",
+  "type": "Main Personality",
+  "num": "S78",
+  "lvl": 3,
+  "stages": [
+   15350000,
+   10200000,
+   5550000,
+   1470000,
+   1120000,
+   780000,
+   430000,
+   240000,
+   99000,
+   57000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card.\nPOWER: [Attack] Physical attack.\nSearch the top 7 cards of your Life Deck for a non-Styled [Attack] card and place it into your hand. Shuffle the remaining cards into your Life Deck. [Warning]: Draw a card.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S16.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 75.1,
+  "header_text": "=3 FRIEZA\nLEVEL ENERGIZED () $/8",
+  "stages_text": "15,350,000\n10,200,000\n5,550,000\n1,470,000\n1,120,000\n780,000\n430,000\n240,000\n99,000\n57,000\n0",
+  "error": null
+ }
+}

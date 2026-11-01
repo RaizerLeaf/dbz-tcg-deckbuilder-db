@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_14",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "14_Namekian Precise Strike.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/14_Namekian Precise Strike.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Precise Strike",
+  "file_name": "Namekian Precise Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e6b36fecf4ac3182100d4828256babe659ddb28e"
+ },
+ "vision": {
+  "id": "S18_BST_14",
+  "name": "Namekian Precise Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, search your Life Deck for a Styled Drill and place it into play.\nDAMAGE: AT + 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U14'; no Endurance badge",
+  "_src": "S18.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "NAMEKIAN PRECISE STRIKE Cie\n- aa",
+  "stages_text": "7,\n,",
+  "error": null
+ }
+}

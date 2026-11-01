@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S43",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S43_Black Energy Web.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S43_Black Energy Web.png",
+  "prefix": "S",
+  "number": 43,
+  "card_number": "S43",
+  "name_part": "Black Energy Web",
+  "file_name": "Black Energy Web",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c1b1405521e4765948bb9ebf3537c7156b19c096"
+ },
+ "vision": {
+  "id": "S04_STR_S43",
+  "name": "Black Energy Web",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Your opponent cannot perform energy attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S112",
+  "_src": "S04.jsonl:196"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "BLACK ENERGY WEB ) $43\n—— tis CO —« 9",
+  "stages_text": "4\n2\n,",
+  "error": null
+ }
+}

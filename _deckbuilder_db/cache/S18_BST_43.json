@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_43",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "43_Trunks - Desperate.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/43_Trunks - Desperate.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Trunks - Desperate",
+  "file_name": "Trunks",
+  "file_subtitle": "Desperate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6fbea4b3148932338de91839f104ba005a40a675"
+ },
+ "vision": {
+  "id": "S18_BST_43",
+  "name": "Trunks",
+  "sub": "Desperate",
+  "type": "Main Personality",
+  "num": "S43",
+  "lvl": 3,
+  "stages": [
+   3000000,
+   2400000,
+   1700000,
+   1250000,
+   690000,
+   340000,
+   175000,
+   53000,
+   22000,
+   8000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use at the start of your turn. Foresee 3.\nPOWER: Search your Life Deck for a Named card or [Warning] card and place it into your hand. You are considered to have no cards in your hand for your effects until the end of your next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E, S; black warning triangle transcribed as [Warning]; text zoomed",
+  "_src": "S18.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 87.6,
+  "header_text": "=3 TRUNKS\nLEVEL DESPERATE () 543\n7!) mA",
+  "stages_text": "3,000,000\n2,400,000\n1,700,000\n1,250,000\n690,000\n340,000\n175,000\n53,000\n22,000\n8,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_63",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "63_Earth Dragon Ball 3.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/63_Earth Dragon Ball 3.png",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Earth Dragon Ball 3",
+  "file_name": "Earth Dragon Ball 3",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cbf1ddff6ab57eb764d6da28b3ae84f866373f4d"
+ },
+ "vision": {
+  "id": "S07_BST_63",
+  "name": "Earth Dragon Ball 3",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U63",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Draw the bottom 3 cards of your discard pile. Shuffle 2 cards from your hand into your Life Deck. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.3,
+  "header_text": "EARTH DRAGON BALL 3 © 10:\nyr ~~,",
+  "stages_text": ",",
+  "error": null
+ }
+}

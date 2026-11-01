@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_27",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "27_Namekian Back Kick.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/27_Namekian Back Kick.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Namekian Back Kick",
+  "file_name": "Namekian Back Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ee7aaec2168518b43273240abc930fe87dd0e34a"
+ },
+ "vision": {
+  "id": "S05_BST_27",
+  "name": "Namekian Back Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThe next Styled physical attack you perform this combat gains \"HIT: You may use a critical damage effect.\" The next non-Styled physical attack you perform this combat gains \"HIT: You may use a critical damage effect.\"\nDAMAGE: 4 stages",
+  "conf": "high",
+  "review": null,
+  "note": "no period after '4 stages' as printed",
+  "_src": "S05.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "NAMEKIAN BACK KICK () C27\nOO {",
+  "stages_text": "",
+  "error": null
+ }
+}

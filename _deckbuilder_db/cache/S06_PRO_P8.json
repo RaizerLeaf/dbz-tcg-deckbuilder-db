@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P8",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P8_Orange Devouring Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P8_Orange Devouring Drill.jpg",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Orange Devouring Drill",
+  "file_name": "Orange Devouring Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "2460afbe5c3a00b5f81ea8f1bfb8feea3df8af71"
+ },
+ "vision": {
+  "id": "S06_PRO_P8",
+  "name": "Orange Devouring Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this Drill's effect. Banish after use.)\n[Continuous]: When you play a Drill, you may banish this card. If you do, advance a personality level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; promo reprint of S01 S40",
+  "_src": "S06.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "ORANGE DEVOURING DRILL © rs |",
+  "stages_text": null,
+  "error": null
+ }
+}

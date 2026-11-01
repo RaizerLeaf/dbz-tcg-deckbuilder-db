@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_19",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "19_Orange Palm Charge.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/19_Orange Palm Charge.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Palm Charge",
+  "file_name": "Orange Palm Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0f560ada7ff8b4ad9f5d4542d1de0340b1f9957b"
+ },
+ "vision": {
+  "id": "S12_BST_19",
+  "name": "Orange Palm Charge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You may only have one \"Orange Palm Charge\" attached.)\n[Attack] Energy attack costing 1 stage.\nAttach to your MP. While attached, your Styled energy attacks cost -1 stage (to a minimum of 0) and deal +1 life card of damage.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 75.5,
+  "header_text": "ORANGE PALM CHARGE C) C19\ney ee ee",
+  "stages_text": "7\n,\n,\n,",
+  "error": null
+ }
+}

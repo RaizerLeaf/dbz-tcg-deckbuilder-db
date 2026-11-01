@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S53",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S53_Blue Energy Focus.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S53_Blue Energy Focus.png",
+  "prefix": "S",
+  "number": 53,
+  "card_number": "S53",
+  "name_part": "Blue Energy Focus",
+  "file_name": "Blue Energy Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e068248e5b3faf9dc19d08018ae2f6fb6bb5e2d2"
+ },
+ "vision": {
+  "id": "S07_STR_S53",
+  "name": "Blue Energy Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nYou may raise your opponent's anger 2 levels. If you do, raise your anger 2 levels.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_12; text compared on the sheet",
+  "_src": "S07.jsonl:236"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 80.3,
+  "header_text": "BLUE ENERGY FOCUS ) $53\nBS ———————",
+  "stages_text": "4\n,\n2\n22,",
+  "error": null
+ }
+}

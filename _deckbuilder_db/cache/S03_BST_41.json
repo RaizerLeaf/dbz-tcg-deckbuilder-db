@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_41",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "41_Orange Reactive Strike.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/41_Orange Reactive Strike.jpg",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Orange Reactive Strike",
+  "file_name": "Orange Reactive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8287dd925e7ff264e5f44bbf30b569fab2b27ce6"
+ },
+ "vision": {
+  "id": "S03_BST_41",
+  "name": "Orange Reactive Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. HIT: Raise your anger 1 level. Banish the top X cards of your opponent's discard pile. X = the number of Styled Drills you control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.1,
+  "header_text": "ORANGE REACTIVE STRIKE () c41",
+  "stages_text": "7",
+  "error": null
+ }
+}

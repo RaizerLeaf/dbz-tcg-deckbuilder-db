@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_10",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "10_Blue Energy Wave.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/10_Blue Energy Wave.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Energy Wave",
+  "file_name": "Blue Energy Wave",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7ed1b1199b41cc28785a77e98946bd8e90e655a3"
+ },
+ "vision": {
+  "id": "S15_BST_10",
+  "name": "Blue Energy Wave",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a Mastery effect, you may banish it to search your Life Deck for a copy of this card and place it into your hand.)\n[Attack] 1: Energy attack.\nUnpreventable. Raise your anger 1.\nDAMAGE: 4 life cards.\nHIT: Lower your opponent's anger 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S15.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": "BLUE ENERGY WAVE () R10\nPR Se",
+  "stages_text": "2\n0\n,",
+  "error": null
+ }
+}

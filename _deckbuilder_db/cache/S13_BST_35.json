@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_35",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "35_Saiyan Skull Breaker.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/35_Saiyan Skull Breaker.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Saiyan Skull Breaker",
+  "file_name": "Saiyan Skull Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a0d506a909c1252c460e8403d64a28e66efbe955"
+ },
+ "vision": {
+  "id": "S13_BST_35",
+  "name": "Saiyan Skull Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(Limit 2 per deck. You may banish this card from your hand to cancel a critical damage effect.)\n[Attack] Physical attack.\nIf the personality performing this attack has a higher power level than the defending personality, destroy a Setup, Drill, or Ally.\nDAMAGE: AT stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge reads 0",
+  "_src": "S13.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 90.4,
+  "header_text": "SAIYAN SKULL BREAKER C) R35\ni | | eee) |) OS ae",
+  "stages_text": "2\n\n347 ,\n0\n,\n\n12",
+  "error": null
+ }
+}

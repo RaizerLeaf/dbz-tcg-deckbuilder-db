@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P16",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P16_Red Stop.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P16_Red Stop.jpg",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Red Stop",
+  "file_name": "Red Stop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "207b938cee9250fc32f490b8c49d472d812ecdc4"
+ },
+ "vision": {
+  "id": "S02_PRO_P16",
+  "name": "Red Stop",
+  "sub": null,
+  "type": "Event",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Defense] POWER: Stops a physical or energy attack. You may lower your anger 1 level. If you do, search your discard pile or Banished Zone for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R122; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:158"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "| RED STO Pe C) R16.\naes || (| 7” mm",
+  "stages_text": "7\n,\n\n,\n7\n,\n\n,\n4\n7 ,",
+  "error": null
+ }
+}

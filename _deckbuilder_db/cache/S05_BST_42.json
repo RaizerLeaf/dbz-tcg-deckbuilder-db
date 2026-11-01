@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_42",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "42_Orange Tank Barrage.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/42_Orange Tank Barrage.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Orange Tank Barrage",
+  "file_name": "Orange Tank Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "371c01a5b03be48e7d026f72f36e5614e48b42b2"
+ },
+ "vision": {
+  "id": "S05_BST_42",
+  "name": "Orange Tank Barrage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 1 level. You may destroy 2 Drills you control. If you do, this attack cannot be stopped nor have its damage prevented.\nDAMAGE: AT +3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "ORANGE TANK BARRAGE (©) C42.",
+  "stages_text": "7\n\n347\n,\n0,",
+  "error": null
+ }
+}

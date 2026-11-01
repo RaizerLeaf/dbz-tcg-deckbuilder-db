@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P10",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P10_Gotenks - Bullheaded.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P10_Gotenks - Bullheaded.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Gotenks - Bullheaded",
+  "file_name": "Gotenks",
+  "file_subtitle": "Bullheaded",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "20c2ed21a6679b8702d0c52444a2ee7163e7586d"
+ },
+ "vision": {
+  "id": "S13_PRO_P10",
+  "name": "Gotenks",
+  "sub": "Bullheaded",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   800000,
+   500000,
+   300000,
+   100000,
+   70000,
+   50000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled.\nPOWER: Raise your anger 1 level. Choose 2 [Attack] cards in your discard pile and shuffle them into your Life Deck. You may discard a card from your hand to search your Life Deck for a Named card and place it into your hand. If you do, destroy the top card of each player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats and text compared against S13_BST_54 on the sheet, identical; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "— | Sea ere eee NY\nyumm GOTENKS\nfa BULLHEADED Qa 710)\nWen ONG ae nN NNN",
+  "stages_text": "1,500,000\n1,000,000\n800,000\n500,000\n520,000\n100,000\n70,000\n50,000\n20,000\n10,000\n53",
+  "error": null
+ }
+}

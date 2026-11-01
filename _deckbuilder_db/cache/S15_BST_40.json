@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_40",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "40_Videl's Justice Rush.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/40_Videl's Justice Rush.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Videl's Justice Rush",
+  "file_name": "Videl's Justice Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ff9b48f46259820532785d5fd4697e3221005618"
+ },
+ "vision": {
+  "id": "S15_BST_40",
+  "name": "Videl's Justice Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 or your physical attacks are Focused this combat.\nDAMAGE: AT + 3 life cards.\nHIT: Raise your anger 1 or your physical attacks are Unpreventable this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S15.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.4,
+  "header_text": "VIDEL'S JUSTICE RUSH () R40",
+  "stages_text": "37",
+  "error": null
+ }
+}

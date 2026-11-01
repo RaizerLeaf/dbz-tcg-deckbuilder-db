@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S69",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S69_Blue Betrayal.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S69_Blue Betrayal.png",
+  "prefix": "S",
+  "number": 69,
+  "card_number": "S69",
+  "name_part": "Blue Betrayal",
+  "file_name": "Blue Betrayal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "de39b8f70012818459f0b232532429f6ae005da6"
+ },
+ "vision": {
+  "id": "S04_STR_S69",
+  "name": "Blue Betrayal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S69",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish an opponent's Setup, Drill, or Ally in play.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U80",
+  "_src": "S04.jsonl:222"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "BLUE BETRAYAL () $69\nee. Sy",
+  "stages_text": "2",
+  "error": null
+ }
+}

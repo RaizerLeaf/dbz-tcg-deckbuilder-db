@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_32",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "32_Saiyan Majesty.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/32_Saiyan Majesty.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Saiyan Majesty",
+  "file_name": "Saiyan Majesty",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "668b653eabdf0b3da20b27ed0772ecd619605c10"
+ },
+ "vision": {
+  "id": "S19_BST_32",
+  "name": "Saiyan Majesty",
+  "sub": null,
+  "type": "Setup",
+  "num": "R32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: End Combat. Rejuvenate 1 + X. X = your MP's level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S19.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.0,
+  "header_text": "SAIYAN MAJESTY () R32\n|) x.” 45 7 = lL _ V—",
+  "stages_text": null,
+  "error": null
+ }
+}

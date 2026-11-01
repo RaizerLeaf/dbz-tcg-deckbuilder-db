@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_DR_DR1A",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "DR1A_Cell - Imperfect.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/DR1A_Cell - Imperfect.png",
+  "prefix": "DR",
+  "number": 1,
+  "card_number": "DR1A",
+  "name_part": "Cell - Imperfect",
+  "file_name": "Cell",
+  "file_subtitle": "Imperfect",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "733395c8fad613e181ee57557b61b8df5a96e345"
+ },
+ "vision": {
+  "id": "S05_DR_DR1A",
+  "name": "Cell",
+  "sub": "Imperfect",
+  "type": "Main Personality",
+  "num": "DR1A",
+  "lvl": 1,
+  "stages": [
+   145000,
+   105000,
+   65000,
+   25000,
+   21000,
+   17000,
+   13000,
+   9000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "(This attack is considered Styled.)\nPOWER: [Attack] Energy attack.\nDestroy the top card of your Life Deck.\nDAMAGE: AT +3 stages.\nHIT: If the top card of your discard pile is Styled, gain 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads VILLAIN. Second alternate art of DR1; the card itself prints 'DR1A'",
+  "_src": "S05.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "ides f ‘Y\niL IMPERFECT Co DRIA",
+  "stages_text": "145,000\n105,000\n65,000\n25,000\n\n, 21,000\n17,000\n13,000\n9,000\n5,000\n1,000\n\n0",
+  "error": null
+ }
+}

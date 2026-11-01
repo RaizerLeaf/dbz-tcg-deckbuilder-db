@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_41",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "41_Buu's Cookie.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/41_Buu's Cookie.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Buu's Cookie",
+  "file_name": "Buu's Cookie",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bdfbe0cec0c4f16006a8d4c9f832fd5c3bb861b0"
+ },
+ "vision": {
+  "id": "S11_BST_41",
+  "name": "Buu's Cookie",
+  "sub": null,
+  "type": "Setup",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(Limit 1 per deck. Whenever this card leaves play, banish the card \"Buu's Cookie\" was attached to.)\nPOWER: Attach to an Ally in play. Gain control of that Ally, it loses all effects, and it cannot make actions nor have damage redirected to it. While attached, you may banish this card as an action to gain 2 stages and Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame",
+  "_src": "S11.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.969,
+  "lower_conf": 88.9,
+  "header_text": "BUU'S COOKIE © rar]",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_24",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "24_Orange Swerve.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/24_Orange Swerve.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Orange Swerve",
+  "file_name": "Orange Swerve",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b034de9028b7d8cec6688141e45c93b9d0c5351"
+ },
+ "vision": {
+  "id": "S10_BST_24",
+  "name": "Orange Swerve",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nGain 2 stages. You may destroy a Drill you control. If you do, this card stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "ORANGE SWERVE ) U24,",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

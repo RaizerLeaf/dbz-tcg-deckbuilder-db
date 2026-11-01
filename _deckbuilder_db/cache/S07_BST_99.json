@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_99",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "99_Saiyan Parry.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/99_Saiyan Parry.png",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Saiyan Parry",
+  "file_name": "Saiyan Parry",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cb9f2860ed92c47fa329f2197ff16af49fc7a2ed"
+ },
+ "vision": {
+  "id": "S07_BST_99",
+  "name": "Saiyan Parry",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf your MP's level is higher than your opponent's MP's level, this card stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "SAIYAN PARRY () U99\n7 di.",
+  "stages_text": "2\n5",
+  "error": null
+ }
+}

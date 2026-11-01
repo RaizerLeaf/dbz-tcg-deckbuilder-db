@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_117",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "117_Orange Viewing Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/117_Orange Viewing Drill.png",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Orange Viewing Drill",
+  "file_name": "Orange Viewing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "231a592a73d7b186d8c35560f4f381824719a942"
+ },
+ "vision": {
+  "id": "S07_BST_117",
+  "name": "Orange Viewing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: At the start of your Rejuvenation Step, you may search your discard pile for a Drill and Rejuvenate it.\nPOWER: Search your discard pile for a Drill and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "ORANGE VIEWING DRILL () R117\nee rr",
+  "stages_text": null,
+  "error": null
+ }
+}

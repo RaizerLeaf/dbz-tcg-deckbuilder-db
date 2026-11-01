@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S72",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S72_Orange Celebration.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S72_Orange Celebration.png",
+  "prefix": "S",
+  "number": 72,
+  "card_number": "S72",
+  "name_part": "Orange Celebration",
+  "file_name": "Orange Celebration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3d457f9cf5949ada6c5d5b1970da5f38f2d449d2"
+ },
+ "vision": {
+  "id": "S07_STR_S72",
+  "name": "Orange Celebration",
+  "sub": null,
+  "type": "Setup",
+  "num": "S72",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S93; text compared on the sheet",
+  "_src": "S07.jsonl:255"
+ },
+ "ocr": {
+  "agreement": 0.824,
+  "lower_conf": 81.2,
+  "header_text": "ORANGE CELEBRATION & 7 |\nne",
+  "stages_text": null,
+  "error": null
+ }
+}

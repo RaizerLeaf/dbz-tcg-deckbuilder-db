@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_18",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "18_Blue Escaping Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/18_Blue Escaping Drill.jpg",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Blue Escaping Drill",
+  "file_name": "Blue Escaping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f77391a5f18acb5aab37e28020fd0030cecf3698"
+ },
+ "vision": {
+  "id": "S03_BST_18",
+  "name": "Blue Escaping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you lower your opponent's anger, banish the top card of your opponent's discard pile. Whenever you lower your opponent's anger and your MP's level is higher than your opponent's MP's level, Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "(BLUE ESCAPING DRILL () cis\n» ’ ) r",
+  "stages_text": "",
+  "error": null
+ }
+}

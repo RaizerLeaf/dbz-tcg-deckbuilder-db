@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P25",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P25_Playful Punch.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P25_Playful Punch.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Playful Punch",
+  "file_name": "Playful Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ae00a69b211e4fb1c264f5c0adf619ef79fcd651"
+ },
+ "vision": {
+  "id": "S10_PRO_P25",
+  "name": "Playful Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If the highest power level on your MP's Level 4 is 500,000 or less, you may play this card to stop a non-Styled attack instead of as an attack.)\n[Attack] Physical attack.\nYour MP gains 5 stages. Lower your opponent's anger 1 level.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; reprint of S05 U79",
+  "_src": "S10.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "PLAYFUL PUNCH ; ) P25 |\nA. NOY a o£",
+  "stages_text": ",",
+  "error": null
+ }
+}

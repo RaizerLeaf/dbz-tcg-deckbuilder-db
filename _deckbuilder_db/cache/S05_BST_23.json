@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_23",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "23_Blue Slide.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/23_Blue Slide.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Blue Slide",
+  "file_name": "Blue Slide",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "48d5f42df5b0e76b14a07f3673b23734861897f5"
+ },
+ "vision": {
+  "id": "S05_BST_23",
+  "name": "Blue Slide",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish the top 3 cards of your opponent's discard pile.\nDAMAGE: AT +3 life cards.\nHIT: Your opponent cannot play non-Styled cards this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "BLUE SLIDE C) C23",
+  "stages_text": "4\n347",
+  "error": null
+ }
+}

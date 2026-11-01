@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S152",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S152_Red Chop.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S152_Red Chop.png",
+  "prefix": "S",
+  "number": 152,
+  "card_number": "S152",
+  "name_part": "Red Chop",
+  "file_name": "Red Chop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5564b1308d48b4ffb5ed79bec14e02dfa15ebc29"
+ },
+ "vision": {
+  "id": "S07_STR_S152",
+  "name": "Red Chop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S152",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: 3 +X stages. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_40; text compared on the sheet",
+  "_src": "S07.jsonl:335"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 78.0,
+  "header_text": "RED CHOP ) sts2",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

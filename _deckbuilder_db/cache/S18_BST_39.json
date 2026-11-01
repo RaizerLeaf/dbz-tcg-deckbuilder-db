@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_39",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "39_ Goku Black - Divine Might.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/39_ Goku Black - Divine Might.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Goku Black - Divine Might",
+  "file_name": "Goku Black",
+  "file_subtitle": "Divine Might",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2b74de1896db934a5c090386495bf07107c2d2fe"
+ },
+ "vision": {
+  "id": "S18_BST_39",
+  "name": "Goku Black",
+  "sub": "Divine Might",
+  "type": "Main Personality",
+  "num": "S39",
+  "lvl": 3,
+  "stages": [
+   175000000,
+   47000000,
+   8000000,
+   1490000,
+   1240000,
+   930000,
+   480000,
+   270000,
+   92000,
+   60000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards.\nPOWER: [Attack] Physical attack.\nFocused. Raise your anger 2.\nDAMAGE: 6 life cards.\nHIT: Your opponent discards a random card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G; text zoomed",
+  "_src": "S18.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "=3 GOKU BLACK\nLEVEL DIVINE MIGHT () 939",
+  "stages_text": "175,000,000\n47,000,000\n8,000,000\n1,490,000\n1,240,000\n930,000\n480,000\n270,000\n92,000\n60,000\n\n0",
+  "error": null
+ }
+}

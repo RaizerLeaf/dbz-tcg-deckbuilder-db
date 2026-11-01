@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_55",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "55_Super Dragon Ball 2.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/55_Super Dragon Ball 2.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Super Dragon Ball 2",
+  "file_name": "Super Dragon Ball 2",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "089734c5cedb2c4cfbf28e25d0a905af90498e99"
+ },
+ "vision": {
+  "id": "S16_BST_55",
+  "name": "Super Dragon Ball 2",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 stages. The first time you use Endurance each combat, increase its value by 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "WT VIILILIJTIZILULLLLL LLL II DIDIIDITITIIII tig MEISE».\nSUPER DRAGON BALL 2 () U55",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_23",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "23_Red Sundering Strike.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/23_Red Sundering Strike.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Sundering Strike",
+  "file_name": "Red Sundering Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "44ebcae83d55667c46b5d3cc1c9a268fa4eafe61"
+ },
+ "vision": {
+  "id": "S17_BST_23",
+  "name": "Red Sundering Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished from your Life Deck, Rejuvenate it.)\n[Attack] Physical attack.\nIf you have banished cards from your Life Deck this turn, Focused. [Trait:Alien]: Raise your anger 2.\nDAMAGE: 5 stages.\nHIT: Lower your opponent's anger 2.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S17.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 91.6,
+  "header_text": "RED SUNDERING STRIKE Eé) R23",
+  "stages_text": "7\n7",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_12",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "12_Blue Energy Push.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/12_Blue Energy Push.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Blue Energy Push",
+  "file_name": "Blue Energy Push",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f78659874f597527b9938da7cab892a71b52b87"
+ },
+ "vision": {
+  "id": "S13_BST_12",
+  "name": "Blue Energy Push",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. Name a card. Search your Life Deck for a copy of that card and destroy it. If you destroyed a card, search your opponent's Life Deck for a card and destroy it.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 92.1,
+  "header_text": "BLUE ENERGY PUSH () U12\nAD Re ae",
+  "stages_text": "4\n, 2\n,\n,\n1 ,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P32",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P32_Villainous Energy Sphere.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P32_Villainous Energy Sphere.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Villainous Energy Sphere",
+  "file_name": "Villainous Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f14aa9167c5923c40ec05a260a32cb3b53889c1"
+ },
+ "vision": {
+  "id": "S10_PRO_P32",
+  "name": "Villainous Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Your opponent destroys the top card of their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "manga-style art, grey frame; reprint of S01 UR164",
+  "_src": "S10.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 0.76,
+  "lower_conf": 30.3,
+  "header_text": "VILLAINOUS ENERGY SPHERE 6 ) P32\n| ANY TF AL N \\& }»#&£&-",
+  "stages_text": "4\n,\n,\n7\n4\n35 ,\n,\n,",
+  "error": null
+ }
+}

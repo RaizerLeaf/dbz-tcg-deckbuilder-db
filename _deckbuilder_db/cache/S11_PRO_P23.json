@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P23",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P23_Saiyan Grab.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P23_Saiyan Grab.png",
+  "prefix": "P",
+  "number": 23,
+  "card_number": "P23",
+  "name_part": "Saiyan Grab",
+  "file_name": "Saiyan Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2c11c04ad21f9f6455a669d311bf34b983b416ed"
+ },
+ "vision": {
+  "id": "S11_PRO_P23",
+  "name": "Saiyan Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Attack] Physical attack.\nIf the personality performing this attack has a higher power level than the defending personality, this attack cannot be stopped.\nDAMAGE: AT stages.\nHIT: Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.9,
+  "header_text": "SAIYAN GRAB C) P23\n, . = —_~",
+  "stages_text": "19,",
+  "error": null
+ }
+}

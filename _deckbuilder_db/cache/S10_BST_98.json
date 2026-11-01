@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_98",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "98_Hercule - The World Champ.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/98_Hercule - The World Champ.png",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Hercule - The World Champ",
+  "file_name": "Hercule",
+  "file_subtitle": "The World Champ",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d8bbbf0226ce18bee5f287287eda5305ce092cfd"
+ },
+ "vision": {
+  "id": "S10_BST_98",
+  "name": "Hercule",
+  "sub": "The World Champ",
+  "type": "Main Personality",
+  "num": "S98",
+  "lvl": 1,
+  "stages": [
+   5,
+   15,
+   25,
+   30,
+   45,
+   60,
+   65,
+   80,
+   90,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Your Life Deck cannot include cards that perform energy attacks.)\n[Continuous]: Your non-Styled attacks cannot have their damage modified by your effects.\nPOWER: [Attack] Physical attack.\nSearch your Life Deck for \"Hercule's Championship Belt\" and play it.\nDAMAGE: 4 stages.\nHIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; power stages printed ASCENDING (5 ... 100) above 0 as on the other Hercule cards",
+  "_src": "S10.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 0.87,
+  "lower_conf": 74.8,
+  "header_text": "L HERCULE\nLEVEL THE WORLD CHAMP () $98",
+  "stages_text": "5\n15\n25\n\n30\n\n45\n60\n65\n80\n\n90\n\n4 100\n0",
+  "error": null
+ }
+}

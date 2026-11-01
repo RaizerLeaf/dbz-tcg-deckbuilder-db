@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_49",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "49_Red Interference.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/49_Red Interference.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Red Interference",
+  "file_name": "Red Interference",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "bb9ab636393b6604b2e19d8d7ab8391c83cad9e0"
+ },
+ "vision": {
+  "id": "S05_BST_49",
+  "name": "Red Interference",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may search your Banished Zone for a Styled attack and place it on the top of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "RED INTERFERENCE C) C49\nen a —_",
+  "stages_text": "4\n,\n,\n,",
+  "error": null
+ }
+}

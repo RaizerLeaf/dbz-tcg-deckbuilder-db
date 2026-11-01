@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_130",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "130_Cell Jr.'s Swarm.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/130_Cell Jr.'s Swarm.png",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Cell Jr.'s Swarm",
+  "file_name": "Cell Jr.'s Swarm",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e3206ffd53324d8d1372b1d013d82345758ad373"
+ },
+ "vision": {
+  "id": "S07_BST_130",
+  "name": "Cell Jr.'s Swarm",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: You may banish any number of Hero Allies and/or Allies with \"Cell Jr.\" in the title in play. Your opponent destroys the top X cards of his or her Life Deck, X = the number of Allies banished this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.0,
+  "header_text": "CELL JR.'S SWARM : ) R130\nPy ae , We",
+  "stages_text": "3\n37",
+  "error": null
+ }
+}

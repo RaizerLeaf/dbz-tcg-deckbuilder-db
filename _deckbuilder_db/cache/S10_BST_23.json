@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_23",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "23_Orange Spine Kick.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/23_Orange Spine Kick.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Orange Spine Kick",
+  "file_name": "Orange Spine Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3ae8e446ff325d5b31604e5e8a89696b50c3ed9b"
+ },
+ "vision": {
+  "id": "S10_BST_23",
+  "name": "Orange Spine Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. Destroy an Ally in play.\nDAMAGE: 4 stages.\n[Trait:Saiyan]: HIT: Your opponent must pass in their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "inline Trait icon colour = green (Saiyan)",
+  "_src": "S10.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 89.3,
+  "header_text": "ORANGE SPINE KICK\nee",
+  "stages_text": "7 ,\n,",
+  "error": null
+ }
+}

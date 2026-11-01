@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_03",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "03_Black Secret.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/03_Black Secret.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Secret",
+  "file_name": "Black Secret",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "25a3aa12c3c754fbce1bcdba9fc2ca5b4004b8cb"
+ },
+ "vision": {
+  "id": "S16_BST_03",
+  "name": "Black Secret",
+  "sub": null,
+  "type": "Setup",
+  "num": "R3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Search your discard pile for up to 3 Styled Setups and place them on top of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S16.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "BLACK SECRET @ 23]",
+  "stages_text": null,
+  "error": null
+ }
+}

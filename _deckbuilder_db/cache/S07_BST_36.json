@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_36",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "36_Orange Paired Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/36_Orange Paired Blast.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Orange Paired Blast",
+  "file_name": "Orange Paired Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "023daac28256beee26b46cc5a3ca169a48880d60"
+ },
+ "vision": {
+  "id": "S07_BST_36",
+  "name": "Orange Paired Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nBanish a Drill. If you banished a Drill that was under your control, this attack cannot have its damage prevented.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 82.1,
+  "header_text": "ORANGE PAIRED BLAST ) 036\nDee §s- Lea Ino! wh em",
+  "stages_text": ",\n4\n7\n1\n,",
+  "error": null
+ }
+}

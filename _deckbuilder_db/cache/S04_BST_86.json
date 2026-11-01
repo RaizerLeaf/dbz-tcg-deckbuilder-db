@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_86",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "86_Android 19 - Pondering.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/86_Android 19 - Pondering.png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Android 19 - Pondering",
+  "file_name": "Android 19",
+  "file_subtitle": "Pondering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6a0a4e9e399ca8764409981956bbeba42ed7683e"
+ },
+ "vision": {
+  "id": "S04_BST_86",
+  "name": "Android 19",
+  "sub": "Pondering",
+  "type": "Main Personality",
+  "num": "U86",
+  "lvl": 2,
+  "stages": [
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After taking life card damage from an attack, gain X stages. X = the amount of life cards that attack dealt.\nPOWER: [Attack] Energy attack costing 1 stage.\nThe next attack your opponent performs this combat costs +1 stage to perform.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 personality layout; edge reads VILLAIN -> MP",
+  "_src": "S04.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 78.7,
+  "header_text": "— ANDROID 19\nLEVEL PONDERING () U86\nBE",
+  "stages_text": "650,000\n550,000\n450,000\n350,000\n\n250,000\n\n150,000\n\n50,000\n\n25,000\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

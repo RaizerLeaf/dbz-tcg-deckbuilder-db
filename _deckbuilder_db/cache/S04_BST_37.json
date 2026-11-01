@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_37",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "37_Orange Sideswipe.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/37_Orange Sideswipe.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Orange Sideswipe",
+  "file_name": "Orange Sideswipe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "d29e5a7e44d4f05897ddb255293e2050d5e132c7"
+ },
+ "vision": {
+  "id": "S04_BST_37",
+  "name": "Orange Sideswipe",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This attack cannot have its damage modified.)\n[Attack] Physical attack.\nDAMAGE: 7 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 78.2,
+  "header_text": "ORANGE SIDESWIPE\nPD ra",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_80",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "80_Red Intense Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/80_Red Intense Blast.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Red Intense Blast",
+  "file_name": "Red Intense Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8924bfe383b1ed45436d47caea081b68a5471578"
+ },
+ "vision": {
+  "id": "S04_BST_80",
+  "name": "Red Intense Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages.\nDAMAGE: 3 life cards.\nHIT: You may banish any of your Styled Drills. Your opponent destroys the top X cards of his Life Deck. X = the number of Drills you banished + your MP's current level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "RED INTENSE BLAST ©) 120\n~a \\ ee",
+  "stages_text": "5\n,\n5",
+  "error": null
+ }
+}

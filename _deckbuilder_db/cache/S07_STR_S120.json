@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S120",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S120_Saiyan Sabotage.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S120_Saiyan Sabotage.png",
+  "prefix": "S",
+  "number": 120,
+  "card_number": "S120",
+  "name_part": "Saiyan Sabotage",
+  "file_name": "Saiyan Sabotage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b6feecfcb695aa7da7f626d7f5d97ced42e44b1d"
+ },
+ "vision": {
+  "id": "S07_STR_S120",
+  "name": "Saiyan Sabotage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. HIT: Banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S84; text compared on the sheet",
+  "_src": "S07.jsonl:303"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.0,
+  "header_text": "SAIYAN SABOTAGE C) $120\n. - > g. ———., 8 8€=)=|6(",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_46",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "46_Bojack - Transformed.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/46_Bojack - Transformed.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Bojack - Transformed",
+  "file_name": "Bojack",
+  "file_subtitle": "Transformed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0de3cd474d542cff91999d5a2851b3400c267d54"
+ },
+ "vision": {
+  "id": "S12_BST_46",
+  "name": "Bojack",
+  "sub": "Transformed",
+  "type": "Main Personality",
+  "num": "S46",
+  "lvl": 3,
+  "stages": [
+   1700000,
+   1300000,
+   700000,
+   400000,
+   150000,
+   90000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect.)\n[Instant] POWER: Use when entering combat. Banish \"Team Bojack\" you own in play to advance your MP 1 level.\nPOWER: [Attack] Energy attack costing 2 stages.\nLower your opponent's anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Search your Banished Zone for a Named card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S12.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 75.7,
+  "header_text": "3 Boyack\nLEVEL TRANSFORMED () 546",
+  "stages_text": "1,700,000\n1,300,000\n700,000\n400,000\n150,000\n90,000\n50,000\n25,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

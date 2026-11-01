@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_58",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "58_Super Dragon Ball 5.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/58_Super Dragon Ball 5.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Super Dragon Ball 5",
+  "file_name": "Super Dragon Ball 5",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cb0142dda199cf0e710ae13a1c7cfde823fcd09f"
+ },
+ "vision": {
+  "id": "S16_BST_58",
+  "name": "Super Dragon Ball 5",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Raise your anger 1. Lower your opponent's anger 1. You may shuffle a Dragon Ball in play back into it's owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "printed \"it's owner's\" (sic)",
+  "_src": "S16.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "SUPER DRAGON BALL 5 © uss",
+  "stages_text": "84\n,\n3",
+  "error": null
+ }
+}

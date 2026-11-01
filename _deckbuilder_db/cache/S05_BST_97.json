@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_97",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "97_Saiyan Transformation Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/97_Saiyan Transformation Drill.png",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Saiyan Transformation Drill",
+  "file_name": "Saiyan Transformation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "80a21f16f58e5d5351f0f55f7b9589bc9a029c8c"
+ },
+ "vision": {
+  "id": "S05_BST_97",
+  "name": "Saiyan Transformation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This Drill is not discarded when you advance a level.)\nPOWER: Rejuvenate 1.\n[Instant] POWER: Use when entering combat. You may banish this Drill to return all Drills in play to their owner's hands.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "ATYAN TRANSFORMATION DRILL C) U97",
+  "stages_text": null,
+  "error": null
+ }
+}

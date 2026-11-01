@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_63",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "63_Mr. Announcer - Guy in Shades.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/63_Mr. Announcer - Guy in Shades.png",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Mr. Announcer - Guy in Shades",
+  "file_name": "Mr. Announcer",
+  "file_subtitle": "Guy in Shades",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "93d4312f1afcf235206346bb1c6b9e0065534441"
+ },
+ "vision": {
+  "id": "S10_BST_63",
+  "name": "Mr. Announcer",
+  "sub": "Guy in Shades",
+  "type": "Ally",
+  "num": "U63",
+  "lvl": 1,
+  "stages": [
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(You may use this Power regardless of your MP's power stage.)\nPOWER: Draw a card. If your MP is not Hercule, your opponent draws a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge E",
+  "_src": "S10.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.8,
+  "header_text": "1 | MR. ANNOUNCER U63\nLEVEL, GUY IN SHADES",
+  "stages_text": "11\n9\n4 8\n7\n6\n5\n4\n3\n2\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_82",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "82_Black Sharp kick.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/82_Black Sharp kick.png",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Black Sharp kick",
+  "file_name": "Black Sharp kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "42a205850e1aa698deef59b321a8bd7db8d1ff50"
+ },
+ "vision": {
+  "id": "S05_BST_82",
+  "name": "Black Sharp Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +2 life cards.\nHIT: You may destroy an opponent's Setup or Drill. Choose a Setup or Drill in your opponent's discard pile and place it into play under your opponent's control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "BLACK SHARP KICK () U82\nMBq & . NY CE aati",
+  "stages_text": "8 7 ,\n37\n\n,\n,",
+  "error": null
+ }
+}

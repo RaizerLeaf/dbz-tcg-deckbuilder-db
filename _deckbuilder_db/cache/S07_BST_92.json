@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_92",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "92_Orange Restructuring Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/92_Orange Restructuring Drill.png",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Orange Restructuring Drill",
+  "file_name": "Orange Restructuring Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "05514df35c9e588a852a8437666d62d97153d11b"
+ },
+ "vision": {
+  "id": "S07_BST_92",
+  "name": "Orange Restructuring Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Choose a personality in play. That personality loses 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 60.0,
+  "header_text": "RANGE RESTRUCTURING DRILL () U92",
+  "stages_text": null,
+  "error": null
+ }
+}

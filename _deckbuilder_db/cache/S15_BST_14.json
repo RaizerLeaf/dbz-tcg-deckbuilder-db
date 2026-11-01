@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_14",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "14_Namekian Quick Catch.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/14_Namekian Quick Catch.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Quick Catch",
+  "file_name": "Namekian Quick Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bd6cee94080af0033d7a7f5611346489eb5a5224"
+ },
+ "vision": {
+  "id": "S15_BST_14",
+  "name": "Namekian Quick Catch",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is Rejuvenated, lower your opponent's anger 1.)\n[Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 80.4,
+  "header_text": "NAMEKIAN QUICK CATCH C) C14",
+  "stages_text": ",\n1,\n,",
+  "error": null
+ }
+}

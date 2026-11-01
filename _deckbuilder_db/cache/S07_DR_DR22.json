@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR22",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR22_Hercule - Posing.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR22_Hercule - Posing.png",
+  "prefix": "DR",
+  "number": 22,
+  "card_number": "DR22",
+  "name_part": "Hercule - Posing",
+  "file_name": "Hercule",
+  "file_subtitle": "Posing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8ad5f38ee1c288269137897e2a182d6f7260abd8"
+ },
+ "vision": {
+  "id": "S07_DR_DR22",
+  "name": "Hercule",
+  "sub": "Posing",
+  "type": "Main Personality",
+  "num": "DR22",
+  "lvl": 2,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your Named cards cannot have their damage modified by your effects. Your opponent's attacks deal -3 stages and -3 life cards of damage. You cannot use the effects of [Continuous] Drills.\nPOWER: [Attack] Physical attack.\nSearch your Life Deck for \"Hercule's Dynamite Kick\" and place it into your hand.\nDAMAGE: 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; power stages printed ascending (5..50) then 0, as on PZP",
+  "_src": "S07.jsonl:168"
+ },
+ "ocr": {
+  "agreement": 0.942,
+  "lower_conf": 84.4,
+  "header_text": ": HERCULE x +) ;\nPOSING Ss / DR22",
+  "stages_text": "5\n\n10\n15\n\n20\n\n25\n, 30\n7 35\n40\n\n45\n\n50\n\n0",
+  "error": null
+ }
+}

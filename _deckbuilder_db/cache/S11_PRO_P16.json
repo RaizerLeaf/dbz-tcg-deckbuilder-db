@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P16",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P16_Blue Shifting Maneuver.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P16_Blue Shifting Maneuver.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Blue Shifting Maneuver",
+  "file_name": "Blue Shifting Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1e5f422c7e5ee438a30f687822fe02fdfb48109"
+ },
+ "vision": {
+  "id": "S11_PRO_P16",
+  "name": "Blue Shifting Maneuver",
+  "sub": null,
+  "type": "Event",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] POWER: Stops a physical or energy attack.\n(If your current anger level is 2 or lower, banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 86.8,
+  "header_text": "BLUE SHIFTING MANEUVER ) P16.",
+  "stages_text": "3\n7\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P12",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P12_Dabura - Enraged.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P12_Dabura - Enraged.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Dabura - Enraged",
+  "file_name": "Dabura",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "63a1cda8298c4664a46f92805f39ef32fa917fdc"
+ },
+ "vision": {
+  "id": "S12_PRO_P12",
+  "name": "Dabura",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 4,
+  "stages": [
+   2600000,
+   2000000,
+   1700000,
+   1500000,
+   1000000,
+   666000,
+   250000,
+   100000,
+   50000,
+   30000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title deal +1 stage and +1 life card of damage and gain \"All of your opponent's personalities lose 2 stages.\"\nPOWER: Search your Life Deck or discard pile for a card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink)",
+  "_src": "S12.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.5,
+  "header_text": "DABURA\nfea ENRAGED Qa m2)\nLEVEL ee) _\nMS gees PNN NNN",
+  "stages_text": "2,600,000\n2,000,000\n1,700,000\n1,500,000\n\n71,000,000\n666,000\n5250,000\n447\n100,000\n50,000\n30,000",
+  "error": null
+ }
+}

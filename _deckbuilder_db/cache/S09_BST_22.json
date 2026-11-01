@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_22",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "22_Red Choke Hold.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/22_Red Choke Hold.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Choke Hold",
+  "file_name": "Red Choke Hold",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4726a64fa5e53e6d391673c38f94c88572692131"
+ },
+ "vision": {
+  "id": "S09_BST_22",
+  "name": "Red Choke Hold",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is banished for Endurance, lower your opponent's anger 1 level.)\n[Attack] Physical attack.\nWhenever you use a critical damage effect this combat, lower your opponent's anger 1 level.\nDAMAGE: AT + 2 stages.\nHIT: Use a critical damage effect.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.979,
+  "lower_conf": 88.6,
+  "header_text": "RED CHOKE HOLD () R22",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

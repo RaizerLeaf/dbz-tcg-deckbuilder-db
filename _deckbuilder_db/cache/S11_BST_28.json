@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_28",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "28_Saiyan Quick Strike.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/28_Saiyan Quick Strike.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Quick Strike",
+  "file_name": "Saiyan Quick Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c73af1606cae504b29e64ad25d29e953cfecf3e3"
+ },
+ "vision": {
+  "id": "S11_BST_28",
+  "name": "Saiyan Quick Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 1 stage.\nIf the highest power level on your MP's level 4 is 500,000 or less, you may destroy the top card of your Life Deck. If you do, this attack stays in play to be used a second time this combat.\nDAMAGE: 5 stages.\nHIT: Lower your opponent's anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U28'",
+  "_src": "S11.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.6,
+  "header_text": "SAIYAN QUICK STRIKE Cae\nNSP #77 |",
+  "stages_text": "8\n3\n,\n4",
+  "error": null
+ }
+}

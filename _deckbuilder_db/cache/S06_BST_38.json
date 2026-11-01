@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_38",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "38_Orange Frenzied Assault.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/38_Orange Frenzied Assault.jpg",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Orange Frenzied Assault",
+  "file_name": "Orange Frenzied Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d8f3d7c96e2cd654a28f11561181db098a573285"
+ },
+ "vision": {
+  "id": "S06_BST_38",
+  "name": "Orange Frenzied Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you control no Drills, this attack cannot be stopped.\nDAMAGE: AT +1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "ORANGE FRENZIED ASSAULT ) 038°",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

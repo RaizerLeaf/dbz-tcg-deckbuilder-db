@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_96",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "96_Dabura - Majin Warrior.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/96_Dabura - Majin Warrior.png",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Dabura - Majin Warrior",
+  "file_name": "Dabura",
+  "file_subtitle": "Majin Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3788f5b7b2cc3cf9cc7f4497f751629cb5cbd89e"
+ },
+ "vision": {
+  "id": "S10_BST_96",
+  "name": "Dabura",
+  "sub": "Majin Warrior",
+  "type": "Main Personality",
+  "num": "S96",
+  "lvl": 3,
+  "stages": [
+   2150000,
+   1700000,
+   1000000,
+   666000,
+   300000,
+   150000,
+   100000,
+   50000,
+   25000,
+   15000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title cannot have their damage prevented.\nPOWER: [Attack] Physical attack.\nChoose a card in your discard pile and Rejuvenate it. Choose 3 cards in your opponent's discard pile and banish them. You may discard a card with \"Sword\" in the title from your hand. If you do, you may use this attack a second time this combat.\nDAMAGE: 7 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink) = Majin",
+  "_src": "S10.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 81.7,
+  "header_text": "3 DABURA\ni MAJIN WARRIOR S96\neS",
+  "stages_text": "7 2,150,000\n1,700,000\n1,000,000\n\n666,000\n\n300,000\n\n150,000\n\n100,000\n\n50,000\n25,000\n,15,000\n0",
+  "error": null
+ }
+}

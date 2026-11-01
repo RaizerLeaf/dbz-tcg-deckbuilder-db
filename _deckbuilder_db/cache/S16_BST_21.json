@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_21",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "21_Orange Blazing Aura.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/21_Orange Blazing Aura.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Orange Blazing Aura",
+  "file_name": "Orange Blazing Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e78cabc198e7c3cd72c60424f74c1016e6c723b3"
+ },
+ "vision": {
+  "id": "S16_BST_21",
+  "name": "Orange Blazing Aura",
+  "sub": null,
+  "type": "Event",
+  "num": "U21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Orange Blazing Aura\" attached.)\nPOWER: Attach to your MP. Search your Life Deck for a Drill and place it into play. While attached, at the end of combat, you may search your discard pile for a Drill and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S16.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "ORANGE BLAZING AURA",
+  "stages_text": ",",
+  "error": null
+ }
+}

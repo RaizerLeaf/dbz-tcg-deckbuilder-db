@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_20",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "20_Orange Charisma Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/20_Orange Charisma Drill.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Charisma Drill",
+  "file_name": "Orange Charisma Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bd8c71ab6352f18635d33d21b395aeb5cde64448"
+ },
+ "vision": {
+  "id": "S19_BST_20",
+  "name": "Orange Charisma Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This Drill is not discarded when changing levels. You cannot win by MPPV if you use this Drill's [Continuous] Power.)\n[Continuous]: Whenever your MP changes levels, choose up to X Drills you control. X = your MP's level. Those Drills are not discarded.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S19.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "ORANGE CHARISMA DRILL () R20",
+  "stages_text": null,
+  "error": null
+ }
+}

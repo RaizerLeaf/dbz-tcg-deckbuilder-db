@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_47",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "47_Buu - Gotenks Absorbed.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/47_Buu - Gotenks Absorbed.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Buu - Gotenks Absorbed",
+  "file_name": "Buu",
+  "file_subtitle": "Gotenks Absorbed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43a8cd74cc99c38bd38c7142b720475baf713736"
+ },
+ "vision": {
+  "id": "S13_BST_47",
+  "name": "Buu",
+  "sub": "Gotenks Absorbed",
+  "type": "Main Personality",
+  "num": "S47",
+  "lvl": 3,
+  "stages": [
+   13500000,
+   7000000,
+   2500000,
+   1900000,
+   1300000,
+   900000,
+   600000,
+   300000,
+   80000,
+   50000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand. Reveal that card instead.\nPOWER: Banish a Styled attack from your discard pile. Perform a copy of that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge M (pink); text zoomed",
+  "_src": "S13.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "= Buu",
+  "stages_text": "13,500,000\n7,000,000\n2,500,000\n1,900,000\n\n1,300,000\n900,000\n600,000\n300,000\n80,000\n50,000\n0",
+  "error": null
+ }
+}

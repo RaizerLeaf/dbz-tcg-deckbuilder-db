@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P11",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P11_Villainous Energy Beam.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P11_Villainous Energy Beam.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Villainous Energy Beam",
+  "file_name": "Villainous Energy Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 200,
+  "height": 280,
+  "orientation": "portrait",
+  "sha1": "d0b4b40abd9e98e39176f9be2703b290d88b3235"
+ },
+ "vision": {
+  "id": "S07_PRO_P11",
+  "name": "Villainous Energy Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\nEnergy attack costing 3 stages.\nLower your opponent's anger 3 levels. Damage from this attack is banished.\nDAMAGE: 6 life cards.\n(Banish after use.)",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #04); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:192"
+ },
+ "ocr": {
+  "agreement": 0.0,
+  "lower_conf": 41.3,
+  "header_text": "VILLAINOUS ENERGY BEAM ) Pit\nCC! _",
+  "stages_text": "",
+  "error": null
+ }
+}

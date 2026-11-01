@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_40",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "40_Orange Defense.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/40_Orange Defense.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Defense",
+  "file_name": "Orange Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "342523ca1c1247aebff9f43dbbac6b1de5830f63"
+ },
+ "vision": {
+  "id": "S07_BST_40",
+  "name": "Orange Defense",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nSearch your Life Deck for a non-[Continuous] Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.5,
+  "header_text": "ORANGE DEFENSE ) C40\n_—<—/|| \\ i. —— 2",
+  "stages_text": "4",
+  "error": null
+ }
+}

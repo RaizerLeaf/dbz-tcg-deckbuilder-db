@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_41",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "41_Hit's Flash Fist Crush.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/41_Hit's Flash Fist Crush.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Hit's Flash Fist Crush",
+  "file_name": "Hit's Flash Fist Crush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e1e4be6b9db9e7851becedc2e629ada38c0c2f8e"
+ },
+ "vision": {
+  "id": "S17_BST_41",
+  "name": "Hit's Flash Fist Crush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour opponent skips their next action this combat. [Warning]: Use a critical damage effect.\nDAMAGE: 5 life cards.\nHIT: At the beginning of the next action this combat, end combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S17.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 90.7,
+  "header_text": "HIT'S FLASH FIST CRUSH () R41",
+  "stages_text": "37, 7\n,",
+  "error": null
+ }
+}

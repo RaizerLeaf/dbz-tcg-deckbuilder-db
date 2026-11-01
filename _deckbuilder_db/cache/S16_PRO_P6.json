@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P6",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P6_Vegeta - Prince of Bingo.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P6_Vegeta - Prince of Bingo.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Vegeta - Prince of Bingo",
+  "file_name": "Vegeta",
+  "file_subtitle": "Prince of Bingo",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ab89dfe47a0cc4085fb4ce57e7d8e94540c66fc9"
+ },
+ "vision": {
+  "id": "S16_PRO_P6",
+  "name": "Vegeta",
+  "sub": "Prince of Bingo",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   7500000,
+   3750000,
+   1800000,
+   960000,
+   720000,
+   575000,
+   250000,
+   100000,
+   64000,
+   22000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage. Your opponent's attacks deal -1 stage.\nPOWER: [Attack] Physical attack.\nFocused. Raise your anger 1.\nDAMAGE: 5 stages.\nHIT: Shuffle up to 2 cards with \"anger\" in the text-box from your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badge S (green); stats and text compared against S16_BST_97 on the sheet, identical",
+  "_src": "S16.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 52.6,
+  "header_text": "VEGETA\n| - PRINCE OF BINGO y 6\nLEVEL foes . ~\nee eI SERN nnn",
+  "stages_text": "7,900,000\n3,750,000\n1,800,000\n960,000\n720,000\n\n7 975,000\n250,000\n100,000\n64,000\n22,000\n\n0",
+  "error": null
+ }
+}

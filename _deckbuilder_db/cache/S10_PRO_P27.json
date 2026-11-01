@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P27",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P27_Defiant Challenge.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P27_Defiant Challenge.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Defiant Challenge",
+  "file_name": "Defiant Challenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b0b5d2f12ec8017bb389f60ac4c3c49065dda627"
+ },
+ "vision": {
+  "id": "S10_PRO_P27",
+  "name": "Defiant Challenge",
+  "sub": null,
+  "type": "Event",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Banished Zone for a Named card and place it on top of your Life Deck. Search your Life Deck for a Named attack card and place it into your hand. Your opponent may discard a card from their hand to search their Life Deck for a Named attack card and place it into their hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "manga-style black-and-white art, grey frame; reprint of S04 UR141",
+  "_src": "S10.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "DEFIANT CHALLENGE =) P27\nk \\ NR ee ee eee",
+  "stages_text": "2\n,\n\n4\n4",
+  "error": null
+ }
+}

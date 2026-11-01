@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_12",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "12_Namekian Exertion Drill.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/12_Namekian Exertion Drill.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Exertion Drill",
+  "file_name": "Namekian Exertion Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "240c673d6d1e43270c07efa2ab1d4fe72076a636"
+ },
+ "vision": {
+  "id": "S15_BST_12",
+  "name": "Namekian Exertion Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand by an effect, you may place it into play. This card is not discarded when advancing a level.)\n[Instant] POWER: Use after a Dragon Ball you own leaves play due to a Mastery effect. Destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S15.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 82.2,
+  "header_text": "NAMEKIAN EXERTION DRILL © F172]\n{| WE . r",
+  "stages_text": null,
+  "error": null
+ }
+}

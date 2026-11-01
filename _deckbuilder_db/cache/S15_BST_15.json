@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_15",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "15_Namekian Scatter Shot.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/15_Namekian Scatter Shot.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Scatter Shot",
+  "file_name": "Namekian Scatter Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "896ca4062f64841bb67e7f1b2f0fd035af7c63c4"
+ },
+ "vision": {
+  "id": "S15_BST_15",
+  "name": "Namekian Scatter Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Energy attack.\nIf you control 1 or less Dragon Balls, Remain 1. If you have 2 or less Traits, Focused.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S15.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "NAMEKIAN SCATTER SHOT )UI5.",
+  "stages_text": ",1,\n,",
+  "error": null
+ }
+}

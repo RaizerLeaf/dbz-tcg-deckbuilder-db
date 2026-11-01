@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_39",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "39_Orange Flee.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/39_Orange Flee.jpg",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Orange Flee",
+  "file_name": "Orange Flee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d01f1c68c7fd59f94fee6b4437fcf5de819a7713"
+ },
+ "vision": {
+  "id": "S03_BST_39",
+  "name": "Orange Flee",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. Your next Styled physical attack this combat gains, \"HIT: This attack stays in play to be used a second time this combat.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "c RANGE FLEE €) cso\nSE >",
+  "stages_text": "4",
+  "error": null
+ }
+}

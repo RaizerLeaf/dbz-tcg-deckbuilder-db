@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_33",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "33_Orange Shopping Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/33_Orange Shopping Drill.jpg",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Orange Shopping Drill",
+  "file_name": "Orange Shopping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "60ccd34917f8aed4f35adf1b0f9d559656ee53c4"
+ },
+ "vision": {
+  "id": "S06_BST_33",
+  "name": "Orange Shopping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your opponent cannot use effects that banish cards from a discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; '(CRD)' stamped below the card (owner annotation) but the filename has no (CRD) flag",
+  "_src": "S06.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 81.2,
+  "header_text": "ORANGE SHOPPING DRILL a C33 |",
+  "stages_text": null,
+  "error": null
+ }
+}

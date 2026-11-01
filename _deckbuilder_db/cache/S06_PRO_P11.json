@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P11",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P11_Blue Barrier.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P11_Blue Barrier.jpg",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Blue Barrier",
+  "file_name": "Blue Barrier",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2a4ef8c0d67efcde3b1bdd1db9279643f6e3bbe6"
+ },
+ "vision": {
+  "id": "S06_PRO_P11",
+  "name": "Blue Barrier",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nDestroy an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 C19",
+  "_src": "S06.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.5,
+  "header_text": "BLUE BARRIER : ) Pit\n—",
+  "stages_text": "4\n47\n7,\n,",
+  "error": null
+ }
+}

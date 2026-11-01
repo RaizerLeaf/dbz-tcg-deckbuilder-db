@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S68",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S68_Orange Aura Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S68_Orange Aura Drill.png",
+  "prefix": "S",
+  "number": 68,
+  "card_number": "S68",
+  "name_part": "Orange Aura Drill",
+  "file_name": "Orange Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3ab7bd0e0939af98cf804db672c486255c3fc33f"
+ },
+ "vision": {
+  "id": "S07_STR_S68",
+  "name": "Orange Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S68",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your energy attacks deal +2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_36; text compared on the sheet",
+  "_src": "S07.jsonl:251"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 74.3,
+  "header_text": "ORANGE AURA DRILL & $68 |\nRIERA oo)",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S121",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S121_Saiyan Light Jab.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S121_Saiyan Light Jab.png",
+  "prefix": "S",
+  "number": 121,
+  "card_number": "S121",
+  "name_part": "Saiyan Light Jab",
+  "file_name": "Saiyan Light Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9f0ca789451acff8572bb656021a9360829f31a"
+ },
+ "vision": {
+  "id": "S07_STR_S121",
+  "name": "Saiyan Light Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +4 stages. HIT: Shuffle this card back into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S142; text compared on the sheet",
+  "_src": "S07.jsonl:304"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 66.3,
+  "header_text": "SAIYAN LIGHT JAB C) sia\naw ff",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

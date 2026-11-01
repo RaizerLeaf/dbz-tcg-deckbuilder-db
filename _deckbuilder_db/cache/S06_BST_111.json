@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_111",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "111_Namekian Harvesting Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/111_Namekian Harvesting Drill.jpg",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Namekian Harvesting Drill",
+  "file_name": "Namekian Harvesting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "b4e0082a7e04143aad246951559b531496975fce"
+ },
+ "vision": {
+  "id": "S06_BST_111",
+  "name": "Namekian Harvesting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Players cannot use card effects to banish cards from a discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "NAMEKIAN HARVESTING DRILL () R111 |",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P1",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P1_Black Smoothness Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P1_Black Smoothness Drill.jpg",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Black Smoothness Drill",
+  "file_name": "Black Smoothness Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 280,
+  "height": 200,
+  "orientation": "landscape",
+  "sha1": "fefb1db0d7ddb7983ebdfae8e96befcd228db679"
+ },
+ "vision": {
+  "id": "S06_PRO_P1",
+  "name": "Black Smoothness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your maximum hand size is +1 during the Discard Step.",
+  "conf": "medium",
+  "review": null,
+  "note": "landscape Drill layout; low-resolution scan (~290 px) but legible; same text as S01 S96",
+  "_src": "S06.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 0.583,
+  "lower_conf": 59.9,
+  "header_text": "BLACK SMOOTHNESS DRILL €) PI |",
+  "stages_text": null,
+  "error": null
+ }
+}

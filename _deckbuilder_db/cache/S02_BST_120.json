@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_120",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "120_Orange Mini Ball.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/120_Orange Mini Ball.jpg",
+  "prefix": null,
+  "number": 120,
+  "card_number": "120",
+  "name_part": "Orange Mini Ball",
+  "file_name": "Orange Mini Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b5a6f3b0cc03aa991af179b21aa6a69cd546eb53"
+ },
+ "vision": {
+  "id": "S02_BST_120",
+  "name": "Orange Mini Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. You may discard a Styled Drill from your hand. If you do, this attack stays on the table to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.7,
+  "header_text": "(ORANGE MINI BALL: (nec",
+  "stages_text": "",
+  "error": null
+ }
+}

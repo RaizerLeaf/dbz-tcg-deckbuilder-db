@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P13",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P13_Black Searching Technique.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P13_Black Searching Technique.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Black Searching Technique",
+  "file_name": "Black Searching Technique",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "97e6eae6586903c2ba2dfabaef2aa203ff260a93"
+ },
+ "vision": {
+  "id": "S12_PRO_P13",
+  "name": "Black Searching Technique",
+  "sub": null,
+  "type": "Setup",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your opponent's Life Deck for 2 non-Dragon Ball cards and banish them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S12.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.8,
+  "header_text": "_-ACK SEARCHING TECHNIQUE ©) P13 |",
+  "stages_text": null,
+  "error": null
+ }
+}

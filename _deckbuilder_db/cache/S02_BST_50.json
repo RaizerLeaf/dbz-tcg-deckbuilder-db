@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_50",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "50_Red Leap.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/50_Red Leap.jpg",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Red Leap",
+  "file_name": "Red Leap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "742cfc6b023b30f609457c27ad6802c005ec250f"
+ },
+ "vision": {
+  "id": "S02_BST_50",
+  "name": "Red Leap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. If this card is Rejuvenated during combat or destroyed from your Life Deck by a non-damage effect, your attacks deal +2 life cards of damage for the remainder of combat). [Attack] Physical attack costing 2 stages. DAMAGE: AT +3 life cards. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "closing reads 'combat).' with the period outside the parenthesis, as printed",
+  "_src": "S02.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.6,
+  "header_text": "(RED LEAP sce () cso\n, f sae",
+  "stages_text": "",
+  "error": null
+ }
+}

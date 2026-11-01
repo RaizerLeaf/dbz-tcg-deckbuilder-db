@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_01",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "01_Black Bitterness.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/01_Black Bitterness.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Bitterness",
+  "file_name": "Black Bitterness",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "da3ef17981dc66d9e9c6d1fa1ec8ea45a327d601"
+ },
+ "vision": {
+  "id": "S17_BST_01",
+  "name": "Black Bitterness",
+  "sub": null,
+  "type": "Setup",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Banish 2 cards from your opponent's discard pile. Destroy the top 2 cards of your opponent's Life Deck. Raise your anger 1. [Trait:God]: Gain 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; Set 17 uses a new blue crest as set symbol; inline icon zoomed: gold G badge (God)",
+  "_src": "S17.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 0.886,
+  "lower_conf": 75.0,
+  "header_text": "BLACK BITTERNESS () C1",
+  "stages_text": null,
+  "error": null
+ }
+}

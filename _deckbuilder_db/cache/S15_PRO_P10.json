@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P10",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P10_Pikkon - Fighting Stance.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P10_Pikkon - Fighting Stance.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Pikkon - Fighting Stance",
+  "file_name": "Pikkon",
+  "file_subtitle": "Fighting Stance",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e29f6c1de995e6272c08a3946d6dcc7e655b97af"
+ },
+ "vision": {
+  "id": "S15_PRO_P10",
+  "name": "Pikkon",
+  "sub": "Fighting Stance",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 3,
+  "stages": [
+   1800000,
+   1600000,
+   1300000,
+   1000000,
+   700000,
+   500000,
+   250000,
+   150000,
+   75000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, banish the top 2 cards of their Life Deck.\nPOWER: [Attack] Energy attack.\nRejuvenate 2. If your opponent has played an Event this combat, this attack deals +5 stages.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple); promo-only Level 3 Pikkon",
+  "_src": "S15.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.2,
+  "header_text": "PIKKON",
+  "stages_text": "1,800,000\n1,600,000\n1,300,000\n1,000,000\n700,000\n500,000\n250,000\n150,000\n75,000\n10,000\n0",
+  "error": null
+ }
+}

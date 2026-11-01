@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_67",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "67_Earth Dragon Ball 7.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/67_Earth Dragon Ball 7.png",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Earth Dragon Ball 7",
+  "file_name": "Earth Dragon Ball 7",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "734190dc88953d2d25da302de2a47ed070c71902"
+ },
+ "vision": {
+  "id": "S07_BST_67",
+  "name": "Earth Dragon Ball 7",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U67",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Once per game, you may play this card from your hand as an action to end combat.)\n[Continuous]: Once per turn as an action, you may place a Dragon Ball from your hand into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "EARTH DRAGON BALL 7 U67",
+  "stages_text": "1 12,",
+  "error": null
+ }
+}

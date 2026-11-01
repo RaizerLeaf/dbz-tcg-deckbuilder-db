@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_113",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "113_Namekian Inheritance.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/113_Namekian Inheritance.png",
+  "prefix": null,
+  "number": 113,
+  "card_number": "113",
+  "name_part": "Namekian Inheritance",
+  "file_name": "Namekian Inheritance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f0b62643e30c0faeca692ceb1e67dd0c77b46a9"
+ },
+ "vision": {
+  "id": "S07_BST_113",
+  "name": "Namekian Inheritance",
+  "sub": null,
+  "type": "Event",
+  "num": "R113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Choose an Earth Dragon Ball you control and use its immediate effects. Your opponent gains control of that Dragon Ball.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "NAMEKIAN INHERITANCE ) R113\nQO OC \\ “Min ~",
+  "stages_text": "",
+  "error": null
+ }
+}

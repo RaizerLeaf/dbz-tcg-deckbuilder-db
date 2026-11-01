@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_54",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "54_Saiyan Lifting Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/54_Saiyan Lifting Kick.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Saiyan Lifting Kick",
+  "file_name": "Saiyan Lifting Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "42303a6178fa0c6474b85051b583aea878f8ba49"
+ },
+ "vision": {
+  "id": "S04_BST_54",
+  "name": "Saiyan Lifting Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT life cards.\nHIT: Your opponent's non-Styled attacks deal -2 stages and -2 life cards of damage this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 90.7,
+  "header_text": "SAIYAN LIFTING KICK () C54\n- wer SEE aA =",
+  "stages_text": "2,",
+  "error": null
+ }
+}

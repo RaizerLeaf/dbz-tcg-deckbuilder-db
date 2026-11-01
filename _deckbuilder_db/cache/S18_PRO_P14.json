@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P14",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P14_Namekian Wrist Strike.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P14_Namekian Wrist Strike.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Namekian Wrist Strike",
+  "file_name": "Namekian Wrist Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "391c0e5fc7c7fa33abfc08434d3f1243f43930c6"
+ },
+ "vision": {
+  "id": "S18_PRO_P14",
+  "name": "Namekian Wrist Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nIf Gohan or Namek Dragon Ball 5 are in play, Remain 1.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 83.8,
+  "header_text": "NAMEKIAN WRIST STRIKE © ) P14,\nTee",
+  "stages_text": "4\n, 3\n,\n6 ,\n3\n,",
+  "error": null
+ }
+}

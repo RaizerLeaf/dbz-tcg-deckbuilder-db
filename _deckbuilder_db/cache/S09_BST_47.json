@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_47",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "47_Tora - Second In Command.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/47_Tora - Second In Command.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Tora - Second In Command",
+  "file_name": "Tora",
+  "file_subtitle": "Second In Command",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c1cc9b945fae76debf9fb7d64c32c00426d4bacf"
+ },
+ "vision": {
+  "id": "S09_BST_47",
+  "name": "Tora",
+  "sub": "Second in Command",
+  "type": "Ally",
+  "num": "U47",
+  "lvl": 1,
+  "stages": [
+   4500,
+   4000,
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(If your MP is Bardock, once per combat you may place this card into play from your hand at 2 power stages above 0 to stop a physical or energy attack.)\n[Continuous]: Effects that destroy cards from the top of a player's Life Deck have that amount increased by 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S09.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "1 ES\nLEVEL, SECOND IN COMMAND E) U47",
+  "stages_text": "4,500\n\n4,000\n3,500\n3,000\n2,500\n7 2,000\n1,500\n1,000\n500\n250\n0",
+  "error": null
+ }
+}

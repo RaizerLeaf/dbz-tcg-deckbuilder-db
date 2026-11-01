@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_03",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "03_Black Grudge Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/03_Black Grudge Drill.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Grudge Drill",
+  "file_name": "Black Grudge Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b8f881dec01269669a3080c8f9e147df92f70178"
+ },
+ "vision": {
+  "id": "S12_BST_03",
+  "name": "Black Grudge Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand during combat, place it into play.)\n[Continuous]: Whenever you deal critical damage, you may choose a card in your opponent's discard pile and banish it.\n[Instant] POWER: Use after you discard a card from your hand by a Mastery effect. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 78.0,
+  "header_text": "BLACK GRUDGE DRILL &) U3 |",
+  "stages_text": null,
+  "error": null
+ }
+}

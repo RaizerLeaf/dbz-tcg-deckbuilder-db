@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S95",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S95_Namekian Pound.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S95_Namekian Pound.png",
+  "prefix": "S",
+  "number": 95,
+  "card_number": "S95",
+  "name_part": "Namekian Pound",
+  "file_name": "Namekian Pound",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1d959593b2b812b94d6ea3396ec1aac425213f1a"
+ },
+ "vision": {
+  "id": "S04_STR_S95",
+  "name": "Namekian Pound",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +3 stages.\nHIT: You may destroy up to 4 cards from the top of your Life Deck. For each card destroyed, gain 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S136",
+  "_src": "S04.jsonl:248"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "NAMEKIAN POUND IEG",
+  "stages_text": "4\n3",
+  "error": null
+ }
+}

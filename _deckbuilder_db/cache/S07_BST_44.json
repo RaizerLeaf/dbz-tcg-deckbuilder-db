@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_44",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "44_Red Hurl.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/44_Red Hurl.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Hurl",
+  "file_name": "Red Hurl",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db9a54372355865048035fcadca091bc8ab2b02d"
+ },
+ "vision": {
+  "id": "S07_BST_44",
+  "name": "Red Hurl",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "RED HURL () C44\nan ,-d6UlUWS",
+  "stages_text": "",
+  "error": null
+ }
+}

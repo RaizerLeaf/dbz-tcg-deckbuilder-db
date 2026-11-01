@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S84",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S84_Namekian Chin Grab.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S84_Namekian Chin Grab.png",
+  "prefix": "S",
+  "number": 84,
+  "card_number": "S84",
+  "name_part": "Namekian Chin Grab",
+  "file_name": "Namekian Chin Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "120a8af47ba6559b592f2dd6bbb0f77931adc004"
+ },
+ "vision": {
+  "id": "S04_STR_S84",
+  "name": "Namekian Chin Grab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRejuvenate 1.\nDAMAGE: AT +3 stages.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 C32",
+  "_src": "S04.jsonl:237"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "NAMEKIAN CHIN GRAB . ») S84",
+  "stages_text": "7",
+  "error": null
+ }
+}

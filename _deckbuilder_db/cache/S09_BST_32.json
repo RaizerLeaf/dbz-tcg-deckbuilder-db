@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_32",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "32_Amphibious Exploration Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/32_Amphibious Exploration Drill.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Amphibious Exploration Drill",
+  "file_name": "Amphibious Exploration Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0455e95dde846962041f877f26589167527dc166"
+ },
+ "vision": {
+  "id": "S09_BST_32",
+  "name": "Amphibious Exploration Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "UR32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You may place this card from your hand to the bottom of your Life Deck as an action to gain 2 stages.)\n[Continuous]: Players can only play one card during the Planning Step.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S09.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "iPHIBIOUS EXPLORATION DRILL @E)UR2",
+  "stages_text": null,
+  "error": null
+ }
+}

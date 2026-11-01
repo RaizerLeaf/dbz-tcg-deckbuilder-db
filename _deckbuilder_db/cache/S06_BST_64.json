@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_64",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "64_Android 13 - Surging Strength.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/64_Android 13 - Surging Strength.jpg",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Android 13 - Surging Strength",
+  "file_name": "Android 13",
+  "file_subtitle": "Surging Strength",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e07acdbf6089c0c4a500fe3b3eee253a3b3f9183"
+ },
+ "vision": {
+  "id": "S06_BST_64",
+  "name": "Android 13",
+  "sub": "Surging Strength",
+  "type": "Main Personality",
+  "num": "U64",
+  "lvl": 4,
+  "stages": [
+   2100000,
+   1700000,
+   1400000,
+   1100000,
+   800000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your non-Styled attack cards gain \"HIT: Your opponent skips his next action this combat.\"\nPOWER: [Attack] Physical attack.\nThis attack deals +1 stage of damage for each card with \"Android\" in the title in your discard pile.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "Gi ANDROID 13\nLEVEL SURGING STRENGTH",
+  "stages_text": "1,700,000\n1,400,000\n1,100,000\n800,000\n500,000\n400,000\n3000,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

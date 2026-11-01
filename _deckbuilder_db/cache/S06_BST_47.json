@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_47",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "47_Red High Kick.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/47_Red High Kick.jpg",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Red High Kick",
+  "file_name": "Red High Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b74380d963098705dbc8b84afc6c94c9447724c5"
+ },
+ "vision": {
+  "id": "S06_BST_47",
+  "name": "Red High Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nReveal the top 4 cards of your Life Deck. You may place 1 Styled [Defense] card revealed into your hand. Place the remaining cards at the bottom of your Life Deck in any order.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "the inline shield icon is used as a noun ('Styled [Defense] card')",
+  "_src": "S06.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 80.4,
+  "header_text": "RED HIGH KICK @ i\n© eet",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

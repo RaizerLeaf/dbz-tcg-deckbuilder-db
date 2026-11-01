@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P6",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P6_Nakemian Gut Punch.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P6_Nakemian Gut Punch.jpg",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Nakemian Gut Punch",
+  "file_name": "Nakemian Gut Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 463,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8ca49faa166d1ee25dda0bf2e8df65d6b3c8ec31"
+ },
+ "vision": {
+  "id": "S06_PRO_P6",
+  "name": "Namekian Gut Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDestroy X Allies. X = your MP's level.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 U89; filename typo 'Nakemian'",
+  "_src": "S06.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "NAMEKIAN GUT PUNCH ) PB\n’ Ma A\\<-se",
+  "stages_text": "3,47",
+  "error": null
+ }
+}

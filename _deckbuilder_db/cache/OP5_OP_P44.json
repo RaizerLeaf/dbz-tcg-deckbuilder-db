@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P44",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P44_Namekian Clothling Beam.png",
+  "rel_path": "z_OP Series/OP5/P44_Namekian Clothling Beam.png",
+  "prefix": "P",
+  "number": 44,
+  "card_number": "P44",
+  "name_part": "Namekian Clothling Beam",
+  "file_name": "Namekian Clothling Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3fcad03cbc137dd4ac6953702423a1a6d4dfba43"
+ },
+ "vision": {
+  "id": "OP5_OP_P44",
+  "name": "Namekian Clothing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a Mastery effect, you may banish it to destroy a Setup or Drill.)\n[Attack] 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: If your MP is a Villain, you may destroy an Ally you control to search your Life Deck for an Ally and play it.\n(Created by Brandon Biggers, OP4 South Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.7,
+  "header_text": "NAMEKIAN CLOTHING BEAM & ) P44",
+  "stages_text": "5\n, 7\n,",
+  "error": null
+ }
+}

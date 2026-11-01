@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_39",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "39_Orange Aid.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/39_Orange Aid.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Orange Aid",
+  "file_name": "Orange Aid",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6946db4733a0ff73315baeecdc79909cb98e15ef"
+ },
+ "vision": {
+  "id": "S07_BST_39",
+  "name": "Orange Aid",
+  "sub": null,
+  "type": "Event",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Orange Aid\" attached.)\nPOWER: Attach to your MP. While attached, when entering combat you may draw a card. If you do, your opponent draws a card. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 79.7,
+  "header_text": "ORANGE AID ) 39\n,",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P36",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P36_Isolation.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P36_Isolation.png",
+  "prefix": "P",
+  "number": 36,
+  "card_number": "P36",
+  "name_part": "Isolation",
+  "file_name": "Isolation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f94629d7fe7219d1aa7cb1119fc85200ed9e20f9"
+ },
+ "vision": {
+  "id": "S16_PRO_P36",
+  "name": "Isolation",
+  "sub": null,
+  "type": "Setup",
+  "num": "P36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirected to them this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; no Endurance badge",
+  "_src": "S16.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": ": vo de\nISOLATION ( ) P36",
+  "stages_text": null,
+  "error": null
+ }
+}

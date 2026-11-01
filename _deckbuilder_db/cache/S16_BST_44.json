@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_44",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "44_Utter Destruction.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/44_Utter Destruction.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Utter Destruction",
+  "file_name": "Utter Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "37a926cef25a98396397ca666d88e332ee57c6c1"
+ },
+ "vision": {
+  "id": "S16_BST_44",
+  "name": "Utter Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "UR44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Alien] only. Limit 1 per deck. Once per combat, you may shuffle this card from your hand into your Life Deck as an action to banish 3 cards from your opponent's discard pile.)\nPOWER: Destroy an Ally. [Warning]: Destroy all Allies instead.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; number area reads 'PREVIEW UR44'; inline icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S16.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.936,
+  "lower_conf": 89.4,
+  "header_text": "UTTER DESTRUCTION a) nae”\n~S . 4",
+  "stages_text": "0\n03\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_53",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "53_Saiyan Drive By.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/53_Saiyan Drive By.jpg",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan Drive By",
+  "file_name": "Saiyan Drive By",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e6d4e7d72a35a612f78bb3bf265f8ddb23b1effb"
+ },
+ "vision": {
+  "id": "S02_BST_53",
+  "name": "Saiyan Drive By",
+  "sub": null,
+  "type": "Event",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys the top X cards of his Life Deck. X = your current anger level. Choose a card in your discard pile and place it on top of your Life Deck. If that card had Endurance, choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "(SAIYAN DRIVE BY enn. (==\n7 > an . Sf _",
+  "stages_text": "4\n1",
+  "error": null
+ }
+}

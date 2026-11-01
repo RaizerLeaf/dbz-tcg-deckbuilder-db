@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_70",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "70_Goten - Son of Goku.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/70_Goten - Son of Goku.png",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Goten - Son of Goku",
+  "file_name": "Goten",
+  "file_subtitle": "Son of Goku",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4714bce31c42082af45c50ca0b4cb71ac9766960"
+ },
+ "vision": {
+  "id": "S10_BST_70",
+  "name": "Goten",
+  "sub": "Son of Goku",
+  "type": "Main Personality",
+  "num": "S70",
+  "lvl": 1,
+  "stages": [
+   100000,
+   60000,
+   40000,
+   20000,
+   15000,
+   10000,
+   8000,
+   5000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage of damage.\nPOWER: [Attack] Physical attack.\nRaise a player's anger 1 level.\nDAMAGE: 3 stages.\nHIT: You may choose a Drill in your discard pile and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E + S",
+  "_src": "S10.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.1,
+  "header_text": "LL GOTEN\nLEVEL SON OF GOKU () 9/0\nll Ee",
+  "stages_text": "100,000\n60,000\n40,000\n20,000\n\n15,000\n\n10,000\n\n8,000\n\n5,000\n\n3,000\n\n1,000\n0",
+  "error": null
+ }
+}

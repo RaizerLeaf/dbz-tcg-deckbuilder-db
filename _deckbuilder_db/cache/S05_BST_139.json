@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_139",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "139_Saiyan Ki Burst.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/139_Saiyan Ki Burst.png",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Saiyan Ki Burst",
+  "file_name": "Saiyan Ki Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "468ab6b32cfaec02d6ded17ec941eaf0be986cd0"
+ },
+ "vision": {
+  "id": "S05_BST_139",
+  "name": "Saiyan Ki Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(This card's Endurance is considered to be 5 for your card effects.)\n[Attack] Energy attack costing 2 stages.\nIf your MP's level is higher than your opponent's MP's level, non-Styled cards cannot be played this combat.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 0.959,
+  "lower_conf": 72.5,
+  "header_text": "SAIYAN KI BURST > R139\n,e! 7 ee SM yf , AN ~s",
+  "stages_text": "9",
+  "error": null
+ }
+}

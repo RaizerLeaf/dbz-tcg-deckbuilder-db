@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S16",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S16_Vegeta - Calculating.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S16_Vegeta - Calculating.png",
+  "prefix": "S",
+  "number": 16,
+  "card_number": "S16",
+  "name_part": "Vegeta - Calculating",
+  "file_name": "Vegeta",
+  "file_subtitle": "Calculating",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "58cfda3cc4e5a07278c7bbc52a4e1e9c0e549870"
+ },
+ "vision": {
+  "id": "S04_STR_S16",
+  "name": "Vegeta",
+  "sub": "Calculating",
+  "type": "Main Personality",
+  "num": "S16",
+  "lvl": 1,
+  "stages": [
+   113000,
+   87000,
+   61000,
+   35000,
+   20000,
+   10000,
+   5000,
+   1000,
+   500,
+   100,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: The first time each combat one of your card effects requires you to discard 1 card from your hand, you may reveal that card instead.\n[Instant] POWER: Use when you perform a Styled attack. You may choose for that attack to deal its life card damage as stages of damage instead.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO; read from original (sheet tile was cropped)",
+  "_src": "S04.jsonl:169"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "1 VEGETA Ce SiG ;\nCALCULATING 4\n'\\ ewe",
+  "stages_text": "87,000\n61,000\n20,000\n10,000",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S101",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S101_Namekian Zone Pressure.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S101_Namekian Zone Pressure.png",
+  "prefix": "S",
+  "number": 101,
+  "card_number": "S101",
+  "name_part": "Namekian Zone Pressure",
+  "file_name": "Namekian Zone Pressure",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e43ba394d957b892ae41aec8ca91801edebda548"
+ },
+ "vision": {
+  "id": "S04_STR_S101",
+  "name": "Namekian Zone Pressure",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, banish a Setup or Drill in play.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U89",
+  "_src": "S04.jsonl:254"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "NAMEKIAN ZONE PRESSURE () $101\n| umes",
+  "stages_text": "4 5\n7\n,",
+  "error": null
+ }
+}

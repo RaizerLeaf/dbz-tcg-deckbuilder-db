@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P15",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P15_Vegeta - The Crown Prince.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P15_Vegeta - The Crown Prince.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Vegeta - The Crown Prince",
+  "file_name": "Vegeta",
+  "file_subtitle": "The Crown Prince",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5d529e6a2929f0571d4b32f71d2440b43046b5fc"
+ },
+ "vision": {
+  "id": "S10_PRO_P15",
+  "name": "Vegeta",
+  "sub": "The Crown Prince",
+  "type": "Main Personality",
+  "num": "P15",
+  "lvl": 1,
+  "stages": [
+   11000,
+   10500,
+   10000,
+   9000,
+   8000,
+   7000,
+   5000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks without \"anger\" printed in the text-box gain \"Raise your anger 1 level.\"\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level. This attack is considered to deal critical damage.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge S; same as S09 S61 but without the '(Saiyan Mastery only.)' line",
+  "_src": "S10.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.6,
+  "header_text": "— : a, ——\nVEGETA *\nTHE CROWN PRINCE : Pls\naly : a alata",
+  "stages_text": "11,000\n10,500\n10,000\n9,000\n\n8,000\n7\n4 7,000\n5000\n2\n4,000\n2,000\n1,000",
+  "error": null
+ }
+}

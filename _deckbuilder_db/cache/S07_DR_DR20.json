@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR20",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR20_Saiyan Dynamic Mastery.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR20_Saiyan Dynamic Mastery.png",
+  "prefix": "DR",
+  "number": 20,
+  "card_number": "DR20",
+  "name_part": "Saiyan Dynamic Mastery",
+  "file_name": "Saiyan Dynamic Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6ee66a3517b8a59db7a2072c042a06011e37f907"
+ },
+ "vision": {
+  "id": "S07_DR_DR20",
+  "name": "Saiyan Dynamic Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may begin the game on Level 2.)\n[Continuous]: You need 6 anger to advance a personality level. Your Styled attacks without \"anger\" printed in the text-box gain \"Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; name from filename and S14 P26",
+  "_src": "S07.jsonl:166"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "A mE a g ZN ‘ :",
+  "stages_text": "3\n, 7\n20\n2,\n4\n1,",
+  "error": null
+ }
+}

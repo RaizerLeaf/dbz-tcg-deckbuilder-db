@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_104",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "104_Black Daze.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/104_Black Daze.jpg",
+  "prefix": null,
+  "number": 104,
+  "card_number": "104",
+  "name_part": "Black Daze",
+  "file_name": "Black Daze",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ad218b92b870efb698725516da0e4eb9373634cb"
+ },
+ "vision": {
+  "id": "S03_BST_104",
+  "name": "Black Daze",
+  "sub": null,
+  "type": "Event",
+  "num": "R104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. POWER: Name a card. Your opponent reveals his hand. If the card you named was revealed, your opponent shuffles a copy of that card from his hand into his Life Deck and both players draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "BLACK DAZE canis) () m104\neS ma ~~ FN |",
+  "stages_text": "4\n7\n4\n,\n6\n,",
+  "error": null
+ }
+}

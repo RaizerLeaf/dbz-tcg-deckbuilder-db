@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_54",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "54_Saiyan Enjoyment.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/54_Saiyan Enjoyment.jpg",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Saiyan Enjoyment",
+  "file_name": "Saiyan Enjoyment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "423910e9e0989c00b9f0c8b86980a2e0f2e2acbb"
+ },
+ "vision": {
+  "id": "S03_BST_54",
+  "name": "Saiyan Enjoyment",
+  "sub": null,
+  "type": "Event",
+  "num": "C54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your physical attacks deal +2 stages of damage this combat. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "(SAIYAN ENJOYMENT: ( =",
+  "stages_text": "7",
+  "error": null
+ }
+}

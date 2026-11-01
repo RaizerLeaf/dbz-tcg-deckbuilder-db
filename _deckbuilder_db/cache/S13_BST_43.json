@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_43",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "43_Spooky Ghost - Wild Card.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/43_Spooky Ghost - Wild Card.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Spooky Ghost - Wild Card",
+  "file_name": "Spooky Ghost",
+  "file_subtitle": "Wild Card",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2c9f711baee3366e4bcf6a33fd0a91549e0e556f"
+ },
+ "vision": {
+  "id": "S13_BST_43",
+  "name": "Spooky Ghost",
+  "sub": "Wild Card",
+  "type": "Ally",
+  "num": "U43",
+  "lvl": 1,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(Gotenks only. You may use this Power regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Destroy the top 2 cards of your opponent's Life Deck. Destroy this card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges S, E, F; same text as U42 and U44; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "1 | SPOOKY GHOST E)\n/ LEVEL | WILD CARD U43\n1) BS",
+  "stages_text": "1,000\n\n900\n\n800\n\n700\n600\n500\n\n400\n300\n200\n\n100\n\n0",
+  "error": null
+ }
+}

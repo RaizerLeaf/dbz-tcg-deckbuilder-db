@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S08",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S08_Goku - Calm.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S08_Goku - Calm.png",
+  "prefix": "S",
+  "number": 8,
+  "card_number": "S08",
+  "name_part": "Goku - Calm",
+  "file_name": "Goku",
+  "file_subtitle": "Calm",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "d61c1cee452506d6337e15a140135a2b062e4171"
+ },
+ "vision": {
+  "id": "S04_STR_S08",
+  "name": "Goku",
+  "sub": "Calm",
+  "type": "Main Personality",
+  "num": "S8",
+  "lvl": 3,
+  "stages": [
+   1100000,
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   300000,
+   150000,
+   75000,
+   37500,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack.\nYou may search your Life Deck or discard pile for an Ally and play it. That Ally can make actions regardless of your MP's power stage this combat.\nDAMAGE: 6 life cards.\nHIT: If your next attack this combat is performed by an Ally, it cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO",
+  "_src": "S04.jsonl:161"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 81.2,
+  "header_text": "GOKU t * $9\nFE] co J\nSSS) a",
+  "stages_text": "1,100,000\n1,000,000\n900,000\n800,000\n700,000\n600,000\n300,000\n150,000\n75,000\n37,500\n\n0",
+  "error": null
+ }
+}

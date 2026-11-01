@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_115",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "115_Orange Electricity.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/115_Orange Electricity.jpg",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Orange Electricity",
+  "file_name": "Orange Electricity",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0a911a5e40a44595f350a7f267d2d4a638e878d7"
+ },
+ "vision": {
+  "id": "S03_BST_115",
+  "name": "Orange Electricity",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 4 life cards. Raise your anger 1 level. Prevent all damage from your opponent's attacks in his next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.7,
+  "header_text": "C RANGE ELECTRICITY é) 7",
+  "stages_text": "",
+  "error": null
+ }
+}

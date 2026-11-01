@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_37",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "37_Orange Eruption.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/37_Orange Eruption.jpg",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Orange Eruption",
+  "file_name": "Orange Eruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "58d0e237da330f3d21d2fab94505da82290a72ec"
+ },
+ "vision": {
+  "id": "S03_BST_37",
+  "name": "Orange Eruption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 2 life cards. Raise your anger 2 levels. Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.8,
+  "header_text": "(O RANGE ERUPTION: () C37\n\\ | | | [",
+  "stages_text": "4",
+  "error": null
+ }
+}

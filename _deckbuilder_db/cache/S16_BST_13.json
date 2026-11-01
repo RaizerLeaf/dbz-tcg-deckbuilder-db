@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_13",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "13_Namekian Empowered Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/13_Namekian Empowered Mastery.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Empowered Mastery",
+  "file_name": "Namekian Empowered Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "aa7992f801d8f35a4552b3e50fd4a95544c12375"
+ },
+ "vision": {
+  "id": "S16_BST_13",
+  "name": "Namekian Empowered Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your energy attacks deal +1 life card.\n[Instant] POWER: Use when entering combat. Draw the bottom card of your discard pile. Discard a card from your hand.\nPOWER: The next energy attack you perform this combat costs -2 stages (to a minimum of 0). Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed",
+  "_src": "S16.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.9,
+  "header_text": "i cal tt\nAes.",
+  "stages_text": "4\n13\n,\n7\n,\n,",
+  "error": null
+ }
+}

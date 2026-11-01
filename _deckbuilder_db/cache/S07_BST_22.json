@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_22",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "22_Namekian Cover.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/22_Namekian Cover.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Namekian Cover",
+  "file_name": "Namekian Cover",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3200ec06cb0094de793159ae980d33ba52740133"
+ },
+ "vision": {
+  "id": "S07_BST_22",
+  "name": "Namekian Cover",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nRaise your anger 1 level.\nGain X stages. X = the number of Earth Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 79.0,
+  "header_text": "NAMEKIAN COVER () C22\n~ owt",
+  "stages_text": "24\n5\n,\n,",
+  "error": null
+ }
+}

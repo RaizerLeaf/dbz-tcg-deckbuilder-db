@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S94",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S94_Namekian Crossed Guard.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S94_Namekian Crossed Guard.png",
+  "prefix": "S",
+  "number": 94,
+  "card_number": "S94",
+  "name_part": "Namekian Crossed Guard",
+  "file_name": "Namekian Crossed Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f76d016bab08bc90e76798f165bcdb0ec6197a0d"
+ },
+ "vision": {
+  "id": "S07_STR_S94",
+  "name": "Namekian Crossed Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, place a Styled Drill from your discard pile into play.) ENDURANCE 1. [Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S67; text compared on the sheet",
+  "_src": "S07.jsonl:277"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 63.9,
+  "header_text": "NAMEKIAN CROSSED GUARD ) sod",
+  "stages_text": "1",
+  "error": null
+ }
+}

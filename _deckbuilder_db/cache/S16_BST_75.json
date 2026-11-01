@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_75",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "75_Captain Ginyu - Elite.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/75_Captain Ginyu - Elite.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Captain Ginyu - Elite",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Elite",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dd057248969fd4f95241fd79b7a893b6714905e4"
+ },
+ "vision": {
+  "id": "S16_BST_75",
+  "name": "Captain Ginyu",
+  "sub": "Elite",
+  "type": "Main Personality",
+  "num": "S75",
+  "lvl": 4,
+  "stages": [
+   2850000,
+   2500000,
+   2000000,
+   1500000,
+   1000000,
+   800000,
+   500000,
+   300000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: You may use the Powers of your \"Ginyu Force\" Allies regardless of your MP's power stage. Your attacks deal +2 life cards.\n[Instant] POWER: Use at the start of your Planning Step. Search your Life Deck or discard pile for an [Trait:Alien] Ally and play it.\nPOWER: [Attack] Energy attack.\nBanish X cards from a player's discard pile. Rejuvenate X. X = the number of \"Ginyu Force\" Allies you control.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S16.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 76.1,
+  "header_text": "ZL CAPTAIN GINYU\nLEVEL ELITE () 579",
+  "stages_text": "2,850,000\n2,500,000\n2,000,000\n1,500,000\n1,000,000\n800,000\n500,000\n300,000\n100,000\n50,000\n\n0",
+  "error": null
+ }
+}

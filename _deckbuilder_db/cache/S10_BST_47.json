@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_47",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "47_Gotenk's Defensive Stance.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/47_Gotenk's Defensive Stance.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Gotenk's Defensive Stance",
+  "file_name": "Gotenk's Defensive Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "921a22144e14cb035737abd77e6cf6bc8d911fa1"
+ },
+ "vision": {
+  "id": "S10_BST_47",
+  "name": "Gotenk's Defensive Stance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nRaise your MP to its highest power stage. Search your discard pile and Banished Zone for up to 3 Styled Drills and Rejuvenate them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; printed 'GOTENK'S' (typo for Gotenks); filename matches",
+  "_src": "S10.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 81.3,
+  "header_text": "GOTEN'S DEFENSIVE STANCE\nwre i i... : Ex <a",
+  "stages_text": ",\n,\n2\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_60",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "60_Lookout Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/60_Lookout Drill.jpg",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Lookout Drill",
+  "file_name": "Lookout Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2aea85c7bfa9afe7f1eeaf4c49b79a6442271703"
+ },
+ "vision": {
+  "id": "S03_BST_60",
+  "name": "Lookout Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(After this Drill enters play from your hand, Rejuvenate 1.) [Continuous]: The first time each turn an opponent's card effect would destroy or banish cards from the top of your Life Deck, reduce that amount to 0.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "‘(Loo KOUT DRILL eee () CSO",
+  "stages_text": ",",
+  "error": null
+ }
+}

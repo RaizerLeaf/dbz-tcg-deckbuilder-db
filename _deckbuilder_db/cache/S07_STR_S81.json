@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S81",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S81_Namekian Downward Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S81_Namekian Downward Blast.png",
+  "prefix": "S",
+  "number": 81,
+  "card_number": "S81",
+  "name_part": "Namekian Downward Blast",
+  "file_name": "Namekian Downward Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cf73f3587860d738b41a7405ed35df7327ae18f3"
+ },
+ "vision": {
+  "id": "S07_STR_S81",
+  "name": "Namekian Downward Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nYour MP gains 2 stages. Lower your opponent's anger 2 levels.\nDAMAGE: 2 life cards.\nHIT: You may place this card on the top or bottom of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_72; text compared on the sheet",
+  "_src": "S07.jsonl:264"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 85.9,
+  "header_text": "NAMEKIAN DOWNWARD BLAST ) $81",
+  "stages_text": ",,\n\n,\n\n7 ,\n2 7\n,",
+  "error": null
+ }
+}

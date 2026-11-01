@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_125",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "125_Android 18's Arm Breaker.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/125_Android 18's Arm Breaker.png",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Android 18's Arm Breaker",
+  "file_name": "Android 18's Arm Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "b5cef848dc909c29b1edcc2b5ea20f2792e3405d"
+ },
+ "vision": {
+  "id": "S04_BST_125",
+  "name": "Android 18's Arm Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. Your opponent's MP loses 2 stages.\nDAMAGE: AT +3 stages.\nHIT: You may banish the top card of your Life Deck. If you do, end combat at the beginning of the next action this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "ANDROID 18’S ARM BREAKER?) R125\nnN “(| OUWY Eee NY",
+  "stages_text": "4",
+  "error": null
+ }
+}

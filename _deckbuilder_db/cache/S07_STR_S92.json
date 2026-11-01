@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S92",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S92_Namekian Forceful Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S92_Namekian Forceful Block.png",
+  "prefix": "S",
+  "number": 92,
+  "card_number": "S92",
+  "name_part": "Namekian Forceful Block",
+  "file_name": "Namekian Forceful Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8c2d8f8cb897615941faf5a65be300ce5b379478"
+ },
+ "vision": {
+  "id": "S07_STR_S92",
+  "name": "Namekian Forceful Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Gain 5 stages. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S145; text compared on the sheet",
+  "_src": "S07.jsonl:275"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.3,
+  "header_text": "NAMEKIAN FORCEFUL BLOCK () $92\neye Ll Oe sea",
+  "stages_text": "3\n\n,\n\n3\n,\n\n1,",
+  "error": null
+ }
+}

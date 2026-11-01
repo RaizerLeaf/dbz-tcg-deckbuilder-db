@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S104",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S104_Orange Aura Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S104_Orange Aura Drill.png",
+  "prefix": "S",
+  "number": 104,
+  "card_number": "S104",
+  "name_part": "Orange Aura Drill",
+  "file_name": "Orange Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "ffe265cd9451a0ccefdc0b7381259486f8df242b"
+ },
+ "vision": {
+  "id": "S04_STR_S104",
+  "name": "Orange Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your energy attacks deal +2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C36; landscape layout",
+  "_src": "S04.jsonl:257"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 61.4,
+  "header_text": "{ (NA Yi ==\nUES, YQ = ore",
+  "stages_text": null,
+  "error": null
+ }
+}

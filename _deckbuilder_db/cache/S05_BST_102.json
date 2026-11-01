@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_102",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "102_Master Roshi's Back Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/102_Master Roshi's Back Strike.png",
+  "prefix": null,
+  "number": 102,
+  "card_number": "102",
+  "name_part": "Master Roshi's Back Strike",
+  "file_name": "Master Roshi's Back Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9d1ae7c89e52b1eed0f93ac9311264aba757d6bc"
+ },
+ "vision": {
+  "id": "S05_BST_102",
+  "name": "Master Roshi's Back Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Attack] Physical attack.\nYou may search your Life Deck for a card and place it into your hand.\nDAMAGE: AT +1 stage.\nHIT: Gain 10 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.2,
+  "header_text": "MASTER ROSHI'S BACK STRIKE @ ) R102\nmd VinbgGes Zn ea Bow vw",
+  "stages_text": "7",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P29",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P29_Red Right Punch.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P29_Red Right Punch.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Red Right Punch",
+  "file_name": "Red Right Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "281ce62244bbbd6e3ae162d5137a5179714b1a4d"
+ },
+ "vision": {
+  "id": "S16_PRO_P29",
+  "name": "Red Right Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nSearch your Life Deck for X Drills and place them into play. X = your current anger level.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 90.3,
+  "header_text": "RED RIGHT PUNCH () P29",
+  "stages_text": "4\n5\n21\n,",
+  "error": null
+ }
+}

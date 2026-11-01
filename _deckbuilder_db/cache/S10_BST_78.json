@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_78",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "78_Krillin - Settled Down.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/78_Krillin - Settled Down.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Krillin - Settled Down",
+  "file_name": "Krillin",
+  "file_subtitle": "Settled Down",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f75d0acfc90070c26fdd7a6f54d8b93bca67cdcb"
+ },
+ "vision": {
+  "id": "S10_BST_78",
+  "name": "Krillin",
+  "sub": "Settled Down",
+  "type": "Main Personality",
+  "num": "S78",
+  "lvl": 1,
+  "stages": [
+   220000,
+   120000,
+   90000,
+   60000,
+   30000,
+   15000,
+   10000,
+   8000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages.\nPOWER: [Attack] Energy attack costing 2 stages.\nAt the end of combat, search your Life Deck for a Styled Setup and place it into play.\nDAMAGE: 4 life cards.\nHIT: Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S10.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "KRILLIN",
+  "stages_text": "220,000\n120,000\n90,000\n60,000\n\n5 30,000\n15,000\n10,000\n8,000\n\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S125",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S125_Black Corruption.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S125_Black Corruption.png",
+  "prefix": "S",
+  "number": 125,
+  "card_number": "S125",
+  "name_part": "Black Corruption",
+  "file_name": "Black Corruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c60360b12c31150bc93c9a77d6dd4f236b64cb53"
+ },
+ "vision": {
+  "id": "S07_STR_S125",
+  "name": "Black Corruption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of your opponent's Life Deck.)\n[Defense] Stops an energy attack.\nRaise your anger 1 level and lower your opponent's anger 2 levels.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_PRO_P3; text compared on the sheet",
+  "_src": "S07.jsonl:308"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "BLACK CORRUPTION ) $125 |\n———-—--- |",
+  "stages_text": "",
+  "error": null
+ }
+}

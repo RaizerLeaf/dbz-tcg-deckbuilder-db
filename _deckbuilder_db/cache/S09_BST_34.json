@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_34",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "34_Bardock's Riot Javelin.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/34_Bardock's Riot Javelin.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Bardock's Riot Javelin",
+  "file_name": "Bardock's Riot Javelin",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3a4eaaf7e7a9e4764cdd248a3a14fa3a947bf72d"
+ },
+ "vision": {
+  "id": "S09_BST_34",
+  "name": "Bardock's Riot Javelin",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Attack] Energy attack costing 1 stage.\nSearch your opponent's Life Deck for a non-Named attack and destroy it. You may perform a copy of that attack for your next action this combat.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "BARDOCK'S RIOT JAVELIN © ) R34 |",
+  "stages_text": "43\n,\n4\n1 3\n,\n,\n2",
+  "error": null
+ }
+}

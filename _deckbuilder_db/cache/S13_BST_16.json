@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_16",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "16_Namekian Grit.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/16_Namekian Grit.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Namekian Grit",
+  "file_name": "Namekian Grit",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fe015896efbd66d61d796123b1bf89bcda47507a"
+ },
+ "vision": {
+  "id": "S13_BST_16",
+  "name": "Namekian Grit",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nRejuvenate the bottom 3 cards of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 83.5,
+  "header_text": "NAMEKIAN GRIT C) C16",
+  "stages_text": "2\n2\n,\n72\n347 2",
+  "error": null
+ }
+}

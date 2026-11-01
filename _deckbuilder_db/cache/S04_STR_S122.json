@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S122",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S122_Orange Quick Dodge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S122_Orange Quick Dodge.png",
+  "prefix": "S",
+  "number": 122,
+  "card_number": "S122",
+  "name_part": "Orange Quick Dodge",
+  "file_name": "Orange Quick Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1d10037220981a3908a4a382116c0527e4d52e56"
+ },
+ "vision": {
+  "id": "S04_STR_S122",
+  "name": "Orange Quick Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S122",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nGain 5 stages. Prevent 1 stage of damage from all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S147",
+  "_src": "S04.jsonl:275"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "ORANGE QUICK DODGE ) $122 |\naie eae -—:,",
+  "stages_text": ",\n,\n,\n\n1,",
+  "error": null
+ }
+}

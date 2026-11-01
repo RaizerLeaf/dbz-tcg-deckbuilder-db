@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_02",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "02_Black Inactivity Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/02_Black Inactivity Drill.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Inactivity Drill",
+  "file_name": "Black Inactivity Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "6a8f372a18f04aaf78d1f249fa9b97ad165d4ade"
+ },
+ "vision": {
+  "id": "S04_BST_02",
+  "name": "Black Inactivity Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: At the start of each player's turn, that player chooses and destroys one of his Setups. Banish this Drill when there are no Setups in play.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.7,
+  "header_text": "4). [Le SS. SS\n; \\ : ig\nw ie & = (S\\ S205",
+  "stages_text": null,
+  "error": null
+ }
+}

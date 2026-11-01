@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_64",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "64_Earth Dragon Ball 4.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/64_Earth Dragon Ball 4.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Earth Dragon Ball 4",
+  "file_name": "Earth Dragon Ball 4",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d0fff2896e8b337df5c0ef44df97f30b4f8781a7"
+ },
+ "vision": {
+  "id": "S07_BST_64",
+  "name": "Earth Dragon Ball 4",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Destroy up to 2 Allies. Destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.3,
+  "header_text": "EARTH DRAGON BALL 4 U64",
+  "stages_text": ",\n3\n2",
+  "error": null
+ }
+}

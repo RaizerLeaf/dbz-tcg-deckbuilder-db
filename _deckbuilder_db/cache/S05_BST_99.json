@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_99",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "99_Saiyan Crunch.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/99_Saiyan Crunch.png",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Saiyan Crunch",
+  "file_name": "Saiyan Crunch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d0b5b3bf05e7fb9c27cbef9c4143d896ae86026f"
+ },
+ "vision": {
+  "id": "S05_BST_99",
+  "name": "Saiyan Crunch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. If your opponent passed in his last action this combat, this attack cannot be stopped.\nDAMAGE: 1 life card\nHIT: You may set your anger to 0 and banish 10 cards from your discard pile to choose a Styled attack in your discard pile and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "no period after '1 life card' as printed",
+  "_src": "S05.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "SATYAN CRUNCH €) U99\n“he, Gea \\\\\\\\\\ hwo",
+  "stages_text": "23\n5 4\n3,\n3,\n,",
+  "error": null
+ }
+}

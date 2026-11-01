@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S55",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S55_Orange Upward Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S55_Orange Upward Strike.png",
+  "prefix": "S",
+  "number": 55,
+  "card_number": "S55",
+  "name_part": "Orange Upward Strike",
+  "file_name": "Orange Upward Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "170fd719e5442480d9bee369ffb83f3b5044f88d"
+ },
+ "vision": {
+  "id": "S07_STR_S55",
+  "name": "Orange Upward Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Lower your opponent's anger X levels. X = the number of Drills you control.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_38; text compared on the sheet",
+  "_src": "S07.jsonl:238"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "ORANGE UPWARD STRIKE ) S55\n— OS ee ee",
+  "stages_text": ",",
+  "error": null
+ }
+}

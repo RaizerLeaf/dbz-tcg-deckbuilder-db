@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_101",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "101_Black Chin Kick.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/101_Black Chin Kick.jpg",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Black Chin Kick",
+  "file_name": "Black Chin Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ea2d5d4cf93829031d77886275b05d06f2b2b1e5"
+ },
+ "vision": {
+  "id": "S03_BST_101",
+  "name": "Black Chin Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat. HIT: Raise your anger X levels. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "BLACK CHIN KICK: () mio",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_10",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "10_Blue Static Blast.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/10_Blue Static Blast.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Static Blast",
+  "file_name": "Blue Static Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3a0952930ce1fecc275bfaea7b7f1f4fb6b133ab"
+ },
+ "vision": {
+  "id": "S12_BST_10",
+  "name": "Blue Static Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYour opponent cannot use Endurance on your Styled attacks this combat.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S12.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "BLUE STATIC BLAST () R10\nWay ila £ 404i ys",
+  "stages_text": "4,\n,\n,",
+  "error": null
+ }
+}

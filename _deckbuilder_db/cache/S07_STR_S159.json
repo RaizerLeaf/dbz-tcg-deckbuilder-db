@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S159",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S159_Red Frenzied Blasts.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S159_Red Frenzied Blasts.png",
+  "prefix": "S",
+  "number": 159,
+  "card_number": "S159",
+  "name_part": "Red Frenzied Blasts",
+  "file_name": "Red Frenzied Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f8920101baaae38193d9d0d8d273367443400699"
+ },
+ "vision": {
+  "id": "S07_STR_S159",
+  "name": "Red Frenzied Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S159",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S118; text compared on the sheet",
+  "_src": "S07.jsonl:342"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "RED FRENZIED BLASTS ) sts9\ny i El",
+  "stages_text": "",
+  "error": null
+ }
+}

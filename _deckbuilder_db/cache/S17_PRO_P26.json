@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P26",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P26_Red Retreat.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P26_Red Retreat.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Red Retreat",
+  "file_name": "Red Retreat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9fb8e4ce40d406b5a654ce791f5f385f3ba038cb"
+ },
+ "vision": {
+  "id": "S17_PRO_P26",
+  "name": "Red Retreat",
+  "sub": null,
+  "type": "Event",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\nPOWER: Search your Life Deck for a Drill and place it into play. You may banish a Drill you control. If you do, end combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S17.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "RED RETREAT () P26",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

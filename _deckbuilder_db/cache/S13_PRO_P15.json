@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P15",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P15_Buu - Gotenks Absorbed.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P15_Buu - Gotenks Absorbed.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Buu - Gotenks Absorbed",
+  "file_name": "Buu",
+  "file_subtitle": "Gotenks Absorbed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "31b086ee5ea44502cd318579f58923b235cd2557"
+ },
+ "vision": {
+  "id": "S13_PRO_P15",
+  "name": "Buu",
+  "sub": "Gotenks Absorbed",
+  "type": "Main Personality",
+  "num": "P15",
+  "lvl": 3,
+  "stages": [
+   13500000,
+   7000000,
+   2500000,
+   1900000,
+   1300000,
+   900000,
+   600000,
+   300000,
+   80000,
+   50000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand. Reveal that card instead.\nPOWER: Banish a Styled attack from your discard pile. Perform a copy of that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink); stats and text compared against S13_BST_47 on the sheet, identical",
+  "_src": "S13.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.1,
+  "header_text": "BUU\n(3 GOTENKS ABSORBED y -15\nLEVEL = =\n| a A. T_:.\na eT De",
+  "stages_text": "13,500,000\n7,000,000\n2,500,000\n1,900,000\n\n71,300,000\n,\n5900,000\n5\n300,000\n80,000\n50,000\n0",
+  "error": null
+ }
+}

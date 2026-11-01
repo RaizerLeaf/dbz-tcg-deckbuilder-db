@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S61",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S61_Blue Blockade.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S61_Blue Blockade.png",
+  "prefix": "S",
+  "number": 61,
+  "card_number": "S61",
+  "name_part": "Blue Blockade",
+  "file_name": "Blue Blockade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "933b30cc0344de4e511af5c2b014dea0202fdecd"
+ },
+ "vision": {
+  "id": "S04_STR_S61",
+  "name": "Blue Blockade",
+  "sub": null,
+  "type": "Setup",
+  "num": "S61",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U79; landscape layout",
+  "_src": "S04.jsonl:214"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 49.5,
+  "header_text": "fat =-> . B",
+  "stages_text": null,
+  "error": null
+ }
+}

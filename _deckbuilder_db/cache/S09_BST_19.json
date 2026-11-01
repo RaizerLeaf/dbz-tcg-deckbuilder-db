@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_19",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "19_Orange Lasso.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/19_Orange Lasso.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Lasso",
+  "file_name": "Orange Lasso",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a4f3e6c700e34f2b14b618a1de8f023a33e73613"
+ },
+ "vision": {
+  "id": "S09_BST_19",
+  "name": "Orange Lasso",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may draw a card. If you do, your opponent draws a card.\nDAMAGE: AT + 4 stages.\nHIT: Your Styled physical attacks deal +1 stage of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 85.6,
+  "header_text": "ORANGE LASSO C) U19\nee a",
+  "stages_text": "4\n3\n10,",
+  "error": null
+ }
+}

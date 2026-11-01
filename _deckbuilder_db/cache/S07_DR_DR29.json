@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR29",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR29_Trunks - Overwhelming.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR29_Trunks - Overwhelming.png",
+  "prefix": "DR",
+  "number": 29,
+  "card_number": "DR29",
+  "name_part": "Trunks - Overwhelming",
+  "file_name": "Trunks",
+  "file_subtitle": "Overwhelming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "21a689728e1a7773e11ce79e0ffbccf855481c48"
+ },
+ "vision": {
+  "id": "S07_DR_DR29",
+  "name": "Trunks",
+  "sub": "Overwhelming",
+  "type": "Main Personality",
+  "num": "DR29",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1550000,
+   1250000,
+   950000,
+   650000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title cannot be stopped and gain \"Raise your anger 1 level.\"\nPOWER: Skip your next 2 actions this combat. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P74 (with closing period inside the quote here)",
+  "_src": "S07.jsonl:175"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "TRUNKS a\n: OVERWHELMING eal DR29 ;\nNU BWAZWwW - ae",
+  "stages_text": "77\n1,850,000\n1,550,000\n1,250,000\n\n950,000\n\n650,000\n2000\n250,000\n150,000\n50,000\n25,000\n9",
+  "error": null
+ }
+}

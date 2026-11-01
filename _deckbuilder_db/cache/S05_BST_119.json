@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_119",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "119_Black Extreme Blast (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/119_Black Extreme Blast (CRD).png",
+  "prefix": null,
+  "number": 119,
+  "card_number": "119",
+  "name_part": "Black Extreme Blast",
+  "file_name": "Black Extreme Blast",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "628ae31d75bc80e030292c1c9150de21ee5670ac"
+ },
+ "vision": {
+  "id": "S05_BST_119",
+  "name": "Black Extreme Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nAttach to your MP. While attached, you may lower your opponent's anger 1 level whenever you destroy cards from your opponent's Life Deck. Banish this card when your opponent's MP changes levels.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "filename flag (CRD)",
+  "_src": "S05.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "BLACK EXTREME BLAST (> R119\nLp",
+  "stages_text": "4\n\n,\n\n,\n, ,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P9",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P9_Nail - Warrior.png",
+  "rel_path": "z_OP Series/OP1/P9_Nail - Warrior.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Nail - Warrior",
+  "file_name": "Nail",
+  "file_subtitle": "Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "09d33780d239c907bd8282136744c3ed4e875265"
+ },
+ "vision": {
+  "id": "OP1_OP_P9",
+  "name": "Nail",
+  "sub": "Warrior",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   30000,
+   20000,
+   15000,
+   12000,
+   9000,
+   7000,
+   5000,
+   3000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Whenever your opponent stops one of your attacks, destroy the top card of their Life Deck.\n[Instant] POWER: Use when you perform a Styled attack. Your MP pays 1 stage to make that attack gain \"If stopped, use this attack's HIT effects\" and \"Banish after use.\"",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); edge reads HERO -> MP; Trait badge N (orange)",
+  "_src": "OP.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "NAIL",
+  "stages_text": "30,000\n20,000\n15,000\n12,000\n\n5 9,000\n7,000\n5,000\n3,000\n\n2,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

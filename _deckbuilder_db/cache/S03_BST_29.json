@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_29",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "29_Namekian Reinforced Block.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/29_Namekian Reinforced Block.jpg",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Namekian Reinforced Block",
+  "file_name": "Namekian Reinforced Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dfa3051b7eae234dbb485af4ba949186b2aa907c"
+ },
+ "vision": {
+  "id": "S03_BST_29",
+  "name": "Namekian Reinforced Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops a physical attack. Your Dragon Balls cannot be captured this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.7,
+  "header_text": "NAMEKIAN REINFORCED: BLOCK () cea",
+  "stages_text": "4",
+  "error": null
+ }
+}

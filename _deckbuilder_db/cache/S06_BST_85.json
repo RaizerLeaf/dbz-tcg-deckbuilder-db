@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_85",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "85_Black Invitation.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/85_Black Invitation.jpg",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Black Invitation",
+  "file_name": "Black Invitation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1fd99807929d966223826fa7deea52392672c4e4"
+ },
+ "vision": {
+  "id": "S06_BST_85",
+  "name": "Black Invitation",
+  "sub": null,
+  "type": "Event",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Destroy the top 2 cards of your opponent's Life Deck. You may discard a Styled attack card with a printed HIT effect from your hand. If you do, use the printed HIT effect of that card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 0.93,
+  "lower_conf": 78.3,
+  "header_text": "BLACK INVITATION C) U85",
+  "stages_text": "7",
+  "error": null
+ }
+}

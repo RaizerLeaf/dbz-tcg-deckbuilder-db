@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_93",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "93_Red Dazing Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/93_Red Dazing Drill.jpg",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Red Dazing Drill",
+  "file_name": "Red Dazing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dd3fefd249679cad3a8d55fea11ecdeab1b697c6"
+ },
+ "vision": {
+  "id": "S03_BST_93",
+  "name": "Red Dazing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: When this Drill is leaving play, you may banish it to search your Life Deck for a copy of Red Dazing Drill and place it into your hand. The first time your anger is lowered during combat, your opponent skips his next action that combat.",
+  "conf": "high",
+  "review": null,
+  "note": "'Red Dazing Drill' in italics",
+  "_src": "S03.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "(RED DAZING DRILL (2",
+  "stages_text": "4",
+  "error": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR10",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR10_Orange Retribution Mastery (Frozen).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR10_Orange Retribution Mastery (Frozen).png",
+  "prefix": "DR",
+  "number": 10,
+  "card_number": "DR10",
+  "name_part": "Orange Retribution Mastery",
+  "file_name": "Orange Retribution Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "af9e70b0742381716da6a23d357a95b441e5da0b"
+ },
+ "vision": {
+  "id": "S07_DR_DR10",
+  "name": "Orange Retribution Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Continuous]: Whenever your MP changes levels, you may shuffle all Drills you control into their owner's Life Deck.\nPOWER: The next Styled attack you perform this combat has its power stage cost reduced to 0. Raise your anger up to 2 levels. If your MP has changed levels this combat, search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from filename",
+  "_src": "S07.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "aN N , ,—Cté«=~S\n} /\nWh -",
+  "stages_text": "4\n,\n0\n1,\n,\n,\n14",
+  "error": null
+ }
+}

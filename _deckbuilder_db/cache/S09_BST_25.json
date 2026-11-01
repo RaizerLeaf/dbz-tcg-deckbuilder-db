@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_25",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "25_Red Team Fire.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/25_Red Team Fire.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Team Fire",
+  "file_name": "Red Team Fire",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0347a49453a6fa33c8911a014dfc9486dadd2482"
+ },
+ "vision": {
+  "id": "S09_BST_25",
+  "name": "Red Team Fire",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nDestroy a Setup.\nDamage from this attack cannot be modified.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.5,
+  "header_text": "RED TEAM FIRE () C25\n» CO",
+  "stages_text": ",\n92,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_25",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "25_Red Expunge.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/25_Red Expunge.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Expunge",
+  "file_name": "Red Expunge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5ab2269708b405959ef2345ff154a791eecd40ad"
+ },
+ "vision": {
+  "id": "S12_BST_25",
+  "name": "Red Expunge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is banished by one of your effects, lower your opponent's anger 1 level.)\n[Attack] Energy attack costing 2 stages.\nYou may lower your anger 1 level. If you do, lower your opponent's anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "RED EXPUNGE () C25\ny",
+  "stages_text": "2\n1,\n,\n,",
+  "error": null
+ }
+}

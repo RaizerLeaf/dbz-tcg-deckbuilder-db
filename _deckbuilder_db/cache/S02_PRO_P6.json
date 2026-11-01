@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P6",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P6_Withering Fire.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P6_Withering Fire.jpg",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Withering Fire",
+  "file_name": "Withering Fire",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4338e8c7ee76d60a7912aaecd478bf0609059c79"
+ },
+ "vision": {
+  "id": "S02_PRO_P6",
+  "name": "Withering Fire",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R132; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.4,
+  "header_text": "eee _\nWITHERING FIRE cc () a)\n> gg.",
+  "stages_text": "",
+  "error": null
+ }
+}

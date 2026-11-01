@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P28",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P28_Namekian Double Strike.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P28_Namekian Double Strike.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Namekian Double Strike",
+  "file_name": "Namekian Double Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e75057866c6142f0923710400fdb641b8f34e918"
+ },
+ "vision": {
+  "id": "S13_PRO_P28",
+  "name": "Namekian Double Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, you may use a critical damage effect.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 87.8,
+  "header_text": "NAMEKIAN DOUBLE STRIKE ) P28.\nae a 7",
+  "stages_text": ",\n1\n2",
+  "error": null
+ }
+}

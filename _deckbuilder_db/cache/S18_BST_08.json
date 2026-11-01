@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_08",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "08_Blue Squad Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/08_Blue Squad Drill.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Squad Drill",
+  "file_name": "Blue Squad Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "da690d3451b83735b695df0c6aba929371fb7402"
+ },
+ "vision": {
+  "id": "S18_BST_08",
+  "name": "Blue Squad Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: [Trait:Alien]: Use at the start of your Rejuvenation Step. Search your discard pile for an Ally and Rejuvenate it.\n[Instant] POWER: Use when one of your effects puts an Ally into play. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; number area reads 'PREVIEW C8'; inline icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S18.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 78.4,
+  "header_text": "BLUE SQUAD DRILL Our",
+  "stages_text": null,
+  "error": null
+ }
+}

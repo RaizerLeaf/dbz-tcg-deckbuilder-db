@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_83",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "83_Saiyan Interruption.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/83_Saiyan Interruption.png",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Saiyan Interruption",
+  "file_name": "Saiyan Interruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6c30bf83ee77c070e1094adc68bcbe367aac8a23"
+ },
+ "vision": {
+  "id": "S04_BST_83",
+  "name": "Saiyan Interruption",
+  "sub": null,
+  "type": "Event",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(As an action, you may discard this card from your hand to perform a Styled physical attack dealing 5 stages of damage.)\n[Instant] POWER: Use when a card effect would end combat. Combat cannot be ended by card effects this turn. Your opponent skips his next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.4,
+  "header_text": "SAIYAN INTERRUPTION () U83\nes. ae . Fi — Ma",
+  "stages_text": "4\n,\n,\n5",
+  "error": null
+ }
+}

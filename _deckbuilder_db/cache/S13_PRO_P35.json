@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P35",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P35_Saiyan Menace.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P35_Saiyan Menace.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Saiyan Menace",
+  "file_name": "Saiyan Menace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "52ddae9e3bed587c8bcf89526c9ecc33d1a083b0"
+ },
+ "vision": {
+  "id": "S13_PRO_P35",
+  "name": "Saiyan Menace",
+  "sub": null,
+  "type": "Setup",
+  "num": "P35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, you may place it into play instead.)\nPOWER: All of your opponent's personalities lose 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S13.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.6,
+  "header_text": "SAIYAN MENACE @r35.",
+  "stages_text": null,
+  "error": null
+ }
+}

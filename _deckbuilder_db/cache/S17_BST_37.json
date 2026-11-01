@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_37",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "37_Cabba's Galick Cannon.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/37_Cabba's Galick Cannon.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Cabba's Galick Cannon",
+  "file_name": "Cabba's Galick Cannon",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ca0788ab9ae6a3968856a8ac7778743943c49664"
+ },
+ "vision": {
+  "id": "S17_BST_37",
+  "name": "Cabba's Galick Cannon",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] 2: Energy attack.\nRaise your anger 1. If damage from this attack is prevented, Rejuvenate 3. [Warning]: Unstoppable and damage from this attack is banished.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S17.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.967,
+  "lower_conf": 89.8,
+  "header_text": "CABBA'S GALICK CANNON () R37\np>",
+  "stages_text": "4,\n4\n,",
+  "error": null
+ }
+}

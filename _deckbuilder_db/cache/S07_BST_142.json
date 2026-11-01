@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_142",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "142_Assisted Kamehameha.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/142_Assisted Kamehameha.png",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Assisted Kamehameha",
+  "file_name": "Assisted Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a912016de8778d897967a6e8bf6622355a341cab"
+ },
+ "vision": {
+  "id": "S07_BST_142",
+  "name": "Assisted Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf your MP is a Saiyan, this attack cannot be stopped and its damage cannot be prevented.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; low-res image",
+  "_src": "S07.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": "ASSISTED KAMEHAMEHA € )uR142\nRSS ——,  » Eee) Zid",
+  "stages_text": "4\n4,\n\n,\n4\n,",
+  "error": null
+ }
+}

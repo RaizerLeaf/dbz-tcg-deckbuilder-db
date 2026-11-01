@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P6",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P6_Bojack - On the Move.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P6_Bojack - On the Move.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Bojack - On the Move",
+  "file_name": "Bojack",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "aa59bdeaf1b8d89a90d95fbe225c803c19956c67"
+ },
+ "vision": {
+  "id": "S12_PRO_P6",
+  "name": "Bojack",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   1250000,
+   1000000,
+   600000,
+   200000,
+   100000,
+   70000,
+   30000,
+   10000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use at the end of combat. Destroy an Ally or Setup you control to Rejuvenate 4.\nPOWER: [Attack] Energy attack costing 2 stages.\nYou may destroy a Named Ally or Named Setup you control. If you do, damage from this attack cannot be prevented.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1 level. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge A (purple); stats and text compared against S12_BST_45 on the sheet, identical",
+  "_src": "S12.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.3,
+  "header_text": "BOJACK\nN ON THE MOVE Qa 7s )\nLEVEL CST See eae” od, a z >.\naaa yn nnn",
+  "stages_text": "71,250,000\n1,000,000\n600,000\n200,000\n100,000\n70,000\n5 30,000\n10,000\n3,000\n1,000\n0\n\n, 1,",
+  "error": null
+ }
+}

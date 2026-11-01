@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_106",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "106_Blue Doze.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/106_Blue Doze.png",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Blue Doze",
+  "file_name": "Blue Doze",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b086cfa612918b552f99d6c995813ca0bc2e9741"
+ },
+ "vision": {
+  "id": "S07_BST_106",
+  "name": "Blue Doze",
+  "sub": null,
+  "type": "Setup",
+  "num": "R106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Destroy a Setup. If you control more Setups than your opponent, you may destroy all Setups.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "~ BLUE DOZE () R106\na. !!”™”™”~*~*~*~”~”*”*”*”*”*CZ a —a—————__——————",
+  "stages_text": null,
+  "error": null
+ }
+}

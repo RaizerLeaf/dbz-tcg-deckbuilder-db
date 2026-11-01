@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S133",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S133_Black Request.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S133_Black Request.png",
+  "prefix": "S",
+  "number": 133,
+  "card_number": "S133",
+  "name_part": "Black Request",
+  "file_name": "Black Request",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9e97ca46eccd32e23d1da930f1e1f0268c6776e5"
+ },
+ "vision": {
+  "id": "S07_STR_S133",
+  "name": "Black Request",
+  "sub": null,
+  "type": "Event",
+  "num": "S133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Look at the top 3 cards of your opponent's Life Deck and place them back in any order. If your next action is a Styled attack, it stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_08; text compared on the sheet",
+  "_src": "S07.jsonl:316"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "BLACK REQUEST —_—-~- ) $133 |",
+  "stages_text": "7 5\n7\n4",
+  "error": null
+ }
+}

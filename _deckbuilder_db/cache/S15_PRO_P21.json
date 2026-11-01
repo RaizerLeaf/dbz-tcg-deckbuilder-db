@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P21",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P21_Blue Absorption.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P21_Blue Absorption.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Blue Absorption",
+  "file_name": "Blue Absorption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "18265b151967ac5872e27759a35afc716c184c21"
+ },
+ "vision": {
+  "id": "S15_PRO_P21",
+  "name": "Blue Absorption",
+  "sub": null,
+  "type": "Event",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Prevent all damage from an attack.\nYou may discard a card from your hand to perform a copy of that attack for your next action.\n[Trait:Alien]: If you do, that attack is considered to deal critical damage. Raise or lower a player's anger 2.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black-and-white manga art; inline icon zoomed: purple A badge (Alien); no Endurance badge; same title as S11 BST_07 (different card)",
+  "_src": "S15.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 0.94,
+  "lower_conf": 91.6,
+  "header_text": "BLUE ABSORPTION",
+  "stages_text": "1\n73\n4 7\n7\n844\n2,",
+  "error": null
+ }
+}

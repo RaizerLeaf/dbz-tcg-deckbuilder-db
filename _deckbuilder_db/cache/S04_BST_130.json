@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_130",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "130_Android 20's Domination.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/130_Android 20's Domination.png",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Android 20's Domination",
+  "file_name": "Android 20's Domination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "88e1a9b4244454a1f7fadaafcb4c93c62afca3e3"
+ },
+ "vision": {
+  "id": "S04_BST_130",
+  "name": "Android 20's Domination",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYour opponent's personalities lose 1 stage. Name a card. Search your opponent's Life Deck for a copy of that card and banish it. At the end of combat, you may choose a non-Event card from your discard pile and place it on top of your Life Deck.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 0.984,
+  "lower_conf": 88.2,
+  "header_text": "ANDROID 20’S DOMINATION (=) R130",
+  "stages_text": "3\n\n,\n1,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_36",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "36_Cabba's Furious Charge.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/36_Cabba's Furious Charge.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Cabba's Furious Charge",
+  "file_name": "Cabba's Furious Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68bb3478319728238fd53478c6de5709b337524c"
+ },
+ "vision": {
+  "id": "S17_BST_36",
+  "name": "Cabba's Furious Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Heroes only.)\n[Attack] Physical attack.\nFocused. You are considered to have no cards in your hand for your effects this combat.\nDAMAGE: 6 stages.\nHIT: Raise your anger 2.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; filename says 'Furious Charge'; the card prints 'Furious Strike'",
+  "_src": "S17.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 87.3,
+  "header_text": "CABBA'S FURIOUS STRIKE ¢ ) R36 |\nyy Wii",
+  "stages_text": "4 1\n,",
+  "error": null
+ }
+}

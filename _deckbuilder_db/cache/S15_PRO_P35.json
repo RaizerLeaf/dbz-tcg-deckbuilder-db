@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P35",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P35_Saiyan Aerial Attack.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P35_Saiyan Aerial Attack.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Saiyan Aerial Attack",
+  "file_name": "Saiyan Aerial Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6fd344da931f8275e408894dc32484c762ba2d68"
+ },
+ "vision": {
+  "id": "S15_PRO_P35",
+  "name": "Saiyan Aerial Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck or discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'",
+  "_src": "S15.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 90.1,
+  "header_text": "SAIYAN AERIAL ATTACK @) P35\n{44 =—vu »f Gee",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

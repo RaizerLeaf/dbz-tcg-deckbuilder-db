@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S77",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S77_Blue Reprimand.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S77_Blue Reprimand.png",
+  "prefix": "S",
+  "number": 77,
+  "card_number": "S77",
+  "name_part": "Blue Reprimand",
+  "file_name": "Blue Reprimand",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3611002669e00458c4909e601718f9cb3286114d"
+ },
+ "vision": {
+  "id": "S04_STR_S77",
+  "name": "Blue Reprimand",
+  "sub": null,
+  "type": "Event",
+  "num": "S77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Return a Setup, Drill, or Dragon Ball in play to its owner's hand.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S46",
+  "_src": "S04.jsonl:230"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 69.5,
+  "header_text": "BLUE REPRIMAND\nyon ———e",
+  "stages_text": "",
+  "error": null
+ }
+}

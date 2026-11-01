@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_03",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "03_Black Remembrance Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/03_Black Remembrance Drill.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Remembrance Drill",
+  "file_name": "Black Remembrance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "7930183f34ea7319b8c82d25e449d51ab2ecd033"
+ },
+ "vision": {
+  "id": "S04_BST_03",
+  "name": "Black Remembrance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever an effect during combat destroys non-Dragon Ball cards from the top of a Life Deck, they are banished instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.2,
+  "header_text": "pel ns : ei Te fs a = — ~~\nSNe Se ee. ee | ~_ el",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P27",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P27_Orange Eruption.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P27_Orange Eruption.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Orange Eruption",
+  "file_name": "Orange Eruption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fed0b4f312a3ec53e1d8d9642252d41bfde202f3"
+ },
+ "vision": {
+  "id": "S16_PRO_P27",
+  "name": "Orange Eruption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Energy attack.\nRaise your anger 2. Lower your opponent's anger 2.\nDAMAGE: 2 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S16.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "ORANGE ERUPTION :\n—— li (",
+  "stages_text": "2,",
+  "error": null
+ }
+}

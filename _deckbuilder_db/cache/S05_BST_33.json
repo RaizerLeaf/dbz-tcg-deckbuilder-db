@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_33",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "33_Namekian Right Elbow.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/33_Namekian Right Elbow.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Namekian Right Elbow",
+  "file_name": "Namekian Right Elbow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "165caecdde529fe083b8e15150b112bb95cc063e"
+ },
+ "vision": {
+  "id": "S05_BST_33",
+  "name": "Namekian Right Elbow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: Destroy 2 Allies.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.6,
+  "header_text": "NAMEKIAN RIGHT ELBOW €= ) C33”",
+  "stages_text": "",
+  "error": null
+ }
+}

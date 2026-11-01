@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S56",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S56_Orange Enraged Bash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S56_Orange Enraged Bash.png",
+  "prefix": "S",
+  "number": 56,
+  "card_number": "S56",
+  "name_part": "Orange Enraged Bash",
+  "file_name": "Orange Enraged Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cfcdbc819f2a3e6e1cacd475c7940bb55ac83091"
+ },
+ "vision": {
+  "id": "S07_STR_S56",
+  "name": "Orange Enraged Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may search your discard pile for a Drill and Rejuvenate it.\nDAMAGE: AT +2 stages.\nHIT: You may search your Banished Zone for a Drill a Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_39; text compared on the sheet",
+  "_src": "S07.jsonl:239"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 77.0,
+  "header_text": "ORANGE ENRAGED BASH ) S56 |\nry) ken i « 2A",
+  "stages_text": "7\n7 4\n4\n7,\n2\n7\n7 ,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S35",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S35_Blue Outbreak.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S35_Blue Outbreak.png",
+  "prefix": "S",
+  "number": 35,
+  "card_number": "S35",
+  "name_part": "Blue Outbreak",
+  "file_name": "Blue Outbreak",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "02ed33730dde781616c11a1e5650faf0ce64e52a"
+ },
+ "vision": {
+  "id": "S07_STR_S35",
+  "name": "Blue Outbreak",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nYou may look at the top 3 cards of your Life Deck and place them back in any order.\nDAMAGE: 3 life cards +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_21; text compared on the sheet",
+  "_src": "S07.jsonl:218"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "BLUE OUTBREAK ) $35\n— ti",
+  "stages_text": "7\n1\n1",
+  "error": null
+ }
+}

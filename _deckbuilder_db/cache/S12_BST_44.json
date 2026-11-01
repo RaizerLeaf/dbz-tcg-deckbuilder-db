@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_44",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "44_Bojack - Looming Threat.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/44_Bojack - Looming Threat.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Bojack - Looming Threat",
+  "file_name": "Bojack",
+  "file_subtitle": "Looming Threat",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d51f5bc6e985abb766fb0ef8cc5817593c34fd29"
+ },
+ "vision": {
+  "id": "S12_BST_44",
+  "name": "Bojack",
+  "sub": "Looming Threat",
+  "type": "Main Personality",
+  "num": "S44",
+  "lvl": 1,
+  "stages": [
+   800000,
+   300000,
+   100000,
+   50000,
+   30000,
+   10000,
+   7000,
+   5000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Named Ally or Named Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S12.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "a |\n| | BOJACK",
+  "stages_text": "6800,000\n300,000\n100,000\n50,000\n30,000\n10,000\n7,000\n5,000\n\n2,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

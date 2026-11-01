@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_51",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "51_Saiyan Vacation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/51_Saiyan Vacation.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Saiyan Vacation",
+  "file_name": "Saiyan Vacation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bdf6ac58586a923b5fa771be46d4c2a99fb24d36"
+ },
+ "vision": {
+  "id": "S07_BST_51",
+  "name": "Saiyan Vacation",
+  "sub": null,
+  "type": "Setup",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: If you control no other Setups, search your Life Deck for a Styled or Named Setup and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S07.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "SAIYAN VACATION C) 051",
+  "stages_text": null,
+  "error": null
+ }
+}

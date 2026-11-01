@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_22",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "22_Orange Conference Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/22_Orange Conference Drill.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Orange Conference Drill",
+  "file_name": "Orange Conference Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bdb8037050cf54d426fdf76755a882bcd4f41f36"
+ },
+ "vision": {
+  "id": "S10_BST_22",
+  "name": "Orange Conference Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\n[Continuous]: Whenever you prevent damage from a non-Endurance source, increase the amount prevented by +2 life cards and +2 stages. When you are changing levels, you may banish this Drill. If you do, your other Drills are not discarded.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S10.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 75.2,
+  "header_text": "SRANGE CONFERENCE DRILL © F22\nre",
+  "stages_text": null,
+  "error": null
+ }
+}

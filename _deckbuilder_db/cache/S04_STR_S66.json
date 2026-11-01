@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S66",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S66_Blue Face Crunch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S66_Blue Face Crunch.png",
+  "prefix": "S",
+  "number": 66,
+  "card_number": "S66",
+  "name_part": "Blue Face Crunch",
+  "file_name": "Blue Face Crunch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "305d440b727efa107591ab7789ecd325b2f1a270"
+ },
+ "vision": {
+  "id": "S04_STR_S66",
+  "name": "Blue Face Crunch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S66",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nGain 3 stages. Look at your opponent's hand.\nDAMAGE: AT +5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 U80; title printed in gold",
+  "_src": "S04.jsonl:219"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "BLUE FACE CRUNCH ) S66 |\nYD",
+  "stages_text": "4\n\n,\n1,\n\n,",
+  "error": null
+ }
+}

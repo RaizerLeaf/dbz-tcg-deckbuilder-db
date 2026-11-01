@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P33",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P33_Goku - Confident.png",
+  "rel_path": "z_OP Series/OP4/P33_Goku - Confident.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Goku - Confident",
+  "file_name": "Goku",
+  "file_subtitle": "Confident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8a5243fce50b21273c006c4e8d32135087bf4f47"
+ },
+ "vision": {
+  "id": "OP4_OP_P33",
+  "name": "Goku",
+  "sub": "Confident",
+  "type": "Main Personality",
+  "num": "P33",
+  "lvl": 1,
+  "stages": [
+   1250000,
+   800000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(You may begin the game with \"Goku's Spirit Bomb\" attached.)\nPOWER: Gain 3 stages. Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); edge reads HERO -> MP; Trait badges E (blue), S (green)",
+  "_src": "OP.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "1 Goku\nLEVEL CONFIDENT () P33\nfee",
+  "stages_text": "1,250,000\n800,000\n400,000\n200,000\n100,000\n50,000\n25,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

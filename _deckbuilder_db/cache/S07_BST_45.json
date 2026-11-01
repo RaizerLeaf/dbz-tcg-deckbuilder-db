@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_45",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "45_Red Repel.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/45_Red Repel.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Repel",
+  "file_name": "Red Repel",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c5610175153045d68273a6b371d8295b5c674c78"
+ },
+ "vision": {
+  "id": "S07_BST_45",
+  "name": "Red Repel",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nRaise your anger 1 level. Your opponent's MP loses 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "RED REPEL () 045\nan 7. vie Lt",
+  "stages_text": "",
+  "error": null
+ }
+}

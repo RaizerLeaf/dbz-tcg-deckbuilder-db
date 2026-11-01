@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_55",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "55_Android 18 - Prepared.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/55_Android 18 - Prepared.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Android 18 - Prepared",
+  "file_name": "Android 18",
+  "file_subtitle": "Prepared",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ff4310409ee9ef951adb455f21c1bf0336f6d0f1"
+ },
+ "vision": {
+  "id": "S08_BST_55",
+  "name": "Android 18",
+  "sub": "Prepared",
+  "type": "Main Personality",
+  "num": "S55",
+  "lvl": 2,
+  "stages": [
+   650000,
+   500000,
+   450000,
+   300000,
+   250000,
+   150000,
+   100000,
+   80000,
+   60000,
+   9999,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage. At the start of each turn, you may look at the top 2 cards of your Life Deck and place any number of them on the top or bottom of your Life Deck.\nPOWER: [Attack] Energy attack.\nRejuvenate a card with \"Android\" in the title from your discard pile to use a critical damage effect.\nDAMAGE: 0 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; 9,999 stage as printed",
+  "_src": "S08.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 74.5,
+  "header_text": "@ ANDROID 18\nLEVEL PREPARED () 599\nWH iW Ty mf",
+  "stages_text": "650,000\n500,000\n450,000\n300,000\n250,000\n150,000\n100,000\n80,000\n60,000\n9,999\n\n0",
+  "error": null
+ }
+}

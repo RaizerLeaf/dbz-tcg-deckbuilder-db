@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_49",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "49_Yakon - Beastly.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/49_Yakon - Beastly.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Yakon - Beastly",
+  "file_name": "Yakon",
+  "file_subtitle": "Beastly",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "25b2ccb8a70f5f46e09554a34f589dc6c3023aba"
+ },
+ "vision": {
+  "id": "S11_BST_49",
+  "name": "Yakon",
+  "sub": "Beastly",
+  "type": "Ally",
+  "num": "U49",
+  "lvl": 1,
+  "stages": [
+   200000,
+   150000,
+   75000,
+   35000,
+   10000,
+   3000,
+   2000,
+   1000,
+   700,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Majin"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nIf your MP has [Trait:Majin], this attack deals +1 life card of damage.\nDAMAGE: 0 life cards.\nHIT: Rejuvenate X. X = the number of other [Trait:Majin] Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badges A + M; PUR 2",
+  "_src": "S11.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.892,
+  "lower_conf": 79.5,
+  "header_text": "YAKON",
+  "stages_text": "200,000\n150,000\n75,000\n35,000\n10,000\n7 3,000\n2,000\n1,000\n700\n500\n\n0",
+  "error": null
+ }
+}

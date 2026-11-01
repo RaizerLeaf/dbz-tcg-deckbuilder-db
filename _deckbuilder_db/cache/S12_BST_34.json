@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_34",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "34_Legendary Blast.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/34_Legendary Blast.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Legendary Blast",
+  "file_name": "Legendary Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "99272ad5ab91b854f31653fcf243d8c6e099003b"
+ },
+ "vision": {
+  "id": "S12_BST_34",
+  "name": "Legendary Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You may banish this card from your hand when an opponent's effect would discard a card from your hand to draw a card instead. Your opponent's effects cannot discard cards from your hand this combat.)\n[Attack] Energy attack.\nLower your opponent's anger 2 levels.\nDAMAGE: 3 life cards.\nHIT: Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 0.983,
+  "lower_conf": 86.8,
+  "header_text": "LEGENDARY BLAST ) R34\nON ee ae NNN",
+  "stages_text": ",",
+  "error": null
+ }
+}

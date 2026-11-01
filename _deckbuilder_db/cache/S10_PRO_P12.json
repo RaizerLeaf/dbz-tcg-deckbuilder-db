@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P12",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P12_Videl - Battle Hardened.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P12_Videl - Battle Hardened.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Videl - Battle Hardened",
+  "file_name": "Videl",
+  "file_subtitle": "Battle Hardened",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ac4f71716b83f0e9bc12f820e61be6b71efa5481"
+ },
+ "vision": {
+  "id": "S10_PRO_P12",
+  "name": "Videl",
+  "sub": "Battle Hardened",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 4,
+  "stages": [
+   350,
+   300,
+   290,
+   280,
+   270,
+   250,
+   220,
+   200,
+   100,
+   50,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: When you perform an attack, your AT is considered to be 5 for that attack or it gains \"HIT: Destroy the top 2 cards of your opponent's Life Deck.\"\nPOWER: [Attack] Physical attack.\nGain 10 stages or Rejuvenate 3.\nDAMAGE: AT + 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same as S10 S93",
+  "_src": "S10.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.2,
+  "header_text": "y VIDEL\na BATTLE HARDENED =\n\\",
+  "stages_text": "350\n\n300\n\n290\n\n280\n\n270\n0\n\n250\n\n220\n\n200\n\n100\n\n50\n\n0",
+  "error": null
+ }
+}

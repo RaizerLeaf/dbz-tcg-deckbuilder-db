@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P3",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P3_Orange Power Point.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P3_Orange Power Point.jpg",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Orange Power Point",
+  "file_name": "Orange Power Point",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "95dc3d1bd3f4da62ef17ee2a9ff9c2946433e83e"
+ },
+ "vision": {
+  "id": "S03_PRO_P3",
+  "name": "Orange Power Point",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. HIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S116; text compared on the sheet, identical",
+  "_src": "S03.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "[ORANGE POWER POINT (=\nSan \\ Vv",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

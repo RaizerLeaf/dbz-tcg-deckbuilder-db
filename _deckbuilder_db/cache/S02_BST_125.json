@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_125",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "125_Red Combined Blast.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/125_Red Combined Blast.jpg",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Red Combined Blast",
+  "file_name": "Red Combined Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1ada797f3bc101ce21a53b368ca7920600d4fc5b"
+ },
+ "vision": {
+  "id": "S02_BST_125",
+  "name": "Red Combined Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Attack] Energy attack costing 3 stages. DAMAGE: 6 life cards. Raise your anger 1 level. You may lower your anger 3 levels. If you do, your opponent cannot play Events this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "(RED COMBINED BLAST (as\nCpe geeupe vy",
+  "stages_text": "3",
+  "error": null
+ }
+}

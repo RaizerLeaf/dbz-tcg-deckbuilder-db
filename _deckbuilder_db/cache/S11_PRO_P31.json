@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P31",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P31_Crushing Beam.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P31_Crushing Beam.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Crushing Beam",
+  "file_name": "Crushing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67beb4c7f059107115e579d278bda036d2a52582"
+ },
+ "vision": {
+  "id": "S11_PRO_P31",
+  "name": "Crushing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Heroes only.)\n[Attack] Energy attack costing 3 stages.\nDamage from this attack is banished.\nDAMAGE: 6 life cards.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 79.3,
+  "header_text": "CRUSHING BEAM () P31",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

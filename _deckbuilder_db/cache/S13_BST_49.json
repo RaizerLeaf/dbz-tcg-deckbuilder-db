@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_49",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "49_Gohan - Enhanced.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/49_Gohan - Enhanced.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Gohan - Enhanced",
+  "file_name": "Gohan",
+  "file_subtitle": "Enhanced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1dff0e62e287a749db95019d8977eddc407866a7"
+ },
+ "vision": {
+  "id": "S13_BST_49",
+  "name": "Gohan",
+  "sub": "Enhanced",
+  "type": "Main Personality",
+  "num": "S49",
+  "lvl": 1,
+  "stages": [
+   3500000,
+   2000000,
+   1000000,
+   700000,
+   300000,
+   100000,
+   50000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use after you Rejuvenate during combat. Raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level. Search your discard pile for a Styled card and Rejuvenate it.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S13.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "1 GOHAN\nLEVEL ENHANCED () 549\n—Vv wp - yo,",
+  "stages_text": "3,500,000\n2,000,000\n1,000,000\n700,000\n300,000\n100,000\n50,000\n10,000\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

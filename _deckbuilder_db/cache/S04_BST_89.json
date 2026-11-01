@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_89",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "89_Android 20 - Focused.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/89_Android 20 - Focused.png",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Android 20 - Focused",
+  "file_name": "Android 20",
+  "file_subtitle": "Focused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b13d82d8204644853ea4e783afea8b6489cc6be9"
+ },
+ "vision": {
+  "id": "S04_BST_89",
+  "name": "Android 20",
+  "sub": "Focused",
+  "type": "Main Personality",
+  "num": "U89",
+  "lvl": 1,
+  "stages": [
+   90000,
+   80000,
+   70000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: Your opponent reveals his hand. You may pay 3 stages. If you do, your opponent's MP loses 3 stages and you may search your Life Deck for a non-Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 personality layout; edge reads VILLAIN -> MP",
+  "_src": "S04.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "L ANDROID 20\nLEVEL FOCUSED () U89\n- 7 , ww !",
+  "stages_text": "90,000\n80,000\n70,000\n60,000\n40,000\n20,000\n10,000\n5,000\n\n2,500\n\n1,250\n0",
+  "error": null
+ }
+}

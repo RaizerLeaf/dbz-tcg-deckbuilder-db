@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P27",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P27_Namekian Confident Burst.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P27_Namekian Confident Burst.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Namekian Confident Burst",
+  "file_name": "Namekian Confident Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f15adf3330a284201db184005b820269a42b1fda"
+ },
+ "vision": {
+  "id": "S13_PRO_P27",
+  "name": "Namekian Confident Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Attack] 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for an Ally and place it into play at 4 stages above 0. If you have Gohan in play, instead search your Life Deck and discard pile for a total of 2 Allies and place them into play at their highest power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; no Endurance badge",
+  "_src": "S13.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 0.983,
+  "lower_conf": 92.3,
+  "header_text": "NAMEKIAN CONFIDENT BURST C) P27",
+  "stages_text": "5\n1",
+  "error": null
+ }
+}

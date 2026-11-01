@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_30",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "30_Red Charged Ball.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/30_Red Charged Ball.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Red Charged Ball",
+  "file_name": "Red Charged Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a912b7552fc2b6daace3d28ba486974782120ba1"
+ },
+ "vision": {
+  "id": "S16_BST_30",
+  "name": "Red Charged Balls",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Red Charged Balls\" attached. If this card is banished from your Life Deck, attach it to your MP.)\n[Attack] 1: Energy attack.\nWhile attached, your Styled attacks deal +1 stage. [Warning]: Raise your anger 2.\nDAMAGE: 3 stages.\nHIT: Rejuvenate 1. [Trait:Alien]: Rejuvenate 3 instead.",
+  "conf": "high",
+  "review": null,
+  "note": "filename says 'Red Charged Ball'; the card prints 'Balls'; stage cost printed as '1:'; inline icon zoomed: purple A badge (Alien); black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.94,
+  "lower_conf": 92.9,
+  "header_text": "RED CHARGED BALLS () R3\nLLS_ 0\n<< o_",
+  "stages_text": "6\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P17",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P17_Black Swagger Blast.png",
+  "rel_path": "z_OP Series/OP3/P17_Black Swagger Blast.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Black Swagger Blast",
+  "file_name": "Black Swagger Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "75db1825bbc2fcbebe914e8b1de817025ddcfa08"
+ },
+ "vision": {
+  "id": "OP3_OP_P17",
+  "name": "Black Swagger Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is revealed from your hand, gain 5 stages and lower a player's anger 1 level.)\n[Attack] Energy attack costing 2 stages.\nRaise a player's anger 1 level. [Trait:Earthling]: If you have 2 or less Traits, Endurance cannot be used on this attack.\nDAMAGE: 5 life cards.\nHIT: Your next Styled attack this combat is considered to deal critical damage.\n(Banish after use.)\n(Created by Wayne Bettis, OP3 South Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); inline icon zoomed: blue Capsule Corp E badge (Earthling); prints a design credit line; no Endurance badge",
+  "_src": "OP.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 92.8,
+  "header_text": "BLACK SWAGGER BLAST\n\\-N|AMW) aetna",
+  "stages_text": "7\n\n,\n,\n1,\n2\n,",
+  "error": null
+ }
+}

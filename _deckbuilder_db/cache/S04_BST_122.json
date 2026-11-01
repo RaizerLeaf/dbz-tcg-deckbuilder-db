@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_122",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "122_Saiyan Tracking Blast.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/122_Saiyan Tracking Blast.png",
+  "prefix": null,
+  "number": 122,
+  "card_number": "122",
+  "name_part": "Saiyan Tracking Blast",
+  "file_name": "Saiyan Tracking Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "f8a8bc6d3eeeff3293ff68680356f900971855c0"
+ },
+ "vision": {
+  "id": "S04_BST_122",
+  "name": "Saiyan Tracking Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R122",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(You cannot win by MPPV if you use this card.)\n[Attack] Energy attack costing 3 stages.\nAttach this card to your MP. While attached, your opponent's effects cannot lower your MP's personality level. Banish this card after you opponent uses an effect that would have lowered your MP a personality level.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "'after you opponent' as printed",
+  "_src": "S04.jsonl:122"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 88.2,
+  "header_text": "SAIYAN TRACKING BLAST R122",
+  "stages_text": ",\n7\n,",
+  "error": null
+ }
+}

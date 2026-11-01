@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR25",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR25_Black Conflict Mastery.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR25_Black Conflict Mastery.png",
+  "prefix": "DR",
+  "number": 25,
+  "card_number": "DR25",
+  "name_part": "Black Conflict Mastery",
+  "file_name": "Black Conflict Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5d3cea0beea97f075289a0988157054b9cbb7cec"
+ },
+ "vision": {
+  "id": "S07_DR_DR25",
+  "name": "Black Conflict Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks that deal at least 4 life cards of damage are considered to deal critical damage.\nPOWER: Discard a card from your hand. If that card was Styled, your MP gains 6 stages or you may raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; name from filename and S14 P18",
+  "_src": "S07.jsonl:171"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "(17 AS\n\nA ! iv |\n4 ( /\n\nM/)L\n\n4 : Ve 4",
+  "stages_text": "7\n4 2\n, 3",
+  "error": null
+ }
+}

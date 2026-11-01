@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P20",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P20_Black Dash.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P20_Black Dash.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Black Dash",
+  "file_name": "Black Dash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a3f58331c166317b92b03a657e0112b6dc56a43f"
+ },
+ "vision": {
+  "id": "S15_PRO_P20",
+  "name": "Black Dash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 2.\nDAMAGE: AT + 2 stages.\nHIT: You may search your opponent's Life Deck for an Ally that isn't already in play and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 89.2,
+  "header_text": "BLACK DASH | ) P20 |",
+  "stages_text": "4",
+  "error": null
+ }
+}

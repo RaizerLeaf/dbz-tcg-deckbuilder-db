@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_138",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "138_Mercenary Tao's Puzzles.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/138_Mercenary Tao's Puzzles.png",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Mercenary Tao's Puzzles",
+  "file_name": "Mercenary Tao's Puzzles",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43a1a3fca80ca3360129187a0a8dc920447345a8"
+ },
+ "vision": {
+  "id": "S07_BST_138",
+  "name": "Mercenary Tao's Puzzles",
+  "sub": null,
+  "type": "Event",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical or energy attack.)\nPOWER: Banish the top card of your Life Deck. Your opponent must pass for his or her next action this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.1,
+  "header_text": "MERCENARY TAO'S PUZZLES ) R138\n| (Oe",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_40",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "40_Gotenks' Ghost Kamikaze Attack.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/40_Gotenks' Ghost Kamikaze Attack.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Gotenks' Ghost Kamikaze Attack",
+  "file_name": "Gotenks' Ghost Kamikaze Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "28f39be01c918b28873eea80e8321bb3558a96bb"
+ },
+ "vision": {
+  "id": "S13_BST_40",
+  "name": "Gotenks' Ghost Kamikaze Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is destroyed or banished from your Life Deck by one of your effects, you may banish it to draw a card.)\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Search your Life Deck or discard pile for an Ally with \"Ghost\" in the title and play it.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named",
+  "_src": "S13.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 92.4,
+  "header_text": "GOTENKS' GHOST KAMIKAZE ATTACK @a ) R40\n» » Ove ye",
+  "stages_text": ",\n439\n3\n,\n,",
+  "error": null
+ }
+}

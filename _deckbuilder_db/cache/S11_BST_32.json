@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_32",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "32_Halt.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/32_Halt.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Halt",
+  "file_name": "Halt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "60303564124fb3e74a2b4b4bd1aaf0b345bc9936"
+ },
+ "vision": {
+  "id": "S11_BST_32",
+  "name": "Halt",
+  "sub": null,
+  "type": "Event",
+  "num": "UR32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Instant] POWER: [Trait:God]: If you have 2 or less Traits, use when an Event is played or a Setup Power is used. Cancel the effects of that card.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; inline icon zoomed: gold G badge (God)",
+  "_src": "S11.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 92.1,
+  "header_text": "I 35 [fF Foe 1 ai ee PY [Pte\n| HALT () UR32 |\nant, te CAC EEE fC",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

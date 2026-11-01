@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P2",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P2_Blinding Energy Move.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P2_Blinding Energy Move.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Blinding Energy Move",
+  "file_name": "Blinding Energy Move",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cf0f84d64b2142b32ca308301c5d8b0bfad40a32"
+ },
+ "vision": {
+  "id": "S05_PRO_P2",
+  "name": "Blinding Energy Move",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You must banish the top 2 cards of your Life Deck to play this card.)\n[Attack] Energy attack.\nAt the beginning of the next action this combat, end combat.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo reprint of S01 U109",
+  "_src": "S05.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.1,
+  "header_text": "BLINDING ENERGY MOVE €@) P2 |\na . ye",
+  "stages_text": "",
+  "error": null
+ }
+}

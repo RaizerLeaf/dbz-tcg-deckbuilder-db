@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_51",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "51_Kid Trunks' Energy Burst.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/51_Kid Trunks' Energy Burst.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Kid Trunks' Energy Burst",
+  "file_name": "Kid Trunks' Energy Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8e5b4e0d75b7eba729261b4a5ab5be8b7cb84570"
+ },
+ "vision": {
+  "id": "S10_BST_51",
+  "name": "Kid Trunks' Energy Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Lower your opponent's anger 1 level. Your opponent skips their next action this combat.\nDAMAGE: 5 life cards.\nHIT: You may discard a card from your hand to search your discard pile for a Styled Energy Combat card and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 0.983,
+  "lower_conf": 88.5,
+  "header_text": "KID TRUNKS' ENERGY BURST @ ) R51 |\n\\V\\ ii WI nn ss at Ss",
+  "stages_text": "7\n3\n\n7\n\n,",
+  "error": null
+ }
+}

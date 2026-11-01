@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_30",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "30_Namekian Buffer.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/30_Namekian Buffer.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Namekian Buffer",
+  "file_name": "Namekian Buffer",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b9df66f79afc3425ab1c43da86c9d3cf3cafede2"
+ },
+ "vision": {
+  "id": "S07_BST_30",
+  "name": "Namekian Buffer",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops an energy attack.\nRejuvenate 3.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 64.1,
+  "header_text": "NAMEKIAN BUFFER ) 630 |\nmo —\\ *'\\e",
+  "stages_text": "4",
+  "error": null
+ }
+}

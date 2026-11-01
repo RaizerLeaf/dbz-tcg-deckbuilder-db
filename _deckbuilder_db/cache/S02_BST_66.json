@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_66",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "66_Raditz - Triumphant.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/66_Raditz - Triumphant.jpg",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Raditz - Triumphant",
+  "file_name": "Raditz",
+  "file_subtitle": "Triumphant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "169c993dd9b38338eccb27b140e09d1a890a1ad5"
+ },
+ "vision": {
+  "id": "S02_BST_66",
+  "name": "Raditz",
+  "sub": "Triumphant",
+  "type": "Main Personality",
+  "num": "U66",
+  "lvl": 4,
+  "stages": [
+   22000,
+   21000,
+   20000,
+   19000,
+   18000,
+   17000,
+   16000,
+   15000,
+   14000,
+   13000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your Setups or Drills enters play, choose a card in your discard pile and Rejuvenate it. The first time you use a critical damage effect each combat, you may search your Life Deck or discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "4 RADITZ en () USS\nLEVEl TE —",
+  "stages_text": "22,000\n21,000\n20,000\n19,000\n18,000\n17,000\n16,000\n15,000\n14,000\n13,000\n\n0",
+  "error": null
+ }
+}

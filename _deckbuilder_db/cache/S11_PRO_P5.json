@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P5",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P5_Buu - Playful.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P5_Buu - Playful.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Buu - Playful",
+  "file_name": "Buu",
+  "file_subtitle": "Playful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2f0c06c01aa9e8d9050099f0596ecad8b26d8074"
+ },
+ "vision": {
+  "id": "S11_PRO_P5",
+  "name": "Buu",
+  "sub": "Playful",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   2000000,
+   1500000,
+   1000000,
+   800000,
+   500000,
+   300000,
+   100000,
+   50000,
+   25000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(At the start of the game, you may search your Life Deck for all copies of \"Buu's Candy,\" \"Buu's Chocolate,\" and \"Buu's Cookie\" and banish them.)\n[Continuous]: Your opponent's attacks deal -1 stage of damage.\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level. Rejuvenate 1.\nDAMAGE: 3 stages.\nHIT: You may discard a card from your hand to draw a card or Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badges M; stats and text compared against S11_BST_55 on the sheet, identical",
+  "_src": "S11.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.8,
+  "header_text": "BUU r\n1 PLAYFUL Ne\n\\ LEVEL he Fa mn as ~~ Lary.\n| ‘Fz\n— Se eae >  . Innn nnn",
+  "stages_text": "2,000,000\n1,500,000\n800,000\n2,500,000\n, 100,000\n50,000\n25,000\n5,000",
+  "error": null
+ }
+}

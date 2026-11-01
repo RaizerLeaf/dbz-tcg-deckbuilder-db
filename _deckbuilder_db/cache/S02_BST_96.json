@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_96",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "96_Saiyan Right Blast.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/96_Saiyan Right Blast.jpg",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Saiyan Right Blast",
+  "file_name": "Saiyan Right Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3d987798db03e2f7e32e637db79301c1981d610b"
+ },
+ "vision": {
+  "id": "S02_BST_96",
+  "name": "Saiyan Right Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Lower your opponent's anger 1 level. HIT: If your MP is a higher personality level than your opponent's MP, Styled cards in your Life Deck without Endurance gain \"Endurance 1\" this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "(SALYAN RIGHT BLAST (2",
+  "stages_text": "7\n,\n4",
+  "error": null
+ }
+}

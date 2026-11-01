@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_101",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "101_Black Impatience.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/101_Black Impatience.jpg",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Black Impatience",
+  "file_name": "Black Impatience",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "0ba6151493188633c38b25c428aa6299c2cd6099"
+ },
+ "vision": {
+  "id": "S06_BST_101",
+  "name": "Black Impatience",
+  "sub": null,
+  "type": "Setup",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Attach to a Setup, Drill, or Ally that your opponent controls. While attached, your opponent banishes the top card of his Life Deck at the end of each turn.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.6,
+  "header_text": "BLACK IMPATIENCE () R101\n(mm 2 EE SS",
+  "stages_text": null,
+  "error": null
+ }
+}

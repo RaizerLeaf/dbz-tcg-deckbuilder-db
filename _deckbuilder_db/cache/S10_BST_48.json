@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_48",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "48_Goten's Rock Throw.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/48_Goten's Rock Throw.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Goten's Rock Throw",
+  "file_name": "Goten's Rock Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "64d6caba8f3ee35cd8425035532c237323fc09ca"
+ },
+ "vision": {
+  "id": "S10_BST_48",
+  "name": "Goten's Rock Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nFor the remainder of combat, you may banish a Styled Drill you control and destroy the top 2 cards of your Life Deck as an action to perform a non-Styled physical attack dealing AT + 3 stages of damage.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 88.0,
+  "header_text": "GOTEN'S ROCK THROW ‘\na | °",
+  "stages_text": "3\n4\n347 1\n,\n4",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_97",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "97_Saiyan Freedom.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/97_Saiyan Freedom.jpg",
+  "prefix": null,
+  "number": 97,
+  "card_number": "97",
+  "name_part": "Saiyan Freedom",
+  "file_name": "Saiyan Freedom",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a2aa9c1d2f917fe307a5ab3e47a65cc54b62d4cc"
+ },
+ "vision": {
+  "id": "S03_BST_97",
+  "name": "Saiyan Freedom",
+  "sub": null,
+  "type": "Setup",
+  "num": "U97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your Life Deck for a Named Setup and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.9,
+  "header_text": "SAIYAN FREEDOM. () Us?\nfe 7",
+  "stages_text": "",
+  "error": null
+ }
+}

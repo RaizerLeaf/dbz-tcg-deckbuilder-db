@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P41",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P41_On The Move!.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P41_On The Move!.png",
+  "prefix": "P",
+  "number": 41,
+  "card_number": "P41",
+  "name_part": "On The Move!",
+  "file_name": "On The Move!",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "229e35e727b00d9ee46f6261331df9119e80e5da"
+ },
+ "vision": {
+  "id": "S15_PRO_P41",
+  "name": "On The Move!",
+  "sub": null,
+  "type": "Event",
+  "num": "P41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand when an effect would cause a player to skip or pass an action to cancel that effect.)\n[Defense] POWER: Stops a physical or energy attack.\nIf that attack was a Physical Combat or Energy Combat card, return it to your opponent's hand. Draw a card. Gain 2 stages or your opponent loses 2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge; printed 'On The Move!' (capital T), the S11 booster prints 'On the Move!'",
+  "_src": "S15.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 0.985,
+  "lower_conf": 90.8,
+  "header_text": "ON THE MOVE! : ) P41",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

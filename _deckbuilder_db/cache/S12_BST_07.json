@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_07",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "07_Blue Sword Mastery Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/07_Blue Sword Mastery Drill.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Sword Mastery Drill",
+  "file_name": "Blue Sword Mastery Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b016b90dd5d7f78a4a30bdad6b2546080f262aa8"
+ },
+ "vision": {
+  "id": "S12_BST_07",
+  "name": "Blue Sword Mastery Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card enters play during combat, if it is the first time a card titled \"Blue Sword Mastery Drill\" has entered play this turn then you may search your discard pile for an attack with \"Sword\" in the title and place it into your hand.)\n[Continuous]: Whenever you play a card with \"Sword\" in the title, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S12.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "3LUE SWORD MASTERY DRILL & U7 |\na, a es",
+  "stages_text": null,
+  "error": null
+ }
+}

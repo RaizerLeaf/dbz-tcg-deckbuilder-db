@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_146",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "146_Villainous Energy Sphere.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/146_Villainous Energy Sphere.png",
+  "prefix": null,
+  "number": 146,
+  "card_number": "146",
+  "name_part": "Villainous Energy Sphere",
+  "file_name": "Villainous Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "98b9f3d484676dbfdf4dc7babd14ef1cccd3c9ea"
+ },
+ "vision": {
+  "id": "S07_BST_146",
+  "name": "Villainous Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "UR146",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Your opponent destroys the top card of his or her Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; reprint of S01 UR164 ('his or her')",
+  "_src": "S07.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": "VILLAINOUS ENERGY SPHERE unas",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

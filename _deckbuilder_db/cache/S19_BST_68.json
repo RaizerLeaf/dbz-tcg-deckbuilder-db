@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_68",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "68_Buu - Fighting Fit.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/68_Buu - Fighting Fit.png",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Buu - Fighting Fit",
+  "file_name": "Buu",
+  "file_subtitle": "Fighting Fit",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e065a808f11215dda69e6f0f18435093a39ac2cc"
+ },
+ "vision": {
+  "id": "S19_BST_68",
+  "name": "Buu",
+  "sub": "Fighting Fit",
+  "type": "Main Personality",
+  "num": "S68",
+  "lvl": 4,
+  "stages": [
+   9999000,
+   6666000,
+   4444000,
+   2555000,
+   1222000,
+   888000,
+   666000,
+   444000,
+   222000,
+   88000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your attacks deal +2 stages and +2 life cards.\nPOWER: [Attack] Physical attack.\nRejuvenate all Allies from your discard pile and Banished Zone. Lower a player's anger 1.\nDAMAGE: 5 stages.\nHIT: Search your Life Deck for an Ally and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge M (pink)",
+  "_src": "S19.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 76.5,
+  "header_text": "BUU",
+  "stages_text": "7 9,999,000\n6,666,000\n4,444,000\n2,555,000\n\n1,222,000\n\n888,000\n\n6666,000\n\n444,000\n222,000\n88,000\n0",
+  "error": null
+ }
+}

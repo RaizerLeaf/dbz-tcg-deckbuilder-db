@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_07",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "07_Blue Resourceful Mastery.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/07_Blue Resourceful Mastery.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Resourceful Mastery",
+  "file_name": "Blue Resourceful Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5e2460779614215fe084363b4560897201668bac"
+ },
+ "vision": {
+  "id": "S10_BST_07",
+  "name": "Blue Resourceful Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 stage of damage. Your Styled attacks without \"anger\" printed in the text-box gain \"HIT: Raise or lower your opponent's anger 1 level.\"\n[Instant] POWER: Use when your opponent's MP changes levels from one of your cards or effects. Draw a card.\nPOWER: Discard a Styled card from your hand to perform a non-Styled physical attack dealing 3 stages of damage. If you discarded a Setup or Drill that can perform an attack, you may place it into play instead.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip sits below the art (read from a crop of the original); DR (alternate-art tier) number printed",
+  "_src": "S10.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "bom\nwe Ge",
+  "stages_text": "2\n\n7\n,\n27\n1\n,",
+  "error": null
+ }
+}

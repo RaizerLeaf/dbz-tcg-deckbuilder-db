@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_75",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "75_Android 16 - Unmoving.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/75_Android 16 - Unmoving.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Android 16 - Unmoving",
+  "file_name": "Android 16",
+  "file_subtitle": "Unmoving",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "83ef2217bde68e8a8caf8122e29a983845235785"
+ },
+ "vision": {
+  "id": "S05_BST_75",
+  "name": "Android 16",
+  "sub": "Unmoving",
+  "type": "Ally",
+  "num": "U75",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: If your MP has \"Android\" in the title, your opponent's attacks deal -2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S05.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.2,
+  "header_text": "ANDROID 16\nLEVEL UNMOVING () U75\n[_ es =",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

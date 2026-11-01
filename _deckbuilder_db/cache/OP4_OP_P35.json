@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P35",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P35_Raditz - Brutal.png",
+  "rel_path": "z_OP Series/OP4/P35_Raditz - Brutal.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Raditz - Brutal",
+  "file_name": "Raditz",
+  "file_subtitle": "Brutal",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "342ebc75d22d6d8c390101267af75d34397e3983"
+ },
+ "vision": {
+  "id": "OP4_OP_P35",
+  "name": "Raditz",
+  "sub": "Brutal",
+  "type": "Main Personality",
+  "num": "P35",
+  "lvl": 2,
+  "stages": [
+   13000,
+   12500,
+   12000,
+   11500,
+   11000,
+   10500,
+   10000,
+   9500,
+   9000,
+   8500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: Banish the top 2 cards of your opponent's discard pile. Your opponent discards a card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "OP.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.0,
+  "header_text": "=} RADITZ\n; LEVEL | BRUTAL P35",
+  "stages_text": "13,000\n12,500\n12,000\n11,500\n11,000\n,\n10,500\n10,000\n9,500\n9,000\n8,500\n0",
+  "error": null
+ }
+}

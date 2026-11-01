@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P10",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P10_Frieza - Revived.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P10_Frieza - Revived.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Frieza - Revived",
+  "file_name": "Frieza",
+  "file_subtitle": "Revived",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d2872888f63217ab5bb05cd48d228efc800f8b9b"
+ },
+ "vision": {
+  "id": "S16_PRO_P10",
+  "name": "Frieza",
+  "sub": "Revived",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 4,
+  "stages": [
+   1400000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: You may also use your Level 2 Powers.\nPOWER: Destroy the top 4 cards of your opponent's Life Deck. Search your Life Deck for a Frieza Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S16.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "41 FRIEZA\nLEVEL REVIVED () P10",
+  "stages_text": "1,400,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

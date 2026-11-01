@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S69",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S69_Orange Joint Restrant Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S69_Orange Joint Restrant Drill.png",
+  "prefix": "S",
+  "number": 69,
+  "card_number": "S69",
+  "name_part": "Orange Joint Restrant Drill",
+  "file_name": "Orange Joint Restrant Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "bc347dc1b3dd976a274e254a77a84fc95b75bef7"
+ },
+ "vision": {
+  "id": "S07_STR_S69",
+  "name": "Orange Joint Restraint Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S69",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your physical attacks deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_37; text compared on the sheet",
+  "_src": "S07.jsonl:252"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "RANGE JOINT RESTRAINT DRILL © si |\ncorer I ——",
+  "stages_text": null,
+  "error": null
+ }
+}

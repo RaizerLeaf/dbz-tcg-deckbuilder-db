@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P8",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P8_Bojack - Enraged.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P8_Bojack - Enraged.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Bojack - Enraged",
+  "file_name": "Bojack",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2b5c7605430f06f5078f83e3621673346a242478"
+ },
+ "vision": {
+  "id": "S12_PRO_P8",
+  "name": "Bojack",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "P8",
+  "lvl": 4,
+  "stages": [
+   2200000,
+   2000000,
+   1500000,
+   1000000,
+   500000,
+   250000,
+   100000,
+   75000,
+   30000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +2 life cards of damage.\nPOWER: [Attack] Energy attack.\nWhile you control a Named Ally or Named Setup, damage from this attack cannot be prevented.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck or discard pile for a Named Ally or Named Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge A (purple); stats and text compared against S12_BST_47 on the sheet, identical",
+  "_src": "S12.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 61.7,
+  "header_text": "— eee Oe\nBOJACK\n1 ENRAGED Q ze |\nLEVEL —s = =_—\nte \\ \\h ers nN NNN",
+  "stages_text": "2,000,000\n1,000,000\n7500,000\n2\n250,000\n520,000\n75,000\n10,000",
+  "error": null
+ }
+}

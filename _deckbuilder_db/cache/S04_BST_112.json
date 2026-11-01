@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_112",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "112_Orange Reading Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/112_Orange Reading Drill.png",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Orange Reading Drill",
+  "file_name": "Orange Reading Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "40e0ebea1cfde4307ddc7139027834be964634f3"
+ },
+ "vision": {
+  "id": "S04_BST_112",
+  "name": "Orange Reading Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Instant] POWER: Use at the start of your Planning Step. Banish this card to destroy a Setup.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "a ae |\n= NS wae\n\n— \\ —\n\nAP tS (avn Soel-",
+  "stages_text": null,
+  "error": null
+ }
+}

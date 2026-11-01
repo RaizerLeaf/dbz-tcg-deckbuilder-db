@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_37",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "37_Android Reformation Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/37_Android Reformation Drill.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Android Reformation Drill",
+  "file_name": "Android Reformation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fbbf1999fd9ee40e1af1a9f2339ffa8a314f610c"
+ },
+ "vision": {
+  "id": "S19_BST_37",
+  "name": "Android Reformation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "UR37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Android] only. Limit 1 per deck. This card is considered Styled.)\n[Instant] POWER: Use when entering combat. Gain 2 stages. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; grey card; deck restriction icon zoomed: grey R badge (Android); no Endurance badge",
+  "_src": "S19.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.893,
+  "lower_conf": 85.4,
+  "header_text": "NDROID REFORMATION DRILL @ urs?)",
+  "stages_text": null,
+  "error": null
+ }
+}

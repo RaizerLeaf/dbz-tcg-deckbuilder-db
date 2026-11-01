@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P4",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P4_Visiting the Past (Frozen).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P4_Visiting the Past (Frozen).png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Visiting the Past",
+  "file_name": "Visiting the Past",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ad2063bee0773978ef558960ccb6e916d9d13274"
+ },
+ "vision": {
+  "id": "S05_PRO_P4",
+  "name": "Visiting the Past",
+  "sub": null,
+  "type": "Setup",
+  "num": "P4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Instant] POWER: Use when entering combat. Search your discard pile for a card and place it into your hand. If you have more than 3 cards in your hand, place a card from your hand at the bottom of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame; promo reprint of S01 U107 (drops 'Banish after use'); '(FROZEN)' stamped below (owner annotation)",
+  "_src": "S05.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": ". Xe \\ doe\nVISITING THE PAST a P4 |",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_19",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "19_Orange Overload.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/19_Orange Overload.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Overload",
+  "file_name": "Orange Overload",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cf2fca57afb29723854aaeb5604de01a25082f42"
+ },
+ "vision": {
+  "id": "S18_BST_19",
+  "name": "Orange Overload",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\nRaise or lower a player's anger 1.\n[Trait:Namekian] [Warning]: Search your Life Deck for a Drill and place it into play.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW U19'; stage cost printed as '2:'; inline icon zoomed: orange N badge (Namekian) followed by the black warning triangle",
+  "_src": "S18.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 0.844,
+  "lower_conf": 84.2,
+  "header_text": "ORANGE OVERLOAD",
+  "stages_text": "7\n7,\n1\n1,",
+  "error": null
+ }
+}

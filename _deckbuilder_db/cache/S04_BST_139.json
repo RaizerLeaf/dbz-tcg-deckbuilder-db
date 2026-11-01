@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_139",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "139_Sinister Choke.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/139_Sinister Choke.png",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Sinister Choke",
+  "file_name": "Sinister Choke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "da8912962c7b325b202dd0674d733c3958260518"
+ },
+ "vision": {
+  "id": "S04_BST_139",
+  "name": "Sinister Choke",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDamage from this attack cannot be prevented. This attack cannot be stopped and its damage is banished if your opponent controls a total of 7 or more of the following card types: personalities, Drills, Setups, and Dragon Balls.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "SINISTER CHOKE ¢) R139\n] |",
+  "stages_text": ",\n41\n347 ,",
+  "error": null
+ }
+}

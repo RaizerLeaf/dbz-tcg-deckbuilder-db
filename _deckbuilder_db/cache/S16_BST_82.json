@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_82",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "82_Gohan - Rusty.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/82_Gohan - Rusty.png",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Gohan - Rusty",
+  "file_name": "Gohan",
+  "file_subtitle": "Rusty",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67409de6bca078028f09f8a326f8d24f75aa8636"
+ },
+ "vision": {
+  "id": "S16_BST_82",
+  "name": "Gohan",
+  "sub": "Rusty",
+  "type": "Main Personality",
+  "num": "S82",
+  "lvl": 3,
+  "stages": [
+   4250000,
+   2320000,
+   1570000,
+   1280000,
+   690000,
+   375000,
+   140000,
+   55000,
+   30000,
+   8000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +2 life cards.\nPOWER: [Attack] 2: Energy attack.\nFocused. You are considered to have no cards in your hand for your effects until the end of your next action this combat.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S16.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.3,
+  "header_text": "S3 GOHAN\nLEVEL RUSTY () 582\nBy Fe YB + ‘",
+  "stages_text": "4,250,000\n2,320,000\n1,570,000\n1,280,000\n690,000\n375,000\n140,000\n55,000\n30,000\n48,000\n0",
+  "error": null
+ }
+}

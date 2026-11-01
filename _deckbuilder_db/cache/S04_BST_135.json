@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_135",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "135_Android Presence.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/135_Android Presence.png",
+  "prefix": null,
+  "number": 135,
+  "card_number": "135",
+  "name_part": "Android Presence",
+  "file_name": "Android Presence",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "341e8237d7c98e1d4c64f2c627b5d14015503bbc"
+ },
+ "vision": {
+  "id": "S04_BST_135",
+  "name": "Android Presence",
+  "sub": null,
+  "type": "Event",
+  "num": "R135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card).\nPOWER: Banish 4 cards with \"Android\" in the title from your discard pile to raise your anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; 'card).' as printed",
+  "_src": "S04.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "ANDROID PRESENCE ¢) R135\nCit) / =e ia",
+  "stages_text": "7\n,\n6,",
+  "error": null
+ }
+}

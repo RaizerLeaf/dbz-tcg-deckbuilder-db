@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_38",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "38_Orange Left Burst.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/38_Orange Left Burst.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Orange Left Burst",
+  "file_name": "Orange Left Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6cae7e7f30225abd0894672bbb6d0e3eb5922576"
+ },
+ "vision": {
+  "id": "S07_BST_38",
+  "name": "Orange Left Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf you have not changed levels this combat, raise your anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Search your Banished Zone for a non-[Continuous] Drill and Rejuvenate it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "ORANGE LEFT BURST ) 038\nee |) Oe | —",
+  "stages_text": ",\n1,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_66",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "66_Earth Dragon Ball 6.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/66_Earth Dragon Ball 6.png",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Earth Dragon Ball 6",
+  "file_name": "Earth Dragon Ball 6",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4ff4b117a3dcce40434ff183c1ce6a4c93b6a74a"
+ },
+ "vision": {
+  "id": "S07_BST_66",
+  "name": "Earth Dragon Ball 6",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U66",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever a Dragon Ball you own is banished when taking damage or by an opponent's effect, Rejuvenate it. At the end of combat, you may place this card at the bottom of its owner's Life Deck to Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "EARTH DRAGON BALL 6 ©) U66",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

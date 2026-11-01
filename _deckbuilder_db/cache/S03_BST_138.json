@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_138",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "138_Flip Toss.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/138_Flip Toss.jpg",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Flip Toss",
+  "file_name": "Flip Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7a73dce374c959ac606757635e8d29b9ad5130b4"
+ },
+ "vision": {
+  "id": "S03_BST_138",
+  "name": "Flip Toss",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. Attach to your opponent's MP. While attached, card effects that destroy cards from a player's Life Deck cannot be used. Banish this card when your opponent performs a successful attack.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 78.6,
+  "header_text": ": FLIP TOSS eae () A138",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

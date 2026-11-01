@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_55",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "55_Videl's Eagle Kick.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/55_Videl's Eagle Kick.png",
+  "prefix": null,
+  "number": 55,
+  "card_number": "55",
+  "name_part": "Videl's Eagle Kick",
+  "file_name": "Videl's Eagle Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5742441d22e32ed25527242aea54bf01ae1b8d16"
+ },
+ "vision": {
+  "id": "S10_BST_55",
+  "name": "Videl's Eagle Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nFor the remainder of combat, whenever one of your effects from a Named or personality card has you choose between two effects, you may choose both instead. Raise your anger 1 level or shuffle this card into your Life Deck after use.\nDAMAGE: AT + 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 87.9,
+  "header_text": "VIDEL'S EAGLE KICK | ) R55 |\n——<—<_« $e OD pial",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

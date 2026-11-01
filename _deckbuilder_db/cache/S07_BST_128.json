@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_128",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "128_Saiyan Energy Barrage.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/128_Saiyan Energy Barrage.png",
+  "prefix": null,
+  "number": 128,
+  "card_number": "128",
+  "name_part": "Saiyan Energy Barrage",
+  "file_name": "Saiyan Energy Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4e9943ec44935bf4d029a8a91c5bab9b3c9200e4"
+ },
+ "vision": {
+  "id": "S07_BST_128",
+  "name": "Saiyan Energy Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nIf your opponent has dealt critical damage this combat, this attack cannot be stopped.\nDAMAGE: 5 life cards.\nHIT: Your opponent cannot use critical damage effects this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "SAIYAN ENERGY BARRAGE R128\na",
+  "stages_text": ", 2\n4 4\n,",
+  "error": null
+ }
+}

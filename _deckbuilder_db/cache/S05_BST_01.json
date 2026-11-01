@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_01",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "01_Android Headbutt.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/01_Android Headbutt.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Android Headbutt",
+  "file_name": "Android Headbutt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "dd886e04da4c91c9bb489978e51f43724d1bf7cb"
+ },
+ "vision": {
+  "id": "S05_BST_01",
+  "name": "Android Headbutt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: You may discard a card from your hand to use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; Set 5 layout (Cell set icon)",
+  "_src": "S05.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "ANDROID HEADBUTT ™ Ci\nIN y/",
+  "stages_text": "347",
+  "error": null
+ }
+}

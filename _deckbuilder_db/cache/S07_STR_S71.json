@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S71",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S71_Orange Energy Gathering.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S71_Orange Energy Gathering.png",
+  "prefix": "S",
+  "number": 71,
+  "card_number": "S71",
+  "name_part": "Orange Energy Gathering",
+  "file_name": "Orange Energy Gathering",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "fabdfeec139a56dc365c28a0012440083763b5f1"
+ },
+ "vision": {
+  "id": "S07_STR_S71",
+  "name": "Orange Energy Gathering",
+  "sub": null,
+  "type": "Setup",
+  "num": "S71",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP gains 7 stages. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S34; text compared on the sheet",
+  "_src": "S07.jsonl:254"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "ORANGE ENERGY GATHERING a S71 |",
+  "stages_text": null,
+  "error": null
+ }
+}

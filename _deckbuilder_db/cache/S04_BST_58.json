@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_58",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "58_Acquisition Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/58_Acquisition Drill.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Acquisition Drill",
+  "file_name": "Acquisition Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "3063b291b303e8399f2bf15dba6763dd6daaf578"
+ },
+ "vision": {
+  "id": "S04_BST_58",
+  "name": "Acquisition Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(After this Drill enters play, your opponent chooses a Drill you control and gains control of it and then you choose a Drill your opponent controls and gain control of it.)\nPOWER: If you control 3 or more non-Styled Drills, lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey frame",
+  "_src": "S04.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "~~ 00\n\\\nbe RR) eeeale",
+  "stages_text": null,
+  "error": null
+ }
+}

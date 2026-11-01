@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_27",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "27_Namekian Training Ball.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/27_Namekian Training Ball.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Namekian Training Ball",
+  "file_name": "Namekian Training Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cd1d7f910b0c42222698fb4362b418d84d0ec00d"
+ },
+ "vision": {
+  "id": "S07_BST_27",
+  "name": "Namekian Training Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nIf you control more than 1 Earth Dragon Ball, this attack deals +3 life cards of damage and damage from this attack cannot be prevented.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "NAMEKIAN TRAINING BALL\nee a el",
+  "stages_text": "74 1\n,",
+  "error": null
+ }
+}

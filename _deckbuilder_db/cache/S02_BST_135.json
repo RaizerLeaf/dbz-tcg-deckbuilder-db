@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_135",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "135_Wall Breaker.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/135_Wall Breaker.jpg",
+  "prefix": null,
+  "number": 135,
+  "card_number": "135",
+  "name_part": "Wall Breaker",
+  "file_name": "Wall Breaker",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1695191031826ec1bd3002d4c2cc64ca7935b791"
+ },
+ "vision": {
+  "id": "S02_BST_135",
+  "name": "Wall Breaker",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +1 stage. Attach to your opponent's MP. While attached, your opponent cannot gain anger. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.1,
+  "header_text": "naa aan\nWALL BREAKER eee () 13s",
+  "stages_text": "4\n35\n,\n41",
+  "error": null
+ }
+}

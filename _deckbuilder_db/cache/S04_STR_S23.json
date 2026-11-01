@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S23",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S23_Android 17 - Battle Ready.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S23_Android 17 - Battle Ready.png",
+  "prefix": "S",
+  "number": 23,
+  "card_number": "S23",
+  "name_part": "Android 17 - Battle Ready",
+  "file_name": "Android 17",
+  "file_subtitle": "Battle Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "09b002a984e389f5127bb3b2f50452814ab43d26"
+ },
+ "vision": {
+  "id": "S04_STR_S23",
+  "name": "Android 17",
+  "sub": "Battle Ready",
+  "type": "Main Personality",
+  "num": "S23",
+  "lvl": 3,
+  "stages": [
+   1150000,
+   950000,
+   750000,
+   550000,
+   350000,
+   150000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack.\nAllies cannot have damage redirected to them this combat. If \"Android 17's Van\" is in play, damage from this attack cannot be prevented.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads VILLAIN",
+  "_src": "S04.jsonl:176"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.4,
+  "header_text": "Kas} ANDROID 17 »\n[s BATTLE READY . $23",
+  "stages_text": "1,150,000\n950,000\n750,000\n550,000\n350,000\n150,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+  "error": null
+ }
+}

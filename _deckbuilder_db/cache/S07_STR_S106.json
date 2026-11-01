@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S106",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S106_Saiyan Energy Outburst.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S106_Saiyan Energy Outburst.png",
+  "prefix": "S",
+  "number": 106,
+  "card_number": "S106",
+  "name_part": "Saiyan Energy Outburst",
+  "file_name": "Saiyan Energy Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4fcf7619ffa6931e1e716a4e88e456b3c53aeb49"
+ },
+ "vision": {
+  "id": "S07_STR_S106",
+  "name": "Saiyan Energy Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nYour opponent's effects cannot discard cards from your hand this combat.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_53; text compared on the sheet",
+  "_src": "S07.jsonl:289"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "SAIYAN ENERGY OUTBURST C) $106\na: lO Beet AtlltCil",
+  "stages_text": ", ,\n3\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S80",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S80_Namekian Wish.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S80_Namekian Wish.png",
+  "prefix": "S",
+  "number": 80,
+  "card_number": "S80",
+  "name_part": "Namekian Wish",
+  "file_name": "Namekian Wish",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "28f0160f4c377e97d44bd14f61d4cf948e807cf9"
+ },
+ "vision": {
+  "id": "S07_STR_S80",
+  "name": "Namekian Wish",
+  "sub": null,
+  "type": "Setup",
+  "num": "S80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: End Combat. Choose X cards in your discard pile and Rejuvenate them. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_84; text compared on the sheet",
+  "_src": "S07.jsonl:263"
+ },
+ "ocr": {
+  "agreement": 0.893,
+  "lower_conf": 75.1,
+  "header_text": "NAMEKIAN WISH €) $80 |",
+  "stages_text": null,
+  "error": null
+ }
+}

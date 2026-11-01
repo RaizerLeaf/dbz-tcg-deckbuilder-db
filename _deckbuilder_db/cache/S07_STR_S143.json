@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S143",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S143_Black Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S143_Black Strike.png",
+  "prefix": "S",
+  "number": 143,
+  "card_number": "S143",
+  "name_part": "Black Strike",
+  "file_name": "Black Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f42f67b7bc272f6ca9f7212bfab59c419f98300"
+ },
+ "vision": {
+  "id": "S07_STR_S143",
+  "name": "Black Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S143",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nChoose a random card from your opponent's hand. Your opponent shuffles that card into his or her Life Deck and draws a card.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S134; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:326"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "BLACK STRIKE | a ) $143 |\n| CUNO OS",
+  "stages_text": "1\n,\n,\n347\n2,",
+  "error": null
+ }
+}

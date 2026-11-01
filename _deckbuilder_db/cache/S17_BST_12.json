@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_12",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "12_Namekian Harvest.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/12_Namekian Harvest.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Harvest",
+  "file_name": "Namekian Harvest",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "83965928d649c5e1954d51399f9bafecd3d46883"
+ },
+ "vision": {
+  "id": "S17_BST_12",
+  "name": "Namekian Harvest",
+  "sub": null,
+  "type": "Event",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 5.\nPOWER: Rejuvenate 3. Remain 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 0.8,
+  "lower_conf": 80.4,
+  "header_text": "NAMEKIAN HARVEST",
+  "stages_text": "3",
+  "error": null
+ }
+}

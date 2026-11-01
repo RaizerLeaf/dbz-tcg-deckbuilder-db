@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_04",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "04_Yajirobe - Bundled.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/04_Yajirobe - Bundled.jpg",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Yajirobe - Bundled",
+  "file_name": "Yajirobe",
+  "file_subtitle": "Bundled",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e08c4ce7b9dd02b240c8e730ba4f24453c39a53c"
+ },
+ "vision": {
+  "id": "S03_BST_04",
+  "name": "Yajirobe",
+  "sub": "Bundled",
+  "type": "Ally",
+  "num": "C4",
+  "lvl": 1,
+  "stages": [
+   400,
+   350,
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   25,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Continuous]: Players cannot use Setups unless they have performed an attack from their hand this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S03.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "1 YAJIROBE see. ( )-:\nLEVEL —_",
+  "stages_text": "400\n\n350\n\n300\n\n250\n\n200\n150\n100\n50\n\n25\n\n10\n\n0",
+  "error": null
+ }
+}

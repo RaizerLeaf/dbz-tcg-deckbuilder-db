@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_29",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "29_Saiyan Tandem Strike.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/29_Saiyan Tandem Strike.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Tandem Strike",
+  "file_name": "Saiyan Tandem Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5625a575914cb79c6298c09c761d1a8b83126461"
+ },
+ "vision": {
+  "id": "S12_BST_29",
+  "name": "Saiyan Tandem Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\n[Trait:Earthling]: You may destroy the top card of your Life Deck to gain 5 stages.\nDAMAGE: AT + 3 stages.\nHIT: Search your Life Deck for a Styled Drill and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: blue Capsule Corp Earthling badge",
+  "_src": "S12.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.897,
+  "lower_conf": 88.2,
+  "header_text": "SAIYAN TANDEM STRIKE C) R29\nld oS!  O™”—lCO£MM LB",
+  "stages_text": "4\n347\n,",
+  "error": null
+ }
+}

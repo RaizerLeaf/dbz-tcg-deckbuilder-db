@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P7",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P7_Blue Head Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P7_Blue Head Kick.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Blue Head Kick",
+  "file_name": "Blue Head Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "7218b4e54b1fc335a4ed1ca314dc5e5e26a86aab"
+ },
+ "vision": {
+  "id": "S07_PRO_P7",
+  "name": "Blue Head Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nDraw a card.\nDAMAGE: AT +2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #20); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:188"
+ },
+ "ocr": {
+  "agreement": 0.095,
+  "lower_conf": 45.1,
+  "header_text": ". . 8\n. ' . La\nrd\n. ° =)\nadi pe. ~~ “wv",
+  "stages_text": "22\n,\n2",
+  "error": null
+ }
+}

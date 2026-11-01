@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_93",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "93_Orange Android Rising Punch.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/93_Orange Android Rising Punch.jpg",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Orange Android Rising Punch",
+  "file_name": "Orange Android Rising Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b853ae96e569c61348822fa8f413216765699438"
+ },
+ "vision": {
+  "id": "S06_BST_93",
+  "name": "Orange Android Rising Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. The next time your opponent changes levels this combat, you may draw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.2,
+  "header_text": "ORANGE ANDROID RISING PUNCH ) U93",
+  "stages_text": ",\n7\n2, ,\n347\n,",
+  "error": null
+ }
+}

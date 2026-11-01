@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P52",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P52_Piccolo's Special Beam Cannon.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P52_Piccolo's Special Beam Cannon.png",
+  "prefix": "P",
+  "number": 52,
+  "card_number": "P52",
+  "name_part": "Piccolo's Special Beam Cannon",
+  "file_name": "Piccolo's Special Beam Cannon",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "eebef5d1d2c5130808deb658336935a1765cf70d"
+ },
+ "vision": {
+  "id": "S16_PRO_P52",
+  "name": "Piccolo's Special Beam Cannon",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nRejuvenate 1.\nDAMAGE: 3 life cards.\nHIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S16.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "PICCOLO'S SPECIAL BEAM CANNON @ ) P52 |\n_ Ne - ee",
+  "stages_text": ",",
+  "error": null
+ }
+}

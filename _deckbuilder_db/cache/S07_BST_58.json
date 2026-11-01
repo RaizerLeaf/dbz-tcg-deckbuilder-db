@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_58",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "58_Saiyan Turning Kick (CRD).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/58_Saiyan Turning Kick (CRD).png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Saiyan Turning Kick",
+  "file_name": "Saiyan Turning Kick",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ccbf3842bba130e99f43db0d5a7495c4b2615e81"
+ },
+ "vision": {
+  "id": "S07_BST_58",
+  "name": "Saiyan Turning Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 2 per deck. If this card is banished for Endurance, you may search your discard pile for a Drill and play it.)\n[Attack] Physical atttack.\nIf you control a Styled Drill, this attack deals +3 life cards and is Unpreventable.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "text set in the newer condensed font with FanZ keyword 'Unpreventable' (image appears edited to show errata; filename flag (CRD)); 'atttack' misspelling as printed",
+  "_src": "S07.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 86.8,
+  "header_text": "SAIYAN TURNING KICK C) C58\nGay S74 . LL awe 5",
+  "stages_text": "5\n2",
+  "error": null
+ }
+}

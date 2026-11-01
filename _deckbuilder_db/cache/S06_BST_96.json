@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_96",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "96_Red Furious Lunge.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/96_Red Furious Lunge.jpg",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Red Furious Lunge",
+  "file_name": "Red Furious Lunge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e6e625498b7855040d3004ddbecb9d91fbb369d6"
+ },
+ "vision": {
+  "id": "S06_BST_96",
+  "name": "Red Furious Lunge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nThis attack cannot be stopped by a non-Styled card.\nDAMAGE: AT +4 stages.\nHIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 76.8,
+  "header_text": "RED FURIOUS LUNGE @) 6",
+  "stages_text": "347 2 ,",
+  "error": null
+ }
+}

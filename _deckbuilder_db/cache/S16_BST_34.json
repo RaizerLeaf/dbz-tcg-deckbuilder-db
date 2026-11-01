@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_34",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "34_Saiyan Reversal.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/34_Saiyan Reversal.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Saiyan Reversal",
+  "file_name": "Saiyan Reversal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7969d0afffbe012e210616ac4e47d8acb0a48c56"
+ },
+ "vision": {
+  "id": "S16_BST_34",
+  "name": "Saiyan Reversal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(As an action, you may discard this card from your hand to perform a Styled physical attack dealing 4 stages.)\n[Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 91.3,
+  "header_text": "SAIYAN REVERSAL | ) 034\n7 PS ad) Pd) Pl Pee SP\nee oe) Oe ee",
+  "stages_text": "3\n347\n0\n4\n4,\n,",
+  "error": null
+ }
+}

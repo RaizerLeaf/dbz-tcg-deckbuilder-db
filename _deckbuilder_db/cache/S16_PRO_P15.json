@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P15",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P15_Android 18 - Wife.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P15_Android 18 - Wife.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Android 18 - Wife",
+  "file_name": "Android 18",
+  "file_subtitle": "Wife",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "973119a8deb2dec7d64622cbc901d1cb7710b977"
+ },
+ "vision": {
+  "id": "S16_PRO_P15",
+  "name": "Android 18",
+  "sub": "Wife",
+  "type": "Ally",
+  "num": "P15",
+  "lvl": 1,
+  "stages": [
+   800000,
+   600000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(If this card would leave play and your MP is Krillin, you may shuffle it into your Life Deck instead. If your MP is Krillin or Android 17, you may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops an attack.\nYou may choose a card in your discard pile and Rejuvenate it. If you do, shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges E + R; same name/subtitle/stages as S10 BST_56 (U56) but this card says 'Stops an attack' (S10: 'Stops a physical or energy attack')",
+  "_src": "S16.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.7,
+  "header_text": "1 anpron 18\nLEVEL | WIFE C) P15",
+  "stages_text": "800,000\n600,000\n400,000\n300,000\n200,000\n100,000\n50,000\n7 20,000\n10,000\n, 5,000\n0",
+  "error": null
+ }
+}

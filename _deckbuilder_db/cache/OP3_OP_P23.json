@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P23",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P23_Dende's Creation.png",
+  "rel_path": "z_OP Series/OP3/P23_Dende's Creation.png",
+  "prefix": "P",
+  "number": 23,
+  "card_number": "P23",
+  "name_part": "Dende's Creation",
+  "file_name": "Dende's Creation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "26e2e68ad223b112587a2b89d8d38e4c96270909"
+ },
+ "vision": {
+  "id": "OP3_OP_P23",
+  "name": "Dende's Creation",
+  "sub": null,
+  "type": "Setup",
+  "num": "P23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 7.\nPOWER: Banish all Earth Dragon Balls you own in play. Search your Life Deck for all Earth Dragon Balls and banish them. For the remainder of the game, your effects cannot end combat and at the start of your planning step, if you have not played a Dragon Ball that turn, search your Banished Zone for a Dragon Ball and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); landscape Setup layout; grey card; possessive title -> Named; Endurance badge reads 7; no credit line",
+  "_src": "OP.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.969,
+  "lower_conf": 79.4,
+  "header_text": "DENDE'S CREATION © P23] ») P23 |",
+  "stages_text": null,
+  "error": null
+ }
+}

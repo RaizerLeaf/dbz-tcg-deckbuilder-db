@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S110",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S110_Saiyan Pinpoint Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S110_Saiyan Pinpoint Blast.png",
+  "prefix": "S",
+  "number": 110,
+  "card_number": "S110",
+  "name_part": "Saiyan Pinpoint Blast",
+  "file_name": "Saiyan Pinpoint Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9b4b5bcbfdc2fb139be6d8497f087cd85ba55197"
+ },
+ "vision": {
+  "id": "S07_STR_S110",
+  "name": "Saiyan Pinpoint Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. You may use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_56; text compared on the sheet",
+  "_src": "S07.jsonl:293"
+ },
+ "ocr": {
+  "agreement": 0.667,
+  "lower_conf": 81.4,
+  "header_text": "SAIYAN PINPOINT BLAST >) sito\ny, ~~4",
+  "stages_text": ",",
+  "error": null
+ }
+}

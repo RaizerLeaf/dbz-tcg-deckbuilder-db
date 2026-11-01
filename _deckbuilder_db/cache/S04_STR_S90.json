@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S90",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S90_Namekian Forceful Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S90_Namekian Forceful Block.png",
+  "prefix": "S",
+  "number": 90,
+  "card_number": "S90",
+  "name_part": "Namekian Forceful Block",
+  "file_name": "Namekian Forceful Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2d501f8a62c57dd798255f5251cd2dc2cc9c7f4a"
+ },
+ "vision": {
+  "id": "S04_STR_S90",
+  "name": "Namekian Forceful Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nGain 5 stages. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S145",
+  "_src": "S04.jsonl:243"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.8,
+  "header_text": "NAMEKIAN FORCEFUL BLOCK () $90\nee ee ee",
+  "stages_text": ",\n,\n1,",
+  "error": null
+ }
+}

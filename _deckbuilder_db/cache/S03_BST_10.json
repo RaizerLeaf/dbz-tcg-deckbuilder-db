@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_10",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "10_Black Chopping Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/10_Black Chopping Drill.jpg",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Black Chopping Drill",
+  "file_name": "Black Chopping Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "89003631d79ae46d8ca182b26e3532829d48e682"
+ },
+ "vision": {
+  "id": "S03_BST_10",
+  "name": "Black Chopping Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage and +1 life card of damage. Whenever your opponent performs an attack, banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "BLACK CHOPPING. BRILL () C10",
+  "stages_text": "24",
+  "error": null
+ }
+}

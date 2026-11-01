@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_38",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "38_Gravity Training Drill.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/38_Gravity Training Drill.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Gravity Training Drill",
+  "file_name": "Gravity Training Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "695274e9efad9db4d78c12f00e731bfa3679f96b"
+ },
+ "vision": {
+  "id": "S16_BST_38",
+  "name": "Gravity Training Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\n[Continuous]: Your attacks deal +1 stage and +1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; grey card; no Endurance badge",
+  "_src": "S16.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "GRAVITY TRAINING DRILL ©) F38",
+  "stages_text": null,
+  "error": null
+ }
+}

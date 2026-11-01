@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_29",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "29_Saiyan Reverse Catch.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/29_Saiyan Reverse Catch.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Reverse Catch",
+  "file_name": "Saiyan Reverse Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4bbb2186fcc76794c229dec990be656295c8f355"
+ },
+ "vision": {
+  "id": "S09_BST_29",
+  "name": "Saiyan Reverse Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nYour opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 88.6,
+  "header_text": "SAIYAN REVERSE CATCH €) U29\naS =S es i mw 27a",
+  "stages_text": "4\n7\n,",
+  "error": null
+ }
+}

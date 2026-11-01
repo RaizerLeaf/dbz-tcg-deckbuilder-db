@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_78",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "78_Red Collision.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/78_Red Collision.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Red Collision",
+  "file_name": "Red Collision",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cfe67be71f83ac3e28c60a989330c693c062ab95"
+ },
+ "vision": {
+  "id": "S04_BST_78",
+  "name": "Red Collision",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U78",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is banished from the top of your discard pile by one of your effects, raise your anger 1 level.)\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +3 stages.\nHIT: Search your discard pile for an attack card and place it on top of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 88.6,
+  "header_text": "RED COLLISION () U78\nNe rN",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

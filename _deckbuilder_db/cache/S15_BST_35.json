@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_35",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "35_Hirudegarn's Gigantic Flame.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/35_Hirudegarn's Gigantic Flame.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Hirudegarn's Gigantic Flame",
+  "file_name": "Hirudegarn's Gigantic Flame",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "834ca1098225e46fbd401865b8a052d0cdc6b7ac"
+ },
+ "vision": {
+  "id": "S15_BST_35",
+  "name": "Hirudegarn's Gigantic Flame",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nFocused. Raise your anger 1.\nDAMAGE: 6 life cards.\nHIT: Destroy an opponent's Setup, Drill, and Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S15.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "HIRUDEGARN'S GIGANTIC FLAME ) R35\n/ — an",
+  "stages_text": "4",
+  "error": null
+ }
+}

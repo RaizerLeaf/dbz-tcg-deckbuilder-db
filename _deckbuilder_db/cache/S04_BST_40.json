@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_40",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "40_Red Chop.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/40_Red Chop.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Red Chop",
+  "file_name": "Red Chop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "3bba745cb02264a5ee6a74d94ace65f69b3260f5"
+ },
+ "vision": {
+  "id": "S04_BST_40",
+  "name": "Red Chop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: 3 +X stages. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 82.4,
+  "header_text": "RED CHOP C) C40",
+  "stages_text": "7",
+  "error": null
+ }
+}

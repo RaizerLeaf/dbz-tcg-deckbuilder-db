@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_53",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "53_Chilled - Space Pirate.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/53_Chilled - Space Pirate.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Chilled - Space Pirate",
+  "file_name": "Chilled",
+  "file_subtitle": "Space Pirate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "eb448a7ab5adc94cabf228e55a59b7637cf42136"
+ },
+ "vision": {
+  "id": "S09_BST_53",
+  "name": "Chilled",
+  "sub": "Space Pirate",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 2,
+  "stages": [
+   200000,
+   180000,
+   160000,
+   150000,
+   100000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal their life card damage as stages of damage instead. Your attacks deal +1 stage of damage.\nPOWER: [Attack] Physical attack.\nRejuvenate 1. This attack is considered to deal critical damage.\nDAMAGE: 5 stages.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "Sy CHILLED\nlee SPACE PIRATE C) $53\nV7,",
+  "stages_text": ", 200,000\n180,000\n160,000\n150,000\n100,000\n50,000\n25,000\n20,000\n15,000\n10,000\n\n0",
+  "error": null
+ }
+}

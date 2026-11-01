@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_42",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "42_Red Evade.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/42_Red Evade.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Red Evade",
+  "file_name": "Red Evade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c7a5e7394d943c5773fb0718a0f7f5dd9ee2f296"
+ },
+ "vision": {
+  "id": "S07_BST_42",
+  "name": "Red Evade",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nIf your MP's level is lower than your opponent's MP's level, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 75.6,
+  "header_text": "RED EVADE () C42\n- @#«©«+)",
+  "stages_text": ",\n2,",
+  "error": null
+ }
+}

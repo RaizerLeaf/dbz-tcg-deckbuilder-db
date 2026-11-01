@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_47",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "47_Saiyan Flight.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/47_Saiyan Flight.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Saiyan Flight",
+  "file_name": "Saiyan Flight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "fc81d0215af2b4f0a77c500206302c2771820829"
+ },
+ "vision": {
+  "id": "S04_BST_47",
+  "name": "Saiyan Flight",
+  "sub": null,
+  "type": "Setup",
+  "num": "C47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card is considered to be a Named card for your card effects.)\nPOWER: [Attack] Physical attack.\nDAMAGE: 5 stages.\nHIT: Rejuvenate 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S04.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 80.5,
+  "header_text": "~ y 7 |\n> it 5 ANY",
+  "stages_text": null,
+  "error": null
+ }
+}

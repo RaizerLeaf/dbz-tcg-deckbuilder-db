@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P18",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P18_Sobering Hammer.jpg",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P18_Sobering Hammer.jpg",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Sobering Hammer",
+  "file_name": "Sobering Hammer",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 200,
+  "height": 280,
+  "orientation": "portrait",
+  "sha1": "be8d46824140fb9504f16d6a9d71b21b37a5aa68"
+ },
+ "vision": {
+  "id": "S07_PRO_P18",
+  "name": "Sobering Hammer",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your Life Deck or discard pile for an Ally with a [Continuous] Power and place it into play at 1 stage above 0.\nDAMAGE: 4 stages.\nHIT: Until the end of your next turn, effects that advance a personality 1 or more levels cannot be used.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S06 #133); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:197"
+ },
+ "ocr": {
+  "agreement": 0.042,
+  "lower_conf": 49.2,
+  "header_text": "SOBERING HAMMER ) Pig |\nis. Ff i —  —",
+  "stages_text": ",\n,\n,\n,",
+  "error": null
+ }
+}

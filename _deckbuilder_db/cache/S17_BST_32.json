@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_32",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "32_Battle of Wits.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/32_Battle of Wits.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Battle of Wits",
+  "file_name": "Battle of Wits",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3558359926a980c88d5b887318e8183ce2988866"
+ },
+ "vision": {
+  "id": "S17_BST_32",
+  "name": "Battle of Wits",
+  "sub": null,
+  "type": "Event",
+  "num": "R32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is discarded or destroyed from your Life Deck, banish a Setup.)\nPOWER: Banish a Setup. Raise your anger 1. Lower your opponent's anger 1. Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card",
+  "_src": "S17.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 86.4,
+  "header_text": "BATTLE OF WITS =) R32,",
+  "stages_text": "7\n,\n1,",
+  "error": null
+ }
+}

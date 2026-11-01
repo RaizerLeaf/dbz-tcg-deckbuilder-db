@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_28",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "28_Saiyan Awakening.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/28_Saiyan Awakening.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Awakening",
+  "file_name": "Saiyan Awakening",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f9e0fcfc9b3cd38975249fa3e4929c24197e2c09"
+ },
+ "vision": {
+  "id": "S09_BST_28",
+  "name": "Saiyan Awakening",
+  "sub": null,
+  "type": "Event",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Rejuvenate 1. Destroy a Setup or Drill you control to search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.923,
+  "lower_conf": 90.0,
+  "header_text": "SAIYAN AWAKENING C) C28\nfr _",
+  "stages_text": ",",
+  "error": null
+ }
+}

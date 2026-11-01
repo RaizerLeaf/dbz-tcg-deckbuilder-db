@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_34",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "34_Warp Blast.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/34_Warp Blast.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Warp Blast",
+  "file_name": "Warp Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e486b9dcd8d86e188db72fe271ed19f30677f3c7"
+ },
+ "vision": {
+  "id": "S15_BST_34",
+  "name": "Warp Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Attack] 2: Energy attack.\nFocused. Destroy a Drill.\nDAMAGE: 3 life cards.\nHIT: Styled Drills lose all effects until the end of the turn.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S15.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "WARP BLAST S ) R34\na”",
+  "stages_text": ",\n7",
+  "error": null
+ }
+}

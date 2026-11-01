@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S25",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S25_Red Ruthless Mastery.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S25_Red Ruthless Mastery.png",
+  "prefix": "S",
+  "number": 25,
+  "card_number": "S25",
+  "name_part": "Red Ruthless Mastery",
+  "file_name": "Red Ruthless Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "05961a54ebca36f98034804c356cde35b3d3cc7e"
+ },
+ "vision": {
+  "id": "S04_STR_S25",
+  "name": "Red Ruthless Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Banish the top card of your discard pile. If you banished a Styled card, your Styled physical attacks this combat deal +2 stages of damage and gain \"HIT: Lower your opponent's anger 1 level.\"\nPOWER: Reveal a Styled card from your hand and place it at the bottom of your Life Deck. If you do and the top card of your discard pile is an attack card, you may play it.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Set 4 Mastery layout; title strip hidden on sheet, name from filename and S14 P25 reprint",
+  "_src": "S04.jsonl:178"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "' _\na) )\nmam 4\n=> | |, » kam\nBr +s la % ‘ \\ \" y Les oe",
+  "stages_text": ", ,\n8\n\n525\n,\n0\n2\n1",
+  "error": null
+ }
+}

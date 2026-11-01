@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_32",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "32_Saiyan Oppressive Mastery.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/32_Saiyan Oppressive Mastery.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Saiyan Oppressive Mastery",
+  "file_name": "Saiyan Oppressive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ea189fbd313f0055568283472e8d74f781f69567"
+ },
+ "vision": {
+  "id": "S10_BST_32",
+  "name": "Saiyan Oppressive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your first Styled attack each combat gains \"Your opponent skips their next action this combat.\" Whenever your opponent skips an action, gain 2 stages or raise your anger 1 level.\n[Instant] POWER: Use when entering combat. Draw a card. Discard a card from your hand.\nPOWER: If the top card of your discard pile is Styled, your opponent loses 2 stages and Rejuvenate the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; number reads DR32",
+  "_src": "S10.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": "yi % fl AA : j\n\\ w a\\\\ \\\\ j\n\\ \\ \\ I a 4",
+  "stages_text": "9\n2\n4\n\n32\n,\n,\n,\n\n,\n,",
+  "error": null
+ }
+}

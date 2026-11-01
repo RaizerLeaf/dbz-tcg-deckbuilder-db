@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_25",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "25_Red Distracting Shot.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/25_Red Distracting Shot.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Distracting Shot",
+  "file_name": "Red Distracting Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a079928d1fd1f20391b7ef40308b0f94f99d5e61"
+ },
+ "vision": {
+  "id": "S17_BST_25",
+  "name": "Red Distracting Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 1 per deck.)\n[Attack] Energy attack.\nSearch the top 5 cards of your Life Deck for a card that can perform an attack and place it into your hand. Put the remaining cards on top of your Life Deck in any order. [Trait:Namekian]: Focused.\nDAMAGE: 1 life card and 1 stage.\nHIT: Your next attack this combat gains \"Focused.\"\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: orange N badge (Namekian)",
+  "_src": "S17.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 91.1,
+  "header_text": "RED DISTRACTING SHOT () U25",
+  "stages_text": "4\n4\n,",
+  "error": null
+ }
+}

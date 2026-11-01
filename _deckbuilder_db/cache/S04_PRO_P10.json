@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P10",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P10_Namekian Mouth Beam.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P10_Namekian Mouth Beam.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Namekian Mouth Beam",
+  "file_name": "Namekian Mouth Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "cca8f6b5c51dd47061547e58c757f5d36cc683d7"
+ },
+ "vision": {
+  "id": "S04_PRO_P10",
+  "name": "Namekian Mouth Beam",
+  "sub": null,
+  "type": "?",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "",
+  "conf": "low",
+  "review": "image is a placeholder ('Evolution P10 ... MOUTH BEAM Image N/A'); no card image, text cannot be read",
+  "note": "no card image in the folder",
+  "_src": "S04.jsonl:153"
+ },
+ "ocr": {
+  "agreement": null,
+  "lower_conf": 95.0,
+  "header_text": "",
+  "stages_text": "10",
+  "error": null
+ }
+}

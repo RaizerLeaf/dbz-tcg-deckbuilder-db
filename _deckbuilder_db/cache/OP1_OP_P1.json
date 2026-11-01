@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P1",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P1_Black Judgment Rush.png",
+  "rel_path": "z_OP Series/OP1/P1_Black Judgment Rush.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Black Judgment Rush",
+  "file_name": "Black Judgment Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a6e4975d911d9c7229836d9373e1085073902393"
+ },
+ "vision": {
+  "id": "OP1_OP_P1",
+  "name": "Black Judgment Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This card is considered Named.)\n[Attack] Physical attack costing 1 stage.\nLower a player's anger 1 level. If stopped, destroy the top 2 cards of your opponent's Life Deck.\nDAMAGE: AT + 3 stages.\nHIT: This attack stays in play to be used a second time this combat.\n(Created by Josh Duquette, OP1 East Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); set symbol is a red 大 crest; prints a design credit line",
+  "_src": "OP.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 91.0,
+  "header_text": "BLACK JUDGMENT RUSH () P1\n4)” QN ..2 wees |",
+  "stages_text": "2\n3\n,\n\n,\n,",
+  "error": null
+ }
+}

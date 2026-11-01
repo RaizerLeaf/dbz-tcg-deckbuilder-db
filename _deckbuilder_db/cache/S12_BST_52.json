@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_52",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "52_Tenshinhan - Relaxed.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/52_Tenshinhan - Relaxed.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Tenshinhan - Relaxed",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Relaxed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "848c3452c65d3f6f46aa963c895681fd18ef6b26"
+ },
+ "vision": {
+  "id": "S12_BST_52",
+  "name": "Tenshinhan",
+  "sub": "Relaxed",
+  "type": "Main Personality",
+  "num": "S52",
+  "lvl": 1,
+  "stages": [
+   150000,
+   120000,
+   90000,
+   60000,
+   30000,
+   15000,
+   10000,
+   5000,
+   2500,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Instant] POWER: Use when a \"when entering combat\" effect is used. Cancel that effect. Banish the top card of your Life Deck.\nPOWER: [Attack] Energy attack costing 1 stage.\nDAMAGE: 2 life cards.\nHIT: Search your discard pile or Banished Zone for a Named card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E (blue)",
+  "_src": "S12.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "TENSHINHAN",
+  "stages_text": "150,000\n120,000\n90,000\n60,000\n\n5 30,000\n15,000\n10,000\n5,000\n\n2,500\n\n1,000\n\n0",
+  "error": null
+ }
+}

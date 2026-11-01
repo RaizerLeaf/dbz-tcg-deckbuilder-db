@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_16",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "16_Namekian Ascension.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/16_Namekian Ascension.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Namekian Ascension",
+  "file_name": "Namekian Ascension",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f80415dc1d81cf8141903fe162e35faa4a2161d3"
+ },
+ "vision": {
+  "id": "S10_BST_16",
+  "name": "Namekian Ascension",
+  "sub": null,
+  "type": "Event",
+  "num": "R16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. As an action, you may discard this card from your hand to perform a Styled physical attack dealing 4 stages of damage.)\n[Instant] POWER: Use after a card effect causes you to discard a card from your hand. Draw 2 cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "NAMEKIAN ASCENSION C) R16",
+  "stages_text": ",\n\n4\n,\n,",
+  "error": null
+ }
+}

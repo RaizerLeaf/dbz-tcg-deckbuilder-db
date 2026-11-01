@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_14",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "14_Namekian Destruction.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/14_Namekian Destruction.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Destruction",
+  "file_name": "Namekian Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e12894aff06fe1aa0ed2eaffca3d862f63f9a939"
+ },
+ "vision": {
+  "id": "S11_BST_14",
+  "name": "Namekian Destruction",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf you control 3 or more Dragon Balls, you may destroy a Setup, Drill, or Ally. If your MP has 2 or less Traits, choose a card in your discard pile and Rejuvenate it.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.977,
+  "lower_conf": 89.3,
+  "header_text": "NAMEKIAN DESTRUCTION @ )U14",
+  "stages_text": ",\n,\n2",
+  "error": null
+ }
+}

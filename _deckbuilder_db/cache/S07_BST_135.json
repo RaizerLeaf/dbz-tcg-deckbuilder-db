@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_135",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "135_Hercule's Dynamite Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/135_Hercule's Dynamite Kick.png",
+  "prefix": null,
+  "number": 135,
+  "card_number": "135",
+  "name_part": "Hercule's Dynamite Kick",
+  "file_name": "Hercule's Dynamite Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4d4161d49aecf53e6e08ba8261adab4894741e9f"
+ },
+ "vision": {
+  "id": "S07_BST_135",
+  "name": "Hercule's Dynamite Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded, destroyed, and/or banished from your Life Deck, place it at the bottom of your Life Deck.)\n[Attack] Physical attack.\nThis attack cannot be stopped. Your MP gains 2 stages.\nDAMAGE: 1 stage.\nHIT: This attack stays in play to be used a second, third, and fourth time this combat.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.1,
+  "header_text": "HERCULE'S DYNAMITE KICK () R135\nCe. k",
+  "stages_text": "2,",
+  "error": null
+ }
+}

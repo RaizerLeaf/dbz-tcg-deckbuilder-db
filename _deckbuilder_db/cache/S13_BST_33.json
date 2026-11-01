@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_33",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "33_Saiyan Pose.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/33_Saiyan Pose.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Saiyan Pose",
+  "file_name": "Saiyan Pose",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f502e35217d446e8f2a0c9c7298c4181231f3617"
+ },
+ "vision": {
+  "id": "S13_BST_33",
+  "name": "Saiyan Pose",
+  "sub": null,
+  "type": "Event",
+  "num": "U33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You cannot win by MPPV if you play this card.)\nPOWER: Your opponent's next attack this combat deals -3 stages and -3 life cards of damage. Whenever you Rejuvenate a Styled card this combat, gain 2 stages.\n[Trait:Fusion]: Whenever one of your effects destroys or banishes cards from your Life Deck this combat, raise your anger 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge; icon zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 92.9,
+  "header_text": "SAIYAN POSE €) U33\nTT) ae ae",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

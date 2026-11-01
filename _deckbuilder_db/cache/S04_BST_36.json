@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_36",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "36_Orange Outburst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/36_Orange Outburst.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Orange Outburst",
+  "file_name": "Orange Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "4d6ba3bebf5bf29b8f81abf5b5babfa2486949f0"
+ },
+ "vision": {
+  "id": "S04_BST_36",
+  "name": "Orange Outburst",
+  "sub": null,
+  "type": "Event",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Banish any amount of Drills you control. Destroy a total of up to X Setups and/or Allies. X = the number of Drills banished this way.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.3,
+  "header_text": "ORANGE OUTBURST ) 036",
+  "stages_text": "2\n\n7 7\n,\n,",
+  "error": null
+ }
+}

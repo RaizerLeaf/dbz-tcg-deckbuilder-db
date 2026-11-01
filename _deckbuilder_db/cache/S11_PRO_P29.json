@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P29",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P29_Allied Blitz.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P29_Allied Blitz.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Allied Blitz",
+  "file_name": "Allied Blitz",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "703b8e8c985900b188ec42e16e0eed7de298eb21"
+ },
+ "vision": {
+  "id": "S11_PRO_P29",
+  "name": "Allied Blitz",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Energy attack costing 1 stage.\nWhenever you perform an energy attack this combat, your opponent skips their next action this combat.\nDAMAGE: 3 life cards.\nHIT: If your MP is not a Saiyan, then for the remainder of combat your Allies may make actions regardless of your MP's power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "black-and-white manga art",
+  "_src": "S11.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 0.925,
+  "lower_conf": 88.9,
+  "header_text": "ALLIED BLITZ | () P29\nOIG J MME. WAYS",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

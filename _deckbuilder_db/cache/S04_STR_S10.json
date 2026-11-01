@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S10",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S10_Blue Tag Team Mastery.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S10_Blue Tag Team Mastery.png",
+  "prefix": "S",
+  "number": 10,
+  "card_number": "S10",
+  "name_part": "Blue Tag Team Mastery",
+  "file_name": "Blue Tag Team Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2c8b7f02e49b436bbf5a69804fd5ee6dedad704e"
+ },
+ "vision": {
+  "id": "S04_STR_S10",
+  "name": "Blue Tag Team Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(At the start of your opponent's first turn, search your Life Deck for an Ally and place it into play at 3 power stages above 0.)\n[Continuous]: While you control 1 Ally, it cannot be discarded by critical damage effects.\n[Instant] POWER: Use at the end of combat. Choose an Ally in your Banished Zone and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Set 4 Mastery layout",
+  "_src": "S04.jsonl:163"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "=\nwe y=\nj m = ay |\niJ,",
+  "stages_text": "7\n7\n, 10\n,\n\n,\n\n,",
+  "error": null
+ }
+}

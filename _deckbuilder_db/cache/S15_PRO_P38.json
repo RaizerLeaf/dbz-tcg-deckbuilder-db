@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P38",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P38_Battle Pausing.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P38_Battle Pausing.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Battle Pausing",
+  "file_name": "Battle Pausing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bfefe3b7adea480e80b97af49d63529772e3edf4"
+ },
+ "vision": {
+  "id": "S15_PRO_P38",
+  "name": "Battle Pausing",
+  "sub": null,
+  "type": "Event",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\nPOWER: Banish a card from your hand to draw the top 2 cards of your discard pile. Your opponent gains 5 stages.\n(Banish after use.)\n(Tournament of Power 2021)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; prints a '(Tournament of Power 2021)' event line; no Endurance badge",
+  "_src": "S15.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.4,
+  "header_text": "BATTLE PAUSING () P38",
+  "stages_text": "2\n4\n4\n,\n4, ,",
+  "error": null
+ }
+}

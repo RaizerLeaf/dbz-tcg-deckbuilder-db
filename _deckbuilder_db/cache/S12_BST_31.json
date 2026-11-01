@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_31",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "31_Malicious Intent.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/31_Malicious Intent.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Malicious Intent",
+  "file_name": "Malicious Intent",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e6ccf1570ba4c025d629c1e2cb7c6070da83e683"
+ },
+ "vision": {
+  "id": "S12_BST_31",
+  "name": "Malicious Intent",
+  "sub": null,
+  "type": "Setup",
+  "num": "R31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n(If your MP has [Trait:Alien], this card is considered Named. When this card is leaving play from your effect, you may banish it to make your next attack this combat be considered to deal critical damage.)\nPOWER: Gain 5 stages. Choose a card in a player's discard pile and place it on top of their Life Deck. [Trait:Alien]: If you have only 1 Trait, search your opponent's Life Deck for a non-Dragon Ball card and banish it.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; both inline icons zoomed: purple Alien badges",
+  "_src": "S12.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 88.1,
+  "header_text": ": ae at\nMALICIOUS INTENT  ) R31\nee a” ee | .—~ —",
+  "stages_text": null,
+  "error": null
+ }
+}

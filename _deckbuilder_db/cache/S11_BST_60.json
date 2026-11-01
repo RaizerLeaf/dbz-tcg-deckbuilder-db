@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_60",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "60_Vegeta - Malicious.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/60_Vegeta - Malicious.png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Vegeta - Malicious",
+  "file_name": "Vegeta",
+  "file_subtitle": "Malicious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "16856b429ee1f0937233340f51f1129fde9c2e97"
+ },
+ "vision": {
+  "id": "S11_BST_60",
+  "name": "Vegeta",
+  "sub": "Malicious",
+  "type": "Main Personality",
+  "num": "S60",
+  "lvl": 2,
+  "stages": [
+   2200000,
+   1500000,
+   900000,
+   500000,
+   150000,
+   90000,
+   50000,
+   25000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage of damage. While the top and bottom cards of your discard pile are Styled, effects cannot end combat nor cause a player to skip or pass an action.\nPOWER: [Attack] Energy attack.\nBanish 2 cards from either player's discard pile. You may raise a player's anger 1 level.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 0.948,
+  "lower_conf": 78.4,
+  "header_text": "— VEGETA\nLEVEL MALICIOUS () S60\nLAN RUA {RD ~~ 6S",
+  "stages_text": ", 2,200,000\n1,500,000\n900,000\n500,000\n150,000\n90,000\n50,000\n25,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

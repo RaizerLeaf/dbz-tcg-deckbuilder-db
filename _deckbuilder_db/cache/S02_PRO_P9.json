@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P9",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P9_Namekian Clash.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P9_Namekian Clash.jpg",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Namekian Clash",
+  "file_name": "Namekian Clash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "35071ca39cd333a7366617a3f38fcca04a798b55"
+ },
+ "vision": {
+  "id": "S02_PRO_P9",
+  "name": "Namekian Clash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. If you have performed another physical attack this combat, banish an opponent's Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R113; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 76.8,
+  "header_text": "(NAMEKIAN CLASH 2 C) =\nro Gl CO 2a SS 22S Ll",
+  "stages_text": ",\n4\n\n,\n\n42 ,",
+  "error": null
+ }
+}

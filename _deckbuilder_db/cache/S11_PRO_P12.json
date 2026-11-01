@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P12",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P12_Goten - Super Saiyan.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P12_Goten - Super Saiyan.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Goten - Super Saiyan",
+  "file_name": "Goten",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a520c3f6ae7c289ecc69322562bb58873baff78a"
+ },
+ "vision": {
+  "id": "S11_PRO_P12",
+  "name": "Goten",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 4,
+  "stages": [
+   1150000,
+   1000000,
+   700000,
+   400000,
+   200000,
+   70000,
+   30000,
+   15000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(After you advance to this level, search your Life Deck, discard pile, and Banished Zone for a total of up to 2 Drills and play them.)\n[Continuous]: Your attacks deal +2 stages of damage and your opponent's attacks deal -2 stages of damage.\nPOWER: [Attack] Physical attack.\nYou may destroy a Drill you control. If you do, this attack deals +2 stages of damage for each Drill you control.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges E + S; stats and text compared against S10_BST_73 on the sheet, identical",
+  "_src": "S11.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "SS .\nGOTEN\nfa SUPER SAIYAN yy i=\nSEAS ee | amearana",
+  "stages_text": "1,150,000\n1,000,000\n700,000\n400,000\n200,000\n70,000\n30,000\n15,000\n10,000\n\n1,000",
+  "error": null
+ }
+}

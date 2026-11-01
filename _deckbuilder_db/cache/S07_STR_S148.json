@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S148",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S148_Red Back Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S148_Red Back Kick.png",
+  "prefix": "S",
+  "number": 148,
+  "card_number": "S148",
+  "name_part": "Red Back Kick",
+  "file_name": "Red Back Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7b97605c58a3172b5673b761868cd54ded71fe3c"
+ },
+ "vision": {
+  "id": "S07_STR_S148",
+  "name": "Red Back Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S148",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. You may lower your anger 3 levels to stop all energy attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_45; text compared on the sheet",
+  "_src": "S07.jsonl:331"
+ },
+ "ocr": {
+  "agreement": 0.8,
+  "lower_conf": 80.2,
+  "header_text": "RED BACK KICK sts\nNN 1",
+  "stages_text": ",\n74\n3",
+  "error": null
+ }
+}

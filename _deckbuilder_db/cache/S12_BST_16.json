@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_16",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "16_Orange Absorption Drill.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/16_Orange Absorption Drill.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Orange Absorption Drill",
+  "file_name": "Orange Absorption Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "846d4e929096630471771bea752215bea0cd5034"
+ },
+ "vision": {
+  "id": "S12_BST_16",
+  "name": "Orange Absorption Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: After taking damage from a physical attack, your MP gains X stages. X = the number of life cards that attack dealt.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 73.2,
+  "header_text": "SRANGE ABSORPTION DRILL @ cis]",
+  "stages_text": null,
+  "error": null
+ }
+}

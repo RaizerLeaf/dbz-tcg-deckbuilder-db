@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P37",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P37_Trunks' Sword Slash.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P37_Trunks' Sword Slash.png",
+  "prefix": "P",
+  "number": 37,
+  "card_number": "P37",
+  "name_part": "Trunks' Sword Slash",
+  "file_name": "Trunks' Sword Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0f8048e45de1194279b7fb1b103ec535d69a0bb9"
+ },
+ "vision": {
+  "id": "S18_PRO_P37",
+  "name": "Trunks' Sword Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 1: Physical attack.\nBanish up to 6 cards from a player's discard pile.\nDAMAGE: AT + 4 stages.\nHIT: Your next Styled energy attack this combat is Unstoppable.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '1:'; no Endurance badge",
+  "_src": "S18.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.6,
+  "header_text": "TRUNKS' SWORD SLASH > ) P37\n-",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

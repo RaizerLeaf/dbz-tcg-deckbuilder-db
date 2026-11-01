@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S33",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S33_Black Power Up.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S33_Black Power Up.png",
+  "prefix": "S",
+  "number": 33,
+  "card_number": "S33",
+  "name_part": "Black Power Up",
+  "file_name": "Black Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "b0f7fcb6e05271073d80742a469a0f7d03d882f2"
+ },
+ "vision": {
+  "id": "S04_STR_S33",
+  "name": "Black Power Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "S33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise a personality to its highest power stage. You may end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S31; landscape layout",
+  "_src": "S04.jsonl:186"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.2,
+  "header_text": "“X Sbet=\n\\ a. al oe",
+  "stages_text": null,
+  "error": null
+ }
+}

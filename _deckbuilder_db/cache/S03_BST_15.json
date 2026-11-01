@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_15",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "15_Black Resistance.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/15_Black Resistance.jpg",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Black Resistance",
+  "file_name": "Black Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6ac909a9540e91716bdc1773f04132aa87736c70"
+ },
+ "vision": {
+  "id": "S03_BST_15",
+  "name": "Black Resistance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Defense] Stops an energy attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.1,
+  "header_text": "(BLACK RESISTANCE: (es\nPee oS Sc i WS Oe CI",
+  "stages_text": ",\n7\n2\n,",
+  "error": null
+ }
+}

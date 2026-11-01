@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P5",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P5_Supreme Kai - Mysterious.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P5_Supreme Kai - Mysterious.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Supreme Kai - Mysterious",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Mysterious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1742a9ee23fe69206a5a571526b2cb39b7f00e1d"
+ },
+ "vision": {
+  "id": "S10_PRO_P5",
+  "name": "Supreme Kai",
+  "sub": "Mysterious",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   300000,
+   250000,
+   225000,
+   175000,
+   125000,
+   60000,
+   50000,
+   40000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Choose up to 2 cards in your discard pile and shuffle them into your Life Deck.\nPOWER: [Attack] Energy attack.\nSearch your Life Deck for a [Trait:God] Ally and play it.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; same stats/text as S10 S86",
+  "_src": "S10.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 65.2,
+  "header_text": "(1 aaa a=)\nLEVEL —\ner \\ ee ON\nfo oN Na, . a Q2NN NNN",
+  "stages_text": "300,000\n250,000\n225,000\n175,000\n125,000\n\n7 60,000\n90,000\n40,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

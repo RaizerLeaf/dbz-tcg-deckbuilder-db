@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_75",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "75_Black Upward Dodge.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/75_Black Upward Dodge.jpg",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Black Upward Dodge",
+  "file_name": "Black Upward Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "faa9aeab28c365b62420d24f4394793e971bcee7"
+ },
+ "vision": {
+  "id": "S02_BST_75",
+  "name": "Black Upward Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U75",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Your next attack deals +4 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S02.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "(8 LACK UPWARD [DYOISGE () U7S\n——",
+  "stages_text": ",\n4,\n6",
+  "error": null
+ }
+}

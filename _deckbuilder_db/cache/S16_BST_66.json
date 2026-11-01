@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_66",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "66_Tagoma - Tough as Nails.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/66_Tagoma - Tough as Nails.png",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Tagoma - Tough as Nails",
+  "file_name": "Tagoma",
+  "file_subtitle": "Tough as Nails",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4df1d92d4add869ff99f7a82b7cf8727ccee0e54"
+ },
+ "vision": {
+  "id": "S16_BST_66",
+  "name": "Tagoma",
+  "sub": "Tough as Nails",
+  "type": "Ally",
+  "num": "U66",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: After taking damage from an attack, banish the top or bottom card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple)",
+  "_src": "S16.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "1 TAGOMA\nLEVEL TOUGH AS NAILS () U66",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n70,000\n40,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR8",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR8_Vegeta - Energized.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR8_Vegeta - Energized.png",
+  "prefix": "DR",
+  "number": 8,
+  "card_number": "DR8",
+  "name_part": "Vegeta - Energized",
+  "file_name": "Vegeta",
+  "file_subtitle": "Energized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3b5b824728ea17b7a731ffb1fd3d52e43199c88e"
+ },
+ "vision": {
+  "id": "S07_DR_DR8",
+  "name": "Vegeta",
+  "sub": "Energized",
+  "type": "Main Personality",
+  "num": "DR8",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   150000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "(When you reach this level during combat, your opponent must pass for his or her next action this combat.)\n[Continuous]: The first time each combat one of your non-Styled attack cards is stopped, it stays in play to be used a second time this combat. Your non-Styled attacks deal +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; low-res image",
+  "_src": "S07.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 0.982,
+  "lower_conf": 85.7,
+  "header_text": "Kas y VEGETA DRS\nLEVEL rat >",
+  "stages_text": "1,500,000\n1,200,000\n300,000\n600,000\n300,000\n150,000\n, 100,000\n50,000\n25,000\n12,500\n\n0",
+  "error": null
+ }
+}

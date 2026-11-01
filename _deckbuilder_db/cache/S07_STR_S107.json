@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S107",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S107_Saiyan Palm Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S107_Saiyan Palm Block.png",
+  "prefix": "S",
+  "number": 107,
+  "card_number": "S107",
+  "name_part": "Saiyan Palm Block",
+  "file_name": "Saiyan Palm Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8c08efee39142271a87f85e4febf2d1ee8127c8c"
+ },
+ "vision": {
+  "id": "S07_STR_S107",
+  "name": "Saiyan Palm Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf your MP has a lower power level than the attacking personality, your power level is considered to be 1,000,000 this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_56; text compared on the sheet",
+  "_src": "S07.jsonl:290"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "SAIYAN PALM BLOCK $107",
+  "stages_text": ",\n387",
+  "error": null
+ }
+}

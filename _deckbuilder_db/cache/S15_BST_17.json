@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_17",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "17_Orange Entanglement Drill.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/17_Orange Entanglement Drill.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Orange Entanglement Drill",
+  "file_name": "Orange Entanglement Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "8b2e994ceae6252e093640e2b4fd955157c80859"
+ },
+ "vision": {
+  "id": "S15_BST_17",
+  "name": "Orange Entanglement Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Rejuvenate 2 or if this Drill entered play this combat, you may search your Life Deck for a Styled [Defense] card and place it into your hand instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S15.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.9,
+  "header_text": "RANGE ENTANGLEMENT DRILL a R17)\ner rs ee",
+  "stages_text": null,
+  "error": null
+ }
+}

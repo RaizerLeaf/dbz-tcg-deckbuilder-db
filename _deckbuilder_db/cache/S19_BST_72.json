@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_72",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "72_Fused Zamasu - Eternal.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/72_Fused Zamasu - Eternal.png",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Fused Zamasu - Eternal",
+  "file_name": "Fused Zamasu",
+  "file_subtitle": "Eternal",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f5c737e2608461126c0f7d7d66290b84147e722"
+ },
+ "vision": {
+  "id": "S19_BST_72",
+  "name": "Fused Zamasu",
+  "sub": "Eternal",
+  "type": "Main Personality",
+  "num": "S72",
+  "lvl": 4,
+  "stages": [
+   333000000,
+   200000000,
+   76000000,
+   19000000,
+   1422000,
+   1100000,
+   890000,
+   454000,
+   205000,
+   73000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God",
+   "Fusion"
+  ],
+  "text": "(When you reach this level, search your Banished Zone for up to 3 cards with [Trait:God] in the parenthetical text or text-box and place them on top of your discard pile.)\n[Continuous]: Your attacks deal +2 life cards.\nPOWER: Rejuvenate 3. Search your Life Deck or discard pile for a card with [Trait:God] in the parenthetical text or text-box and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G, F",
+  "_src": "S19.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 79.2,
+  "header_text": "@1. FUSED ZAMASU\nLEVEL ETERNAL () 5/2\nA",
+  "stages_text": "333,000,000\n200,000,000\n76,000,000\n19,000,000\n1,422,000\n1,100,000\n890,000\n454,000\n205,000\n73,000\n\n0",
+  "error": null
+ }
+}

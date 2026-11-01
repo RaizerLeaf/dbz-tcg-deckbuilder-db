@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P5",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P5_Vegito - Fused.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P5_Vegito - Fused.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Vegito - Fused",
+  "file_name": "Vegito",
+  "file_subtitle": "Fused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f1ebca0238393a7af5d4356929f8f88a2f6cca0"
+ },
+ "vision": {
+  "id": "S13_PRO_P5",
+  "name": "Vegito",
+  "sub": "Fused",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   9000000,
+   5000000,
+   1200000,
+   800000,
+   400000,
+   200000,
+   90000,
+   30000,
+   8000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand during combat. Draw a card and raise your anger 1 level.\nPOWER: [Attack] Energy attack costing 1 stage.\nYour Drills are not discarded when your MP changes levels this turn.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats match S13 S57 but wording differs ('costing 1 stage', 'anger 1 level'); text zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.3,
+  "header_text": "= eee Se\n” VEGITO * }\nea FUSED oa PS\n‘ La a\n— 24 eae\nled | a Ss Qnnn nnn",
+  "stages_text": "9,000,000\n9,000,000\n1,200,000\n800,000\n400,000\n7 200,000\n90,000\n30,000\n8,000\n5,000\n0\n\n53",
+  "error": null
+ }
+}

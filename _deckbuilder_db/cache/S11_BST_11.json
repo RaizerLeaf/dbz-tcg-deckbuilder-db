@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_11",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "11_Namekian Manipulation Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/11_Namekian Manipulation Drill.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Namekian Manipulation Drill",
+  "file_name": "Namekian Manipulation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1bc10016224f34bcfced6498d762d8f4472c5542"
+ },
+ "vision": {
+  "id": "S11_BST_11",
+  "name": "Namekian Manipulation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever a Dragon Ball enters or leaves play, banish the bottom card of your opponent's discard pile.\n[Trait:God]: Your attacks deal +1 life card of damage.\n[Instant] POWER: Use when your opponent captures a Dragon Ball. Your opponent cannot use its immediate effects.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline icon gold with G badge (God), confirmed by zoom",
+  "_src": "S11.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 81.2,
+  "header_text": "MEKIAN MANIPULATION =) u I |",
+  "stages_text": null,
+  "error": null
+ }
+}

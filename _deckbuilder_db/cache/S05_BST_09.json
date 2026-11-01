@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_09",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "09_Black Energy Bubble.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/09_Black Energy Bubble.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Black Energy Bubble",
+  "file_name": "Black Energy Bubble",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b202514f93b6f9a2d3da32f1db1b2d1ab10f9139"
+ },
+ "vision": {
+  "id": "S05_BST_09",
+  "name": "Black Energy Bubble",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. If this attack is stopped, your opponent discards a random card from his hand.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "BLACK ENERGY BUBBLE ) co",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

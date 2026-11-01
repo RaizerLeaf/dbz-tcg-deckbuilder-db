@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_38",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "38_Orange Energy Deflection.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/38_Orange Energy Deflection.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Orange Energy Deflection",
+  "file_name": "Orange Energy Deflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4b22ab7d619f0a1eeccad86f5d89793499cb7d1e"
+ },
+ "vision": {
+  "id": "S05_BST_38",
+  "name": "Orange Energy Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nLower your opponent's anger 2 levels. If your opponent's attack was a non-Styled attack, Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "ORANGE ENERGY DEFLECTION @© ) C38\nye ey |",
+  "stages_text": ",\n\n,\n\n2,\n,",
+  "error": null
+ }
+}

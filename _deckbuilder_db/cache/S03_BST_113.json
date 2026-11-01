@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_113",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "113_Namekian Surprise Attack.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/113_Namekian Surprise Attack.jpg",
+  "prefix": null,
+  "number": 113,
+  "card_number": "113",
+  "name_part": "Namekian Surprise Attack",
+  "file_name": "Namekian Surprise Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "505eada8b83a70a7b2da88d81e855de2ee08d5dd"
+ },
+ "vision": {
+  "id": "S03_BST_113",
+  "name": "Namekian Surprise Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 4 stages. HIT: Search your Life Deck for a card with \"Dragon\" or \"Reinforced\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.2,
+  "header_text": "NAMEKIAN SURPRISE ATTACK () Al13\n| “3",
+  "stages_text": "4,\n3 5\n4\n9\n1",
+  "error": null
+ }
+}

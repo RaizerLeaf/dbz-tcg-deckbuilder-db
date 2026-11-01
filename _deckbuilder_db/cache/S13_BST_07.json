@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_07",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "07_Blue Mimicry Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/07_Blue Mimicry Mastery.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Mimicry Mastery",
+  "file_name": "Blue Mimicry Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7bc22526f6bb0a3a0f5e529f55e28b03ee016e22"
+ },
+ "vision": {
+  "id": "S13_BST_07",
+  "name": "Blue Mimicry Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent cannot use Endurance on your copied attacks.\n[Instant] POWER: Use after performing a successful copied attack. Destroy the top 2 cards of your Life Deck to draw a card.\nPOWER: Shuffle up to 3 cards with \"copy\" or \"copied\" in the text-box or parenthetical text from your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (read from a crop of the original); DR (alternate-art tier) number printed",
+  "_src": "S13.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "\\\\i WVy/ ha) Ov WV\nWe ee \\\\ |) if, ]",
+  "stages_text": "3\n\n5\n\n7\n77\n\n2\n\n,",
+  "error": null
+ }
+}

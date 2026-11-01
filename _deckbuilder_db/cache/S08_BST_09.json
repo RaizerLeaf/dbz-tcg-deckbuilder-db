@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_09",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "09_Blue Easy Knee.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/09_Blue Easy Knee.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Easy Knee",
+  "file_name": "Blue Easy Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d7e2edc92189108ed88f9ce009a389b37e1a389e"
+ },
+ "vision": {
+  "id": "S08_BST_09",
+  "name": "Blue Easy Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf stopped, you may use a critical damage effect.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "BLUE EASY KNEE () Ug\nQW.",
+  "stages_text": ",\n37",
+  "error": null
+ }
+}

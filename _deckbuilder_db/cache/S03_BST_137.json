@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_137",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "137_Ensnared.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/137_Ensnared.jpg",
+  "prefix": null,
+  "number": 137,
+  "card_number": "137",
+  "name_part": "Ensnared",
+  "file_name": "Ensnared",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "af3d6a9fae905f6425f4800ece533a78c25caf2d"
+ },
+ "vision": {
+  "id": "S03_BST_137",
+  "name": "Ensnared",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +2 stages. If your opponent controls no Drills, this attack deals +4 stages of damage instead of +2. Attach to one of your opponent's Drills. While attached, that Drill loses all effects. Banish this card when your opponent performs a successful Styled attack.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "° ENSNARED cee ntene () A137\nBiessy wy aa",
+  "stages_text": "1 1",
+  "error": null
+ }
+}

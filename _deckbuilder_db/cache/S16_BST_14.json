@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_14",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "14_Namekian Reinforced Will.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/14_Namekian Reinforced Will.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Reinforced Will",
+  "file_name": "Namekian Reinforced Will",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "a3efc9e53b65c952704912b655e051e0aa3c1be6"
+ },
+ "vision": {
+  "id": "S16_BST_14",
+  "name": "Namekian Reinforced Will",
+  "sub": null,
+  "type": "Setup",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Super Dragon Ball and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S16.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "IAMEKIAN REINFORCED WILL Ours]",
+  "stages_text": null,
+  "error": null
+ }
+}

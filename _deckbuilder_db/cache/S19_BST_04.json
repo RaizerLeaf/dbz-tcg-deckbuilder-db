@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_04",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "04_Black Divert.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/04_Black Divert.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Divert",
+  "file_name": "Black Divert",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "466719b1f1aade9307f3cbbe288b9025435747cc"
+ },
+ "vision": {
+  "id": "S19_BST_04",
+  "name": "Black Divert",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nRejuvenate 2. [Trait:God]: Banish 2 cards from your opponent's discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: gold G badge (God)",
+  "_src": "S19.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 88.4,
+  "header_text": "BLACK DIVERT () C4\n-§~=> i",
+  "stages_text": ",\n347 2",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_04",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "04_Black Mischief.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/04_Black Mischief.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Mischief",
+  "file_name": "Black Mischief",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9cddb4877f06d7e808dd245ca62d1d93cbb5c3e3"
+ },
+ "vision": {
+  "id": "S12_BST_04",
+  "name": "Black Mischief",
+  "sub": null,
+  "type": "Event",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is destroyed from your Life Deck by one of your effects, you may Rejuvenate it to choose a card in your discard pile and shuffle it into your Life Deck.)\nPOWER: Look at the top 5 cards of a player's Life Deck and put them back in any order. Reveal the top card of your opponent's Life Deck. If it is not a Dragon Ball, banish it. [Trait:Saiyan]: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: green Saiyan badge",
+  "_src": "S12.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 91.7,
+  "header_text": "BLACK MISCHIEF () U4\nW/ —_",
+  "stages_text": ", ,\n7\n2,\n\n71\n\n,",
+  "error": null
+ }
+}

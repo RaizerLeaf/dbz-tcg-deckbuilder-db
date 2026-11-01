@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_140",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "140_Sagacious Strike.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/140_Sagacious Strike.jpg",
+  "prefix": null,
+  "number": 140,
+  "card_number": "140",
+  "name_part": "Sagacious Strike",
+  "file_name": "Sagacious Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "927db407804652185d10e3fdb1810f06f2f3650f"
+ },
+ "vision": {
+  "id": "S03_BST_140",
+  "name": "Sagacious Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 2 per deck.) [Attack] Physical attack. DAMAGE: AT +3 stages. This attack is considered to deal critical damage. You may choose for this attack to deal no damage. If you do, it cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "“(SAGACIOUS STRIKE: () A140",
+  "stages_text": "2\n,\n64",
+  "error": null
+ }
+}

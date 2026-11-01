@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_114",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "114_Orange Spotlight.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/114_Orange Spotlight.jpg",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Orange Spotlight",
+  "file_name": "Orange Spotlight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a9158145a09a8358389b03883096d3836eda45e3"
+ },
+ "vision": {
+  "id": "S03_BST_114",
+  "name": "Orange Spotlight",
+  "sub": null,
+  "type": "Setup",
+  "num": "R114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) POWER: Play with your hand revealed this turn. Your Styled attacks deal +2 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.2,
+  "header_text": "(ORANGE SPOTLIGHT. ( )-n\nel |’! | ae aie FF",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

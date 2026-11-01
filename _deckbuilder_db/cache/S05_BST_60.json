@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_60",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "60_Saiyan Skull Jab.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/60_Saiyan Skull Jab.png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Saiyan Skull Jab",
+  "file_name": "Saiyan Skull Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3b68e0c9ec83f8b288073bd6cc6031baeb2633c4"
+ },
+ "vision": {
+  "id": "S05_BST_60",
+  "name": "Saiyan Skull Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your discard pile for a Styled Event and Rejuvenate it.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.1,
+  "header_text": "SAIYAN SKULL JAB () C60",
+  "stages_text": ",\n3,",
+  "error": null
+ }
+}

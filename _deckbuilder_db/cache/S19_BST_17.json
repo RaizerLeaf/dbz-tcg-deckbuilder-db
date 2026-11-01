@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_17",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "17_Namekian Bounce.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/17_Namekian Bounce.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Namekian Bounce",
+  "file_name": "Namekian Bounce",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "03414e77ba3a2e891696d3bc33130a86522cc8bc"
+ },
+ "vision": {
+  "id": "S19_BST_17",
+  "name": "Namekian Bounce",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\nDestroy an opponent's Setup or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S19.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 87.4,
+  "header_text": "NAMEKIAN BOUNCE",
+  "stages_text": "",
+  "error": null
+ }
+}

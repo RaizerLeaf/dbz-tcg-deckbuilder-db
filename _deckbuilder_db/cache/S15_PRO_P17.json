@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P17",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P17_Saiyan Oppressive Mastery.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P17_Saiyan Oppressive Mastery.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Saiyan Oppressive Mastery",
+  "file_name": "Saiyan Oppressive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dc382163450f481dbcbeb753ea5a1a62f4fd8a3a"
+ },
+ "vision": {
+  "id": "S15_PRO_P17",
+  "name": "Saiyan Oppressive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your first Styled attack each combat gains \"Your opponent skips their next action this combat.\" Whenever your opponent skips an action, gain 2 stages or raise your anger 1.\n[Instant] POWER: Use when entering combat. Draw a card. Discard a card from your hand.\nPOWER: If the top card of your discard pile is Styled, your opponent loses 2 stages and Rejuvenate the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; P number printed; title read from a crop of the original",
+  "_src": "S15.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "aX\n[=",
+  "stages_text": ", 3\n17\n,\n1,\n,\n,",
+  "error": null
+ }
+}

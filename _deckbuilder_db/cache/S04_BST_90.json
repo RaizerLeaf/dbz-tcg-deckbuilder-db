@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_90",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "90_Android 20 - Unfaced.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/90_Android 20 - Unfaced.png",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Android 20 - Unfaced",
+  "file_name": "Android 20",
+  "file_subtitle": "Unfaced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "3a45a7946acefafa99a71baa08b18da5d75c66b1"
+ },
+ "vision": {
+  "id": "S04_BST_90",
+  "name": "Android 20",
+  "sub": "Unfazed",
+  "type": "Main Personality",
+  "num": "U90",
+  "lvl": 2,
+  "stages": [
+   750000,
+   550000,
+   350000,
+   150000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: At the end of combat, if you control a non-Styled Drill you may Rejuvenate 3. At the end of combat, if you do not control a Styled Drill you may Banish a Drill.\n[Instant] POWER: Use when entering combat. Search your Life Deck or discard pile for a non-Styled Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 personality layout; edge reads VILLAIN -> MP; filename typo 'Unfaced'",
+  "_src": "S04.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.2,
+  "header_text": "@ ANDROID 20\nLEVEL UNFAZED () U30\n_-  ~—-— .",
+  "stages_text": "750,000\n550,000\n350,000\n150,000\n75,000\n150,000\n25,000\n10,000\n5,000\n\n, 2,500\n0",
+  "error": null
+ }
+}

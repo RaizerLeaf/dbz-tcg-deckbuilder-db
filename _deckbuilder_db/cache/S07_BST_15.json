@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_15",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "15_Blue Feast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/15_Blue Feast.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Blue Feast",
+  "file_name": "Blue Feast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a654416629dde513b48653075035d78d1e5b1004"
+ },
+ "vision": {
+  "id": "S07_BST_15",
+  "name": "Blue Feast",
+  "sub": null,
+  "type": "Event",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when one of your Allies, Setups, or Drills is destroyed. Search your Life Deck for an Ally, Setup, or Drill and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.1,
+  "header_text": "BLUE FEAST ) C15\na cme at",
+  "stages_text": ",\n,,\n,",
+  "error": null
+ }
+}

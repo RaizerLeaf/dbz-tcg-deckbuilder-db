@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_81",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "81_Black Grounding Bash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/81_Black Grounding Bash.png",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Black Grounding Bash",
+  "file_name": "Black Grounding Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "1b94a56e2e1ebcd19ead9f61d1205558bd735154"
+ },
+ "vision": {
+  "id": "S05_BST_81",
+  "name": "Black Grounding Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nReveal the top card of your opponent's Life Deck. If the revealed card was a Setup or Drill, you may place it into play under your control.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "BLACK GROUNDING BASH @) U81 |\nWen) ww / i",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

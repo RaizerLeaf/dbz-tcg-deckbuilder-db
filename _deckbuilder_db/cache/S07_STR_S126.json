@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S126",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S126_Black Defensive Burst.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S126_Black Defensive Burst.png",
+  "prefix": "S",
+  "number": 126,
+  "card_number": "S126",
+  "name_part": "Black Defensive Burst",
+  "file_name": "Black Defensive Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6010410da6b3f4457eeb3e0eac1f3a7ff8bbba95"
+ },
+ "vision": {
+  "id": "S07_STR_S126",
+  "name": "Black Defensive Burst",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 4 life cards. HIT: Your opponent cannot perform physical attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S71; text compared on the sheet",
+  "_src": "S07.jsonl:309"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "BLACK DEFENSIVE BURST ) $126\nee Vvee /\\\\\\ \\.) a",
+  "stages_text": "37",
+  "error": null
+ }
+}

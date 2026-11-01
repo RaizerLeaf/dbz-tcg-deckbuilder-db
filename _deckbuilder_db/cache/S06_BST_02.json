@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_02",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "02_Black Astonishing Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/02_Black Astonishing Drill.jpg",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Astonishing Drill",
+  "file_name": "Black Astonishing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "2e32db12a669d98e358633ecefdcad38a4531f01"
+ },
+ "vision": {
+  "id": "S06_BST_02",
+  "name": "Black Astonishing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Whenever your opponent gains stages during combat, your MP gains the same number of stages.\nPOWER: Reveal the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 74.7,
+  "header_text": "BLACK ASTONISHING DRILL () 02\nmee ota Dees was ae }& fe ae",
+  "stages_text": null,
+  "error": null
+ }
+}

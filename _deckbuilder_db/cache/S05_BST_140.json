@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_140",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "140_Saiyan Overhead Flare.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/140_Saiyan Overhead Flare.png",
+  "prefix": null,
+  "number": 140,
+  "card_number": "140",
+  "name_part": "Saiyan Overhead Flare",
+  "file_name": "Saiyan Overhead Flare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a1af86a88d6dbd3638e996b387371513314073cc"
+ },
+ "vision": {
+  "id": "S05_BST_140",
+  "name": "Saiyan Overhead Flare",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Dragon Balls lose all effects for the remainder of combat.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.6,
+  "header_text": "SAIYAN OVERHEAD FLARE > p10\nip Ae...",
+  "stages_text": "4\n,\n,\n\n,",
+  "error": null
+ }
+}

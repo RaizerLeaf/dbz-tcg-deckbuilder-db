@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_89",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "89_Namekian Empowered Charge.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/89_Namekian Empowered Charge.jpg",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Namekian Empowered Charge",
+  "file_name": "Namekian Empowered Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "971c0f72d2f621216c03dd75903bd12bcf1c140f"
+ },
+ "vision": {
+  "id": "S06_BST_89",
+  "name": "Namekian Empowered Charge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nIf you have drawn a card this combat, this attack stays in play to be used a second time this combat.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "| NAMEKIAN EMPOWERED CHARGE C) U89",
+  "stages_text": "7,\n,\n,\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_41",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "41_Tenshinhan's Solar Flare.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/41_Tenshinhan's Solar Flare.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Tenshinhan's Solar Flare",
+  "file_name": "Tenshinhan's Solar Flare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "74a70816ac30800cc32da74cb0065e32994de695"
+ },
+ "vision": {
+  "id": "S09_BST_41",
+  "name": "Tenshinhan's Solar Flare",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(You must destroy the top card of your Life Deck to use this card. If this card is destroyed or banished from your Life Deck, Rejuvenate it.)\n[Attack] Energy attack.\nYou may choose a non-Mastery card in play. If you do, cards with that title lose all effects until the end of combat. Raise or lower a player's anger 1.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 88.2,
+  "header_text": "TENSHINHAN'S SOLAR FLARE () R41\n————oooEE————",
+  "stages_text": ",,\n,",
+  "error": null
+ }
+}

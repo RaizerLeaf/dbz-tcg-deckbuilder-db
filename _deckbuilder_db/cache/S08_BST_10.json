@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_10",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "10_Blue Quick Shot.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/10_Blue Quick Shot.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Quick Shot",
+  "file_name": "Blue Quick Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fa39c0d01f5c0824554e4498a5143831ec7afd34"
+ },
+ "vision": {
+  "id": "S08_BST_10",
+  "name": "Blue Quick Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nLower your opponent's anger 1 level. You may discard a card from your hand to draw a card. If you discarded an Ally, you may place it into play instead.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "BLUE QUICK SHOT a\ni",
+  "stages_text": "44\n1,",
+  "error": null
+ }
+}

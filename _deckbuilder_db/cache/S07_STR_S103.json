@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S103",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S103_Saiyan Offensive Rush.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S103_Saiyan Offensive Rush.png",
+  "prefix": "S",
+  "number": 103,
+  "card_number": "S103",
+  "name_part": "Saiyan Offensive Rush",
+  "file_name": "Saiyan Offensive Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "d344a4e270a4a21f9a5fdc7547447e1392f240bd"
+ },
+ "vision": {
+  "id": "S07_STR_S103",
+  "name": "Saiyan Offensive Rush",
+  "sub": null,
+  "type": "Setup",
+  "num": "S103",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP loses 4 stages. Your attacks deal +3 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S36; text compared on the sheet",
+  "_src": "S07.jsonl:286"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "SAIYAN OFFENSIVE RUSH €) $103\n—",
+  "stages_text": null,
+  "error": null
+ }
+}

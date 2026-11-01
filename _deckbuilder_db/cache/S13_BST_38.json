@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_38",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "38_Buu's Absorbing Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/38_Buu's Absorbing Drill.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Buu's Absorbing Drill",
+  "file_name": "Buu's Absorbing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "c6152e19ead62500fc05b250a2921727c3b1c2fb"
+ },
+ "vision": {
+  "id": "S13_BST_38",
+  "name": "Buu's Absorbing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. This card is not discarded when advancing a level. Use only if your opponent has not performed a successful attack this combat.)\n[Defense] POWER: Stops a physical or energy attack.\nYou may discard a card from your hand to perform a copy of that attack for your next action.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; grey card; no Endurance badge",
+  "_src": "S13.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "BUU'S ABSORBING DRILL a R38 |\nmr ee",
+  "stages_text": null,
+  "error": null
+ }
+}

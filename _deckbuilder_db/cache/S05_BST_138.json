@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_138",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "138_Saiyan Charged Kick.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/138_Saiyan Charged Kick.png",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Saiyan Charged Kick",
+  "file_name": "Saiyan Charged Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "7bcbc7dacdc3ecb1269921e29ef1f4dfabb60d85"
+ },
+ "vision": {
+  "id": "S05_BST_138",
+  "name": "Saiyan Charged Kick",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nYou may discard a card from your hand to draw a card.\nDAMAGE: 5 life cards.\nHIT: If this attack dealt five or more stages of damage, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.3,
+  "header_text": "SAIYAN CHARGED KICK > R138\n~ — °°",
+  "stages_text": "7\n7\n,",
+  "error": null
+ }
+}

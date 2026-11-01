@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_26",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "26_Namekian Left Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/26_Namekian Left Block.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Namekian Left Block",
+  "file_name": "Namekian Left Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b1a5b9de9939de4f6db96ba70f46571cba2d428"
+ },
+ "vision": {
+  "id": "S07_BST_26",
+  "name": "Namekian Left Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nSearch your Life Deck for a Dragon Ball and place it into play under your opponent's control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "NAMEKIAN LEFT BLOCK ) 026",
+  "stages_text": ",",
+  "error": null
+ }
+}

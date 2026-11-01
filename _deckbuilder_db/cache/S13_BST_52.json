@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_52",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "52_Gohan - Earth's Defender.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/52_Gohan - Earth's Defender.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Gohan - Earth's Defender",
+  "file_name": "Gohan",
+  "file_subtitle": "Earth's Defender",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1b48e69a89a412cf2f56628e5ab7e5d0b863494d"
+ },
+ "vision": {
+  "id": "S13_BST_52",
+  "name": "Gohan",
+  "sub": "Earth's Defender",
+  "type": "Main Personality",
+  "num": "S52",
+  "lvl": 4,
+  "stages": [
+   12000000,
+   9800000,
+   7000000,
+   3500000,
+   1000000,
+   700000,
+   500000,
+   300000,
+   100000,
+   40000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +2 stages and +2 life cards of damage. Your attacks cannot be stopped by Event cards.\nPOWER: Gain 4 stages. Rejuvenate 4. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S13.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "GOHAN",
+  "stages_text": "12,000,000\n9,800,000\n7,000,000\n3,500,000\n1,000,000\n700,000\n500,000\n300,000\n100,000\n40,000\n0",
+  "error": null
+ }
+}

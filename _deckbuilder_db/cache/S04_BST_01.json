@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_01",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "01_Black Pop-Up.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/01_Black Pop-Up.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Pop-Up",
+  "file_name": "Black Pop-Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "8e89faa99945fd39485fc3b7b0552c4623f227d2"
+ },
+ "vision": {
+  "id": "S04_BST_01",
+  "name": "Black Pop-Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Name a card. Your opponent destroys the top card of his Life Deck. If the card you named was destroyed, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 landscape Setup/Drill layout (Red Ribbon set icon)",
+  "_src": "S04.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "4 : ;\n. ll | “ eee\nae (ii. a a\n\\ ae hes . hg b-| ~\nVE RCTY, A 6",
+  "stages_text": null,
+  "error": null
+ }
+}

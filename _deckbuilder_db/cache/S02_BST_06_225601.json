@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_06_225601",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "06_Raditz - Confident.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/06_Raditz - Confident.jpg",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Raditz - Confident",
+  "file_name": "Raditz",
+  "file_subtitle": "Confident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "225601aadaec5c3aa875b21333858e3d058cd6d9"
+ },
+ "vision": {
+  "id": "S02_BST_06_225601",
+  "name": "Raditz",
+  "sub": "Confident",
+  "type": "Main Personality",
+  "num": "C6",
+  "lvl": 2,
+  "stages": [
+   13000,
+   12500,
+   12000,
+   11500,
+   11000,
+   10500,
+   10000,
+   9500,
+   9000,
+   8500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your Setups or Drills enters play, destroy the top card of your opponent's Life Deck. Whenever one of your Setups or Drills enters play during combat, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S02.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "E RADITZ 2s €) ce\nMST CONIDENT. Sees ae",
+  "stages_text": "13,000\n12,500\n12,000\n11,500\n11,000\n10,500\n10,000\n9,500\n\n9,000\n\n8,500\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_44",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "44_Android 18's Destructo Disk.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/44_Android 18's Destructo Disk.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Android 18's Destructo Disk",
+  "file_name": "Android 18's Destructo Disk",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d2eccbe18dc2143de65befffe95cd71a94aba3c0"
+ },
+ "vision": {
+  "id": "S10_BST_44",
+  "name": "Android 18's Destructo Disk",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nThis attack cannot be stopped. If damage from this attack is prevented, draw a card.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.9,
+  "header_text": "ANDROID 18'S DESTRUCTO DISK @) R44\nheey fh —= EE",
+  "stages_text": "2\n9\n,\n\n,\n\n,",
+  "error": null
+ }
+}

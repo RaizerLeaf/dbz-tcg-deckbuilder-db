@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_11",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "11_Namekian Malicious Intent.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/11_Namekian Malicious Intent.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Namekian Malicious Intent",
+  "file_name": "Namekian Malicious Intent",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0af4f6881d851ff99cff44de1fdb2602173742ba"
+ },
+ "vision": {
+  "id": "S09_BST_11",
+  "name": "Namekian Malicious Intent",
+  "sub": null,
+  "type": "Setup",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 1 per deck.)\n[Instant] POWER: Use when entering combat. Rejuvenate 1. If the highest power level on your MP's Level 4 is 500,000 or less, you may search your Life Deck for a Dragon Ball and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S09.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "AMEKIAN MALICIOUS INTENT & un |",
+  "stages_text": null,
+  "error": null
+ }
+}

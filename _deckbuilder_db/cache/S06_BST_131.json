@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_131",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "131_Singing Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/131_Singing Drill.jpg",
+  "prefix": null,
+  "number": 131,
+  "card_number": "131",
+  "name_part": "Singing Drill",
+  "file_name": "Singing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "28d8c7d6aae00369599118ba68a8ad6f69cb0c34"
+ },
+ "vision": {
+  "id": "S06_BST_131",
+  "name": "Singing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered Styled. When this card enters play, if it is the first time a card titled \"Singing Drill\" has entered play this turn you may discard a card from your hand to draw a card.)\n[Continuous]: While you control no other Drills, your attacks deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S06.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "SINGING DRILL o R131 |",
+  "stages_text": null,
+  "error": null
+ }
+}

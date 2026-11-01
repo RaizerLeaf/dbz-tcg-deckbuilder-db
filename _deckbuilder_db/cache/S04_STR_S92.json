@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S92",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S92_Namekian Maximum Will.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S92_Namekian Maximum Will.png",
+  "prefix": "S",
+  "number": 92,
+  "card_number": "S92",
+  "name_part": "Namekian Maximum Will",
+  "file_name": "Namekian Maximum Will",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "0fcbb9a9a8fb05611c439a76d65d37c29c25be0a"
+ },
+ "vision": {
+  "id": "S04_STR_S92",
+  "name": "Namekian Maximum Will",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 2 stages.\nYou may destroy up to 2 cards from the top of your Life Deck. For each card destroyed, lower your opponent's anger 2 levels.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C33",
+  "_src": "S04.jsonl:245"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 77.2,
+  "header_text": "NAMEKIAN MAXIMUM WILL © ») S92.\na waa pw — °° fF",
+  "stages_text": "2\n2\n2\n,\n,",
+  "error": null
+ }
+}

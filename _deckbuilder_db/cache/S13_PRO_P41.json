@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P41",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P41_Namek Dragon Ball 2.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P41_Namek Dragon Ball 2.png",
+  "prefix": "P",
+  "number": 41,
+  "card_number": "P41",
+  "name_part": "Namek Dragon Ball 2",
+  "file_name": "Namek Dragon Ball 2",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "40034fc5603ce7d0e821367d993402fe8c9df082"
+ },
+ "vision": {
+  "id": "S13_PRO_P41",
+  "name": "Namek Dragon Ball 2",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "You may lower an MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "wording differs from S01 C2 ('lower a personality 1 level')",
+  "_src": "S13.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.9,
+  "header_text": "NAMEK DRAGON BALL 2 (3) P41 |",
+  "stages_text": "2",
+  "error": null
+ }
+}

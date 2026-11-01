@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P18",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P18_Blue Dominance.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P18_Blue Dominance.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Blue Dominance",
+  "file_name": "Blue Dominance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "70272a28cdcc9cc6805f9d0d1bd9afe609dff52e"
+ },
+ "vision": {
+  "id": "S10_PRO_P18",
+  "name": "Blue Dominance",
+  "sub": null,
+  "type": "Setup",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\n[Instant] POWER: Use when entering combat. Advance or lower your MP to level 2. Choose up to 2 Drills in your discard pile and place them into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; reprint of S03 U82",
+  "_src": "S10.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "BLUE DOMINANCE @ ris]",
+  "stages_text": null,
+  "error": null
+ }
+}

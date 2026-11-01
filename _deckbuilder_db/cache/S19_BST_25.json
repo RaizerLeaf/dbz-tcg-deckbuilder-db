@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_25",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "25_Red Primal Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/25_Red Primal Mastery.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Primal Mastery",
+  "file_name": "Red Primal Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6ec245ad01488aaea1d03b469582ef3b3015d489"
+ },
+ "vision": {
+  "id": "S19_BST_25",
+  "name": "Red Primal Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks cost -1 stage (this effect cannot lower a cost to 0).\n[Instant] POWER: Use when you would use a critical damage effect during your action. Raise your anger 2 instead.\nPOWER: Gain 1 + X stages. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip partly hidden on the sheet, name from the filename; number DR25 visible",
+  "_src": "S19.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 79.0,
+  "header_text": "SN UZ",
+  "stages_text": "5 3\n25\n,",
+  "error": null
+ }
+}

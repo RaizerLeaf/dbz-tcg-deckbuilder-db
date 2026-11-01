@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_09",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "09_Blue Energy Resistance.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/09_Blue Energy Resistance.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Energy Resistance",
+  "file_name": "Blue Energy Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "48c755004cc8024ce6f24a6d36176d1c39bde66f"
+ },
+ "vision": {
+  "id": "S15_BST_09",
+  "name": "Blue Energy Resistance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nRaise your anger 1.\n[Trait:Alien]: Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: purple A badge (Alien)",
+  "_src": "S15.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.778,
+  "lower_conf": 87.0,
+  "header_text": "BLUE ENERGY RESISTANCE ) co\n_— we £ »* Fe mZ",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

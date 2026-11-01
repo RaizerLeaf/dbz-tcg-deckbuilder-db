@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_15",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "15_Blue Knee.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/15_Blue Knee.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Blue Knee",
+  "file_name": "Blue Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "c06469c5bf6ff54793b74d3b08e70f8de520c5fb"
+ },
+ "vision": {
+  "id": "S04_BST_15",
+  "name": "Blue Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical Attack.\nDAMAGE: AT +3 stages.\nHIT: You may banish the top 2 cards of your Life Deck to lower your opponent's MP 1 level. Raise a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "BLUE KNEE () C15\nlO OS",
+  "stages_text": "7\n4,",
+  "error": null
+ }
+}

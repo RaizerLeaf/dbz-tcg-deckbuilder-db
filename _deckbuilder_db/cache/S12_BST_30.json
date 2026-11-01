@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_30",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "30_Saiyan Sludge Bomb.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/30_Saiyan Sludge Bomb.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Saiyan Sludge Bomb",
+  "file_name": "Saiyan Sludge Bomb",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cc4fa4821a1ed6407e2e171d77d6a9b07c425b0b"
+ },
+ "vision": {
+  "id": "S12_BST_30",
+  "name": "Saiyan Sludge Bomb",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is Rejuvenated during combat, you may banish it instead to choose 2 cards in a player's discard pile and banish them.)\n[Attack] Energy attack costing 2 stages.\nEndurance cannot be used on this attack.\nDAMAGE: 5 life cards.\nHIT: Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 88.1,
+  "header_text": "SAIYAN SLUDGE BOMB C) C30",
+  "stages_text": "4\n,4 1 1\n,",
+  "error": null
+ }
+}

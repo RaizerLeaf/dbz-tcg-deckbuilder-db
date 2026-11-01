@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_52",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "52_Tapion - Konatsian Knight.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/52_Tapion - Konatsian Knight.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Tapion - Konatsian Knight",
+  "file_name": "Tapion",
+  "file_subtitle": "Konatsian Knight",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d35c8d2afdaf32f325e37b279255ae7947cda730"
+ },
+ "vision": {
+  "id": "S15_BST_52",
+  "name": "Tapion",
+  "sub": "Konatsian Knight",
+  "type": "Main Personality",
+  "num": "S52",
+  "lvl": 2,
+  "stages": [
+   800000,
+   650000,
+   475000,
+   300000,
+   125000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(When you reach this level, you may search your Life Deck for \"Tapion's Ocarina\" and place it into play attached.)\n[Continuous]: Your attacks deal +1 stage.\nPOWER: [Attack] Physical attack.\nRaise your anger 1. Gain 3 stages.\nDAMAGE: 5 stages.\nHIT: Search your Life Deck for a Styled or Named card with \"Sword\" in the title and place it into your hand. Discard a card from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S15.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 0.851,
+  "lower_conf": 79.8,
+  "header_text": "TAPION",
+  "stages_text": "800,000\n650,000\n475,000\n300,000\n125,000\n75,000\n50,000\n25,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

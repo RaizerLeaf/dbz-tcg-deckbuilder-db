@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P26",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P26_Villainous Visage.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P26_Villainous Visage.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Villainous Visage",
+  "file_name": "Villainous Visage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ca95ea12ae5bccfc2c4dfe93bc6415a73088eef0"
+ },
+ "vision": {
+  "id": "S11_PRO_P26",
+  "name": "Villainous Visage",
+  "sub": null,
+  "type": "Setup",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 1 per deck.)\n[Instant] POWER: Use after you take damage from an attack. Your opponent destroys the top X cards of their Life Deck. X = twice the amount of life card damage that attack dealt.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; black-and-white manga art; no Endurance badge",
+  "_src": "S11.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 70.3,
+  "header_text": "VILLAINOUS VISAGE © P26 ») P26 |\nSi an a Oe ee ne ae Sy.",
+  "stages_text": null,
+  "error": null
+ }
+}

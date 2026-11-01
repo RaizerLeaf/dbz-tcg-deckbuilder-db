@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_75",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "75_Top - Of Universe 11.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/75_Top - Of Universe 11.png",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Top - Of Universe 11",
+  "file_name": "Top",
+  "file_subtitle": "Of Universe 11",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e574ca8e6c47c2d89cf7301d9584f22b7d182ebd"
+ },
+ "vision": {
+  "id": "S19_BST_75",
+  "name": "Top",
+  "sub": "Of Universe 11",
+  "type": "Main Personality",
+  "num": "S75",
+  "lvl": 3,
+  "stages": [
+   199999999,
+   99000000,
+   7999000,
+   1499000,
+   1199000,
+   999000,
+   499000,
+   299000,
+   99000,
+   59000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages.\nPOWER: [Attack] Physical attack.\nFocused. Rejuvenate up to 3 cards with \"attach\" in the text-box from your discard pile.\nDAMAGE: 5 stages.\nHIT: Reveal the bottom card of your Life Deck. If that card can attach to a personality, place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "TOP",
+  "stages_text": "199,999,999\n99,000,000\n7,999,000\n1,499,000\n1,199,000\n999,000\n499,000\n299,000\n99,000\n59,000\n0",
+  "error": null
+ }
+}

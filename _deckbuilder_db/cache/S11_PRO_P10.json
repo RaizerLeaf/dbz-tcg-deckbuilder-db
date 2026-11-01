@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P10",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P10_Goten - Floating.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P10_Goten - Floating.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Goten - Floating",
+  "file_name": "Goten",
+  "file_subtitle": "Floating",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a6ff3c949620fb3b05cb937e892629f95fd3ab33"
+ },
+ "vision": {
+  "id": "S11_PRO_P10",
+  "name": "Goten",
+  "sub": "Floating",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 2,
+  "stages": [
+   300000,
+   150000,
+   100000,
+   90000,
+   80000,
+   70000,
+   30000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(After you advance to this level, search your Life Deck for a Styled Drill and place it into play.)\n[Continuous]: Your attacks deal +1 stage of damage and your opponent's attacks deal -1 stage of damage.\nPOWER: [Attack] Physical attack.\nDAMAGE: AT + 2 stages.\nHIT: Raise or lower a player's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges E + S; stats and text compared against S10_BST_71 on the sheet, identical",
+  "_src": "S11.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.7,
+  "header_text": "GOTEN\n- FLOATING y —-1O0 )",
+  "stages_text": "300,000\n150,000\n100,000\n90,000\n80,000\n7 70,000\n30,000\n15,000\n10,000\n0\n\n5",
+  "error": null
+ }
+}

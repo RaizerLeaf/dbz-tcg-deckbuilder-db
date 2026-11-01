@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_13",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "13_Blue Brace.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/13_Blue Brace.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Blue Brace",
+  "file_name": "Blue Brace",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0a82182ce905e5221916ecadf23c3994a0607fbf"
+ },
+ "vision": {
+  "id": "S07_BST_13",
+  "name": "Blue Brace",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nSearch your discard pile for a Styled Setup and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "BLUE BRACE () 013",
+  "stages_text": ",",
+  "error": null
+ }
+}

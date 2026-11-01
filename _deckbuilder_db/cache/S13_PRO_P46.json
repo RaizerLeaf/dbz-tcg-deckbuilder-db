@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P46",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P46_Namek Dragon Ball 7.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P46_Namek Dragon Ball 7.png",
+  "prefix": "P",
+  "number": 46,
+  "card_number": "P46",
+  "name_part": "Namek Dragon Ball 7",
+  "file_name": "Namek Dragon Ball 7",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "00fa1be88ba8b94053480b904af82945b6575215"
+ },
+ "vision": {
+  "id": "S13_PRO_P46",
+  "name": "Namek Dragon Ball 7",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "P46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Choose 3 cards from your discard pile and place them on top of your Life Deck or destroy the top 3 card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "printed 'top 3 card' (missing s) transcribed as printed",
+  "_src": "S13.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "NAMEK DRAGON BALL 7 6) P46\nss anlmltlC",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

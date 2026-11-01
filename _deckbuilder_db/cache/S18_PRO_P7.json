@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P7",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P7_Blue Stylish Pose.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P7_Blue Stylish Pose.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Blue Stylish Pose",
+  "file_name": "Blue Stylish Pose",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "c2d86e40c9716316739f5dfd5819a87c5fb110d8"
+ },
+ "vision": {
+  "id": "S18_PRO_P7",
+  "name": "Blue Stylish Pose",
+  "sub": null,
+  "type": "Setup",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 1 per deck. As an action, you may banish this card from your hand to search your discard pile or Banished Zone for an Ally and play it.)\nPOWER: Search your Life Deck or discard pile for an Ally and play it. Raise an Ally to its highest power stage. You may use a critical damage effect.\n(Created by Matt Tambor, OP1 North Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; prints a design credit line",
+  "_src": "S18.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 86.8,
+  "header_text": "BLUE STYLISH POSE () P7",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S55",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S55_Black Resistance.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S55_Black Resistance.png",
+  "prefix": "S",
+  "number": 55,
+  "card_number": "S55",
+  "name_part": "Black Resistance",
+  "file_name": "Black Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "50091d1537e56ffe0961a136b51ecf8aa94edd37"
+ },
+ "vision": {
+  "id": "S04_STR_S55",
+  "name": "Black Resistance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S55",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops an energy attack.\nRaise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C15",
+  "_src": "S04.jsonl:208"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 60.5,
+  "header_text": "BLACK RESISTANCE () $55\n_ li agp “Hn if ss ig",
+  "stages_text": ", 4 ,\n,\n,",
+  "error": null
+ }
+}

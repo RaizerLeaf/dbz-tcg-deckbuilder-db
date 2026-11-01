@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P19",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P19_Namekian Overhead Blast.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P19_Namekian Overhead Blast.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Namekian Overhead Blast",
+  "file_name": "Namekian Overhead Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ed5d3c0ab55b085385aec4ab9b6b86ca46a2b04e"
+ },
+ "vision": {
+  "id": "S10_PRO_P19",
+  "name": "Namekian Overhead Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished for Endurance, your Dragon Balls cannot be captured this combat.)\n[Attack] 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate X. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": "FanZ reprint of S01 S55",
+  "_src": "S10.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 83.5,
+  "header_text": "NAMEKIAN OVERHEAD BLAST @& ) P19,\naan  \\e5 an wee",
+  "stages_text": "4",
+  "error": null
+ }
+}

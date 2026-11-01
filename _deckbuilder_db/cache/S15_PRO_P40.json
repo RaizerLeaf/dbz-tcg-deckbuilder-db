@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P40",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P40_Halt.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P40_Halt.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Halt",
+  "file_name": "Halt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e732da4c69fb62c59f8e5b5bd779a0b414161dc5"
+ },
+ "vision": {
+  "id": "S15_PRO_P40",
+  "name": "Halt",
+  "sub": null,
+  "type": "Event",
+  "num": "P40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Instant] POWER: [Trait:God]: If you have 2 or less Traits, use when an Event is played or a Setup Power is used. Cancel the effects of that card.\n(Shuffle into your Life Deck after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; inline icon zoomed: gold G badge (God); no Endurance badge; same title as S11 BST_32",
+  "_src": "S15.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 91.0,
+  "header_text": "IP 735-8 [fF FG | ct; YW \"ew dl IF [Pt\n| HALT () P40 |\n~",
+  "stages_text": "4\n,\n,\n,",
+  "error": null
+ }
+}

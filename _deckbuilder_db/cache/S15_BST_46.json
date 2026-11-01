@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_46",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "46_Hirudegarn - On the Move.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/46_Hirudegarn - On the Move.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Hirudegarn - On the Move",
+  "file_name": "Hirudegarn",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a4b9f8a40171a7acdc9a2cdabdc62ce763734c53"
+ },
+ "vision": {
+  "id": "S15_BST_46",
+  "name": "Hirudegarn",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "S46",
+  "lvl": 4,
+  "stages": [
+   7500000,
+   5000000,
+   3500000,
+   1000000,
+   850000,
+   500000,
+   350000,
+   100000,
+   85000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "God",
+   "Alien"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: You may use your Level 3 non-[Continuous] Powers.\nPOWER: [Attack] Physical attack.\nDestroy an attached card.\nDAMAGE: 4 stages.\nHIT: Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges G, A",
+  "_src": "S15.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.4,
+  "header_text": "@1. HIRUDEGARN\nLEVEL ON THE MOVE () 546",
+  "stages_text": "7,500,000\n5,000,000\n3,500,000\n1,000,000\n850,000\n500,000\n350,000\n100,000\n85,000\n50,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_24",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "24_Namekian Airborne Attack.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/24_Namekian Airborne Attack.jpg",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Namekian Airborne Attack",
+  "file_name": "Namekian Airborne Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "2ff0331936d7b1f2c86443b054fba41c29f72644"
+ },
+ "vision": {
+  "id": "S06_BST_24",
+  "name": "Namekian Airborne Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your discard pile for a non-Styled card and Rejuvenate it.\nDAMAGE: AT +4 stages.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "NAMEKIAN AIRBORNE ATTACK ) C24",
+  "stages_text": "3",
+  "error": null
+ }
+}

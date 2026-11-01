@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S131",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S131_Red Hunting Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S131_Red Hunting Drill.png",
+  "prefix": "S",
+  "number": 131,
+  "card_number": "S131",
+  "name_part": "Red Hunting Drill",
+  "file_name": "Red Hunting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "ef3b1e6ae896ddd39e55fa04fbc2d760fa0a3127"
+ },
+ "vision": {
+  "id": "S04_STR_S131",
+  "name": "Red Hunting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Once per combat when you deal critical damage, you may search your opponent's Life Deck for a card and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C44; landscape layout",
+  "_src": "S04.jsonl:284"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.1,
+  "header_text": "f4. \\\nSee (3? a\nlos off pe, 2A",
+  "stages_text": null,
+  "error": null
+ }
+}

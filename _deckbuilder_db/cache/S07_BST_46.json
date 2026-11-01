@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_46",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "46_Red Sneaky Srike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/46_Red Sneaky Srike.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Red Sneaky Srike",
+  "file_name": "Red Sneaky Srike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "810fb299a92283c31cf3985dd0a85b0b16148a5f"
+ },
+ "vision": {
+  "id": "S07_BST_46",
+  "name": "Red Sneaky Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you have used a critical damage effect this combat, raise your anger 1 level. Your opponent's MP loses 2 stages.\nDAMAGE: AT +2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "filename typo 'Srike'",
+  "_src": "S07.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "RED SNEAKY STRIKE @ us\n—_ «|",
+  "stages_text": "4\n37\n1,\n,",
+  "error": null
+ }
+}

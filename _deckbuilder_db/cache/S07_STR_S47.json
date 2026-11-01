@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S47",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S47_Blue Crouch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S47_Blue Crouch.png",
+  "prefix": "S",
+  "number": 47,
+  "card_number": "S47",
+  "name_part": "Blue Crouch",
+  "file_name": "Blue Crouch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "402833f70b3d800d6ee49f374c7be82e4b4a52ae"
+ },
+ "vision": {
+  "id": "S07_STR_S47",
+  "name": "Blue Crouch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Defense] Stops a physical attack. If your MP's power level is lower than your opponent's MP's power level, place this card on top of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S143; text compared on the sheet",
+  "_src": "S07.jsonl:230"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 74.2,
+  "header_text": "BLUE CROUCH\nmn % —_ (aa |",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

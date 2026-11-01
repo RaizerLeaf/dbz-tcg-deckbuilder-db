@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_02",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "02_Black Blade.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/02_Black Blade.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Blade",
+  "file_name": "Black Blade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "01cf246c7f9a38b6aea0a2256771c080c24630ec"
+ },
+ "vision": {
+  "id": "S15_BST_02",
+  "name": "Black Blade",
+  "sub": null,
+  "type": "Event",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Black Blade\" attached.)\nPOWER: Attach to your MP. Banish 3 cards from your opponent's discard pile. While attached, once per turn as an action you may banish 1 card from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "BLACK BLADE () C2\n— £m ld —e",
+  "stages_text": "7",
+  "error": null
+ }
+}

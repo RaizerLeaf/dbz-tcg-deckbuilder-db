@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_50",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "50_Gohan - Mystic.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/50_Gohan - Mystic.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Gohan - Mystic",
+  "file_name": "Gohan",
+  "file_subtitle": "Mystic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "003488df3ee9d4bd7abad22617f298fd0ede6034"
+ },
+ "vision": {
+  "id": "S13_BST_50",
+  "name": "Gohan",
+  "sub": "Mystic",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 2,
+  "stages": [
+   7000000,
+   4000000,
+   1500000,
+   900000,
+   700000,
+   500000,
+   200000,
+   100000,
+   50000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage of damage.\n[Instant] POWER: Use after you Rejuvenate during combat. Gain 4 stages.\nPOWER: [Attack] Physical attack.\nRejuvenate 2. Raise your anger 1 level.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S13.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.8,
+  "header_text": "GOHAN",
+  "stages_text": "7,000,000\n4,000,000\n1,500,000\n\n900,000\n\n700,000\n\n500,000\n\n200,000\n\n100,000\n50,000\n10,000\n\n0",
+  "error": null
+ }
+}

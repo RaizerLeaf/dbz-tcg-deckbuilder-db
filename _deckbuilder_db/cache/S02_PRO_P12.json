@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P12",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P12_Orange Possession Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P12_Orange Possession Drill.jpg",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Orange Possession Drill",
+  "file_name": "Orange Possession Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "fb3d3f7928b85f98eef4f8394159edf3437ebc6c"
+ },
+ "vision": {
+  "id": "S02_PRO_P12",
+  "name": "Orange Possession Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Draw 2 cards and then discard 2 cards from your hand unless you discard a Styled Drill from your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R116; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "(ORANGE POSSESSION- DRILL ( )-s\nNN po NON",
+  "stages_text": "4",
+  "error": null
+ }
+}

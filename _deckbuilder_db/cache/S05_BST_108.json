@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_108",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "108_Cell's Style.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/108_Cell's Style.png",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Cell's Style",
+  "file_name": "Cell's Style",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "8f1911e187f7cce0d844aaf8262b4b0edfe1958d"
+ },
+ "vision": {
+  "id": "S05_BST_108",
+  "name": "Cell's Style",
+  "sub": null,
+  "type": "Event",
+  "num": "R108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your opponent's Life Deck for a Named attack and play it. If you failed to play a Named attack, destroy the top 3 cards of your opponent's Life Deck and shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.5,
+  "header_text": "CELL'S STYLE » ) R108\n> \\ oa »",
+  "stages_text": "7\n,\n\n,\n3",
+  "error": null
+ }
+}

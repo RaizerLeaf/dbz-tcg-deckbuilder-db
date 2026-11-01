@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_24",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "24_Orange Bang.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/24_Orange Bang.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Orange Bang",
+  "file_name": "Orange Bang",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a14c6d68d17665d4f189b30533c39e0be8e8b34a"
+ },
+ "vision": {
+  "id": "S19_BST_24",
+  "name": "Orange Bang",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nUse a critical damage effect.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "ORANGE BANG C) 24",
+  "stages_text": "",
+  "error": null
+ }
+}

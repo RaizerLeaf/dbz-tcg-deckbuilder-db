@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P14",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P14_Point-Blank Volley.jpg",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P14_Point-Blank Volley.jpg",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Point-Blank Volley",
+  "file_name": "Point-Blank Volley",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 200,
+  "height": 280,
+  "orientation": "portrait",
+  "sha1": "f83387c5964bc284f26df95c0977524acbf64906"
+ },
+ "vision": {
+  "id": "S07_PRO_P14",
+  "name": "Point-Blank Volley",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is banished for Endurance, you may place it into your hand.)\n[Attack] Energy attack costing 3 stages.\nIf your opponent's anger level is 0, raise your anger 1 level. Lower your opponent's anger 1 level. If your opponent's anger level is 0, raise your anger 1 level.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S06 #99); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:194"
+ },
+ "ocr": {
+  "agreement": 0.0,
+  "lower_conf": 33.7,
+  "header_text": "BOTS TEL ASO NOL Be t Pis\nSe\n( I a A f",
+  "stages_text": "",
+  "error": null
+ }
+}

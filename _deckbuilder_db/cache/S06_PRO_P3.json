@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P3",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P3_Blue Lifting Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P3_Blue Lifting Drill.jpg",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Blue Lifting Drill",
+  "file_name": "Blue Lifting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "9140410cc80f9043eaaa561ee3aeea917501595b"
+ },
+ "vision": {
+  "id": "S06_PRO_P3",
+  "name": "Blue Lifting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, you may place it into play.)\n[Continuous]: Your attacks deal +1 life card of damage. Whenever one of your attacks is stopped, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; promo reprint of S02 C23",
+  "_src": "S06.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "BLUE LIFTING DRILL o P3 |\na a ee a ee i es I",
+  "stages_text": null,
+  "error": null
+ }
+}

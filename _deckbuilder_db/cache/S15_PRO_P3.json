@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P3",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P3_Tapion - Swordsman.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P3_Tapion - Swordsman.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Tapion - Swordsman",
+  "file_name": "Tapion",
+  "file_subtitle": "Swordsman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "741a09713512727d4ee916c1f8a3d95212d73083"
+ },
+ "vision": {
+  "id": "S15_PRO_P3",
+  "name": "Tapion",
+  "sub": "Swordsman",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 3,
+  "stages": [
+   1250000,
+   1000000,
+   850000,
+   700000,
+   550000,
+   400000,
+   250000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title are Focused and deal +2 stages.\n[Instant] POWER: Use when entering combat. Search your Life Deck for a card with \"Sword\" in the title into your hand.\nPOWER: Gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badge A (purple); stats match S15 S53 but the first Power's wording differs: this card says 'Search your Life Deck ... into your hand' (booster S53: 'Search your discard pile ... and place it into your hand'); text zoomed",
+  "_src": "S15.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.7,
+  "header_text": "TAPION\n3 SWORDSMAN y m3\nLEVEL foe /\na} IN 2! OM a op ERW Ann",
+  "stages_text": "1,250,000\n1,000,000\n850,000\n700,000\n\n5 550,000\n400,000\n250,000\n100,000\n0\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_24",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "24_Namekian Eviction.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/24_Namekian Eviction.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Namekian Eviction",
+  "file_name": "Namekian Eviction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "08136a01ea2f0132977bf3642a964fa98d9dfd4c"
+ },
+ "vision": {
+  "id": "S07_BST_24",
+  "name": "Namekian Eviction",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThis attack deals +X life cards of damage. X = the number of Earth Dragon Balls you control.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "NAMEKIAN EVICTION ) 24",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

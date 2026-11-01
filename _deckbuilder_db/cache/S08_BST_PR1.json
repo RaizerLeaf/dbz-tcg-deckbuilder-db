@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_PR1",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "PR1_Frieza's Arrogance.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/PR1_Frieza's Arrogance.png",
+  "prefix": "PR",
+  "number": 1,
+  "card_number": "PR1",
+  "name_part": "Frieza's Arrogance",
+  "file_name": "Frieza's Arrogance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "625099044582360fda5174b2ddf926335f12968b"
+ },
+ "vision": {
+  "id": "S08_BST_PR1",
+  "name": "Frieza's Arrogance",
+  "sub": null,
+  "type": "Event",
+  "num": "R1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 2 per deck. If this card is Rejuvenated during combat, search your Life Deck for an Ally and play it.)\n[Defense] POWER: Stops a physical or energy attack.\nYou may Rejuvenate a Named card in your discard pile or Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; number area reads 'PREVIEW R1' (preview printing); filed in the booster folder with a PR prefix",
+  "_src": "S08.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 84.1,
+  "header_text": "FRIEZA'S ARROGANCE\n| “Sam |, J | Vr 7\\%",
+  "stages_text": ",",
+  "error": null
+ }
+}

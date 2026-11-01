@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_84",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "84_Goku - Farmer.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/84_Goku - Farmer.png",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Goku - Farmer",
+  "file_name": "Goku",
+  "file_subtitle": "Farmer",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2ba84a42cf48183e4fc4f8b3dbc80b99520380a6"
+ },
+ "vision": {
+  "id": "S16_BST_84",
+  "name": "Goku",
+  "sub": "Farmer",
+  "type": "Main Personality",
+  "num": "S84",
+  "lvl": 1,
+  "stages": [
+   4500000,
+   3255000,
+   1499000,
+   970000,
+   482000,
+   269000,
+   93000,
+   38000,
+   9000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect. Your Drills are not discarded when advancing from this level.)\n[Instant] POWER: Use when entering combat. Search your Life Deck for a Styled non-[Continuous] Drill and place it into play. If you control 3 or more Drills, advance your MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E, S",
+  "_src": "S16.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "1 coku\nLEVEL FARMER () 584\nCOW ee ae",
+  "stages_text": "4,500,000\n3,255,000\n1,499,000\n\n970,000\n\n482,000\n\n269,000\n\n93,000\n\n38,000\n9,000\n\n5,000\n0",
+  "error": null
+ }
+}

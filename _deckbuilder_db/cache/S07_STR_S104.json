@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S104",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S104_Saiyan Cheap Shot.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S104_Saiyan Cheap Shot.png",
+  "prefix": "S",
+  "number": 104,
+  "card_number": "S104",
+  "name_part": "Saiyan Cheap Shot",
+  "file_name": "Saiyan Cheap Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f43282607613d3ed1f106e1ac5ef7f99ff05ae1e"
+ },
+ "vision": {
+  "id": "S07_STR_S104",
+  "name": "Saiyan Cheap Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack costing 3 stages. DAMAGE: 6 life cards. Life card damage from this attack is banished.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_51; text compared on the sheet",
+  "_src": "S07.jsonl:287"
+ },
+ "ocr": {
+  "agreement": 0.684,
+  "lower_conf": 72.9,
+  "header_text": "[Pell it P54! if Ft. a ;:<———:: a |b —_ If IP the.\nSAIYAN CHEAP SHOT ) $104\n7 [jr dl [Fed] fe! I FPF ll [Pee ell [po\n\" wr =",
+  "stages_text": ",",
+  "error": null
+ }
+}

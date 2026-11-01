@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P57",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P57_Namekian Cunning Dash.png",
+  "rel_path": "z_OP Series/OP6/P57_Namekian Cunning Dash.png",
+  "prefix": "P",
+  "number": 57,
+  "card_number": "P57",
+  "name_part": "Namekian Cunning Dash",
+  "file_name": "Namekian Cunning Dash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6d0622c3f3b477fcc2a16b5fee0dc7eae2abeefa"
+ },
+ "vision": {
+  "id": "OP6_OP_P57",
+  "name": "Namekian Cunning Dash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n([Trait:God] only. If this card would be Rejuvenated, you may banish it instead to Rejuvenate a card from your discard pile.)\n[Attack] Physical attack.\nUntil the end of the next turn, your effects that destroy cards from the top of your opponent's Life Deck are increased by 1.\nDAMAGE: 3 life cards.\n(Created by Kelly Dennis, OP5 North Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); restriction icon zoomed: gold G badge (God)",
+  "_src": "OP.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 88.6,
+  "header_text": "NAMEKIAN CUNNING DASH C) P57",
+  "stages_text": ",\n4\n\n2\n,",
+  "error": null
+ }
+}

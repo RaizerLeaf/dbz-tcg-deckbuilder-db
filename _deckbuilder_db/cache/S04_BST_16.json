@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_16",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "16_Blue Shopping.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/16_Blue Shopping.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Blue Shopping",
+  "file_name": "Blue Shopping",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ca27d7cfab3182bdc318c3167e8edb10068902ee"
+ },
+ "vision": {
+  "id": "S04_BST_16",
+  "name": "Blue Shopping",
+  "sub": null,
+  "type": "Event",
+  "num": "C16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Prevent all damage from an attack.\nStyled attacks deal +2 stages of damage this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "low-res image (~443 px)",
+  "_src": "S04.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.9,
+  "header_text": "BLUE SHOPPING ) Cie\nDee. OMe -- oh,",
+  "stages_text": ",",
+  "error": null
+ }
+}

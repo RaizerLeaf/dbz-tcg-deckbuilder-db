@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P25",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P25_Saiyan Rescue.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P25_Saiyan Rescue.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Saiyan Rescue",
+  "file_name": "Saiyan Rescue",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d4f204618163e3e08d2b73967ff2097e3993546b"
+ },
+ "vision": {
+  "id": "S18_PRO_P25",
+  "name": "Saiyan Rescue",
+  "sub": null,
+  "type": "Event",
+  "num": "P25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Saiyan Rescue\" attached.)\nPOWER: Attach to your MP. Rejuvenate 1. While attached, once per turn as an action you may choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S18.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.2,
+  "header_text": "SAIYAN RESCUE C) P25\n= — ve ws,",
+  "stages_text": "8\n4\n\n4\n1,",
+  "error": null
+ }
+}

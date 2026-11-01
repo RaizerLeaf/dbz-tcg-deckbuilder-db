@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S64",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S64_Blue Biting Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S64_Blue Biting Drill.png",
+  "prefix": "S",
+  "number": 64,
+  "card_number": "S64",
+  "name_part": "Blue Biting Drill",
+  "file_name": "Blue Biting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "6c0ce3eac7edea09ec650a29f89412fcf5afba63"
+ },
+ "vision": {
+  "id": "S04_STR_S64",
+  "name": "Blue Biting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 power stages of damage. When a card effect lowers your opponent's anger and his anger is already 0, he destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C23; landscape layout",
+  "_src": "S04.jsonl:217"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.6,
+  "header_text": "a am et\n- ‘ a Cees tee = *: cal\nOy - =m —R R sf 14.",
+  "stages_text": null,
+  "error": null
+ }
+}

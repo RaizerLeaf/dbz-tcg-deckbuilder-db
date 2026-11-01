@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_29",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "29_Namekian Robotic Destruction.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/29_Namekian Robotic Destruction.jpg",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Namekian Robotic Destruction",
+  "file_name": "Namekian Robotic Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4421b3ffa31c09d9a2dd3bb15712d46bc794bb36"
+ },
+ "vision": {
+  "id": "S06_BST_29",
+  "name": "Namekian Robotic Destruction",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control into its owner's Life Deck. If you do, banish 3 cards from your opponent's discard pile.\nDAMAGE: AT +3 stages.\nHIT: Search your Life Deck for 2 cards and banish them. If you do, Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "| NAMEKIAN ROBOTIC DESTRUCTION C) C29 |\n| PT, a |",
+  "stages_text": ",\n347\n3",
+  "error": null
+ }
+}

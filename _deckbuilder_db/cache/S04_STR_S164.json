@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S164",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S164_Saiyan Gut Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S164_Saiyan Gut Kick.png",
+  "prefix": "S",
+  "number": 164,
+  "card_number": "S164",
+  "name_part": "Saiyan Gut Kick",
+  "file_name": "Saiyan Gut Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "89e806910e946df36f3530337ac2e932bc3c8dad"
+ },
+ "vision": {
+  "id": "S04_STR_S164",
+  "name": "Saiyan Gut Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S164",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYour opponent skips his next action this combat.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 U103",
+  "_src": "S04.jsonl:317"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "SAIYAN GUT KICK ¢) si64\npec: GAO .. ..Cl- fete",
+  "stages_text": ",\n4\n,",
+  "error": null
+ }
+}

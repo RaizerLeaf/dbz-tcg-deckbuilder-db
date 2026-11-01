@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P9",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P9_Blue Slide.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P9_Blue Slide.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Blue Slide",
+  "file_name": "Blue Slide",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 400,
+  "height": 559,
+  "orientation": "portrait",
+  "sha1": "8887c85cf1da1f5404d59eace81c2f8d631351ef"
+ },
+ "vision": {
+  "id": "S07_PRO_P9",
+  "name": "Blue Slide",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish the top 3 cards of your opponent's discard pile.\nDAMAGE: AT +3 life cards.\nHIT: Your opponent cannot play non-Styled cards this combat.",
+  "conf": "low",
+  "review": "never officially released: image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Text shown is copied from the card it reprints (S05 #23); visible fragments match, but exact wording on this printing is unconfirmed",
+  "note": "low-res, overlaid image.",
+  "_src": "S07.jsonl:190"
+ },
+ "ocr": {
+  "agreement": 0.071,
+  "lower_conf": 35.2,
+  "header_text": "BLUE SLIDE )\n—— sf  - ee ae",
+  "stages_text": "",
+  "error": null
+ }
+}

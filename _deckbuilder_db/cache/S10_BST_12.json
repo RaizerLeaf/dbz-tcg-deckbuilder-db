@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_12",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "12_Blue Tempo.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/12_Blue Tempo.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Blue Tempo",
+  "file_name": "Blue Tempo",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "42ef15fc83ebc6d71b04231b1d20fe3767cb6a8a"
+ },
+ "vision": {
+  "id": "S10_BST_12",
+  "name": "Blue Tempo",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your Life Deck for a Setup or Drill that can perform an attack and play it.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "BLUE TEMPO () R12\n\\. \\ a La) oe",
+  "stages_text": "8 ,\n347\n,",
+  "error": null
+ }
+}

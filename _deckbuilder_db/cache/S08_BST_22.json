@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_22",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "22_Red Speedy Drill.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/22_Red Speedy Drill.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Speedy Drill",
+  "file_name": "Red Speedy Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "aaf0170fe61f5b95d83d1787f09bfee5081266b9"
+ },
+ "vision": {
+  "id": "S08_BST_22",
+  "name": "Red Speedy Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your opponent's attacks deal -1 stage and -1 life card of damage.\nPOWER: Rejuvenate a Styled Drill from your discard pile to destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S08.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 81.3,
+  "header_text": "RED SPEEDY DRILL &) R22",
+  "stages_text": null,
+  "error": null
+ }
+}

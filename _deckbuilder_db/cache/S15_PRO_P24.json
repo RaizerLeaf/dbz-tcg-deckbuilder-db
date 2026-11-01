@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P24",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P24_Namekian Hybrid Defense.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P24_Namekian Hybrid Defense.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Namekian Hybrid Defense",
+  "file_name": "Namekian Hybrid Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "779c450f096547ae62235374a5542c97db64542f"
+ },
+ "vision": {
+  "id": "S15_PRO_P24",
+  "name": "Namekian Hybrid Defense",
+  "sub": null,
+  "type": "Event",
+  "num": "P24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nChoose X cards in your discard pile and Rejuvenate them. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "NAMEKIAN HYBRID DEFENSE @) P24 |",
+  "stages_text": ",",
+  "error": null
+ }
+}

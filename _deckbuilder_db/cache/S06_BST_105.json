@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_105",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "105_Blue Blanketing Blasts.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/105_Blue Blanketing Blasts.jpg",
+  "prefix": null,
+  "number": 105,
+  "card_number": "105",
+  "name_part": "Blue Blanketing Blasts",
+  "file_name": "Blue Blanketing Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a68c4f3565e5a4f1fe44bbe4c0c53e630764ae8a"
+ },
+ "vision": {
+  "id": "S06_BST_105",
+  "name": "Blue Blanketing Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 3 stages.\nPlace a card from your discard pile on top of your Life Deck.\nDAMAGE: 6 life cards.\nHIT: Choose 3 cards in your opponent's discard pile and banish them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 79.1,
+  "header_text": "BLUE BLANKETING BLASTS¢ ) R105 |\nTC —— os",
+  "stages_text": ",\n,\n,\n\n,",
+  "error": null
+ }
+}

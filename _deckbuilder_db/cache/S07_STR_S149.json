@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S149",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S149_Red Blazing Aura.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S149_Red Blazing Aura.png",
+  "prefix": "S",
+  "number": 149,
+  "card_number": "S149",
+  "name_part": "Red Blazing Aura",
+  "file_name": "Red Blazing Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ad67b0d1361a9f8808efd974d7f4059146b476a4"
+ },
+ "vision": {
+  "id": "S07_STR_S149",
+  "name": "Red Blazing Aura",
+  "sub": null,
+  "type": "Event",
+  "num": "S149",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Raise your anger 1 level. For the remainder of combat, your opponent's attacks deal -3 stages and -3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S49; text compared on the sheet",
+  "_src": "S07.jsonl:332"
+ },
+ "ocr": {
+  "agreement": 0.889,
+  "lower_conf": 84.8,
+  "header_text": "RED BLAZING AURA €) stag\nXd \"\\e J a",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_51",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "51_Gohan - Ultimate.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/51_Gohan - Ultimate.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Gohan - Ultimate",
+  "file_name": "Gohan",
+  "file_subtitle": "Ultimate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "10da8ea602e065047b2cb5612a655cdb495b84b7"
+ },
+ "vision": {
+  "id": "S13_BST_51",
+  "name": "Gohan",
+  "sub": "Ultimate",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 3,
+  "stages": [
+   10000000,
+   6000000,
+   3000000,
+   1000000,
+   800000,
+   500000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage and +1 life card of damage.\nPOWER: Choose up to 3 Styled cards in your discard pile. Your opponent chooses 1 of those cards. Place the chosen card into your hand. Rejuvenate the remaining cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S",
+  "_src": "S13.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "GOHAN",
+  "stages_text": "10,000,000\n6,000,000\n3,000,000\n1,000,000\n\n800,000\n500,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

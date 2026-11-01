@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P19",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P19_Black Combo.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P19_Black Combo.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Black Combo",
+  "file_name": "Black Combo",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "efe1003f696fd3bc9b107a21fb1181e08002c008"
+ },
+ "vision": {
+  "id": "S15_PRO_P19",
+  "name": "Black Combo",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2.\nDAMAGE: AT + 1 stage.\nHIT: You may choose a card attached to an MP and attach it to a different MP.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.6,
+  "header_text": "BLACK COMBO () P19",
+  "stages_text": ",\n7 7\n2\n3 2\n4 ,\n,",
+  "error": null
+ }
+}

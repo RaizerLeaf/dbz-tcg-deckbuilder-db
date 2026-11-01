@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_73",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "73_Top - Mysterious Opponent.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/73_Top - Mysterious Opponent.png",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Top - Mysterious Opponent",
+  "file_name": "Top",
+  "file_subtitle": "Mysterious Opponent",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3046b7fe14d630547a9b2b7ddf4d65d3f06c4725"
+ },
+ "vision": {
+  "id": "S19_BST_73",
+  "name": "Top",
+  "sub": "Mysterious Opponent",
+  "type": "Main Personality",
+  "num": "S73",
+  "lvl": 1,
+  "stages": [
+   23000000,
+   9850000,
+   1499000,
+   1000000,
+   487000,
+   322000,
+   90000,
+   34000,
+   9000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage.\n[Instant] POWER: Use when entering combat. You may Rejuvenate a card with \"attach\" in the text-box from your discard pile. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.2,
+  "header_text": "TOP",
+  "stages_text": "23,000,000\n9,850,000\n1,499,000\n1,000,000\n487,000\n322,000\n90,000\n34,000\n9,000\n\n5,000\n0",
+  "error": null
+ }
+}

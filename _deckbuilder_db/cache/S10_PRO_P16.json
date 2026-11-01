@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P16",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P16_Black Viewing Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P16_Black Viewing Drill.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Black Viewing Drill",
+  "file_name": "Black Viewing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "027861f048dcd14a5531e015011621028ad85234"
+ },
+ "vision": {
+  "id": "S10_PRO_P16",
+  "name": "Black Viewing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: After your opponent discards a card from their hand by a card effect during combat, destroy the top card of their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; FanZ reprint of S03 U73 (modernised wording)",
+  "_src": "S10.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "BLACK VIEWING DRILL a P16 |\nrr \\ FO",
+  "stages_text": null,
+  "error": null
+ }
+}

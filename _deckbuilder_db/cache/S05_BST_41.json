@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_41",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "41_Orange Planned Block.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/41_Orange Planned Block.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Orange Planned Block",
+  "file_name": "Orange Planned Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e0f00f3db8b72673660ff9a46f9eb58ff6114f3e"
+ },
+ "vision": {
+  "id": "S05_BST_41",
+  "name": "Orange Planned Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nIf you do not control a Drill, search your Life Deck for a Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 69.4,
+  "header_text": "ORANGE PLANNED BLOCK C) C41\n4",
+  "stages_text": "4\n7\n,\n7 7",
+  "error": null
+ }
+}

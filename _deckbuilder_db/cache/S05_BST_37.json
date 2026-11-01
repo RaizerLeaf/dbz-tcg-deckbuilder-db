@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_37",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "37_Orange Thumbs Up Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/37_Orange Thumbs Up Drill.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Orange Thumbs Up Drill",
+  "file_name": "Orange Thumbs Up Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "a4da110fd177de7bb78c93e6954bcd59b0e5ebdb"
+ },
+ "vision": {
+  "id": "S05_BST_37",
+  "name": "Orange Thumbs Up Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent plays a non-Styled card, destroy the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.3,
+  "header_text": "ORANGE THUMBS UP DRILL () C37",
+  "stages_text": null,
+  "error": null
+ }
+}

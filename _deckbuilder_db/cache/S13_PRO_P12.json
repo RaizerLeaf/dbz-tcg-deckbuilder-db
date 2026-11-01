@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P12",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P12_Gotenks - Super Saiyan 3.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P12_Gotenks - Super Saiyan 3.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Gotenks - Super Saiyan 3",
+  "file_name": "Gotenks",
+  "file_subtitle": "Super Saiyan 3",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6faa3483fa79d172c488b121d4bb8cbc13952834"
+ },
+ "vision": {
+  "id": "S13_PRO_P12",
+  "name": "Gotenks",
+  "sub": "Super Saiyan 3",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 4,
+  "stages": [
+   6000000,
+   3000000,
+   2000000,
+   1000000,
+   800000,
+   500000,
+   300000,
+   100000,
+   70000,
+   40000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled and gain \"HIT: Destroy the top card of your opponent's Life Deck.\"\nPOWER: [Attack] Energy attack costing 1 stage.\nChoose 3 cards in your opponent's discard pile and banish them. You may use this attack a second time this combat.\nDAMAGE: 5 life cards.\nHIT: You may destroy the top card of your Life Deck to gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats and text compared against S13_BST_56 on the sheet, identical; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.6,
+  "header_text": "——.- é Wa ——\nGOTENKS\nfa SUPER SAIYAN3 _, yy m2)\nN/a\nee \\\\WL —-e Ss RNnNnN nnn",
+  "stages_text": "6,000,000\n3,000,000\n72,000,000\n1,000,000\n\n800,000\n500,000\n300,000\n\n100,000\n70,000\n40,000\n0\n\n53",
+  "error": null
+ }
+}

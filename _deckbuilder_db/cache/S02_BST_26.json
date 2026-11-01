@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_26",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "26_Blue Bat Attack.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/26_Blue Bat Attack.jpg",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Blue Bat Attack",
+  "file_name": "Blue Bat Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "f87fd17d8ad534f99b3a75972ea4a34690743fe7"
+ },
+ "vision": {
+  "id": "S02_BST_26",
+  "name": "Blue Bat Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. You may discard a card from your hand. If you do, stop your opponent's next energy attack this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "(BLUE BAT ATTACK (=z\nen om Iz ba",
+  "stages_text": "7\n2",
+  "error": null
+ }
+}

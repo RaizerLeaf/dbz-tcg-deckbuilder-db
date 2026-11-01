@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_23",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "23_Orange Rejection.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/23_Orange Rejection.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Orange Rejection",
+  "file_name": "Orange Rejection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "91bc4bf9c4ba767c387a0abfa46b66bb9e10d34b"
+ },
+ "vision": {
+  "id": "S19_BST_23",
+  "name": "Orange Rejection",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nThe next time a Drill you own would be discarded due to your MP changing levels this combat, you may place it into your hand instead. Raise your anger 1. [Trait:Fusion]: You may discard a card from your hand to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: grey F starburst badge (Fusion)",
+  "_src": "S19.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 86.7,
+  "header_text": "ORANGE REJECTION C) C23 |\nQiev |B\\\\ wus 2",
+  "stages_text": ",\n1,",
+  "error": null
+ }
+}

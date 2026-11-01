@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S14",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S14_Piccolo - Revitalized.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S14_Piccolo - Revitalized.png",
+  "prefix": "S",
+  "number": 14,
+  "card_number": "S14",
+  "name_part": "Piccolo - Revitalized",
+  "file_name": "Piccolo",
+  "file_subtitle": "Revitalized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ff28ddfc64cda72a7f01ee26d1b4ae9afbcb9522"
+ },
+ "vision": {
+  "id": "S04_STR_S14",
+  "name": "Piccolo",
+  "sub": "Revitalized",
+  "type": "Main Personality",
+  "num": "S14",
+  "lvl": 4,
+  "stages": [
+   1750000,
+   1550000,
+   1350000,
+   1150000,
+   922000,
+   750000,
+   550000,
+   350000,
+   150000,
+   50000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your opponent cannot use the immediate effects of Dragon Balls. Your Styled cards with Endurance have their Endurance increased by X. X = the number of Dragon Balls you control.\nPOWER: Search a Banished Zone for a Dragon Ball that isn't already in play and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO; 922,000 stage as printed (same as PZP P43)",
+  "_src": "S04.jsonl:168"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "1 PICCOLO ga ;\nREVITALIZED + $14\n52_}- Te werswewen",
+  "stages_text": "1,750,000\n1,550,000\n1,350,000\n11,150,000\n922,000\n750,000\n550,000\n350,000\n150,000\n50,000\n\n0",
+  "error": null
+ }
+}

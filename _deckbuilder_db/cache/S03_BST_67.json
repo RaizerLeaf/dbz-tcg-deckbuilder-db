@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_67",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "67_Garlic Jr. - Observant.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/67_Garlic Jr. - Observant.jpg",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Garlic Jr. - Observant",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Observant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8b5fd75f8b45c854cd7cfb83789d755d1bc6e33b"
+ },
+ "vision": {
+  "id": "S03_BST_67",
+  "name": "Garlic Jr.",
+  "sub": "Observant",
+  "type": "Main Personality",
+  "num": "U67",
+  "lvl": 3,
+  "stages": [
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   600,
+   300,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards and -2 stages of damage. Whenever you raise your anger, you may capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "SS GARLIC IR €) us?\na —\n» y U |",
+  "stages_text": "8,000\n\n7,000\n\n6,000\n\n5,000\n\n4,000\n3,000\n5 2,000\n1,000\n\n600\n\n300\n\n0",
+  "error": null
+ }
+}

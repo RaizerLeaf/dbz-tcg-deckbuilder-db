@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_35",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "35_Orange Guard.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/35_Orange Guard.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Orange Guard",
+  "file_name": "Orange Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1a4cb494acc23c3152636f1733be519da2b24459"
+ },
+ "vision": {
+  "id": "S07_BST_35",
+  "name": "Orange Guard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nDrills in your Life Deck without Endurance gain \"Endurance 2\" until the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.3,
+  "header_text": "ORANGE GUARD ) 35\naw) ee) tT te",
+  "stages_text": "37\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_53",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "53_Babidi - Worried.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/53_Babidi - Worried.png",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Babidi - Worried",
+  "file_name": "Babidi",
+  "file_subtitle": "Worried",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "32eec04a2c2a7c98a6c78088a987efa8b0cbd1be"
+ },
+ "vision": {
+  "id": "S11_BST_53",
+  "name": "Babidi",
+  "sub": "Worried",
+  "type": "Main Personality",
+  "num": "S53",
+  "lvl": 3,
+  "stages": [
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   700,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Instant] POWER: Use at the start of your Planning Step. Search your Life Deck or discard pile for a [Trait:Majin] Ally and play it.\nPOWER: Banish the top 2 cards of your opponent's discard pile. Rejuvenate 2. Choose a [Trait:Majin] Ally you control. The next attack that Ally performs this combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 76.9,
+  "header_text": "—3 | BABIDI",
+  "stages_text": "3,000\n\n2,500\n\n2,000\n\n1,500\n\n4 1,000\n3\n\n700\n\n400\n\n300\n\n200\n\n100\n\n0",
+  "error": null
+ }
+}

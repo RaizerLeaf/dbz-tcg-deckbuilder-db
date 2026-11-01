@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_106",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "106_Blue Belly Bash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/106_Blue Belly Bash.png",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Blue Belly Bash",
+  "file_name": "Blue Belly Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "a394a404f27a4221d01930ce55c5ce28752be4b3"
+ },
+ "vision": {
+  "id": "S04_BST_106",
+  "name": "Blue Belly Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nThe next time you stop an attack this combat, use a critical damage effect.\nDAMAGE: AT +2 stages.\nHIT: Your Setups in play cannot be destroyed or banished this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "BLUE BELLY BASH ) R106",
+  "stages_text": "4\n,\n,",
+  "error": null
+ }
+}

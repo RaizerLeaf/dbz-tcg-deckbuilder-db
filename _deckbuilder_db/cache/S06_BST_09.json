@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_09",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "09_Black Running Guard.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/09_Black Running Guard.jpg",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Black Running Guard",
+  "file_name": "Black Running Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5b0651e63299c88209c2b48cc5f134d54171c44d"
+ },
+ "vision": {
+  "id": "S06_BST_09",
+  "name": "Black Running Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\nIf that attack was non-Styled, destroy the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 71.4,
+  "header_text": "BLACK RUNNING GUARD ) co\n<2 ~~) 7-2 “ae",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

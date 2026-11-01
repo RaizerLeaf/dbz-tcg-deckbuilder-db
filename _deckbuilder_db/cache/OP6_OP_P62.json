@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P62",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P62_Bardock's Wish.png",
+  "rel_path": "z_OP Series/OP6/P62_Bardock's Wish.png",
+  "prefix": "P",
+  "number": 62,
+  "card_number": "P62",
+  "name_part": "Bardock's Wish",
+  "file_name": "Bardock's Wish",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "00bbcc613cd22e392e0dd6e56513a3878664b5fe"
+ },
+ "vision": {
+  "id": "OP6_OP_P62",
+  "name": "Bardock's Wish",
+  "sub": null,
+  "type": "Event",
+  "num": "P62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is destroyed from your Life Deck by one of your effects, Rejuvenate it.)\nPOWER: Name a card. Your opponent cannot play that card this combat. Choose a non-[Continuous] Power of one of your MP levels. Use that Power.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); grey card; possessive title -> Named; the infinity symbol in 'non-∞' is the Continuous icon",
+  "_src": "OP.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 89.6,
+  "header_text": "BARDOCK'S WISH ?",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

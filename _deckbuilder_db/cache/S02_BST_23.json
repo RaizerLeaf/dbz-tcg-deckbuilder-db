@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_23",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "23_Blue Lifting Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/23_Blue Lifting Drill.jpg",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Blue Lifting Drill",
+  "file_name": "Blue Lifting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5cc74cb9823205fbb3c1ef81c091bbdf31d9c1a9"
+ },
+ "vision": {
+  "id": "S02_BST_23",
+  "name": "Blue Lifting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, you may place it into play.) [Continuous]: Your attacks deal +1 life card of damage. Whenever one of your attacks is stopped, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "(BLUE LIFTING DRILL a\n-_ a tt een een | ii",
+  "stages_text": "7 ,",
+  "error": null
+ }
+}

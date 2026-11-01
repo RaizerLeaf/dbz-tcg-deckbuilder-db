@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_51",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "51_Bardock - Legend.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/51_Bardock - Legend.png",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Bardock - Legend",
+  "file_name": "Bardock",
+  "file_subtitle": "Legend",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "df671a963189c77930fd736812fce5a431fe4081"
+ },
+ "vision": {
+  "id": "S09_BST_51",
+  "name": "Bardock",
+  "sub": "Legend",
+  "type": "Main Personality",
+  "num": "S51",
+  "lvl": 4,
+  "stages": [
+   1100000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent plays with their hand revealed. At the end of each turn, your opponent discards their hand.\nPOWER: Gain 4 stages. Destroy the top 3 cards of a player's Life Deck. The first Styled Setup destroyed by this effect is placed into play under your control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S09.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "@1. BARDOCK\nLEVEL LEGEND () 591\nEE Ll A 6’) |",
+  "stages_text": "1,100,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n50,000\n25,000\n10,000\n0",
+  "error": null
+ }
+}

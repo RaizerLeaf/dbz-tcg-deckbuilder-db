@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P58",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P58_Orange Fetch Drill.png",
+  "rel_path": "z_OP Series/OP6/P58_Orange Fetch Drill.png",
+  "prefix": "P",
+  "number": 58,
+  "card_number": "P58",
+  "name_part": "Orange Fetch Drill",
+  "file_name": "Orange Fetch Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "27e6f42e5479a2e5b14680f29946ec63db60cdc1"
+ },
+ "vision": {
+  "id": "OP6_OP_P58",
+  "name": "Orange Fetch Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Orange Energetic Mastery only. Limit 1 per deck. If you control no Drills, as an action you may banish this card from your hand to search your discard pile for a Styled Drill and place it into play.)\n[Continuous]: The first time an effect would cause a player to skip or pass an action during combat, destroy this Drill to cancel that effect.\n(Created by Kevin Dennis, OP5 East Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); landscape Drill layout; deck restriction names a specific Mastery",
+  "_src": "OP.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.972,
+  "lower_conf": 87.6,
+  "header_text": "ORANGE FETCH DRILL © P58 ) P58",
+  "stages_text": null,
+  "error": null
+ }
+}

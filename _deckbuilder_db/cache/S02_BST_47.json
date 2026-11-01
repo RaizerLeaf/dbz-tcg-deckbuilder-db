@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_47",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "47_Red Sacrifice.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/47_Red Sacrifice.jpg",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Red Sacrifice",
+  "file_name": "Red Sacrifice",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "94d1d897485bd3d3a5472057cadba8a98f3db856"
+ },
+ "vision": {
+  "id": "S02_BST_47",
+  "name": "Red Sacrifice",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, raise your anger 2 levels and damage from your next attack this combat cannot be prevented.) [Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "RED SACRIFICE so. () cay",
+  "stages_text": "4",
+  "error": null
+ }
+}

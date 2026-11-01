@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_141",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "141_Defiant Challenge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/141_Defiant Challenge.png",
+  "prefix": null,
+  "number": 141,
+  "card_number": "141",
+  "name_part": "Defiant Challenge",
+  "file_name": "Defiant Challenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "19f842f934f8e811fa1839cbd6a4352e4844fad1"
+ },
+ "vision": {
+  "id": "S04_BST_141",
+  "name": "Defiant Challenge",
+  "sub": null,
+  "type": "Event",
+  "num": "UR141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Banished Zone for a Named card and place it on top of your Life Deck. Search your Life Deck for a Named attack card and place it into your hand. Your opponent may discard a card from his hand to search his Life Deck for a Named attack card and place it into his hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:141"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "DEFIANT CHALLENGE urit\nELEY! / Le",
+  "stages_text": ",\n,\n5,,",
+  "error": null
+ }
+}

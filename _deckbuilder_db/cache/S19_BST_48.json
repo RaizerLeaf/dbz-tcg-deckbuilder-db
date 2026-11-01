@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_48",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "48_Fused Zamasu's Barrier of Light.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/48_Fused Zamasu's Barrier of Light.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Fused Zamasu's Barrier of Light",
+  "file_name": "Fused Zamasu's Barrier of Light",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "807a9870be824099e6fdb6e65a470632e7d6e17e"
+ },
+ "vision": {
+  "id": "S19_BST_48",
+  "name": "Fused Zamasu's Barrier of Light",
+  "sub": null,
+  "type": "Event",
+  "num": "R48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n([Trait:God] only.)\n[Defense] POWER: Stops an attack.\nRejuvenate 2. Raise or lower a player's anger 2.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; deck restriction icon zoomed: gold G badge (God)",
+  "_src": "S19.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 0.864,
+  "lower_conf": 79.2,
+  "header_text": "FUSED ZAMASU'S BARRIER OF LIGHT\nwy T=, aa",
+  "stages_text": "2,\n,\n2",
+  "error": null
+ }
+}

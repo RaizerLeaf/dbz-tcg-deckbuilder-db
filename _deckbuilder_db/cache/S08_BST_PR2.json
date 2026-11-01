@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_PR2",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "PR2_Saiyan Legendary Strike.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/PR2_Saiyan Legendary Strike.png",
+  "prefix": "PR",
+  "number": 2,
+  "card_number": "PR2",
+  "name_part": "Saiyan Legendary Strike",
+  "file_name": "Saiyan Legendary Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b76b20c7a875799d31c50e58e0c532bb573a086e"
+ },
+ "vision": {
+  "id": "S08_BST_PR2",
+  "name": "Saiyan Legendary Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is revealed from your hand, you may use a critical damage effect. You may play this card to prevent 3 stages and 3 life cards of damage from an attack.)\n[Attack] Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT + 4 stages.\n(Created by Tyler Martin, 2016 Gen Con Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW R2' (preview printing)",
+  "_src": "S08.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 89.6,
+  "header_text": "SAIYAN LEGENDARY STRIKE prevew",
+  "stages_text": ",\n7\n2\n2\n,\n3\n,",
+  "error": null
+ }
+}

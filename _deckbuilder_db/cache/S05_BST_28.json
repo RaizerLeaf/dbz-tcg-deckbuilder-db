@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_28",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "28_Namekian Backflip.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/28_Namekian Backflip.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Namekian Backflip",
+  "file_name": "Namekian Backflip",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5852ffd536e5a614a871724707ae553c3036ebcb"
+ },
+ "vision": {
+  "id": "S05_BST_28",
+  "name": "Namekian Backflip",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nLower your opponents anger 1 level. You may reveal the bottom card of your Life Deck. If the revealed card was non-Styled, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "'opponents' without apostrophe as printed",
+  "_src": "S05.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "NAMEKIAN BACKFLIP ) 628",
+  "stages_text": "4\n,\n,\n\n7\n37\n,\n,\n4",
+  "error": null
+ }
+}

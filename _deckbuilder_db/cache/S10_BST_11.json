@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_11",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "11_Blue Excitement.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/11_Blue Excitement.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Blue Excitement",
+  "file_name": "Blue Excitement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "302751c5950e164764159878fce2bdc5e6814ffd"
+ },
+ "vision": {
+  "id": "S10_BST_11",
+  "name": "Blue Excitement",
+  "sub": null,
+  "type": "Event",
+  "num": "U11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(You may banish this card from your hand to prevent 3 life cards and 3 stages of damage from an attack.)\nPOWER: Choose a Styled Setup in your discard pile and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S10.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 90.6,
+  "header_text": "BLUE EXCITEMENT () U11\na = |<< =IF 4",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P9",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P9_Orange Stare Down.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P9_Orange Stare Down.jpg",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Orange Stare Down",
+  "file_name": "Orange Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1500,
+  "height": 2100,
+  "orientation": "portrait",
+  "sha1": "405729117f13f6da884e1841a6ba32c935c64103"
+ },
+ "vision": {
+  "id": "S03_PRO_P9",
+  "name": "Orange Stare Down",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S117 but this printing has NO attack icon before 'Energy attack'",
+  "_src": "S03.jsonl:157"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.5,
+  "header_text": "(ORANGE STARE DOWN () Ps\n\\ af",
+  "stages_text": "7 1",
+  "error": null
+ }
+}

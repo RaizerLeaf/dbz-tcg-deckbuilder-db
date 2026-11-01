@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_06",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "06_Black Impediment.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/06_Black Impediment.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Black Impediment",
+  "file_name": "Black Impediment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ded11e83a23ca04e30aea48ee594ed2f35cf42a8"
+ },
+ "vision": {
+  "id": "S04_BST_06",
+  "name": "Black Impediment",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is destroyed from your Life Deck by one of your effects, you may banish it to lower your opponent's anger 2 levels.)\n[Defense] Stops a physical attack.\nLower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge transcribed as leading line",
+  "_src": "S04.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 89.2,
+  "header_text": "BLACK IMPEDIMENT () C6\n| —<—-~ yr |, =",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

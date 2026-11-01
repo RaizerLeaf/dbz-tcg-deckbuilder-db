@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_17",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "17_Orange Juke.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/17_Orange Juke.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Orange Juke",
+  "file_name": "Orange Juke",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1644602b77f6d03c21b61029ca1d6c9a4c321786"
+ },
+ "vision": {
+  "id": "S08_BST_17",
+  "name": "Orange Juke",
+  "sub": null,
+  "type": "Event",
+  "num": "U17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nSearch your discard pile for a Styled Drill and Rejuvenate it. If you control less than 3 Drills, you may place it into play instead.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "ORANGE JUKE\n4 Y .",
+  "stages_text": ",\n,\n3,",
+  "error": null
+ }
+}

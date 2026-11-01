@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_33",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "33_Saiyan Corruption Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/33_Saiyan Corruption Drill.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Saiyan Corruption Drill",
+  "file_name": "Saiyan Corruption Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ac5ac3820baadfa120e8212fa7a195cf2950da09"
+ },
+ "vision": {
+  "id": "S10_BST_33",
+  "name": "Saiyan Corruption Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your effects destroys cards from your Life Deck, Rejuvenate the bottom card of your discard pile.\n[Instant] POWER: Use after performing a successful attack. That attack gains \"HIT: Your opponent skips their next action this combat. Gain 2 stages.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; number area reads 'PREVIEW C33'",
+  "_src": "S10.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "SATYAN CORRUPTION DRILL Ors",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_96",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "96_Red Right Blast.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/96_Red Right Blast.png",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Red Right Blast",
+  "file_name": "Red Right Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f03ed1eb1f2d818d147741ea5ce744df22f55079"
+ },
+ "vision": {
+  "id": "S05_BST_96",
+  "name": "Red Right Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this attack is performed from your discard pile, lower your opponent's anger 2 levels.)\n[Attack] Energy attack costing 1 stage.\nThe next time a player Rejuvenates this combat, you may draw a card.\nDAMAGE: AT life cards +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.5,
+  "header_text": "RED RIGHT BLAST C) U96\n. ~ . We",
+  "stages_text": ",\n4\n4",
+  "error": null
+ }
+}

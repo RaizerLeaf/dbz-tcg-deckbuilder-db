@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P9",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P9_Dabura - Sinister Presence.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P9_Dabura - Sinister Presence.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Dabura - Sinister Presence",
+  "file_name": "Dabura",
+  "file_subtitle": "Sinister Presence",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "efb093bc724380fb04e6db4cd667775fb4d5c5e2"
+ },
+ "vision": {
+  "id": "S12_PRO_P9",
+  "name": "Dabura",
+  "sub": "Sinister Presence",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   900000,
+   666000,
+   100000,
+   30000,
+   25000,
+   15000,
+   10000,
+   5000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title gain \"HIT: Raise your anger 1 level.\"\n[Instant] POWER: Use when entering combat. Search the top 5 cards of your Life Deck for a Named card or card with \"Sword\" in the title and place it into your hand. If that card is a Setup or Drill, you may place it into play instead. Shuffle the remaining cards into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink); text zoomed",
+  "_src": "S12.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 0.985,
+  "lower_conf": 72.9,
+  "header_text": "ee ee\nDABURA\n1 SINISTER PRESENCE Qa ze |\n7 oo =\nMs 20) (Mee ann nnn",
+  "stages_text": "900,000\n666,000\n100,000\n30,000\n25,000\n4 15,000\n5,000\n1\n3,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_59",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "59_Super Dragon Ball 6.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/59_Super Dragon Ball 6.png",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Super Dragon Ball 6",
+  "file_name": "Super Dragon Ball 6",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5e9328b44356fe0617cdf4e57d5fde1133d78c71"
+ },
+ "vision": {
+  "id": "S16_BST_59",
+  "name": "Super Dragon Ball 6",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Choose a personality in play. That personality loses 3 stages. Lower a player's anger 3.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S16.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "SUPER DRAGON BALL 6 © 59",
+  "stages_text": "",
+  "error": null
+ }
+}

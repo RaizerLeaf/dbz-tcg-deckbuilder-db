@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_15",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "15_Namekian Focusing Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/15_Namekian Focusing Drill.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Namekian Focusing Drill",
+  "file_name": "Namekian Focusing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f04fac0cc06d6e54cb9f5da22ff5c8b655efd4aa"
+ },
+ "vision": {
+  "id": "S10_BST_15",
+  "name": "Namekian Focusing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your physical attacks deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S10.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 0.8,
+  "lower_conf": 62.2,
+  "header_text": "NAMEKIAN FOCUSING DRILL () C15",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S127",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S127_Black Finger Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S127_Black Finger Block.png",
+  "prefix": "S",
+  "number": 127,
+  "card_number": "S127",
+  "name_part": "Black Finger Block",
+  "file_name": "Black Finger Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9a07f24a7f1dd918d91763843c1331b6b7488702"
+ },
+ "vision": {
+  "id": "S07_STR_S127",
+  "name": "Black Finger Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. Your MP gains 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S85; text compared on the sheet",
+  "_src": "S07.jsonl:310"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 80.5,
+  "header_text": "BLACK FINGER BLOCK $127\nere’ 2 2h oie",
+  "stages_text": "4 7\n71",
+  "error": null
+ }
+}

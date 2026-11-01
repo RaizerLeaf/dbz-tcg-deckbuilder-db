@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_40",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "40_Orange Fixation.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/40_Orange Fixation.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Fixation",
+  "file_name": "Orange Fixation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f32137d39ed4e5af120769a6cadaae6cc73b62da"
+ },
+ "vision": {
+  "id": "S05_BST_40",
+  "name": "Orange Fixation",
+  "sub": null,
+  "type": "Event",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Search your Life Deck for a non-Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 59.8,
+  "header_text": "ORANGE FIXATION ) cao\n—_.lLULU!!UCN.UCéUCULLeNtCOCN I A NSS",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_20",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "20_Orange Mocking Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/20_Orange Mocking Drill.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Mocking Drill",
+  "file_name": "Orange Mocking Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "be9b1c1e830affd44f0921bcc7ba7e5bf2d9a48f"
+ },
+ "vision": {
+  "id": "S13_BST_20",
+  "name": "Orange Mocking Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is discarded from your hand by a card effect, you may place it into play and gain 5 stages.)\n[Continuous]: Your MP's PUR is +2.\n[Instant] POWER: Use when a Setup Power is used when entering combat, or if your MP has [Trait:Earthling], use when a Drill Power is used when entering combat. Cancel that effect.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline icon zoomed: blue Capsule Corp Earthling badge",
+  "_src": "S13.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 74.2,
+  "header_text": "ORANGE MOCKING DRILL a R20)\nes | (||) ee ee",
+  "stages_text": null,
+  "error": null
+ }
+}

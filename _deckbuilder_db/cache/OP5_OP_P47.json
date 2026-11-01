@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P47",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P47_Saiyan Scientific Blitz.png",
+  "rel_path": "z_OP Series/OP5/P47_Saiyan Scientific Blitz.png",
+  "prefix": "P",
+  "number": 47,
+  "card_number": "P47",
+  "name_part": "Saiyan Scientific Blitz",
+  "file_name": "Saiyan Scientific Blitz",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6a910833fa5f10b7f224ca72d41de79fdcb984d3"
+ },
+ "vision": {
+  "id": "OP5_OP_P47",
+  "name": "Saiyan Scientific Blitz",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Saiyan Defiant Mastery only.)\n[Attack] 2: Energy attack.\nYour Styled energy attacks cost -2 stages (to a minimum of 0) this combat. [Warning]: At the end of this turn, look at the top 6 cards of your Life Deck and put them back in any order.\nDAMAGE: 3 life cards.\n(Banish after use.)\n(Created by Cheyne Runnells, OP4 East Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); deck restriction names a specific Mastery; black warning triangle transcribed as [Warning]; stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.983,
+  "lower_conf": 92.7,
+  "header_text": "SAIYAN SCIENTIFIC BLITZ C) P47",
+  "stages_text": "4\n,\n,\n,",
+  "error": null
+ }
+}

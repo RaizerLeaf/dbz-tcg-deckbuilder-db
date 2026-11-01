@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_80",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "80_Gohan - Studious.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/80_Gohan - Studious.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Gohan - Studious",
+  "file_name": "Gohan",
+  "file_subtitle": "Studious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9df52b4b9f989c25fee8f3571ad97da000cc523b"
+ },
+ "vision": {
+  "id": "S16_BST_80",
+  "name": "Gohan",
+  "sub": "Studious",
+  "type": "Main Personality",
+  "num": "S80",
+  "lvl": 1,
+  "stages": [
+   1650000,
+   1200000,
+   742000,
+   380000,
+   125000,
+   84000,
+   47000,
+   12000,
+   7000,
+   4000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use after one of your effects shuffles a [Warning] card into your Life Deck. Raise your anger 2.\nPOWER: [Attack] 1: Energy attack\nSearch your discard pile for a Styled card and shuffle it into your Life Deck.\nDAMAGE: 3 life cards.\nHIT: Banish a card from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges N, E, S; black warning triangle transcribed as [Warning]; no period after 'Energy attack' as printed; text zoomed",
+  "_src": "S16.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 0.942,
+  "lower_conf": 74.3,
+  "header_text": "GOHAN",
+  "stages_text": "1,650,000\n1,200,000\n742,000\n380,000\n125,000\n84,000\n47,000\n12,000\n7,000\n\n4,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_112",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "112_Namekian Right Kick.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/112_Namekian Right Kick.jpg",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Namekian Right Kick",
+  "file_name": "Namekian Right Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "71fdf6331d359a9bdea22352b5e59c64d1ceaa4e"
+ },
+ "vision": {
+  "id": "S03_BST_112",
+  "name": "Namekian Right Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Banish after use.) [Attack] Physical attack. DAMAGE: 6 stages. HIT: Search your Life Deck for a Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "NAMEKIAN RIGHT. KECK () mie",
+  "stages_text": "",
+  "error": null
+ }
+}

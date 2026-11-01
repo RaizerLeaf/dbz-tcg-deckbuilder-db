@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_DR_DR1",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "DR1_Instant Transmission.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/DR1_Instant Transmission.jpg",
+  "prefix": "DR",
+  "number": 1,
+  "card_number": "DR1",
+  "name_part": "Instant Transmission",
+  "file_name": "Instant Transmission",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4da57e776cd65f2e50722ccfb4913e577040021a"
+ },
+ "vision": {
+  "id": "S06_DR_DR1",
+  "name": "Instant Transmission",
+  "sub": null,
+  "type": "Event",
+  "num": "DR1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may discard this card from your hand during the Planning Step. If you do, choose an opponent's Setup in play and gain control of it until the end of the turn. Unless your MP is Goku, limit 1 per deck.)\nPOWER: Choose an opponent's Setup in play and gain control of it until the end of the turn.\n(Banish after use.)\n(Created by Tim Batow, 2015 World Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; DR (alternate-art) rarity",
+  "_src": "S06.jsonl:143"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "INSTANT TRANSMISSION @@®) DRI\nSer. \\ 2 \\-",
+  "stages_text": "4\n,\n,\n\n,",
+  "error": null
+ }
+}

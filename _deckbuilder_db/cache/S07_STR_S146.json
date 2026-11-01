@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S146",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S146_Black Declaration.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S146_Black Declaration.png",
+  "prefix": "S",
+  "number": 146,
+  "card_number": "S146",
+  "name_part": "Black Declaration",
+  "file_name": "Black Declaration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "9a713db3cfe3a32905459d0d0119ae8c0c06fbb3"
+ },
+ "vision": {
+  "id": "S07_STR_S146",
+  "name": "Black Declaration",
+  "sub": null,
+  "type": "Setup",
+  "num": "S146",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, place it into play.) ENDURANCE 2. POWER: Choose an Ally, Drill, Setup or Dragon Ball in play and shuffle that card into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_101; text compared on the sheet",
+  "_src": "S07.jsonl:329"
+ },
+ "ocr": {
+  "agreement": 0.946,
+  "lower_conf": 86.6,
+  "header_text": "BLACK DECLARATION () $146\n- a CY Gees ot | ——",
+  "stages_text": null,
+  "error": null
+ }
+}

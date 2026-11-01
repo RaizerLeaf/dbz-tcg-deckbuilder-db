@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_02",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "02_Black Piracy Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/02_Black Piracy Drill.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Piracy Drill",
+  "file_name": "Black Piracy Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b3ff79c220eaf2fe7a9b11166b44b2ce8d463610"
+ },
+ "vision": {
+  "id": "S19_BST_02",
+  "name": "Black Piracy Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This Drill is not discarded when advancing a level.)\n[Continuous]: Your attacks deal +1 life card.\n[Instant] POWER: Use after one of your effects discards a card from your opponent's hand. Banish the bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S19.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 82.3,
+  "header_text": "BLACK PIRACY DRILL & U2 |",
+  "stages_text": null,
+  "error": null
+ }
+}

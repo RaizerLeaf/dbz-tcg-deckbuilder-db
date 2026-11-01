@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR16",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR16_Gohan - Adept.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR16_Gohan - Adept.png",
+  "prefix": "DR",
+  "number": 16,
+  "card_number": "DR16",
+  "name_part": "Gohan - Adept",
+  "file_name": "Gohan",
+  "file_subtitle": "Adept",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "57048c34a8896b2446857a2fb00871077ba7c904"
+ },
+ "vision": {
+  "id": "S07_DR_DR16",
+  "name": "Gohan",
+  "sub": "Adept",
+  "type": "Main Personality",
+  "num": "DR16",
+  "lvl": 1,
+  "stages": [
+   700000,
+   500000,
+   300000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks are considered Styled. Whenever an Ally you control is banished, raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nYou may banish an Ally.\nDAMAGE: AT +2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P59",
+  "_src": "S07.jsonl:162"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.6,
+  "header_text": "(2 GOHAN ( ro\nLevel lasaaild a\na ee, ey ee",
+  "stages_text": "700,000\n500,000\n300,000\n100,000\n75,000\n, 50,000\n, 25,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

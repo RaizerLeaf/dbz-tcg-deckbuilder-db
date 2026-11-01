@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_29",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "29_Blue Glare.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/29_Blue Glare.jpg",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Blue Glare",
+  "file_name": "Blue Glare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ebc48ecf5b3d5aa2a0dd7f3128a5831179c1a5f8"
+ },
+ "vision": {
+  "id": "S02_BST_29",
+  "name": "Blue Glare",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. You may discard a card from hand. If you do, stop your opponent's next physical attack this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "'from hand' (no 'your') as printed",
+  "_src": "S02.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.8,
+  "header_text": "| BLUE GLARE Sa () ces",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

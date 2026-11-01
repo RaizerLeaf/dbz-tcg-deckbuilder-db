@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P11",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P11_Saiyan Energy Focus.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P11_Saiyan Energy Focus.jpg",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Saiyan Energy Focus",
+  "file_name": "Saiyan Energy Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 343,
+  "height": 480,
+  "orientation": "portrait",
+  "sha1": "057c5a903e9d90e3bc1276414dd675720d15eec3"
+ },
+ "vision": {
+  "id": "S03_PRO_P11",
+  "name": "Saiyan Energy Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. Choose 3 non-personality/non-Mastery cards in play. Those cards lose all effects until the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 C52; text compared on the sheet, identical",
+  "_src": "S03.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "(SAIYAN ENERGY FOCUS ()-»",
+  "stages_text": "9 ,\n3\n,",
+  "error": null
+ }
+}

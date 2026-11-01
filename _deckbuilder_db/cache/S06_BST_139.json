@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_139",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "139_Cooler's Rebirth.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/139_Cooler's Rebirth.jpg",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Cooler's Rebirth",
+  "file_name": "Cooler's Rebirth",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "78af1685d6ed39ee65efbfb1930646003e7907cc"
+ },
+ "vision": {
+  "id": "S06_BST_139",
+  "name": "Cooler's Rebirth",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is discarded from your hand during combat, Rejuvenate it.)\n[Instant] POWER: Use after taking damage from an attack. Rejuvenate 2 Styled cards from your Banished Zone. Place this card on top of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; an Energy Combat card with an [Instant] power and no attack, as printed",
+  "_src": "S06.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 83.3,
+  "header_text": "COOLER'S REBIRTH ©) R139",
+  "stages_text": ",\n4\n,\n,",
+  "error": null
+ }
+}

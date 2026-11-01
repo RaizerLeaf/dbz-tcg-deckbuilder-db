@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_15",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "15_Blue Vision.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/15_Blue Vision.png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Blue Vision",
+  "file_name": "Blue Vision",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "58a41978d1bdba25e418530d3044cefcd68d3ed5"
+ },
+ "vision": {
+  "id": "S05_BST_15",
+  "name": "Blue Vision",
+  "sub": null,
+  "type": "Setup",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\nPOWER: Shuffle an Ally you control into its owner's Life Deck to search your Life Deck or discard pile for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Setup layout",
+  "_src": "S05.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "BLUE VISION () C15",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP2_OP_P16",
+  "set_number": null,
+  "set_name": "OP2",
+  "set_code": "OP2",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP2",
+  "filename": "P16_Android 16's Precaution.png",
+  "rel_path": "z_OP Series/OP2/P16_Android 16's Precaution.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Android 16's Precaution",
+  "file_name": "Android 16's Precaution",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "01eddc62c33c8ff387b6a3d92f6b0dde4be93ff6"
+ },
+ "vision": {
+  "id": "OP2_OP_P16",
+  "name": "Android 16's Precaution",
+  "sub": null,
+  "type": "Setup",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 2 per deck.)\n[Instant] POWER: Use when entering combat. Search your discard pile for a card and place it into your hand. If you have more than 3 cards in your hand, place a card from your hand at the bottom of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP2); landscape Setup layout; grey card; possessive title -> Named; no Endurance badge",
+  "_src": "OP.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "ANDROID 16'S PRECAUTION eS P16 |\nEEE",
+  "stages_text": null,
+  "error": null
+ }
+}

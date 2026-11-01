@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S166",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S166_Saiyan Left Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S166_Saiyan Left Kick.png",
+  "prefix": "S",
+  "number": 166,
+  "card_number": "S166",
+  "name_part": "Saiyan Left Kick",
+  "file_name": "Saiyan Left Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "c630fdfcb3846ae2f1d5a6f5e84335236f8b774c"
+ },
+ "vision": {
+  "id": "S04_STR_S166",
+  "name": "Saiyan Left Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S166",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S83",
+  "_src": "S04.jsonl:319"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 78.9,
+  "header_text": "SAIYAN LEFT KICK ¢ ) s166\n: B,",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P3",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P3_Beerus - The Destroyer.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P3_Beerus - The Destroyer.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Beerus - The Destroyer",
+  "file_name": "Beerus",
+  "file_subtitle": "The Destroyer",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ebdd27f2d2bc026cb190605eb3303caee924ac3e"
+ },
+ "vision": {
+  "id": "S16_PRO_P3",
+  "name": "Beerus",
+  "sub": "The Destroyer",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 3,
+  "stages": [
+   350000000,
+   175000000,
+   43000000,
+   8938000,
+   1405000,
+   927000,
+   696000,
+   382000,
+   99000,
+   64000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(When you reach this level, Rejuvenate 2.)\n[Continuous]: Your opponent's attacks deal -1 stage and -1 life card.\nPOWER: [Attack] 2: Energy attack.\nBanish an opponent's Setup, Drill, Ally, or attached card.\nDAMAGE: 6 life cards.\nHIT: Banish 5 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge G (gold); stats and text compared against S16_BST_70 on the sheet, identical",
+  "_src": "S16.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.1,
+  "header_text": "BEERUS\n3 THE DESTROYER y 73 )\nLo See —\na” eee",
+  "stages_text": "97350,000,000\n175,000,000\n43,000,000\n8,938,000\n21,405,000\n927,000\n696,000\n382,000\n772\n99,000\n64,000",
+  "error": null
+ }
+}

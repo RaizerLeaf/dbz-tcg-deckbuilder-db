@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_61",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "61_Jaco - Galactic Patrolman.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/61_Jaco - Galactic Patrolman.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Jaco - Galactic Patrolman",
+  "file_name": "Jaco",
+  "file_subtitle": "Galactic Patrolman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "46d7bc5b350d1fd09e5c419b2a931ebf8f9ff431"
+ },
+ "vision": {
+  "id": "S16_BST_61",
+  "name": "Jaco",
+  "sub": "Galactic Patrolman",
+  "type": "Ally",
+  "num": "U61",
+  "lvl": 1,
+  "stages": [
+   911,
+   809,
+   664,
+   597,
+   420,
+   245,
+   104,
+   69,
+   18,
+   7,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] 1: Physical attack.\nIf stopped, draw a card.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge A (purple); stage cost printed as '1:'",
+  "_src": "S16.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "1 | 3aco Tt\nLEVEL | GALACTIC PATROLMAN",
+  "stages_text": "911\n\n809\n\n664\n\n597\n420\n245\n\n104\n7 69\n18\n\n7\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P1",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P1_Yajirobe - Ronin.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P1_Yajirobe - Ronin.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Yajirobe - Ronin",
+  "file_name": "Yajirobe",
+  "file_subtitle": "Ronin",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "787ae2c37feb69a78fcae80ee4ab3e9d46c7eecb"
+ },
+ "vision": {
+  "id": "S13_PRO_P1",
+  "name": "Yajirobe",
+  "sub": "Ronin",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   25,
+   10,
+   5,
+   1,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Your Life Deck may include any Styled [Attack] or [Defense] cards with \"Sword\" in the title.)\n[Continuous]: Whenever you play a card with \"Sword\" in the title, gain 1 stage.\nPOWER: Raise your anger 1 level. Search your discard pile for a card with \"Sword\" in the title and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E",
+  "_src": "S13.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.5,
+  "header_text": "YAJTROBE Py\nRONIN",
+  "stages_text": "300\n250\n200\n\n150\n\n100\n9\n25\n10\n\n5\n\n2\n0",
+  "error": null
+ }
+}

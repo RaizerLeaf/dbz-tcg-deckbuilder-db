@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P18",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P18_Namekian Knowledge Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P18_Namekian Knowledge Mastery.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Namekian Knowledge Mastery",
+  "file_name": "Namekian Knowledge Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "50062c051c575a9daf4eecbf3ee9eef1cce0370c"
+ },
+ "vision": {
+  "id": "S13_PRO_P18",
+  "name": "Namekian Knowledge Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip below the art (zoomed); P number printed",
+  "_src": "S13.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "mn _ (",
+  "stages_text": ",\n,\n1\n1,\n,",
+  "error": null
+ }
+}

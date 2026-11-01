@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_31",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "31_Heroic Resistance.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/31_Heroic Resistance.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Heroic Resistance",
+  "file_name": "Heroic Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5096ed9c900b528f2beb0ee280d79def8ce487fb"
+ },
+ "vision": {
+  "id": "S15_BST_31",
+  "name": "Heroic Resistance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Heroes only.)\n[Defense] Stops a physical attack.\nYou may banish a card from your hand to search your discard pile for a Styled [Defense] card that can stop a physical attack and place it into your hand. Rejuvenate 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-Styled) card",
+  "_src": "S15.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 88.0,
+  "header_text": "HEROIC RESISTANCE | ) UR31|",
+  "stages_text": ",",
+  "error": null
+ }
+}

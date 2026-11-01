@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_42",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "42_Hoi - Wizard.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/42_Hoi - Wizard.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Hoi - Wizard",
+  "file_name": "Hoi",
+  "file_subtitle": "Wizard",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9d9475e1254af3751574a9d5eb464e0cf48aa934"
+ },
+ "vision": {
+  "id": "S15_BST_42",
+  "name": "Hoi",
+  "sub": "Wizard",
+  "type": "Ally",
+  "num": "U42",
+  "lvl": 1,
+  "stages": [
+   500,
+   400,
+   300,
+   200,
+   100,
+   90,
+   80,
+   70,
+   60,
+   50,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(Hirudegarn only. This card is considered Named.)\n[Continuous]: Cannot be destroyed. If your MP is Hirudegarn, your MP's [Continuous] Powers now read as \"You may use your lower level Powers.\"",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A",
+  "_src": "S15.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "HOI\n2 WIZARD () U42",
+  "stages_text": "500\n\n400\n\n300\n200\n100\n7 90\n80\n70\n60\n50\n0",
+  "error": null
+ }
+}

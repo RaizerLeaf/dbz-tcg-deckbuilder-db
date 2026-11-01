@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_111",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "111_Aggressive Sword Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/111_Aggressive Sword Drill.png",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Aggressive Sword Drill",
+  "file_name": "Aggressive Sword Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "e160bdc0762da46f6bc725b3caec37aaeb23fd81"
+ },
+ "vision": {
+  "id": "S05_BST_111",
+  "name": "Aggressive Sword Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Named attacks cannot have their damage prevented.\n[Instant] POWER: Use when entering combat. If you have not searched your Life Deck this turn, search your Life Deck for a card with \"Sword\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout, grey (non-styled) frame",
+  "_src": "S05.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "_ if 1 do™\nAGGRESSIVE SWORD DRILL r R111 |",
+  "stages_text": null,
+  "error": null
+ }
+}

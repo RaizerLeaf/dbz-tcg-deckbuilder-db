@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_123",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "123_Red Stylish Entrance.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/123_Red Stylish Entrance.jpg",
+  "prefix": null,
+  "number": 123,
+  "card_number": "123",
+  "name_part": "Red Stylish Entrance",
+  "file_name": "Red Stylish Entrance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "19f7c1cebc60777c0d08aa1052fefca84e741854"
+ },
+ "vision": {
+  "id": "S06_BST_123",
+  "name": "Red Stylish Entrance",
+  "sub": null,
+  "type": "Event",
+  "num": "R123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is banished from your discard pile when entering combat, draw a card.)\n[Instant] POWER: Use when entering combat. Search the top 5 cards of your discard pile for an attack card and place it on the top of your discard pile. Allies with [Continuous] Powers lose all effects this turn.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 0.982,
+  "lower_conf": 84.1,
+  "header_text": "\"RED STYLISH ENTRANCE | STYLISH ENTRANCE (0) R123\n——* -*- oe",
+  "stages_text": "7\n,\n20\n,\n,",
+  "error": null
+ }
+}

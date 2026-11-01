@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_58",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "58_Bulma - Taking A Drag.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/58_Bulma - Taking A Drag.png",
+  "prefix": null,
+  "number": 58,
+  "card_number": "58",
+  "name_part": "Bulma - Taking A Drag",
+  "file_name": "Bulma",
+  "file_subtitle": "Taking A Drag",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fdeca9b3b4691f1a4cc1c5bfc2cd2d79e887a9e"
+ },
+ "vision": {
+  "id": "S10_BST_58",
+  "name": "Bulma",
+  "sub": "Taking a Drag",
+  "type": "Ally",
+  "num": "U58",
+  "lvl": 1,
+  "stages": [
+   21,
+   19,
+   17,
+   15,
+   13,
+   11,
+   9,
+   7,
+   5,
+   3,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage and once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.)\n[Instant] POWER: At the start of your turn, look at the top card of your Life Deck. You may place the card at the bottom of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; '[Instant] POWER: At the start of your turn' as printed (no 'Use when')",
+  "_src": "S10.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "1 BULMA\nLEVEL TAKING A DRAG () U58",
+  "stages_text": "21\n19\n17\n15\n13\n\n6\n11\n9\n5\n0",
+  "error": null
+ }
+}

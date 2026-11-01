@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_35",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "35_Orange Combined Burst.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/35_Orange Combined Burst.jpg",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Orange Combined Burst",
+  "file_name": "Orange Combined Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9285ad42f5df05fb33dfe65c98a9ec46682f8264"
+ },
+ "vision": {
+  "id": "S06_BST_35",
+  "name": "Orange Combined Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. Lower your opponent's anger 1 level.\nDAMAGE: 3 life cards.\nHIT: You may destroy up to 3 cards from the top of your Life Deck. If you do, destroy the same number of cards from the top of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "ORANGE COMBINED BURST ) 035\n= 5 —_— |",
+  "stages_text": ",\n0,\n,\n\n,",
+  "error": null
+ }
+}

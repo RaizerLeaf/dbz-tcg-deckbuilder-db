@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S45",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S45_Blue Narrow Escape.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S45_Blue Narrow Escape.png",
+  "prefix": "S",
+  "number": 45,
+  "card_number": "S45",
+  "name_part": "Blue Narrow Escape",
+  "file_name": "Blue Narrow Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "de039d3ce4c0c5f3a03040e21ad2e15f545504d2"
+ },
+ "vision": {
+  "id": "S07_STR_S45",
+  "name": "Blue Narrow Escape",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 3. [Defense] Stops an energy attack. Choose 2 Energy Combat cards in your discard pile and place them on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S125; text compared on the sheet",
+  "_src": "S07.jsonl:228"
+ },
+ "ocr": {
+  "agreement": 0.815,
+  "lower_conf": 73.5,
+  "header_text": "BLUE NARROW ESCAPE ) S45",
+  "stages_text": ",\n7\n, 3",
+  "error": null
+ }
+}

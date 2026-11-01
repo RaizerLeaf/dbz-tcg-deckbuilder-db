@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_50",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "50_Frieza's Death Beam.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/50_Frieza's Death Beam.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Frieza's Death Beam",
+  "file_name": "Frieza's Death Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7b49f08308491976555d44188ab17781adf547a0"
+ },
+ "vision": {
+  "id": "S16_BST_50",
+  "name": "Frieza's Death Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Once per turn, if this card is destroyed or banished from your Life Deck, you may place it into your hand.)\n[Attack] 2: Energy attack.\nYou may destroy a Setup, Drill, or Ally you control to search your Life Deck for a card of the same type and play it. [Warning]: Raise your anger 2.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S16.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.985,
+  "lower_conf": 91.0,
+  "header_text": "FRIEZA'S DEATH BEAM ) R50 |\na A ——_ |",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

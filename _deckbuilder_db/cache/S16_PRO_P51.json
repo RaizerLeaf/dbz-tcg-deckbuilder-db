@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P51",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P51_Piccolo's Weighted Clothing.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P51_Piccolo's Weighted Clothing.png",
+  "prefix": "P",
+  "number": 51,
+  "card_number": "P51",
+  "name_part": "Piccolo's Weighted Clothing",
+  "file_name": "Piccolo's Weighted Clothing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0f7a2a73de4c9f199f828b3e026c9b298c8e7b1d"
+ },
+ "vision": {
+  "id": "S16_PRO_P51",
+  "name": "Piccolo's Weighted Clothing",
+  "sub": null,
+  "type": "Event",
+  "num": "P51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is in your discard pile, you may banish it as an action to raise your anger 2.)\n[Instant] POWER: Use when entering combat as the defender. Your opponent skips their first action this combat. Gain X stages. X = your PUR.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S16.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "PICCOLO'S WEIGHTED CLOTHING 4 ) P51\nrer es ee A elle er",
+  "stages_text": "7\n,\n2,",
+  "error": null
+ }
+}

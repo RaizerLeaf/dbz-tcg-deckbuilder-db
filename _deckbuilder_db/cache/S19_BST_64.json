@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_64",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "64_Bergamo - Huge.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/64_Bergamo - Huge.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Bergamo - Huge",
+  "file_name": "Bergamo",
+  "file_subtitle": "Huge",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "45e6e0ce4b966fa10ea8d227b8538ee090226625"
+ },
+ "vision": {
+  "id": "S19_BST_64",
+  "name": "Bergamo",
+  "sub": "Huge",
+  "type": "Main Personality",
+  "num": "S64",
+  "lvl": 4,
+  "stages": [
+   6900000,
+   5433000,
+   3069000,
+   1888000,
+   923000,
+   730000,
+   552000,
+   315000,
+   100000,
+   44000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever one of your \"Trio of Danger\" Allies would leave play, you may choose to have it stay in play instead.\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a Named card and place it into your hand. If that card was a Setup, Drill, or Ally, you may place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "@1 BERGAMO\nLEVEL HUGE () 564",
+  "stages_text": "6,900,000\n5,433,000\n3,069,000\n1,888,000\n923,000\n730,000\n552,000\n315,000\n100,000\n44,000\n\n0",
+  "error": null
+ }
+}

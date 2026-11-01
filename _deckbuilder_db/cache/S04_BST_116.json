@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_116",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "116_Red Antidote.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/116_Red Antidote.png",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Red Antidote",
+  "file_name": "Red Antidote",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "90f3a3a1238c441842d3bd600b406cb30fc780e4"
+ },
+ "vision": {
+  "id": "S04_BST_116",
+  "name": "Red Antidote",
+  "sub": null,
+  "type": "Event",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Banish all attached cards in play. Raise your anger X levels. X = the number of cards banished this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 92.6,
+  "header_text": "RED ANTIDOTE R116\na ~",
+  "stages_text": ",",
+  "error": null
+ }
+}

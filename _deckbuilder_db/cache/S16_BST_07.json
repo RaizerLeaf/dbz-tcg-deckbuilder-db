@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_07",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "07_Blue Unity Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/07_Blue Unity Mastery.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Unity Mastery",
+  "file_name": "Blue Unity Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "44fd331bae57dd4e8e401f5f8d551606b3209937"
+ },
+ "vision": {
+  "id": "S16_BST_07",
+  "name": "Blue Unity Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use after performing a successful Styled attack. That attack gains \"HIT: If you control 2 or less Allies, search your Life Deck for a non-[Continuous] Ally and play it.\"\nPOWER: Choose an Ally you control. That Ally can make actions regardless of your MP's power stage this combat. Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed",
+  "_src": "S16.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "te 7 = Bre\nee gn PE 8. (Sr ee a Oe en",
+  "stages_text": "4\n5\n,\n4\n0\n,\n,\n,\n,",
+  "error": null
+ }
+}

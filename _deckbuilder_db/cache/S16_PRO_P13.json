@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P13",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P13_Krillin - Z-Warrior copy.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P13_Krillin - Z-Warrior copy.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Krillin - Z-Warrior copy",
+  "file_name": "Krillin",
+  "file_subtitle": "Z-Warrior copy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "920aa93e0ff605ea5c4cc43e5c234e9c04fccec7"
+ },
+ "vision": {
+  "id": "S16_PRO_P13",
+  "name": "Krillin",
+  "sub": "Z-Warrior",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 3,
+  "stages": [
+   750000,
+   675000,
+   600000,
+   500000,
+   350000,
+   250000,
+   100000,
+   50000,
+   15000,
+   7000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1.\nPOWER: [Attack] 2: Energy attack.\nSearch your Life Deck for a Styled Setup or Styled Drill and place it into play.\nDAMAGE: 5 life cards.\nHIT: Rejuvenate 3. Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; filename ends in ' copy'; edge reads HERO -> MP; Trait badge E (blue); stage cost printed as '2:'; text zoomed",
+  "_src": "S16.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 0.934,
+  "lower_conf": 78.9,
+  "header_text": "KRILLIN",
+  "stages_text": "750,000\n675,000\n600,000\n500,000\n350,000\n250,000\n100,000\n50,000\n15,000\n7,000\n0",
+  "error": null
+ }
+}

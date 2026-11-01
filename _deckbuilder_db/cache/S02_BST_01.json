@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_01",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "01_Nail - Watchful.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/01_Nail - Watchful.jpg",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Nail - Watchful",
+  "file_name": "Nail",
+  "file_subtitle": "Watchful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "861efd3bb818554b914a95fca5140099cd30a87d"
+ },
+ "vision": {
+  "id": "S02_BST_01",
+  "name": "Nail",
+  "sub": "Watchful",
+  "type": "Main Personality",
+  "num": "C1",
+  "lvl": 1,
+  "stages": [
+   22000,
+   18000,
+   14000,
+   10000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: AT +2 life cards. If this attack is stopped, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S02.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "(2 NAIL cone () cl\nLEVEL ew —",
+  "stages_text": "22,000\n18,000\n14,000\n10,000\n6,000\n5,000\n4,000\n3,000\n\n2,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

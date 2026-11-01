@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_115",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "115_Red Analysis.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/115_Red Analysis.png",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Red Analysis",
+  "file_name": "Red Analysis",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "0b0f7b61a122dfacf04eaefcffb1513a82bffbe0"
+ },
+ "vision": {
+  "id": "S04_BST_115",
+  "name": "Red Analysis",
+  "sub": null,
+  "type": "Event",
+  "num": "R115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Reveal the bottom card of your Life Deck. If that card was Styled, place it into your hand. If that card was an attack, use a critical damage effect.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.4,
+  "header_text": "RED ANALYSIS ) R115",
+  "stages_text": "30\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_62",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "62_Dr. Wheelo - Scheming.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/62_Dr. Wheelo - Scheming.jpg",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Dr. Wheelo - Scheming",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Scheming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "79209274b8bb749e0e8f25b6878e0a3d101fbaf3"
+ },
+ "vision": {
+  "id": "S03_BST_62",
+  "name": "Dr. Wheelo",
+  "sub": "Scheming",
+  "type": "Main Personality",
+  "num": "U62",
+  "lvl": 2,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Whenever you stop an attack, your opponent destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "E DR. WHEELOQ oe (=\nLEVEL SCHEMING i —_",
+  "stages_text": "1,000\n\n900\n\n800\n\n700\n\n600\n\n500\n1\n\n5 400\n\n300\n\n200\n\n100\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_107",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "107_Cell's Draining Attack.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/107_Cell's Draining Attack.png",
+  "prefix": null,
+  "number": 107,
+  "card_number": "107",
+  "name_part": "Cell's Draining Attack",
+  "file_name": "Cell's Draining Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "fa9e67539513ab2ba1f1f9682ff0b0294145e88b"
+ },
+ "vision": {
+  "id": "S05_BST_107",
+  "name": "Cell's Draining Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You cannot win by MPPV if you raise your anger with this card's immediate effect.)\n[Attack] Physical attack.\nRaise your anger 5 levels or gain 5 stages.\nDAMAGE: 5 stages.\nHIT: Banish up to 5 Villain Allies. Raise your anger X levels. X = the number of Allies banished this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.9,
+  "header_text": "CELL'S DRAINING ATTACK () R107\n\\ — . 7",
+  "stages_text": ",\n3,\n5",
+  "error": null
+ }
+}

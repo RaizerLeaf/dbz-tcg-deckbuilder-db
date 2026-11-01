@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_02",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "02_Nail - Protector.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/02_Nail - Protector.jpg",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Nail - Protector",
+  "file_name": "Nail",
+  "file_subtitle": "Protector",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "37bdee4263673280e4d2f9c2ebb7694a9d921565"
+ },
+ "vision": {
+  "id": "S02_BST_02",
+  "name": "Nail",
+  "sub": "Protector",
+  "type": "Main Personality",
+  "num": "C2",
+  "lvl": 2,
+  "stages": [
+   40000,
+   36000,
+   32000,
+   28000,
+   24000,
+   20000,
+   16000,
+   12000,
+   8000,
+   4000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent stops one of your attacks, he destroys the top 2 cards of his Life Deck.\nAfter your opponent takes damage from one of your attacks, he banishes the top X cards of his Life Deck. X = the number of times he used Endurance on that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S02.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "E NAIL C) a\nLEVEL -",
+  "stages_text": "40,000\n36,000\n32,000\n28,000\n24,000\n20,000\n16,000\n12,000\n8,000\n\n4,000\n\n0",
+  "error": null
+ }
+}

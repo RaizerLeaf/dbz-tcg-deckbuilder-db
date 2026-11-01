@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S154",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S154_Red Surrounded Beams.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S154_Red Surrounded Beams.png",
+  "prefix": "S",
+  "number": 154,
+  "card_number": "S154",
+  "name_part": "Red Surrounded Beams",
+  "file_name": "Red Surrounded Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "df56a216de4919953cc2632ba6a15428dd3393b2"
+ },
+ "vision": {
+  "id": "S04_STR_S154",
+  "name": "Red Surrounded Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S154",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. If you advance a personality level with this card, this attack cannot be stopped.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S119",
+  "_src": "S04.jsonl:307"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "RED SURROUNDED BEAMS @® sis\n. @- |} eee",
+  "stages_text": "4\n2\n4\n7\n,\n4",
+  "error": null
+ }
+}

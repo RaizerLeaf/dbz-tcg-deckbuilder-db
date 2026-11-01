@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P13",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P13_Black Absorption Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P13_Black Absorption Drill.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Black Absorption Drill",
+  "file_name": "Black Absorption Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2112adbbbdfb42a858e79f503046b63b2e4e0366"
+ },
+ "vision": {
+  "id": "S11_PRO_P13",
+  "name": "Black Absorption Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. If this card is destroyed from your Life Deck, choose 2 cards in your opponent's discard pile, banish them and gain 2 stages. If this card is discarded from your hand, Rejuvenate the bottom 2 cards of your discard pile.)\n[Continuous]: Whenever you discard, destroy, or banish cards from your opponent's Life Deck from a non-damage effect, you may place a Styled card from either player's discard pile on top of its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S11.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "BLACK ABSORPTION DRILL @ ris)\n| \"SST i nee ee a .",
+  "stages_text": null,
+  "error": null
+ }
+}

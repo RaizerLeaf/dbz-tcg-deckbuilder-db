@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S28",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S28_Android 18 - Effective.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S28_Android 18 - Effective.png",
+  "prefix": "S",
+  "number": 28,
+  "card_number": "S28",
+  "name_part": "Android 18 - Effective",
+  "file_name": "Android 18",
+  "file_subtitle": "Effective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d226a36b5dacb5e464f8f5705c19582658b1b8c4"
+ },
+ "vision": {
+  "id": "S04_STR_S28",
+  "name": "Android 18",
+  "sub": "Effective",
+  "type": "Main Personality",
+  "num": "S28",
+  "lvl": 3,
+  "stages": [
+   1050000,
+   950000,
+   850000,
+   750000,
+   500000,
+   250000,
+   100000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: While your MP's power level is over 1, your opponent's physical attacks cannot have their damage modified.\nPOWER: [Attack] Energy attack.\nDAMAGE: 0 life cards.\nHIT: Look at the top 6 cards of your Life Deck and place them back in any order. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads VILLAIN",
+  "_src": "S04.jsonl:181"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "| 3 ANDROID 18 ++ '\nEFFECTIVE 2 828",
+  "stages_text": "1,050,000\n950,000\n850,000\n750,000\n500,000\n250,000\n100,000\n50,000\n25,000\n10,000\n\n0",
+  "error": null
+ }
+}

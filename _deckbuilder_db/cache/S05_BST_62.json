@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_62",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "62_Master Roshi - Overwhelmed.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/62_Master Roshi - Overwhelmed.png",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Master Roshi - Overwhelmed",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Overwhelmed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "92039099ffa8a5f9f853c9a3f5dd040669276991"
+ },
+ "vision": {
+  "id": "S05_BST_62",
+  "name": "Master Roshi",
+  "sub": "Overwhelmed",
+  "type": "Main Personality",
+  "num": "U62",
+  "lvl": 2,
+  "stages": [
+   250,
+   230,
+   210,
+   190,
+   170,
+   150,
+   130,
+   110,
+   90,
+   70,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(When you advance to this personality level, you may return a Setup or Drill you control to its owner's hand.)\n[Continuous]: After your Life Deck is shuffled, you may raise your anger 1 level.\n[Defense] POWER: Return a Setup or Drill in play to its owner's hand to prevent all damage from an attack.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads HERO",
+  "_src": "S05.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.2,
+  "header_text": "@ MASTER ROSHI G2\nLEVEL OVERWHELMED\niF",
+  "stages_text": "250\n230\n\n210\n\n190\n\n170\n150\n130\n110\n\n90\n\n70\n0",
+  "error": null
+ }
+}

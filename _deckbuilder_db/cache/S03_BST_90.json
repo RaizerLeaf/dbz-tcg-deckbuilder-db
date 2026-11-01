@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_90",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "90_Orange Captivity Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/90_Orange Captivity Drill.jpg",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Orange Captivity Drill",
+  "file_name": "Orange Captivity Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "23447df94ba94777f56f84dc8a9042a0aad20065"
+ },
+ "vision": {
+  "id": "S03_BST_90",
+  "name": "Orange Captivity Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Energy Combat attacks gain \"HIT: Raise your anger 1 level and your MP gains 3 stages.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.4,
+  "header_text": "ORANGE CAPTIVITY -DRILL () USO",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

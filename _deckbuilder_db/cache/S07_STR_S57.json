@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S57",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S57_Orange Excavation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S57_Orange Excavation.png",
+  "prefix": "S",
+  "number": 57,
+  "card_number": "S57",
+  "name_part": "Orange Excavation",
+  "file_name": "Orange Excavation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5bfca9ca451e70f6e929eca35eb03f5174b3382a"
+ },
+ "vision": {
+  "id": "S07_STR_S57",
+  "name": "Orange Excavation",
+  "sub": null,
+  "type": "Event",
+  "num": "S57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Rejuvenate 3 Drills from your discard pile. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S48; text compared on the sheet",
+  "_src": "S07.jsonl:240"
+ },
+ "ocr": {
+  "agreement": 0.842,
+  "lower_conf": 79.4,
+  "header_text": "ORANGE EXCAVATION C) S57",
+  "stages_text": "0",
+  "error": null
+ }
+}

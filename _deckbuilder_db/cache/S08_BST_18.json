@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_18",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "18_Orange Meditation.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/18_Orange Meditation.png",
+  "prefix": null,
+  "number": 18,
+  "card_number": "18",
+  "name_part": "Orange Meditation",
+  "file_name": "Orange Meditation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f93c8615bd482f2b8fa1950733e212929df037f"
+ },
+ "vision": {
+  "id": "S08_BST_18",
+  "name": "Orange Meditation",
+  "sub": null,
+  "type": "Event",
+  "num": "C18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Limit 2 per deck. As an action, you may discard this card from your hand to perform a Styled energy attack costing 2 stages and dealing 5 life cards of damage.)\n[Instant] POWER: Use when a player would raise their anger level. Change that amount to 0. Both players set their anger level to 0.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 84.9,
+  "header_text": "ORANGE MEDITATION C) C18",
+  "stages_text": ",\n,\n0,",
+  "error": null
+ }
+}

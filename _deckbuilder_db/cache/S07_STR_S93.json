@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S93",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S93_Namekian Knee Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S93_Namekian Knee Block.png",
+  "prefix": "S",
+  "number": 93,
+  "card_number": "S93",
+  "name_part": "Namekian Knee Block",
+  "file_name": "Namekian Knee Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4f4872b744dfb14a3c04fd9026f23ddf4bc72a44"
+ },
+ "vision": {
+  "id": "S07_STR_S93",
+  "name": "Namekian Knee Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, raise your anger 1 level.) ENDURANCE 2. [Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S88; text compared on the sheet",
+  "_src": "S07.jsonl:276"
+ },
+ "ocr": {
+  "agreement": 0.875,
+  "lower_conf": 75.4,
+  "header_text": "NAMEKIAN KNEE BLOCK ) $93\nSS CAL) Wea) . SAA)",
+  "stages_text": "6\n,",
+  "error": null
+ }
+}

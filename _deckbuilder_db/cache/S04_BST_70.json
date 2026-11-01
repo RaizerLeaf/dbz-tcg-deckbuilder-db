@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_70",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "70_Blue Palm Shot.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/70_Blue Palm Shot.png",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Blue Palm Shot",
+  "file_name": "Blue Palm Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2a87b87c19f48a2cace030cbff264d72121c2664"
+ },
+ "vision": {
+  "id": "S04_BST_70",
+  "name": "Blue Palm Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U70",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] Energy attack costing 4 stages.\nYou may destroy any amount of Allies you control. Raise your anger X levels. X = the number of Allies you destroyed.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "BLUE PALM SHOT\niii mk",
+  "stages_text": ",\n\n7 1\n,\n,",
+  "error": null
+ }
+}

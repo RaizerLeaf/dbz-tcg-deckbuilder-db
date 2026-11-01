@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_25",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "25_Red Commanding Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/25_Red Commanding Mastery.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Commanding Mastery",
+  "file_name": "Red Commanding Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3e0e001746741e0191bb7825c64161b8f5f5f754"
+ },
+ "vision": {
+  "id": "S13_BST_25",
+  "name": "Red Commanding Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled energy attacks deal +1 life card of damage. After one of your attacks lowers your anger, raise your anger 1 level.\n[Instant] POWER: Use when an MP changes levels from one of your Styled cards or effects. Use a critical damage effect.\nPOWER: Discard a card from your hand. If you do, Rejuvenate the bottom card of your discard pile. If that card is an attack, you may play it instead.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; number area reads 'PREVIEW DR25' (zoomed); DR number printed",
+  "_src": "S13.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "» | Vv\n| ‘\nim... %",
+  "stages_text": ", 4\n\n25\n41 2\n,\n244, 9",
+  "error": null
+ }
+}

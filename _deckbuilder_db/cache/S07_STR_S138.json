@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S138",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S138_Black Unstable Punch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S138_Black Unstable Punch.png",
+  "prefix": "S",
+  "number": 138,
+  "card_number": "S138",
+  "name_part": "Black Unstable Punch",
+  "file_name": "Black Unstable Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "888a1022990987e0021be9293e7f18590dc1c87f"
+ },
+ "vision": {
+  "id": "S07_STR_S138",
+  "name": "Black Unstable Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nReveal your hand. This attack deals +3 life cards of damage for each Named card revealed.\nDAMAGE: AT +1 life card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_14; text compared on the sheet",
+  "_src": "S07.jsonl:321"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "\"BLACK UNSTABLE PUNCH | UNSTABLE PUNCH (@@) $138\n~~ Ser ee",
+  "stages_text": "37\n3\n,",
+  "error": null
+ }
+}

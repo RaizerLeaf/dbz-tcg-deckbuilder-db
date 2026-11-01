@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P32",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P32_Saiyan Energy Release.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P32_Saiyan Energy Release.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Saiyan Energy Release",
+  "file_name": "Saiyan Energy Release",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3a01e004aa2716ee0663872a734ac89ee654040d"
+ },
+ "vision": {
+  "id": "S17_PRO_P32",
+  "name": "Saiyan Energy Release",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nYour opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 89.1,
+  "header_text": "SAIYAN ENERGY RELEASE C) P32\n~ Ree 1) aaa h6h(Cl el!",
+  "stages_text": ",",
+  "error": null
+ }
+}

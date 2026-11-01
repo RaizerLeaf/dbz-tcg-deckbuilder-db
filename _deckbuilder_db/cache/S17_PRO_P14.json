@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P14",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P14_Blue Trick.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P14_Blue Trick.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Blue Trick",
+  "file_name": "Blue Trick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3b5fb0fb8cc595f52197549c47a3315d07a5f714"
+ },
+ "vision": {
+  "id": "S17_PRO_P14",
+  "name": "Blue Trick",
+  "sub": null,
+  "type": "Setup",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S17.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 0.714,
+  "lower_conf": 84.8,
+  "header_text": "BLUE TRICK () P14\n—— el rw Ee",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P33",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P33_Saiyan Enraged.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P33_Saiyan Enraged.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Saiyan Enraged",
+  "file_name": "Saiyan Enraged",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "56e93010b052099b8ce915f002567d58c9849602"
+ },
+ "vision": {
+  "id": "S16_PRO_P33",
+  "name": "Saiyan Enraged",
+  "sub": null,
+  "type": "Setup",
+  "num": "P33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 2. Rejuvenate the bottom 2 cards of your discard pile. If your MP's power level is higher than your opponent's MP's power level, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S16.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.9,
+  "header_text": "SAIYAN ENRAGED () P33\n$$ —- NN £2 - —————",
+  "stages_text": null,
+  "error": null
+ }
+}

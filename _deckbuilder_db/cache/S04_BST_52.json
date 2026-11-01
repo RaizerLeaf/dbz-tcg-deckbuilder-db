@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_52",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "52_Saiyan Empowered Smash.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/52_Saiyan Empowered Smash.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Saiyan Empowered Smash",
+  "file_name": "Saiyan Empowered Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "1ebf8e97e000afaa5497cb6a8221de3bf73c36fd"
+ },
+ "vision": {
+  "id": "S04_BST_52",
+  "name": "Saiyan Empowered Smash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is discarded from your hand by one of your card effects during combat, lower your opponent's anger 2 levels and gain 3 stages.)\n[Attack] Energy attack costing 2 stages.\nYour attacks deal +1 stage of damage this combat.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 89.1,
+  "header_text": "SAIYAN EMPOWERED SMASH () C52\nOe £ eee",
+  "stages_text": ",\n7\n2,",
+  "error": null
+ }
+}

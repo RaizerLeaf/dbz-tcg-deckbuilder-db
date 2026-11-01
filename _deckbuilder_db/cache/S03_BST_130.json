@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_130",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "130_Garlic Jr.'s Counter Blast.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/130_Garlic Jr.'s Counter Blast.jpg",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Garlic Jr.'s Counter Blast",
+  "file_name": "Garlic Jr.'s Counter Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "b0e9415b73de1f733c9bdf07576c488811cd0ef2"
+ },
+ "vision": {
+  "id": "S03_BST_130",
+  "name": "Garlic Jr.'s Counter Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Raise your anger 2 levels. The damage modifiers on your MP's [Continuous] powers are doubled this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S03.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 75.8,
+  "header_text": "“(GARLIC IR'S COUNTER BLAST a",
+  "stages_text": ",\n4\n, 2",
+  "error": null
+ }
+}

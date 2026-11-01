@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_24",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "24_Red Controlled Blast.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/24_Red Controlled Blast.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Controlled Blast",
+  "file_name": "Red Controlled Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "87da232816a67f3928f092aac515fac83c4c3acf"
+ },
+ "vision": {
+  "id": "S09_BST_24",
+  "name": "Red Controlled Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical attack instead of as an attack.)\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 5 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.3,
+  "header_text": "RED CONTROLLED BLAST @ v2\n—— SEE",
+  "stages_text": ",\n4\n\n,\n,",
+  "error": null
+ }
+}

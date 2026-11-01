@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_113",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "113_Dashing Sword Attack.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/113_Dashing Sword Attack.png",
+  "prefix": null,
+  "number": 113,
+  "card_number": "113",
+  "name_part": "Dashing Sword Attack",
+  "file_name": "Dashing Sword Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5ea2f8a5ef431b0c0964eb711be5fe46aa0da076"
+ },
+ "vision": {
+  "id": "S05_BST_113",
+  "name": "Dashing Sword Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 1 stage.\nYour opponent's MP loses 2 stages. Lower your opponent's anger 1 level.\nDAMAGE: AT +2 stages.\nHIT: Search your discard pile for a Styled or Named card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.0,
+  "header_text": "DASHING SWORD ATTACK (@) R113.",
+  "stages_text": "347\n,\n,",
+  "error": null
+ }
+}

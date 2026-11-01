@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P7_RST",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P7_Blue Head Kick (Restored).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P7_Blue Head Kick (Restored).png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Blue Head Kick",
+  "file_name": "Blue Head Kick",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Restored"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2aca19146086761f57e174a4b3c17bf893447ecb"
+ },
+ "vision": {
+  "id": "S07_PRO_P7_RST",
+  "name": "Blue Head Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nDraw a card.\nDAMAGE: AT + 2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "(Restored) fan re-creation with FanZ disclaimer, modern wording; of a promo that was never officially released",
+  "_src": "S07.jsonl:200"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 85.5,
+  "header_text": "BLUE HEAD KICK () P7\n2. ana a",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

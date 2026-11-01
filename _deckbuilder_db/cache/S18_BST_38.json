@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_38",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "38_ Goku Black - Body Snatcher.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/38_ Goku Black - Body Snatcher.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Goku Black - Body Snatcher",
+  "file_name": "Goku Black",
+  "file_subtitle": "Body Snatcher",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2a369aec258937a59c627179b260c5592f6a90ed"
+ },
+ "vision": {
+  "id": "S18_BST_38",
+  "name": "Goku Black",
+  "sub": "Body Snatcher",
+  "type": "Main Personality",
+  "num": "S38",
+  "lvl": 2,
+  "stages": [
+   9900000,
+   6600000,
+   3300000,
+   1250000,
+   864000,
+   730000,
+   415000,
+   177000,
+   80000,
+   42000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 stage and -1 life card.\nPOWER: Your opponent discards a card from their hand. You may discard a card from your hand. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G; text zoomed",
+  "_src": "S18.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "@ GOKU BLACK 539\nLEVEL BODY SNATCHER",
+  "stages_text": "9,900,000\n6,600,000\n3,300,000\n1,250,000\n864,000\n730,000\n415,000\n177,000\n80,000\n42,000\n\n0",
+  "error": null
+ }
+}

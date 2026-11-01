@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P9",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P9_Blue Rest.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P9_Blue Rest.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Blue Rest",
+  "file_name": "Blue Rest",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7cb4b97af2e38c0d9a271abdfb5da78c8e471fb7"
+ },
+ "vision": {
+  "id": "S18_PRO_P9",
+  "name": "Blue Rest",
+  "sub": null,
+  "type": "Event",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] POWER: Prevent all damage from an attack.\nPlace at the bottom of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S18.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.895,
+  "lower_conf": 86.1,
+  "header_text": "BLUE REST ) Po\nree",
+  "stages_text": "2\n,\n7\n7\n,",
+  "error": null
+ }
+}

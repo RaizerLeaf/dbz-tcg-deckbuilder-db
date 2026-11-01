@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_132",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "132_Lord Slugs Regeneration.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/132_Lord Slugs Regeneration.jpg",
+  "prefix": null,
+  "number": 132,
+  "card_number": "132",
+  "name_part": "Lord Slugs Regeneration",
+  "file_name": "Lord Slugs Regeneration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "482fd705ead51e8c012550a5d0419dc8b48b1682"
+ },
+ "vision": {
+  "id": "S03_BST_132",
+  "name": "Lord Slug's Regeneration",
+  "sub": null,
+  "type": "Event",
+  "num": "R132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) [Instant] POWER: Use after taking damage from an attack. You may advance or lower your MP 1 level. Rejuvenate 4.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; filename 'Lord Slugs' lacks the apostrophe",
+  "_src": "S03.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "“(LORD SLUG'S REGENERATION a\n. _ carer —~~=",
+  "stages_text": ", 9\n7\n,\n,,",
+  "error": null
+ }
+}

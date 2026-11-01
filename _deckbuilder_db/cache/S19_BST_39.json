@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_39",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "39_Righteous Assault.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/39_Righteous Assault.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Righteous Assault",
+  "file_name": "Righteous Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dd7cc9c59ffee860d19b4e7f886ced1cb614d6cc"
+ },
+ "vision": {
+  "id": "S19_BST_39",
+  "name": "Righteous Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n([Trait:Saiyan] only. Heroes only.)\n[Attack] Physical attack.\nFocused. Raise your anger 1. You are considered to have no cards in your hand for your effects until the end of your next action this combat. [Warning]: Rejuvenate up to 2 \"Heroes only\" and/or [Warning] cards from your discard pile.\nDAMAGE: 5 stages.\nHIT: Banish an opponent's Setup, Drill, or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; deck restriction icon zoomed: green S badge (Saiyan); black warning triangle transcribed as [Warning]",
+  "_src": "S19.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 87.0,
+  "header_text": "RIGHTEOUS ASSAULT (uso\nXN BP™ an.",
+  "stages_text": "4\n347 2\n2",
+  "error": null
+ }
+}

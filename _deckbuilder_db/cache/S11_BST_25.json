@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_25",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "25_Red Palm Shot.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/25_Red Palm Shot.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Palm Shot",
+  "file_name": "Red Palm Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a9486e101e5416f4c0f8621f11842c419e6679b0"
+ },
+ "vision": {
+  "id": "S11_BST_25",
+  "name": "Red Palm Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Damage from this attack is banished. You may lower your anger 2 levels. If you do, banish the top or bottom 3 cards of your opponent's discard pile.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 89.5,
+  "header_text": "RED PALM SHOT () U25\n~~, ‘SSA y z_ i",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

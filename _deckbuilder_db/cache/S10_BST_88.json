@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_88",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "88_Supreme Kai - Ready for Battle.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/88_Supreme Kai - Ready for Battle.png",
+  "prefix": null,
+  "number": 88,
+  "card_number": "88",
+  "name_part": "Supreme Kai - Ready for Battle",
+  "file_name": "Supreme Kai",
+  "file_subtitle": "Ready for Battle",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "95fe0b597b1763868a71d6646d7c26113e5e320a"
+ },
+ "vision": {
+  "id": "S10_BST_88",
+  "name": "Supreme Kai",
+  "sub": "Ready for Battle",
+  "type": "Main Personality",
+  "num": "S88",
+  "lvl": 3,
+  "stages": [
+   1100000,
+   1000000,
+   900000,
+   800000,
+   600000,
+   200000,
+   100000,
+   75000,
+   50000,
+   20000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Choose up to 5 cards in your discard pile and shuffle them into your Life Deck.\nPOWER: Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "3 SUPREME KAI 539\nLEVEL READY FOR BATTLE\nel, ae a",
+  "stages_text": "1,100,000\n1,000,000\n900,000\n800,000\n600,000\n200,000\n100,000\n75,000\n60,000\n220,000\n0",
+  "error": null
+ }
+}

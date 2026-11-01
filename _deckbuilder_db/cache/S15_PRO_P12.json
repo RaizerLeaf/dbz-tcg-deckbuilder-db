@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P12",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P12_Black Mishievous Mastery.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P12_Black Mishievous Mastery.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Black Mishievous Mastery",
+  "file_name": "Black Mishievous Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "514199be0d508faeb26d37a73d5d294371fb6951"
+ },
+ "vision": {
+  "id": "S15_PRO_P12",
+  "name": "Black Mischievous Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent draws 1 or more cards during combat, destroy the top card of your opponent's Life Deck and you may raise a player's anger 1.\nPOWER: Banish the top card of your opponent's discard pile. Discard a card at random from your opponent's hand. Your opponent's next attack this combat gains \"Draw a card.\"",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title read from a crop of the original (filename has typo 'Mishievous'); P number printed (reprint of S10 DR1 / S13 style; wording 'anger 1' instead of 'anger 1 level')",
+  "_src": "S15.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "ae\nn Haine? y;",
+  "stages_text": ",\n\n,\n13\n1\n9",
+  "error": null
+ }
+}

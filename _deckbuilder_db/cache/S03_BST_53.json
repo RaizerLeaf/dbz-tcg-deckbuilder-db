@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_53",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "53_Saiyan Counter Kick.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/53_Saiyan Counter Kick.jpg",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan Counter Kick",
+  "file_name": "Saiyan Counter Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8ee8e64e1356babbe5b67939c6d04a996016180b"
+ },
+ "vision": {
+  "id": "S03_BST_53",
+  "name": "Saiyan Counter Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 5 stages. If you have changed levels this combat, your MP is considered to have a higher power level than the defending personality for your card effects this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "(SAIYAN COUNTER: KICK (=\nas =:",
+  "stages_text": "4\n4\n,",
+  "error": null
+ }
+}

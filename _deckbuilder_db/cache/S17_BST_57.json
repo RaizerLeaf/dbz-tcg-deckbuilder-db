@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_57",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "57_Hit - Impressive.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/57_Hit - Impressive.png",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Hit - Impressive",
+  "file_name": "Hit",
+  "file_subtitle": "Impressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9a470d78ff28994e06676910f3df7e596a5e5a9f"
+ },
+ "vision": {
+  "id": "S17_BST_57",
+  "name": "Hit",
+  "sub": "Impressive",
+  "type": "Main Personality",
+  "num": "S57",
+  "lvl": 4,
+  "stages": [
+   200000000,
+   99420000,
+   53256000,
+   9320000,
+   1483000,
+   948000,
+   734000,
+   457000,
+   222000,
+   69000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent skips an action, banish the top 2 cards of your opponent's Life Deck.\nPOWER: [Attack] Physical attack.\nIf your opponent has skipped an action this combat, Unstoppable.\nDAMAGE: 6 life cards.\nHIT: Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge A (purple); text zoomed",
+  "_src": "S17.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 81.0,
+  "header_text": "41. HIT\nLEVEL IMPRESSIVE () S57",
+  "stages_text": "200,000,000\n99,420,000\n53,256,000\n9,320,000\n1,483,000\n948,000\n734,000\n457,000\n222,000\n69,000\n\n0",
+  "error": null
+ }
+}

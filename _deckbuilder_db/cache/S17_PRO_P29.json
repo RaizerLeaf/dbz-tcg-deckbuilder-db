@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P29",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P29_Red Freezing Beam.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P29_Red Freezing Beam.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Red Freezing Beam",
+  "file_name": "Red Freezing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c20000cff8b805f5d540a98d8141e261224939dc"
+ },
+ "vision": {
+  "id": "S17_PRO_P29",
+  "name": "Red Freezing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\nYou may raise your anger 1. Search your discard pile or Banished Zone for a Drill and place it into play.\nDAMAGE: AT + 2 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'",
+  "_src": "S17.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 91.1,
+  "header_text": "RED FREEZING BEAM C) P29\nvVitijt. >: -_ it—< 4s",
+  "stages_text": "7",
+  "error": null
+ }
+}

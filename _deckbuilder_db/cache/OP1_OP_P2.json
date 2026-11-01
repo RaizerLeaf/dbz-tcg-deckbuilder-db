@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P2",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P2_Blue Stylish Pose.png",
+  "rel_path": "z_OP Series/OP1/P2_Blue Stylish Pose.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Blue Stylish Pose",
+  "file_name": "Blue Stylish Pose",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b350f6dce62ae91a69296fe55f342a1dfb5a8300"
+ },
+ "vision": {
+  "id": "OP1_OP_P2",
+  "name": "Blue Stylish Pose",
+  "sub": null,
+  "type": "Setup",
+  "num": "P2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Limit 1 per deck. As an action, you may banish this card from your hand to search your discard pile or Banished Zone for an Ally and play it.)\nPOWER: Search your Life Deck or discard pile for an Ally and play it. Raise an Ally to its highest power stage. You may use a critical damage effect.\n(Created by Matt Tambor, OP1 North Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); landscape Setup layout; red crest set symbol; prints a design credit line; same card as S18 PRO_P7 (different art/frame)",
+  "_src": "OP.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.971,
+  "lower_conf": 81.6,
+  "header_text": "BLUE STYLISH POSE () P2\nee eee ~ —_—_—_———",
+  "stages_text": null,
+  "error": null
+ }
+}

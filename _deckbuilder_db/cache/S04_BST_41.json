@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_41",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "41_Red Cross Block.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/41_Red Cross Block.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Red Cross Block",
+  "file_name": "Red Cross Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "3b93ef9f2d8d6214c38721bfa33a3505146b44ee"
+ },
+ "vision": {
+  "id": "S04_BST_41",
+  "name": "Red Cross Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nSearch your discard pile for a Styled attack card and place it on top of your Life Deck or discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "RED CROSS BLOCK @ ai\nSO A GaSe”",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

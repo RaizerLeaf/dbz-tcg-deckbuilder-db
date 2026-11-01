@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_68",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "68_Cell Jr. - Taunting.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/68_Cell Jr. - Taunting.png",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Cell Jr. - Taunting",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Taunting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7b2d6993d3d6d1d3d7f4cc67a4c8c7344a0ce8c7"
+ },
+ "vision": {
+  "id": "S07_BST_68",
+  "name": "Cell Jr.",
+  "sub": "Taunting",
+  "type": "Main Personality",
+  "num": "U68",
+  "lvl": 1,
+  "stages": [
+   500000,
+   300000,
+   100000,
+   70000,
+   40000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "(Your Life Deck may include up to 3 copies of each Ally with \"Cell Jr.\" in the title.)\nPOWER: [Attack] Physical attack.\nYou may discard an Ally with \"Cell Jr.\" in the title from your hand. If you do, this attack cannot be stopped.\nDAMAGE: 4 stages.\nHIT: Search your Life Deck for a card with a [Continuous] effect and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 7 MP; edge reads VILLAIN",
+  "_src": "S07.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.8,
+  "header_text": "L CELL JR.\nLEVEL TAUNTING () U68",
+  "stages_text": "500,000\n300,000\n100,000\n70,000\n40,000\n10,000\n8,000\n6,000\n\n4,000\n\n2,000\n0",
+  "error": null
+ }
+}

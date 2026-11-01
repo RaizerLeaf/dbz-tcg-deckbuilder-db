@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_85",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "85_Piccolo - Warrior.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/85_Piccolo - Warrior.png",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Piccolo - Warrior",
+  "file_name": "Piccolo",
+  "file_subtitle": "Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d545dcf5006209d8d66a1fd642ea4d998028a064"
+ },
+ "vision": {
+  "id": "S10_BST_85",
+  "name": "Piccolo",
+  "sub": "Warrior",
+  "type": "Main Personality",
+  "num": "S85",
+  "lvl": 4,
+  "stages": [
+   2450000,
+   2200000,
+   2000000,
+   1700000,
+   1300000,
+   900000,
+   500000,
+   300000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your Styled physical attacks deal +2 stages of damage and can only be stopped by Physical Combat cards.\n[Instant] POWER: Use after performing a successful Styled physical attack. That attack gains \"This attack stays in play to be used a second time this combat.\"\nPOWER: Choose a card in your discard pile and shuffle it into your Life Deck. Choose a card in your opponent's discard pile and banish it.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP",
+  "_src": "S10.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.871,
+  "lower_conf": 80.5,
+  "header_text": "41 PICCOLO\nLEVEL WARRIOR () 5895\nWw. tL ~~",
+  "stages_text": "2,450,000\n2,200,000\n2,000,000\n1,700,000\n\n1,300,000\n\n900,000\n\n500,000\n\n300,000\n100,000\n50,000\n0",
+  "error": null
+ }
+}

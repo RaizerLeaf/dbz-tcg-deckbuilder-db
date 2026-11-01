@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S43",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S43_Blue Arm Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S43_Blue Arm Blast.png",
+  "prefix": "S",
+  "number": 43,
+  "card_number": "S43",
+  "name_part": "Blue Arm Blast",
+  "file_name": "Blue Arm Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f4bd2f6c66c06aaf72839bd2d01ea5753cd8ee34"
+ },
+ "vision": {
+  "id": "S07_STR_S43",
+  "name": "Blue Arm Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical attack instead of as an attack.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S53; text compared on the sheet",
+  "_src": "S07.jsonl:226"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "BLUE ARM BLAST ) $43\na NH",
+  "stages_text": "0\n,\n,",
+  "error": null
+ }
+}

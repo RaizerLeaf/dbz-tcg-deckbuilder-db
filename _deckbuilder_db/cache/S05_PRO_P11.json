@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P11",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P11_Saiyan Domination.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P11_Saiyan Domination.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Saiyan Domination",
+  "file_name": "Saiyan Domination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f888a90067e72357709423b917b5e0afaa89cd20"
+ },
+ "vision": {
+  "id": "S05_PRO_P11",
+  "name": "Saiyan Domination",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf the personality performing this attack has a higher power level than the defending personality, your opponent cannot play Events this combat.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 U102",
+  "_src": "S05.jsonl:159"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "SAIYAN DOMINATION C) Pil\n‘ae eam \\ || 7 \\ /7 / a",
+  "stages_text": ",\n\n,\n,,\n\n,\n\n,\n\n4\n,\n,",
+  "error": null
+ }
+}

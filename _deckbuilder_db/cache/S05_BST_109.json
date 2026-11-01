@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_109",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "109_Tenshinhan's Tri-Beam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/109_Tenshinhan's Tri-Beam.png",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Tenshinhan's Tri-Beam",
+  "file_name": "Tenshinhan's Tri-Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4090d60efd1275e20fba0f458533545de51bb194"
+ },
+ "vision": {
+  "id": "S05_BST_109",
+  "name": "Tenshinhan's Tri-Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You must destroy the top 2 cards of your Life Deck to use this card.)\n[Attack] Energy attack.\nDestroy the top 2 cards of your opponent's Life Deck. Raise your anger 1 level. Lower your opponent's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Your opponent skips his next action this combat. This attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "TENSHINHAN'S TRI-BEAM ¢) R109",
+  "stages_text": ",\n1\n,",
+  "error": null
+ }
+}

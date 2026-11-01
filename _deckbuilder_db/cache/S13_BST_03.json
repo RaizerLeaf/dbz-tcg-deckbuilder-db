@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_03",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "03_Black Hop.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/03_Black Hop.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Hop",
+  "file_name": "Black Hop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e36aab3ae66f3078015255aed3bd6139430b0542"
+ },
+ "vision": {
+  "id": "S13_BST_03",
+  "name": "Black Hop",
+  "sub": null,
+  "type": "Event",
+  "num": "U3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nThe next time a card is revealed from your hand this combat, Rejuvenate 2 and banish the top 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S13.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.6,
+  "header_text": "BLACK HOP ) U3",
+  "stages_text": "4\n9\n2",
+  "error": null
+ }
+}

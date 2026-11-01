@@ -1,0 +1,67 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_80",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "80_Vegito - Suppressive.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/80_Vegito - Suppressive.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Vegito - Suppressive",
+  "file_name": "Vegito",
+  "file_subtitle": "Suppressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "801d6bc23c75046b33c84f2803a69a46bddaf53e"
+ },
+ "vision": {
+  "id": "S19_BST_80",
+  "name": "Vegito",
+  "sub": "Suppressive",
+  "type": "Main Personality",
+  "num": "S80",
+  "lvl": 4,
+  "stages": [
+   377777777,
+   233333000,
+   85555000,
+   20000000,
+   1444000,
+   1111000,
+   999000,
+   466000,
+   222000,
+   88000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: You may use your Level 3 [Continuous] Powers. The first attack you perform each combat gains \"Unstoppable.\"\n[Instant] POWER: Use when an effect requires you to discard 1 or 2 cards from your hand. Reveal those cards instead.\nPOWER: Lower your MP 1 level. The first time you use this Power each game, lower your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G, S, E, F",
+  "_src": "S19.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 78.8,
+  "header_text": "VEGITO",
+  "stages_text": "377,777,777\n233,333,000\n85,555,000\n20,000,000\n1,444,000\n1,111,000\n999,000\n466,000\n222,000\n88,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S12",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S12_Piccolo - Anticipating.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S12_Piccolo - Anticipating.png",
+  "prefix": "S",
+  "number": 12,
+  "card_number": "S12",
+  "name_part": "Piccolo - Anticipating",
+  "file_name": "Piccolo",
+  "file_subtitle": "Anticipating",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "72eb8c31ad4d1436c3a5b9af1b8dfc5932173d93"
+ },
+ "vision": {
+  "id": "S04_STR_S12",
+  "name": "Piccolo",
+  "sub": "Anticipating",
+  "type": "Main Personality",
+  "num": "S12",
+  "lvl": 2,
+  "stages": [
+   775000,
+   575000,
+   375000,
+   175000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack.\nAt the end of combat, you may search your Life Deck for a Styled card and place it on the top or bottom of your Life Deck.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter MP; edge reads HERO",
+  "_src": "S04.jsonl:166"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "PICCOLO Pye.\nae Si2\nANTICIPATING £\n~~ ea",
+  "stages_text": "775,000\n,575,000\n375,000\n175,000\n75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n0",
+  "error": null
+ }
+}

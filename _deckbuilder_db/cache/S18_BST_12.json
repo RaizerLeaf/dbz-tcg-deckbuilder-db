@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_12",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "12_Namekian Mentoring Drill.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/12_Namekian Mentoring Drill.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Mentoring Drill",
+  "file_name": "Namekian Mentoring Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "7bf66bbeb8ba66d56b460bd79647e978b040c53d"
+ },
+ "vision": {
+  "id": "S18_BST_12",
+  "name": "Namekian Mentoring Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your physical attacks deal +1 stage.\n[Instant] POWER: Use when your opponent performs an attack. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S18.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "AMEKIAN MENTORING DRILL a C12)",
+  "stages_text": null,
+  "error": null
+ }
+}

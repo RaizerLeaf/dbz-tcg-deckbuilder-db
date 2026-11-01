@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P24",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P24_Blue Positioning Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P24_Blue Positioning Drill.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Blue Positioning Drill",
+  "file_name": "Blue Positioning Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "dc40bad66a7389636396941d114ff47cf01b45b0"
+ },
+ "vision": {
+  "id": "S13_PRO_P24",
+  "name": "Blue Positioning Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you stop an attack, place a Styled card from your discard pile on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; no Endurance badge",
+  "_src": "S13.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "BLUE POSITIONING DRILL 6 p24",
+  "stages_text": null,
+  "error": null
+ }
+}

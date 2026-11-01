@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S79",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S79_Blue Safeguard.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S79_Blue Safeguard.png",
+  "prefix": "S",
+  "number": 79,
+  "card_number": "S79",
+  "name_part": "Blue Safeguard",
+  "file_name": "Blue Safeguard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "70d49c1d2fb3b6282091d4498386e5d221099f19"
+ },
+ "vision": {
+  "id": "S04_STR_S79",
+  "name": "Blue Safeguard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S79",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops a physical attack.\nIf your opponent's anger level is 0, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C23",
+  "_src": "S04.jsonl:232"
+ },
+ "ocr": {
+  "agreement": 0.895,
+  "lower_conf": 68.5,
+  "header_text": "BLUE SAFEGUARD () $79\na ell",
+  "stages_text": ",\n\n,\n,\n\n,",
+  "error": null
+ }
+}

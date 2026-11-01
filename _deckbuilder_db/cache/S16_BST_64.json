@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_64",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "64_Shisami - Enforcer.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/64_Shisami - Enforcer.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Shisami - Enforcer",
+  "file_name": "Shisami",
+  "file_subtitle": "Enforcer",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ef50b3de845b72de24e31e969a044899e7460533"
+ },
+ "vision": {
+  "id": "S16_BST_64",
+  "name": "Shisami",
+  "sub": "Enforcer",
+  "type": "Ally",
+  "num": "U64",
+  "lvl": 1,
+  "stages": [
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage. Attacks performed by personalities with [Trait:Alien] deal +1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badge A (purple); inline icon is the same purple A badge",
+  "_src": "S16.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 0.875,
+  "lower_conf": 80.8,
+  "header_text": "1 Es\nLEVEL | ENFORCER E) U64",
+  "stages_text": "70,000\n60,000\n50,000\n40,000\n30,000\n720,000\n10,000\n5,000\n1,000\n500\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_85",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "85_Goku - Warming Up.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/85_Goku - Warming Up.png",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Goku - Warming Up",
+  "file_name": "Goku",
+  "file_subtitle": "Warming Up",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "184271194823da069f7493305c439b9ff8cc1776"
+ },
+ "vision": {
+  "id": "S16_BST_85",
+  "name": "Goku",
+  "sub": "Warming Up",
+  "type": "Main Personality",
+  "num": "S85",
+  "lvl": 2,
+  "stages": [
+   9200000,
+   5425000,
+   2700000,
+   1050000,
+   820000,
+   660000,
+   375000,
+   150000,
+   77000,
+   34000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(When you reach this level, search your Life Deck for a Styled Drill and place it into play.)\nPOWER: [Attack] Energy attack.\n[Warning]: Rejuvenate a Styled Drill from your discard pile or Banished Zone.\nDAMAGE: 4 life cards.\nHIT: Raise or lower a player's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges E, S; black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 77.7,
+  "header_text": "GOKU",
+  "stages_text": "9,200,000\n5,425,000\n2,700,000\n1,050,000\n820,000\n660,000\n375,000\n150,000\n77,000\n34,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_38",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "38_Frost's Facade.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/38_Frost's Facade.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Frost's Facade",
+  "file_name": "Frost's Facade",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "2fb9ea6aa070a2572c4b6a896a7abecb867adc73"
+ },
+ "vision": {
+  "id": "S17_BST_38",
+  "name": "Frost's Facade",
+  "sub": null,
+  "type": "Setup",
+  "num": "R38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only. You may banish this card from your hand as an action to banish a \"Villains only\" attack from your discard pile. If you do, perform a copy of that attack.)\nPOWER: Discard a card. Return this card to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named",
+  "_src": "S17.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 0.955,
+  "lower_conf": 86.3,
+  "header_text": "FROST'S FACADE ae R38 |\nEEE\" | 1",
+  "stages_text": null,
+  "error": null
+ }
+}

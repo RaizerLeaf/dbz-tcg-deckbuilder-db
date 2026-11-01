@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S137",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S137_Black Easy Block.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S137_Black Easy Block.png",
+  "prefix": "S",
+  "number": 137,
+  "card_number": "S137",
+  "name_part": "Black Easy Block",
+  "file_name": "Black Easy Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a613b56fbaa2752f50e2be7570ae0aeb614a3a0c"
+ },
+ "vision": {
+  "id": "S07_STR_S137",
+  "name": "Black Easy Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nLower your opponent's anger 1 level. All of your attacks are considered Styled this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_08; text compared on the sheet",
+  "_src": "S07.jsonl:320"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 71.9,
+  "header_text": "BLACK EASY BLOCK €) st37",
+  "stages_text": "7\n10\n9\n, ,\n37 2\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_41",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "41_Krillin - To the Rescue.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/41_Krillin - To the Rescue.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Krillin - To the Rescue",
+  "file_name": "Krillin",
+  "file_subtitle": "To the Rescue",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e94b3b8b993558973a7cad581de62a773f210a24"
+ },
+ "vision": {
+  "id": "S12_BST_41",
+  "name": "Krillin",
+  "sub": "To the Rescue",
+  "type": "Ally",
+  "num": "U41",
+  "lvl": 1,
+  "stages": [
+   150000,
+   80000,
+   50000,
+   10000,
+   5000,
+   3000,
+   2000,
+   1000,
+   600,
+   200,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP has [Trait:Earthling], once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.)\n[Continuous]: If your MP has [Trait:Earthling] and 2 or less Traits, your opponent's attacks deal -2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge E; inline icon zoomed: blue Capsule Corp Earthling badge",
+  "_src": "S12.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 81.4,
+  "header_text": "Ls sKRILLIN\nLEVEL TO THE RESCUE () U41",
+  "stages_text": "150,000\n80,000\n50,000\n\n10,000\n5,000\n3,000\n\n2,000\n1,000\n600\n\n200\n0",
+  "error": null
+ }
+}

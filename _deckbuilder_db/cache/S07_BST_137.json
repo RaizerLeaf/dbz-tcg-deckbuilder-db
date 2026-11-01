@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_137",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "137_Mercenary Tao's Super Dodon Wave.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/137_Mercenary Tao's Super Dodon Wave.png",
+  "prefix": null,
+  "number": 137,
+  "card_number": "137",
+  "name_part": "Mercenary Tao's Super Dodon Wave",
+  "file_name": "Mercenary Tao's Super Dodon Wave",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "52b4ef83ccb28bad0cc20202855e2893c209795b"
+ },
+ "vision": {
+  "id": "S07_BST_137",
+  "name": "Mercenary Tao's Super Dodon Wave",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nAttach to your opponent's MP. While attached, your opponent may discard a [Defense] card from his or her hand at the start of each turn. If he or she does not, banish the top card of your opponent's Life Deck. Place this card on top of your Life Deck when your opponent deals critical damage.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.2,
+  "header_text": "MERCENARY TAO'S SUPER DODON WAVE R137\n— €6€=6—h >»",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

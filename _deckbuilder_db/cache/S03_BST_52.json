@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_52",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "52_Saiyan Charge.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/52_Saiyan Charge.jpg",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Saiyan Charge",
+  "file_name": "Saiyan Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3017ba43fcf14d7a21fc64fc30398b30d427eb65"
+ },
+ "vision": {
+  "id": "S03_BST_52",
+  "name": "Saiyan Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. If your MP is level 3 or higher, banish an opponent's Setup.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.3,
+  "header_text": "SAIYAN CHARGE.) () cse\n, =——si<A hg , | Jae a",
+  "stages_text": "7\n7",
+  "error": null
+ }
+}

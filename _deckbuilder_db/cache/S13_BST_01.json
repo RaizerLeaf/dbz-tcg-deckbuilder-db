@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_01",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "01_Black Manipulative Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/01_Black Manipulative Mastery.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Manipulative Mastery",
+  "file_name": "Black Manipulative Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3c606d7d694f012c273228177e9230724c5297aa"
+ },
+ "vision": {
+  "id": "S13_BST_01",
+  "name": "Black Manipulative Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +1 life card of damage.\n[Defense] POWER: Reveal a Styled attack card from your hand and play it to prevent all damage from an attack instead of as an attack.\nPOWER: Destroy the top card of your Life Deck to gain 2 stages and banish the top or bottom 2 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip sits below the art (read from a crop of the original); DR (alternate-art tier) number printed",
+  "_src": "S13.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.0,
+  "header_text": "\\ Ps ~ vs oo Zi\n: . Wa 3 Rk EZ a\n~ AYy Oe\nSSO\" wees",
+  "stages_text": "1\n7\n\n,\n\n,",
+  "error": null
+ }
+}

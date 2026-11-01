@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_08",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "08_Blue Quick Strike.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/08_Blue Quick Strike.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Blue Quick Strike",
+  "file_name": "Blue Quick Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "08896d8e70bedf04dc5fdeae6b0542fa8be1f96a"
+ },
+ "vision": {
+  "id": "S15_BST_08",
+  "name": "Blue Quick Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Heroes only. This attack is considered a copied attack.)\n[Attack] Physical attack.\nFocused. Lower your opponent's anger 1.\nDAMAGE: 5 stages.\nHIT: Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S15.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 85.0,
+  "header_text": "BLUE QUICK STRIKE ) us\n7° Jints=—ens ' |e ia",
+  "stages_text": ",\n,\n\n5\n,\n1,",
+  "error": null
+ }
+}

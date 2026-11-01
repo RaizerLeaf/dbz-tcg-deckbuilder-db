@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P6",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P6_Vegito - Boastful.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P6_Vegito - Boastful.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Vegito - Boastful",
+  "file_name": "Vegito",
+  "file_subtitle": "Boastful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f89579b114ecd1086d14611f29bdf68c2aab6967"
+ },
+ "vision": {
+  "id": "S13_PRO_P6",
+  "name": "Vegito",
+  "sub": "Boastful",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 2,
+  "stages": [
+   12000000,
+   8000000,
+   3000000,
+   1300000,
+   900000,
+   700000,
+   300000,
+   100000,
+   80000,
+   40000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Your energy attacks deal +1 life card of damage.\n[Instant] POWER: Use when one of your effects requires you to discard 1 card from your hand during combat. Rejuvenate 2.\nPOWER: [Attack] Energy attack costing 1 stage.\nRaise your anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges S, E, F; stats match S13 S58 but wording differs; text zoomed; F badge confirmed as Fusion by the T_Fusion trait card",
+  "_src": "S13.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.0,
+  "header_text": "— ee RN ——\n, VEGITO a )\n\\ 2 BOASTFUL v 7s )\n? a TT - =\nA (eg fs? oad “ NNN Nnn",
+  "stages_text": "12,000,000\n8,000,000\n3,000,000\n1,300,000\n\n900,000\n700,000\n300,000\n\n100,000\n0,000\n70,000\n\n53",
+  "error": null
+ }
+}

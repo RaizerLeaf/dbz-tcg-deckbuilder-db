@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_57",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "57_Saiyan Leaping Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/57_Saiyan Leaping Strike.png",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Leaping Strike",
+  "file_name": "Saiyan Leaping Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "649fa053cfa309accd2f0375dc52786c6768e707"
+ },
+ "vision": {
+  "id": "S05_BST_57",
+  "name": "Saiyan Leaping Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nWhenever you gain stages this combat, all of your opponent's personalities lose 1 stage. Banish a card attached to your MP.\nDAMAGE: 3 life cards.\nHIT: If you banished an attached card with this card's immediate effect, you may draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "SAIYAN LEAPING STRIKE €) C57\naa SW RwARt a oe",
+  "stages_text": "6\n3,\n,\n,\n,",
+  "error": null
+ }
+}

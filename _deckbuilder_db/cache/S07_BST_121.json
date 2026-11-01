@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_121",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "121_Red Awakening.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/121_Red Awakening.png",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Red Awakening",
+  "file_name": "Red Awakening",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "03a15f680c1ee643dff98a27c06eec7c540dd22f"
+ },
+ "vision": {
+  "id": "S07_BST_121",
+  "name": "Red Awakening",
+  "sub": null,
+  "type": "Event",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Instant] POWER: Use after taking damage from an attack. Place the top card of your discard pile into your hand. You may banish a Styled card from your hand to draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 0.919,
+  "lower_conf": 76.5,
+  "header_text": "RED AWAKENING Eé) R121.",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

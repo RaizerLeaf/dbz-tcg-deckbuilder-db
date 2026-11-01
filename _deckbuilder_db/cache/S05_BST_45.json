@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_45",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "45_Red Cannon.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/45_Red Cannon.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Cannon",
+  "file_name": "Red Cannon",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9eb460511415522ff5288ff97de5e51879da1f8f"
+ },
+ "vision": {
+  "id": "S05_BST_45",
+  "name": "Red Cannon",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If you control 3 or more Drills, you may banish this card from your hand to stop a physical or energy attack.)\n[Attack] Energy attack costing 2 stages.\nYou may destroy a Drill you control to banish a Setup or Drill.\nDAMAGE: 4 +X life cards. X = the number of Drills you control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.8,
+  "header_text": ": R FD CA NNO . =)\na ry T7) y 7 = ’ Ty |",
+  "stages_text": "7\n,\n1\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P19",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P19_Orange Charged Kick.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P19_Orange Charged Kick.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Orange Charged Kick",
+  "file_name": "Orange Charged Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "36cbf6794c5068f7dc9392adc2f47ecc036e5b3a"
+ },
+ "vision": {
+  "id": "S11_PRO_P19",
+  "name": "Orange Charged Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 2. Destroy a Drill you own.\nDAMAGE: AT + 3 stages.\nHIT: Return that Drill to your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge; 'DAMAGE'/'HIT' labels not bold on this card",
+  "_src": "S11.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "ORANGE CHARGED KICK C) P19.\nte ( rr",
+  "stages_text": ",\n4\n2\n\n,",
+  "error": null
+ }
+}

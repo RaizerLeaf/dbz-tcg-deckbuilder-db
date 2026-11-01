@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_14",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "14_Namekian Hysteria.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/14_Namekian Hysteria.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Hysteria",
+  "file_name": "Namekian Hysteria",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f7be264450c37db19185b0185f99f47670e0e09a"
+ },
+ "vision": {
+  "id": "S13_BST_14",
+  "name": "Namekian Hysteria",
+  "sub": null,
+  "type": "Setup",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Namekian Hysteria\" attached.)\nPOWER: Attach to your MP. While attached, your Styled attacks deal +1 stage of damage and gain \"HIT: Place the bottom card of your discard pile on the bottom of your Life Deck.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S13.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "NAMEKIAN HYSTERIA &) 14)",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_21",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "21_Blue Floating Beam.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/21_Blue Floating Beam.jpg",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Blue Floating Beam",
+  "file_name": "Blue Floating Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "109479621799de9ebbf30be8d8743621b3bb5268"
+ },
+ "vision": {
+  "id": "S03_BST_21",
+  "name": "Blue Floating Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. Raise your anger 1 level. You may raise your opponent's anger 1 level. If your opponent's anger level is 4 or higher, this attack cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "(BLUE FLOATING BEAM (=",
+  "stages_text": "37",
+  "error": null
+ }
+}

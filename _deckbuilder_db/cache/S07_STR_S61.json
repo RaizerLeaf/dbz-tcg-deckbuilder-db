@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S61",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S61_Orange Offensive Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S61_Orange Offensive Strike.png",
+  "prefix": "S",
+  "number": 61,
+  "card_number": "S61",
+  "name_part": "Orange Offensive Strike",
+  "file_name": "Orange Offensive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "18dfaca7dbffec80780172e2d148baeb76f41cea"
+ },
+ "vision": {
+  "id": "S07_STR_S61",
+  "name": "Orange Offensive Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S61",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 2 life cards. Search your Life Deck for a copy of \"Orange Offensive Strike\" and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_94; text compared on the sheet",
+  "_src": "S07.jsonl:244"
+ },
+ "ocr": {
+  "agreement": 0.759,
+  "lower_conf": 79.7,
+  "header_text": "ORANGE OFFENSIVE STRIKE ) S61\nre",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

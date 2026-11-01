@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_PRO_P10",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Promos)",
+  "filename": "P10_Red Energy Blast.jpeg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P10_Red Energy Blast.jpeg",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Red Energy Blast",
+  "file_name": "Red Energy Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e25f48113cff7a89e6fcdbc6a4ffe84cd0ba17cb"
+ },
+ "vision": {
+  "id": "S06_PRO_P10",
+  "name": "Red Energy Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nRaise your anger 1 level. Banish a Drill or Ally.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S60",
+  "_src": "S06.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "RED ENERGY BLAST () P10\nNL",
+  "stages_text": ",",
+  "error": null
+ }
+}

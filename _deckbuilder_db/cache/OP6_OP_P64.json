@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP6_OP_P64",
+  "set_number": null,
+  "set_name": "OP6",
+  "set_code": "OP6",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP6",
+  "filename": "P64_Janemba's Hell Gate.png",
+  "rel_path": "z_OP Series/OP6/P64_Janemba's Hell Gate.png",
+  "prefix": "P",
+  "number": 64,
+  "card_number": "P64",
+  "name_part": "Janemba's Hell Gate",
+  "file_name": "Janemba's Hell Gate",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ce134eab6268b7e5e625ad7c94bc164e644a4893"
+ },
+ "vision": {
+  "id": "OP6_OP_P64",
+  "name": "Janemba's Hell Gate",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card is considered Styled.)\n[Attack] 1: Energy attack.\nFocused. Rejuvenate X. X = the number of cards attached to your MP to a maximum of 5.\nDAMAGE: 4 life cards.\nHIT: Return a non-Named [Attack] card attached to your MP to its owner's hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP6 folder); grey card; possessive title -> Named; stage cost printed as '1:'; the crossed-swords icon in 'non-Named [Attack] card' is the Attack icon",
+  "_src": "OP.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 89.1,
+  "header_text": "JANEMBA'S HELL GATE >) P64\nEES ll",
+  "stages_text": "2\n,\n5,",
+  "error": null
+ }
+}

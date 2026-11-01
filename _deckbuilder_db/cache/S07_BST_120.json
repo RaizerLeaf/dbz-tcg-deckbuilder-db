@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_120",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "120_Orange Knee Strike.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/120_Orange Knee Strike.png",
+  "prefix": null,
+  "number": 120,
+  "card_number": "120",
+  "name_part": "Orange Knee Strike",
+  "file_name": "Orange Knee Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4c5960a688b82bc5f6380262e59107556c9660ad"
+ },
+ "vision": {
+  "id": "S07_BST_120",
+  "name": "Orange Knee Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] Physical attack.\nThis attack can only be stopped by a Physical Combat card.\nDAMAGE: AT +5 stages.\nHIT: Lower your opponent's anger 3 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 75.7,
+  "header_text": "ORANGE KNEE STRIKE R120",
+  "stages_text": "5\n5",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S117",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S117_Saiyan Intimidation.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S117_Saiyan Intimidation.png",
+  "prefix": "S",
+  "number": 117,
+  "card_number": "S117",
+  "name_part": "Saiyan Intimidation",
+  "file_name": "Saiyan Intimidation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "8843a7447fb899216ad3f20744a4535ad8ecdb9f"
+ },
+ "vision": {
+  "id": "S07_STR_S117",
+  "name": "Saiyan Intimidation",
+  "sub": null,
+  "type": "Setup",
+  "num": "S117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_126; text compared on the sheet",
+  "_src": "S07.jsonl:300"
+ },
+ "ocr": {
+  "agreement": 0.75,
+  "lower_conf": 82.1,
+  "header_text": "SAIYAN INTIMIDATION () $117\n————-~—_—>FwVee —",
+  "stages_text": null,
+  "error": null
+ }
+}

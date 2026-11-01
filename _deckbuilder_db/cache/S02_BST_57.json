@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_57",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "57_Saiyan Charged Fist.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/57_Saiyan Charged Fist.jpg",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Charged Fist",
+  "file_name": "Saiyan Charged Fist",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "afdd49dd397526165899b989515ab9ce5db1e48a"
+ },
+ "vision": {
+  "id": "S02_BST_57",
+  "name": "Saiyan Charged Fist",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Attack] Physical attack. DAMAGE: 5 stages. If the personality performing this attack has a higher power level than the defending personality, your opponent's MP loses 3 stages, to a minimum of 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "(SAIYAN CHARGED-FIST () cs7",
+  "stages_text": "2",
+  "error": null
+ }
+}

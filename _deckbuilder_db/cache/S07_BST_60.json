@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_60",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "60_Saiyan Crouch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/60_Saiyan Crouch.png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Saiyan Crouch",
+  "file_name": "Saiyan Crouch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6df1e602b84dafa7ac086b1a241a7e214f21f1a3"
+ },
+ "vision": {
+  "id": "S07_BST_60",
+  "name": "Saiyan Crouch",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops an energy attack.\nAttach this card to your MP. While attached, your MP's PUR is +3. Rejuvenate this card when your MP changes levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 75.3,
+  "header_text": "SAIYAN CROUCH C) C60",
+  "stages_text": "5",
+  "error": null
+ }
+}

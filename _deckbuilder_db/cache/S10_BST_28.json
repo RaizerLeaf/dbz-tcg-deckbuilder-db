@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_28",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "28_Red Announcement.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/28_Red Announcement.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Red Announcement",
+  "file_name": "Red Announcement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1d7c418629bc4229815b3bc592626ac3333de4e5"
+ },
+ "vision": {
+  "id": "S10_BST_28",
+  "name": "Red Announcement",
+  "sub": null,
+  "type": "Event",
+  "num": "U28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If your MP has [Trait:Alien], this card is considered Named.)\nGain 3 stages. Search the top 5 cards of your Life Deck for a card that can perform an energy attack and place it into your hand. Put the remaining cards on top of your Life Deck in any order.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline Trait icon colour = purple (Alien)",
+  "_src": "S10.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 91.5,
+  "header_text": "RED ANNOUNCEMENT () U28\n_— = a oo",
+  "stages_text": "5 7\n2",
+  "error": null
+ }
+}

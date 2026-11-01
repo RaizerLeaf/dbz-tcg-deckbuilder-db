@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_03",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "03_Black Possessive Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/03_Black Possessive Drill.png",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Black Possessive Drill",
+  "file_name": "Black Possessive Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "439a4d2987ee1e1a6e00c71aed9351f1df067010"
+ },
+ "vision": {
+  "id": "S10_BST_03",
+  "name": "Black Possessive Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: After your opponent draws 1 or more cards, you may banish the top or bottom card of your opponent's discard pile.\nPOWER: Rejuvenate 1.\n[Trait:Alien]: Choose a card in your discard pile and shuffle it into your Life Deck. If that card is an Ally, you may play it instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline Trait icon (purple Alien icon) leads the line",
+  "_src": "S10.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 89.9,
+  "header_text": "BLACK POSSESSIVE DRILL & U3 |",
+  "stages_text": null,
+  "error": null
+ }
+}

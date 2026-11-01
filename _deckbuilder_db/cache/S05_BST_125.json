@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_125",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "125_Namekian Energized Bash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/125_Namekian Energized Bash.png",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Namekian Energized Bash",
+  "file_name": "Namekian Energized Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "b17bd2e95194573a430aeefe3afe6a2a15b8e423"
+ },
+ "vision": {
+  "id": "S05_BST_125",
+  "name": "Namekian Energized Bash",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nWhenever you Rejuvenate this combat, your opponent's MP loses 1 stage.\nDAMAGE: 4 stages.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "NAMEKIAN ENERGIZED BASH @ ) R125.",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

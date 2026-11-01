@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P28",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P28_Orange Dismissal.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P28_Orange Dismissal.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Orange Dismissal",
+  "file_name": "Orange Dismissal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f940333a80df79aa042cd7de4d309b849f1bba51"
+ },
+ "vision": {
+  "id": "S15_PRO_P28",
+  "name": "Orange Dismissal",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may shuffle a Drill you control into its owner's Life Deck. If you do, search your Life Deck for a Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "ORANGE DISMISSAL ) P28",
+  "stages_text": "54\n,",
+  "error": null
+ }
+}

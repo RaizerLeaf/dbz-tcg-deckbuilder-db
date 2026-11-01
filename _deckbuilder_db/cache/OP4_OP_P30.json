@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P30",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P30_Unleashed.png",
+  "rel_path": "z_OP Series/OP4/P30_Unleashed.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Unleashed",
+  "file_name": "Unleashed",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a5e0e12586b1b5099e923f38007ec82eb1867bc4"
+ },
+ "vision": {
+  "id": "OP4_OP_P30",
+  "name": "Unleashed",
+  "sub": null,
+  "type": "Event",
+  "num": "P30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); grey card; no Endurance badge",
+  "_src": "OP.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.5,
+  "header_text": "UNLEASHED ; ) P30 |",
+  "stages_text": "1\n1\n,,\n,1,",
+  "error": null
+ }
+}

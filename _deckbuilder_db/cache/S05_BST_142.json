@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_142",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "142_Heroic Dashing Punch.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/142_Heroic Dashing Punch.png",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Heroic Dashing Punch",
+  "file_name": "Heroic Dashing Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "41c6f8ddaaa542013b26618178545c0c0c09af2a"
+ },
+ "vision": {
+  "id": "S05_BST_142",
+  "name": "Heroic Dashing Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 2 per deck.)\n[Attack] Physical attack.\nRaise your anger 1 level. Your opponent skips his next action this combat. For the remainder of combat, life card damage from attacks is banished.\nDAMAGE: 5 stages.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.3,
+  "header_text": "HEROIC DASHING PUNCH @ )UR142\ny > ~~ N SS wa lk Vd",
+  "stages_text": "347\n,\n,",
+  "error": null
+ }
+}

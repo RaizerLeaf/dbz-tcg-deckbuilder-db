@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S41",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S41_Black Dismissal.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S41_Black Dismissal.png",
+  "prefix": "S",
+  "number": 41,
+  "card_number": "S41",
+  "name_part": "Black Dismissal",
+  "file_name": "Black Dismissal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4c00e84b481edfc8cff39b9208f5f3a090acef78"
+ },
+ "vision": {
+  "id": "S04_STR_S41",
+  "name": "Black Dismissal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYour MP gains 4 stages. Raise your anger 1 level. Lower your opponent's anger 1 level.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C13",
+  "_src": "S04.jsonl:194"
+ },
+ "ocr": {
+  "agreement": 0.917,
+  "lower_conf": 84.7,
+  "header_text": "BLACK DISMISSAL () $41",
+  "stages_text": ",\n1\n1,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_52",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "52_Supreme Kai's Telepathy.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/52_Supreme Kai's Telepathy.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Supreme Kai's Telepathy",
+  "file_name": "Supreme Kai's Telepathy",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "90984ffd3837f9248b914744b3096bd52b368acd"
+ },
+ "vision": {
+  "id": "S10_BST_52",
+  "name": "Supreme Kai's Telepathy",
+  "sub": null,
+  "type": "Event",
+  "num": "R52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: End combat. Both players discard down to 0 cards during the Discard Step.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; number area reads 'PREVIEW R52'",
+  "_src": "S10.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 0.842,
+  "lower_conf": 82.5,
+  "header_text": "SUPREME KAI'S TELEPATHY @& a\nARN ee Gane",
+  "stages_text": "4\n2\n,",
+  "error": null
+ }
+}

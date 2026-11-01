@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_07",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "07_Black Destructive Beam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/07_Black Destructive Beam.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Black Destructive Beam",
+  "file_name": "Black Destructive Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d49b866ade5c7243c722a0af4aa04ab192f12af5"
+ },
+ "vision": {
+  "id": "S05_BST_07",
+  "name": "Black Destructive Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nRaise your anger 1 level. You may choose a Setup, Drill, or Ally in play and banish it. At the end of combat, place that card into play under its owner's control from the Banished Zone.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "BLACK DESTRUCTIVE BeAM¢ ) C7\n. quanta: 9 x",
+  "stages_text": ", 2\n,\n,",
+  "error": null
+ }
+}

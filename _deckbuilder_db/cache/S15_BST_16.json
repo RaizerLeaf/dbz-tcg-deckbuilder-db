@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_16",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "16_Orange Playtime.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/16_Orange Playtime.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Orange Playtime",
+  "file_name": "Orange Playtime",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3208e448a27643a1f34f9055b4a64428df4d32e3"
+ },
+ "vision": {
+  "id": "S15_BST_16",
+  "name": "Orange Playtime",
+  "sub": null,
+  "type": "Setup",
+  "num": "U16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Instant] POWER: Use when entering combat. Search your Life Deck for a Styled [Continuous] Drill and place it into play, or if your MP has [Trait:Alien], you may search your Life Deck for a non-Styled [Continuous] Drill instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; inline icon zoomed: purple A badge (Alien); the infinity symbols are the Continuous icon",
+  "_src": "S15.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.897,
+  "lower_conf": 76.4,
+  "header_text": "ORANGE PLAYTIME a) U16 |",
+  "stages_text": null,
+  "error": null
+ }
+}

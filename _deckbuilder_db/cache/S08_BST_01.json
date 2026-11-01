@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_01",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "01_Black Face Off.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/01_Black Face Off.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Face Off",
+  "file_name": "Black Face Off",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "a512e2cfa786dd5039a2e82d31faeb396f970450"
+ },
+ "vision": {
+  "id": "S08_BST_01",
+  "name": "Black Face Off",
+  "sub": null,
+  "type": "Setup",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck or discarded from your hand, gain 5 stages.)\n[Instant] POWER: Use when entering combat. Allies and Events cannot be played and lose all effects this combat. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Set 8 layout (King Kai symbol)",
+  "_src": "S08.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.8,
+  "header_text": "BLACK FACE OFF a C1 |",
+  "stages_text": null,
+  "error": null
+ }
+}

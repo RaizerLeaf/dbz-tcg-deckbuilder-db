@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_02",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "02_Black Digestive Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/02_Black Digestive Drill.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Digestive Drill",
+  "file_name": "Black Digestive Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f791f517cb979159ce47b62981b748a9e7e3cea4"
+ },
+ "vision": {
+  "id": "S13_BST_02",
+  "name": "Black Digestive Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is destroyed from your Life Deck by one of your effects, you may place it into play.)\n[Continuous]: Whenever you reveal a card from your hand, banish the top card of your opponent's discard pile.\nPOWER: Gain 2 stages. Choose a card in your opponent's discard pile and banish it.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; Set 13 Mastery-kanji crest as set symbol",
+  "_src": "S13.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 81.0,
+  "header_text": "BLACK DIGESTIVE DRILL a C2 |",
+  "stages_text": null,
+  "error": null
+ }
+}

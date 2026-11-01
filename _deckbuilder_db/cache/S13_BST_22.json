@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_22",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "22_Orange Stretch.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/22_Orange Stretch.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Orange Stretch",
+  "file_name": "Orange Stretch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c062fb625a929aaeae2c6dcc22d981f2bc69e765"
+ },
+ "vision": {
+  "id": "S13_BST_22",
+  "name": "Orange Stretch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRaise your anger 1 level. The next time you discard a card from your hand this combat, you may draw a card.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 88.1,
+  "header_text": "ORANGE STRETCH C) C22.\n_ =\" wee) aww",
+  "stages_text": "6 , ,\n,\n,",
+  "error": null
+ }
+}

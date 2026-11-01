@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_36",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "36_Saiyan Erasing Beam.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/36_Saiyan Erasing Beam.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Saiyan Erasing Beam",
+  "file_name": "Saiyan Erasing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "90631105e1d22476e7d8d5c6ee0b1f3940629ae5"
+ },
+ "vision": {
+  "id": "S19_BST_36",
+  "name": "Saiyan Erasing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\n[Trait:Alien]: Banish an opponent's Setup, Drill, or Ally.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; inline icon zoomed: purple A badge (Alien); no Endurance badge",
+  "_src": "S19.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 88.2,
+  "header_text": "SAIYAN ERASING BEAM C) C36\nPN,",
+  "stages_text": "9\n\n4\n5\n,,",
+  "error": null
+ }
+}

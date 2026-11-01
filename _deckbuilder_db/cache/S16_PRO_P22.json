@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P22",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P22_Blue Terror.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P22_Blue Terror.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Blue Terror",
+  "file_name": "Blue Terror",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5122aa48f8950d2097b571186db9bf83d1d77d31"
+ },
+ "vision": {
+  "id": "S16_PRO_P22",
+  "name": "Blue Terror",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Attack] 2: Energy attack.\n[Trait:God]: Search your Life Deck for a non-Dragon Ball card and place it into your hand.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; inline icon zoomed: gold G badge (God); no Endurance badge",
+  "_src": "S16.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 0.938,
+  "lower_conf": 90.4,
+  "header_text": "BLUE TERROR ) P22,",
+  "stages_text": ", 7\n,",
+  "error": null
+ }
+}

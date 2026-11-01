@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_34",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "34_Orange Dismissal.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/34_Orange Dismissal.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Orange Dismissal",
+  "file_name": "Orange Dismissal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0cf423cbdc725909343e33b5701b0478a7e51428"
+ },
+ "vision": {
+  "id": "S07_BST_34",
+  "name": "Orange Dismissal",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may shuffle a Drill you control into its owner's Life Deck. If you do, search your Life Deck for a Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "ORANGE DISMISSAL ) 34\nne | \\\\\\ |) ) | |",
+  "stages_text": ",",
+  "error": null
+ }
+}

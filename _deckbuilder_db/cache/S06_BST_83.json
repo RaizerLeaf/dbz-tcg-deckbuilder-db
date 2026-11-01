@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_83",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "83_Paragus - Desperate Father.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/83_Paragus - Desperate Father.jpg",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Paragus - Desperate Father",
+  "file_name": "Paragus",
+  "file_subtitle": "Desperate Father",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "df4793edf701b91e024a540c5b93af0c6204c920"
+ },
+ "vision": {
+  "id": "S06_BST_83",
+  "name": "Paragus",
+  "sub": "Desperate Father",
+  "type": "Ally",
+  "num": "U83",
+  "lvl": 1,
+  "stages": [
+   20000,
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "(If your MP is Broly, you may use this power regardless of your MP's power stage.)\n[Continuous]: Effects that end combat cannot be used.\nPOWER: Reveal your hand. If you revealed at least 2 attack cards, your anger cannot be lowered this combat. Until the end of your opponent's next turn, you cannot win by MPPV.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S06.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 0.895,
+  "lower_conf": 78.4,
+  "header_text": "LL PARAGUS 483\nLEVEL DESPERATE FATHER",
+  "stages_text": "20,000\n18,000\n16,000\n14,000\n12,000\n7 10,000\n8,000\n6,000\n4,000\n2,000\n\n0",
+  "error": null
+ }
+}

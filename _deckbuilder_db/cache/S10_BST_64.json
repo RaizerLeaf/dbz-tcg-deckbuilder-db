@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_64",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "64_Shenron - Eternal Dragon.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/64_Shenron - Eternal Dragon.png",
+  "prefix": null,
+  "number": 64,
+  "card_number": "64",
+  "name_part": "Shenron - Eternal Dragon",
+  "file_name": "Shenron",
+  "file_subtitle": "Eternal Dragon",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8e40c2247a5fe378f8245bbdb8b29cfb39b0cf5c"
+ },
+ "vision": {
+  "id": "S10_BST_64",
+  "name": "Shenron",
+  "sub": "Eternal Dragon",
+  "type": "Ally",
+  "num": "UR64",
+  "lvl": 1,
+  "stages": [
+   999,
+   899,
+   799,
+   699,
+   599,
+   499,
+   399,
+   299,
+   199,
+   99,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "POWER: Choose an Ally in your discard pile and play it. If your MP has [Trait:God], once per game, you may banish \"Shenron, Eternal Dragon\" from play and discard a card from your hand to search your Life Deck for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badge G; number area reads 'PREVIEW UR64'",
+  "_src": "S10.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 81.4,
+  "header_text": "1 SHENRON PREVIEW\nLEVEL | ETERNAL DRAGON UR64",
+  "stages_text": "999\n\n899\n\n799\n\n699\n\n599\n\n499\n7\n\n399\n\n299\n\n199\n\n99\n\n0",
+  "error": null
+ }
+}

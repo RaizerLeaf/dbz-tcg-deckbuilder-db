@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_47",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "47_Pui Pui - Cocky.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/47_Pui Pui - Cocky.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Pui Pui - Cocky",
+  "file_name": "Pui Pui",
+  "file_subtitle": "Cocky",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d2db28d6118f5df94dc63ca2e1e803a8eaa94c2c"
+ },
+ "vision": {
+  "id": "S11_BST_47",
+  "name": "Pui Pui",
+  "sub": "Cocky",
+  "type": "Ally",
+  "num": "U47",
+  "lvl": 1,
+  "stages": [
+   100000,
+   50000,
+   25000,
+   15000,
+   5000,
+   2000,
+   1000,
+   700,
+   500,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Majin"
+  ],
+  "text": "POWER: [Attack] Physical attack costing 1 stage.\nIf your MP has [Trait:Majin], this attack deals +1 life card of damage.\nDAMAGE: 0 life cards.\nHIT: Banish the top X cards of your opponent's discard pile. X = the number of other [Trait:Majin] Allies you control.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badges A + M",
+  "_src": "S11.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 0.891,
+  "lower_conf": 74.2,
+  "header_text": "PUI PUI",
+  "stages_text": "100,000\n50,000\n25,000\n15,000\n5,000\n7 2,000\n1,000\n1 700\n500\n100\n0",
+  "error": null
+ }
+}

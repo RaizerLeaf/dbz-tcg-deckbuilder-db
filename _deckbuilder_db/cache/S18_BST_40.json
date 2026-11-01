@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_40",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "40_ Goku Black - Rose'.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/40_ Goku Black - Rose'.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Goku Black - Rose'",
+  "file_name": "Goku Black",
+  "file_subtitle": "Rose'",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1eff02246e614a2793e86f57d06b3af46068c87"
+ },
+ "vision": {
+  "id": "S18_BST_40",
+  "name": "Goku Black",
+  "sub": "Rosé",
+  "type": "Main Personality",
+  "num": "S40",
+  "lvl": 4,
+  "stages": [
+   250000000,
+   120000000,
+   66602000,
+   9735000,
+   1492000,
+   1050000,
+   780000,
+   450000,
+   333000,
+   90000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "God"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -2 stages and -2 life cards.\nPOWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges S, G; subtitle printed 'ROSÉ' (zoomed; filename 'Rose'' has a stray apostrophe); text zoomed",
+  "_src": "S18.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "@1 GOKU BLACK\nLEVEL ROSE () 540\nCHIE",
+  "stages_text": "250,000,000\n120,000,000\n66,602,000\n9,735,000\n1,492,000\n1,050,000\n780,000\n450,000\n333,000\n90,000\n0",
+  "error": null
+ }
+}

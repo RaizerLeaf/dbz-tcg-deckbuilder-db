@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_27",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "27_Saiyan Suppression Drill.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/27_Saiyan Suppression Drill.png",
+  "prefix": null,
+  "number": 27,
+  "card_number": "27",
+  "name_part": "Saiyan Suppression Drill",
+  "file_name": "Saiyan Suppression Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "625cd3e2e7e1010195f1b1692f33f9a8105ea6e6"
+ },
+ "vision": {
+  "id": "S09_BST_27",
+  "name": "Saiyan Suppression Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Personalities can only gain 1 stage from their PUR. Whenever your opponent skips an action, destroy the top card of their Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S09.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.6,
+  "header_text": "SAIYAN SUPPRESSION DRILL () C27",
+  "stages_text": null,
+  "error": null
+ }
+}

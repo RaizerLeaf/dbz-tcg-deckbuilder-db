@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_29",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "29_Saiyan Hop.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/29_Saiyan Hop.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Hop",
+  "file_name": "Saiyan Hop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f3c8a0d7c24dae1fa56728cc14a8f32099e5dde2"
+ },
+ "vision": {
+  "id": "S17_BST_29",
+  "name": "Saiyan Hop",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Defense] Stops an energy attack.\n[Warning]: Lower your opponent's anger 2.\n(Rejuvenate after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "black warning triangle transcribed as [Warning]",
+  "_src": "S17.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.812,
+  "lower_conf": 89.0,
+  "header_text": "SAIYAN HOP C) C29",
+  "stages_text": "3\n2\n0\n2",
+  "error": null
+ }
+}

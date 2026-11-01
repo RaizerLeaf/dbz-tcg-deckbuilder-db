@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_46",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "46_Bergamo's Wolfgang Penetrator.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/46_Bergamo's Wolfgang Penetrator.png",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Bergamo's Wolfgang Penetrator",
+  "file_name": "Bergamo's Wolfgang Penetrator",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "82411c10f966143c27271b1094aedfe3b2bdab47"
+ },
+ "vision": {
+  "id": "S19_BST_46",
+  "name": "Bergamo's Wolfgang Penetrator",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 2: Energy attack.\nYou may search your Life Deck or discard pile for an [Trait:Alien] Ally and place it into play. If you do not, search your Banished Zone for a \"Trio of Danger\" Ally and place it into play.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; inline icon zoomed: purple A badge (Alien); stage cost printed as '2:'",
+  "_src": "S19.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.936,
+  "lower_conf": 86.0,
+  "header_text": "IP isk id eT: PTE a At IP’ sali:\n| BERGAMO'S WOLFGANG PENETRATOR () R46 |",
+  "stages_text": "3 43\n3\n0,",
+  "error": null
+ }
+}

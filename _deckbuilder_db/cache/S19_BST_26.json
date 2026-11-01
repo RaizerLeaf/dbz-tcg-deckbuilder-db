@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_26",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "26_Red Fortune Telling Drill.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/26_Red Fortune Telling Drill.png",
+  "prefix": null,
+  "number": 26,
+  "card_number": "26",
+  "name_part": "Red Fortune Telling Drill",
+  "file_name": "Red Fortune Telling Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ef719f645ec8fa24c561b95f17a59b14ec6a78f9"
+ },
+ "vision": {
+  "id": "S19_BST_26",
+  "name": "Red Fortune Telling Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Your opponent's attacks deal -1 life card.\n[Instant] POWER: Use at the start of your turn. Foresee 1. [Trait:Earthling]: Gain 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; inline icon zoomed: blue Capsule Corp E badge (Earthling)",
+  "_src": "S19.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 0.84,
+  "lower_conf": 78.0,
+  "header_text": "ED FORTUNE TELLING DRILL €) U26",
+  "stages_text": null,
+  "error": null
+ }
+}

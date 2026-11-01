@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_90",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "90_Namekian Face Off.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/90_Namekian Face Off.jpg",
+  "prefix": null,
+  "number": 90,
+  "card_number": "90",
+  "name_part": "Namekian Face Off",
+  "file_name": "Namekian Face Off",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "269f58b2266f88d87364df78389d70ef645accec"
+ },
+ "vision": {
+  "id": "S06_BST_90",
+  "name": "Namekian Face Off",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDragon Balls cannot be captured nor played this combat.\nDAMAGE: 3 stages.\nHIT: Search your Life Deck for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.1,
+  "header_text": "NAMEKIAN FACE OFF ) vg0 |\nim ise? | it VW) ven",
+  "stages_text": "5\n7 4\n4\n1\n,\n\n347",
+  "error": null
+ }
+}

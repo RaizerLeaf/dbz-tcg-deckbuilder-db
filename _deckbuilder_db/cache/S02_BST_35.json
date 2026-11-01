@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_35",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "35_Namekian Energy Beams.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/35_Namekian Energy Beams.jpg",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Namekian Energy Beams",
+  "file_name": "Namekian Energy Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "52e530a7d8480ffeab06b05ab2eb15c3a5f533ae"
+ },
+ "vision": {
+  "id": "S02_BST_35",
+  "name": "Namekian Energy Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 5 stages. You may discard a Dragon Ball from your hand. If you do, damage from your attacks cannot be prevented for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.9,
+  "header_text": "| NAMEKIAN ENERGY.:BEAMS () C35",
+  "stages_text": ",\n37",
+  "error": null
+ }
+}

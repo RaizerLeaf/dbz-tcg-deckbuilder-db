@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S88",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S88_Namekian Elbow Drop.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S88_Namekian Elbow Drop.png",
+  "prefix": "S",
+  "number": 88,
+  "card_number": "S88",
+  "name_part": "Namekian Elbow Drop",
+  "file_name": "Namekian Elbow Drop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b31c5c56561b96758d70f3e554a906d1085f3139"
+ },
+ "vision": {
+  "id": "S07_STR_S88",
+  "name": "Namekian Elbow Drop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Draw the bottom card of your discard pile.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_24; text compared on the sheet; wording differs, transcribed from this card; this starter printing has the correct ATTACK icon (S04 C24 booster prints a shield icon)",
+  "_src": "S07.jsonl:271"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "NAMEKIAN ELBOW DROP\nEE",
+  "stages_text": ",",
+  "error": null
+ }
+}

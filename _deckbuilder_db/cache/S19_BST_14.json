@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_14",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "14_Namekian Reinforced Smirk.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/14_Namekian Reinforced Smirk.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Reinforced Smirk",
+  "file_name": "Namekian Reinforced Smirk",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0b0d10c84a62a2dde56ad1ec480f9c751f8a1be9"
+ },
+ "vision": {
+  "id": "S19_BST_14",
+  "name": "Namekian Reinforced Smirk",
+  "sub": null,
+  "type": "Setup",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Search your Life Deck for a Styled or Named Drill and place it into play. [Trait:Alien]: Destroy the top 3 cards of your opponent's Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; inline icon zoomed: purple A badge (Alien)",
+  "_src": "S19.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.882,
+  "lower_conf": 77.0,
+  "header_text": "AMEKIAN REINFORCED SMIRK () U14",
+  "stages_text": null,
+  "error": null
+ }
+}

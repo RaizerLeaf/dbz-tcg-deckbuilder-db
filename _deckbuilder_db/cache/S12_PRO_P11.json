@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P11",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P11_Dabura - Majin Warrior.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P11_Dabura - Majin Warrior.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Dabura - Majin Warrior",
+  "file_name": "Dabura",
+  "file_subtitle": "Majin Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5c9cd6d4974748dd0173e345d15e08f2fa3f4e92"
+ },
+ "vision": {
+  "id": "S12_PRO_P11",
+  "name": "Dabura",
+  "sub": "Majin Warrior",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 3,
+  "stages": [
+   2150000,
+   1700000,
+   1000000,
+   666000,
+   300000,
+   150000,
+   100000,
+   50000,
+   25000,
+   15000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title cannot have their damage prevented.\nPOWER: [Attack] Physical attack.\nChoose a card in your discard pile and Rejuvenate it. Choose 3 cards in your opponent's discard pile and banish them. You may discard a card with \"Sword\" in the title from your hand. If you do, you may use this attack a second time this combat.\nDAMAGE: 7 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge M (pink)",
+  "_src": "S12.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.5,
+  "header_text": "DABURA\n\n\\ MAJIN WARRIOR y mu )\n= = SN\n\n\\s \\ ae Tee ~~ Nn nnn",
+  "stages_text": "2,150,000\n1,700,000\n1,000,000\n666,000\n300,000\n150,000\n5 100,000\n50,000\n25,000\n15,000\n09",
+  "error": null
+ }
+}

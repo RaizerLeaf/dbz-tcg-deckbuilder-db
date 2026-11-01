@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_110",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "110_Trunks' Slam.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/110_Trunks' Slam.png",
+  "prefix": null,
+  "number": 110,
+  "card_number": "110",
+  "name_part": "Trunks' Slam",
+  "file_name": "Trunks' Slam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "ef659f88f6b23549c24c91aa13c1bf8bdec62c41"
+ },
+ "vision": {
+  "id": "S05_BST_110",
+  "name": "Trunks' Slam",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered Styled.)\n[Attack] Physical attack.\nRaise your anger 1 level. If you stopped an attack on your opponent's last action this combat, your opponent passes for his next action this combat.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.7,
+  "header_text": "TRUNKS' SLAM ©) R110",
+  "stages_text": "3\n347",
+  "error": null
+ }
+}

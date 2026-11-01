@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S56",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S56_Black Speedy Dodge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S56_Black Speedy Dodge.png",
+  "prefix": "S",
+  "number": 56,
+  "card_number": "S56",
+  "name_part": "Black Speedy Dodge",
+  "file_name": "Black Speedy Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "171ccd32b9ab6e3c905b26601528efc5cf1aa80a"
+ },
+ "vision": {
+  "id": "S04_STR_S56",
+  "name": "Black Speedy Dodge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nYou may discard a card from your hand. If you do, your opponent discards a card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S123",
+  "_src": "S04.jsonl:209"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "BLACK SPEEDY DODGE ) $56\n” 4 yy =",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

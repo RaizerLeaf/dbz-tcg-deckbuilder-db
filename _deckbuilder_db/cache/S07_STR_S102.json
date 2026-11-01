@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S102",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S102_Saiyan Skull Jab.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S102_Saiyan Skull Jab.png",
+  "prefix": "S",
+  "number": 102,
+  "card_number": "S102",
+  "name_part": "Saiyan Skull Jab",
+  "file_name": "Saiyan Skull Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fd7402527aec020bc8a975b963da5b59c12b5813"
+ },
+ "vision": {
+  "id": "S07_STR_S102",
+  "name": "Saiyan Skull Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nSearch your discard pile for a Styled Event and Rejuvenate it.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_60; text compared on the sheet",
+  "_src": "S07.jsonl:285"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "SAIYAN SKULL JAB C) $102",
+  "stages_text": ",",
+  "error": null
+ }
+}

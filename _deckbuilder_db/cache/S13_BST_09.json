@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_09",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "09_Blue Outburst.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/09_Blue Outburst.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Outburst",
+  "file_name": "Blue Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1b14055ee92ba4b068409ec958bde546958e9e98"
+ },
+ "vision": {
+  "id": "S13_BST_09",
+  "name": "Blue Outburst",
+  "sub": null,
+  "type": "Event",
+  "num": "R9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(If this card is discarded or destroyed from your Life Deck, lower your opponent's anger 1 level.)\n[Instant] POWER: Use after an effect destroys or banishes cards from your Life Deck. Choose 3 Styled cards in your discard pile and shuffle them into your Life Deck. Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.981,
+  "lower_conf": 89.9,
+  "header_text": "BLUE OUTBURST ) RO",
+  "stages_text": ",\n,\n,884442",
+  "error": null
+ }
+}

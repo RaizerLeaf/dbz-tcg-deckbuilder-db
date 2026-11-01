@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_79",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "79_Android 14 - Stoic.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/79_Android 14 - Stoic.jpg",
+  "prefix": null,
+  "number": 79,
+  "card_number": "79",
+  "name_part": "Android 14 - Stoic",
+  "file_name": "Android 14",
+  "file_subtitle": "Stoic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a864f0fc2f5ad95a16a05e528ab8226f5bd2df5b"
+ },
+ "vision": {
+  "id": "S06_BST_79",
+  "name": "Android 14",
+  "sub": "Stoic",
+  "type": "Ally",
+  "num": "U79",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "(When this card enters play, you may search your Life Deck for a card with \"Android\" in the title and destroy it. If you do, destroy a non-Styled Setup.)\n[Continuous]: If your MP has \"Android\" in the title, attacks performed by your MP deal +1 stage of damage for each Ally you control with \"Android\" in the title.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'",
+  "_src": "S06.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 0.879,
+  "lower_conf": 74.4,
+  "header_text": "1 | ANDROID 14 €)\n| STOIC U79\n2 _ia",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

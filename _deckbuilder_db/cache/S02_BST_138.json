@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_138",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "138_Raditz’s Offensive Guard.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/138_Raditz’s Offensive Guard.jpg",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Raditz’s Offensive Guard",
+  "file_name": "Raditz’s Offensive Guard",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7c7e577b8cfde7186dba6ad63a3ae1a162f2be31"
+ },
+ "vision": {
+  "id": "S02_BST_138",
+  "name": "Raditz's Offensive Guard",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand to stop a physical or energy attack.) [Attack] Physical attack. DAMAGE: AT +4 stages. Attach to your MP. While attached, once per combat as an action you may place into play a Setup or Drill from your hand. Banish this card when you change levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": ". a —\n(RADITZ'S OFFENSIVE. GUARD a\nA EF",
+  "stages_text": "2\n4\n\n7\n\n4\n4\n4\n,",
+  "error": null
+ }
+}

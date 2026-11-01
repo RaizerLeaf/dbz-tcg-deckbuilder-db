@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P49",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P49_Goku's Kaio-Ken.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P49_Goku's Kaio-Ken.png",
+  "prefix": "P",
+  "number": 49,
+  "card_number": "P49",
+  "name_part": "Goku's Kaio-Ken",
+  "file_name": "Goku's Kaio-Ken",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "06b65d1bcc22aeaae82e9342cef36451e61b6707"
+ },
+ "vision": {
+  "id": "S16_PRO_P49",
+  "name": "Goku's Kaio-Ken",
+  "sub": null,
+  "type": "Event",
+  "num": "P49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: Destroy the top 3 cards of your Life Deck. Raise your anger 6.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S16.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.9,
+  "header_text": "GOKU'S KAIO-KEN ? ) P4g |\n— a",
+  "stages_text": "1\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_01",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "01_Black Ominous Mastery.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/01_Black Ominous Mastery.png",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Black Ominous Mastery",
+  "file_name": "Black Ominous Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5da183ed324fea07824c3fe7ceb65eeef34744b7"
+ },
+ "vision": {
+  "id": "S19_BST_01",
+  "name": "Black Ominous Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV.)\n[Continuous]: Your Styled attacks deal +1 stage and +1 life card.\n[Instant] POWER: Use when one of your effects discards the last card in your opponent's hand. Advance or lower your MP 1 level.\nPOWER: Banish the top 2 cards of your opponent's discard pile. The next time one of your Styled effects discards a card from your opponent's hand during combat, the card is chosen at random.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed; Set 19 uses a new gold wolf crest as set symbol; disclaimer line mentions 'Dragon Ball Daima'",
+  "_src": "S19.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "WK a & |",
+  "stages_text": "1,\n2,",
+  "error": null
+ }
+}

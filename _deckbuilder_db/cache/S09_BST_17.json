@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_17",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "17_Orange Memory.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/17_Orange Memory.png",
+  "prefix": null,
+  "number": 17,
+  "card_number": "17",
+  "name_part": "Orange Memory",
+  "file_name": "Orange Memory",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c0e9b0db92f2765c08cbb56bc8011ff4aad5b97b"
+ },
+ "vision": {
+  "id": "S09_BST_17",
+  "name": "Orange Memory",
+  "sub": null,
+  "type": "Event",
+  "num": "R17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If your Mastery modifies stages of damage, you may discard this card from your hand during your Planning Step. If you do, search your Life Deck for a Styled Drill and place it into play.)\nPOWER: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 0.961,
+  "lower_conf": 81.0,
+  "header_text": "ORANGE MEMORY",
+  "stages_text": "2\n5\n,",
+  "error": null
+ }
+}

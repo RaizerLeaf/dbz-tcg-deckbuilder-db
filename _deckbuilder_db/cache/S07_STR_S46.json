@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S46",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S46_Blue Hand Blast.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S46_Blue Hand Blast.png",
+  "prefix": "S",
+  "number": 46,
+  "card_number": "S46",
+  "name_part": "Blue Hand Blast",
+  "file_name": "Blue Hand Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0a0dbf62a52810f1c2c075f40fd3750809868f3b"
+ },
+ "vision": {
+  "id": "S07_STR_S46",
+  "name": "Blue Hand Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. Raise your anger 2 levels. HIT: Raise or lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_28; text compared on the sheet",
+  "_src": "S07.jsonl:229"
+ },
+ "ocr": {
+  "agreement": 0.833,
+  "lower_conf": 84.8,
+  "header_text": "BLUE HAND BLAST () S46",
+  "stages_text": "4",
+  "error": null
+ }
+}

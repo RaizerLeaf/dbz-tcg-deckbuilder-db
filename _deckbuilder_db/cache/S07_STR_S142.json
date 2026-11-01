@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S142",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S142_Black Radiating Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S142_Black Radiating Drill.png",
+  "prefix": "S",
+  "number": 142,
+  "card_number": "S142",
+  "name_part": "Black Radiating Drill",
+  "file_name": "Black Radiating Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e60cc881f94130530d7202916c2b7d17cb880bf5"
+ },
+ "vision": {
+  "id": "S07_STR_S142",
+  "name": "Black Radiating Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's energy attacks cost +1 stage to perform. Whenever your opponent Rejuvenates, banish the bottom card of his or her discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_15; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:325"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "BLACK RADIATING DRILL 6) $142 |\nrm",
+  "stages_text": null,
+  "error": null
+ }
+}

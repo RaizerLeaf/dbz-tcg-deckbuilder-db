@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P16",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P16_Frieza - Resident of HFIL.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P16_Frieza - Resident of HFIL.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Frieza - Resident of HFIL",
+  "file_name": "Frieza",
+  "file_subtitle": "Resident of HFIL",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ea747f815c81eece9425d21bf8b217b3d0d7ed60"
+ },
+ "vision": {
+  "id": "S08_PRO_P16",
+  "name": "Frieza",
+  "sub": "Resident of HFIL",
+  "type": "Main Personality",
+  "num": "P16",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   800000,
+   650000,
+   400000,
+   200000,
+   150000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(You cannot win by MPPV if you advance a personality level with this [Instant] Power.)\n[Continuous]: Your first successful attack each combat gains \"HIT: Destroy an opponent's Ally and raise your anger 1 level.\"\n[Instant] POWER: Use when entering combat. Search your Life Deck for 7 Named cards and banish them to advance your MP 1 level.\nPOWER: [Attack] Energy attack.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S56; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.4,
+  "header_text": "FRIEZA\n1 RESIDENT OF HFIL y 716)\nLEVEL [eee Se",
+  "stages_text": "1,000,000\n800,000\n650,000\n400,000\n200,000\n150,000\n7\n10,000\n5,000\n1,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S98",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S98_Namekian Right Throw (CRD).png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S98_Namekian Right Throw (CRD).png",
+  "prefix": "S",
+  "number": 98,
+  "card_number": "S98",
+  "name_part": "Namekian Right Throw",
+  "file_name": "Namekian Right Throw",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e69ab13784f280615da31e4a0a317dafb5127f77"
+ },
+ "vision": {
+  "id": "S04_STR_S98",
+  "name": "Namekian Right Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nYou may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.\nDAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C35",
+  "_src": "S04.jsonl:251"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 85.8,
+  "header_text": "NAMEKIAN RIGHT THROW () $98\n| ~ |",
+  "stages_text": ",\n0,",
+  "error": null
+ }
+}

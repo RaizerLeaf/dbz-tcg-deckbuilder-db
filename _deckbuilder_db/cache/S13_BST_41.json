@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_41",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "41_Vegito's Effortless Defense.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/41_Vegito's Effortless Defense.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Vegito's Effortless Defense",
+  "file_name": "Vegito's Effortless Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e370ba0cce13f4422e1dbe6697ce33040705b0ac"
+ },
+ "vision": {
+  "id": "S13_BST_41",
+  "name": "Vegito's Effortless Defense",
+  "sub": null,
+  "type": "Event",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nYou may discard a card from your hand. If you do, raise your anger 1 level and this card stays in play to be used a second time this combat. If you discarded a Drill, you may place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S13.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "VEGITO'S EFFORTLESS DEFENSE ) R41\nSena \\06lUC( (“‘(_‘iléiOCti(i|dLDi Te",
+  "stages_text": ",,",
+  "error": null
+ }
+}

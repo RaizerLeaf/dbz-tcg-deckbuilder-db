@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_PRO_P27",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)",
+  "filename": "P27_Saiyan Outrage.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P27_Saiyan Outrage.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Saiyan Outrage",
+  "file_name": "Saiyan Outrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e6c3fa40a7840093f67888fe2419a36c5bc90bc4"
+ },
+ "vision": {
+  "id": "S12_PRO_P27",
+  "name": "Saiyan Outrage",
+  "sub": null,
+  "type": "Event",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nIf the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S12.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "SAIYAN OUTRAGE C) P27\nae et? Wa",
+  "stages_text": "",
+  "error": null
+ }
+}

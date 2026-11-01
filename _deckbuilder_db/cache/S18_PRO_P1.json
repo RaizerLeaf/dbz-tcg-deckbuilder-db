@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S18_PRO_P1",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "18_Set 18 (Incursion)/Incursion (Promos)",
+  "filename": "P1_Trunks - Dashing.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion (Promos)/P1_Trunks - Dashing.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Trunks - Dashing",
+  "file_name": "Trunks",
+  "file_subtitle": "Dashing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "14fe9523d9f763dc1d9d8db4d7a64fd69719c494"
+ },
+ "vision": {
+  "id": "S18_PRO_P1",
+  "name": "Trunks",
+  "sub": "Dashing",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   225000,
+   175000,
+   125000,
+   75000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever you raise your anger during combat, that amount is doubled.",
+  "conf": "high",
+  "review": null,
+  "note": "promo with the normal booster layout; edge reads HERO -> MP; Trait badges E, S",
+  "_src": "S18.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "TRUNKS Py\nDASHING",
+  "stages_text": "225,000\n175,000\n125,000\n75,000\n\n5 25,000\n20,000\n15,000\n10,000\n5,000\n\n2,500\n0",
+  "error": null
+ }
+}

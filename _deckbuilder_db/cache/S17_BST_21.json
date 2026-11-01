@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_21",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "21_Red Dessert.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/21_Red Dessert.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Red Dessert",
+  "file_name": "Red Dessert",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e2618aa953ccae3e57e50f24974237c859784e87"
+ },
+ "vision": {
+  "id": "S17_BST_21",
+  "name": "Red Dessert",
+  "sub": null,
+  "type": "Setup",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(If this card is banished from your Life Deck, gain 3 stages.)\nPOWER: Search your discard pile for a Styled card and place it on top of your Life Deck. Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S17.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 84.9,
+  "header_text": "RED DESSERT & C21",
+  "stages_text": null,
+  "error": null
+ }
+}

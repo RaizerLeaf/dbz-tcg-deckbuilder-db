@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_101",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "101_Black Declaration.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/101_Black Declaration.jpg",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Black Declaration",
+  "file_name": "Black Declaration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "10d350f90b3db7aa928bfcbd5a6953fb25afbe4e"
+ },
+ "vision": {
+  "id": "S02_BST_101",
+  "name": "Black Declaration",
+  "sub": null,
+  "type": "Setup",
+  "num": "R101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand during combat, place it into play.) ENDURANCE 2. POWER: Choose an Ally, Drill, Setup or Dragon Ball in play and shuffle that card into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.9,
+  "header_text": "(BLACK DECLARATION (no\nee Gee] \\ ier ae",
+  "stages_text": "",
+  "error": null
+ }
+}

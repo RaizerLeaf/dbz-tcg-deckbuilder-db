@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_25",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "25_Namekian Head Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/25_Namekian Head Kick.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Namekian Head Kick",
+  "file_name": "Namekian Head Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a0c67db8c0b670cc4205900aa49840852bae38e5"
+ },
+ "vision": {
+  "id": "S07_BST_25",
+  "name": "Namekian Head Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf your opponent controls more Dragon Balls than you, search your Life Deck for an Earth Dragon Ball and place it into play.\nDAMAGE: 4 +X stages. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "NAMEKIAN HEAD KICK ) 025\n“<<. <~ F- 9",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

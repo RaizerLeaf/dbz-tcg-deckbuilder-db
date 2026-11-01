@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P36",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P36_Saiyan Protection Drill.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P36_Saiyan Protection Drill.png",
+  "prefix": "P",
+  "number": 36,
+  "card_number": "P36",
+  "name_part": "Saiyan Protection Drill",
+  "file_name": "Saiyan Protection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "59d433b05d15c1790d2d81531c86bc99d09d1646"
+ },
+ "vision": {
+  "id": "S13_PRO_P36",
+  "name": "Saiyan Protection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Continuous]: Your opponent's attacks deal -1 stage and -1 life card of damage. Once per combat after banishing a card for Endurance, you may Rejuvenate that card.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S13.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 77.4,
+  "header_text": "SAIYAN PROTECTION DRILL @) 36",
+  "stages_text": null,
+  "error": null
+ }
+}

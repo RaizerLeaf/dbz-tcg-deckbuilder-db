@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P28",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P28_Surprise Attack.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P28_Surprise Attack.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Surprise Attack",
+  "file_name": "Surprise Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6599b321c2a30cc1b87ec6ead8e9db171a17bdc9"
+ },
+ "vision": {
+  "id": "S11_PRO_P28",
+  "name": "Surprise Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Players cannot search for \"Surprise Attack\" with this card's effect.)\n[Attack] Physical attack.\nSearch your opponent's Life Deck for 2 non-Styled/non-Dragon Ball cards and banish them. Your opponent searches your Life Deck for 2 non-Styled/non-Dragon Ball cards and banishes them.\nDAMAGE: 4 life cards.\nHIT: Banish the top 4 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.3,
+  "header_text": "SURPRISE ATTACK () P28\nART EK 4). ee",
+  "stages_text": "4\n9\n,\n20\n,",
+  "error": null
+ }
+}

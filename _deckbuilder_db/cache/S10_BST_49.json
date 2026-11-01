@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_49",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "49_Hercule's Championship Belt.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/49_Hercule's Championship Belt.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Hercule's Championship Belt",
+  "file_name": "Hercule's Championship Belt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "45bd32a4941d5251513976023159da4b079a887b"
+ },
+ "vision": {
+  "id": "S10_BST_49",
+  "name": "Hercule's Championship Belt",
+  "sub": null,
+  "type": "Setup",
+  "num": "R49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 99.\n(Your opponent cannot destroy or banish this card from play. You may only have one \"Hercule's Championship Belt\" attached.)\nPOWER: Attach to your MP. Search your Life Deck for an Ally and play it. For the remainder of combat, that Ally may use its Power regardless of your MP's power stage. While attached, once per turn as an action you may discard a card from your hand to search your Life Deck for a Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey (non-styled) frame; Endurance badge reads 99",
+  "_src": "S10.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.965,
+  "lower_conf": 93.4,
+  "header_text": "; eo date\nRCULE'S CHAMPIONSHIP BELT  ) R49\n\\ _—  @ rl.) lL lee nS 2",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_20",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "20_Orange Sweeping Blast.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/20_Orange Sweeping Blast.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Sweeping Blast",
+  "file_name": "Orange Sweeping Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "eabfc1440eba703eb6e39e4285e8190f101913b0"
+ },
+ "vision": {
+  "id": "S08_BST_20",
+  "name": "Orange Sweeping Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYou may Rejuvenate a Styled Drill you control. If you do, your opponent cannot play non-Styled cards this combat.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "ORANGE SWEEPING BLAST ) u20,",
+  "stages_text": "7\n,\n,\n10",
+  "error": null
+ }
+}

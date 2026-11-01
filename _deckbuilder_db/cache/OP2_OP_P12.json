@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP2_OP_P12",
+  "set_number": null,
+  "set_name": "OP2",
+  "set_code": "OP2",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP2",
+  "filename": "P12_Namekian Assimilation.png",
+  "rel_path": "z_OP Series/OP2/P12_Namekian Assimilation.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Namekian Assimilation",
+  "file_name": "Namekian Assimilation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "19e39ed348172f9202db42cea28db2ca2049823e"
+ },
+ "vision": {
+  "id": "OP2_OP_P12",
+  "name": "Namekian Assimilation",
+  "sub": null,
+  "type": "Event",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a Mastery effect, stops a physical or energy attack in your opponent's next action this combat.)\n[Instant] POWER: Use when an opponent's Setup, Drill, Ally, or attached card enters play. You may shuffle a Dragon Ball you own in play into your Life Deck to banish a Setup, Drill, Ally, or attached card.\n(Banish after use.)\n(Created by Miguel Gonzalez, OP2 West Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP2); prints a design credit line; no Endurance badge",
+  "_src": "OP.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "NAMEKIAN ASSIMILATION ) P12,",
+  "stages_text": ",\n,,,\n2",
+  "error": null
+ }
+}

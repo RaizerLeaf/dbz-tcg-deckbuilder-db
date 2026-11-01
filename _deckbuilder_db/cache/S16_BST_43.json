@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_43",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "43_Unlimited Potential.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/43_Unlimited Potential.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Unlimited Potential",
+  "file_name": "Unlimited Potential",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e942a181182b201a56e6a5cf6e060726cf00973a"
+ },
+ "vision": {
+  "id": "S16_BST_43",
+  "name": "Unlimited Potential",
+  "sub": null,
+  "type": "Event",
+  "num": "UR43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Fusion] only. Limit 1 per deck. Once per combat, you may shuffle this card from your hand into your Life Deck as an action to destroy a Setup, Drill, or Ally.)\nPOWER: Destroy an attached card. [Warning]: Destroy all attached cards instead.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; number area reads 'PREVIEW UR43'; inline icon zoomed: grey F starburst badge (Fusion); no Endurance badge",
+  "_src": "S16.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 85.2,
+  "header_text": "UNLIMITED POTENTIAL  @m)tjas’’",
+  "stages_text": "1\n0\n24444",
+  "error": null
+ }
+}

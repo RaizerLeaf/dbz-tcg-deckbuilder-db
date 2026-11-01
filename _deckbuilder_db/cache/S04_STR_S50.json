@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S50",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S50_Black Interceptor Barrage.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S50_Black Interceptor Barrage.png",
+  "prefix": "S",
+  "number": 50,
+  "card_number": "S50",
+  "name_part": "Black Interceptor Barrage",
+  "file_name": "Black Interceptor Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3892c01dcc2884d9c90595d56be02e8421b91ad4"
+ },
+ "vision": {
+  "id": "S04_STR_S50",
+  "name": "Black Interceptor Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 life cards and 4 stages.\nHIT: Banish 3 cards from a discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S111",
+  "_src": "S04.jsonl:203"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 77.6,
+  "header_text": "BLACK INTERCEPTOR BARRAGE () $50",
+  "stages_text": "7",
+  "error": null
+ }
+}

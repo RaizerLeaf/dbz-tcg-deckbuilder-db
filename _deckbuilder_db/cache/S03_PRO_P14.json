@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P14",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P14_Heroic Energ Sphere.png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P14_Heroic Energ Sphere.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Heroic Energ Sphere",
+  "file_name": "Heroic Energ Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 477,
+  "height": 668,
+  "orientation": "portrait",
+  "sha1": "42933c9cb7335305a45beda526d502c3e9d944c4"
+ },
+ "vision": {
+  "id": "S03_PRO_P14",
+  "name": "Heroic Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Instant] POWER: Use when an Event is played. Cancel the effects of that card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 UR163; text compared on the sheet, identical; grey frame",
+  "_src": "S03.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.2,
+  "header_text": "“(HEROIC ENERGY SPHERE a",
+  "stages_text": ",",
+  "error": null
+ }
+}

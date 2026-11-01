@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_DR_DR28",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "dr",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "DR28_Trunks - Bold.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR28_Trunks - Bold.png",
+  "prefix": "DR",
+  "number": 28,
+  "card_number": "DR28",
+  "name_part": "Trunks - Bold",
+  "file_name": "Trunks",
+  "file_subtitle": "Bold",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "be468c64e2ca1d05e1972fa5311df61a550d0851"
+ },
+ "vision": {
+  "id": "S07_DR_DR28",
+  "name": "Trunks",
+  "sub": "Bold",
+  "type": "Main Personality",
+  "num": "DR28",
+  "lvl": 3,
+  "stages": [
+   1250000,
+   1000000,
+   750000,
+   500000,
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 stages of damage. Whenever your anger would be lowered by any amount, it is lowered by 1 instead.\nPOWER: [Attack] Physical attack.\nSkip your next action this combat.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "DR (alternate-art) MP; edge reads HERO; same as PZP P73",
+  "_src": "S07.jsonl:174"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "[s TRUNKS\nWa@ BOLD ( ra\nWINN A DR28",
+  "stages_text": "1,250,000\n1,000,000\n750,000\n500,000\n250,000\n200,000\n150,000\n100,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

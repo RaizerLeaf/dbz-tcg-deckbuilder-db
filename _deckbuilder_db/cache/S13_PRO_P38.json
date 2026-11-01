@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P38",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P38_Tree of Might.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P38_Tree of Might.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Tree of Might",
+  "file_name": "Tree of Might",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "6f3a21d46f62814c47e80f8e6c26361f47884417"
+ },
+ "vision": {
+  "id": "S13_PRO_P38",
+  "name": "Tree of Might",
+  "sub": null,
+  "type": "Setup",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Tree of Might\" attached.)\nPOWER: Attach to your MP. While attached, your attacks deal +2 stages of damage. While attached, both players may search their Life Deck for a non-Styled Drill and place it into play when entering combat. Banish this card when you control a Styled Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; no Endurance badge",
+  "_src": "S13.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.2,
+  "header_text": "TREE OF MIGHT P38",
+  "stages_text": null,
+  "error": null
+ }
+}

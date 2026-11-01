@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P32",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P32_Goku's Spirit Bomb.png",
+  "rel_path": "z_OP Series/OP4/P32_Goku's Spirit Bomb.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Goku's Spirit Bomb",
+  "file_name": "Goku's Spirit Bomb",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b73c395f062a0fdd8df3de8d363d03cd5697e914"
+ },
+ "vision": {
+  "id": "OP4_OP_P32",
+  "name": "Goku's Spirit Bomb",
+  "sub": null,
+  "type": "Event",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Goku's Spirit Bomb\" attached.)\nPOWER: Attach to your MP. Gain 5 stages. While attached, whenever a personality you control would gain stages during the Planning Step, you may place that many counters on this card instead. While attached, you may banish this card as an action to perform an energy attack dealing X life cards. X = the number of counters on this card.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); grey card; possessive title -> Named; no Endurance badge",
+  "_src": "OP.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.4,
+  "header_text": "GOKU'S SPIRIT BOMB S ) P32 |\na °- » ff. AS FI",
+  "stages_text": "4\n4\n\n,\n1",
+  "error": null
+ }
+}

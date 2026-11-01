@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_39",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "39_Goten - Supportive.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/39_Goten - Supportive.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Goten - Supportive",
+  "file_name": "Goten",
+  "file_subtitle": "Supportive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e584ddbf9e5fff42040c4e67b7e5735902c778f9"
+ },
+ "vision": {
+  "id": "S12_BST_39",
+  "name": "Goten",
+  "sub": "Supportive",
+  "type": "Ally",
+  "num": "U39",
+  "lvl": 1,
+  "stages": [
+   50000,
+   20000,
+   10000,
+   8000,
+   5000,
+   1500,
+   1000,
+   500,
+   250,
+   150,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(Once per game, if your MP is Kid Trunks, you may play this card from your hand as an action to end combat.)\n[Continuous]: If your MP is Kid Trunks, your attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges E + S",
+  "_src": "S12.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "LL GOTEN\nLEVEL SUPPORTIVE () U39\nle",
+  "stages_text": "50,000\n20,000\n10,000\n\n8,000\n\n5,000\n\n1,500\n\n1,000\n\n7 500\n\n250\n150\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_19",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "19_Orange Aura Mastery.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/19_Orange Aura Mastery.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Aura Mastery",
+  "file_name": "Orange Aura Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2626014008fc0e5a5182a7d3ccb5f835f2ce115c"
+ },
+ "vision": {
+  "id": "S16_BST_19",
+  "name": "Orange Aura Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0).\n[Instant] POWER: Use when entering combat. Destroy a Drill you control to search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; title strip read from a crop; DR number printed",
+  "_src": "S16.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 88.3,
+  "header_text": "| SY",
+  "stages_text": "19\n,\n1\n\n0,\n,\n,",
+  "error": null
+ }
+}

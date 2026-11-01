@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_12",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "12_Namekian Reinforced Glow.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/12_Namekian Reinforced Glow.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Reinforced Glow",
+  "file_name": "Namekian Reinforced Glow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "3d0827ff12eba21d0391015b588e734f95569481"
+ },
+ "vision": {
+  "id": "S09_BST_12",
+  "name": "Namekian Reinforced Glow",
+  "sub": null,
+  "type": "Setup",
+  "num": "C12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Destroy the top X cards of your opponent's Life Deck. X = the number of Earth Dragon Balls you control.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S09.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 0.913,
+  "lower_conf": 81.6,
+  "header_text": "AMEKIAN REINFORCED GLOW () C12",
+  "stages_text": null,
+  "error": null
+ }
+}

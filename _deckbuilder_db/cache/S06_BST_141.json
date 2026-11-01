@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_141",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "141_Surprise Attack.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/141_Surprise Attack.jpg",
+  "prefix": null,
+  "number": 141,
+  "card_number": "141",
+  "name_part": "Surprise Attack",
+  "file_name": "Surprise Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6f4f4d04f48cd66506f3300156ebdcf7b751ae99"
+ },
+ "vision": {
+  "id": "S06_BST_141",
+  "name": "Surprise Attack",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Players cannot search for \"Surprise Attack\" with this card's effect.)\n[Attack] Physical attack.\nSearch your opponent's Life Deck for 2 non-Styled/non-Dragon Ball cards and banish them. Your opponent searches your Life Deck for 2 non-Styled/non-Dragon Ball cards and banishes them.\nDAMAGE: 4 life cards.\nHIT: Banish the top 4 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S06.jsonl:141"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "al — i ‘in g i, ore | g las.\n| SURPRISE ATTACK om\nee ee. Ava. +",
+  "stages_text": "4 42\n2\n\n,\n\n2\n\n,",
+  "error": null
+ }
+}

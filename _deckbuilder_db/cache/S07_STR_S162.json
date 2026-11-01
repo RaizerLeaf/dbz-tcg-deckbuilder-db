@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S162",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S162_Red Power Lift.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S162_Red Power Lift.png",
+  "prefix": "S",
+  "number": 162,
+  "card_number": "S162",
+  "name_part": "Red Power Lift",
+  "file_name": "Red Power Lift",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ccd52b1b87af6b6af85711a3978d045cf6806d77"
+ },
+ "vision": {
+  "id": "S07_STR_S162",
+  "name": "Red Power Lift",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S162",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +3 stages. Stops the next physical attack performed against you this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S80; text compared on the sheet",
+  "_src": "S07.jsonl:345"
+ },
+ "ocr": {
+  "agreement": 0.722,
+  "lower_conf": 74.5,
+  "header_text": "RED POWER LIFT €) st62\nam . wee wr, yA",
+  "stages_text": "1\n1\n3\n,",
+  "error": null
+ }
+}

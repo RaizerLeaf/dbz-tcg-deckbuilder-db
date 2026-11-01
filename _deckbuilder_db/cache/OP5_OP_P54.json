@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P54",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P54_Yajirobe's Tactical Retreat.png",
+  "rel_path": "z_OP Series/OP5/P54_Yajirobe's Tactical Retreat.png",
+  "prefix": "P",
+  "number": 54,
+  "card_number": "P54",
+  "name_part": "Yajirobe's Tactical Retreat",
+  "file_name": "Yajirobe's Tactical Retreat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e6eda94ac1a3ae0a36848d74440775390d60c605"
+ },
+ "vision": {
+  "id": "OP5_OP_P54",
+  "name": "Yajirobe's Tactical Retreat",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an attack.\nYour opponent passes for their next action this combat. You may banish a card from your hand. If you do, search your Life Deck for a card with \"Sword\" in the title and place it into your hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder); grey card; possessive title -> Named; no Endurance badge",
+  "_src": "OP.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": "YAJIROBE'S TACTICAL RETREAT @ ) P54\n(I",
+  "stages_text": ",",
+  "error": null
+ }
+}

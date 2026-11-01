@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_85",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "85_Black Left Burst.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/85_Black Left Burst.png",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Black Left Burst",
+  "file_name": "Black Left Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "56340fb9724a930d4a25cc4a1d30a36908ff5158"
+ },
+ "vision": {
+  "id": "S07_BST_85",
+  "name": "Black Left Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage.\nChoose a card in play. If that card is an attack, banish it. Search your opponent's discard pile for a copy of the chosen card and banish it.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "BLACK LEFT BURST C) U85\nuA OY if WH,",
+  "stages_text": "",
+  "error": null
+ }
+}

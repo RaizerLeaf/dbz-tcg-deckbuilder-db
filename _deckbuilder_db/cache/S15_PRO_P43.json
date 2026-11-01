@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P43",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P43_Raditz's Dirty Tactics.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P43_Raditz's Dirty Tactics.png",
+  "prefix": "P",
+  "number": 43,
+  "card_number": "P43",
+  "name_part": "Raditz's Dirty Tactics",
+  "file_name": "Raditz's Dirty Tactics",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "f408ba1c6bd907c8fd6a41c1f55725000771fc5f"
+ },
+ "vision": {
+  "id": "S15_PRO_P43",
+  "name": "Raditz's Dirty Tactics",
+  "sub": null,
+  "type": "Setup",
+  "num": "P43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck.)\nPOWER: Name a Setup or Drill. Search your opponent's Life Deck and hand for all copies of that card and banish them.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S15.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.8,
+  "header_text": "RADITz'S DIRTY TACTICS © Pas\nSSS ee .",
+  "stages_text": null,
+  "error": null
+ }
+}

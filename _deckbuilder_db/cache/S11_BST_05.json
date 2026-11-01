@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_05",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "05_Black Energy Rings.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/05_Black Energy Rings.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Energy Rings",
+  "file_name": "Black Energy Rings",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3a9dad72f19bf2c19aabe2c4615b3888d86eb158"
+ },
+ "vision": {
+  "id": "S11_BST_05",
+  "name": "Black Energy Rings",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nIf this attack is stopped, your next Styled attack this combat cannot be stopped.\nDAMAGE: 4 life cards.\nHIT: Your opponent discards a card from their hand.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S11.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.6,
+  "header_text": "BLACK ENERGY RINGS _ ) RS |\nBWO\\\\\\ | Vane =—hl",
+  "stages_text": "3\n4\n,\n\n,",
+  "error": null
+ }
+}

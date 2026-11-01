@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P1",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P1_Black Searching Technique.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P1_Black Searching Technique.jpg",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Black Searching Technique",
+  "file_name": "Black Searching Technique",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1500,
+  "height": 2100,
+  "orientation": "portrait",
+  "sha1": "2bed6f6000527d19990dcc3fd3243e534d8a6bb0"
+ },
+ "vision": {
+  "id": "S03_PRO_P1",
+  "name": "Black Searching Technique",
+  "sub": null,
+  "type": "Setup",
+  "num": "P1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your opponent's deck for 2 non-Dragon Ball cards and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 U73; text compared on the sheet, identical",
+  "_src": "S03.jsonl:143"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.7,
+  "header_text": "[BLACK SEARCHING TECHNIQUE (",
+  "stages_text": "1 2",
+  "error": null
+ }
+}

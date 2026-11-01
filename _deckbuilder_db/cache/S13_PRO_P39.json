@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_PRO_P39",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "13_Set 13 (Fusion)/Fusion (Promos)",
+  "filename": "P39_Time Is A Warrior's Tool.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P39_Time Is A Warrior's Tool.png",
+  "prefix": "P",
+  "number": 39,
+  "card_number": "P39",
+  "name_part": "Time Is A Warrior's Tool",
+  "file_name": "Time Is A Warrior's Tool",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "45151ac61b47780f0df8fa1b0635fbfeca28fa60"
+ },
+ "vision": {
+  "id": "S13_PRO_P39",
+  "name": "Time Is A Warrior's Tool",
+  "sub": null,
+  "type": "Event",
+  "num": "P39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Defense] POWER: Stops a physical or energy attack.\nStops all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; title printed 'Time Is A Warrior's Tool' (capital A)",
+  "_src": "S13.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "TIME IS A WARRIOR'S TOOL @© ) P39\nee Se. oe we Ce",
+  "stages_text": "3\n9\n5",
+  "error": null
+ }
+}

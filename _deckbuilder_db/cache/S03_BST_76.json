@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_76",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "76_Turles - Conquering.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/76_Turles - Conquering.jpg",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Turles - Conquering",
+  "file_name": "Turles",
+  "file_subtitle": "Conquering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d9dc1e6aed532482013e72dbc14c4c7777ca8ea4"
+ },
+ "vision": {
+  "id": "S03_BST_76",
+  "name": "Turles",
+  "sub": "Conquering",
+  "type": "Main Personality",
+  "num": "U76",
+  "lvl": 4,
+  "stages": [
+   300000,
+   200000,
+   150000,
+   100000,
+   75000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: X stages and X life cards. X = the number of power stages your opponent's MP is above 0. Endurance cannot be used this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S03.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.6,
+  "header_text": "4 tuRLES UIE\nLEVEL —_",
+  "stages_text": "300,000\n200,000\n150,000\n100,000\n75,000\n50,000\n5 25,000\n, 20,000\n15,000\n10,000\n\n0",
+  "error": null
+ }
+}

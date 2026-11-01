@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_22",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "22_Orange Peek.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/22_Orange Peek.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Orange Peek",
+  "file_name": "Orange Peek",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "eecfd88ed80840af3ffd746f78119ce0c10e0354"
+ },
+ "vision": {
+  "id": "S19_BST_22",
+  "name": "Orange Peek",
+  "sub": null,
+  "type": "Event",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\nPOWER: Gain 5 stages. Lower your opponent's anger 3. Reveal the bottom card of your Life Deck. If that card was a Drill, place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S19.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 83.6,
+  "header_text": "ORANGE PEEK C) C22.",
+  "stages_text": ",",
+  "error": null
+ }
+}

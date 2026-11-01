@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S38",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S38_Blac Upward Dodge.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S38_Blac Upward Dodge.png",
+  "prefix": "S",
+  "number": 38,
+  "card_number": "S38",
+  "name_part": "Blac Upward Dodge",
+  "file_name": "Blac Upward Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "429e1a882646d00e2c36a3278d71e773294ffde2"
+ },
+ "vision": {
+  "id": "S04_STR_S38",
+  "name": "Black Upward Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYour next attack deals +4 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S02 U75; title printed in gold; filename typo 'Blac'",
+  "_src": "S04.jsonl:191"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "BLACK UPWARD DODGE ) 338\n1 2 ape! 2. Se a etl\n| Ses a",
+  "stages_text": "3\n, ,",
+  "error": null
+ }
+}

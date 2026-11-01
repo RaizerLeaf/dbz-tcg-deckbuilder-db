@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_24",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "24_Red Gambit.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/24_Red Gambit.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Gambit",
+  "file_name": "Red Gambit",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7dea52a9b75603534f717b4fb3f752e8492a4378"
+ },
+ "vision": {
+  "id": "S15_BST_24",
+  "name": "Red Gambit",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\n[Attack] Physical attack.\nRaise your anger 3.\nDAMAGE: 5 life cards or 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "RED GAMBIT () R24\nEEUU Y SE",
+  "stages_text": "4\n6\n37",
+  "error": null
+ }
+}

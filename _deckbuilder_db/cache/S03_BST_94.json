@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_94",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "94_Red Freezing Beam.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/94_Red Freezing Beam.jpg",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Red Freezing Beam",
+  "file_name": "Red Freezing Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a22b2ad4218e57b303eb88107c1e534fde5abcef"
+ },
+ "vision": {
+  "id": "S03_BST_94",
+  "name": "Red Freezing Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: AT +2 stages. You may raise your anger 1 level. Search your discard pile or Banished Zone for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "(RED FREEZING BEAM. (2",
+  "stages_text": "347",
+  "error": null
+ }
+}

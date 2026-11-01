@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P45",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P45_Dr. Wheelo's Revival.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P45_Dr. Wheelo's Revival.png",
+  "prefix": "P",
+  "number": 45,
+  "card_number": "P45",
+  "name_part": "Dr. Wheelo's Revival",
+  "file_name": "Dr. Wheelo's Revival",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "e194e635ce859c400066efe89c98ab11449b606c"
+ },
+ "vision": {
+  "id": "S15_PRO_P45",
+  "name": "Dr. Wheelo's Revival",
+  "sub": null,
+  "type": "Setup",
+  "num": "P45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is discarded or destroyed from your Life Deck, destroy the top 3 cards of your opponent's Life Deck and banish this card.)\nPOWER: Your opponent cannot play Events this combat. Gain 2 stages and shuffle this card into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S15.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": ". a=\nDR. WHEELO'S REVIVAL f) P45\nfT” __ nn eS a ” —",
+  "stages_text": null,
+  "error": null
+ }
+}

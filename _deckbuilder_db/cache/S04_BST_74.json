@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_74",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "74_Namekian Leaping Kick.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/74_Namekian Leaping Kick.png",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Namekian Leaping Kick",
+  "file_name": "Namekian Leaping Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "21495b06dc25c8239454fcb540c5262bd17b20a5"
+ },
+ "vision": {
+  "id": "S04_BST_74",
+  "name": "Namekian Leaping Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U74",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You cannot win by MPPV if you advance a personality level with this card.)\n[Attack] Physical attack.\nYou may search your Life Deck for 2 Dragon Balls and banish them. If you do, advance your MP 1 level.\nDAMAGE: 5 stages.\nBanish after use.",
+  "conf": "high",
+  "review": null,
+  "note": "'Banish after use.' printed without parentheses",
+  "_src": "S04.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 85.7,
+  "header_text": "NAMEKIAN LEAPING KICK\n-_",
+  "stages_text": "7 4\n3",
+  "error": null
+ }
+}

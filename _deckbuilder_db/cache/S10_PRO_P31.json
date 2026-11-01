@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P31",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P31_Heroic Energy Sphere.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P31_Heroic Energy Sphere.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Heroic Energy Sphere",
+  "file_name": "Heroic Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ee01ee2ac0c08f5b713b978a7e0fde5944bb886b"
+ },
+ "vision": {
+  "id": "S10_PRO_P31",
+  "name": "Heroic Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "manga-style art, grey frame; reprint of S01 UR163",
+  "_src": "S10.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "HEROIC ENERGY SPHERE > ) P31 |",
+  "stages_text": "2\n4\n,\n\n2\n,\n,\n1\n20",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P22",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P22_Blue Betrayal.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P22_Blue Betrayal.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Blue Betrayal",
+  "file_name": "Blue Betrayal",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "760cc5ae62ca6068e1ceaed7125708f6e365d46f"
+ },
+ "vision": {
+  "id": "S15_PRO_P22",
+  "name": "Blue Betrayal",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nBanish an opponent's Setup, Drill, or Ally.\nDAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S15.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "BLUE BETRAYAL () P22\n—",
+  "stages_text": "37",
+  "error": null
+ }
+}

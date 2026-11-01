@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S143",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S143_Red Frenzied Blasts.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S143_Red Frenzied Blasts.png",
+  "prefix": "S",
+  "number": 143,
+  "card_number": "S143",
+  "name_part": "Red Frenzied Blasts",
+  "file_name": "Red Frenzied Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "06e6e5605b3b99b1eb68277e23134857f30404d9"
+ },
+ "vision": {
+  "id": "S04_STR_S143",
+  "name": "Red Frenzied Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S143",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S118",
+  "_src": "S04.jsonl:296"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "RED FRENZIED BLASTS 143\nys php 6, gS SP Wap",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

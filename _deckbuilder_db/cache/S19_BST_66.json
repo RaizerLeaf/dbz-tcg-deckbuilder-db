@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_66",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "66_Buu - Durable.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/66_Buu - Durable.png",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Buu - Durable",
+  "file_name": "Buu",
+  "file_subtitle": "Durable",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d65cdbd20a268406504d88afdfcf2ad126d35679"
+ },
+ "vision": {
+  "id": "S19_BST_66",
+  "name": "Buu",
+  "sub": "Durable",
+  "type": "Main Personality",
+  "num": "S66",
+  "lvl": 2,
+  "stages": [
+   3650000,
+   2909000,
+   1874000,
+   1282000,
+   837000,
+   565000,
+   390000,
+   252000,
+   73000,
+   38000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage and +1 life card.\nPOWER: [Attack] Physical attack.\nSearch your Life Deck for an Ally and place it into play.\nDAMAGE: 4 stages.\nHIT: Raise your anger 1. Lower your opponent's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge M (pink)",
+  "_src": "S19.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.4,
+  "header_text": "BUU",
+  "stages_text": "3,650,000\n2,909,000\n1,874,000\n1,282,000\n837,000\n565,000\n390,000\n252,000\n73,000\n38,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_78",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "78_Vegito - Super Saiyan Blue.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/78_Vegito - Super Saiyan Blue.png",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Vegito - Super Saiyan Blue",
+  "file_name": "Vegito",
+  "file_subtitle": "Super Saiyan Blue",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67768dcee23fa99f9da66206b4ce4af2be658aa9"
+ },
+ "vision": {
+  "id": "S19_BST_78",
+  "name": "Vegito",
+  "sub": "Super Saiyan Blue",
+  "type": "Main Personality",
+  "num": "S78",
+  "lvl": 2,
+  "stages": [
+   190000000,
+   95000000,
+   8200000,
+   1425000,
+   1170000,
+   830000,
+   467000,
+   210000,
+   82000,
+   44000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Continuous]: Whenever you perform an attack that does not have AT base damage, you may choose for that attack to deal its life card damage as stages instead or vice versa.\nPOWER: [Attack] Physical attack.\nThe next time one of your effects requires you to discard 1 card from your hand this combat, you may reveal that card instead.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G (gold), S, E, F",
+  "_src": "S19.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 0.924,
+  "lower_conf": 80.0,
+  "header_text": "VEGITO",
+  "stages_text": "190,000,000\n95,000,000\n8,200,000\n1,425,000\n1,170,000\n830,000\n467,000\n210,000\n82,000\n44,000\n0",
+  "error": null
+ }
+}

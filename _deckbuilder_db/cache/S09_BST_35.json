@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_35",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "35_Chilled Prescience.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/35_Chilled Prescience.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Chilled Prescience",
+  "file_name": "Chilled Prescience",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6d2ea1b98452e4063e1b9e87c6b140c2c7ff7fcb"
+ },
+ "vision": {
+  "id": "S09_BST_35",
+  "name": "Chilled's Prescience",
+  "sub": null,
+  "type": "Event",
+  "num": "R35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(After performing a successful attack, you may discard this card from your hand to draw a card. If you do, that attack is considered to deal critical damage.)\nPOWER: Rejuvenate 3. Choose a personality in play. That personality loses 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S09.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 89.9,
+  "header_text": "CHILLED'S PRESCIENCE () R35\nee ~",
+  "stages_text": "4\n6\n\n,\n\n,",
+  "error": null
+ }
+}

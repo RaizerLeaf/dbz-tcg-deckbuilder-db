@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_68",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "68_Garlic Jr. - Transformed.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/68_Garlic Jr. - Transformed.jpg",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Garlic Jr. - Transformed",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Transformed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d696b9a75f6624cd345755ef47648a7632a5edac"
+ },
+ "vision": {
+  "id": "S03_BST_68",
+  "name": "Garlic Jr.",
+  "sub": "Transformed",
+  "type": "Main Personality",
+  "num": "U68",
+  "lvl": 4,
+  "stages": [
+   25000,
+   15000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal +3 life cards of damage. Your Dragon Balls cannot be captured. Whenever your anger is lowered, you may capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP. Original printing also says '+3 life cards' (same as PZP P104), so the drawback is the printed design",
+  "_src": "S03.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "Se GARLIC IR €) 25\nLEVEL ROR",
+  "stages_text": "25,000\n15,000\n10,000\n8,000\n\n6,000\n4,000\n5 2,000\n1,000\n\n500\n\n250\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P16",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P16_Blue Trapped Strike.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P16_Blue Trapped Strike.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Blue Trapped Strike",
+  "file_name": "Blue Trapped Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6ebf2ba7cdddb93b58fea5d1c1f2a5616487c6e8"
+ },
+ "vision": {
+  "id": "S17_PRO_P16",
+  "name": "Blue Trapped Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you control a Dragon Ball, Remain 1. Raise or lower a player's anger 1.\nDAMAGE: AT + 3 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S17.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "BLUE TRAPPED STRIKE () P16",
+  "stages_text": ",\n1\n37\n1,",
+  "error": null
+ }
+}

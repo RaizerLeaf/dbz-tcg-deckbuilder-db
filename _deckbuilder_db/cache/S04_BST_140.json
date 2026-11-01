@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_140",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "140_Tug of War.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/140_Tug of War.png",
+  "prefix": null,
+  "number": 140,
+  "card_number": "140",
+  "name_part": "Tug of War",
+  "file_name": "Tug of War",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "413a3013ca4c1cdcf4d6623a909b4848ab87ef84"
+ },
+ "vision": {
+  "id": "S04_BST_140",
+  "name": "Tug of War",
+  "sub": null,
+  "type": "Event",
+  "num": "R140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is discarded or destroyed from your Life Deck, banish an Ally.)\nPOWER: Banish an Ally. Lower your opponent's anger 2 levels. Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S04.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 84.1,
+  "header_text": "TUG OF WAR ¢) R140\nee ee ee Le ha”",
+  "stages_text": ",\n2\n,",
+  "error": null
+ }
+}

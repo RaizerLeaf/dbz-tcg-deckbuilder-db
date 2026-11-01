@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_128",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "128_Saiyan Thrust.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/128_Saiyan Thrust.jpg",
+  "prefix": null,
+  "number": 128,
+  "card_number": "128",
+  "name_part": "Saiyan Thrust",
+  "file_name": "Saiyan Thrust",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "0d331cf163b7ed35475f64b1bbde548aa3636d9d"
+ },
+ "vision": {
+  "id": "S06_BST_128",
+  "name": "Saiyan Thrust",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDamage from this attack cannot be modified. Raising anger is optional for both players this combat. Whenever your opponent changes levels this combat, Rejuvenate 5.\nDAMAGE: 6 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:128"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "SAIYAN THRUST C) R128\nay’",
+  "stages_text": "347",
+  "error": null
+ }
+}

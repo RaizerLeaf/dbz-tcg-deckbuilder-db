@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S57",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S57_Black Stop.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S57_Black Stop.png",
+  "prefix": "S",
+  "number": 57,
+  "card_number": "S57",
+  "name_part": "Black Stop",
+  "file_name": "Black Stop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d2b4e4a6478a113da41b42cd323e5a0d69c22ab4"
+ },
+ "vision": {
+  "id": "S04_STR_S57",
+  "name": "Black Stop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nRaise your anger 1 level. Your opponent plays with his hand revealed until the start of your next turn.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C16",
+  "_src": "S04.jsonl:210"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "BLACK STOP Ku\neC",
+  "stages_text": "4\n,\n4\n,\n,",
+  "error": null
+ }
+}

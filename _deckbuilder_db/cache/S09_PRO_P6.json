@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_PRO_P6",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "09_Set 9 (Legends)/Legends (Promos)",
+  "filename": "P6_Time Is A Warrior's Tool.png",
+  "rel_path": "09_Set 9 (Legends)/Legends (Promos)/P6_Time Is A Warrior's Tool.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Time Is A Warrior's Tool",
+  "file_name": "Time Is A Warrior's Tool",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9e4dbd73c76118ea6164731536615160482e4fb9"
+ },
+ "vision": {
+  "id": "S09_PRO_P6",
+  "name": "Time Is a Warrior's Tool",
+  "sub": null,
+  "type": "Event",
+  "num": "P6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Defense] POWER: Stops a physical or energy attack.\nStops all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; FanZ reprint of S01 R152",
+  "_src": "S09.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 53.8,
+  "header_text": "IP Ree [FP Fi i a eR [Pt\nTIME IS A WARRIOR'S TOOL () P6\n| ORR” aD |",
+  "stages_text": "",
+  "error": null
+ }
+}

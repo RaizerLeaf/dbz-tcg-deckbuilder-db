@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_46",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "46_Red Ejection.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/46_Red Ejection.jpg",
+  "prefix": null,
+  "number": 46,
+  "card_number": "46",
+  "name_part": "Red Ejection",
+  "file_name": "Red Ejection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c664414080b4502f373386a90d242774e37cdf34"
+ },
+ "vision": {
+  "id": "S06_BST_46",
+  "name": "Red Ejection",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this attack is performed from your discard pile, destroy the top X cards of your opponent's Life Deck. X = the number of Dragon Balls you control.)\n[Attack] Physical attack.\nDAMAGE: AT +X life cards. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "RED EJECTION () C46\ny —_~ 2h Cae",
+  "stages_text": "82\n\n,,\n,\n\n347\n\n,\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_86",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "86_Goku - Godly Aura.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/86_Goku - Godly Aura.png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Goku - Godly Aura",
+  "file_name": "Goku",
+  "file_subtitle": "Godly Aura",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fe556545715ef4fe774e45203d9da712f7cee474"
+ },
+ "vision": {
+  "id": "S16_BST_86",
+  "name": "Goku",
+  "sub": "Godly Aura",
+  "type": "Main Personality",
+  "num": "S86",
+  "lvl": 3,
+  "stages": [
+   150000000,
+   35000000,
+   6750000,
+   1425000,
+   1050000,
+   769000,
+   423000,
+   237000,
+   84000,
+   52000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(Your Drills are not discarded when advancing from this level.)\nPOWER: [Attack] Energy attack.\nSearch your Life Deck for a Drill and place it into play. [Warning]: You may search your discard pile instead.\nDAMAGE: 5 life cards.\nHIT: Search your discard pile for 2 Styled Drills and Rejuvenate them. [Warning]: You may search your Banished Zone instead.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges G, E, S; black warning triangle transcribed as [Warning]",
+  "_src": "S16.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 0.877,
+  "lower_conf": 81.3,
+  "header_text": "S33 coKku\nLEVEL GODLY AURA () S86\nTO a a ,",
+  "stages_text": "150,000,000\n35,000,000\n6,750,000\n1,425,000\n1,050,000\n769,000\n423,000\n237,000\n84,000\n52,000\n0",
+  "error": null
+ }
+}

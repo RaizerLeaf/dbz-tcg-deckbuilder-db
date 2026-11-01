@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_08",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "08_Turles Fighter.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/08_Turles Fighter.jpg",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Turles Fighter",
+  "file_name": "Turles Fighter",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7b903a67578627e652e5ea1beb69da2076a6135a"
+ },
+ "vision": {
+  "id": "S03_BST_08",
+  "name": "Turles",
+  "sub": "Fighter",
+  "type": "Ally",
+  "num": "C8",
+  "lvl": 1,
+  "stages": [
+   100000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   3000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Continuous]: If your MP is a Saiyan, your Styled attacks deal +X stages of damage. X = the number of Saiyans in play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY; filename '08_Turles Fighter' lacks ' - '",
+  "_src": "S03.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "a TURLES €) Gas\n\\ cE",
+  "stages_text": "100,000\n50,000\n25,000\n20,000\n\n15,000\n110,000\n5,000\n\n3,000\n1,000\n500\n0",
+  "error": null
+ }
+}

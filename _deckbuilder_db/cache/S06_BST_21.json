@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_21",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "21_Blue Swat.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/21_Blue Swat.jpg",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Blue Swat",
+  "file_name": "Blue Swat",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "6658c0c968797c55bd9d22f2136884b5ac3b5ccc"
+ },
+ "vision": {
+  "id": "S06_BST_21",
+  "name": "Blue Swat",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nIf you control 1 Ally, you may destroy it to draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.9,
+  "header_text": "BLUE SWAT () 021\na",
+  "stages_text": ",",
+  "error": null
+ }
+}

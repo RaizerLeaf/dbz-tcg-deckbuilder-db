@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_31",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "31_Namekian Reinforced Charge.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/31_Namekian Reinforced Charge.jpg",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Namekian Reinforced Charge",
+  "file_name": "Namekian Reinforced Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "aa84027990406776da5933ccf7720c1dcb3501c9"
+ },
+ "vision": {
+  "id": "S03_BST_31",
+  "name": "Namekian Reinforced Charge",
+  "sub": null,
+  "type": "Event",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Rejuvenate 1. Search your Life Deck for a Drill or Ally and play it. Dragon Balls lose all effects this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.1,
+  "header_text": "NAMEKTAN REINFORGROSBHARGE (IED Co: |\nLT SZ A : ZH SS\nea CS, gee *",
+  "stages_text": "47",
+  "error": null
+ }
+}

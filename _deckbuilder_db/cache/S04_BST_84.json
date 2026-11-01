@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_84",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "84_Saiyan Sword Strike.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/84_Saiyan Sword Strike.png",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Saiyan Sword Strike",
+  "file_name": "Saiyan Sword Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a7b41e050d2dcb3e6044122926c70cef011bde32"
+ },
+ "vision": {
+  "id": "S04_BST_84",
+  "name": "Saiyan Sword Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage prevented.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.8,
+  "header_text": "SAIYAN SWORD STRIKE () U84\nar [I Ds",
+  "stages_text": "7\n4\n,",
+  "error": null
+ }
+}

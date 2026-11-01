@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_56",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "56_Saiyan Ki Web.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/56_Saiyan Ki Web.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Saiyan Ki Web",
+  "file_name": "Saiyan Ki Web",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1f1df7900d6173f23118f48ee09169db97ee26e1"
+ },
+ "vision": {
+  "id": "S07_BST_56",
+  "name": "Saiyan Ki Web",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nRejuvenate 1.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "SAIYAN KI WEB () C56\nw & QR ~ Wwe",
+  "stages_text": "",
+  "error": null
+ }
+}

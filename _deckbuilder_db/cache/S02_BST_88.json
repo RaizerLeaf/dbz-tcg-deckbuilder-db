@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_88",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "88_Orange Elbow.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/88_Orange Elbow.jpg",
+  "prefix": null,
+  "number": 88,
+  "card_number": "88",
+  "name_part": "Orange Elbow",
+  "file_name": "Orange Elbow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a42949468c75b4198851a2fdcde505ec433ae325"
+ },
+ "vision": {
+  "id": "S02_BST_88",
+  "name": "Orange Elbow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 stages. HIT: Choose a Styled Setup in your discard pile and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.2,
+  "header_text": "i ORANGE ELBOW €) =",
+  "stages_text": "4\n4\n0",
+  "error": null
+ }
+}

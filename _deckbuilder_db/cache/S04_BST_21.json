@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_21",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "21_Namekian Catch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/21_Namekian Catch.png",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Namekian Catch",
+  "file_name": "Namekian Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "c37f13542defc99af6c970491e9040e26413c88f"
+ },
+ "vision": {
+  "id": "S04_BST_21",
+  "name": "Namekian Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card is banished from your discard pile, gain 2 stages.)\n[Defense] Stops a physical attack.\nLook at the bottom 5 cards of your discard pile or Life Deck and place them back in any order.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "NAMEKIAN CATCH () C21",
+  "stages_text": "2\n3\n,\n\n,",
+  "error": null
+ }
+}

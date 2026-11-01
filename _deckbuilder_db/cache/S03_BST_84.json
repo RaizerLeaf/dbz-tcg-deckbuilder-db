@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_84",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "84_Blue Intervention.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/84_Blue Intervention.jpg",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Blue Intervention",
+  "file_name": "Blue Intervention",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "bc92ce1ad97b4bdbf076b238b5ecd1e7e66eeff3"
+ },
+ "vision": {
+  "id": "S03_BST_84",
+  "name": "Blue Intervention",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. If this card is discarded from your hand by a card effect, you may banish it to search your Life Deck or discard pile for a copy of Blue Intervention and place it into your hand.) [Defense] Stops an energy attack. You may raise or lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Physical Combat card that stops an ENERGY attack, as printed; 'Blue Intervention' in italics",
+  "_src": "S03.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "(BLUE INTERVENTION. () ues",
+  "stages_text": ",",
+  "error": null
+ }
+}

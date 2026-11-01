@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_112",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "112_Namekian Electrifying Grab.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/112_Namekian Electrifying Grab.jpg",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Namekian Electrifying Grab",
+  "file_name": "Namekian Electrifying Grab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dbda673d9709a568a23e23258a10fec476a80d13"
+ },
+ "vision": {
+  "id": "S06_BST_112",
+  "name": "Namekian Electrifying Grab",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Energy attack costing 2 stages.\nYou may reveal a Dragon Ball from your hand. If you do, damage from this attack cannot be prevented.\nDAMAGE: 5 life cards.\nHIT: You may discard a card from your hand to search your Life Deck or discard pile for an Ally and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 85.1,
+  "header_text": "| NAMEKIAN ELECTRIFYING craBf ) R112\n| co an",
+  "stages_text": ",\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_39",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "39_Red Examination Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/39_Red Examination Drill.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Red Examination Drill",
+  "file_name": "Red Examination Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "fde4e1e5b6675896f1c6e997be44c2130028d8c6"
+ },
+ "vision": {
+  "id": "S04_BST_39",
+  "name": "Red Examination Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this Drill enters play, you may lower your anger 2 levels to destroy a Setup or Drill.)\n[Instant] POWER: Use after you use a critical damage effect. Destroy a Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.4,
+  "header_text": "©©\n\\ 88\n@R_R ao",
+  "stages_text": null,
+  "error": null
+ }
+}

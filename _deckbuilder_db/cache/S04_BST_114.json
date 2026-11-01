@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_114",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "114_Orange Drain.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/114_Orange Drain.png",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Orange Drain",
+  "file_name": "Orange Drain",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "60e3f248387d93a93d59627b70c424fb2774af54"
+ },
+ "vision": {
+  "id": "S04_BST_114",
+  "name": "Orange Drain",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nThe next time one of your attacks causes you to change levels this combat, you may search your Life Deck for a Styled Event and place it into your hand.\nDAMAGE: 2 stages +2 life cards.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.6,
+  "header_text": "ORANGE DRAIN ) R114\newe —_",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_41",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "41_Hatchiyack - Vengeful.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/41_Hatchiyack - Vengeful.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Hatchiyack - Vengeful",
+  "file_name": "Hatchiyack",
+  "file_subtitle": "Vengeful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8db7b2a709f5682e2bcd1cef2d2b09d8b69e4fbd"
+ },
+ "vision": {
+  "id": "S15_BST_41",
+  "name": "Hatchiyack",
+  "sub": "Vengeful",
+  "type": "Ally",
+  "num": "U41",
+  "lvl": 1,
+  "stages": [
+   180000,
+   160000,
+   140000,
+   120000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nDAMAGE: 3 life cards.\nHIT: Your opponent discards a card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; Trait badges A, R; stage cost printed as '2:'",
+  "_src": "S15.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.2,
+  "header_text": "L HATCHIYACK\nLEVEL VENGEFUL () U41",
+  "stages_text": "180,000\n160,000\n140,000\n120,000\n100,000\n780,000\n60,000\n40,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

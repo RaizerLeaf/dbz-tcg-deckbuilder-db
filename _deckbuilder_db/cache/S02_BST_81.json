@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_81",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "81_Namekian Shocking Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/81_Namekian Shocking Drill.jpg",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Namekian Shocking Drill",
+  "file_name": "Namekian Shocking Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "cde30d4d635d9bed1171bd1a698ca0b90fafdf24"
+ },
+ "vision": {
+  "id": "S02_BST_81",
+  "name": "Namekian Shocking Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Choose a Dragon Ball in your hand and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 69.4,
+  "header_text": "(NAMEKIAN SHOCKING DRILL (=\ni Ei 4a, =f",
+  "stages_text": "4\n0",
+  "error": null
+ }
+}

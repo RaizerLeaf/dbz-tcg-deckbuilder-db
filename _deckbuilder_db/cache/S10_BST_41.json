@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_41",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "41_Devilish Sword Strike.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/41_Devilish Sword Strike.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Devilish Sword Strike",
+  "file_name": "Devilish Sword Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "747ebc5286dcfd45199d887e448597d0a08f728e"
+ },
+ "vision": {
+  "id": "S10_BST_41",
+  "name": "Devilish Sword Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nLower your opponent's anger 2 levels.\n[Trait:Majin]: You may discard a card from your hand to draw a card. If you discarded a card with \"Sword\" in the title, your opponent's MP loses 4 stages.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; inline icon pink (Majin)",
+  "_src": "S10.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 85.5,
+  "header_text": "DEVILISH SWORD STRIKE é ) R41 |\nBee eS, sl Oesi=*=éié‘jN :",
+  "stages_text": "4\n347\n,",
+  "error": null
+ }
+}

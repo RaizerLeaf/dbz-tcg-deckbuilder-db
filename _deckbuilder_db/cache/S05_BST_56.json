@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_56",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "56_Saiyan Flip.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/56_Saiyan Flip.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Saiyan Flip",
+  "file_name": "Saiyan Flip",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "509dfff2402a0b79a702896a42786e4b36d74968"
+ },
+ "vision": {
+  "id": "S05_BST_56",
+  "name": "Saiyan Flip",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(This card's Endurance is considered to be 4 for your card effects.)\n[Defense] Stops a physical attack.\nAttach to your MP. While attached, AT damage is considered to be 4 for all physical attacks.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 0.972,
+  "lower_conf": 75.6,
+  "header_text": "SAIYAN FLIP €) C56\noe CA Ne levee",
+  "stages_text": ",\n4\n\n,\n,\n,",
+  "error": null
+ }
+}

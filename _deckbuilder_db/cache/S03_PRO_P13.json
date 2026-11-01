@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P13",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P13_Saiyan Aerial Attack.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P13_Saiyan Aerial Attack.jpg",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Saiyan Aerial Attack",
+  "file_name": "Saiyan Aerial Attack",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 690,
+  "height": 960,
+  "orientation": "portrait",
+  "sha1": "c69021f323d849bc1c0bd774706e7fcfc91e8708"
+ },
+ "vision": {
+  "id": "S03_PRO_P13",
+  "name": "Saiyan Aerial Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Search your Life Deck or discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 U98; text compared on the sheet, identical",
+  "_src": "S03.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "(SAIYAN AERIAL ATTACK (ns\ni ae: tt, RR ite ae",
+  "stages_text": ",\n4\n\n2,\n\n4",
+  "error": null
+ }
+}

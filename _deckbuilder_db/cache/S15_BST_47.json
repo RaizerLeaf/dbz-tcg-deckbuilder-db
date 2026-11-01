@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_47",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "47_Janemba - Taking Over.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/47_Janemba - Taking Over.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Janemba - Taking Over",
+  "file_name": "Janemba",
+  "file_subtitle": "Taking Over",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4b955835c0c6d5db586abb4590ecde41ec974575"
+ },
+ "vision": {
+  "id": "S15_BST_47",
+  "name": "Janemba",
+  "sub": "Taking Over",
+  "type": "Main Personality",
+  "num": "S47",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: After taking damage, you may search your discard pile for a card and attach it to your MP.\nPOWER: Raise your anger 1 + X. X = the number of cards attached to your MP.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badge G (gold, zoomed on S48); stages 10 down to 0 as printed",
+  "_src": "S15.jsonl:47"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "1 JANEMBA\nLEVEL TAKING OVER () S4/",
+  "stages_text": "10\n\n9\n8\n\n7\n6\n5\n4\n3\n\n2\n\n0",
+  "error": null
+ }
+}

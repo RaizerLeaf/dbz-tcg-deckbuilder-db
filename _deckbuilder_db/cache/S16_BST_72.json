@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_72",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "72_Captain Ginyu - Back In Action.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/72_Captain Ginyu - Back In Action.png",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Captain Ginyu - Back In Action",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Back In Action",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7094bd3488e8d28b1fe39192d30a34f56d4f9fc4"
+ },
+ "vision": {
+  "id": "S16_BST_72",
+  "name": "Captain Ginyu",
+  "sub": "Back in Action",
+  "type": "Main Personality",
+  "num": "S72",
+  "lvl": 1,
+  "stages": [
+   5,
+   5,
+   4,
+   4,
+   3,
+   3,
+   2,
+   2,
+   1,
+   1,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Namekian",
+   "Alien"
+  ],
+  "text": "[Continuous]: You may use the Powers of your \"Ginyu Force\" Allies regardless of your MP's power stage.\n[Instant] POWER: Use when entering combat. Search your Life Deck for a \"Ginyu Force\" Ally and play it. Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges N (orange) and A (purple); stages 5 down to 0 as printed",
+  "_src": "S16.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "1 | CAPTAIN GINYU S79\nLEVEL BACK IN ACTION",
+  "stages_text": "5\n5\n4\n\n4\n\n3\n3\n2\n2\n\n, 1\n1\n\n0",
+  "error": null
+ }
+}

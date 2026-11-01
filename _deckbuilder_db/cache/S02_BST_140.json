@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_140",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "140_Trunks' Sword Stance.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/140_Trunks' Sword Stance.jpg",
+  "prefix": null,
+  "number": 140,
+  "card_number": "140",
+  "name_part": "Trunks' Sword Stance",
+  "file_name": "Trunks' Sword Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "9fd626378c8d1da84db879e2bc78d267a4d6db89"
+ },
+ "vision": {
+  "id": "S02_BST_140",
+  "name": "Trunks' Sword Stance",
+  "sub": null,
+  "type": "Event",
+  "num": "R140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card. Banish after use.) [Instant] POWER: Use when entering combat. Name a card. Reveal the top card of your Life Deck. If the revealed card matches the card you named, raise your anger 6 levels. You may shuffle your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "RS\n(TRUNKS' SWORD STANCE (=<\nws Fd/irt 7 ._x wom / TT",
+  "stages_text": "",
+  "error": null
+ }
+}

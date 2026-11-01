@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_14",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "14_Namekian Piercing Kick.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/14_Namekian Piercing Kick.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Piercing Kick",
+  "file_name": "Namekian Piercing Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "97f0f01817d4c5664a153baa0fa0eea4d00252ec"
+ },
+ "vision": {
+  "id": "S12_BST_14",
+  "name": "Namekian Piercing Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand by a Mastery effect, you may banish it to use a critical damage effect.)\n[Attack] Physical attack.\nChoose a card in your opponent's discard pile and banish it.\nDAMAGE: 4 stages.\nHIT: If you have only 1 Trait, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 90.4,
+  "header_text": "NAMEKIAN PIERCING KICK C) R14\nSS FR ¢",
+  "stages_text": ",\n37",
+  "error": null
+ }
+}

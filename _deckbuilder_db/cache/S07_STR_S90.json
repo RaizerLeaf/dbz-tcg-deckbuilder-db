@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S90",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S90_Namekian Dragon Clan.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S90_Namekian Dragon Clan.png",
+  "prefix": "S",
+  "number": 90,
+  "card_number": "S90",
+  "name_part": "Namekian Dragon Clan",
+  "file_name": "Namekian Dragon Clan",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "33573a4df952276ca8a81a7b4e4a2182df675484"
+ },
+ "vision": {
+  "id": "S07_STR_S90",
+  "name": "Namekian Dragon Clan",
+  "sub": null,
+  "type": "Setup",
+  "num": "S90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Search your Life Deck for a Dragon Ball and play it. If your MP is level 4, search your Life Deck for 2 Dragon Balls instead.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_132; text compared on the sheet",
+  "_src": "S07.jsonl:273"
+ },
+ "ocr": {
+  "agreement": 0.912,
+  "lower_conf": 74.7,
+  "header_text": "NAMEKIAN DRAGON CLAN () $90",
+  "stages_text": null,
+  "error": null
+ }
+}

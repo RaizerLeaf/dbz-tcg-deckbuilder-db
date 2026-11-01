@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S78",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S78_Blue Round Throw.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S78_Blue Round Throw.png",
+  "prefix": "S",
+  "number": 78,
+  "card_number": "S78",
+  "name_part": "Blue Round Throw",
+  "file_name": "Blue Round Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "5b0a6548687cdf2b4c183a53d7aa9a4caf80028e"
+ },
+ "vision": {
+  "id": "S04_STR_S78",
+  "name": "Blue Round Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S78",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop an energy attack instead of as an attack.)\n[Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: AT +5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S75",
+  "_src": "S04.jsonl:231"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "BLUE ROUND THROW",
+  "stages_text": ",\n2\n,\n7",
+  "error": null
+ }
+}

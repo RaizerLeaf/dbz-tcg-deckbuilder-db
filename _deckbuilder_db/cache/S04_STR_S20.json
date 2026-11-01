@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S20",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S20_Orange Adept Mastery.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S20_Orange Adept Mastery.png",
+  "prefix": "S",
+  "number": 20,
+  "card_number": "S20",
+  "name_part": "Orange Adept Mastery",
+  "file_name": "Orange Adept Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e4a70ac09cacea820fd09c292915257cf8837e5e"
+ },
+ "vision": {
+  "id": "S04_STR_S20",
+  "name": "Orange Adept Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 stage of damage. After your MP advances a level, search your discard pile for a Drill and Rejuvenate it.\n[Instant] POWER: Use after performing a successful Styled attack. That attack gains \"HIT: If you control 2 or less Drills, search your Life Deck for a Styled [Continuous] Drill and place it into play.\"",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Set 4 Mastery layout",
+  "_src": "S04.jsonl:173"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "rr a\n>” 2 =\na + p\nek — ‘",
+  "stages_text": ",\n,\n1",
+  "error": null
+ }
+}

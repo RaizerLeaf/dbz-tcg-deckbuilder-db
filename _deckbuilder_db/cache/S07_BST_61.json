@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_61",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "61_Earth Dragon Ball 1.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/61_Earth Dragon Ball 1.png",
+  "prefix": null,
+  "number": 61,
+  "card_number": "61",
+  "name_part": "Earth Dragon Ball 1",
+  "file_name": "Earth Dragon Ball 1",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0faf910d3260978d4be5cd1ad328cd4ca82918bc"
+ },
+ "vision": {
+  "id": "S07_BST_61",
+  "name": "Earth Dragon Ball 1",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U61",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: All attacks deal +1 life card of damage. When this Dragon Ball is captured, its controller may shuffle it into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "EARTH DRAGON BALL 1 © U61\nbud ah",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

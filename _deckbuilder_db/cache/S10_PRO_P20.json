@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P20",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P20_Orange Captivity Drill.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P20_Orange Captivity Drill.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Orange Captivity Drill",
+  "file_name": "Orange Captivity Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1097f99da49354912decca4af9e82dffc8954677"
+ },
+ "vision": {
+  "id": "S10_PRO_P20",
+  "name": "Orange Captivity Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Energy Combat attacks gain \"HIT: Raise your anger 1 level and your MP gains 3 stages.\"",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; reprint of S03 U90",
+  "_src": "S10.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.1,
+  "header_text": "ORANGE CAPTIVITY DRILL a) P20 |",
+  "stages_text": null,
+  "error": null
+ }
+}

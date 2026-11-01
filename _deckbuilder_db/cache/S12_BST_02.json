@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_02",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "02_Black Research.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/02_Black Research.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Research",
+  "file_name": "Black Research",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "71c7dbfe7b0be0eedaea6b33552004fda7bf4280"
+ },
+ "vision": {
+  "id": "S12_BST_02",
+  "name": "Black Research",
+  "sub": null,
+  "type": "Setup",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only. If this card is destroyed from your Life Deck you may place it into play.)\nPOWER: If the highest power level on your MP's Level 4 is 500,000 or less, destroy the top 3 cards of your opponent's Life Deck. If your opponent controls no Setups, shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 0.967,
+  "lower_conf": 86.3,
+  "header_text": "BLACK RESEARCH a C2 |",
+  "stages_text": null,
+  "error": null
+ }
+}

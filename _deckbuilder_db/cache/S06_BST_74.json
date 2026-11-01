@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_74",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "74_Krillin - Quick.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/74_Krillin - Quick.jpg",
+  "prefix": null,
+  "number": 74,
+  "card_number": "74",
+  "name_part": "Krillin - Quick",
+  "file_name": "Krillin",
+  "file_subtitle": "Quick",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "67b5b82462b07adf0979f0f37f8ec87701f47f38"
+ },
+ "vision": {
+  "id": "S06_BST_74",
+  "name": "Krillin",
+  "sub": "Quick",
+  "type": "Main Personality",
+  "num": "U74",
+  "lvl": 2,
+  "stages": [
+   200000,
+   180000,
+   160000,
+   140000,
+   120000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform an attack, your MP may pay 2 stages to have that attack deal +2 stages of damage.\nPOWER: [Attack] Physical attack.\nDamage from this attack cannot be modified.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO MP'",
+  "_src": "S06.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.4,
+  "header_text": "KRILLIN\nQUICK",
+  "stages_text": "200,000\n180,000\n160,000\n140,000\n120,000\n100,000\n80,000\n60,000\n40,000\n20,000\n0",
+  "error": null
+ }
+}

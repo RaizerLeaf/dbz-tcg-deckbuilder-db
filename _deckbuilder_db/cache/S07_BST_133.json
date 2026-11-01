@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_133",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "133_Gohan's Backlash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/133_Gohan's Backlash.png",
+  "prefix": null,
+  "number": 133,
+  "card_number": "133",
+  "name_part": "Gohan's Backlash",
+  "file_name": "Gohan's Backlash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68fc3ad74de013867b80389a75a4c55bb333aef7"
+ },
+ "vision": {
+  "id": "S07_BST_133",
+  "name": "Gohan's Backlash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Attack] Physical attack.\nYou may banish an Ally.\nDAMAGE: AT life cards.\nHIT: You cannot win by MPPV until the start of your next turn. Advance your MP up to 2 levels. At the end of combat, advance or lower your MP to level 2.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:133"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "GOHAN'S BACKLASH ) R133 |\na NS ii",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

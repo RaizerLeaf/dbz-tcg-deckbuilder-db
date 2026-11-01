@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P8",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P8_Blue Slash.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P8_Blue Slash.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Blue Slash",
+  "file_name": "Blue Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "3ddc2240d0b3778ac3ff19d0ff1449791d41f328"
+ },
+ "vision": {
+  "id": "S05_PRO_P8",
+  "name": "Blue Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 1 life card.\nHIT: Your opponent destroys the top X cards of his Life Deck. X = 6 - his current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S03 C24",
+  "_src": "S05.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 73.3,
+  "header_text": "BLUE SLASH ) PB\neT",
+  "stages_text": ",",
+  "error": null
+ }
+}

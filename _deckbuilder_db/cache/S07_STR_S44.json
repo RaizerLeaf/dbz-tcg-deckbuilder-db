@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S44",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S44_Blue Face Crunch.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S44_Blue Face Crunch.png",
+  "prefix": "S",
+  "number": 44,
+  "card_number": "S44",
+  "name_part": "Blue Face Crunch",
+  "file_name": "Blue Face Crunch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c352c3d315e8a97bfd9d95a6f2d3eb6bff72827e"
+ },
+ "vision": {
+  "id": "S07_STR_S44",
+  "name": "Blue Face Crunch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +5 stages. Gain 3 stages. Look at your opponent's hand.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_80; text compared on the sheet",
+  "_src": "S07.jsonl:227"
+ },
+ "ocr": {
+  "agreement": 0.733,
+  "lower_conf": 66.3,
+  "header_text": "BLUE FACE CRUNCH () $44\npea",
+  "stages_text": "3\n1,",
+  "error": null
+ }
+}

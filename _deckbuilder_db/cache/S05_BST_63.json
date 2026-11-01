@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_63",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "63_Master Roshi - Catcher.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/63_Master Roshi - Catcher.png",
+  "prefix": null,
+  "number": 63,
+  "card_number": "63",
+  "name_part": "Master Roshi - Catcher",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Catcher",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "76c6635ef957733b6963a22972e771baa6c4f9fc"
+ },
+ "vision": {
+  "id": "S05_BST_63",
+  "name": "Master Roshi",
+  "sub": "Catcher",
+  "type": "Main Personality",
+  "num": "U63",
+  "lvl": 3,
+  "stages": [
+   350,
+   325,
+   300,
+   275,
+   250,
+   225,
+   200,
+   175,
+   150,
+   125,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "(When you advance to this personality level, you may return a Setup or Drill to its owner's hand.)\n[Continuous]: Your opponent plays with his hand revealed. Whenever you Rejuvenate, you may destroy the top card of your opponent's Life Deck.\n[Instant] POWER: Use at the end of combat. Search your discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 5 MP; edge reads HERO",
+  "_src": "S05.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 72.9,
+  "header_text": "=3 MASTER ROSHI U63\nLEVEL CATCHER\n, 74 WIA\". ae",
+  "stages_text": "350\n325\n300\n\n275\n\n250\n225\n200\n175\n\n150\n\n125\n\n0",
+  "error": null
+ }
+}

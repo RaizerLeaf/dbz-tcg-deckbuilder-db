@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP5_OP_P42",
+  "set_number": null,
+  "set_name": "OP5",
+  "set_code": "OP5",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP5",
+  "filename": "P42_Black Ambush.png",
+  "rel_path": "z_OP Series/OP5/P42_Black Ambush.png",
+  "prefix": "P",
+  "number": 42,
+  "card_number": "P42",
+  "name_part": "Black Ambush",
+  "file_name": "Black Ambush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "49db483d04d8be5569a6743471982c06e6cf019a"
+ },
+ "vision": {
+  "id": "OP5_OP_P42",
+  "name": "Black Ambush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Namekian] or [Trait:Saiyan] only.)\n[Attack] 2: Physical attack.\nFocused. Your next Styled attack this combat gains \"Focused.\"\nDAMAGE: 4 life cards and 4 stages.\nHIT: Raise your anger 2.\n(Rejuvenate after use.)\n(Created by Trevor Morris, OP4 Grand Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP5 folder; credit line names OP4 Champion); restriction icons: orange N badge (Namekian) and green S badge (Saiyan) read from the sheet; stage cost printed as '2:'; no Endurance badge",
+  "_src": "OP.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.902,
+  "lower_conf": 92.1,
+  "header_text": "BLACK AMBUSH () P42\ny¥// *",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_30",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "30_Saiyan Massacre.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/30_Saiyan Massacre.png",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Saiyan Massacre",
+  "file_name": "Saiyan Massacre",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b45642fae62b9eb528e117fb268569073915a9a6"
+ },
+ "vision": {
+  "id": "S11_BST_30",
+  "name": "Saiyan Massacre",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nBanish an opponent's Ally or Setup.\n[Trait:Majin]: You may banish 4 cards from your discard pile. If you do, Rejuvenate this card after use.\nDAMAGE: 6 life cards.\nHIT: Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon pink Majin",
+  "_src": "S11.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 0.953,
+  "lower_conf": 91.8,
+  "header_text": "SAIYAN MASSACRE @ F320",
+  "stages_text": "7,\n,\n,\n,\n,",
+  "error": null
+ }
+}

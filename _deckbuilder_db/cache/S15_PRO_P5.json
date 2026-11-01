@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P5",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P5_Janemba - Taking Over.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P5_Janemba - Taking Over.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Janemba - Taking Over",
+  "file_name": "Janemba",
+  "file_subtitle": "Taking Over",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "94e1a9992e630bf668a7c1fc678b2501480c3a6a"
+ },
+ "vision": {
+  "id": "S15_PRO_P5",
+  "name": "Janemba",
+  "sub": "Taking Over",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: After taking damage, you may search your discard pile for a card and attach it to your MP.\nPOWER: Raise your anger 1 + X. X = the number of cards attached to your MP.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge G (gold); stats and text compared against S15_BST_47 on the sheet, identical",
+  "_src": "S15.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 0.97,
+  "lower_conf": 61.2,
+  "header_text": "_ A Ne\nJANEMBA\n«3 TAKING OVER Qa 7s )\nLEVEL a",
+  "stages_text": "10\n\n7\n1\n\n3\n\n0",
+  "error": null
+ }
+}

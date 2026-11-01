@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_45",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "45_Red Emergency.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/45_Red Emergency.jpg",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Emergency",
+  "file_name": "Red Emergency",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c6bb3dd0cc444bff0a9bb0f1968925332e68ddbd"
+ },
+ "vision": {
+  "id": "S02_BST_45",
+  "name": "Red Emergency",
+  "sub": null,
+  "type": "Event",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Use a critical damage effect. If you have 2 or more anger, search your discard pile for 2 Drills. Rejuvenate 1 of them and place the other into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.2,
+  "header_text": "(RED EMERGENCY () one\nee en ee | “OM ce",
+  "stages_text": "5\n4",
+  "error": null
+ }
+}

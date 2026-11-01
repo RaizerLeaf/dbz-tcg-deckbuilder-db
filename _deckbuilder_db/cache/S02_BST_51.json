@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_51",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "51_Saiyan Protection Drill.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/51_Saiyan Protection Drill.jpg",
+  "prefix": null,
+  "number": 51,
+  "card_number": "51",
+  "name_part": "Saiyan Protection Drill",
+  "file_name": "Saiyan Protection Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7552c93ca09a220d2f99c124acc59ee460cdd8b2"
+ },
+ "vision": {
+  "id": "S02_BST_51",
+  "name": "Saiyan Protection Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your opponent's attacks deal -1 stage and -1 life card of damage. Once per combat after banishing a card for Endurance, you may Rejuvenate that card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.4,
+  "header_text": "(SAIYAN PROTECTION DRILL () cs1\n4 ™! »",
+  "stages_text": "2\n4\n2",
+  "error": null
+ }
+}

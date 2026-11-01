@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P46",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P46_Captain Ginyu's Body Switch.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P46_Captain Ginyu's Body Switch.png",
+  "prefix": "P",
+  "number": 46,
+  "card_number": "P46",
+  "name_part": "Captain Ginyu's Body Switch",
+  "file_name": "Captain Ginyu's Body Switch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fb7d72017b720807ecd020e77991f13cb733c7ee"
+ },
+ "vision": {
+  "id": "S16_PRO_P46",
+  "name": "Captain Ginyu's Body Switch",
+  "sub": null,
+  "type": "Event",
+  "num": "P46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: If the power level of your opponent's MP is higher than your MP's power level, raise your anger 6.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; no Endurance badge",
+  "_src": "S16.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.0,
+  "header_text": "CAPTAIN GINYU'S BODY SWITCH @ ) P46\nO° 2 1) ME SRE",
+  "stages_text": "7\n4\n6",
+  "error": null
+ }
+}

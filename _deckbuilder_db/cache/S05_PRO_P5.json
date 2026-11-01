@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P5",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P5_Saiyan Enraged.jpg",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P5_Saiyan Enraged.jpg",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Saiyan Enraged",
+  "file_name": "Saiyan Enraged",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 280,
+  "height": 200,
+  "orientation": "landscape",
+  "sha1": "bea63c6435524857b269bbe5fc509c7ab049f2d8"
+ },
+ "vision": {
+  "id": "S05_PRO_P5",
+  "name": "Saiyan Enraged",
+  "sub": null,
+  "type": "Setup",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 2 levels. Rejuvenate the bottom 2 cards of your discard pile. If your MP's power level is higher than your opponent's MP's power level, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; low-quality scan (blurry but readable); promo reprint of S01 S95",
+  "_src": "S05.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 82.3,
+  "header_text": "SAIYAN ENRAGED & P56\nerrr ~ el",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_127",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "127_Namekian Resilience.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/127_Namekian Resilience.png",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Namekian Resilience",
+  "file_name": "Namekian Resilience",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "eafccf29e71a3f424ce0a52f493fc168e1f3bd45"
+ },
+ "vision": {
+  "id": "S05_BST_127",
+  "name": "Namekian Resilience",
+  "sub": null,
+  "type": "Event",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Your Styled attacks deal +2 stages of damage this combat. Banish all non-Styled cards in your discard pile. Banish all non-Styled cards in your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 76.1,
+  "header_text": "NAMEKIAN RESILIENCE R127\n1, an sg iin ec",
+  "stages_text": "4\n4\n,\n,\n,",
+  "error": null
+ }
+}

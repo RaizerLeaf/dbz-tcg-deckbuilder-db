@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S89",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S89_Namekian Focused Beams.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S89_Namekian Focused Beams.png",
+  "prefix": "S",
+  "number": 89,
+  "card_number": "S89",
+  "name_part": "Namekian Focused Beams",
+  "file_name": "Namekian Focused Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "4308909758c00eb426ec75d32cfdbb148dea82cd"
+ },
+ "vision": {
+  "id": "S04_STR_S89",
+  "name": "Namekian Focused Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf this attack is stopped, Banish the bottom 2 cards of your discard pile.\nDAMAGE: 5 life cards.\nHIT: Rejuvenate 3.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S56",
+  "_src": "S04.jsonl:242"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "NAMEKIAN FOCUSED BEAMS () $89\na ~Se“",
+  "stages_text": ",\n2\n,",
+  "error": null
+ }
+}

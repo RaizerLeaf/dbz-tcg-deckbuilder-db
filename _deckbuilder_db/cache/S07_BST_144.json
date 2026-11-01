@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_144",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "144_Heroic Energy Sphere.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/144_Heroic Energy Sphere.png",
+  "prefix": null,
+  "number": 144,
+  "card_number": "144",
+  "name_part": "Heroic Energy Sphere",
+  "file_name": "Heroic Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "baa0601848a6d961740634ec0994612b9663f219"
+ },
+ "vision": {
+  "id": "S07_BST_144",
+  "name": "Heroic Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "UR144",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; reprint of S01 UR163",
+  "_src": "S07.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.5,
+  "header_text": "HEROIC ENERGY SPHERE )UR144\neve eee ee",
+  "stages_text": ",\n,\n,\n\n21,",
+  "error": null
+ }
+}

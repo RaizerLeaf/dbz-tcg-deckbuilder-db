@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_12",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "12_Gohan - Trained.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/12_Gohan - Trained.jpg",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Gohan - Trained",
+  "file_name": "Gohan",
+  "file_subtitle": "Trained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "efd7ca516edf5c80610bef9c08e31c4b870abf62"
+ },
+ "vision": {
+  "id": "S02_BST_12",
+  "name": "Gohan",
+  "sub": "Trained",
+  "type": "Ally",
+  "num": "C12",
+  "lvl": 1,
+  "stages": [
+   65000,
+   60000,
+   55000,
+   50000,
+   40000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Continuous]: Whenever a player raises his anger, change that amount to 1.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads ALLY",
+  "_src": "S02.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 61.5,
+  "header_text": "lL GonHAN soedetee cle\nLEVEL —",
+  "stages_text": "65,000\n60,000\n55,000\n50,000\n40,000\n35,000\n30,000\n25,000\n20,000\n15,000\n\n0",
+  "error": null
+ }
+}

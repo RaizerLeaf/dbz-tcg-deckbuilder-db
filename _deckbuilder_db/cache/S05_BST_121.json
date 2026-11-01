@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_121",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "121_Blue Head Charge.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/121_Blue Head Charge.png",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Blue Head Charge",
+  "file_name": "Blue Head Charge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f37cef4bdd9bb766f3b929db538c56d76874b5e8"
+ },
+ "vision": {
+  "id": "S05_BST_121",
+  "name": "Blue Head Charge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may destroy a Styled Setup you control. If you do, search your discard pile for a Styled Setup and place it into play.\nDAMAGE: 5 stages.\nHIT: If one of your opponent's card effects modified the damage of this attack, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "BLUE HEAD CHARGE ) R121",
+  "stages_text": "4\n55\n3,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_23",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "23_Red Reverse.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/23_Red Reverse.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Reverse",
+  "file_name": "Red Reverse",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "94ba6cf17febd3a8fec68a495e66085e7a0ff11b"
+ },
+ "vision": {
+  "id": "S08_BST_23",
+  "name": "Red Reverse",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(You may only have one \"Red Reverse\" attached. If this card is banished from your Life Deck, attach it to your MP.)\n[Defense] Stops a physical attack.\nYour opponent's MP loses 3 stages. While attached, your Styled energy attacks deal +2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S08.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 87.1,
+  "header_text": "RED REVERSE () C23\nee _.... LA A",
+  "stages_text": "1,\n,",
+  "error": null
+ }
+}

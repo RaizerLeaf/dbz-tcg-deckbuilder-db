@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_56",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "56_Android 18 - Wife.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/56_Android 18 - Wife.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Android 18 - Wife",
+  "file_name": "Android 18",
+  "file_subtitle": "Wife",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ad4bd2f79aa141c23fecdc383fed4c7f0a98882e"
+ },
+ "vision": {
+  "id": "S10_BST_56",
+  "name": "Android 18",
+  "sub": "Wife",
+  "type": "Ally",
+  "num": "U56",
+  "lvl": 1,
+  "stages": [
+   800000,
+   600000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(If Android 18 would leave play and your MP is Krillin, you may shuffle her into your Life Deck instead. If your MP is Krillin or Android 17, you may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops a physical or energy attack. You may choose a card in your discard pile and Rejuvenate it. If you do, shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges E + R",
+  "_src": "S10.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 78.2,
+  "header_text": "1 anprew 18 €)\nLEVEL | WIFE U56",
+  "stages_text": "800,000\n600,000\n400,000\n300,000\n200,000\n100,000\n50,000\n7 20,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

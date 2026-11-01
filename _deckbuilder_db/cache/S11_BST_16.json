@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_16",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "16_Orange Attraction Drill.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/16_Orange Attraction Drill.png",
+  "prefix": null,
+  "number": 16,
+  "card_number": "16",
+  "name_part": "Orange Attraction Drill",
+  "file_name": "Orange Attraction Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "98e39f18a5cb572b7fb2eaa03d88bb2f0db88863"
+ },
+ "vision": {
+  "id": "S11_BST_16",
+  "name": "Orange Attraction Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: [Trait:Earthling]: Use at the start of your Rejuvenation Step. Choose a Styled card in your discard pile and Rejuvenate it.\n[Instant] POWER: Use when an opponent's effect would cause another Styled Drill you control to leave play. That Drill does not leave play. Destroy the top 4 cards of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; number area reads 'PREVIEW U16'; inline icon blue Capsule Corp with E badge (Earthling), confirmed by zoom",
+  "_src": "S11.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 82.4,
+  "header_text": "ORANGE ATTRACTION DRILL Oe\n— SS, 1 I EE 7",
+  "stages_text": null,
+  "error": null
+ }
+}

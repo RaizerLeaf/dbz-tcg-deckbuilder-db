@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_76",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "76_Top - Off Duty.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/76_Top - Off Duty.png",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Top - Off Duty",
+  "file_name": "Top",
+  "file_subtitle": "Off Duty",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4ddfcd922de489a65a153664dba071ad1ce81079"
+ },
+ "vision": {
+  "id": "S19_BST_76",
+  "name": "Top",
+  "sub": "Off Duty",
+  "type": "Main Personality",
+  "num": "S76",
+  "lvl": 4,
+  "stages": [
+   270000000,
+   99999999,
+   70000000,
+   9999000,
+   1470000,
+   999000,
+   770000,
+   499000,
+   270000,
+   99000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages and gain \"HIT: Search your discard pile for a card and Rejuvenate it.\"\nPOWER: [Attack] Physical attack.\nFocused. Search your Life Deck for a card that can attach to a personality and place it into play attached.\nDAMAGE: 6 stages.\nHIT: Banish an opponent's Setup, Drill, or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge A (purple)",
+  "_src": "S19.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.849,
+  "lower_conf": 81.9,
+  "header_text": "TOP",
+  "stages_text": "270,000,000\n99,999,000\n70,000,000\n9,999,000\n1,470,000\n999,000\n770,000\n499,000\n270,000\n99,000\n\n0",
+  "error": null
+ }
+}

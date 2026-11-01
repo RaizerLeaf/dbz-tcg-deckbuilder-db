@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_80",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "80_Krillin - Z-Warrior.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/80_Krillin - Z-Warrior.png",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Krillin - Z-Warrior",
+  "file_name": "Krillin",
+  "file_subtitle": "Z-Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c47c13854bc0de9b808587758c77b6f75d3b3069"
+ },
+ "vision": {
+  "id": "S10_BST_80",
+  "name": "Krillin",
+  "sub": "Z-Warrior",
+  "type": "Main Personality",
+  "num": "S80",
+  "lvl": 3,
+  "stages": [
+   750000,
+   675000,
+   600000,
+   500000,
+   350000,
+   250000,
+   100000,
+   50000,
+   15000,
+   7000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1.\nPOWER: [Attack] Energy attack costing 2 stages.\nSearch your Life Deck for a Styled Setup or Styled Drill and place it into play.\nDAMAGE: 5 life cards.\nHIT: Rejuvenate 3. Choose 3 cards in your opponent's discard pile and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; same as S14 P12 (promo has FanZ phrasing 'Banish 3 cards from your opponent's discard pile')",
+  "_src": "S10.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.894,
+  "lower_conf": 75.5,
+  "header_text": "KRILLIN",
+  "stages_text": ", 750,000\n675,000\n600,000\n500,000\n\n350,000\n\n250,000\n\n100,000\n\n50,000\n15,000\n7,000\n0",
+  "error": null
+ }
+}

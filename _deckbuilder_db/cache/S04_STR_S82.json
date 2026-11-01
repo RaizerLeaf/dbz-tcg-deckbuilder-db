@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S82",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S82_Namekian Concentration.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S82_Namekian Concentration.png",
+  "prefix": "S",
+  "number": 82,
+  "card_number": "S82",
+  "name_part": "Namekian Concentration",
+  "file_name": "Namekian Concentration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "3ec0f51cf90758ea2d0a7b6988e6c2331ea6260d"
+ },
+ "vision": {
+  "id": "S04_STR_S82",
+  "name": "Namekian Concentration",
+  "sub": null,
+  "type": "Setup",
+  "num": "S82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use at the beginning of your Rejuvenation Step if you did not declare combat. Rejuvenate 4.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S33; landscape layout",
+  "_src": "S04.jsonl:235"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "ah) ——— 7 Or",
+  "stages_text": null,
+  "error": null
+ }
+}

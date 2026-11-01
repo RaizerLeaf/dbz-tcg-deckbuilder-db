@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S09_BST_09",
+  "set_number": 9,
+  "set_name": "Legends",
+  "set_code": "S09",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "09_Set 9 (Legends)/Legends",
+  "filename": "09_Blue Getaway.png",
+  "rel_path": "09_Set 9 (Legends)/Legends/09_Blue Getaway.png",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Blue Getaway",
+  "file_name": "Blue Getaway",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d59d55b960dfd6af8e5378bcbe1926fa647584ae"
+ },
+ "vision": {
+  "id": "S09_BST_09",
+  "name": "Blue Getaway",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\n[Defense] Prevent all damage from an energy attack.\nIf you use a Styled Setup in your next action, your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S09.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 0.963,
+  "lower_conf": 88.3,
+  "header_text": "BLUE GETAWAY ) co",
+  "stages_text": "4\n2\n7\n4\n,\n,",
+  "error": null
+ }
+}

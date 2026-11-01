@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_91",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "91_Orange Crying Drill.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/91_Orange Crying Drill.png",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Orange Crying Drill",
+  "file_name": "Orange Crying Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "9b8b08a5371601a567ca52dee8a530c0f7813f0e"
+ },
+ "vision": {
+  "id": "S07_BST_91",
+  "name": "Orange Crying Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may shuffle this Drill from play into its owner's Life Deck as an action. If you do, your MP gains 3 stages.)\nPOWER: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S07.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "ORANGE CRYING DRILL © 1311",
+  "stages_text": null,
+  "error": null
+ }
+}

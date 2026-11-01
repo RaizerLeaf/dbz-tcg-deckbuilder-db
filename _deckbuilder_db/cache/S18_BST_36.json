@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_36",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "36_Zamasu's Instant Severance.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/36_Zamasu's Instant Severance.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Zamasu's Instant Severance",
+  "file_name": "Zamasu's Instant Severance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b9465ebe7fe8d41f5e207135048dab28301aca85"
+ },
+ "vision": {
+  "id": "S18_BST_36",
+  "name": "Zamasu's Instant Severance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nFocused. Use a critical damage effect.\nDAMAGE 4 life cards.\nHIT: Raise or lower a player's anger 1. Your opponent's next attack this combat deals no damage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; possessive title -> Named; 'DAMAGE 4 life cards.' printed without a colon; no Endurance badge",
+  "_src": "S18.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.8,
+  "header_text": "ZAMASU'S INSTANT SEVERANCE @ ) R36",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

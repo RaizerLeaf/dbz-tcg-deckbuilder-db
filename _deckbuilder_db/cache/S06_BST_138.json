@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_138",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "138_Broly's Face Crusher.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/138_Broly's Face Crusher.jpg",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Broly's Face Crusher",
+  "file_name": "Broly's Face Crusher",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "1fd68155c223f24e637ef32d2e33e2c1a834b5fe"
+ },
+ "vision": {
+  "id": "S06_BST_138",
+  "name": "Broly's Face Crusher",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 10.\n[Attack] Physical attack.\nDamage from this attack cannot be modified. Reveal the top 3 cards of your Life Deck. You may place a Styled physical attack card revealed into your hand. Place the remaining cards at the bottom of your Life Deck in any order.\nDAMAGE: AT life cards.\nHIT: Raise your anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; Endurance 10 as printed",
+  "_src": "S06.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 88.6,
+  "header_text": "BROLY'S FACE CRUSHER ©) R138",
+  "stages_text": "347\n,\n,",
+  "error": null
+ }
+}

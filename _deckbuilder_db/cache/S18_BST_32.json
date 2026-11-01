@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_32",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "32_Villainous Vile Blast.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/32_Villainous Vile Blast.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Villainous Vile Blast",
+  "file_name": "Villainous Vile Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bdffaeaabe95019be4ed462654c1ac67abc8055b"
+ },
+ "vision": {
+  "id": "S18_BST_32",
+  "name": "Villainous Vile Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 2 per deck.)\n[Attack] 1: Energy attack.\nLower your opponent's anger 1. Your opponent skips their next action this combat. For the remainder of combat, life card damage from attacks is banished.\nDAMAGE: 3 life cards.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '1:'; no Endurance badge (zoomed)",
+  "_src": "S18.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "VILLAINOUS VILE BLAST € )UR32|\n~~ fife",
+  "stages_text": "7 7\n, 7\n\n4\n\n,\n\n,",
+  "error": null
+ }
+}

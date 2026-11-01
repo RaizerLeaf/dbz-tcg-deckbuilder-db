@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_44",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "44_Red Saving Drill.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/44_Red Saving Drill.jpg",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Saving Drill",
+  "file_name": "Red Saving Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e2cfab3e6e916d27ca7ded496feeaab2084729c6"
+ },
+ "vision": {
+  "id": "S03_BST_44",
+  "name": "Red Saving Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Continuous]: When you are changing levels, you may banish this Drill. If you do, your other Drills are not discarded.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.6,
+  "header_text": "(RED SAVING DRILL (==",
+  "stages_text": ", 4\n4\n1",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_84",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "84_Blue Challenging Strike.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/84_Blue Challenging Strike.png",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Blue Challenging Strike",
+  "file_name": "Blue Challenging Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "d13041dbebc03ed968d017aad4a6010cc3a64cc0"
+ },
+ "vision": {
+  "id": "S05_BST_84",
+  "name": "Blue Challenging Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nUntil the end of your next turn, your effects that destroy cards from the top of your opponent's Life Deck are increased by 1.\nDAMAGE: 1 life card.\nHIT: You may place a Setup from your hand into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "BLUE CHALLENGING STRIKE @) U84\nTV eee",
+  "stages_text": ",\n,\n,\n347\n\n1,",
+  "error": null
+ }
+}

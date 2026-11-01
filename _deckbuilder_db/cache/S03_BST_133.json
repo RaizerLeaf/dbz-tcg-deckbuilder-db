@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_133",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "133_Turles Fruit.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/133_Turles Fruit.jpg",
+  "prefix": null,
+  "number": 133,
+  "card_number": "133",
+  "name_part": "Turles Fruit",
+  "file_name": "Turles Fruit",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5ab3ab187e70988d4bb9e7427821920b527752ad"
+ },
+ "vision": {
+  "id": "S03_BST_133",
+  "name": "Turles' Fruit",
+  "sub": null,
+  "type": "Setup",
+  "num": "R133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card. You may only use one Turles' Fruit per turn.) [Instant] POWER: Use at the start of your Planning Step. You cannot declare combat this turn. Raise your anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; filename 'Turles Fruit' lacks the apostrophe",
+  "_src": "S03.jsonl:133"
+ },
+ "ocr": {
+  "agreement": 0.974,
+  "lower_conf": 73.2,
+  "header_text": "SL\n7: TURLES' FRUIT 9 eschs: () A133",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

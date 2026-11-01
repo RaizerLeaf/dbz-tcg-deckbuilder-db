@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S15_PRO_P15",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)",
+  "filename": "P15_Orange Combative Mastery.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3 (Promos)/P15_Orange Combative Mastery.png",
+  "prefix": "P",
+  "number": 15,
+  "card_number": "P15",
+  "name_part": "Orange Combative Mastery",
+  "file_name": "Orange Combative Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "81be64f2a372ef1feaea6384d4b491714e8b437c"
+ },
+ "vision": {
+  "id": "S15_PRO_P15",
+  "name": "Orange Combative Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -1 stage. Your Styled energy attacks gain \"HIT: Prevent 3 stages and 3 life cards of damage from your opponent's attacks in their next action this combat.\"\nPOWER: Gain 2 stages. Choose a card in your discard pile and Rejuvenate it. If that card is a Styled Drill, you may place it into play instead.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; P number printed; title read from a crop of the original",
+  "_src": "S15.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.9,
+  "header_text": ">» . \\ NY ie YY i , = 7 i",
+  "stages_text": "15\n11,\n1",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_54",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "54_Saiyan Intercept.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/54_Saiyan Intercept.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Saiyan Intercept",
+  "file_name": "Saiyan Intercept",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f6bebc6eed58bffb69db5e0fff2b39d8eb315702"
+ },
+ "vision": {
+  "id": "S07_BST_54",
+  "name": "Saiyan Intercept",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack.\nRaise your anger 1 level or gain 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "SAIYAN INTERCEPT C) C54\n—-— © 9",
+  "stages_text": "3\n,\n4\n5,",
+  "error": null
+ }
+}

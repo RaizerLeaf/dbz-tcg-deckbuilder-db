@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P3",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P3_Orange Hiding Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P3_Orange Hiding Drill.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Orange Hiding Drill",
+  "file_name": "Orange Hiding Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "032cb5bad7492fe7b7874f1edda648fc2d8253d2"
+ },
+ "vision": {
+  "id": "S05_PRO_P3",
+  "name": "Orange Hiding Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; promo reprint of S01 S101",
+  "_src": "S05.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.8,
+  "header_text": "ORANGE HIDING DRILL () P3",
+  "stages_text": null,
+  "error": null
+ }
+}

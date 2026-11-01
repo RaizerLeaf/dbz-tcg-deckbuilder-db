@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_106",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "106_Android 16's Rocket Punch.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/106_Android 16's Rocket Punch.png",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Android 16's Rocket Punch",
+  "file_name": "Android 16's Rocket Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "e5be23a704f44fd56323ecf8d4114619e234f35d"
+ },
+ "vision": {
+  "id": "S05_BST_106",
+  "name": "Android 16's Rocket Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You must banish a card from your hand to play this card.)\n[Attack] Physical attack.\nYou may search your Life Deck for an Alignment-restricted card and place it into your hand.\nDAMAGE: AT life cards.\nHIT: This attack stays in play to be used a second time this combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S05.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "ANDROID 16'S ROCKET PUNCH @© ) R106.\n= “eee ht) —",
+  "stages_text": "",
+  "error": null
+ }
+}

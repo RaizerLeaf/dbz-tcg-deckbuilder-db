@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_08",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "08_Black Easy Block.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/08_Black Easy Block.png",
+  "prefix": null,
+  "number": 8,
+  "card_number": "08",
+  "name_part": "Black Easy Block",
+  "file_name": "Black Easy Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "db75ba2536de8c391c2a0ff116f095140de5df38"
+ },
+ "vision": {
+  "id": "S05_BST_08",
+  "name": "Black Easy Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Defense] Stops a physical attack.\nLower your opponent's anger 1 level. All of your attacks are considered Styled this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S05.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 68.2,
+  "header_text": "BLACK EASY BLOCK C) C8",
+  "stages_text": "7\n40\n,\n,\n,",
+  "error": null
+ }
+}

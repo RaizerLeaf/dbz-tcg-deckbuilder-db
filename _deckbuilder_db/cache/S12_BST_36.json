@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_36",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "36_Bojack's Galactic Buster.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/36_Bojack's Galactic Buster.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Bojack's Galactic Buster",
+  "file_name": "Bojack's Galactic Buster",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fa4e6f58292295b9ba4347fae30f82082882f0d"
+ },
+ "vision": {
+  "id": "S12_BST_36",
+  "name": "Bojack's Galactic Buster",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nThis attack can only be stopped by an Energy Combat card. You may destroy a Setup or Ally to raise your anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Advance or lower your opponent's MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S12.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "BOJACK'S GALACTIC BUSTER @ ) R36 |\ngw Sl ll",
+  "stages_text": "8\n1\n\n,\n\n,\n\n,",
+  "error": null
+ }
+}

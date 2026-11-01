@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_PRO_P16",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
+  "filename": "P16_I'll Dig Your Grave!.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P16_I'll Dig Your Grave!.png",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "I'll Dig Your Grave!",
+  "file_name": "I'll Dig Your Grave!",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2dcea4e61be70604f988066a40137a612307e7e0"
+ },
+ "vision": {
+  "id": "S07_PRO_P16",
+  "name": "I'll Dig Your Grave!",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a personality level with this card.)\n[Attack] Physical attack.\nDamage from your attacks cannot be prevented this combat.\nDAMAGE: 6 stages.\nHIT: You may advance your MP 1 level. If you do, advance your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo reprint of S03 UR141 (released printing)",
+  "_src": "S07.jsonl:209"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "I'LL DIG YOUR GRAVE! ) PIG\n———< LT ae hl CU!",
+  "stages_text": "4\n7\n\n2\n\n2\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_20",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "20_Namekian Cleansing Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/20_Namekian Cleansing Drill.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Namekian Cleansing Drill",
+  "file_name": "Namekian Cleansing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "4b886576cffa726136e89a37858828713a79ddfa"
+ },
+ "vision": {
+  "id": "S04_BST_20",
+  "name": "Namekian Cleansing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you would draw a card from a card effect, you may draw from the bottom of your Life Deck instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S04.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "Te \\ os\nha Oo (2 a",
+  "stages_text": null,
+  "error": null
+ }
+}

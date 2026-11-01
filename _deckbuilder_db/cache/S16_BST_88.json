@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_88",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "88_Krillin - Family Man.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/88_Krillin - Family Man.png",
+  "prefix": null,
+  "number": 88,
+  "card_number": "88",
+  "name_part": "Krillin - Family Man",
+  "file_name": "Krillin",
+  "file_subtitle": "Family Man",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a0404a07681286b20c2f29e60aad37cd0cb2eae9"
+ },
+ "vision": {
+  "id": "S16_BST_88",
+  "name": "Krillin",
+  "sub": "Family Man",
+  "type": "Main Personality",
+  "num": "S88",
+  "lvl": 1,
+  "stages": [
+   300000,
+   215000,
+   133000,
+   94000,
+   69000,
+   52000,
+   35000,
+   18000,
+   7000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Defense] POWER: Play an energy attack from your hand to prevent all damage from an attack.\nRaise your anger 2. If you played a Styled card, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge E (blue)",
+  "_src": "S16.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "KRILLIN",
+  "stages_text": "300,000\n215,000\n133,000\n94,000\n\n5 69,000\n52,000\n35,000\n18,000\n7,000\n\n2,000\n0",
+  "error": null
+ }
+}

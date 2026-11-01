@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_127",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "127_Saiyan Lob.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/127_Saiyan Lob.jpg",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Saiyan Lob",
+  "file_name": "Saiyan Lob",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "79fbeb68dd355a409b81be443db8bd70475eac1e"
+ },
+ "vision": {
+  "id": "S06_BST_127",
+  "name": "Saiyan Lob",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages.\nThe next energy attack you perform this combat is considered Styled.\nDAMAGE: 6 life cards.\nHIT: The next attack you perform this combat can only be stopped by Physical Combat or Energy Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "SAIYAN LOB R127\nif =s_ 7 ee. = , \"iw 7 — sae = ee |\n> ta",
+  "stages_text": ", ,\n,\n,",
+  "error": null
+ }
+}

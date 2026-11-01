@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_PRO_P5",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "filename": "P5_Orange Crashing Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P5_Orange Crashing Drill.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Orange Crashing Drill",
+  "file_name": "Orange Crashing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "0cc96ad5ba7653d445da58295fe9d17b77e0dc00"
+ },
+ "vision": {
+  "id": "S04_PRO_P5",
+  "name": "Orange Crashing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; prints '(Most Recent Printing)' at the end of the text box (MRP reprint). 'is entering' vs S02 C40 'enters'",
+  "_src": "S04.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 0.949,
+  "lower_conf": 77.8,
+  "header_text": "— i , =) 2\n\\amr Epo ne",
+  "stages_text": null,
+  "error": null
+ }
+}

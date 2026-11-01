@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P8",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P8_Devastating Blow.png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P8_Devastating Blow.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Devastating Blow",
+  "file_name": "Devastating Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1500,
+  "height": 2100,
+  "orientation": "portrait",
+  "sha1": "995e2200621528fb9419b80dc717bfc8ba13af3c"
+ },
+ "vision": {
+  "id": "S03_PRO_P8",
+  "name": "Devastating Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Physical attack. DAMAGE: AT +1 stage. Raise your anger 1 level. Lower your opponent's anger 2 levels. Choose 3 cards in your opponent's discard pile and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo reprint of S01 U110 but this printing has NO attack icon before 'Physical attack'",
+  "_src": "S03.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.4,
+  "header_text": "i | DEVASTATING BLOW GD) Bess",
+  "stages_text": "",
+  "error": null
+ }
+}

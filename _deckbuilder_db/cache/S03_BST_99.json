@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_99",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "99_Saiyan Lunge.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/99_Saiyan Lunge.jpg",
+  "prefix": null,
+  "number": 99,
+  "card_number": "99",
+  "name_part": "Saiyan Lunge",
+  "file_name": "Saiyan Lunge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5fa49fa68b105f5901dbd37146693c5e74f460c6"
+ },
+ "vision": {
+  "id": "S03_BST_99",
+  "name": "Saiyan Lunge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 4 stages. For the remainder of combat, life card damage from your attacks is banished.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.2,
+  "header_text": "Garvan wunce Que\nIs Y i",
+  "stages_text": "4 7\n0\n\n4\n,",
+  "error": null
+ }
+}

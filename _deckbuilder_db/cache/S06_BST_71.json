@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_71",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "71_Cooler - Menace.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/71_Cooler - Menace.jpg",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Cooler - Menace",
+  "file_name": "Cooler",
+  "file_subtitle": "Menace",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "3ba10cd40bdbbdde487e85279d417dfdc1a9fcf3"
+ },
+ "vision": {
+  "id": "S06_BST_71",
+  "name": "Cooler",
+  "sub": "Menace",
+  "type": "Main Personality",
+  "num": "U71",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "(When you reach this level, search your Banished Zone for a card and Rejuvenate it.)\n[Continuous]: After taking damage from an attack, Rejuvenate 1.\nPOWER: [Attack] Energy attack costing 2 stages.\nRejuvenate 3.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.9,
+  "header_text": "S&S coo_er\nLEVEL MENACE",
+  "stages_text": "1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000\n25,000\n12,500\n0",
+  "error": null
+ }
+}

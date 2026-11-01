@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S15_BST_43",
+  "set_number": 15,
+  "set_name": "Movie Collection 3",
+  "set_code": "S15",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "15_Set 15 (Movie Collection 3)/Movie Collection 3",
+  "filename": "43_Hirudegarn - Lower Half.png",
+  "rel_path": "15_Set 15 (Movie Collection 3)/Movie Collection 3/43_Hirudegarn - Lower Half.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Hirudegarn - Lower Half",
+  "file_name": "Hirudegarn",
+  "file_subtitle": "Lower Half",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "aff330d61a05b228160b9a4133356b946cf6647e"
+ },
+ "vision": {
+  "id": "S15_BST_43",
+  "name": "Hirudegarn",
+  "sub": "Lower Half",
+  "type": "Main Personality",
+  "num": "S43",
+  "lvl": 1,
+  "stages": [
+   650000,
+   500000,
+   350000,
+   200000,
+   95000,
+   50000,
+   15000,
+   8000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "God",
+   "Alien"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDestroy a Setup.\nDAMAGE: 3 stages.\nHIT: Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP; Trait badges G, A",
+  "_src": "S15.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "L HIRUDEGARN\nLEVEL LOWER HALF () $43",
+  "stages_text": "650,000\n500,000\n350,000\n200,000\n95,000\n50,000\n15,000\n8,000\n\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

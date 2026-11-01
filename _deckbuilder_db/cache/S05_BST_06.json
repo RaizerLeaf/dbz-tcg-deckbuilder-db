@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_06",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "06_Black Obstructing Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/06_Black Obstructing Drill.png",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Black Obstructing Drill",
+  "file_name": "Black Obstructing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "f139995381d10ed299a496490a24314d9f20fa15"
+ },
+ "vision": {
+  "id": "S05_BST_06",
+  "name": "Black Obstructing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C6",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Continuous]: Allies with [Continuous] Powers lose all effects.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 0.75,
+  "lower_conf": 67.1,
+  "header_text": "BLACK OBSTRUCTING DRILL @",
+  "stages_text": null,
+  "error": null
+ }
+}

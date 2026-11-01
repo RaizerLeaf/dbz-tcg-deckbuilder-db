@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P7",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P7_Vegeta - Pissed.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P7_Vegeta - Pissed.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Vegeta - Pissed",
+  "file_name": "Vegeta",
+  "file_subtitle": "Pissed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "77e52f25cdeb78f166305adc7b60ac01cdb6041a"
+ },
+ "vision": {
+  "id": "S16_PRO_P7",
+  "name": "Vegeta",
+  "sub": "Pissed",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   14750000,
+   9200000,
+   4550000,
+   1300000,
+   1000000,
+   750000,
+   370000,
+   220000,
+   85000,
+   43000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(When you reach this level, shuffle up to 3 cards with \"anger\" in the text-box from your discard pile into your Life Deck.)\n[Continuous]: Your attacks deal +2 stages.\nPOWER: Search your discard pile for a [Attack] card with \"anger\" in the text-box and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badge S (green); stats and text compared against S16_BST_98 on the sheet, identical",
+  "_src": "S16.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 81.1,
+  "header_text": "VEGETA\n3 PISSED y -7 )\n\\ LEVEL § =e as 7 . a=\nSER NV IV AZ MAL eee, ea, yn ANN",
+  "stages_text": "14,750,000\n9,200,000\n4,550,000\n1,300,000\n1,000,000\n\n7 750,000\n370,000\n220,000\n85,000\n43,000\n\n0",
+  "error": null
+ }
+}

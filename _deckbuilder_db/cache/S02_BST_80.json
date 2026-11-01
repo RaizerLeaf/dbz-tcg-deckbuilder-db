@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_80",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "80_Blue Face Crunch.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/80_Blue Face Crunch.jpg",
+  "prefix": null,
+  "number": 80,
+  "card_number": "80",
+  "name_part": "Blue Face Crunch",
+  "file_name": "Blue Face Crunch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8658d0607ae7ed91806a4880f290eeb1b985dc85"
+ },
+ "vision": {
+  "id": "S02_BST_80",
+  "name": "Blue Face Crunch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +5 stages. Gain 3 stages. Look at your opponent's hand.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S02.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.6,
+  "header_text": "BLUE FACE CRUNG EA () USO\nRon JN",
+  "stages_text": "2\n,\n45,",
+  "error": null
+ }
+}

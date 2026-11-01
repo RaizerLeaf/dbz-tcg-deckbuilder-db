@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_04",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "04_Black Explosion.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/04_Black Explosion.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Explosion",
+  "file_name": "Black Explosion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "590bffac17b1a7ab6abf26e4d558a90cbd96685b"
+ },
+ "vision": {
+  "id": "S04_BST_04",
+  "name": "Black Explosion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack.\nIf this attack is stopped, use a critical damage effect.\nDAMAGE: 1 life card.\nHIT: Choose a card from your opponent's Banished Zone and place it on top of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "BLACK EXPLOSION () C4\nee ee",
+  "stages_text": "4 ,\n,",
+  "error": null
+ }
+}

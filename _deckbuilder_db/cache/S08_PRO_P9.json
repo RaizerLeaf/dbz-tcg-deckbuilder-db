@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P9",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P9_Pikkon - Hero of the West.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P9_Pikkon - Hero of the West.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Pikkon - Hero of the West",
+  "file_name": "Pikkon",
+  "file_subtitle": "Hero of the West",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "74a72bb9a6958a832ef70873c62ccb06d5d827e9"
+ },
+ "vision": {
+  "id": "S08_PRO_P9",
+  "name": "Pikkon",
+  "sub": "Hero of the West",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   15000,
+   9000,
+   3000,
+   1500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Instant] POWER: Use when an Event is played as an action. Banish the top card of your Life Deck to cancel the effects of that card.\nPOWER: [Attack] Energy attack.\nSearch your discard pile for a card and Rejuvenate it.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S49; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.5,
+  "header_text": "— — =e Y=\nSO) PIKKON >9S\n\\ HERO OF THE WEST oa 3 )\nLEVEL [oo a\n—— g OL, y*\nON SS PRC’ al nNN NNN",
+  "stages_text": "1,000,000\n800,000\n600,000\n400,000\n\n5 200,000\n100,000\n15,000\n\n9,000\n, 3,000\n1,500",
+  "error": null
+ }
+}

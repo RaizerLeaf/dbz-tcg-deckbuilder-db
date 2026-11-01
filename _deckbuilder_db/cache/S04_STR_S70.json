@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S70",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S70_Blue Crouch.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S70_Blue Crouch.png",
+  "prefix": "S",
+  "number": 70,
+  "card_number": "S70",
+  "name_part": "Blue Crouch",
+  "file_name": "Blue Crouch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "a59a9786b8a871d7bd6ea3afec2ccd1eca1cf1df"
+ },
+ "vision": {
+  "id": "S04_STR_S70",
+  "name": "Blue Crouch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S70",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops a physical attack.\nIf your MP's power level is lower than your opponent's MP's power level, place this card on top of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S143",
+  "_src": "S04.jsonl:223"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 70.3,
+  "header_text": "BLUE CROUCH () $70\n“4 ia , 2. me 4",
+  "stages_text": "7\n\n4\n,\n\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_77",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "77_Cell Jr. - Escaping.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/77_Cell Jr. - Escaping.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Cell Jr. - Escaping",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Escaping",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "47218a91ae3c17a85b4b79710c83f1d7792683d7"
+ },
+ "vision": {
+  "id": "S07_BST_77",
+  "name": "Cell Jr.",
+  "sub": "Escaping",
+  "type": "Ally",
+  "num": "U77",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 0,
+  "align": "Villain",
+  "traits": [],
+  "text": "(This personality cannot gain stages.)\n[Continuous]: When this card is leaving play, you may banish it to destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; PUR printed 0",
+  "_src": "S07.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.8,
+  "header_text": "1 ES IR.\nLEVEL | ESCAPING €) U7T",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n7 50,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

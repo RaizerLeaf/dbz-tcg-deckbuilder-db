@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_30",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "30_Namekian Reinforced Defense.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/30_Namekian Reinforced Defense.jpg",
+  "prefix": null,
+  "number": 30,
+  "card_number": "30",
+  "name_part": "Namekian Reinforced Defense",
+  "file_name": "Namekian Reinforced Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "ca88fbfe2bec01b169a51bb09e5e842bd62c4e32"
+ },
+ "vision": {
+  "id": "S03_BST_30",
+  "name": "Namekian Reinforced Defense",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Defense] Stops an energy attack. Attach to your MP. While attached, whenever you perform an attack you may choose for that attack to deal its life card damage as power stages of damage instead. Banish this card when your opponent uses a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:30"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "( NAMEKIAN REINFORCED.-DEFENSE (=",
+  "stages_text": "4\n7",
+  "error": null
+ }
+}

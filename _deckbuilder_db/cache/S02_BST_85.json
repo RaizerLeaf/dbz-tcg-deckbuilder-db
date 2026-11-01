@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_85",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "85_Orange Catch.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/85_Orange Catch.jpg",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Orange Catch",
+  "file_name": "Orange Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "399c24114277a9a47c0d6c93f1963f3ecdad781a"
+ },
+ "vision": {
+  "id": "S02_BST_85",
+  "name": "Orange Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. You may discard a Styled Drill from your hand. If you do, raise your anger 2 levels and lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.8,
+  "header_text": "ORANGE CATCH ese: () ues",
+  "stages_text": "7\n,,",
+  "error": null
+ }
+}

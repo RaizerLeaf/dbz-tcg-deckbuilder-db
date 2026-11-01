@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_20",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "20_Blue Rehabilitation.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/20_Blue Rehabilitation.jpg",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Blue Rehabilitation",
+  "file_name": "Blue Rehabilitation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5054073820c377c3e60d413a5cf39a6bee7810c7"
+ },
+ "vision": {
+  "id": "S06_BST_20",
+  "name": "Blue Rehabilitation",
+  "sub": null,
+  "type": "Event",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\nPOWER: If you control less Drills than your opponent, search your Life Deck for a Drill and place it into play. If you control more Drills than your opponent, Rejuvenate 2. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 0.952,
+  "lower_conf": 82.1,
+  "header_text": "BLUE REHABILITATION : ) 20 |\n——————— ll",
+  "stages_text": "4\n,\n6\n,\n\n,",
+  "error": null
+ }
+}

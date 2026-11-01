@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_113",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "113_Orange Accumulated Burst.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/113_Orange Accumulated Burst.png",
+  "prefix": null,
+  "number": 113,
+  "card_number": "113",
+  "name_part": "Orange Accumulated Burst",
+  "file_name": "Orange Accumulated Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "43283f7310017d25809f7044e70723a81574da3b"
+ },
+ "vision": {
+  "id": "S04_BST_113",
+  "name": "Orange Accumulated Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages.\nDamage from this attack cannot be prevented.\nDAMAGE: 6 life cards.\nHIT: Banish 2 Allies.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.0,
+  "header_text": "GANA OVS FUNNY NEE NY RST,\nORANGE ACCUMULATED BURST () R113\nTTT INN SS oF GF “TRY ty f, ara ae\na: <  \\ me’, Gate. ea 6G",
+  "stages_text": "4\n,\n,\n,\n,",
+  "error": null
+ }
+}

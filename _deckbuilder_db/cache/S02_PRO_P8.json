@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P8",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P8_Black Enraged Assault.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P8_Black Enraged Assault.jpg",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Black Enraged Assault",
+  "file_name": "Black Enraged Assault",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5a8c2a7d31ec8c6fe28410c4be974a9d3a4a4fa6"
+ },
+ "vision": {
+  "id": "S02_PRO_P8",
+  "name": "Black Enraged Assault",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P8",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: 3 stages +3 life cards. HIT: Choose a card in your opponent's Banished Zone. Search your opponent's Life Deck for all copies of that card and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R103; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.0,
+  "header_text": "(BLACK ENRAGED ASSAULT ( )-",
+  "stages_text": "2",
+  "error": null
+ }
+}

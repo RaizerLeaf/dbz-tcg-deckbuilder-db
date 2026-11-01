@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P41",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P41_I'll Dig Your Grave!.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P41_I'll Dig Your Grave!.png",
+  "prefix": "P",
+  "number": 41,
+  "card_number": "P41",
+  "name_part": "I'll Dig Your Grave!",
+  "file_name": "I'll Dig Your Grave!",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4b81755f4ca683a455678cf3b71af89ddfaa863a"
+ },
+ "vision": {
+  "id": "S16_PRO_P41",
+  "name": "I'll Dig Your Grave!",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a personality level with this card.)\n[Attack] Physical attack.\nYour attacks are Unpreventable this combat.\nDAMAGE: 6 stages.\nHIT: You may advance your MP 1 level. If you do, advance your opponent's MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; this card prints '!' in the title (compare S09 PRO_P5 'I'll Dig Your Grave'); no Endurance badge",
+  "_src": "S16.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "I'LL DIG YOUR GRAVE! () P41\n7 M\\ i | VIF]",
+  "stages_text": ",\n\n1\n\n37\n\n,\n,",
+  "error": null
+ }
+}

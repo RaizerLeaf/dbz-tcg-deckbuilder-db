@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_77",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "77_Vegito - Final Gambit.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/77_Vegito - Final Gambit.png",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Vegito - Final Gambit",
+  "file_name": "Vegito",
+  "file_subtitle": "Final Gambit",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c8feeb75227d2c78c2eec8e07a46bf38299868b0"
+ },
+ "vision": {
+  "id": "S19_BST_77",
+  "name": "Vegito",
+  "sub": "Final Gambit",
+  "type": "Main Personality",
+  "num": "S77",
+  "lvl": 1,
+  "stages": [
+   120000000,
+   45000000,
+   1380000,
+   999000,
+   734000,
+   370000,
+   215000,
+   67000,
+   42000,
+   8000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Saiyan",
+   "Earthling",
+   "Fusion"
+  ],
+  "text": "[Instant] POWER: Use when you perform an attack that does not have AT base damage. You may choose for that attack to deal its life card damage as stages instead or vice versa.\nPOWER: [Attack] Physical attack.\nRaise your anger 2.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badges S (green), E (blue), F (grey starburst)",
+  "_src": "S19.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "VEGITO",
+  "stages_text": "120,000,000\n45,000,000\n1,380,000\n999,000\n734,000\n370,000\n215,000\n67,000\n42,000\n8,000\n\n0",
+  "error": null
+ }
+}

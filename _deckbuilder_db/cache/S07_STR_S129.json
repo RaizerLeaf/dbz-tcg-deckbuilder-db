@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S129",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S129_Black Hug Maneuver.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S129_Black Hug Maneuver.png",
+  "prefix": "S",
+  "number": 129,
+  "card_number": "S129",
+  "name_part": "Black Hug Maneuver",
+  "file_name": "Black Hug Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "61453e6e427ebe1c6c3f9cd66a28e57180e331bf"
+ },
+ "vision": {
+  "id": "S07_STR_S129",
+  "name": "Black Hug Maneuver",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT stages. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_16; text compared on the sheet",
+  "_src": "S07.jsonl:312"
+ },
+ "ocr": {
+  "agreement": 0.583,
+  "lower_conf": 75.6,
+  "header_text": "BLACK HUG MANEUVER ~ ) $129 |\nDll eee",
+  "stages_text": "4\n4",
+  "error": null
+ }
+}

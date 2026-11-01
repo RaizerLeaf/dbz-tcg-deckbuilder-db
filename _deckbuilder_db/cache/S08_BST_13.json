@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_13",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "13_Namekian Chase.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/13_Namekian Chase.png",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Namekian Chase",
+  "file_name": "Namekian Chase",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "864f98df9891a40d7fda19b639c445a946da7beb"
+ },
+ "vision": {
+  "id": "S08_BST_13",
+  "name": "Namekian Chase",
+  "sub": null,
+  "type": "Event",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nLower your opponent's anger 2 levels. You may shuffle a Dragon Ball in play back into its owner's Life Deck to search your Life Deck for a Dragon Ball and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "no 'POWER:' label printed",
+  "_src": "S08.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 83.4,
+  "header_text": "NAMEKIAN CHASE C) C13",
+  "stages_text": ",\n,\n7\n2",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_56",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "56_Frieza - Resident of HFIL.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/56_Frieza - Resident of HFIL.png",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Frieza - Resident of HFIL",
+  "file_name": "Frieza",
+  "file_subtitle": "Resident of HFIL",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "48815866db3ed904cbad9123fc4ae3afa1cf0530"
+ },
+ "vision": {
+  "id": "S08_BST_56",
+  "name": "Frieza",
+  "sub": "Resident of HFIL",
+  "type": "Main Personality",
+  "num": "S56",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   800000,
+   650000,
+   400000,
+   200000,
+   150000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(You cannot win by MPPV if you advance a personality level with this [Instant] Power.)\n[Continuous]: Your first successful attack each combat gains \"HIT: Destroy an opponent's Ally and raise your anger 1 level.\"\n[Instant] POWER: Use when entering combat. Search your Life Deck for 7 Named cards and banish them to advance your MP 1 level.\nPOWER: [Attack] Energy attack.\nDAMAGE: 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S08.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 80.3,
+  "header_text": "1 Be\nI}. RESIDENT OF HFIL C) 956",
+  "stages_text": "1,000,000\n800,000\n650,000\n400,000\n200,000\n150,000\n25,000\n10,000\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

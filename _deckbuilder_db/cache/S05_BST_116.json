@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_116",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "116_Black Discovery (CRD).png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/116_Black Discovery (CRD).png",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Black Discovery",
+  "file_name": "Black Discovery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "fa7c22c8f4119253eeca88b83d7b1b226661b849"
+ },
+ "vision": {
+  "id": "S05_BST_116",
+  "name": "Black Discovery",
+  "sub": null,
+  "type": "Setup",
+  "num": "R116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a personality level with this card's effect. Limit 1 per deck.)\n[Instant] POWER: Use when entering combat. Name 2 different cards. Destroy the top 2 cards of your Life Deck to destroy the top 2 cards of your opponent's Life Deck. If the cards you named were destroyed, advance or lower your MP 1 level and then you may advance or lower your opponent's MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey-black frame; 'Limit 1 per deck.' printed in smaller type; filename flag (CRD)",
+  "_src": "S05.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "BLACK DISCOVERY €) R116 |",
+  "stages_text": null,
+  "error": null
+ }
+}

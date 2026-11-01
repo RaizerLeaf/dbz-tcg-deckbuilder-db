@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P10",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P10_Pikkon - New Rival.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P10_Pikkon - New Rival.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Pikkon - New Rival",
+  "file_name": "Pikkon",
+  "file_subtitle": "New Rival",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ba3896a8e5a3eb68e2d36451dd44f03e01d355f3"
+ },
+ "vision": {
+  "id": "S08_PRO_P10",
+  "name": "Pikkon",
+  "sub": "New Rival",
+  "type": "Main Personality",
+  "num": "P10",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   700000,
+   500000,
+   300000,
+   100000,
+   80000,
+   50000,
+   30000,
+   9900,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, Rejuvenate 1 and banish the top card of their Life Deck.\nPOWER: Rejuvenate 3. Your may discard a card from your hand. If you do, your opponent's next attack this combat deals no damage.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S50; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 0.976,
+  "lower_conf": 61.0,
+  "header_text": "— — =e Y=\nyy PIKKON\n(= NEW RIVAL oa m-10\nFQ. aA\n1: “NE Se Cee dl alamearala",
+  "stages_text": "1,500,000\n1,000,000\n700,000\n900,000\n300,000\n\n7 100,000\n80,000\n50,000\n30,000\n\n9,900\n\n0",
+  "error": null
+ }
+}

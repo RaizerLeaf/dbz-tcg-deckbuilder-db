@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_07",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "07_Blue Absorption.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/07_Blue Absorption.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Absorption",
+  "file_name": "Blue Absorption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bb352faeaaee66776d94753d484871f086d17bca"
+ },
+ "vision": {
+  "id": "S11_BST_07",
+  "name": "Blue Absorption",
+  "sub": null,
+  "type": "Event",
+  "num": "U7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Prevent all damage from an attack.\nYou may discard a card from your hand to perform a copy of that attack for your next action.\n[Trait:Alien]: If you do, that attack is considered to deal critical damage. Raise or lower a player's anger 2 levels.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon purple (Alien)",
+  "_src": "S11.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 91.9,
+  "header_text": "BLUE ABSORPTION",
+  "stages_text": ", 7",
+  "error": null
+ }
+}

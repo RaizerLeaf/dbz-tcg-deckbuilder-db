@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S161",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S161_Saiyan Enjoyment.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S161_Saiyan Enjoyment.png",
+  "prefix": "S",
+  "number": 161,
+  "card_number": "S161",
+  "name_part": "Saiyan Enjoyment",
+  "file_name": "Saiyan Enjoyment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f3267ff3fe667c772b7009c100dbfec16755649d"
+ },
+ "vision": {
+  "id": "S04_STR_S161",
+  "name": "Saiyan Enjoyment",
+  "sub": null,
+  "type": "Event",
+  "num": "S161",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your physical attacks deal +2 stages of damage this combat. Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C54",
+  "_src": "S04.jsonl:314"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "SAIYAN ENJOYMENT () $161",
+  "stages_text": "142\n4,",
+  "error": null
+ }
+}

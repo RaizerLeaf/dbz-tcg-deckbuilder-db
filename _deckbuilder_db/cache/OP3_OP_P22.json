@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "OP3_OP_P22",
+  "set_number": null,
+  "set_name": "OP3",
+  "set_code": "OP3",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP3",
+  "filename": "P22_Saiyan Resistance.png",
+  "rel_path": "z_OP Series/OP3/P22_Saiyan Resistance.png",
+  "prefix": "P",
+  "number": 22,
+  "card_number": "P22",
+  "name_part": "Saiyan Resistance",
+  "file_name": "Saiyan Resistance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d5762e6ec17e51548c998d14bec2ac849eeadf0b"
+ },
+ "vision": {
+  "id": "OP3_OP_P22",
+  "name": "Saiyan Resistance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(You may only have one \"Saiyan Resistance\" attached.)\n[Defense] Stops a physical attack.\nRaise your anger 1. Attach to your MP. While attached as an action, you may banish this card to raise your anger 1.\n(Created by Jesus Perez, OP3 Grand Kai Champion)",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP3); prints a design credit line",
+  "_src": "OP.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 90.9,
+  "header_text": "SAIYAN RESISTANCE C) P22",
+  "stages_text": "347\n,\n,\n\n,",
+  "error": null
+ }
+}

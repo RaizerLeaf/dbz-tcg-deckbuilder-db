@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_126",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "126_Saiyan Despair.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/126_Saiyan Despair.png",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Saiyan Despair",
+  "file_name": "Saiyan Despair",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5264b578ad8a53a586099d53cb06440b51a5c767"
+ },
+ "vision": {
+  "id": "S07_BST_126",
+  "name": "Saiyan Despair",
+  "sub": null,
+  "type": "Event",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may Rejuvenate this card from your hand as an action to gain 4 stages.)\nPOWER: Your opponent's MP loses 3 stages. Destroy the top card of your Life Deck. Destroy the top card of your opponent's Life Deck. Shuffle this card into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S07.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "SAIYAN DESPAIR () R126\n| oars a",
+  "stages_text": "0\n2",
+  "error": null
+ }
+}

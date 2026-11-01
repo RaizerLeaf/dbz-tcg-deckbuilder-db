@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S141",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S141_Red Face Break.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S141_Red Face Break.png",
+  "prefix": "S",
+  "number": 141,
+  "card_number": "S141",
+  "name_part": "Red Face Break",
+  "file_name": "Red Face Break",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "917f2eddd8a94c200df2176910e72f05b3b9f549"
+ },
+ "vision": {
+  "id": "S04_STR_S141",
+  "name": "Red Face Break",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. You may discard a card from your hand. If you do, draw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C45",
+  "_src": "S04.jsonl:294"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.2,
+  "header_text": "RED FACE BREAK sia",
+  "stages_text": "2\n\n5\n4\n4,",
+  "error": null
+ }
+}

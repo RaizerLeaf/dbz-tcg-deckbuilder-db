@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_37",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "37_Bubbles - Curious.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/37_Bubbles - Curious.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Bubbles - Curious",
+  "file_name": "Bubbles",
+  "file_subtitle": "Curious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "459e07e5ac745f1f4245dd2dba97281cec5135bc"
+ },
+ "vision": {
+  "id": "S08_BST_37",
+  "name": "Bubbles",
+  "sub": "Curious",
+  "type": "Ally",
+  "num": "U37",
+  "lvl": 1,
+  "stages": [
+   400,
+   350,
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   25,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "(If Bubbles would leave play and your MP is King Kai, you may shuffle him into your Life Deck instead. You may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Discard a card from your hand. If your MP is King Kai, name a card. Your opponent cannot play that card this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badge G (gold, Dragon Ball-style emblem) = God",
+  "_src": "S08.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 77.6,
+  "header_text": "1. BuBBLES () 37\nLEVEL CURIOUS\nli.",
+  "stages_text": "400\n\n350\n300\n\n250\n200\n150\n100\n50\n25\n\n5\n\n0",
+  "error": null
+ }
+}

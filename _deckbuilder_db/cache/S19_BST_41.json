@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_41",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "41_Unorthodox Onslaught.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/41_Unorthodox Onslaught.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Unorthodox Onslaught",
+  "file_name": "Unorthodox Onslaught",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4a982c4854a354ac5ba79c1391042fe43357f5bb"
+ },
+ "vision": {
+  "id": "S19_BST_41",
+  "name": "Unorthodox Onslaught",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "UR41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "([Trait:Majin] only. This card is considered to have \"Sword\" in the title.)\n[Attack] Physical attack.\nRaise your anger 1. Players can only attack or pass in their actions this combat.\nDAMAGE: 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; deck restriction icon zoomed: pink M badge (Majin); no Endurance badge",
+  "_src": "S19.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 85.7,
+  "header_text": "UNORTHODOX ONSLAUGHT )UR41|\n| @e oe fee",
+  "stages_text": "4\n,\n3,\n2",
+  "error": null
+ }
+}

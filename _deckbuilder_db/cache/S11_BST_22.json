@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_22",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "22_Red Burn.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/22_Red Burn.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Burn",
+  "file_name": "Red Burn",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "628ddfd0b23fec020b8d492a705be4d5b5634b20"
+ },
+ "vision": {
+  "id": "S11_BST_22",
+  "name": "Red Burn",
+  "sub": null,
+  "type": "Event",
+  "num": "R22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Use a critical damage effect. Lower your opponent's anger 1 level.\n[Trait:Earthling]: Gain 5 stages. If the highest power level on your MP's level 4 is 500,000 or greater, shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "number area reads 'PREVIEW R22'; inline icon blue E (Earthling), confirmed by zoom",
+  "_src": "S11.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.907,
+  "lower_conf": 88.4,
+  "header_text": "RED BURN Oa\na An Gap",
+  "stages_text": "0,",
+  "error": null
+ }
+}

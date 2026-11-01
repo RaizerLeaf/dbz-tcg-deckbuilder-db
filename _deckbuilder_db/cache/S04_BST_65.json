@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_65",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "65_Black Tunneling Ball.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/65_Black Tunneling Ball.png",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Black Tunneling Ball",
+  "file_name": "Black Tunneling Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "135c32c4755db597846c704bc14927b5b68690d8"
+ },
+ "vision": {
+  "id": "S04_BST_65",
+  "name": "Black Tunneling Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nIf this attack is stopped, you may banish an Ally.\nDAMAGE: 3 life cards.\nHIT: Choose a card in your opponent's discard pile and place it on top of his Life Deck. Choose a card in your discard pile and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "BLACK TUNNELING BALL () U65\n- es taigd 7",
+  "stages_text": ", ,\n,",
+  "error": null
+ }
+}

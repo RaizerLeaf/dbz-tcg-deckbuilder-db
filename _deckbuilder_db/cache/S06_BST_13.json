@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_13",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "13_Blue Reinforcements.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/13_Blue Reinforcements.jpg",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Blue Reinforcements",
+  "file_name": "Blue Reinforcements",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "b2320504feb7860922adc5fa53a5bdf069a25d9c"
+ },
+ "vision": {
+  "id": "S06_BST_13",
+  "name": "Blue Reinforcements",
+  "sub": null,
+  "type": "Setup",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Banish an Ally you control to search your Life Deck for an Ally and place it into play at 2 stages above 0. Setups cannot be used this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout",
+  "_src": "S06.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "BLUE REINFORCEMENTS © 1 |",
+  "stages_text": null,
+  "error": null
+ }
+}

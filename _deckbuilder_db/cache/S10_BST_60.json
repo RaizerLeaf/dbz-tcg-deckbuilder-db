@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_60",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "60_Gohan - The Great Saiyaman.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/60_Gohan - The Great Saiyaman.png",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "Gohan - The Great Saiyaman",
+  "file_name": "Gohan",
+  "file_subtitle": "The Great Saiyaman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6c20e764769812c13e518a6648515571dbc4647d"
+ },
+ "vision": {
+  "id": "S10_BST_60",
+  "name": "Gohan",
+  "sub": "The Great Saiyaman",
+  "type": "Ally",
+  "num": "U60",
+  "lvl": 1,
+  "stages": [
+   700000,
+   500000,
+   200000,
+   100000,
+   50000,
+   10000,
+   7000,
+   3000,
+   1000,
+   800,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(Once per game, if your MP is Goten, Pan, or Videl, you may play this card from your hand as an action to end combat.)\nPOWER: [Attack] Physical attack.\nBanish the top card of your opponent's discard pile.\nDAMAGE: 1 life card.\nHIT: Shuffle an Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO ALLY'; Trait badges N, E, S",
+  "_src": "S10.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 76.7,
+  "header_text": "1 GOHAN\nLEVEL THE GREAT SAIYAMAN () U60",
+  "stages_text": "700,000\n500,000\n200,000\n100,000\n50,000\n10,000\n7,000\n7 3,000\n1,000\n\n800\n\n0",
+  "error": null
+ }
+}

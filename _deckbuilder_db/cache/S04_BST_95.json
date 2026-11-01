@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_95",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "95_Maron - Popular.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/95_Maron - Popular.png",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Maron - Popular",
+  "file_name": "Maron",
+  "file_subtitle": "Popular",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ae291d19f86762e0ceb83cfc9802ddbcc1269879"
+ },
+ "vision": {
+  "id": "S04_BST_95",
+  "name": "Maron",
+  "sub": "Popular",
+  "type": "Ally",
+  "num": "U95",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Whenever you use a critical damage effect, your MP gains 1 stage.\nPOWER: If your MP is Krillin, discard a Styled card from your hand to shuffle your Life Deck and draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 Ally layout; edge reads 'HERO ALLY'",
+  "_src": "S04.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.4,
+  "header_text": "L MARON\nLEVEL POPULAR () U35\ni",
+  "stages_text": "10\n\n9\n8\n\n7\n6\n5\n\n4\n7 3\n2\n\n1\n0",
+  "error": null
+ }
+}

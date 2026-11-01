@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_22",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "22_Namekian Deflection.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/22_Namekian Deflection.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Namekian Deflection",
+  "file_name": "Namekian Deflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "f22ffbf166eb63f5785a87fff469ce70f2492e1f"
+ },
+ "vision": {
+  "id": "S04_BST_22",
+  "name": "Namekian Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Stops an energy attack.\nYour successful attacks that deal 3 or more life cards of damage are considered to deal critical damage this combat.",
+  "conf": "high",
+  "review": "printed with the ATTACK (swords) icon before 'Stops an energy attack' (a block). Zoomed to confirm. Check the CRD",
+  "note": "icon recorded as printed",
+  "_src": "S04.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "NAMEKIAN DEFLECTION ) 022°",
+  "stages_text": ",\n,\n,\n113,",
+  "error": null
+ }
+}

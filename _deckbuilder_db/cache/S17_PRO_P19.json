@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P19",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P19_Namekian Buffer.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P19_Namekian Buffer.png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Namekian Buffer",
+  "file_name": "Namekian Buffer",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bb5a80440a27099dea05b14f9a8ccbebf58722d9"
+ },
+ "vision": {
+  "id": "S17_PRO_P19",
+  "name": "Namekian Buffer",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops an energy attack.\nRejuvenate 3.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S17.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.818,
+  "lower_conf": 86.0,
+  "header_text": "NAMEKIAN BUFFER ) P19,",
+  "stages_text": "20",
+  "error": null
+ }
+}

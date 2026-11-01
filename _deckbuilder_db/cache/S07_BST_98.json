@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_98",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "98_Saiyan Clench (CRD).png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/98_Saiyan Clench (CRD).png",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Saiyan Clench",
+  "file_name": "Saiyan Clench",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6b2db1794a443b47caa91b4b63469821e0efd880"
+ },
+ "vision": {
+  "id": "S07_BST_98",
+  "name": "Saiyan Clench",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(Limit 2 per deck. Villains only. This card cannot be attached unless the highest power level on your MP's Level 4 is 500,000 or less.)\n[Attack] Physical attack.\nAttach to your MP. While attached, your attacks that do not have AT base damage have their power stage damage doubled.\nDamage: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "condensed newer font (image appears edited to show errata; filename flag (CRD)); 'Damage:' mixed case as printed",
+  "_src": "S07.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 0.964,
+  "lower_conf": 86.5,
+  "header_text": "[Pell it P54! if Ft. a ;:<———:: a |b — If IP the.\nSAIYAN CLENCH ) uss\n7 I AB sR if [Pe v/ ff? Seal i Pal r emai if [poo",
+  "stages_text": ",\n500,000",
+  "error": null
+ }
+}

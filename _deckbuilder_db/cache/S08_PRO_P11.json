@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S08_PRO_P11",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)",
+  "filename": "P11_Pikkon - Fighting Stance.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P11_Pikkon - Fighting Stance.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Pikkon - Fighting Stance",
+  "file_name": "Pikkon",
+  "file_subtitle": "Fighting Stance",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "588560e1936c2de0172e4de68ce2f2037dfa1707"
+ },
+ "vision": {
+  "id": "S08_PRO_P11",
+  "name": "Pikkon",
+  "sub": "Fighting Stance",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 3,
+  "stages": [
+   1800000,
+   1600000,
+   1300000,
+   1000000,
+   700000,
+   500000,
+   250000,
+   150000,
+   75000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Whenever your opponent plays an Event, banish the top 2 cards of their Life Deck.\nPOWER: [Attack] Energy attack.\nRejuvenate 2. If your opponent has played an Event this combat, this attack deals +5 stages.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art) of S08 S51; stats and text compared on the sheet, identical to the booster card",
+  "_src": "S08.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.9,
+  "header_text": "— _ eee Se |\nWy PIKKON\n3S FIGHTING STANCE oa mu )\n—— ee ee ae 2mNN ANN",
+  "stages_text": "1,800,000\n1,600,000\n1,300,000\n1,000,000\n700,000\n\n7 900,000\n250,000\n150,000\n75,000\n10,000",
+  "error": null
+ }
+}

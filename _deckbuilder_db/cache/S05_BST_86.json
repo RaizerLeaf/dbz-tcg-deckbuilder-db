@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_BST_86",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Booster)",
+  "filename": "86_Namekian Searching Drill.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/86_Namekian Searching Drill.png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Namekian Searching Drill",
+  "file_name": "Namekian Searching Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 443,
+  "orientation": "landscape",
+  "sha1": "752ff7b133fb99300991a52e76c6659f2b746d1d"
+ },
+ "vision": {
+  "id": "S05_BST_86",
+  "name": "Namekian Searching Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Reveal your hand. Lower your opponent's anger X levels. X = the number of Dragon Balls revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Set 5 Drill layout",
+  "_src": "S05.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "NAMEKIAN SEARCHING DRILL &) U86 |",
+  "stages_text": null,
+  "error": null
+ }
+}

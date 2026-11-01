@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_24",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "24_Red Celestial Strike.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/24_Red Celestial Strike.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Celestial Strike",
+  "file_name": "Red Celestial Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "37a3210c70cc5cde2108ca28a54db03dd1ac9323"
+ },
+ "vision": {
+  "id": "S12_BST_24",
+  "name": "Red Celestial Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1 level. Destroy a Drill or Ally.\n[Trait:God]: Lower your opponent's anger 2 levels.\nDAMAGE: AT + 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "inline icon zoomed: gold God badge",
+  "_src": "S12.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 87.8,
+  "header_text": "RED CELESTIAL STRIKE () C24\na a ae vou.",
+  "stages_text": "28\n37\n2,",
+  "error": null
+ }
+}

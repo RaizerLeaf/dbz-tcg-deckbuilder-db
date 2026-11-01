@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_109",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "109_Namekian Enhancement.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/109_Namekian Enhancement.png",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Namekian Enhancement",
+  "file_name": "Namekian Enhancement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "a9b68ca235ad163f65e042ba5c404eb8bf9d0b80"
+ },
+ "vision": {
+  "id": "S04_BST_109",
+  "name": "Namekian Enhancement",
+  "sub": null,
+  "type": "Event",
+  "num": "R109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you advance a personality level with this card.)\nPOWER: Banish an Ally you control to draw the bottom card of your Life Deck. If that Ally was Kami or Nail, advance your MP 1 level.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S04.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": "NAMEKIAN ENHANCEMENT ) R109\n—a th i>» Ce",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

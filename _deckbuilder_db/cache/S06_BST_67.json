@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_67",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "67_Broly - Legendary.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/67_Broly - Legendary.jpg",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Broly - Legendary",
+  "file_name": "Broly",
+  "file_subtitle": "Legendary",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "dd032de6d872edfd773668e526e48a6f74c08627"
+ },
+ "vision": {
+  "id": "S06_BST_67",
+  "name": "Broly",
+  "sub": "Legendary",
+  "type": "Main Personality",
+  "num": "U67",
+  "lvl": 3,
+  "stages": [
+   2000000,
+   1500000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: After your opponent's MP advances a level, all of your opponent's personalities lose 7 stages. Physical attacks performed by this personality deal +3 stages of damage.\nPOWER: [Attack] Physical attack.\nYou may reveal 2 attack cards from your hand to draw a card.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 6 MP; edge reads 'VILLAIN MP'",
+  "_src": "S06.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 0.936,
+  "lower_conf": 77.3,
+  "header_text": "=3 BROLY\nLEVEL LEGENDARY () U67",
+  "stages_text": "2,000,000\n1,500,000\n1,000,000\n500,000\n,400,000\n300,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

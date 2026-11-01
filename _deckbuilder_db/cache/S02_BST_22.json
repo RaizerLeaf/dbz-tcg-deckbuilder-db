@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_22",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "22_Black Hair Trap.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/22_Black Hair Trap.jpg",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Black Hair Trap",
+  "file_name": "Black Hair Trap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "5cda005a5bc4b22d65413389198c2fd674521444"
+ },
+ "vision": {
+  "id": "S02_BST_22",
+  "name": "Black Hair Trap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: 3 +X stages. X = the number of different card types in your opponent's Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.9,
+  "header_text": "| BLACK HAIR TRAPS C) cee\nVinh, a2 J/xit mw wa",
+  "stages_text": "4\n4\n4",
+  "error": null
+ }
+}

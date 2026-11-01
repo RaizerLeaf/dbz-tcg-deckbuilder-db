@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_142",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "142_Villainous Empowerment.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/142_Villainous Empowerment.jpg",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Villainous Empowerment",
+  "file_name": "Villainous Empowerment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "8fa9e60044561056d3cb465cca3a8a72c9d267aa"
+ },
+ "vision": {
+  "id": "S02_BST_142",
+  "name": "Villainous Empowerment",
+  "sub": null,
+  "type": "Event",
+  "num": "UR142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 2 per deck. Banish after use.) ENDURANCE 2. POWER: Setups and Drills cannot be used this combat. Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S02.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.5,
+  "header_text": "(VILLAINOUS enpowennentl ) ursas\n1 1 | Jn d FW 1 SL",
+  "stages_text": ",",
+  "error": null
+ }
+}

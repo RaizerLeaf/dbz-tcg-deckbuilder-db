@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_123",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "123_Saiyan Arrival.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/123_Saiyan Arrival.jpg",
+  "prefix": null,
+  "number": 123,
+  "card_number": "123",
+  "name_part": "Saiyan Arrival",
+  "file_name": "Saiyan Arrival",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "edd432f8b7eab3dfa6d18f1b9623d2e029169d32"
+ },
+ "vision": {
+  "id": "S03_BST_123",
+  "name": "Saiyan Arrival",
+  "sub": null,
+  "type": "Setup",
+  "num": "R123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) [Instant] POWER: Use at the start of your opponent's turn. If your opponent does not declare combat this turn then at the start of the Rejuvenation Step, your opponent banishes the top 2 cards of his Life Deck and you may banish a total of up to 2 Setups and/or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 84.2,
+  "header_text": "SAIYAN ARRIVAL? s23~: () —",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

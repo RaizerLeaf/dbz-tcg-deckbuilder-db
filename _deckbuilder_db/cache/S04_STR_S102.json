@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S102",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S102_Orange Celebration.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S102_Orange Celebration.png",
+  "prefix": "S",
+  "number": 102,
+  "card_number": "S102",
+  "name_part": "Orange Celebration",
+  "file_name": "Orange Celebration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 618,
+  "height": 442,
+  "orientation": "landscape",
+  "sha1": "7861672040c3769fc4c604b97b777211ca61a478"
+ },
+ "vision": {
+  "id": "S04_STR_S102",
+  "name": "Orange Celebration",
+  "sub": null,
+  "type": "Setup",
+  "num": "S102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Life Deck for a Styled Drill and place it into play.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S93; landscape layout",
+  "_src": "S04.jsonl:255"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.5,
+  "header_text": "ee \\=",
+  "stages_text": null,
+  "error": null
+ }
+}

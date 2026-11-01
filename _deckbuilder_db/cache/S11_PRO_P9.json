@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_PRO_P9",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "11_Set 11 (Escalation)/Escalation (Promos)",
+  "filename": "P9_Goten - Son of Goku.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P9_Goten - Son of Goku.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Goten - Son of Goku",
+  "file_name": "Goten",
+  "file_subtitle": "Son of Goku",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b565c77323d04551d6050d7a97322dd1ea990b4d"
+ },
+ "vision": {
+  "id": "S11_PRO_P9",
+  "name": "Goten",
+  "sub": "Son of Goku",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 1,
+  "stages": [
+   100000,
+   60000,
+   40000,
+   20000,
+   15000,
+   10000,
+   8000,
+   5000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage of damage.\nPOWER: [Attack] Physical attack.\nRaise a player's anger 1 level.\nDAMAGE: 3 stages.\nHIT: You may choose a Drill in your discard pile and shuffle it into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads HERO -> MP; Trait badges E + S; stats and text compared against S10_BST_70 on the sheet, identical",
+  "_src": "S11.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.6,
+  "header_text": "GOTEN\n1 SON OF GOKU y PS\n‘ LEVEL [gen\na Saag oars rr Se inn nnn",
+  "stages_text": "100,000\n60,000\n40,000\n20,000\n15,000\n\n7 10,000\n8,000\n9,000\n3,000\n1,000\n0\n\n5",
+  "error": null
+ }
+}

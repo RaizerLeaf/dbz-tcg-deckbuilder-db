@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S114",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S114_Saiyan Drive By.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S114_Saiyan Drive By.png",
+  "prefix": "S",
+  "number": 114,
+  "card_number": "S114",
+  "name_part": "Saiyan Drive By",
+  "file_name": "Saiyan Drive By",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5eca840dbdb3dad951578377527cd1b1db6bacee"
+ },
+ "vision": {
+  "id": "S07_STR_S114",
+  "name": "Saiyan Drive By",
+  "sub": null,
+  "type": "Event",
+  "num": "S114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys the top X cards of his or her Life Deck. X = your current anger level. Choose a card in your discard pile and place it on top of your Life Deck. If that card had Endurance, choose a card in your discard pile and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S02_BST_53; text compared on the sheet; wording differs, transcribed from this card",
+  "_src": "S07.jsonl:297"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "SAIYAN DRIVE BY ()sit4\n= ms a. wid SF you",
+  "stages_text": ",\n2",
+  "error": null
+ }
+}

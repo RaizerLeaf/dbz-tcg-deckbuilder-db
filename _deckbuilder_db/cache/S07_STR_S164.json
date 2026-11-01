@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S164",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S164_Red Right Cross.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S164_Red Right Cross.png",
+  "prefix": "S",
+  "number": 164,
+  "card_number": "S164",
+  "name_part": "Red Right Cross",
+  "file_name": "Red Right Cross",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2d6ed866802da3ba66a96a86d3b225df9ffb8667"
+ },
+ "vision": {
+  "id": "S07_STR_S164",
+  "name": "Red Right Cross",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S164",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 4 stages. DAMAGE: AT +4 stages. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S139; text compared on the sheet",
+  "_src": "S07.jsonl:347"
+ },
+ "ocr": {
+  "agreement": 0.714,
+  "lower_conf": 83.4,
+  "header_text": "RED RIGHT CROSS C) $164\nCO Ne",
+  "stages_text": "4\n4\n347 ,",
+  "error": null
+ }
+}

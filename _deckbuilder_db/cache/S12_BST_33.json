@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S12_BST_33",
+  "set_number": 12,
+  "set_name": "Movie Collection 2",
+  "set_code": "S12",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "12_Set 12 (Movie Collection 2)/Movie Collection 2",
+  "filename": "33_Coordinated Efforts.png",
+  "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/33_Coordinated Efforts.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Coordinated Efforts",
+  "file_name": "Coordinated Efforts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3cce8ceb2cb31c5425e8d55b7314da48fc498f87"
+ },
+ "vision": {
+  "id": "S12_BST_33",
+  "name": "Coordinated Efforts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nAttach to an Ally you control. While attached during combat, you may use the Powers of that Ally regardless of your MP's power stage.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S12.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.944,
+  "lower_conf": 82.7,
+  "header_text": "COORDINATED EFFORTS ) R33 |",
+  "stages_text": "6,\n,\n2\n20,",
+  "error": null
+ }
+}

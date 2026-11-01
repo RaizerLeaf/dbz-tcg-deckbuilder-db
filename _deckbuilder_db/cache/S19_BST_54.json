@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_54",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "54_Vegito's Spirit Sword.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/54_Vegito's Spirit Sword.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Vegito's Spirit Sword",
+  "file_name": "Vegito's Spirit Sword",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a7d38490d50e3a4090bbced44c76d9bafe36c101"
+ },
+ "vision": {
+  "id": "S19_BST_54",
+  "name": "Vegito's Spirit Sword",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is revealed from your hand, search your discard pile for a card and Rejuvenate it.)\n[Attack] 2: Physical attack.\nYou may discard a card from your hand to draw a card.\nDAMAGE: 6 life cards.\nHIT: Your next energy attack this combat is Unstoppable.\n(Banish after use.)",
+  "conf": "medium",
+  "review": "printed oddity: card type reads Energy Combat but the attack line says 'Physical attack'",
+  "note": "grey card; possessive title -> Named; stage cost printed as '2:'; no Endurance badge",
+  "_src": "S19.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "VEGITO'S SPIRIT SWORD ) R54 |\nay) =)",
+  "stages_text": ",\n\n,\n1,\n1,",
+  "error": null
+ }
+}

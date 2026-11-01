@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_52",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "52_Saiyan Strength Test.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/52_Saiyan Strength Test.jpg",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Saiyan Strength Test",
+  "file_name": "Saiyan Strength Test",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "7df0a60bd20e00f2da9a7d48fcc3232466992346"
+ },
+ "vision": {
+  "id": "S02_BST_52",
+  "name": "Saiyan Strength Test",
+  "sub": null,
+  "type": "Event",
+  "num": "C52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may only have one \"Saiyan Strength Test\" attached.) POWER: Attach to your MP. Draw a card. [Continuous]: Whenever you raise your anger, banish the bottom card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.8,
+  "header_text": "(SALYAN STRENGTH. TEST (<=",
+  "stages_text": "4 7\n5",
+  "error": null
+ }
+}

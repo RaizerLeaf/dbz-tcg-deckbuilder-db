@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "OP1_OP_P7",
+  "set_number": null,
+  "set_name": "OP1",
+  "set_code": "OP1",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP1",
+  "filename": "P7_Guru - Great Elder.png",
+  "rel_path": "z_OP Series/OP1/P7_Guru - Great Elder.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Guru - Great Elder",
+  "file_name": "Guru",
+  "file_subtitle": "Great Elder",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e7a3c9434121cce319e244118564f1948e516aa3"
+ },
+ "vision": {
+  "id": "OP1_OP_P7",
+  "name": "Guru",
+  "sub": "Great Elder",
+  "type": "Ally",
+  "num": "P7",
+  "lvl": 1,
+  "stages": [
+   5000,
+   3500,
+   2500,
+   1500,
+   750,
+   500,
+   250,
+   150,
+   50,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "(If your MP is Dende or Nail, you may use this Power regardless of your MP's power stage and once per combat when this Ally enters play, draw a card.)\n[Continuous]: Your MP's PUR is +1.\nPOWER: Rejuvenate 1. You cannot win by MPPV this turn. Once per game, if your MP has [Trait:Namekian] or [Trait:Earthling], you may banish \"Guru, Great Elder\" to advance your MP 1 level. At the end of combat, lower your MP 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP1); edge reads 'HERO ALLY'; Trait badges G (gold), N (orange); inline icons zoomed: orange N then blue E",
+  "_src": "OP.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 0.84,
+  "lower_conf": 77.7,
+  "header_text": "1 | Guru P7\nLEVEL | GREAT ELDER",
+  "stages_text": "5,000\n3,500\n2,500\n1,500\n750\n\n6\n500\n1 250\n7 150\n50\n10\n0",
+  "error": null
+ }
+}

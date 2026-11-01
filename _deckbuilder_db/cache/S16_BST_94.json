@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_94",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "94_Piccolo - Charged.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/94_Piccolo - Charged.png",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Piccolo - Charged",
+  "file_name": "Piccolo",
+  "file_subtitle": "Charged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "50e7fcfb586ace6346af4bbe31230b8bc834ad91"
+ },
+ "vision": {
+  "id": "S16_BST_94",
+  "name": "Piccolo",
+  "sub": "Charged",
+  "type": "Main Personality",
+  "num": "S94",
+  "lvl": 3,
+  "stages": [
+   1700000,
+   1450000,
+   1200000,
+   950000,
+   600000,
+   450000,
+   300000,
+   150000,
+   70000,
+   35000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your attacks cost -1 stage (to a minimum of 0) and are Focused.\n[Instant] POWER: Use when entering combat. Gain 3 stages. Search your discard pile and/or Banished Zone for up to 3 Named [Attack] cards and Rejuvenate them.\nPOWER: Search your Life Deck for a Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge N (orange)",
+  "_src": "S16.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "PICCOLO",
+  "stages_text": "1,700,000\n1,450,000\n1,200,000\n950,000\n600,000\n450,000\n300,000\n150,000\n70,000\n35,000\n\n0",
+  "error": null
+ }
+}

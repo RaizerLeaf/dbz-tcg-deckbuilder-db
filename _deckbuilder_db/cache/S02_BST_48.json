@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_48",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "48_Red Restraint.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/48_Red Restraint.jpg",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Red Restraint",
+  "file_name": "Red Restraint",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "c9272ee8f390dcefafdafbf48983acf3a5b5cfd3"
+ },
+ "vision": {
+  "id": "S02_BST_48",
+  "name": "Red Restraint",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, raise your anger 1 level, gain 3 stages and your next attack this combat deals +2 life cards of damage.) [Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.5,
+  "header_text": "(RED RESTRAINT 25: C) cae\n——— |) O!C",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

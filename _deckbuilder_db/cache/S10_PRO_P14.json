@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S10_PRO_P14",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "10_Set 10 (Revelation)/Revelation (Promos)",
+  "filename": "P14_Nappa - Supportive.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P14_Nappa - Supportive.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Nappa - Supportive",
+  "file_name": "Nappa",
+  "file_subtitle": "Supportive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "17033d3794ba25a3f1d27ae37ed535437ced1636"
+ },
+ "vision": {
+  "id": "S10_PRO_P14",
+  "name": "Nappa",
+  "sub": "Supportive",
+  "type": "Main Personality",
+  "num": "P14",
+  "lvl": 2,
+  "stages": [
+   11000,
+   10000,
+   9000,
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages of damage.\nPOWER: [Attack] Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT + 2 stages.\nHIT: Destroy a Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo (Japanese name art); edge reads VILLAIN -> MP; Trait badge S; same as S09 S60 (FanZ wording: 'level')",
+  "_src": "S10.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 60.2,
+  "header_text": "NAPPA\n_ SUPPORTIVE Qa m4)\n— eh eee a\n\\t7 RR a nnn",
+  "stages_text": "11,000\n10,000\n9,000\n8,000\n7,000\n4 6,000\n5,000\n4,000\n3,000\n1,000\n0",
+  "error": null
+ }
+}

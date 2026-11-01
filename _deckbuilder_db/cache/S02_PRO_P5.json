@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_PRO_P5",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)",
+  "filename": "P5_Red Overpower.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P5_Red Overpower.jpg",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Red Overpower",
+  "file_name": "Red Overpower",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "74b9cdadbf1b9fce4f89f01e32c88ca5a3e0f361"
+ },
+ "vision": {
+  "id": "S02_PRO_P5",
+  "name": "Red Overpower",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) [Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. You may lower your MP 1 level. If you do, Styled cards in your Life Deck without Endurance gain \"Endurance 1\" this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S02 R124; text checked line by line against the booster card on the sheet, identical",
+  "_src": "S02.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.5,
+  "header_text": "RED OVERPOWER () PS\nTWatwee, wiht i, | faa ae",
+  "stages_text": "4\n4\n, ,\n4\n4\n, ,\n4\n,\n,\n387",
+  "error": null
+ }
+}

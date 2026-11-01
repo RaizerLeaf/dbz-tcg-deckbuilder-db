@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_136",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "136_Hercule's Grand Entrance.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/136_Hercule's Grand Entrance.png",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Hercule's Grand Entrance",
+  "file_name": "Hercule's Grand Entrance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5abcce74fcc60a96391fa3fdb80bde873958c716"
+ },
+ "vision": {
+  "id": "S07_BST_136",
+  "name": "Hercule's Grand Entrance",
+  "sub": null,
+  "type": "Event",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use after your opponent performs an attack. Search your Life Deck or discard pile for an Ally and place it into play at 5 stages above 0. Until the end of combat, that Ally may make actions regardless of your MP's power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "HERCULE'S GRAND ENTRANCE () R136\nYt SS hn! eat ta",
+  "stages_text": "2\n0",
+  "error": null
+ }
+}

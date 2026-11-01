@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_52",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "52_Babidi - Scheming.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/52_Babidi - Scheming.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Babidi - Scheming",
+  "file_name": "Babidi",
+  "file_subtitle": "Scheming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0aebbc5652444442813cc7fd36dab63ec8a1b367"
+ },
+ "vision": {
+  "id": "S11_BST_52",
+  "name": "Babidi",
+  "sub": "Scheming",
+  "type": "Main Personality",
+  "num": "S52",
+  "lvl": 2,
+  "stages": [
+   2500,
+   2250,
+   2000,
+   1500,
+   1000,
+   900,
+   700,
+   500,
+   250,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search your discard pile for a [Trait:Majin] Ally and play it.\nPOWER: Banish the bottom 2 cards of your opponent's discard pile. You may destroy an Ally you control. If you do, destroy the top 3 cards of your opponent's Life Deck. Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads VILLAIN -> MP",
+  "_src": "S11.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 77.5,
+  "header_text": "— BABIDI\nLEVEL SCHEMING () $52\nI eo | 1/",
+  "stages_text": "2,500\n\n2,250\n\n2,000\n\n1,500\n\n4 1,000\n3\n\n900\n\n700\n\n500\n\n250\n\n100\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_35",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "35_Smokescreen.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/35_Smokescreen.png",
+  "prefix": null,
+  "number": 35,
+  "card_number": "35",
+  "name_part": "Smokescreen",
+  "file_name": "Smokescreen",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c239ff0e86404617c0da9d2884d7adae90942a02"
+ },
+ "vision": {
+  "id": "S17_BST_35",
+  "name": "Smokescreen",
+  "sub": null,
+  "type": "Event",
+  "num": "UR35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may banish this card from your hand when an effect would cause a player to skip or pass an action to cancel that effect and draw a card.)\n[Defense] POWER: Prevent all damage from an attack.\nLower your opponent's anger 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S17.jsonl:35"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "SMOKESCREEN | )UR35|\n—— lll Oe eee",
+  "stages_text": "",
+  "error": null
+ }
+}

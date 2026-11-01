@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_126",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "126_Saiyan Extinguishing Blast.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/126_Saiyan Extinguishing Blast.jpg",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Saiyan Extinguishing Blast",
+  "file_name": "Saiyan Extinguishing Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a3df2c946241bf4aea3648e26db4ceb687e4c9ae"
+ },
+ "vision": {
+  "id": "S06_BST_126",
+  "name": "Saiyan Extinguishing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYour opponent can only gain anger from immediate effects this combat. Choose 3 cards with [Defense] icons in your opponent's discard pile and banish them.\nDAMAGE: 4 life cards.\nHIT: If your opponent changed levels this combat, draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S06.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "SAIYAN EXTINGUISHING BLAST C) R126\nwt . TS ara.",
+  "stages_text": ",\n4 ,\n\n,\n\n,\n3\n,",
+  "error": null
+ }
+}

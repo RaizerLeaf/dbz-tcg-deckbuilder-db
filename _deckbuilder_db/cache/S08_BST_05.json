@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_05",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "05_Black Constant Barrage.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/05_Black Constant Barrage.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Constant Barrage",
+  "file_name": "Black Constant Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9a30d9d4041a9cb3d677db5e945987f11e142166"
+ },
+ "vision": {
+  "id": "S08_BST_05",
+  "name": "Black Constant Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] 1: Energy attack.\nRaise your anger 1. Whenever you use a critical damage effect this combat, destroy the top 2 cards of your opponent's Life Deck.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "uses the '1:' cost shorthand (Set 8)",
+  "_src": "S08.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 88.9,
+  "header_text": "BLACK CONSTANT BARRAGE ) U5",
+  "stages_text": ",\n4\n,\n,",
+  "error": null
+ }
+}

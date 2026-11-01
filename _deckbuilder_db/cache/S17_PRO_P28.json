@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P28",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P28_Red Palm Strike.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P28_Red Palm Strike.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Red Palm Strike",
+  "file_name": "Red Palm Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cf8d8d8f7ddbbb78ee045976ccc5b21324c91c44"
+ },
+ "vision": {
+  "id": "S17_PRO_P28",
+  "name": "Red Palm Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.)\n[Attack] 1: Physical attack.\nRaise your anger 1. Whenever your opponent uses Endurance this combat, you may lower your anger 1. If you do, reduce that Endurance to 0.\nDAMAGE: AT + 2 stages.\nHIT: Use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '1:'; no Endurance badge",
+  "_src": "S17.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "RED PALM STRIKE () P28",
+  "stages_text": "3 255\n4\n21,",
+  "error": null
+ }
+}

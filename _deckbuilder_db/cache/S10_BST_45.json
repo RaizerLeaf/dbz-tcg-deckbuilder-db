@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_45",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "45_Dabura's Spit.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/45_Dabura's Spit.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Dabura's Spit",
+  "file_name": "Dabura's Spit",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "42ce3d62a0492def0a3e59f80bb9f48794d6b881"
+ },
+ "vision": {
+  "id": "S10_BST_45",
+  "name": "Dabura's Spit",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(This card is considered to have \"Sword\" in the title for your card effects. When this card is discarded or destroyed from your Life Deck, you may banish an Ally in play.)\n[Attack] Physical attack.\nDAMAGE: 2 life cards.\nHIT: Destroy an opponent's Setup, Drill, Ally, or attached card in play.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S10.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 89.1,
+  "header_text": "DABURA'S SPIT () R45",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_44",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "44_Vegeta's Prideful Challenge.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/44_Vegeta's Prideful Challenge.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Vegeta's Prideful Challenge",
+  "file_name": "Vegeta's Prideful Challenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "60ac35758e2d164691d787c1268df2c026ed9b18"
+ },
+ "vision": {
+  "id": "S11_BST_44",
+  "name": "Vegeta's Prideful Challenge",
+  "sub": null,
+  "type": "Setup",
+  "num": "R44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(Villains only. This card is considered Styled.)\n[Instant] POWER: Use when entering combat. Setups, Drills, and Allies cannot be used this combat. Banish up to 3 cards from either player's discard pile.\n[Trait:Majin]: Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout, grey frame; inline icon pink Majin",
+  "_src": "S11.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 76.6,
+  "header_text": "=-<GETA'S PRIDEFUL CHALLENGE a R44 |",
+  "stages_text": null,
+  "error": null
+ }
+}

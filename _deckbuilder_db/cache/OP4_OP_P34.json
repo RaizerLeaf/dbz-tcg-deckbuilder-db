@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "OP4_OP_P34",
+  "set_number": null,
+  "set_name": "OP4",
+  "set_code": "OP4",
+  "era": "FanZ",
+  "collection": "op",
+  "source_folder": "z_OP Series/OP4",
+  "filename": "P34_Raditz - Cunning.png",
+  "rel_path": "z_OP Series/OP4/P34_Raditz - Cunning.png",
+  "prefix": "P",
+  "number": 34,
+  "card_number": "P34",
+  "name_part": "Raditz - Cunning",
+  "file_name": "Raditz",
+  "file_subtitle": "Cunning",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "da264e4bd34dc1f600a2d2df1c3af24eb25baf2c"
+ },
+ "vision": {
+  "id": "OP4_OP_P34",
+  "name": "Raditz",
+  "sub": "Cunning",
+  "type": "Main Personality",
+  "num": "P34",
+  "lvl": 1,
+  "stages": [
+   8700,
+   7800,
+   6900,
+   6000,
+   5100,
+   4200,
+   3300,
+   2400,
+   1500,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(At the start of your opponent's first turn, search your Life Deck for a Setup and place it into play.)\nPOWER: Raise your anger 2. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "Organized Play card (OP4); edge reads VILLAIN -> MP; Trait badge S (green)",
+  "_src": "OP.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "L RADITZ\nLEVEL CUNNING () P34",
+  "stages_text": "8,700\n\n7,800\n\n6,900\n\n6,000\n\n5,100\n3\n\n4,200\n\n3,300\n\n2,400\n\n1,500\n\n1,000\n\n0",
+  "error": null
+ }
+}

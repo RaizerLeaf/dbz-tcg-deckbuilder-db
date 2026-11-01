@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S32",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S32_Blue Head Kick.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S32_Blue Head Kick.png",
+  "prefix": "S",
+  "number": 32,
+  "card_number": "S32",
+  "name_part": "Blue Head Kick",
+  "file_name": "Blue Head Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8b1fe741d5f71dd01aaf9e21b516df77109666f8"
+ },
+ "vision": {
+  "id": "S07_STR_S32",
+  "name": "Blue Head Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Physical attack.\nDraw a card.\nDAMAGE: AT +2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S05_BST_20; text compared on the sheet",
+  "_src": "S07.jsonl:215"
+ },
+ "ocr": {
+  "agreement": 0.905,
+  "lower_conf": 70.3,
+  "header_text": "BLUE HEAD KICK () $32\n7 ee ee",
+  "stages_text": "25\n,\n47",
+  "error": null
+ }
+}

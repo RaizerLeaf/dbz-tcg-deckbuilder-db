@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S119",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S119_Orange Palm Blasts.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S119_Orange Palm Blasts.png",
+  "prefix": "S",
+  "number": 119,
+  "card_number": "S119",
+  "name_part": "Orange Palm Blasts",
+  "file_name": "Orange Palm Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "2a4d7e3a7d633d3357ff4a8f7c68c33e5f845fec"
+ },
+ "vision": {
+  "id": "S04_STR_S119",
+  "name": "Orange Palm Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages.\nYour opponent cannot perform an energy attack in his next action this combat.\nDAMAGE: 4 life cards.\n(Most Recent Printing)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 S57 with updated text (adds 'this combat') and '(Most Recent Printing)'",
+  "_src": "S04.jsonl:272"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "ORANGE PALM BLASTS ») S119\nEE",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

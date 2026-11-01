@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_76",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "76_Trunks - Protective.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/76_Trunks - Protective.jpg",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Trunks - Protective",
+  "file_name": "Trunks",
+  "file_subtitle": "Protective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "4ff66e62544ce2cfecd684d4949bb1890b71bf75"
+ },
+ "vision": {
+  "id": "S06_BST_76",
+  "name": "Trunks",
+  "sub": "Protective",
+  "type": "Main Personality",
+  "num": "U76",
+  "lvl": 1,
+  "stages": [
+   256000,
+   128000,
+   64000,
+   32000,
+   16000,
+   8000,
+   4000,
+   2000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "(Your Drills are not discarded when advancing from this level.)\n[Continuous]: Whenever you play a card with \"Sword\" in the title, Rejuvenate 1.\n[Instant] POWER: Use when entering combat. Search your Life Deck for a non-Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO MP'",
+  "_src": "S06.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 72.3,
+  "header_text": "TRUNKS\n/",
+  "stages_text": "256,000\n128,000\n64,000\n\n1 32,000\n2 16,000\n8,000\n4,000\n2,000\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

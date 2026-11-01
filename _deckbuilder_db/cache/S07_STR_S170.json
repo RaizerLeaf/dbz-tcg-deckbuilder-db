@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S170",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S170_Red Right Knee.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S170_Red Right Knee.png",
+  "prefix": "S",
+  "number": 170,
+  "card_number": "S170",
+  "name_part": "Red Right Knee",
+  "file_name": "Red Right Knee",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7c969fb20c3de3c6ad065391ac87b480fd1f5793"
+ },
+ "vision": {
+  "id": "S07_STR_S170",
+  "name": "Red Right Knee",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S170",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Attack] Physical attack.\nRearrange the top 5 cards of your discard pile.\nDAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S04_BST_43; text compared on the sheet",
+  "_src": "S07.jsonl:353"
+ },
+ "ocr": {
+  "agreement": 0.941,
+  "lower_conf": 73.3,
+  "header_text": "RED RIGHT KNEE €) st70\n_ yp OC",
+  "stages_text": "4\n,,\n34 ,",
+  "error": null
+ }
+}

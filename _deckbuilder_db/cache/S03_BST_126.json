@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_126",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "126_Saiyan Studying.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/126_Saiyan Studying.jpg",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Saiyan Studying",
+  "file_name": "Saiyan Studying",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "e05c6792b598630c8979aec446c1182fbae58c15"
+ },
+ "vision": {
+  "id": "S03_BST_126",
+  "name": "Saiyan Studying",
+  "sub": null,
+  "type": "Event",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your Life Deck for three different Styled Physical Combat or Energy Combat cards and reveal them. Your opponent chooses one of those cards. Place that card into your hand and destroy the remaining cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "SAIYAN STUDYING. () A126\nx r - ¢« | _",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

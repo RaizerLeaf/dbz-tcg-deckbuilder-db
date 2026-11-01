@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_PRO_P5",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Promos)",
+  "filename": "P5_Saiyan Offensive Rush.png",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P5_Saiyan Offensive Rush.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Saiyan Offensive Rush",
+  "file_name": "Saiyan Offensive Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1342,
+  "height": 1890,
+  "orientation": "portrait",
+  "sha1": "8114607d25c5f918795b90c6516c047afafd8a80"
+ },
+ "vision": {
+  "id": "S03_PRO_P5",
+  "name": "Saiyan Offensive Rush",
+  "sub": null,
+  "type": "Setup",
+  "num": "P5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP loses 4 stages. Your attacks deal +3 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S36; text compared on the sheet, identical",
+  "_src": "S03.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.0,
+  "header_text": "(SAIYAN OFFENSIVE: RUSH () Ps",
+  "stages_text": "",
+  "error": null
+ }
+}

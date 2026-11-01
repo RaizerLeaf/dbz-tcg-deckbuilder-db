@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S173",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S173_Saiyan Scouting.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S173_Saiyan Scouting.png",
+  "prefix": "S",
+  "number": 173,
+  "card_number": "S173",
+  "name_part": "Saiyan Scouting",
+  "file_name": "Saiyan Scouting",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6621194b7574f789cebda4526ef382d2103999f8"
+ },
+ "vision": {
+  "id": "S04_STR_S173",
+  "name": "Saiyan Scouting",
+  "sub": null,
+  "type": "Event",
+  "num": "S173",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4.\nPOWER: Choose up to two cards from your discard pile and place them on the top of your Life Deck.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S01 C57",
+  "_src": "S04.jsonl:326"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 82.0,
+  "header_text": "SAIYAN SCOUTING () $173\nlO,",
+  "stages_text": "2\n0\n\n7\n\n8",
+  "error": null
+ }
+}

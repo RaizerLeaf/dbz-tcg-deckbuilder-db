@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_07",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "07_Blue Intelligence.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/07_Blue Intelligence.png",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Blue Intelligence",
+  "file_name": "Blue Intelligence",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "26161daba4d7a43a4c23badd074c2f6d0bda341d"
+ },
+ "vision": {
+  "id": "S18_BST_07",
+  "name": "Blue Intelligence",
+  "sub": null,
+  "type": "Setup",
+  "num": "R7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your discard pile for an Ally or Setup and Rejuvenate it. End combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Setup layout; no Endurance badge",
+  "_src": "S18.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.0,
+  "header_text": "BLUE INTELLIGENCE a R7 |",
+  "stages_text": null,
+  "error": null
+ }
+}

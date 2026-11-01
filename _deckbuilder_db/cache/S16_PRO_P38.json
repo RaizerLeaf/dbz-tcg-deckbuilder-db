@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S16_PRO_P38",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere (Promos)",
+  "filename": "P38_Heroic Energy Sphere.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere (Promos)/P38_Heroic Energy Sphere.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Heroic Energy Sphere",
+  "file_name": "Heroic Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "83f226beaf213c42593d57adfe978b007370a2cf"
+ },
+ "vision": {
+  "id": "S16_PRO_P38",
+  "name": "Heroic Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Instant] POWER: Use when an Event is played. Cancel the effects of that card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; no Endurance badge",
+  "_src": "S16.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "HEROIC ENERGY SPHERE () P38",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

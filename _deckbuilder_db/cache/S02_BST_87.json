@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S02_BST_87",
+  "set_number": 2,
+  "set_name": "Heroes & Villains",
+  "set_code": "S02",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)",
+  "filename": "87_Orange Saving Kick.jpg",
+  "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/87_Orange Saving Kick.jpg",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Orange Saving Kick",
+  "file_name": "Orange Saving Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "d8fb83f328f0c69b80165d870d144746eea70b14"
+ },
+ "vision": {
+  "id": "S02_BST_87",
+  "name": "Orange Saving Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. Lower your opponent's anger 2 levels. HIT: Your opponent cannot gain anger this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S02.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.6,
+  "header_text": "{CRANce SAVING KICK €) ust",
+  "stages_text": "7",
+  "error": null
+ }
+}

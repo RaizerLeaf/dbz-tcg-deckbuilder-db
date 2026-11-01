@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S10_BST_54_403a32",
+  "set_number": 10,
+  "set_name": "Revelation",
+  "set_code": "S10",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "10_Set 10 (Revelation)/Revelation",
+  "filename": "54_Videl's Determination.png",
+  "rel_path": "10_Set 10 (Revelation)/Revelation/54_Videl's Determination.png",
+  "prefix": null,
+  "number": 54,
+  "card_number": "54",
+  "name_part": "Videl's Determination",
+  "file_name": "Videl's Determination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "403a32c695e571800b0e0097645b7fb5c90c33ef"
+ },
+ "vision": {
+  "id": "S10_BST_54_403a32",
+  "name": "Videl's Determination",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Instant] POWER: Use after you perform a successful physical attack.\nYour opponent skips their next action this combat or banish the top 7 cards of their discard pile. Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; prints R54 (matches filename 54)",
+  "_src": "S10.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 85.6,
+  "header_text": "VIDEL'S DETERMINATION ) R54 |",
+  "stages_text": ",\n,",
+  "error": null
+ }
+}

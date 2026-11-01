@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P14",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P14_Orange Uppercut.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P14_Orange Uppercut.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Orange Uppercut",
+  "file_name": "Orange Uppercut",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "6eb1f62e4d33deb56791d4b05278ab138590a274"
+ },
+ "vision": {
+  "id": "S05_PRO_P14",
+  "name": "Orange Uppercut",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Attack] Physical attack.\nYou may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 R139 with changed text: adds '(Limit 1 per deck.)' and 'Styled Energy Combat card'",
+  "_src": "S05.jsonl:163"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "ORANGE UPPERCUT ) P14\n| a) ee re",
+  "stages_text": "37",
+  "error": null
+ }
+}

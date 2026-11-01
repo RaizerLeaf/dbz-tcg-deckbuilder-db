@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S03_BST_78",
+  "set_number": 3,
+  "set_name": "Movie Collection",
+  "set_code": "S03",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "03_Set 3 (Movie Collection)/Movie Collection (Booster)",
+  "filename": "78_Black Entrance.jpg",
+  "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/78_Black Entrance.jpg",
+  "prefix": null,
+  "number": 78,
+  "card_number": "78",
+  "name_part": "Black Entrance",
+  "file_name": "Black Entrance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 464,
+  "height": 650,
+  "orientation": "portrait",
+  "sha1": "a035031512fb9e203d13bf3bc96f6fbd367b7c9f"
+ },
+ "vision": {
+  "id": "S03_BST_78",
+  "name": "Black Entrance",
+  "sub": null,
+  "type": "Setup",
+  "num": "U78",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Banish a Setup you control. If you do, your opponent plays with his hand revealed until the end of your next turn. Whenever your opponent reveals a Setup in this way, banish it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S03.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "BLACK ENTRANCE () U78",
+  "stages_text": "5\n8\n4",
+  "error": null
+ }
+}

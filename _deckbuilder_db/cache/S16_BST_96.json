@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S16_BST_96",
+  "set_number": 16,
+  "set_name": "Super Premier",
+  "set_code": "S16",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "16_Set 16 (Super Premier)/Super Premiere",
+  "filename": "96_Vegeta - Aggravated.png",
+  "rel_path": "16_Set 16 (Super Premier)/Super Premiere/96_Vegeta - Aggravated.png",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Vegeta - Aggravated",
+  "file_name": "Vegeta",
+  "file_subtitle": "Aggravated",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b4a962b85b6b99c0bfc939c2fca2c333aea81a56"
+ },
+ "vision": {
+  "id": "S16_BST_96",
+  "name": "Vegeta",
+  "sub": "Aggravated",
+  "type": "Main Personality",
+  "num": "S96",
+  "lvl": 1,
+  "stages": [
+   3750000,
+   2325000,
+   1175000,
+   780000,
+   320000,
+   130000,
+   75000,
+   22000,
+   7000,
+   3000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage.\nPOWER: [Attack] Physical attack.\nRaise your anger 2.\nDAMAGE: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads HERO -> MP; Trait badge S (green)",
+  "_src": "S16.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "VEGETA",
+  "stages_text": "3,750,000\n2,325,000\n1,175,000\n780,000\n320,000\n130,000\n75,000\n22,000\n7,000\n\n3,000\n0",
+  "error": null
+ }
+}

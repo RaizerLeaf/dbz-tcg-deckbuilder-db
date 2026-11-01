@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S06_BST_120",
+  "set_number": 6,
+  "set_name": "Vengeance",
+  "set_code": "S06",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "06_Set 6 (Vengence)/Vengence (Booster)",
+  "filename": "120_Red Sword Slicing Drill.jpg",
+  "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/120_Red Sword Slicing Drill.jpg",
+  "prefix": null,
+  "number": 120,
+  "card_number": "120",
+  "name_part": "Red Sword Slicing Drill",
+  "file_name": "Red Sword Slicing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 650,
+  "height": 464,
+  "orientation": "landscape",
+  "sha1": "beaf6e26c2503f2cae452a711a47dadd112bf214"
+ },
+ "vision": {
+  "id": "S06_BST_120",
+  "name": "Red Sword Slicing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(When this card enters play during combat, if it is the first time a card titled \"Red Sword Slicing Drill\" has entered play this turn then you may search your discard pile for an attack with \"Sword\" in the title and place it into your hand.)\n[Continuous]: Whenever you play a card with \"Sword\" in the title, your opponent's MP loses 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout",
+  "_src": "S06.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": "RED SWORD SLICING DRILL €) R120\n-_ , ——",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S17_BST_45",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash",
+  "filename": "45_Magetta - Metalman.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash/45_Magetta - Metalman.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Magetta - Metalman",
+  "file_name": "Magetta",
+  "file_subtitle": "Metalman",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6bf12acc4ef86a592fca78f32fce56dea8b33724"
+ },
+ "vision": {
+  "id": "S17_BST_45",
+  "name": "Magetta",
+  "sub": "Metalman",
+  "type": "Ally",
+  "num": "U45",
+  "lvl": 1,
+  "stages": [
+   200000,
+   155000,
+   122000,
+   77000,
+   55000,
+   33000,
+   11000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "Alien",
+   "Android"
+  ],
+  "text": "(Champa, Cabba, Hit, Frost, and Dr. Rota only. You may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'HERO/VILLAIN ALLY'; Trait badges A (purple) and R (grey)",
+  "_src": "S17.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.6,
+  "header_text": "1 | MAGETTA E)\nIl. METALMAN U45\nll Val",
+  "stages_text": "200,000\n155,000\n122,000\n77,000\n55,000\n33,000\n11,000\n6,000\n4,000\n2,000\n\n0",
+  "error": null
+ }
+}

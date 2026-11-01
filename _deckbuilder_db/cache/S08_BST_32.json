@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S08_BST_32",
+  "set_number": 8,
+  "set_name": "Celestial Tournament",
+  "set_code": "S08",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "08_Set 8 (Celestial Tournament)/Celestial Tournament",
+  "filename": "32_The Implication.png",
+  "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/32_The Implication.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "The Implication",
+  "file_name": "The Implication",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f6d2f4149dc3d4fac3a2a4fe2eac9c54f8175eb6"
+ },
+ "vision": {
+  "id": "S08_BST_32",
+  "name": "The Implication",
+  "sub": null,
+  "type": "Event",
+  "num": "UR32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n[Instant] POWER: Use when a Setup or Drill Power is used. Cancel that effect.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S08.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.867,
+  "lower_conf": 65.6,
+  "header_text": "THE IMPLICATION se )UR32\nda ‘ ‘La @Qvie.. 1. aw 7 |",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

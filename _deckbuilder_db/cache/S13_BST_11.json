@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_11",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "11_Blue Barrage.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/11_Blue Barrage.png",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Blue Barrage",
+  "file_name": "Blue Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "353269d1733f409aed1ea9a019c3946c25bbc712"
+ },
+ "vision": {
+  "id": "S13_BST_11",
+  "name": "Blue Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n[Attack] Energy attack costing 1 stage.\nLower your opponent's anger 1 level. Destroy up to 2 cards from the top of your Life Deck. If you destroyed any cards, your next Styled attack this combat is considered a copied attack.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S13.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 90.5,
+  "header_text": "BLUE BARRAGE yc\nce Tn wey £ ia)",
+  "stages_text": "3\n3\n,\n1,",
+  "error": null
+ }
+}

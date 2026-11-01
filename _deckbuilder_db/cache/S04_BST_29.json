@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_29",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "29_Orange Investiagation Drill.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/29_Orange Investiagation Drill.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Orange Investiagation Drill",
+  "file_name": "Orange Investiagation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1407,
+  "height": 1007,
+  "orientation": "landscape",
+  "sha1": "a8b5a1e84e2183a18d1b732eab979eb029a62361"
+ },
+ "vision": {
+  "id": "S04_BST_29",
+  "name": "Orange Investigation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(After this Drill enters play, you may banish an attached card in play.)\n[Continuous]: Whenever an effect would lower your anger by more than 1 level, it is lowered by 1 instead.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape Drill layout; filename typo 'Investiagation'",
+  "_src": "S04.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "‘fi —\niw aN: =\n‘| wo |\n| Wey ~R | A\nal\n2",
+  "stages_text": null,
+  "error": null
+ }
+}

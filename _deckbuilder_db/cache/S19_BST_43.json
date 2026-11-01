@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S19_BST_43",
+  "set_number": 19,
+  "set_name": "Judgement",
+  "set_code": "S19",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "19_Set 19 (Judgement)/Judgement",
+  "filename": "43_Skillful Deflection.png",
+  "rel_path": "19_Set 19 (Judgement)/Judgement/43_Skillful Deflection.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Skillful Deflection",
+  "file_name": "Skillful Deflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8cfe1daa7db8c8e5224217cc8b04fdfc2fdfa153"
+ },
+ "vision": {
+  "id": "S19_BST_43",
+  "name": "Skillful Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops an energy attack.\nRejuvenate 3. [Trait:Namekian]: Gain 5 stages.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; inline icon zoomed: orange N badge (Namekian); card prints 'Skillful' (S16/S17 'Skillful Parry' is a different card)",
+  "_src": "S19.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.812,
+  "lower_conf": 74.8,
+  "header_text": "SKILLFUL DEFLECTION se )UR43\n— —",
+  "stages_text": ",",
+  "error": null
+ }
+}

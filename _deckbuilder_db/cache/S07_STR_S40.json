@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S40",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S40_Blue Head Knock.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S40_Blue Head Knock.png",
+  "prefix": "S",
+  "number": 40,
+  "card_number": "S40",
+  "name_part": "Blue Head Knock",
+  "file_name": "Blue Head Knock",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3905c2c56208eb696598eeb010e2f26d4d238e40"
+ },
+ "vision": {
+  "id": "S07_STR_S40",
+  "name": "Blue Head Knock",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical Attack. DAMAGE: 5 life cards. Lower your opponent's anger to 0.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_BST_27; text compared on the sheet",
+  "_src": "S07.jsonl:223"
+ },
+ "ocr": {
+  "agreement": 0.6,
+  "lower_conf": 75.6,
+  "header_text": "BLUE HEAD KNOCK ) $40 |",
+  "stages_text": "7\n0",
+  "error": null
+ }
+}

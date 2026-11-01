@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S18_BST_24",
+  "set_number": 18,
+  "set_name": "Incursion",
+  "set_code": "S18",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "18_Set 18 (Incursion)/Incursion",
+  "filename": "24_Red Aggressive Shot.png",
+  "rel_path": "18_Set 18 (Incursion)/Incursion/24_Red Aggressive Shot.png",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Red Aggressive Shot",
+  "file_name": "Red Aggressive Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2e91f1131fb80714f213b09f6a627f96df882a29"
+ },
+ "vision": {
+  "id": "S18_BST_24",
+  "name": "Red Aggressive Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nFocused. [Warning]: Lower your opponent's anger 2.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 2.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "stage cost printed as '2:'; black warning triangle transcribed as [Warning]; no Endurance badge",
+  "_src": "S18.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 91.2,
+  "header_text": "RED AGGRESSIVE SHOT @) 24\n.-)lCF—[anee OC haw",
+  "stages_text": "7",
+  "error": null
+ }
+}

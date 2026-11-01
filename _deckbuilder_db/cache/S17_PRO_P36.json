@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S17_PRO_P36",
+  "set_number": 17,
+  "set_name": "Universal Clash",
+  "set_code": "S17",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "17_Set 17 (Universal Clash)/Universal Clash (Promos)",
+  "filename": "P36_Enraged Blast.png",
+  "rel_path": "17_Set 17 (Universal Clash)/Universal Clash (Promos)/P36_Enraged Blast.png",
+  "prefix": "P",
+  "number": 36,
+  "card_number": "P36",
+  "name_part": "Enraged Blast",
+  "file_name": "Enraged Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7aaf920cd3a63e8f14614a3ba5d48e22726d6d63"
+ },
+ "vision": {
+  "id": "S17_PRO_P36",
+  "name": "Enraged Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 3: Energy attack.\nRaise your anger 2.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey card; stage cost printed as '3:'; no Endurance badge",
+  "_src": "S17.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "ENRAGED BLAST () P36\n7 nn SOL",
+  "stages_text": "",
+  "error": null
+ }
+}

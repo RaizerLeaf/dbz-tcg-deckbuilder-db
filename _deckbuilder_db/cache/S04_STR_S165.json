@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S04_STR_S165",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Starter)",
+  "filename": "S165_Saiyan Headbutt.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S165_Saiyan Headbutt.png",
+  "prefix": "S",
+  "number": 165,
+  "card_number": "S165",
+  "name_part": "Saiyan Headbutt",
+  "file_name": "Saiyan Headbutt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 442,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "f17726029a3b8095b24057cc72d0c9d6955e78db"
+ },
+ "vision": {
+  "id": "S04_STR_S165",
+  "name": "Saiyan Headbutt",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S165",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nDAMAGE: 4 stages +4 stages for each copy of Saiyan Headbutt in your discard pile and Banished Zone.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 starter reprint of S03 C56",
+  "_src": "S04.jsonl:318"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.5,
+  "header_text": "SAIYAN HEADBUTT () $165\norm \\). Sw he. BS",
+  "stages_text": ",\n, ,",
+  "error": null
+ }
+}

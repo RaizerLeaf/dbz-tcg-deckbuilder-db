@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S13_BST_19",
+  "set_number": 13,
+  "set_name": "Fusion",
+  "set_code": "S13",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "13_Set 13 (Fusion)/Fusion",
+  "filename": "19_Orange Energetic Mastery.png",
+  "rel_path": "13_Set 13 (Fusion)/Fusion/19_Orange Energetic Mastery.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Energetic Mastery",
+  "file_name": "Orange Energetic Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cdf7b0866154ac0fca0e33d83f52bbf20ea78220"
+ },
+ "vision": {
+  "id": "S13_BST_19",
+  "name": "Orange Energetic Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "DR19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Instant] POWER: Use after performing a successful attack. Gain 3 stages and raise your anger 1 level.\nPOWER: Discard a card from your hand to perform a Styled energy attack dealing 4 life cards of damage. If you discarded a Styled card, raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait Mastery layout; number area reads 'PREVIEW DR19' (zoomed); DR number printed; the infinity symbol in 'non-∞ Drill' is the Continuous icon",
+  "_src": "S13.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.1,
+  "header_text": "|",
+  "stages_text": "4\n,\n1,",
+  "error": null
+ }
+}

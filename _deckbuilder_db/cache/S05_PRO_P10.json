@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S05_PRO_P10",
+  "set_number": 5,
+  "set_name": "Perfection",
+  "set_code": "S05",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "filename": "P10_Orange Destruction.png",
+  "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P10_Orange Destruction.png",
+  "prefix": "P",
+  "number": 10,
+  "card_number": "P10",
+  "name_part": "Orange Destruction",
+  "file_name": "Orange Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 443,
+  "height": 618,
+  "orientation": "portrait",
+  "sha1": "9e68a0cb3eb8d21ce58b62257e2833cfa0216ebb"
+ },
+ "vision": {
+  "id": "S05_PRO_P10",
+  "name": "Orange Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "P10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys top X cards of his Life Deck. X = 1 + the number of Drills you have in play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo reprint of S01 S107",
+  "_src": "S05.jsonl:158"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "ORANGE DESTRUCTION ) P10\nss",
+  "stages_text": "",
+  "error": null
+ }
+}

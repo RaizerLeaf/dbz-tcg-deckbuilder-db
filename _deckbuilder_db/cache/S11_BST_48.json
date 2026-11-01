@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S11_BST_48",
+  "set_number": 11,
+  "set_name": "Escalation",
+  "set_code": "S11",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "11_Set 11 (Escalation)/Escalation",
+  "filename": "48_Spopovich - Enhanced.png",
+  "rel_path": "11_Set 11 (Escalation)/Escalation/48_Spopovich - Enhanced.png",
+  "prefix": null,
+  "number": 48,
+  "card_number": "48",
+  "name_part": "Spopovich - Enhanced",
+  "file_name": "Spopovich",
+  "file_subtitle": "Enhanced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "98b7d7724da6c6d741a0b2d4d45b9efaaa04c787"
+ },
+ "vision": {
+  "id": "S11_BST_48",
+  "name": "Spopovich",
+  "sub": "Enhanced",
+  "type": "Ally",
+  "num": "U48",
+  "lvl": 1,
+  "stages": [
+   500,
+   400,
+   300,
+   200,
+   100,
+   50,
+   25,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Majin"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDAMAGE: 3 stages.\nHIT: You may destroy an Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "edge reads 'VILLAIN ALLY'; purple Majin-set Ally frame; Trait badges E + M",
+  "_src": "S11.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "1 | SPOPOVICH E)\ni}. ENHANCED U48\n~ ie",
+  "stages_text": "500\n400\n\n300\n200\n4 100\n7 50\n25\n15\n10\n5\n0",
+  "error": null
+ }
+}

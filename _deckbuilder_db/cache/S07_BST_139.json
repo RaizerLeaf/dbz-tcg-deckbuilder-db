@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_BST_139",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Booster)",
+  "filename": "139_Trunks' Knee Bash.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/139_Trunks' Knee Bash.png",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Trunks' Knee Bash",
+  "file_name": "Trunks' Knee Bash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4d399d2f3eed3313c37cea7f5a23cd02254a22c5"
+ },
+ "vision": {
+  "id": "S07_BST_139",
+  "name": "Trunks' Knee Bash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This card is considered to have \"Sword\" in the title for your card effects.)\n[Attack] Physical attack.\nBanish a Setup, Drill, or attached card.\nDAMAGE: AT +3 stages.\nHIT: Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S07.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.4,
+  "header_text": "TRUNKS' KNEE BASH ) R139\nOU ——",
+  "stages_text": "",
+  "error": null
+ }
+}

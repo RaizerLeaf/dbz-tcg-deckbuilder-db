@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S07_STR_S70",
+  "set_number": 7,
+  "set_name": "Awakening",
+  "set_code": "S07",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "07_Set 7 (Awakening)/Awakening (Starter & DR)",
+  "filename": "S70_Orange Stare Down.png",
+  "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S70_Orange Stare Down.png",
+  "prefix": "S",
+  "number": 70,
+  "card_number": "S70",
+  "name_part": "Orange Stare Down",
+  "file_name": "Orange Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "54292430114001518b14e476ebee8282479faf99"
+ },
+ "vision": {
+  "id": "S07_STR_S70",
+  "name": "Orange Stare Down",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S70",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "S07 reprint of S01_STR_S117; text compared on the sheet",
+  "_src": "S07.jsonl:253"
+ },
+ "ocr": {
+  "agreement": 0.765,
+  "lower_conf": 75.0,
+  "header_text": "ORANGE STARE DOWN\nAV ~/) — _f Ue",
+  "stages_text": "4\n5",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S04_BST_92",
+  "set_number": 4,
+  "set_name": "Evolution",
+  "set_code": "S04",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Booster)",
+  "filename": "92_Android 20 - Master Planner.png",
+  "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/92_Android 20 - Master Planner.png",
+  "prefix": null,
+  "number": 92,
+  "card_number": "92",
+  "name_part": "Android 20 - Master Planner",
+  "file_name": "Android 20",
+  "file_subtitle": "Master Planner",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1007,
+  "height": 1407,
+  "orientation": "portrait",
+  "sha1": "ec6874b2e9e72d9e97920be21d4b3b742afb74e2"
+ },
+ "vision": {
+  "id": "S04_BST_92",
+  "name": "Android 20",
+  "sub": "Master Planner",
+  "type": "Main Personality",
+  "num": "U92",
+  "lvl": 4,
+  "stages": [
+   1400000,
+   1300000,
+   1200000,
+   1100000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "(You may use this [Defense] POWER more than once per turn but only once per attack.)\n[Defense] POWER: Destroy the top 2 cards of your Life Deck to prevent all damage from an energy attack.\nPOWER: Shuffle a non-Styled Drill you control into its owner's Life Deck to destroy the top 3 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "Set 4 personality layout; edge reads VILLAIN -> MP",
+  "_src": "S04.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 0.932,
+  "lower_conf": 80.4,
+  "header_text": "@1. ANDROID 20 V92\nLEVEL MASTER PLANNER\njew. Re OP",
+  "stages_text": "1,400,000\n1,300,000\n1,200,000\n1,100,000\n1,000,000\n1800,000\n600,000\n400,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}
