@@ -1,12 +1,129 @@
 {
  "_note": "Transcribed from the Trait reference cards (not playable; no card records). Used only to cross-check Trait data in Phase 4/5. Spelling as printed.",
  "S10": {
-  "Alien": ["Burter","Captain Ginyu","Cell","Cell Jr.","Cooler","Dodoria","Frieza","Garlic Jr.","Guldo","Jiece","Recoome","Salza","Zarbon"],
-  "Android": ["Android 13","Android 14","Android 15","Android 16","Android 17","Android 18","Android 19","Android 20","Cell","Cell Jr.","Dr. Wheelo","Mercenary Tao"],
-  "Earthling": ["Android 17","Android 18","Android 20","Baba","Bulma","Cell","Cell Jr.","Chaozu","ChiChi","Dr. Brief","Dr. Wheelo","Gohan","Goku","Hercule","Icarus","Jimmy Firecracker","Korin","Krillin","Maron","Master Roshi","Mercenary Tao","Puar","Oolong","Ox King","Tenshinhan","Trunks","Turtle","Yajirobe","Yamcha"],
-  "God": ["Beerus","Kami","Mr. Popo"],
-  "Namekian": ["Cell","Cell Jr.","Gohan","Kami","Lord Slug","Nail","Piccolo"],
-  "Saiyan": ["Broly","Cell","Cell Jr.","Gohan","Goku","Nappa","Paragus","Raditz","Trunks","Turles","Vegeta"]
+  "Alien": [
+   "Burter",
+   "Captain Ginyu",
+   "Cell",
+   "Cell Jr.",
+   "Cooler",
+   "Dodoria",
+   "Frieza",
+   "Garlic Jr.",
+   "Guldo",
+   "Jiece",
+   "Recoome",
+   "Salza",
+   "Zarbon"
+  ],
+  "Android": [
+   "Android 13",
+   "Android 14",
+   "Android 15",
+   "Android 16",
+   "Android 17",
+   "Android 18",
+   "Android 19",
+   "Android 20",
+   "Cell",
+   "Cell Jr.",
+   "Dr. Wheelo",
+   "Mercenary Tao"
+  ],
+  "Earthling": [
+   "Android 17",
+   "Android 18",
+   "Android 20",
+   "Baba",
+   "Bulma",
+   "Cell",
+   "Cell Jr.",
+   "Chaozu",
+   "ChiChi",
+   "Dr. Brief",
+   "Dr. Wheelo",
+   "Gohan",
+   "Goku",
+   "Hercule",
+   "Icarus",
+   "Jimmy Firecracker",
+   "Korin",
+   "Krillin",
+   "Maron",
+   "Master Roshi",
+   "Mercenary Tao",
+   "Puar",
+   "Oolong",
+   "Ox King",
+   "Tenshinhan",
+   "Trunks",
+   "Turtle",
+   "Yajirobe",
+   "Yamcha"
+  ],
+  "God": [
+   "Beerus",
+   "Kami",
+   "Mr. Popo"
+  ],
+  "Namekian": [
+   "Cell",
+   "Cell Jr.",
+   "Gohan",
+   "Kami",
+   "Lord Slug",
+   "Nail",
+   "Piccolo"
+  ],
+  "Saiyan": [
+   "Broly",
+   "Cell",
+   "Cell Jr.",
+   "Gohan",
+   "Goku",
+   "Nappa",
+   "Paragus",
+   "Raditz",
+   "Trunks",
+   "Turles",
+   "Vegeta"
+  ]
  },
- "icon_colours": {"Alien":"purple shield/triangle (A)","Android":"grey card (R)","Earthling":"teal Capsule Corp logo (E)","God":"gold box (G)","Namekian":"orange hexagon (N)","Saiyan":"green fist (S)"}
+ "icon_colours": {
+  "Alien": "purple shield/triangle (A)",
+  "Android": "grey card (R)",
+  "Earthling": "teal Capsule Corp logo (E)",
+  "God": "gold box (G)",
+  "Namekian": "orange hexagon (N)",
+  "Saiyan": "green fist (S)",
+  "F": "Fusion (grey badge, white starburst, letter F)"
+ },
+ "S13": {
+  "Fusion": {
+   "rule": "Fused MP's Life Decks cannot include the listed Allies",
+   "listed": {
+    "Vegito": [
+     "Goku",
+     "Vegeta"
+    ],
+    "Gogeta": [
+     "Goku",
+     "Vegeta"
+    ],
+    "Gotenks": [
+     "Goten",
+     "Kid Trunks"
+    ],
+    "Kefla": [
+     "Caulifla",
+     "Kale"
+    ],
+    "Fused Zamasu": [
+     "Goku Black",
+     "Zamasu"
+    ]
+   },
+   "source": "S13 T_Fusion Trait.png (reference card, not playable)"
+  }
+ }
 }
