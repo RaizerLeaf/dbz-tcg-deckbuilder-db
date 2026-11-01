@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_62",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "62_Namek Dragon Ball 5.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/62_Namek Dragon Ball 5.jpg",
+  "prefix": null,
+  "number": 62,
+  "card_number": "62",
+  "name_part": "Namek Dragon Ball 5",
+  "file_name": "Namek Dragon Ball 5",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4d05764b890ae3593cbbfaf66dc398119d199620"
+ },
+ "vision": {
+  "id": "S01_BST_62",
+  "name": "Namek Dragon Ball 5",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "U62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Gain 5 stages. Raise your anger 1 level. Draw a card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.2,
+  "header_text": "(NAMEK DRAGON BALL 5 () _—\nyy \\ i \\",
+  "stages_text": ",",
+  "error": null
+ }
+}

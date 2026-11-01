@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P21",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P21_Krillin’s Destructo Disk.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P21_Krillin’s Destructo Disk.jpg",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Krillin’s Destructo Disk",
+  "file_name": "Krillin’s Destructo Disk",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a3b4fe74c1a36ba6e26432280e5d115fe99d5d08"
+ },
+ "vision": {
+  "id": "S01_PRO_P21",
+  "name": "Krillin's Destructo Disk",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE 4 life cards. This attack cannot be stopped or have its damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R157; this printing omits the colon after DAMAGE",
+  "_src": "S01.jsonl:185"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.8,
+  "header_text": "Ey a Ee a\n{ SSS —\n(KRILLIN'S DESTRUCT.O:.DISK () Pel",
+  "stages_text": "",
+  "error": null
+ }
+}

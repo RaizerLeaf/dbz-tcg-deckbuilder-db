@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P142",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P142_Cooler - Menace.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P142_Cooler - Menace.png",
+  "prefix": "P",
+  "number": 142,
+  "card_number": "P142",
+  "name_part": "Cooler - Menace",
+  "file_name": "Cooler",
+  "file_subtitle": "Menace",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "88f32298074589ea388c6e6e2e2c860b6a3ce374"
+ },
+ "vision": {
+  "id": "PZP_MP_P142",
+  "name": "Cooler",
+  "sub": "Menace",
+  "type": "Main Personality",
+  "num": "P142",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(When you reach this level, search your Banished Zone for a card and Rejuvenate it.)\n[Continuous]: After taking damage from an attack, Rejuvenate 1.\nPOWER: [Attack] 2: Energy attack.\nRejuvenate 3.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:200"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "2 COOLER\n: MENACE P142",
+  "stages_text": ", 1,500,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000\n25,000\n12,500\n0",
+  "error": null
+ }
+}

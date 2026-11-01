@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P82",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P82_Captain Ginyu - Frog.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P82_Captain Ginyu - Frog.png",
+  "prefix": "P",
+  "number": 82,
+  "card_number": "P82",
+  "name_part": "Captain Ginyu - Frog",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Frog",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "510743e19e2ff1d1a0806d35a5eac407b2d20cd5"
+ },
+ "vision": {
+  "id": "PZP_MP_P82",
+  "name": "Captain Ginyu",
+  "sub": "Frog",
+  "type": "Main Personality",
+  "num": "P82",
+  "lvl": 4,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Namekian",
+   "Alien"
+  ],
+  "text": "[Continuous]: Your Allies may make actions regardless of your MP's power stage and they cannot be discarded. Your attacks deal +X life cards. X = the number of Allies you have in play when you perform that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 U67. Trait badges N + A (matches the CRD: Captain Ginyu - Frog is Namekian)",
+  "_src": "PZP.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.4,
+  "header_text": "| CAPTAIN GINYU pg?\nLEVEL FROG",
+  "stages_text": "10\n9\n8\n, 7\n6\n5\n4\n3\n2\n0",
+  "error": null
+ }
+}

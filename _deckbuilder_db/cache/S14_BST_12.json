@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_12",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "12_Namekian Spin.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/12_Namekian Spin.png",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Namekian Spin",
+  "file_name": "Namekian Spin",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c00ed9de4eafc869f7a4e746d6c2f1bba1366e3b"
+ },
+ "vision": {
+  "id": "S14_BST_12",
+  "name": "Namekian Spin",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may shuffle a Dragon Ball back into its owner's Life Deck. If you do, banish X cards from your opponent's discard pile. X = the number of Dragon Balls you own in play.\nDAMAGE: AT + 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "NAMEKIAN SPIN yui2",
+  "stages_text": "1\n2,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S11",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S11_Gohan - Determined.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S11_Gohan - Determined.jpg",
+  "prefix": "S",
+  "number": 11,
+  "card_number": "S11",
+  "name_part": "Gohan - Determined",
+  "file_name": "Gohan",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7c6d0c8f3ab2e5a29fb22a15910969e569773cf5"
+ },
+ "vision": {
+  "id": "S01_STR_S11",
+  "name": "Gohan",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "S11",
+  "lvl": 3,
+  "stages": [
+   400000,
+   350000,
+   300000,
+   250000,
+   200000,
+   150000,
+   100000,
+   75000,
+   7500,
+   750,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack] POWER: Physical attack. DAMAGE: 6 stages. You may lower your anger any amount. This attack deals +X life cards of damage. X = 2 times the amount lowered.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:196"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": ". \\&\nHAN\nLEVEL . , <>\n‘ > Ww ANN nNnn",
+  "stages_text": "350,000\n300,000\n250,000\n200,000\n150,000\n100,000\n75,000\n7,500\n\n750",
+  "error": null
+ }
+}

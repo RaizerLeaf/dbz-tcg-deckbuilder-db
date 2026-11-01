@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_95",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "95_Orange Overhead Smash.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/95_Orange Overhead Smash.jpg",
+  "prefix": null,
+  "number": 95,
+  "card_number": "95",
+  "name_part": "Orange Overhead Smash",
+  "file_name": "Orange Overhead Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f9b2fa6a10b4f6b883b3e4a169afb25c60e5a69a"
+ },
+ "vision": {
+  "id": "S01_BST_95",
+  "name": "Orange Overhead Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +3 stages. If you have at least 5 Drills in play, this attack deals an additional +7 life cards of damage. HIT: Shuffle all Drills in your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 0.975,
+  "lower_conf": 79.5,
+  "header_text": "orance OVERHEAD: SMASH €© eed",
+  "stages_text": ",\n1\n,",
+  "error": null
+ }
+}

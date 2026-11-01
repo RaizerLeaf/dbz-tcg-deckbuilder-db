@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P68",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P68_Hercule - Posing.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P68_Hercule - Posing.png",
+  "prefix": "P",
+  "number": 68,
+  "card_number": "P68",
+  "name_part": "Hercule - Posing",
+  "file_name": "Hercule",
+  "file_subtitle": "Posing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8eb3dfa0e3ff2b3e4b740f02cf91d540aeb6e089"
+ },
+ "vision": {
+  "id": "PZP_MP_P68",
+  "name": "Hercule",
+  "sub": "Posing",
+  "type": "Main Personality",
+  "num": "P68",
+  "lvl": 2,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your Named cards cannot have their damage modified by your effects. Your opponent's attacks deal -3 stages and -3 life cards of damage. You cannot use the effects of [Continuous] Drills.\nPOWER: [Attack] Physical attack.\nSearch your Life Deck for \"Hercule's Dynamite Kick\" and place it into your hand.\nDAMAGE: 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Power stages are printed ASCENDING (5 ... 50) above 0; printed design, not a misread",
+  "_src": "PZP.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 0.942,
+  "lower_conf": 82.7,
+  "header_text": "HERCULE",
+  "stages_text": "5\n\n10\n\n15\n\n20\n\n25\n30\n35\n40\n\n45\n\n50\n\n0",
+  "error": null
+ }
+}

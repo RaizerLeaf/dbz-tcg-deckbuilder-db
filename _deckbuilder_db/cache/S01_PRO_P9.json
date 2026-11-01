@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P9",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P9_Vegeta’s Galick Gun.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P9_Vegeta’s Galick Gun.jpg",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Vegeta’s Galick Gun",
+  "file_name": "Vegeta’s Galick Gun",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "613f3fe5aca5c6d2233c1b2af1420d5f9bd35652"
+ },
+ "vision": {
+  "id": "S01_PRO_P9",
+  "name": "Vegeta's Galick Gun",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P9",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. Damage from this attack cannot be prevented. If you deal critical damage with this attack, you may use two critical effects instead of one. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R160 (same text)",
+  "_src": "S01.jsonl:173"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "© EGETA'S GALTCK:GUN. ©) cE |",
+  "stages_text": "4\n5\n2\n4\n3\n4\n34",
+  "error": null
+ }
+}

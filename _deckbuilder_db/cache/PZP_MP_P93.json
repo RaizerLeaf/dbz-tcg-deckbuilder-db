@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P93",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P93_Tenshinhan - Patient.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P93_Tenshinhan - Patient.png",
+  "prefix": "P",
+  "number": 93,
+  "card_number": "P93",
+  "name_part": "Tenshinhan - Patient",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Patient",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0507fa43cac0d861ec88b255d11e45c75699e648"
+ },
+ "vision": {
+  "id": "PZP_MP_P93",
+  "name": "Tenshinhan",
+  "sub": "Patient",
+  "type": "Main Personality",
+  "num": "P93",
+  "lvl": 1,
+  "stages": [
+   3800,
+   3400,
+   3000,
+   2600,
+   2200,
+   1800,
+   1400,
+   1000,
+   600,
+   200,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: Banish the top card of your Life Deck to search your Life Deck for a Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "TENSHINHAN",
+  "stages_text": "3,800\n3,400\n3,000\n\n2,600\n\n2,200\n1,800\n1,400\n1,000\n\n600\n\n200\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_40",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "40_Orange Energy Absorption.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/40_Orange Energy Absorption.jpg",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Orange Energy Absorption",
+  "file_name": "Orange Energy Absorption",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "bf8d12adb25d2f804af30de82323e70554b27d1d"
+ },
+ "vision": {
+  "id": "S01_BST_40",
+  "name": "Orange Energy Absorption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Defense] Stops an energy attack. Gain 5 stages. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "[ORANGE ENERGY ABSORPTION C) cao\n~ >",
+  "stages_text": "4",
+  "error": null
+ }
+}

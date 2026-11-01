@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_88",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "88_Namekian Targeted Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/88_Namekian Targeted Strike.jpg",
+  "prefix": null,
+  "number": 88,
+  "card_number": "88",
+  "name_part": "Namekian Targeted Strike",
+  "file_name": "Namekian Targeted Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "434e9946dee55780da5210b4e0f6e451312315cd"
+ },
+ "vision": {
+  "id": "S01_BST_88",
+  "name": "Namekian Targeted Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: You may use the effect of a Dragon Ball in play. If you do, banish this card after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(NAMEKIAN TARGETED..STRIKE () UBS\n‘ ’ q",
+  "stages_text": "4\n\n1\n347\n,",
+  "error": null
+ }
+}

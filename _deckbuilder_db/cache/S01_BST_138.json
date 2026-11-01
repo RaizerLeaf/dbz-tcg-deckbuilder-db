@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_138",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "138_Orange Searching Maneuver.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/138_Orange Searching Maneuver.jpg",
+  "prefix": null,
+  "number": 138,
+  "card_number": "138",
+  "name_part": "Orange Searching Maneuver",
+  "file_name": "Orange Searching Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "68c5ec2d6500902b723f5ac50a0885305e5b580f"
+ },
+ "vision": {
+  "id": "S01_BST_138",
+  "name": "Orange Searching Maneuver",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R138",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. Search your Life Deck for a Drill and place it into play at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.4,
+  "header_text": "(ORANGE SEARCHING MANEUVER () aise",
+  "stages_text": ", 6",
+  "error": null
+ }
+}

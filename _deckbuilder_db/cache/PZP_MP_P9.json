@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P9",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P9_Gohan - Armored.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P9_Gohan - Armored.png",
+  "prefix": "P",
+  "number": 9,
+  "card_number": "P9",
+  "name_part": "Gohan - Armored",
+  "file_name": "Gohan",
+  "file_subtitle": "Armored",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c5bd6de514df1f1e3ef5da6d031646f8e9fd7a57"
+ },
+ "vision": {
+  "id": "PZP_MP_P9",
+  "name": "Gohan",
+  "sub": "Armored",
+  "type": "Main Personality",
+  "num": "P9",
+  "lvl": 4,
+  "stages": [
+   525000,
+   450000,
+   375000,
+   300000,
+   225000,
+   200000,
+   125000,
+   50000,
+   5000,
+   500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +3 life cards of damage.\n[Instant] POWER: Use when one of your effects raises your anger. Shuffle a card with \"anger\" in the text-box from your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S12 (the shuffle clause became an [Instant] Power)",
+  "_src": "PZP.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "GOHAN",
+  "stages_text": "525,000\n450,000\n375,000\n300,000\n225,000\n200,000\n125,000\n50,000\n5,000\n\n500\n\n0",
+  "error": null
+ }
+}

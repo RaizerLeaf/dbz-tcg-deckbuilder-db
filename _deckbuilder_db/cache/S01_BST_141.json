@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_141",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "141_Red Forward Stance Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/141_Red Forward Stance Drill.jpg",
+  "prefix": null,
+  "number": 141,
+  "card_number": "141",
+  "name_part": "Red Forward Stance Drill",
+  "file_name": "Red Forward Stance Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ae1be599a0de2ad0a0d2a7561f657855b4cbd0bf"
+ },
+ "vision": {
+  "id": "S01_BST_141",
+  "name": "Red Forward Stance Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: You may lower your anger 1 level to stop a physical or energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:141"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "(RED FORWARD STANCE: DRILL () A141",
+  "stages_text": "7\n4\n1",
+  "error": null
+ }
+}

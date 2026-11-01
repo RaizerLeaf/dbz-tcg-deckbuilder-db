@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P73",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P73_Trunks - Bold.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P73_Trunks - Bold.png",
+  "prefix": "P",
+  "number": 73,
+  "card_number": "P73",
+  "name_part": "Trunks - Bold",
+  "file_name": "Trunks",
+  "file_subtitle": "Bold",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "628331665f5ed1b639449cb70f1e6f1fb5d0b9ce"
+ },
+ "vision": {
+  "id": "PZP_MP_P73",
+  "name": "Trunks",
+  "sub": "Bold",
+  "type": "Main Personality",
+  "num": "P73",
+  "lvl": 3,
+  "stages": [
+   1250000,
+   1000000,
+   750000,
+   500000,
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages of damage. Whenever your anger would be lowered by any amount, it is lowered by 1 instead.\nPOWER: [Attack] Physical attack.\nSkip your next action this combat.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "TRUNKS",
+  "stages_text": "1,250,000\n1,000,000\n750,000\n500,000\n250,000\n200,000\n150,000\n100,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

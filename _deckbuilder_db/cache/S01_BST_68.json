@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_68",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "68_Bulma - Genius.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/68_Bulma - Genius.jpg",
+  "prefix": null,
+  "number": 68,
+  "card_number": "68",
+  "name_part": "Bulma - Genius",
+  "file_name": "Bulma",
+  "file_subtitle": "Genius",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e07c708600595b680e7c4a4f9bb097b1b6e3ba8e"
+ },
+ "vision": {
+  "id": "S01_BST_68",
+  "name": "Bulma",
+  "sub": "Genius",
+  "type": "Ally",
+  "num": "U68",
+  "lvl": 1,
+  "stages": [
+   20,
+   18,
+   16,
+   14,
+   12,
+   10,
+   8,
+   6,
+   4,
+   2,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Continuous]: When Bulma enters play, attach a card from any discard pile to her. Cards with that title cannot be played.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "BULMA S ee\n1 GENIUS oe () USS\nLEVEL =: —_—",
+  "stages_text": "20\n18\n16\n14\n12\n1 10\n8\n6\n4\n2\n0",
+  "error": null
+ }
+}

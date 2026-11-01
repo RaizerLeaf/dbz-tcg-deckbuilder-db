@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_116",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "116_Gohan’s Power Punch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/116_Gohan’s Power Punch.jpg",
+  "prefix": null,
+  "number": 116,
+  "card_number": "116",
+  "name_part": "Gohan’s Power Punch",
+  "file_name": "Gohan’s Power Punch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "88fdc48050ac8bfc77705c7b5ab3360d0d5c2dc8"
+ },
+ "vision": {
+  "id": "S01_BST_116",
+  "name": "Gohan's Power Punch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +5 stages. Raise your anger 2 levels. If you advance a personality level with this card, this attack cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "{eonaws power unce © ule\nLES. Sa SS\n~. << _—§ eee",
+  "stages_text": "4\n0",
+  "error": null
+ }
+}

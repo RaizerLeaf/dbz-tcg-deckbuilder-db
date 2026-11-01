@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S116",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S116_Orange Power Point.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S116_Orange Power Point.jpg",
+  "prefix": "S",
+  "number": 116,
+  "card_number": "S116",
+  "name_part": "Orange Power Point",
+  "file_name": "Orange Power Point",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7d4532ef6cbca0f06a927dce18035f61be2a436a"
+ },
+ "vision": {
+  "id": "S01_STR_S116",
+  "name": "Orange Power Point",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S116",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. HIT: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:301"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "{ RANGE POWER: BOENT — © sls",
+  "stages_text": "2",
+  "error": null
+ }
+}

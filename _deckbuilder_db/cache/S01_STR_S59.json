@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S59",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S59_Red Heating Beams.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S59_Red Heating Beams.jpg",
+  "prefix": "S",
+  "number": 59,
+  "card_number": "S59",
+  "name_part": "Red Heating Beams",
+  "file_name": "Red Heating Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "6c4c386658bb4f8b7bbf5e2ea516b5b9f04d4aff"
+ },
+ "vision": {
+  "id": "S01_STR_S59",
+  "name": "Red Heating Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 1. [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. You may lower your anger 1 level to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:244"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "(RED HEATING BEAMS () sso\na BT! ak!",
+  "stages_text": ",\n1,",
+  "error": null
+ }
+}

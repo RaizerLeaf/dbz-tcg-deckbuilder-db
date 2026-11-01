@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_43",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "43_Orange Revenge.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/43_Orange Revenge.jpg",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Orange Revenge",
+  "file_name": "Orange Revenge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c5ff610c9f6cd399551fd2309b552c2fc757171f"
+ },
+ "vision": {
+  "id": "S01_BST_43",
+  "name": "Orange Revenge",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 3 stages. DAMAGE: 4 life cards +AT stages. Raise your anger 1 level. HIT: Choose 2 Energy Combat cards in your discard pile and place them on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "(ORANGE REVENGE. () cas\nTA \\",
+  "stages_text": "",
+  "error": null
+ }
+}

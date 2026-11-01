@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P20",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P20_Blue Resolute Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P20_Blue Resolute Mastery.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Blue Resolute Mastery",
+  "file_name": "Blue Resolute Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bac7628cd921c2037cb1fe5de9116ee1c310fd91"
+ },
+ "vision": {
+  "id": "S14_PRO_P20",
+  "name": "Blue Resolute Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 life card.\nPOWER: Discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout (title bar mid-card, MASTERY label below text); title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "",
+  "stages_text": "2,\n4",
+  "error": null
+ }
+}

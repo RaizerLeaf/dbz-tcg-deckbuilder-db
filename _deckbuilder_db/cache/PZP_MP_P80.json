@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P80",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P80_Captain Ginyu - Energized.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P80_Captain Ginyu - Energized.png",
+  "prefix": "P",
+  "number": 80,
+  "card_number": "P80",
+  "name_part": "Captain Ginyu - Energized",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Energized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b5ee75d04edbb9a626803dbb9256ea0cee4bc0cd"
+ },
+ "vision": {
+  "id": "PZP_MP_P80",
+  "name": "Captain Ginyu",
+  "sub": "Energized",
+  "type": "Main Personality",
+  "num": "P80",
+  "lvl": 2,
+  "stages": [
+   125000,
+   115000,
+   105000,
+   85000,
+   65000,
+   45000,
+   25000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nSearch your discard pile for an Ally and place it into play at 5 power stages above 0. Raise your anger X. X = the number of your \"Ginyu Force\" Allies in play.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 C7",
+  "_src": "PZP.jsonl:137"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "@ CAPTAIN GINYU Pag\nLEVEL ENERGIZED\nI",
+  "stages_text": "125,000\n115,000\n105,000\n85,000\n65,000\n45,000\n25,000\n5,000\n\n2,500\n\n1,250\n0",
+  "error": null
+ }
+}

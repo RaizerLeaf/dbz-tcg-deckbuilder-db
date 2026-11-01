@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P70",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P70_Hercule - In Action.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P70_Hercule - In Action.png",
+  "prefix": "P",
+  "number": 70,
+  "card_number": "P70",
+  "name_part": "Hercule - In Action",
+  "file_name": "Hercule",
+  "file_subtitle": "In Action",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bb8c70023cc6a6838990fe732f5eef14f731d321"
+ },
+ "vision": {
+  "id": "PZP_MP_P70",
+  "name": "Hercule",
+  "sub": "In Action",
+  "type": "Main Personality",
+  "num": "P70",
+  "lvl": 4,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Whenever you use a Named card, destroy the top card of your opponent's Life Deck and lower each player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Power stages are printed ASCENDING (5 ... 50) above 0; printed design, not a misread",
+  "_src": "PZP.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "HERCULE\n/\n> Lo =",
+  "stages_text": "5\n10\n15\n\n20\n\n25\n30\n35\n40\n\n45\n\n50\n\n0",
+  "error": null
+ }
+}

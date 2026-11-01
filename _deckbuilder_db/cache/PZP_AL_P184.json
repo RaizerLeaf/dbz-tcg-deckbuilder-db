@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P184",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P184_Korin - Watching From Afar.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P184_Korin - Watching From Afar.png",
+  "prefix": "P",
+  "number": 184,
+  "card_number": "P184",
+  "name_part": "Korin - Watching From Afar",
+  "file_name": "Korin",
+  "file_subtitle": "Watching From Afar",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1fff33787c71166a607a6924143268fd47a96115"
+ },
+ "vision": {
+  "id": "PZP_AL_P184",
+  "name": "Korin",
+  "sub": "Watching From Afar",
+  "type": "Ally",
+  "num": "P184",
+  "lvl": 1,
+  "stages": [
+   25,
+   23,
+   21,
+   19,
+   17,
+   15,
+   13,
+   11,
+   9,
+   7,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: After taking life card damage from an attack, Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "1 KORIN\nLEVEL WATCHING FROM AFAR () P184\nFT",
+  "stages_text": "7 25\n23\n\n21\n\n19\n17\n15\n13\n11\n0",
+  "error": null
+ }
+}

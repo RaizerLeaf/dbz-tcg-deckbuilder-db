@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_101",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "101_Red Shielded Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/101_Red Shielded Strike.jpg",
+  "prefix": null,
+  "number": 101,
+  "card_number": "101",
+  "name_part": "Red Shielded Strike",
+  "file_name": "Red Shielded Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4ebe6ad2388017346d98f0095263905efb9f7ef6"
+ },
+ "vision": {
+  "id": "S01_BST_101",
+  "name": "Red Shielded Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U101",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +3 stages. You may lower your anger 3 levels to stop all physical attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "(RED SHIELDED STRIKE () 101\niy ee |",
+  "stages_text": ",",
+  "error": null
+ }
+}

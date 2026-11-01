@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P26",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P26_Saiyan Dynamic Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P26_Saiyan Dynamic Mastery.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Saiyan Dynamic Mastery",
+  "file_name": "Saiyan Dynamic Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a076919c3d5f6762e4642af6f5eedfb5c2ec6f0e"
+ },
+ "vision": {
+  "id": "S14_PRO_P26",
+  "name": "Saiyan Dynamic Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may begin the game on Level 2.)\n[Continuous]: You need 6 anger to advance a personality level. Your Styled attacks without \"anger\" printed in the text-box gain \"Raise your anger 1.\"",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout; title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:79"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.1,
+  "header_text": ": tf *",
+  "stages_text": "2,\n4 ,",
+  "error": null
+ }
+}

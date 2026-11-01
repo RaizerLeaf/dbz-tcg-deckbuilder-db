@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_40",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "40_Hercule - Best Buddy.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/40_Hercule - Best Buddy.png",
+  "prefix": null,
+  "number": 40,
+  "card_number": "40",
+  "name_part": "Hercule - Best Buddy",
+  "file_name": "Hercule",
+  "file_subtitle": "Best Buddy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e03bf3a030fd67654e37acb43fdc60044dbae55f"
+ },
+ "vision": {
+  "id": "S14_BST_40",
+  "name": "Hercule",
+  "sub": "Best Buddy",
+  "type": "Ally",
+  "num": "U40",
+  "lvl": 1,
+  "stages": [
+   137,
+   142,
+   147,
+   152,
+   157,
+   162,
+   167,
+   172,
+   177,
+   182,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Buu or Videl, you may use this Power regardless of your MP's power stage.)\nPOWER: [Attack] Physical attack.\nRaise or lower a player's anger 1. If this is not the first time you have used this Power this combat, gain 3 stages and Rejuvenate the bottom 3 cards of your discard pile.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO ALLY'. Power stages are printed ASCENDING top to bottom (137 ... 182) above 0; this is the printed design (joke card), not a misread",
+  "_src": "S14.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 0.951,
+  "lower_conf": 79.0,
+  "header_text": "1 Ear\nLEVEL | BEST BUDDY E) U40",
+  "stages_text": "137\n142\n\n147\n\n152\n157\n162\n167\n172\n177\n\n1 182\n0",
+  "error": null
+ }
+}

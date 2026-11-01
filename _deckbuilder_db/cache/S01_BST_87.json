@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_87",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "87_Namekian Hybrid Defense.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/87_Namekian Hybrid Defense.jpg",
+  "prefix": null,
+  "number": 87,
+  "card_number": "87",
+  "name_part": "Namekian Hybrid Defense",
+  "file_name": "Namekian Hybrid Defense",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4410bf6260936b9e6e3053ccfafc3b629e6014f6"
+ },
+ "vision": {
+  "id": "S01_BST_87",
+  "name": "Namekian Hybrid Defense",
+  "sub": null,
+  "type": "Event",
+  "num": "U87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] POWER: Stops a physical or energy attack. Choose X cards in your discard pile and Rejuvenate them. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "[NAMEKIAN HYBRID. DEFENSE () USB7",
+  "stages_text": "",
+  "error": null
+ }
+}

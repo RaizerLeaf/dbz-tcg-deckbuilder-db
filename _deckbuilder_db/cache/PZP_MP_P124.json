@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P124",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P124_Master Roshi - Expectant.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P124_Master Roshi - Expectant.png",
+  "prefix": "P",
+  "number": 124,
+  "card_number": "P124",
+  "name_part": "Master Roshi - Expectant",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Expectant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a6b47c282a2efe5ce66c5f608b7eefa917b7791b"
+ },
+ "vision": {
+  "id": "PZP_MP_P124",
+  "name": "Master Roshi",
+  "sub": "Expectant",
+  "type": "Main Personality",
+  "num": "P124",
+  "lvl": 1,
+  "stages": [
+   139,
+   129,
+   119,
+   109,
+   99,
+   89,
+   79,
+   69,
+   59,
+   49,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: After your Life Deck is shuffled, you may Rejuvenate 1.\n[Defense] POWER: Choose a Setup or Drill in your hand and place it into play to prevent all damage from an attack. Raise your anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:182"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "LL MASTER ROSHI\nLEVEL EXPECTANT () P124\ni eee, ae",
+  "stages_text": "139\n\n129\n\n119\n\n109\n\n99\n89\n79\n69\n\n59\n\n49\n0",
+  "error": null
+ }
+}

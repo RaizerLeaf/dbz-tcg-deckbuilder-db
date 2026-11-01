@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P145",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P145_Master Roshi - Restrained.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P145_Master Roshi - Restrained.png",
+  "prefix": "P",
+  "number": 145,
+  "card_number": "P145",
+  "name_part": "Master Roshi - Restrained",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Restrained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "68482c6f659da488a5f000178706ed868ce1b090"
+ },
+ "vision": {
+  "id": "PZP_MP_P145",
+  "name": "Master Roshi",
+  "sub": "Restrained",
+  "type": "Main Personality",
+  "num": "P145",
+  "lvl": 1,
+  "stages": [
+   130,
+   120,
+   110,
+   100,
+   90,
+   80,
+   70,
+   60,
+   50,
+   40,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(You may use the Power of your \"Turtle\" regardless of your MP's power stage.)\n[Continuous]: Whenever you banish cards from your opponent's discard pile, destroy the top card of your opponent's Life Deck.\nPOWER: Search your Life Deck for an Ally named \"Turtle\" and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Second Master Roshi Level 1 in this folder (also P124 Expectant)",
+  "_src": "PZP.jsonl:203"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.1,
+  "header_text": "MASTER ROSHI\n: RESTRAINED P145",
+  "stages_text": "130\n\n120\n\n110\n\n100\n\n90\n80\n70\n60\n\n50\n\n40\n0",
+  "error": null
+ }
+}

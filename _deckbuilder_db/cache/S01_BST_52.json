@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_52",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "52_Saiyan Energy Focus.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/52_Saiyan Energy Focus.jpg",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Saiyan Energy Focus",
+  "file_name": "Saiyan Energy Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1748972b15a52cc1084d36e1423bf12445f5c92a"
+ },
+ "vision": {
+  "id": "S01_BST_52",
+  "name": "Saiyan Energy Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. Choose 3 non-personality/non-Mastery cards in play. Those cards lose all effects until the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:52"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "(SAIYAN ENERGY FOCUS () ose\n= ag",
+  "stages_text": "337",
+  "error": null
+ }
+}

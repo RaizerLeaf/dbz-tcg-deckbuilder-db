@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P45",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P45_Overwhelming Power.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P45_Overwhelming Power.png",
+  "prefix": "P",
+  "number": 45,
+  "card_number": "P45",
+  "name_part": "Overwhelming Power",
+  "file_name": "Overwhelming Power",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3f99741e697453a1d9cb05c9de6ba8f96003bea"
+ },
+ "vision": {
+  "id": "S14_PRO_P45",
+  "name": "Overwhelming Power",
+  "sub": null,
+  "type": "Event",
+  "num": "P45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a non-Mastery card effect, you may use a critical damage effect.)\nPOWER: If your MP's power level is higher than your opponent's MP's power level, destroy up to 2 Setups and/or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S14.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "OVERWHELMING POWER () P45",
+  "stages_text": "1,",
+  "error": null
+ }
+}

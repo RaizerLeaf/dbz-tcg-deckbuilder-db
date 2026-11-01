@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S120",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S120_Red Static Shot.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S120_Red Static Shot.jpg",
+  "prefix": "S",
+  "number": 120,
+  "card_number": "S120",
+  "name_part": "Red Static Shot",
+  "file_name": "Red Static Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a58dbebaccc7e77bbaf96e495a2f7a8cdfabfb35"
+ },
+ "vision": {
+  "id": "S01_STR_S120",
+  "name": "Red Static Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Your opponent cannot use Endurance on your Styled attacks this combat. HIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:305"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "‘(RED STATIC SHOT @ ==\nSY =e",
+  "stages_text": ",4\n,\n37",
+  "error": null
+ }
+}

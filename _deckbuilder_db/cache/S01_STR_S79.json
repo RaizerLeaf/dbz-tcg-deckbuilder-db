@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S79",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S79_Red Lifting Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S79_Red Lifting Kick.jpg",
+  "prefix": "S",
+  "number": 79,
+  "card_number": "S79",
+  "name_part": "Red Lifting Kick",
+  "file_name": "Red Lifting Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f9a5a5cd4f8f6eed17ddb6d47be335d422a28817"
+ },
+ "vision": {
+  "id": "S01_STR_S79",
+  "name": "Red Lifting Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S79",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. You may lower your anger 1 level to have this attack deal +6 stages instead of +3.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:264"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "(RED LIFTING KICK. () S73\na ania —",
+  "stages_text": ",\n3,\n13,",
+  "error": null
+ }
+}

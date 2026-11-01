@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_110",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "110_Devastating Blow.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/110_Devastating Blow.jpg",
+  "prefix": null,
+  "number": 110,
+  "card_number": "110",
+  "name_part": "Devastating Blow",
+  "file_name": "Devastating Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9f33636e902b021923bcdfae0b6797b06c5b0c99"
+ },
+ "vision": {
+  "id": "S01_BST_110",
+  "name": "Devastating Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +1 stage. Raise your anger 1 level. Lower your opponent's anger 2 levels. Choose 3 cards in your opponent's discard pile and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(DEVASTATING BLOW.. () W110",
+  "stages_text": "41,",
+  "error": null
+ }
+}

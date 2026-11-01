@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P150",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P150_Cell Jr. - Confident.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P150_Cell Jr. - Confident.png",
+  "prefix": "P",
+  "number": 150,
+  "card_number": "P150",
+  "name_part": "Cell Jr. - Confident",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Confident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7a17e8328b7ae2edd0dd07ec572a96037e29889d"
+ },
+ "vision": {
+  "id": "PZP_MP_P150",
+  "name": "Cell Jr.",
+  "sub": "Confident",
+  "type": "Main Personality",
+  "num": "P150",
+  "lvl": 4,
+  "stages": [
+   1100000,
+   900000,
+   700000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: As an action during combat, you may banish an Ally with \"Cell Jr.\" in the title from your hand to destroy the top 3 cards of your opponent's Life Deck. Your physical attacks that do not have AT base damage deal +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:208"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "a CELL DR.\n: CONFIDENT P150",
+  "stages_text": "1,100,000\n900,000\n700,000\n500,000\n\n400,000\n300,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

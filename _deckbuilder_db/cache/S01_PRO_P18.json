@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P18",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P18_Blue Terror.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P18_Blue Terror.jpg",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Blue Terror",
+  "file_name": "Blue Terror",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "fcd0278a4ba0765ba91978a248109c8b72a000e9"
+ },
+ "vision": {
+  "id": "S01_PRO_P18",
+  "name": "Blue Terror",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) [Attack]: Energy attack costing 2 stages. DAMAGE: 3 life cards. Search your Life Deck for a non-Dragon Ball card and place it in your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S01 R129; wording differs slightly: this printing says 'place it in your hand', booster says 'place it into your hand'",
+  "_src": "S01.jsonl:182"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "(BLUE TERROR cs C) 718",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

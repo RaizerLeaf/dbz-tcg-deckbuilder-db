@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_153",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "153_Captain Ginyu’s Body Switch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/153_Captain Ginyu’s Body Switch.jpg",
+  "prefix": null,
+  "number": 153,
+  "card_number": "153",
+  "name_part": "Captain Ginyu’s Body Switch",
+  "file_name": "Captain Ginyu’s Body Switch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "bfd605ae8d5132c8e0b536162c90337a459c3cd2"
+ },
+ "vision": {
+  "id": "S01_BST_153",
+  "name": "Captain Ginyu's Body Switch",
+  "sub": null,
+  "type": "Event",
+  "num": "R153",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card. Banish after use.) POWER: If the power level of your opponent's MP is higher than your MP's power level, raise your anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.1,
+  "header_text": "Com GINYU'S BODY: SWITCH oa aise ’",
+  "stages_text": "7",
+  "error": null
+ }
+}

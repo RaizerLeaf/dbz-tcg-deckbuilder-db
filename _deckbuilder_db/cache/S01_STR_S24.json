@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S24",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S24_Piccolo - Fused.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S24_Piccolo - Fused.jpg",
+  "prefix": "S",
+  "number": 24,
+  "card_number": "S24",
+  "name_part": "Piccolo - Fused",
+  "file_name": "Piccolo",
+  "file_subtitle": "Fused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "dc8826e7b6b638443f9aba2170fc30d0ddb80ba5"
+ },
+ "vision": {
+  "id": "S01_STR_S24",
+  "name": "Piccolo",
+  "sub": "Fused",
+  "type": "Main Personality",
+  "num": "S24",
+  "lvl": 4,
+  "stages": [
+   750000,
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   100000,
+   50000,
+   5000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your opponent needs to deal 7 or more life cards to activate critical damage.\n[Attack] POWER: Energy attack costing 2 stages. DAMAGE: 7 life cards HIT: Rejuvenate X. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO; no period after '7 life cards' as printed",
+  "_src": "S01.jsonl:209"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "PICCOLO y ) se4\nad FUSED +)\n' \\ 6 —_ N . Inn nnn",
+  "stages_text": "750,000\n650,000\n550,000\n450,000\n350,000\n250,000\n150,000\n100,000\n50,000\n5,000\n\n0",
+  "error": null
+ }
+}

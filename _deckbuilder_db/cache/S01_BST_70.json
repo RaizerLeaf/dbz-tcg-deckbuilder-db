@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_70",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "70_Yamcha - Action Ready.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/70_Yamcha - Action Ready.jpg",
+  "prefix": null,
+  "number": 70,
+  "card_number": "70",
+  "name_part": "Yamcha - Action Ready",
+  "file_name": "Yamcha",
+  "file_subtitle": "Action Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "74e28966adc7275578d7f4faac22c062f86eb38b"
+ },
+ "vision": {
+  "id": "S01_BST_70",
+  "name": "Yamcha",
+  "sub": "Action Ready",
+  "type": "Ally",
+  "num": "U70",
+  "lvl": 1,
+  "stages": [
+   95000,
+   90000,
+   85000,
+   75000,
+   65000,
+   55000,
+   40000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Attack] POWER: Energy attack costing 1 stage. DAMAGE: 3 life cards. HIT: Shuffle a Setup, Drill or Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "YAMCHA es\n1 ACTION READY ee () W’70\nLEVEL ee —\n-_\nd, -",
+  "stages_text": "95,000\n90,000\n85,000\n75,000\n65,000\n55,000\n40,000\n25,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

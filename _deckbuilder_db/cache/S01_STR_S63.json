@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S63",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S63_Saiyan Energy Rupture.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S63_Saiyan Energy Rupture.jpg",
+  "prefix": "S",
+  "number": 63,
+  "card_number": "S63",
+  "name_part": "Saiyan Energy Rupture",
+  "file_name": "Saiyan Energy Rupture",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "39cb924f37e0da3b817c1e3ef4daa4f3d1d21559"
+ },
+ "vision": {
+  "id": "S01_STR_S63",
+  "name": "Saiyan Energy Rupture",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S63",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 3 +AT life cards. Lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:248"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "—",
+  "stages_text": "7",
+  "error": null
+ }
+}

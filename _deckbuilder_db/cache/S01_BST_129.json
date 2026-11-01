@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_129",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "129_Blue Terror.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/129_Blue Terror.jpg",
+  "prefix": null,
+  "number": 129,
+  "card_number": "129",
+  "name_part": "Blue Terror",
+  "file_name": "Blue Terror",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f128dd03c9ed0f0453d74ec865261d8b79de1ab1"
+ },
+ "vision": {
+  "id": "S01_BST_129",
+  "name": "Blue Terror",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) [Attack]: Energy attack costing 2 stages. DAMAGE: 3 life cards. Search your Life Deck for a non-Dragon Ball card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "(BLUE TERROR () mize\nza ed _ar",
+  "stages_text": "",
+  "error": null
+ }
+}

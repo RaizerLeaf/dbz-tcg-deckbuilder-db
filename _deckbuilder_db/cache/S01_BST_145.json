@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_145",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "145_Saiyan Empowered Mastery (Frozen).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/145_Saiyan Empowered Mastery (Frozen).png",
+  "prefix": null,
+  "number": 145,
+  "card_number": "145",
+  "name_part": "Saiyan Empowered Mastery",
+  "file_name": "Saiyan Empowered Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 911,
+  "height": 651,
+  "orientation": "landscape",
+  "sha1": "00343b3d141766540a667bd8d282780fa62e38e1"
+ },
+ "vision": {
+  "id": "S01_BST_145",
+  "name": "Saiyan Empowered Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "R145",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: You cannot win by MPPV. Your Saiyan Style attacks gain \"Raise your anger 1 level. HIT: Gain 3 power stages.\" Whenever you Rejuvenate a Saiyan Style card, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "a '(FROZEN)' label is stamped below the card (owner annotation, not card text)",
+  "_src": "S01.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "| SAIYAN EMPOWERED: MASTERY €) A145\nore tater — — — a z —_—",
+  "stages_text": null,
+  "error": null
+ }
+}

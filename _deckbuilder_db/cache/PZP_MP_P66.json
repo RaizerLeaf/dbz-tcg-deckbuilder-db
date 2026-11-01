@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P66",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P66_Goku - Selfless.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P66_Goku - Selfless.png",
+  "prefix": "P",
+  "number": 66,
+  "card_number": "P66",
+  "name_part": "Goku - Selfless",
+  "file_name": "Goku",
+  "file_subtitle": "Selfless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b0280affb7702c2b21c62922a056278c6ad1b4e7"
+ },
+ "vision": {
+  "id": "PZP_MP_P66",
+  "name": "Goku",
+  "sub": "Selfless",
+  "type": "Main Personality",
+  "num": "P66",
+  "lvl": 4,
+  "stages": [
+   2400000,
+   2000000,
+   1600000,
+   1200000,
+   800000,
+   400000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage and your opponent's attacks deal -2 life cards of damage.\nPOWER: Search your Life Deck, discard pile, or Banished Zone for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "GOKU",
+  "stages_text": "2,400,000\n2,000,000\n1,600,000\n1,200,000\n800,000\n400,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+  "error": null
+ }
+}

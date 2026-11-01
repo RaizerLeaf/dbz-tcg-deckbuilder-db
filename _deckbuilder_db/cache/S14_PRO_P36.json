@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P36",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P36_Namekian Clash.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P36_Namekian Clash.png",
+  "prefix": "P",
+  "number": 36,
+  "card_number": "P36",
+  "name_part": "Namekian Clash",
+  "file_name": "Namekian Clash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8748247ce371a2b9d6bef4c4041f12d79e945410"
+ },
+ "vision": {
+  "id": "S14_PRO_P36",
+  "name": "Namekian Clash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nIf you have performed another physical attack this combat, banish an opponent's Setup or Drill.\nDAMAGE: AT + 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "no Endurance badge",
+  "_src": "S14.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "NAMEKIAN CLASH C) P36\nSS",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

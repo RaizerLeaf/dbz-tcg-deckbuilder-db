@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P14",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P14_Buu - Wild Card.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P14_Buu - Wild Card.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Buu - Wild Card",
+  "file_name": "Buu",
+  "file_subtitle": "Wild Card",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "576bbf314e9e218b489794e49ef09b44bf929b11"
+ },
+ "vision": {
+  "id": "S14_PRO_P14",
+  "name": "Buu",
+  "sub": "Wild Card",
+  "type": "Main Personality",
+  "num": "P14",
+  "lvl": 1,
+  "stages": [
+   2750000,
+   1900000,
+   1400000,
+   900000,
+   600000,
+   400000,
+   200000,
+   70000,
+   40000,
+   8000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage. POWER: You may search your Life Deck for a non-Styled card and banish it. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads VILLAIN -> Main Personality. Sheet showed a cropped tile (layout heuristic missed it); read from the original image. Same stats/text as S14 S43",
+  "_src": "S14.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.8,
+  "header_text": "BUU\nvi WILD CARD r m14",
+  "stages_text": "2,750,000\n1,900,000\n1,400,000\n900,000\n70,000\n0",
+  "error": null
+ }
+}

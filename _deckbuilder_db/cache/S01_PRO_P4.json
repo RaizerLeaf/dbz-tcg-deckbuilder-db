@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P4",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P4_Krillin - Ready.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P4_Krillin - Ready.jpg",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Krillin - Ready",
+  "file_name": "Krillin",
+  "file_subtitle": "Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2462a1f9aafb55558f8805290fba748cd223ca00"
+ },
+ "vision": {
+  "id": "S01_PRO_P4",
+  "name": "Krillin",
+  "sub": "Ready",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 1,
+  "stages": [
+   4000,
+   3600,
+   3200,
+   2800,
+   2400,
+   2000,
+   1600,
+   1200,
+   800,
+   400,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack]: Energy attack costing 2 stages. DAMAGE: 4 life cards. The next time a card is discarded from a hand this combat, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout; type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:168"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.4,
+  "header_text": "\\ 4\nKRILLIN\n1 READY rE\nLEVEL ~~\na A nnn",
+  "stages_text": "4,000\n\n3,600\n\n3,200\n\n2,800\n\n2,400\n\n2,000\n1,600\n1,200\n\n800\n\n400\n\n0",
+  "error": null
+ }
+}

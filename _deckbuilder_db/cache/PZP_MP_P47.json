@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P47",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P47_Trunks - Overpowering.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P47_Trunks - Overpowering.png",
+  "prefix": "P",
+  "number": 47,
+  "card_number": "P47",
+  "name_part": "Trunks - Overpowering",
+  "file_name": "Trunks",
+  "file_subtitle": "Overpowering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "12401560953e2b799bbb39e8b90555755bfc274c"
+ },
+ "vision": {
+  "id": "PZP_MP_P47",
+  "name": "Trunks",
+  "sub": "Overpowering",
+  "type": "Main Personality",
+  "num": "P47",
+  "lvl": 4,
+  "stages": [
+   1700000,
+   1600000,
+   1500000,
+   1400000,
+   1300000,
+   1200000,
+   1100000,
+   1000000,
+   500000,
+   250000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +5 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "41 TRUNKS\nLEVEL OVERPOWERING () P4/\nne eee ee",
+  "stages_text": "1,700,000\n1,600,000\n1,500,000\n1,400,000\n1,300,000\n1,200,000\n1,100,000\n1,000,000\n500,000\n250,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P137",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P137_Broly - Determined.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P137_Broly - Determined.png",
+  "prefix": "P",
+  "number": 137,
+  "card_number": "P137",
+  "name_part": "Broly - Determined",
+  "file_name": "Broly",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2b3e40bbf8ef7f6299fa30e2327ca0d56c924350"
+ },
+ "vision": {
+  "id": "PZP_MP_P137",
+  "name": "Broly",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "P137",
+  "lvl": 2,
+  "stages": [
+   1200000,
+   800000,
+   400000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: After your opponent's MP advances a level, your opponent's MP loses 7 stages. Physical attacks performed by this personality deal +2 stages.\nPOWER: Banish the top card of your opponent's Life Deck. You may reveal 2 attack cards from your hand to banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:195"
+ },
+ "ocr": {
+  "agreement": 0.94,
+  "lower_conf": 80.8,
+  "header_text": "—  BROLY\n: DETERMINED P137",
+  "stages_text": "1,200,000\n800,000\n400,000\n100,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

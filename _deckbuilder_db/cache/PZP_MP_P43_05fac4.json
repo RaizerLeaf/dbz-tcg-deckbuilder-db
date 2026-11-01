@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P43_05fac4",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P43_Piccolo - Ferocious.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P43_Piccolo - Ferocious.png",
+  "prefix": "P",
+  "number": 43,
+  "card_number": "P43",
+  "name_part": "Piccolo - Ferocious",
+  "file_name": "Piccolo",
+  "file_subtitle": "Ferocious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "05fac444bbd0e90be78111c1b8cc6f4dabe6ca0e"
+ },
+ "vision": {
+  "id": "PZP_MP_P43_05fac4",
+  "name": "Piccolo",
+  "sub": "Ferocious",
+  "type": "Main Personality",
+  "num": "P42",
+  "lvl": 3,
+  "stages": [
+   1025000,
+   925000,
+   825000,
+   725000,
+   625000,
+   425000,
+   325000,
+   225000,
+   125000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: You may return a Dragon Ball you control to its owner's hand. If you do, capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FILENAME MISMATCH: the card prints P42 but the file is named 'P43_Piccolo - Ferocious'. There is no P42 file in this folder, so this is very likely a filename typo (owner to confirm)",
+  "_src": "PZP.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "PICCOLO",
+  "stages_text": "1,025,000\n925,000\n825,000\n725,000\n\n625,000\n425,000\n325,000\n225,000\n125,000\n25,000\n\n0",
+  "error": null
+ }
+}

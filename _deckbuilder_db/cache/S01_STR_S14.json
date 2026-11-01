@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S14",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S14_Krillin - Energetic.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S14_Krillin - Energetic.jpg",
+  "prefix": "S",
+  "number": 14,
+  "card_number": "S14",
+  "name_part": "Krillin - Energetic",
+  "file_name": "Krillin",
+  "file_subtitle": "Energetic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "fc3fb7464ac71fa3a80a096b76850e73e9612a67"
+ },
+ "vision": {
+  "id": "S01_STR_S14",
+  "name": "Krillin",
+  "sub": "Energetic",
+  "type": "Main Personality",
+  "num": "S14",
+  "lvl": 2,
+  "stages": [
+   21000,
+   19000,
+   17000,
+   15000,
+   13000,
+   11000,
+   9000,
+   7000,
+   5000,
+   3000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack] POWER: Energy attack costing 3 stages. DAMAGE: 4 life cards. HIT: Your opponent discards a card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:199"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "2 KRILLIN )\nENERGETIC ) S14",
+  "stages_text": "21,000\n19,000\n17,000\n15,000\n13,000\n11,000\n1 9,000\n7,000\n5,000\n3,000\n0",
+  "error": null
+ }
+}

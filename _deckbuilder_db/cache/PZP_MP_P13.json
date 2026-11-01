@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P13",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P13_Goku - Super Saiyan.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P13_Goku - Super Saiyan.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Goku - Super Saiyan",
+  "file_name": "Goku",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7a7dd015389b4de6513a8f98535c92c07bb0d78c"
+ },
+ "vision": {
+  "id": "PZP_MP_P13",
+  "name": "Goku",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 4,
+  "stages": [
+   1650000,
+   1500000,
+   1350000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S8 (adds 'up to')",
+  "_src": "PZP.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "GOKU",
+  "stages_text": "1,650,000\n, 1,500,000\n1,350,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

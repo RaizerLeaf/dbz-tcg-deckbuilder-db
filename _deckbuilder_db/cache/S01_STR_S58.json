@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S58",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S58_Orange Rage.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S58_Orange Rage.jpg",
+  "prefix": "S",
+  "number": 58,
+  "card_number": "S58",
+  "name_part": "Orange Rage",
+  "file_name": "Orange Rage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b7d2af905a13e0e8c9020e697f3c680c2dac55ec"
+ },
+ "vision": {
+  "id": "S01_STR_S58",
+  "name": "Orange Rage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S58",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:243"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "(ORANGE RAGE C) ssa",
+  "stages_text": "4",
+  "error": null
+ }
+}

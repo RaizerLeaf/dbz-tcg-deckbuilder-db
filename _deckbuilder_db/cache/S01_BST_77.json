@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_77",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "77_Black Swerve.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/77_Black Swerve.jpg",
+  "prefix": null,
+  "number": 77,
+  "card_number": "77",
+  "name_part": "Black Swerve",
+  "file_name": "Black Swerve",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "10dda1896b0bc4b448e615464c4b156ff7b217ec"
+ },
+ "vision": {
+  "id": "S01_BST_77",
+  "name": "Black Swerve",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Chose up to two Setups in play. Search your opponent's Life Deck for one copy of each and destroy them.",
+  "conf": "high",
+  "review": null,
+  "note": "'Chose' is the printed spelling",
+  "_src": "S01.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "(BLACK SWERVE > () us7\nan. \\ ee",
+  "stages_text": ",\n9\n,",
+  "error": null
+ }
+}

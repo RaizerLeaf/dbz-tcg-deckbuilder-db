@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_150",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "150_Confrontation.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/150_Confrontation.jpg",
+  "prefix": null,
+  "number": 150,
+  "card_number": "150",
+  "name_part": "Confrontation",
+  "file_name": "Confrontation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "698efeeac90f15a73e3e3bfb77e9d512bcd6f81a"
+ },
+ "vision": {
+  "id": "S01_BST_150",
+  "name": "Confrontation",
+  "sub": null,
+  "type": "Event",
+  "num": "R150",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) POWER: Look at your opponent's hand and choose a card. Your opponent shuffles that card into his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:150"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.5,
+  "header_text": "{ ——__—_ —\n(CONFRONTATION oy () A1SO\nay PAN Ue 7",
+  "stages_text": ",\n4\n4",
+  "error": null
+ }
+}

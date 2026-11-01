@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S01",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S01_Vegeta - Price of Saiyans.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S01_Vegeta - Price of Saiyans.jpg",
+  "prefix": "S",
+  "number": 1,
+  "card_number": "S01",
+  "name_part": "Vegeta - Price of Saiyans",
+  "file_name": "Vegeta",
+  "file_subtitle": "Price of Saiyans",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1d15e306527823da70c497a2bf6022cec7479991"
+ },
+ "vision": {
+  "id": "S01_STR_S01",
+  "name": "Vegeta",
+  "sub": "Prince of Saiyans",
+  "type": "Main Personality",
+  "num": "S1",
+  "lvl": 1,
+  "stages": [
+   10000,
+   8000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks gain \"HIT: Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "starter layout (white title bar); type inferred from frame: right edge reads VILLAIN; filename typo 'Price of Saiyans'",
+  "_src": "S01.jsonl:186"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.4,
+  "header_text": "VEGETA \\\nPRINCE OF SAIYANS ) Sl )\n4 Ls @ innnn",
+  "stages_text": "10,000\n\n8,000\n\n6,000\n\n5,000\n\n7 4,000\n3,000\n5 2,000\n1,000\n\n500\n\n250\n\n0",
+  "error": null
+ }
+}

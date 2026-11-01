@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P117",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P117_Android 20 - Focused.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P117_Android 20 - Focused.png",
+  "prefix": "P",
+  "number": 117,
+  "card_number": "P117",
+  "name_part": "Android 20 - Focused",
+  "file_name": "Android 20",
+  "file_subtitle": "Focused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f47430f2f811ed8ce718416e6f41e5a621fcbf11"
+ },
+ "vision": {
+  "id": "PZP_MP_P117",
+  "name": "Android 20",
+  "sub": "Focused",
+  "type": "Main Personality",
+  "num": "P117",
+  "lvl": 1,
+  "stages": [
+   90000,
+   80000,
+   70000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "POWER: Your opponent reveals their hand. You may pay 3 stages. If you do, your opponent's MP loses 3 stages and you may search your Life Deck for a non-Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:174"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "ANDROID 20\nLEVEL FOCUSED C)eu7",
+  "stages_text": "90,000\n80,000\n70,000\n60,000\n\n40,000\n\n20,000\n\n10,000\n\n5,000\n\n2,500\n\n1,250\n0",
+  "error": null
+ }
+}

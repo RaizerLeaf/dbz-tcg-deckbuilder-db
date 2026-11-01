@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S19",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S19_Frieza - Galactic Conquerer.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S19_Frieza - Galactic Conquerer.jpg",
+  "prefix": "S",
+  "number": 19,
+  "card_number": "S19",
+  "name_part": "Frieza - Galactic Conquerer",
+  "file_name": "Frieza",
+  "file_subtitle": "Galactic Conquerer",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "59843619f4485458f8a6798917f9c5fff97fc607"
+ },
+ "vision": {
+  "id": "S01_STR_S19",
+  "name": "Frieza",
+  "sub": "Galactic Conquerer",
+  "type": "Main Personality",
+  "num": "S19",
+  "lvl": 3,
+  "stages": [
+   1000000,
+   700000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +3 stages of damage and you may also use your Level 1 [Continuous] powers.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN; subtitle spelled 'CONQUERER' as printed",
+  "_src": "S01.jsonl:204"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "3 FRIEZA\nGALACTIC CONQUERER r) S19\nEN S nnn ann",
+  "stages_text": "1,000,000\n700,000\n400,000\n200,000\n\n7100,000\n50,000\n25,000\n10,000\n\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

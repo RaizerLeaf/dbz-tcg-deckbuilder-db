@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P128",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P128_Yamcha - Sleeping.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P128_Yamcha - Sleeping.png",
+  "prefix": "P",
+  "number": 128,
+  "card_number": "P128",
+  "name_part": "Yamcha - Sleeping",
+  "file_name": "Yamcha",
+  "file_subtitle": "Sleeping",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "869c6e572c43e5d0e52055002442c7310ee144b7"
+ },
+ "vision": {
+  "id": "PZP_MP_P128",
+  "name": "Yamcha",
+  "sub": "Sleeping",
+  "type": "Main Personality",
+  "num": "P128",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] Energy attack.\nLower your opponent's anger 1.\nDAMAGE: 2 life cards.\nHIT: Stops the next physical attack performed against you this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:186"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "YAMCHA\n: SLEEPING P128",
+  "stages_text": "50\n\n45\n\n40\n\n35\n\n30\n25\n20\n15\n\n10\n\n7 5\n0",
+  "error": null
+ }
+}

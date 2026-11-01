@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P57",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P57_Cell - Combative.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P57_Cell - Combative.png",
+  "prefix": "P",
+  "number": 57,
+  "card_number": "P57",
+  "name_part": "Cell - Combative",
+  "file_name": "Cell",
+  "file_subtitle": "Combative",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f4bf388d5385684966796b3b752a55c47867cee5"
+ },
+ "vision": {
+  "id": "PZP_MP_P57",
+  "name": "Cell",
+  "sub": "Combative",
+  "type": "Main Personality",
+  "num": "P57",
+  "lvl": 2,
+  "stages": [
+   1500000,
+   1000000,
+   500000,
+   250000,
+   125000,
+   95000,
+   65000,
+   35000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck, discard pile, or Banished Zone for an Ally with \"Cell Jr.\" in the title and play it.\nPOWER: You may set your MP to its 0 power stage. Destroy the top 3 cards of your opponent's Life Deck. Shuffle an Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "— CELL\nLEVEL COMBATIVE () P5/",
+  "stages_text": "1,500,000\n1,000,000\n500,000\n250,000\n125,000\n95,000\n65,000\n35,000\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

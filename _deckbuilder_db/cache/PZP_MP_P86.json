@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P86",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P86_Nappa - Rested.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P86_Nappa - Rested.png",
+  "prefix": "P",
+  "number": 86,
+  "card_number": "P86",
+  "name_part": "Nappa - Rested",
+  "file_name": "Nappa",
+  "file_subtitle": "Rested",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "232f7a3ec74d3fcd7d00d757bd85d79711a635fd"
+ },
+ "vision": {
+  "id": "PZP_MP_P86",
+  "name": "Nappa",
+  "sub": "Rested",
+  "type": "Main Personality",
+  "num": "P86",
+  "lvl": 1,
+  "stages": [
+   8750,
+   8000,
+   7250,
+   6500,
+   5750,
+   5000,
+   4250,
+   3500,
+   2750,
+   2000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDestroy one of your opponent's Allies.\nDAMAGE: 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:143"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "NAPPA\nLEVEL RESTED () P86",
+  "stages_text": "8,750\n8,000\n7,250\n6,500\n5,750\n5,000\n3,500\n2,750\n2,000\n\n0",
+  "error": null
+ }
+}

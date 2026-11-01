@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P186",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P186_Turtle - Protective.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P186_Turtle - Protective.png",
+  "prefix": "P",
+  "number": 186,
+  "card_number": "P186",
+  "name_part": "Turtle - Protective",
+  "file_name": "Turtle",
+  "file_subtitle": "Protective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3ba0f133c5c05fa7df7669a3062a09e658d6c38e"
+ },
+ "vision": {
+  "id": "PZP_AL_P186",
+  "name": "Turtle",
+  "sub": "Protective",
+  "type": "Ally",
+  "num": "P186",
+  "lvl": 1,
+  "stages": [
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: At the start of your turn, banish the top card of each player's discard pile.\nPOWER: Shuffle \"Turtle\" into your Life Deck to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.0,
+  "header_text": "1 Es\nLEVEL | PROTECTIVE @ rec",
+  "stages_text": "11\n\n10\n\n8\n7\n6\n\n5\n4\n3\n\n0",
+  "error": null
+ }
+}

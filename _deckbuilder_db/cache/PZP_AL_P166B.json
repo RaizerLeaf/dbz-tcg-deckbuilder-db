@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P166B",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P166B_Goku - Thoughtful.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P166B_Goku - Thoughtful.png",
+  "prefix": "P",
+  "number": 166,
+  "card_number": "P166B",
+  "name_part": "Goku - Thoughtful",
+  "file_name": "Goku",
+  "file_subtitle": "Thoughtful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "53df9d119eed221c383456fc2caa84be50cae19f"
+ },
+ "vision": {
+  "id": "PZP_AL_P166B",
+  "name": "Goku",
+  "sub": "Thoughtful",
+  "type": "Ally",
+  "num": "P166",
+  "lvl": 1,
+  "stages": [
+   90000,
+   75000,
+   60000,
+   55000,
+   40000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: Search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. Alternate-art printing of P166 (base-form art); the card itself prints 'P166', the 'B' comes from the filename only",
+  "_src": "PZP.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "GOKU\nIl. THOUGHTFUL C) P166",
+  "stages_text": "90,000\n75,000\n60,000\n55,000\n40,000\n25,000\n20,000\n15,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

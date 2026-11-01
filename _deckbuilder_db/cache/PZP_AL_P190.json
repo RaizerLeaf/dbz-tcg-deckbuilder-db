@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P190",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P190_Android 19 - Injured.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P190_Android 19 - Injured.png",
+  "prefix": "P",
+  "number": 190,
+  "card_number": "P190",
+  "name_part": "Android 19 - Injured",
+  "file_name": "Android 19",
+  "file_subtitle": "Injured",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1c0d5eaed8518010173e134c17695141fc21f42b"
+ },
+ "vision": {
+  "id": "PZP_AL_P190",
+  "name": "Android 19",
+  "sub": "Injured",
+  "type": "Ally",
+  "num": "P190",
+  "lvl": 1,
+  "stages": [
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "(If your MP is Android 20, you may use these Powers regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Your MP gains 1 stage and your opponent's MP loses 1 stage.\nPOWER: Your opponent's next attack this combat costs +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. Only an R badge here; Android 19 is Android-only in the CRD Trait list, which confirms R = Android",
+  "_src": "PZP.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.4,
+  "header_text": "1 snes 19\nLEVEL | INJURED @ rx",
+  "stages_text": "90,000\n70,000\n50,000\n30,000\n10,000\n7 8,000\n6,000\n4,000\n2,000\n1,000\n\n0",
+  "error": null
+ }
+}

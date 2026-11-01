@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P2",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P2_Android 18 - Aggressive.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P2_Android 18 - Aggressive.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Android 18 - Aggressive",
+  "file_name": "Android 18",
+  "file_subtitle": "Aggressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e33734ce9429983758f1d3291da8d08d1f4169b9"
+ },
+ "vision": {
+  "id": "S14_PRO_P2",
+  "name": "Android 18",
+  "sub": "Aggressive",
+  "type": "Main Personality",
+  "num": "P2",
+  "lvl": 2,
+  "stages": [
+   850000,
+   725000,
+   650000,
+   500000,
+   250000,
+   125000,
+   90000,
+   70000,
+   50000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Your attacks with \"Android\" in the title are considered Styled.) [Continuous]: Your Styled attacks cost -1 stage (to a minimum of 0). POWER: [Attack] 2: Energy attack. Search your discard pile for a Styled card or card with \"Android\" in the title and Rejuvenate it. If stopped, search your Life Deck for a card with \"Android\" in the title and place it into your hand. DAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality; Trait badges E + R above text box",
+  "_src": "S14.jsonl:55"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.9,
+  "header_text": "Wy ANDROID 18\n- AGGRESSIVE yr) ne )",
+  "stages_text": "850,000\n725,000\n650,000\n900,000\n250,000\n\n7 125,000\n90,000\n70,000\n90,000\n10,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P210",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P210_Cell Jr. - Unrelenting.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P210_Cell Jr. - Unrelenting.png",
+  "prefix": "P",
+  "number": 210,
+  "card_number": "P210",
+  "name_part": "Cell Jr. - Unrelenting",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Unrelenting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b655ddbd03dd2b15dcd1569a140713e099a18818"
+ },
+ "vision": {
+  "id": "PZP_AL_P210",
+  "name": "Cell Jr.",
+  "sub": "Unrelenting",
+  "type": "Ally",
+  "num": "P210",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 0,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "(This personality cannot gain stages.)\nPOWER: [Attack] Physical attack.\nAllies you control cannot perform attacks this combat.\nDAMAGE: 3 + X stages. X = the number of Allies in play with \"Cell Jr.\" in the title.\nHIT: Shuffle all Allies you control with \"Cell Jr.\" in the title into their owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout, purple frame); right edge reads 'VILLAIN ALLY'. PUR printed as 0",
+  "_src": "PZP.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.7,
+  "header_text": "1 Sea IR.\nLEVEL | UNRELENTING C) P210",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

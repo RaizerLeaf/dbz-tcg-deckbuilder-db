@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P48",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P48_Devastating Blow.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P48_Devastating Blow.png",
+  "prefix": "P",
+  "number": 48,
+  "card_number": "P48",
+  "name_part": "Devastating Blow",
+  "file_name": "Devastating Blow",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "18e321ab9db9b4c9edf411e43b33fafdc7c283dd"
+ },
+ "vision": {
+  "id": "S14_PRO_P48",
+  "name": "Devastating Blow",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nRaise your anger 1. Lower your opponent's anger 2. Banish 3 cards from your opponent's discard pile.\nDAMAGE: AT + 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; FanZ reprint of S01 U110 with modernised wording (banishes 3 cards instead of 'Choose 3 cards ... and banish them')",
+  "_src": "S14.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "DEVASTATING BLOW ?",
+  "stages_text": "4\n\n347\n2\n,",
+  "error": null
+ }
+}

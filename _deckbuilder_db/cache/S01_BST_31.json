@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_31",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "31_Namekian Dragon Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/31_Namekian Dragon Blast.jpg",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "Namekian Dragon Blast",
+  "file_name": "Namekian Dragon Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5e216afc2e4dd5d5ebe0ae8a9afc755a58c2e626"
+ },
+ "vision": {
+  "id": "S01_BST_31",
+  "name": "Namekian Dragon Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 + X life cards. HIT: Rejuvenate X. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "(NAMEKIAN DRAGON BLAST C) csi",
+  "stages_text": "",
+  "error": null
+ }
+}

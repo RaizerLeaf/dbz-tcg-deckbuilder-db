@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_34",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "34_Knee Clash.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/34_Knee Clash.png",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Knee Clash",
+  "file_name": "Knee Clash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0425ed4b77761fda0892a5c55618b0e98c6d28ed"
+ },
+ "vision": {
+  "id": "S14_BST_34",
+  "name": "Knee Clash",
+  "sub": null,
+  "type": "Event",
+  "num": "UR34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Defense] POWER: Stops a physical or energy attack.\nIf you have 2 or less Traits, lower a player's anger 1 and the next time your opponent would raise their anger this combat, change that amount to 0.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; UR rarity",
+  "_src": "S14.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "KNEE CLASH )UR34",
+  "stages_text": ", ,\n4\n1",
+  "error": null
+ }
+}

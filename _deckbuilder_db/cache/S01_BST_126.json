@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_126",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "126_Black Scout Maneuver.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/126_Black Scout Maneuver.jpg",
+  "prefix": null,
+  "number": 126,
+  "card_number": "126",
+  "name_part": "Black Scout Maneuver",
+  "file_name": "Black Scout Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2fb3f447f2c1c421c0f6d3a29f097d29fe167f7b"
+ },
+ "vision": {
+  "id": "S01_BST_126",
+  "name": "Black Scout Maneuver",
+  "sub": null,
+  "type": "Event",
+  "num": "R126",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Name a Physical Combat, Energy Combat or Event card. Search your opponent's his Life Deck for all copies of that card and banishes them.",
+  "conf": "high",
+  "review": null,
+  "note": "printed wording is ungrammatical ('your opponent's his Life Deck', 'banishes them'); transcribed as printed",
+  "_src": "S01.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.2,
+  "header_text": "(BLACK SCOUT MANEUVER () alee",
+  "stages_text": "",
+  "error": null
+ }
+}

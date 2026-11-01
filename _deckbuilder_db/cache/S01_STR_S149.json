@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S149",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S149_Saiyan Arm Catch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S149_Saiyan Arm Catch.jpg",
+  "prefix": "S",
+  "number": 149,
+  "card_number": "S149",
+  "name_part": "Saiyan Arm Catch",
+  "file_name": "Saiyan Arm Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c7e070a2c2041c8276ce214d2642744128faee8d"
+ },
+ "vision": {
+  "id": "S01_STR_S149",
+  "name": "Saiyan Arm Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S149",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops a physical attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:334"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.3,
+  "header_text": "(SAIYAN ARM CATCH: () s1a9\n<Q IN _—",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

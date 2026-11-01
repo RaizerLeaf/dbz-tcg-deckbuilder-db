@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P114",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P114_Android 19 - Pondering.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P114_Android 19 - Pondering.png",
+  "prefix": "P",
+  "number": 114,
+  "card_number": "P114",
+  "name_part": "Android 19 - Pondering",
+  "file_name": "Android 19",
+  "file_subtitle": "Pondering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e836aec6465f220086e83162d5f1b8327bce5d1e"
+ },
+ "vision": {
+  "id": "PZP_MP_P114",
+  "name": "Android 19",
+  "sub": "Pondering",
+  "type": "Main Personality",
+  "num": "P114",
+  "lvl": 2,
+  "stages": [
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: After taking life card damage from an attack, gain X stages. X = the amount of life cards that attack dealt.\nPOWER: [Attack] 1: Energy attack.\nThe next attack your opponent performs this combat costs +1 stage to perform.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:171"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.2,
+  "header_text": "— ANDROID 19\nLEVEL PONDERING Cera",
+  "stages_text": ", 650,000\n550,000\n450,000\n350,000\n\n250,000\n\n150,000\n\n50,000\n\n25,000\n5,000\n\n, 1,000\n0",
+  "error": null
+ }
+}

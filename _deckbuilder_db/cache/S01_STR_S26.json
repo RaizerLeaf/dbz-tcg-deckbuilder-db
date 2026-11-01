@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S26",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S26_Orange Adaptive Mastery.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S26_Orange Adaptive Mastery.jpg",
+  "prefix": "S",
+  "number": 26,
+  "card_number": "S26",
+  "name_part": "Orange Adaptive Mastery",
+  "file_name": "Orange Adaptive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 651,
+  "height": 465,
+  "orientation": "landscape",
+  "sha1": "6ade5c61104ac86052b1617574ad97977f903ed8"
+ },
+ "vision": {
+  "id": "S01_STR_S26",
+  "name": "Orange Adaptive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S26",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card of damage. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "starter printing of R136 (same text)",
+  "_src": "S01.jsonl:211"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "( ORANGE ADAPTIVE: MASTERY C) S26 |",
+  "stages_text": null,
+  "error": null
+ }
+}

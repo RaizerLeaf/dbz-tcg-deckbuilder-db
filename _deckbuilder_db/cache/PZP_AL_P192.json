@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P192",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P192_Dr. Brief - Analyzing.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P192_Dr. Brief - Analyzing.png",
+  "prefix": "P",
+  "number": 192,
+  "card_number": "P192",
+  "name_part": "Dr. Brief - Analyzing",
+  "file_name": "Dr. Brief",
+  "file_subtitle": "Analyzing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3bad02025d30158cb742581c3d86352e20eb9032"
+ },
+ "vision": {
+  "id": "PZP_AL_P192",
+  "name": "Dr. Brief",
+  "sub": "Analyzing",
+  "type": "Ally",
+  "num": "P192",
+  "lvl": 1,
+  "stages": [
+   5,
+   5,
+   4,
+   4,
+   3,
+   3,
+   2,
+   2,
+   1,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Bulma, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. Stages repeat in pairs (5,5,4,4,...) as printed",
+  "_src": "PZP.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "1 ee BRIEF\nLEVEL | ANALYZING @ >",
+  "stages_text": "5\n5\n4\n\n4\n\n1\n\n3\n3\n\n2\n\n2\n1\n1\n0",
+  "error": null
+ }
+}

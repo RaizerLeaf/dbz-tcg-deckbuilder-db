@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P136",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P136_Broly - Survivor.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P136_Broly - Survivor.png",
+  "prefix": "P",
+  "number": 136,
+  "card_number": "P136",
+  "name_part": "Broly - Survivor",
+  "file_name": "Broly",
+  "file_subtitle": "Survivor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1ff0f6e2ca2b9474920eaf7c01ce6decec64794"
+ },
+ "vision": {
+  "id": "PZP_MP_P136",
+  "name": "Broly",
+  "sub": "Survivor",
+  "type": "Main Personality",
+  "num": "P136",
+  "lvl": 1,
+  "stages": [
+   300000,
+   200000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: After your opponent's MP advances a level, your opponent's MP loses 5 stages.\nPOWER: [Attack] Physical attack.\nRaise your anger 1. You may reveal 2 attack cards from your hand to banish the top card of your opponent's Life Deck.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:194"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "1 | BROLY\n: SURVIVOR P136",
+  "stages_text": "300,000\n200,000\n100,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S114",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S114_Namekian Double Palm Burst.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S114_Namekian Double Palm Burst.jpg",
+  "prefix": "S",
+  "number": 114,
+  "card_number": "S114",
+  "name_part": "Namekian Double Palm Burst",
+  "file_name": "Namekian Double Palm Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b30a5abb32e73dddc429147c51ee2fb546ab8d85"
+ },
+ "vision": {
+  "id": "S01_STR_S114",
+  "name": "Namekian Double Palm Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, gain 2 stages.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: While you control 4 or less Dragon Balls, your Dragon Balls cannot be captured this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:299"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "( NAMEKIAN DOUBLE PALM.-BURST () Sila\n- 7 A ; f",
+  "stages_text": ",\n3\n12,",
+  "error": null
+ }
+}

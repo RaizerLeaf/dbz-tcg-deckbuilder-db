@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S49",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S49_Red Blazing Aura.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S49_Red Blazing Aura.jpg",
+  "prefix": "S",
+  "number": 49,
+  "card_number": "S49",
+  "name_part": "Red Blazing Aura",
+  "file_name": "Red Blazing Aura",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "70b30ed220b2cec80960589d4b44ab3cbdee6bb4"
+ },
+ "vision": {
+  "id": "S01_STR_S49",
+  "name": "Red Blazing Aura",
+  "sub": null,
+  "type": "Event",
+  "num": "S49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Raise your anger 1 level. For the remainder of combat, your opponent's attacks deal -3 stages and -3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:234"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.0,
+  "header_text": "(RED BLAZING AURA~ () sas\nLl ye i i (*/] . %",
+  "stages_text": "0",
+  "error": null
+ }
+}

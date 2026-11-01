@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S28",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S28_Black Devious Mastery (Frozen).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S28_Black Devious Mastery (Frozen).png",
+  "prefix": "S",
+  "number": 28,
+  "card_number": "S28",
+  "name_part": "Black Devious Mastery",
+  "file_name": "Black Devious Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 651,
+  "height": 465,
+  "orientation": "landscape",
+  "sha1": "282f86194f4212e1b151a5a0e8784b86711a37d6"
+ },
+ "vision": {
+  "id": "S01_STR_S28",
+  "name": "Black Devious Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +1 power stage and +1 life card of damage. POWER: Discard a card from your hand to banish the bottom 2 cards of your opponent's discard pile. If you discarded a Styled card, your opponent discards a card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": "starter printing of R122 (same text); '(FROZEN)' stamped below the card (owner annotation)",
+  "_src": "S01.jsonl:213"
+ },
+ "ocr": {
+  "agreement": 0.956,
+  "lower_conf": 83.1,
+  "header_text": "( BLACK DEVIOUS: MASTERY () S2sa",
+  "stages_text": null,
+  "error": null
+ }
+}

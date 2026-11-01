@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P161",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P161_Guldo - Ginyu Force.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P161_Guldo - Ginyu Force.png",
+  "prefix": "P",
+  "number": 161,
+  "card_number": "P161",
+  "name_part": "Guldo - Ginyu Force",
+  "file_name": "Guldo",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "db66990632aa2c56a322881cd79cd2c87af1b4ec"
+ },
+ "vision": {
+  "id": "PZP_AL_P161",
+  "name": "Guldo",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "P161",
+  "lvl": 1,
+  "stages": [
+   50000,
+   45000,
+   40000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Defense] POWER: Stops a physical or energy attack.\nYour attacks deal +2 stages and +2 life cards this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. FanZ update of S01 C10",
+  "_src": "PZP.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "1 GULDO\nLEVEL GINYU FORCE () P161",
+  "stages_text": "50,000\n45,000\n40,000\n35,000\n30,000\n725,000\n20,000\n15,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

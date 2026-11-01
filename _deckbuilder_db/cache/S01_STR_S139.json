@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S139",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S139_Red Right Cross.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S139_Red Right Cross.jpg",
+  "prefix": "S",
+  "number": 139,
+  "card_number": "S139",
+  "name_part": "Red Right Cross",
+  "file_name": "Red Right Cross",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b9bd86e8b53638cc885d8d93766c48227a06f7b3"
+ },
+ "vision": {
+  "id": "S01_STR_S139",
+  "name": "Red Right Cross",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 4 stages. DAMAGE: AT +4 stages. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:324"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "(RED RIGHT CROSS () siss\neee iim y ~~",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S100",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S100_Orange Guardian Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S100_Orange Guardian Drill.jpg",
+  "prefix": "S",
+  "number": 100,
+  "card_number": "S100",
+  "name_part": "Orange Guardian Drill",
+  "file_name": "Orange Guardian Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "229fab9ecaa9c4d3a3bf76fcffec4486212f6bf1"
+ },
+ "vision": {
+  "id": "S01_STR_S100",
+  "name": "Orange Guardian Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S100",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Choose a Setup or Drill in your hand and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:285"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.4,
+  "header_text": "(ORANGE GUARDIAN--DRILL () S100\neS” a,”",
+  "stages_text": "",
+  "error": null
+ }
+}

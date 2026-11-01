@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S50",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S50_Saiyan Prelude.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S50_Saiyan Prelude.jpg",
+  "prefix": "S",
+  "number": 50,
+  "card_number": "S50",
+  "name_part": "Saiyan Prelude",
+  "file_name": "Saiyan Prelude",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8563ee17623bc625f249816ca5ad787a593620cb"
+ },
+ "vision": {
+  "id": "S01_STR_S50",
+  "name": "Saiyan Prelude",
+  "sub": null,
+  "type": "Event",
+  "num": "S50",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your MP gains 5 stages. Your next attack this combat deals +5 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:235"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(SAIYAN PRELUDES C) S50\nAr",
+  "stages_text": "3",
+  "error": null
+ }
+}

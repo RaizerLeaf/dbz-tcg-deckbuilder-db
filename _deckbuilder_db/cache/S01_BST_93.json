@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_93",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "93_Orange Inspection.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/93_Orange Inspection.jpg",
+  "prefix": null,
+  "number": 93,
+  "card_number": "93",
+  "name_part": "Orange Inspection",
+  "file_name": "Orange Inspection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9969d4f1bf0f41460d94f9b108080e8db88f4125"
+ },
+ "vision": {
+  "id": "S01_BST_93",
+  "name": "Orange Inspection",
+  "sub": null,
+  "type": "Event",
+  "num": "U93",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Destroy an opponent's Setup or Drill to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.2,
+  "header_text": "(ORANGE INSPECTION C) uss\note aaa 2s",
+  "stages_text": "",
+  "error": null
+ }
+}

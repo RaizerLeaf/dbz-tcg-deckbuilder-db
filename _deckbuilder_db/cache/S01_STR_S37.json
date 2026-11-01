@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S37",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S37_Black Targeting Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S37_Black Targeting Drill.jpg",
+  "prefix": "S",
+  "number": 37,
+  "card_number": "S37",
+  "name_part": "Black Targeting Drill",
+  "file_name": "Black Targeting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "51204ed2ace796ac1c6697301480852d448e3f1c"
+ },
+ "vision": {
+  "id": "S01_STR_S37",
+  "name": "Black Targeting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent discards a card from his hand from one of your effects, the cards are chosen at random. Your opponent's physical attacks cost +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:222"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(BLACK TARGETING BRILL () S37",
+  "stages_text": "",
+  "error": null
+ }
+}

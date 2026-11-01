@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_75",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "75_Black Barrage.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/75_Black Barrage.jpg",
+  "prefix": null,
+  "number": 75,
+  "card_number": "75",
+  "name_part": "Black Barrage",
+  "file_name": "Black Barrage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "36fac39a47edc898dc87c0240abb1d5eb4a8a485"
+ },
+ "vision": {
+  "id": "S01_BST_75",
+  "name": "Black Barrage",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U75",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 4 life cards. HIT: Your opponent pays 5 stages or discards a card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "(BLACK BARRAGE. (ws\nwe 4",
+  "stages_text": "4\n\n7 ,\n,\n\n4",
+  "error": null
+ }
+}

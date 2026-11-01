@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P148",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P148_Cell Jr. - On the Move.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P148_Cell Jr. - On the Move.png",
+  "prefix": "P",
+  "number": 148,
+  "card_number": "P148",
+  "name_part": "Cell Jr. - On the Move",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c1dcd17fa239eb1f11787713097dd0b18d7f5f9a"
+ },
+ "vision": {
+  "id": "PZP_MP_P148",
+  "name": "Cell Jr.",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "P148",
+  "lvl": 2,
+  "stages": [
+   700000,
+   500000,
+   300000,
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Once per combat, you may discard an Ally with \"Cell Jr.\" in the title from your hand to stop an attack.\nPOWER: [Attack] Physical attack.\nDAMAGE: 5 + X stages. X = the number of personalities with \"Cell Jr.\" in the title in your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:206"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "& CELL IR.\nLEVEL ON THE MOVE () P148",
+  "stages_text": "700,000\n500,000\n300,000\n100,000\n\n90,000\n\n80,000\n\n70,000\n\n60,000\n50,000\n40,000\n0",
+  "error": null
+ }
+}

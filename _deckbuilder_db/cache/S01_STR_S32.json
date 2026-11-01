@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S32",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S32_Blue Stretch Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S32_Blue Stretch Kick.jpg",
+  "prefix": "S",
+  "number": 32,
+  "card_number": "S32",
+  "name_part": "Blue Stretch Kick",
+  "file_name": "Blue Stretch Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8fe0340533b409190ffcbf0eec9aec17458da2f6"
+ },
+ "vision": {
+  "id": "S01_STR_S32",
+  "name": "Blue Stretch Kick",
+  "sub": null,
+  "type": "Setup",
+  "num": "S32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: [Attack] Physical attack. DAMAGE: AT +5 stages. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "attack icon sits after 'POWER:' on this card",
+  "_src": "S01.jsonl:217"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.7,
+  "header_text": "(BLUE STRETCH KICK. () Sse\new Ol",
+  "stages_text": "",
+  "error": null
+ }
+}

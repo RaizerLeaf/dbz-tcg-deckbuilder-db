@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P171",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P171_Dodoria - Lackey.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P171_Dodoria - Lackey.png",
+  "prefix": "P",
+  "number": 171,
+  "card_number": "P171",
+  "name_part": "Dodoria - Lackey",
+  "file_name": "Dodoria",
+  "file_subtitle": "Lackey",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d82c9651b4892a6fe22c5b82d0818c5ab29fb6c9"
+ },
+ "vision": {
+  "id": "PZP_AL_P171",
+  "name": "Dodoria",
+  "sub": "Lackey",
+  "type": "Ally",
+  "num": "P171",
+  "lvl": 1,
+  "stages": [
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: Capture a Dragon Ball. Banish \"Dodoria\" at the beginning of the next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "DODORIA C)\ni LACKEY P17",
+  "stages_text": "35,000\n30,000\n25,000\n20,000\n4 15,000\n7 10,000\n8,000\n6,000\n4,000\n2,000\n0",
+  "error": null
+ }
+}

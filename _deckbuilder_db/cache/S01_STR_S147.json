@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S147",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S147_Orange Quick Dodge.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S147_Orange Quick Dodge.jpg",
+  "prefix": "S",
+  "number": 147,
+  "card_number": "S147",
+  "name_part": "Orange Quick Dodge",
+  "file_name": "Orange Quick Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "51f096d8db73f5cc180d0df10b8320a20b151289"
+ },
+ "vision": {
+  "id": "S01_STR_S147",
+  "name": "Orange Quick Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S147",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Gain 5 stages. Prevent 1 stage of damage from all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:332"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.6,
+  "header_text": "(ORANGE QUICK DODGE () S147\nlene —,",
+  "stages_text": "15,",
+  "error": null
+ }
+}

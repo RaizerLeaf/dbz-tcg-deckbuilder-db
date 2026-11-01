@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P132",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P132_Android 13 - Redneck Robot.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P132_Android 13 - Redneck Robot.png",
+  "prefix": "P",
+  "number": 132,
+  "card_number": "P132",
+  "name_part": "Android 13 - Redneck Robot",
+  "file_name": "Android 13",
+  "file_subtitle": "Redneck Robot",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7467dbb772e23a1d7b62c3e96817bfc4b17b78b0"
+ },
+ "vision": {
+  "id": "PZP_MP_P132",
+  "name": "Android 13",
+  "sub": "Redneck Robot",
+  "type": "Main Personality",
+  "num": "P132",
+  "lvl": 1,
+  "stages": [
+   150000,
+   130000,
+   110000,
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: Whenever you play a card with \"Android\" in the title during combat, raise your anger 1.\nPOWER: [Attack] Physical attack.\nDAMAGE: 4 stages.\nHIT: Search your Life Deck for an Ally with \"Android\" in the title and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:190"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "| 1 | ANDROID 13\n: LEVEL | REDNECK ROBOT P132",
+  "stages_text": "150,000\n130,000\n110,000\n90,000\n70,000\n50,000\n30,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

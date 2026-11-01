@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S73",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S73_Black Side Thrust.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S73_Black Side Thrust.jpg",
+  "prefix": "S",
+  "number": 73,
+  "card_number": "S73",
+  "name_part": "Black Side Thrust",
+  "file_name": "Black Side Thrust",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "37cc9d86670ff20971ef47f5984dfefb35f785ad"
+ },
+ "vision": {
+  "id": "S01_STR_S73",
+  "name": "Black Side Thrust",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. Name a non-Dragon Ball card. Search your opponent's Life Deck for 1 copy of that card and discard it.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:258"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "[SLACK SIDE TaRuSis () s73",
+  "stages_text": "",
+  "error": null
+ }
+}

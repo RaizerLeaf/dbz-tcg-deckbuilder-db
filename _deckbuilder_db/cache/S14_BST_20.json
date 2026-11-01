@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_20",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "20_Orange Foot Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/20_Orange Foot Blast.png",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Orange Foot Blast",
+  "file_name": "Orange Foot Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "15d87be1457344bc8251e31e9340e4d698bb7860"
+ },
+ "vision": {
+  "id": "S14_BST_20",
+  "name": "Orange Foot Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] 2: Energy attack.\nDAMAGE: 4 life cards.\nHIT: Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "ORANGE FOOT BLAST ) u20,",
+  "stages_text": ",",
+  "error": null
+ }
+}

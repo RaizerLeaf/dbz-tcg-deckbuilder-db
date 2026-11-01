@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S142",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S142_Saiyan Light Jab.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S142_Saiyan Light Jab.jpg",
+  "prefix": "S",
+  "number": 142,
+  "card_number": "S142",
+  "name_part": "Saiyan Light Jab",
+  "file_name": "Saiyan Light Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8bcd82d3aee4aff91f9e6901c6a875a1e48e8902"
+ },
+ "vision": {
+  "id": "S01_STR_S142",
+  "name": "Saiyan Light Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +4 stages. HIT: Shuffle this card back into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:327"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "(SAIYAN LIGHT JAB. () si4e\nJ 1",
+  "stages_text": "",
+  "error": null
+ }
+}

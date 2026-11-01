@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P38",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P38_Orange Torching Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P38_Orange Torching Drill.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Orange Torching Drill",
+  "file_name": "Orange Torching Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0a1913742ac6508a0dfb5c8fd1c6b074122999d5"
+ },
+ "vision": {
+  "id": "S14_PRO_P38",
+  "name": "Orange Torching Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever one of your Drills enters play during combat, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout",
+  "_src": "S14.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 94.4,
+  "header_text": "ORANGE TORCHING DRILL & p38 |\nCE —ssssssssssssssi‘(‘“«ét",
+  "stages_text": null,
+  "error": null
+ }
+}

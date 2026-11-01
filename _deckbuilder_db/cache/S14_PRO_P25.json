@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P25",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P25_Red Ruthless Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P25_Red Ruthless Mastery.png",
+  "prefix": "P",
+  "number": 25,
+  "card_number": "P25",
+  "name_part": "Red Ruthless Mastery",
+  "file_name": "Red Ruthless Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "84cacbda15334d510963f43462858c0b65121a76"
+ },
+ "vision": {
+  "id": "S14_PRO_P25",
+  "name": "Red Ruthless Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when entering combat. Banish the top card of your discard pile. If you banished a Styled card, your Styled physical attacks this combat deal +2 stages and gain \"HIT: Lower your opponent's anger 1.\"\nPOWER: Reveal a Styled card from your hand and place it at the bottom of your Life Deck. If you do and the top card of your discard pile is an attack card, you may play it.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout; title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.7,
+  "header_text": "ae ee",
+  "stages_text": ", 2\n,\n1,",
+  "error": null
+ }
+}

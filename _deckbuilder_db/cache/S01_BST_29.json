@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_29",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "29_Namekian Chop.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/29_Namekian Chop.jpg",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Namekian Chop",
+  "file_name": "Namekian Chop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ef42e9f488585f25082313ba9311ed105a9f720a"
+ },
+ "vision": {
+  "id": "S01_BST_29",
+  "name": "Namekian Chop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +4 stages. HIT: Raise your anger X levels. X = the number of Dragon Balls you control.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "(NAMEKIAN CHOP. () ces\n| laa a .",
+  "stages_text": "7\n7",
+  "error": null
+ }
+}

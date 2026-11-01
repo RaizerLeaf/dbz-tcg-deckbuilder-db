@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_53",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "53_Saiyan Clothesline.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/53_Saiyan Clothesline.jpg",
+  "prefix": null,
+  "number": 53,
+  "card_number": "53",
+  "name_part": "Saiyan Clothesline",
+  "file_name": "Saiyan Clothesline",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "71e7e2c12563e92e0f914e1e259479075807ec4d"
+ },
+ "vision": {
+  "id": "S01_BST_53",
+  "name": "Saiyan Clothesline",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. If the personality performing this attack has a higher power level than the defending personality, this attack's base damage is 2 times the AT instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "(SAIYAN CLOTHESLINE () css",
+  "stages_text": "8\n1\n44",
+  "error": null
+ }
+}

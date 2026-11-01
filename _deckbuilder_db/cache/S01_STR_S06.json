@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S06",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S06_Goku - Kaio-Ken Enhanced.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S06_Goku - Kaio-Ken Enhanced.jpg",
+  "prefix": "S",
+  "number": 6,
+  "card_number": "S06",
+  "name_part": "Goku - Kaio-Ken Enhanced",
+  "file_name": "Goku",
+  "file_subtitle": "Kaio-Ken Enhanced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "13faf6a8ba7f962c528911e7733a93a83b601ea9"
+ },
+ "vision": {
+  "id": "S01_STR_S06",
+  "name": "Goku",
+  "sub": "Kaio-Ken Enhanced",
+  "type": "Main Personality",
+  "num": "S6",
+  "lvl": 2,
+  "stages": [
+   33000,
+   29000,
+   25000,
+   21000,
+   17000,
+   13000,
+   9000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: At the end of each combat, you may lower your MP a personality level and you may search your Life Deck or discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:191"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.5,
+  "header_text": "\\Y ~ _ 7 AY ; ; ;\nGOKU\n— KAIO-KEN ENHANCED y ) I] =}\nal y ow RA ANN",
+  "stages_text": "33,000\n29,000\n25,000\n21,000\n17,000\n1 13,000\n9,000\n5,000\n\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

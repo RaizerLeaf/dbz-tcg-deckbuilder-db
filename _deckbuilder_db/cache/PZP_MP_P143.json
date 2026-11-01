@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P143",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P143_Cooler - Overlord.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P143_Cooler - Overlord.png",
+  "prefix": "P",
+  "number": 143,
+  "card_number": "P143",
+  "name_part": "Cooler - Overlord",
+  "file_name": "Cooler",
+  "file_subtitle": "Overlord",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "110ab63e7771c07b059398b8ecfbf91ea68f27f0"
+ },
+ "vision": {
+  "id": "PZP_MP_P143",
+  "name": "Cooler",
+  "sub": "Overlord",
+  "type": "Main Personality",
+  "num": "P143",
+  "lvl": 4,
+  "stages": [
+   2200000,
+   1900000,
+   1600000,
+   1300000,
+   1000000,
+   700000,
+   400000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "(You may only use this card's non-[Continuous] Power once per game.)\n[Continuous]: Whenever a player gains anger, Rejuvenate 1.\nPOWER: Lower your MP 1 level to Rejuvenate 7 and end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:201"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "Zi COOLER\nLEVEL OVERLORD () P L 43\n~y iii Wat /",
+  "stages_text": "2,200,000\n1,900,000\n1,600,000\n1,300,000\n1,000,000\n700,000\n400,000\n100,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

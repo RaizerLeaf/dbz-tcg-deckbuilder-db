@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P7",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P7_Goku’s Kamehameha.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P7_Goku’s Kamehameha.jpg",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Goku’s Kamehameha",
+  "file_name": "Goku’s Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "bc1b261803ee79d168c77769a4a18aa3df9fa2df"
+ },
+ "vision": {
+  "id": "S01_PRO_P7",
+  "name": "Goku's Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P7",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. You may destroy any of your Drills. This attack deals +3 stages for each Drill destroyed.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R156 (same text)",
+  "_src": "S01.jsonl:171"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "foows KAMEHAMEHA © EE,\na <a a—_,",
+  "stages_text": "5",
+  "error": null
+ }
+}

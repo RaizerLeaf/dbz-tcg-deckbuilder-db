@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P127",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P127_Master Roshi - Barricade.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P127_Master Roshi - Barricade.png",
+  "prefix": "P",
+  "number": 127,
+  "card_number": "P127",
+  "name_part": "Master Roshi - Barricade",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Barricade",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "75efae377ff7f14a75380fa9cde178d5c41fb321"
+ },
+ "vision": {
+  "id": "PZP_MP_P127",
+  "name": "Master Roshi",
+  "sub": "Barricade",
+  "type": "Main Personality",
+  "num": "P127",
+  "lvl": 4,
+  "stages": [
+   500,
+   450,
+   400,
+   350,
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: The first time each turn when your opponent uses an effect to search a Life Deck or discard pile for 1 card, you may search and choose that card instead of your opponent.\nPOWER: Banish a Drill or Setup you control to destroy the top 4 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:185"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "1. MASTER ROSHI\nLEVEL BARRICADE i\n———\"- al",
+  "stages_text": "500\n450\n400\n350\n300\n250\n200\n150\n100\n50\n0",
+  "error": null
+ }
+}

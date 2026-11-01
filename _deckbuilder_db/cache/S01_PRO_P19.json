@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P19",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P19_Captain Ginyu’s Body Switch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P19_Captain Ginyu’s Body Switch.jpg",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Captain Ginyu’s Body Switch",
+  "file_name": "Captain Ginyu’s Body Switch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ed8a81aed62f7d5e6913834ade10c6737cd2a141"
+ },
+ "vision": {
+  "id": "S01_PRO_P19",
+  "name": "Captain Ginyu's Body Switch",
+  "sub": null,
+  "type": "Event",
+  "num": "P19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card. Banish after use.) POWER: If the power level of your opponent's MP is higher than your MP's power level, raise your anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R153 (same text)",
+  "_src": "S01.jsonl:183"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "{ ———Eo —\n(CAPTAIN GINYU'S BODY. SWITCH () 7-19",
+  "stages_text": "",
+  "error": null
+ }
+}

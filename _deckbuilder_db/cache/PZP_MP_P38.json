@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P38",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P38_Goku - Calm.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P38_Goku - Calm.png",
+  "prefix": "P",
+  "number": 38,
+  "card_number": "P38",
+  "name_part": "Goku - Calm",
+  "file_name": "Goku",
+  "file_subtitle": "Calm",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5f3fc7bfd4ceb3a3113687b9edf31c60099360ce"
+ },
+ "vision": {
+  "id": "PZP_MP_P38",
+  "name": "Goku",
+  "sub": "Calm",
+  "type": "Main Personality",
+  "num": "P38",
+  "lvl": 3,
+  "stages": [
+   1100000,
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   300000,
+   150000,
+   75000,
+   37500,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Energy attack.\nYou may search your Life Deck or discard pile for an Ally and play it. That Ally can make actions regardless of your MP's power stage this combat.\nDAMAGE: 6 life cards.\nHIT: If your next attack this combat is performed by an Ally, it cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:95"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "GOKU",
+  "stages_text": "1,100,000\n1,000,000\n900,000\n800,000\n700,000\n600,000\n300,000\n150,000\n75,000\n37,500\n0",
+  "error": null
+ }
+}

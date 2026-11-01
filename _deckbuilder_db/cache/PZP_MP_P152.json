@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P152",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P152_Mercenary Tao - Reckless.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P152_Mercenary Tao - Reckless.png",
+  "prefix": "P",
+  "number": 152,
+  "card_number": "P152",
+  "name_part": "Mercenary Tao - Reckless",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Reckless",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5b11ae4ba7f8f2f5434269aefc3c35ad49af4bb5"
+ },
+ "vision": {
+  "id": "PZP_MP_P152",
+  "name": "Mercenary Tao",
+  "sub": "Reckless",
+  "type": "Main Personality",
+  "num": "P152",
+  "lvl": 2,
+  "stages": [
+   287,
+   257,
+   227,
+   197,
+   167,
+   137,
+   107,
+   77,
+   47,
+   17,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Android",
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever you perform an attack, destroy the top card of your opponent's Life Deck.\nPOWER: [Attack] Physical attack.\nYou may shuffle a card from your hand into your Life Deck to draw a card.\nDAMAGE: 1 life card.\nHIT: Your next attack this combat is Unstoppable.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:210"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 80.1,
+  "header_text": "— MERCENARY TAO\nLEVEL RECKLESS € e152\nae” J a",
+  "stages_text": "287\n257\n\n227\n\n197\n5 167\n137\n107\n77\n\n47\n\n17\n0",
+  "error": null
+ }
+}

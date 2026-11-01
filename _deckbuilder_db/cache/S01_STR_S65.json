@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S65",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S65_Blue Guard (CRD).jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S65_Blue Guard (CRD).jpg",
+  "prefix": "S",
+  "number": 65,
+  "card_number": "S65",
+  "name_part": "Blue Guard",
+  "file_name": "Blue Guard",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "83709731a26f958ffd446202e94750cf0d14631b"
+ },
+ "vision": {
+  "id": "S01_STR_S65",
+  "name": "Blue Guard",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S65",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, you may banish it instead to draw a card.) [Defense] Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:250"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.0,
+  "header_text": "(BLUE GUARD () Ses\ni",
+  "stages_text": "37",
+  "error": null
+ }
+}

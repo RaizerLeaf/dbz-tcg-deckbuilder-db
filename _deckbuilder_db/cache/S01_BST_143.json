@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_143",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "143_Red Left Bolt.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/143_Red Left Bolt.jpg",
+  "prefix": null,
+  "number": 143,
+  "card_number": "143",
+  "name_part": "Red Left Bolt",
+  "file_name": "Red Left Bolt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "470462647a627247b83d41d78593ccc0567a9d63"
+ },
+ "vision": {
+  "id": "S01_BST_143",
+  "name": "Red Left Bolt",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R143",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. Damage from this attack is banished. Draw the bottom card of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:143"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "(RED LEFT BOLT () a1as\naa a",
+  "stages_text": "3",
+  "error": null
+ }
+}

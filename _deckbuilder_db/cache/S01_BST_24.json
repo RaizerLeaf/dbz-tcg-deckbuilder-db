@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_24",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "24_Blue Defensive Effect.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/24_Blue Defensive Effect.jpg",
+  "prefix": null,
+  "number": 24,
+  "card_number": "24",
+  "name_part": "Blue Defensive Effect",
+  "file_name": "Blue Defensive Effect",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0d038c2577c2d38e022a4efac65694a833021393"
+ },
+ "vision": {
+  "id": "S01_BST_24",
+  "name": "Blue Defensive Effect",
+  "sub": null,
+  "type": "Event",
+  "num": "C24",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 6. POWER: Lower your opponent's anger 1 level. Your opponent cannot raise his anger this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.8,
+  "header_text": "(BLUE DEFENSIVE EFFECT () cea",
+  "stages_text": "9",
+  "error": null
+ }
+}

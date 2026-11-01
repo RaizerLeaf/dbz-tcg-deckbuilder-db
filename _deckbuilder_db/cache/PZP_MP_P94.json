@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P94",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P94_Tenshinhan - Stubborn.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P94_Tenshinhan - Stubborn.png",
+  "prefix": "P",
+  "number": 94,
+  "card_number": "P94",
+  "name_part": "Tenshinhan - Stubborn",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Stubborn",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f76c42f952cf1979a47a5a0d01c0db7f98c642a5"
+ },
+ "vision": {
+  "id": "PZP_MP_P94",
+  "name": "Tenshinhan",
+  "sub": "Stubborn",
+  "type": "Main Personality",
+  "num": "P94",
+  "lvl": 2,
+  "stages": [
+   11000,
+   10000,
+   9000,
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card. Once per combat after using a critical damage effect, you may search your discard pile for a non-Styled card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.2,
+  "header_text": "TENSHINHAN",
+  "stages_text": "11,000\n10,000\n9,000\n8,000\n\n7,000\n6,000\n5,000\n4,000\n\n3,000\n\n2,000\n\n0",
+  "error": null
+ }
+}

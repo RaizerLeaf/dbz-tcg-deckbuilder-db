@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S98",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S98_Namekian Heritage Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S98_Namekian Heritage Drill.jpg",
+  "prefix": "S",
+  "number": 98,
+  "card_number": "S98",
+  "name_part": "Namekian Heritage Drill",
+  "file_name": "Namekian Heritage Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "614a939eb4a5c6ed7f4aa5b6bdb64c18b407b76e"
+ },
+ "vision": {
+  "id": "S01_STR_S98",
+  "name": "Namekian Heritage Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your energy attacks deal +X life cards of damage. X = your MP's level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:283"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.8,
+  "header_text": "(NAMEKIAN HERITAGE: BRILL () sse",
+  "stages_text": "4",
+  "error": null
+ }
+}

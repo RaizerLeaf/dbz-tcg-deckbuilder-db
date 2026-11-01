@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P81",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P81_Captain Ginyu - Body Change.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P81_Captain Ginyu - Body Change.png",
+  "prefix": "P",
+  "number": 81,
+  "card_number": "P81",
+  "name_part": "Captain Ginyu - Body Change",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Body Change",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4770fd7be4e785bcb58a741e1242fd679be799c8"
+ },
+ "vision": {
+  "id": "PZP_MP_P81",
+  "name": "Captain Ginyu",
+  "sub": "Body Change",
+  "type": "Main Personality",
+  "num": "P81",
+  "lvl": 3,
+  "stages": [
+   175000,
+   150000,
+   125000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan",
+   "Alien"
+  ],
+  "text": "[Continuous]: Your \"Ginyu Force\" Allies may make actions regardless of your MP's power stage and they cannot be discarded. Your attacks deal +2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 U66. Trait badges S + A (matches the CRD: Captain Ginyu - Body Change is Saiyan)",
+  "_src": "PZP.jsonl:138"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "S3 CAPTAIN GINYU Pa]\nLEVEL BODY CHANGE",
+  "stages_text": "175,000\n150,000\n125,000\n100,000\n80,000\n60,000\n40,000\n20,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

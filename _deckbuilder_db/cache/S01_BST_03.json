@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_03",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "03_Namek Dragon Ball 3.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/03_Namek Dragon Ball 3.jpg",
+  "prefix": null,
+  "number": 3,
+  "card_number": "03",
+  "name_part": "Namek Dragon Ball 3",
+  "file_name": "Namek Dragon Ball 3",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "582a97e83eed324a669b7252d37ac3626431ab37"
+ },
+ "vision": {
+  "id": "S01_BST_03",
+  "name": "Namek Dragon Ball 3",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "C3",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Draw 3 cards. Place 2 cards from your hand at the bottom of your Life Deck. Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 80.7,
+  "header_text": "«(NAMEK DRAGON BALL 3 () cs\nmy a ~ ]",
+  "stages_text": "4 7",
+  "error": null
+ }
+}

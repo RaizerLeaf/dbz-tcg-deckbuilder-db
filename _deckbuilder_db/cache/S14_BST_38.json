@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_38",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "38_Android 17 - Ranger.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/38_Android 17 - Ranger.png",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Android 17 - Ranger",
+  "file_name": "Android 17",
+  "file_subtitle": "Ranger",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9ee91fff8e810f111d082bc49ccb60655d6df011"
+ },
+ "vision": {
+  "id": "S14_BST_38",
+  "name": "Android 17",
+  "sub": "Ranger",
+  "type": "Ally",
+  "num": "U38",
+  "lvl": 1,
+  "stages": [
+   900000,
+   700000,
+   500000,
+   300000,
+   200000,
+   100000,
+   60000,
+   30000,
+   20000,
+   8000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Once per game, if your MP is Android 18, you may play this card from your hand as an action to end combat.)\n[Continuous]: Your attacks with \"Android\" in the title are Unpreventable.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO ALLY'. Trait badges: E (Capsule Corp logo) = Earthling; R (Red Ribbon logo) = Android by elimination against the CRD Trait list",
+  "_src": "S14.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "LL ANDROID 17\nLEVEL RANGER () U38\nBO",
+  "stages_text": "900,000\n700,000\n500,000\n300,000\n200,000\n100,000\n60,000\n30,000\n20,000\n8,000\n\n0",
+  "error": null
+ }
+}

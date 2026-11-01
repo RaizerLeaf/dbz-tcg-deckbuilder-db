@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S148",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S148_Red Blocking Hand.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S148_Red Blocking Hand.jpg",
+  "prefix": "S",
+  "number": 148,
+  "card_number": "S148",
+  "name_part": "Red Blocking Hand",
+  "file_name": "Red Blocking Hand",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "53be0450ff947bf82e5251eab85d24679b201534"
+ },
+ "vision": {
+  "id": "S01_STR_S148",
+  "name": "Red Blocking Hand",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S148",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Raise your anger 2 levels. Gain 2 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:333"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "ep Blocking Hane, @ aise\nOO d)l—c t—*»,M— >.",
+  "stages_text": "1\n4",
+  "error": null
+ }
+}

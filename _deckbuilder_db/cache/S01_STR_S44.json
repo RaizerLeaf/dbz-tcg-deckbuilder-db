@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S44",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S44_Saiyan Retaliation Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S44_Saiyan Retaliation Drill.jpg",
+  "prefix": "S",
+  "number": 44,
+  "card_number": "S44",
+  "name_part": "Saiyan Retaliation Drill",
+  "file_name": "Saiyan Retaliation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "aabf24473445db9c6dbbce9c13e2a18e07dde99d"
+ },
+ "vision": {
+  "id": "S01_STR_S44",
+  "name": "Saiyan Retaliation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Each time you take damage in a combat, your attacks deal +1 stage of damage for that combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:229"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "(SAIYAN RETALIATION-ORILL () Sa4",
+  "stages_text": ",",
+  "error": null
+ }
+}

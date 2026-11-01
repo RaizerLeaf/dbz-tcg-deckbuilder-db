@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S82",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S82_Saiyan Flying Tackle.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S82_Saiyan Flying Tackle.jpg",
+  "prefix": "S",
+  "number": 82,
+  "card_number": "S82",
+  "name_part": "Saiyan Flying Tackle",
+  "file_name": "Saiyan Flying Tackle",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f1e10c99ddd27f652421ffe193d85837cba32156"
+ },
+ "vision": {
+  "id": "S01_STR_S82",
+  "name": "Saiyan Flying Tackle",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. When you perform this attack you may destroy the top card of your Life Deck to have this attack deal +6 stages instead of +3.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:267"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "(SAIYAN FLYING TACKLE () see\na Ci. mn |",
+  "stages_text": "4",
+  "error": null
+ }
+}

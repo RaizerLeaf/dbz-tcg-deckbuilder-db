@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_04",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "04_Trunks - Inquisitive.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/04_Trunks - Inquisitive.jpg",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Trunks - Inquisitive",
+  "file_name": "Trunks",
+  "file_subtitle": "Inquisitive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "565cf3ed5886a5f7ed36812a4c12592b0e1debf0"
+ },
+ "vision": {
+  "id": "S01_BST_04",
+  "name": "Trunks",
+  "sub": "Inquisitive",
+  "type": "Main Personality",
+  "num": "C4",
+  "lvl": 1,
+  "stages": [
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   1500,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: When entering combat, look at the top 4 cards of your Life Deck and put them back in any order. Banish the top card of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO (Allies read ALLY)",
+  "_src": "S01.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "TRUNKS —\n1 INQUISITIVE et () C4\nLEVEL ee <\n- ——~_ gf",
+  "stages_text": "100,000\n75,000\n50,000\n25,000\n\n10,000\n5,000\n2,500\n1,500\n\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

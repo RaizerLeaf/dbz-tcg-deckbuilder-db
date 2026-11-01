@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P168",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P168_Piccolo - Waiting.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P168_Piccolo - Waiting.png",
+  "prefix": "P",
+  "number": 168,
+  "card_number": "P168",
+  "name_part": "Piccolo - Waiting",
+  "file_name": "Piccolo",
+  "file_subtitle": "Waiting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5acf547e478cda3cf7d7a4ab208e42e4f8eb0671"
+ },
+ "vision": {
+  "id": "PZP_AL_P168",
+  "name": "Piccolo",
+  "sub": "Waiting",
+  "type": "Ally",
+  "num": "P168",
+  "lvl": 1,
+  "stages": [
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "(If your MP is Gohan, you may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "1 [pIocoto\n/ LEVEL | WAITING C) P168",
+  "stages_text": "80,000\n70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n\n2,500\n0",
+  "error": null
+ }
+}

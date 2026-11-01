@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P122",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P122_Android 16 - Enraged.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P122_Android 16 - Enraged.png",
+  "prefix": "P",
+  "number": 122,
+  "card_number": "P122",
+  "name_part": "Android 16 - Enraged",
+  "file_name": "Android 16",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "659a9a206a8d95b01e5f290eab0e2cee263c2fe4"
+ },
+ "vision": {
+  "id": "PZP_MP_P122",
+  "name": "Android 16",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "P122",
+  "lvl": 3,
+  "stages": [
+   1800000,
+   1400000,
+   1000000,
+   600000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card. Cards in your Life Deck without Endurance gain \"Endurance 1.\"\n[Instant] POWER: Use when entering combat. Place a card from your hand at the bottom of your Life Deck to search your Life Deck for an Alignment-restricted card and place it into your hand. If that card was a Setup or Drill, you may place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:180"
+ },
+ "ocr": {
+  "agreement": 0.984,
+  "lower_conf": 79.8,
+  "header_text": "3 ANDROID 16\nENRAGED P122",
+  "stages_text": "1,800,000\n1,400,000\n1,000,000\n600,000\n200,000\n100,000\n50,000\n25,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

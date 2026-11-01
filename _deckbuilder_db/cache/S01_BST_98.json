@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_98",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "98_Red Jump Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/98_Red Jump Kick.jpg",
+  "prefix": null,
+  "number": 98,
+  "card_number": "98",
+  "name_part": "Red Jump Kick",
+  "file_name": "Red Jump Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "526bfadd9fd4976c367c05162ad92a8f0d548c34"
+ },
+ "vision": {
+  "id": "S01_BST_98",
+  "name": "Red Jump Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U98",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 stages. HIT: Lower both players' MPs one personality level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:98"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "(RED JUMP KICK = () Use\nng ; |",
+  "stages_text": ",",
+  "error": null
+ }
+}

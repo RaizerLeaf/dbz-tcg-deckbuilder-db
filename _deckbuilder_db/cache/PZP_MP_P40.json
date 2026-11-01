@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P40",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P40_Piccolo - Composed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P40_Piccolo - Composed.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Piccolo - Composed",
+  "file_name": "Piccolo",
+  "file_subtitle": "Composed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0696b46d38b709083e87f857514d03e6385b0fba"
+ },
+ "vision": {
+  "id": "PZP_MP_P40",
+  "name": "Piccolo",
+  "sub": "Composed",
+  "type": "Main Personality",
+  "num": "P40",
+  "lvl": 1,
+  "stages": [
+   112000,
+   104000,
+   96000,
+   48000,
+   24000,
+   12000,
+   6000,
+   3000,
+   1500,
+   750,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Whenever you gain stages from a card effect, raise your anger 1 level. Whenever you Rejuvenate during combat, raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "PICCOLO",
+  "stages_text": "112,000\n104,000\n96,000\n48,000\n24,000\n12,000\n6,000\n3,000\n\n1,500\n\n4 750\n0",
+  "error": null
+ }
+}

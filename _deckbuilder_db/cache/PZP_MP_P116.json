@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P116",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P116_Android 19 - Patient.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P116_Android 19 - Patient.png",
+  "prefix": "P",
+  "number": 116,
+  "card_number": "P116",
+  "name_part": "Android 19 - Patient",
+  "file_name": "Android 19",
+  "file_subtitle": "Patient",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f32c5f651116c3db644b05b02bc50770ba21de66"
+ },
+ "vision": {
+  "id": "PZP_MP_P116",
+  "name": "Android 19",
+  "sub": "Patient",
+  "type": "Main Personality",
+  "num": "P116",
+  "lvl": 4,
+  "stages": [
+   1300000,
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   200000,
+   100000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: After taking damage from an attack, gain 2 stages.\nPOWER: [Attack] Physical attack.\nGain 10 stages. If a card you own is attached to your opponent's MP, this attack deals +4 life cards and is Unpreventable.\nDAMAGE: AT + 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:173"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "Zi ANDROID 19\nLEVEL PATIENT ia:",
+  "stages_text": "1,300,000\n1,100,000\n900,000\n700,000\n500,000\n300,000\n200,000\n100,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

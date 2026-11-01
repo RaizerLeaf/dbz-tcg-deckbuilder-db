@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P110",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P110_Turles - Watchful.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P110_Turles - Watchful.png",
+  "prefix": "P",
+  "number": 110,
+  "card_number": "P110",
+  "name_part": "Turles - Watchful",
+  "file_name": "Turles",
+  "file_subtitle": "Watchful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "046a22f2e355f72648d79701659e125d1be072ae"
+ },
+ "vision": {
+  "id": "PZP_MP_P110",
+  "name": "Turles",
+  "sub": "Watchful",
+  "type": "Main Personality",
+  "num": "P110",
+  "lvl": 2,
+  "stages": [
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nUnpreventable.\nDAMAGE: 5 stages.\nHIT: Your opponent pays 3 stages or you may raise your anger 2 and use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:167"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "=) TURLES\n: WATCHFUL P110",
+  "stages_text": "30,000\n25,000\n20,000\n15,000\n\n7\n10,000\n8,000\n6,000\n4,000\n2,000\n1,000\n0",
+  "error": null
+ }
+}

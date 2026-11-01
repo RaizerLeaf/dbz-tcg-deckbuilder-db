@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S53",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S53_Blue Arm Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S53_Blue Arm Blast.jpg",
+  "prefix": "S",
+  "number": 53,
+  "card_number": "S53",
+  "name_part": "Blue Arm Blast",
+  "file_name": "Blue Arm Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "720520a654f54294b5e9f29f160495fe39fc1d27"
+ },
+ "vision": {
+  "id": "S01_STR_S53",
+  "name": "Blue Arm Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S53",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop a physical attack instead of as an attack.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:238"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.8,
+  "header_text": "| | =a.",
+  "stages_text": ",",
+  "error": null
+ }
+}

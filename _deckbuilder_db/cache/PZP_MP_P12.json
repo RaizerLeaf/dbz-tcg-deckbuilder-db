@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P12",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P12_Goku - Energy Gatherer.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P12_Goku - Energy Gatherer.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Goku - Energy Gatherer",
+  "file_name": "Goku",
+  "file_subtitle": "Energy Gatherer",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8e8c225940cd1497850cf4ff0dc5dff0ecc17717"
+ },
+ "vision": {
+  "id": "PZP_MP_P12",
+  "name": "Goku",
+  "sub": "Energy Gatherer",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 3,
+  "stages": [
+   900000,
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nYou may choose a Drill or Setup in your discard pile and place it into play.\nDAMAGE: 5 life cards.\nHIT: Rejuvenate up to 5 Drills from your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S7",
+  "_src": "PZP.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "GOKU",
+  "stages_text": "900,000\n800,000\n700,000\n600,000\n\n500,000\n\n400,000\n\n300,000\n200,000\n100,000\n\n150,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P45",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P45_Trunks - Swordmaster.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P45_Trunks - Swordmaster.png",
+  "prefix": "P",
+  "number": 45,
+  "card_number": "P45",
+  "name_part": "Trunks - Swordmaster",
+  "file_name": "Trunks",
+  "file_subtitle": "Swordmaster",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ac44edc6a1b11fcaaad635a4e83acad9b13c8012"
+ },
+ "vision": {
+  "id": "PZP_MP_P45",
+  "name": "Trunks",
+  "sub": "Swordmaster",
+  "type": "Main Personality",
+  "num": "P45",
+  "lvl": 2,
+  "stages": [
+   750000,
+   600000,
+   450000,
+   300000,
+   150000,
+   100000,
+   50000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(Use only if you have not performed an attack from your hand this combat.)\nPOWER: [Attack] Physical attack.\nDAMAGE: 8 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "@— TRUNKS\nLEVEL SWORDMASTER () P45\nAen een wa",
+  "stages_text": "750,000\n600,000\n450,000\n300,000\n150,000\n100,000\n50,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

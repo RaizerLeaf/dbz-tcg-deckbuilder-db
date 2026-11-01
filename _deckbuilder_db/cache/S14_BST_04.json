@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_04",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "04_Black Counter Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/04_Black Counter Blast.png",
+  "prefix": null,
+  "number": 4,
+  "card_number": "04",
+  "name_part": "Black Counter Blast",
+  "file_name": "Black Counter Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "73f72f2134089f9c0bf2e6f5cf2fa7bb7a0e17cb"
+ },
+ "vision": {
+  "id": "S14_BST_04",
+  "name": "Black Counter Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U4",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is revealed from your hand by a Mastery effect, you may draw a card. If you do, your opponent draws a card.)\n[Attack] 2: Energy attack.\nYour opponent can only attack or pass in their next action this combat.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance printed as a badge; transcribed as a leading 'ENDURANCE N.' line",
+  "_src": "S14.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 0.965,
+  "lower_conf": 91.6,
+  "header_text": "BLACK COUNTER BLAST C) U4\na Aaa",
+  "stages_text": "7\n4\n,",
+  "error": null
+ }
+}

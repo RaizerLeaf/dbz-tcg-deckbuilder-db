@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P204",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P204_Baba - Surprise Visitor.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P204_Baba - Surprise Visitor.png",
+  "prefix": "P",
+  "number": 204,
+  "card_number": "P204",
+  "name_part": "Baba - Surprise Visitor",
+  "file_name": "Baba",
+  "file_subtitle": "Surprise Visitor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7d6c580d37c3ea22356af945b96d6cd99a2b8bd4"
+ },
+ "vision": {
+  "id": "PZP_AL_P204",
+  "name": "Baba",
+  "sub": "Surprise Visitor",
+  "type": "Ally",
+  "num": "P204",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Players play with their hand revealed. Allies gain \"Endurance 1.\"",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout, purple frame); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "1 nee\nLEVEL | SURPRISE VISITOR @ »20",
+  "stages_text": "10\n8\n7\n4\n3\n2\n0",
+  "error": null
+ }
+}

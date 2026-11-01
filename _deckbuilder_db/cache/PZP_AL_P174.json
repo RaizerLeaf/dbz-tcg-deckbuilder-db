@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P174",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P174_Zarbon - Loyal Servant.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P174_Zarbon - Loyal Servant.png",
+  "prefix": "P",
+  "number": 174,
+  "card_number": "P174",
+  "name_part": "Zarbon - Loyal Servant",
+  "file_name": "Zarbon",
+  "file_subtitle": "Loyal Servant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f3e5720ea5400a4c67f72e094918b1ec0a7717af"
+ },
+ "vision": {
+  "id": "PZP_AL_P174",
+  "name": "Zarbon",
+  "sub": "Loyal Servant",
+  "type": "Ally",
+  "num": "P174",
+  "lvl": 1,
+  "stages": [
+   45000,
+   40000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: After taking damage from a physical attack, you may raise a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "1 zane C)\nIl. LOYAL SERVANT P174",
+  "stages_text": "45,000\n40,000\n35,000\n30,000\n25,000\n720,000\n15,000\n10,000\n5,000\n2,500\n0",
+  "error": null
+ }
+}

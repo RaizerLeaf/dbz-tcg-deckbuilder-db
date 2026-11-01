@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P92",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P92_Raditz - Triumphant.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P92_Raditz - Triumphant.png",
+  "prefix": "P",
+  "number": 92,
+  "card_number": "P92",
+  "name_part": "Raditz - Triumphant",
+  "file_name": "Raditz",
+  "file_subtitle": "Triumphant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b025961d4a087631e4df2776e4159525adb626ea"
+ },
+ "vision": {
+  "id": "PZP_MP_P92",
+  "name": "Raditz",
+  "sub": "Triumphant",
+  "type": "Main Personality",
+  "num": "P92",
+  "lvl": 4,
+  "stages": [
+   22000,
+   21000,
+   20000,
+   19000,
+   18000,
+   17000,
+   16000,
+   15000,
+   14000,
+   13000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever one of your Setups or Drills enters play, choose a card in your discard pile and Rejuvenate it. The first time you use a critical damage effect each combat, you may search your Life Deck or discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.3,
+  "header_text": "41 RADITZ\nLEVEL TRIUMPHANT () P92\n“= hl",
+  "stages_text": "22,000\n21,000\n20,000\n19,000\n\n18,000\n\n17,000\n\n16,000\n15,000\n14,000\n\n13,000\n\n0",
+  "error": null
+ }
+}

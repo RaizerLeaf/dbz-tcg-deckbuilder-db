@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S81",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S81_Saiyan Direct Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S81_Saiyan Direct Strike.jpg",
+  "prefix": "S",
+  "number": 81,
+  "card_number": "S81",
+  "name_part": "Saiyan Direct Strike",
+  "file_name": "Saiyan Direct Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e3765bdc598a68e8554b72d73e4a635daf4d1b1c"
+ },
+ "vision": {
+  "id": "S01_STR_S81",
+  "name": "Saiyan Direct Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 4. [Attack] Physical attack. DAMAGE: AT +3 stages and +2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:266"
+ },
+ "ocr": {
+  "agreement": 0.833,
+  "lower_conf": 78.1,
+  "header_text": "NON AGT TOD mT ester ec",
+  "stages_text": "7\n,\n,",
+  "error": null
+ }
+}

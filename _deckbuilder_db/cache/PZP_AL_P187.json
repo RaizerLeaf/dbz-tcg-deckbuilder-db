@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P187",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P187_Vegeta - Unrelenting.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P187_Vegeta - Unrelenting.png",
+  "prefix": "P",
+  "number": 187,
+  "card_number": "P187",
+  "name_part": "Vegeta - Unrelenting",
+  "file_name": "Vegeta",
+  "file_subtitle": "Unrelenting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "08e651e3a134e22e7246e85270175d6eb522a6fa"
+ },
+ "vision": {
+  "id": "PZP_AL_P187",
+  "name": "Vegeta",
+  "sub": "Unrelenting",
+  "type": "Ally",
+  "num": "P187",
+  "lvl": 1,
+  "stages": [
+   150000,
+   100000,
+   75000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(If your MP is Goku, once per combat you may place this card into play from your hand at 2 stages above 0 to stop a physical or energy attack.)\nPOWER: [Attack] 1: Energy attack.\nDAMAGE: AT life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "1 Fens\nLEVEL | UNRELENTING Qe",
+  "stages_text": ", 150,000\n100,000\n75,000\n50,000\n25,000\n20,000\n15,000\n10,000\n5,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P107",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P107_Lord Slug - Renewed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P107_Lord Slug - Renewed.png",
+  "prefix": "P",
+  "number": 107,
+  "card_number": "P107",
+  "name_part": "Lord Slug - Renewed",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Renewed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ed6eec0903b9307a770885c2cc3cca6abd72d5a7"
+ },
+ "vision": {
+  "id": "PZP_MP_P107",
+  "name": "Lord Slug",
+  "sub": "Renewed",
+  "type": "Main Personality",
+  "num": "P107",
+  "lvl": 3,
+  "stages": [
+   200000,
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   10000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages. The first time during combat one of your effects shuffles or Rejuvenates cards from your discard pile into your Life Deck, double that amount.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:164"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "=3 LORD SLUG\nLEVEL RENEWED € e107",
+  "stages_text": "200,000\n150,000\n125,000\n100,000\n75,000\n50,000\n10,000\n1,000\n\n500\n\n250\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_112",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "112_Enraged Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/112_Enraged Blast.jpg",
+  "prefix": null,
+  "number": 112,
+  "card_number": "112",
+  "name_part": "Enraged Blast",
+  "file_name": "Enraged Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "aad9b3381406ebded035121b5bd7bf54b2c06338"
+ },
+ "vision": {
+  "id": "S01_BST_112",
+  "name": "Enraged Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 3 stages. DAMAGE: 4 life cards. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:112"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "(ENRAGED BLAST 9 ow C) W112",
+  "stages_text": "",
+  "error": null
+ }
+}

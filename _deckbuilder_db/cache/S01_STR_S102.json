@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S102",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S102_Red Intimidation Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S102_Red Intimidation Drill.jpg",
+  "prefix": "S",
+  "number": 102,
+  "card_number": "S102",
+  "name_part": "Red Intimidation Drill",
+  "file_name": "Red Intimidation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f6949ae08d8abdc9610158ee2c2f355f37ccfb53"
+ },
+ "vision": {
+  "id": "S01_STR_S102",
+  "name": "Red Intimidation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Once per turn when you deal critical damage, you may draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:287"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "(RED INTIMIDATION DRILL @D) =:\nee = > LR 8 75 ae",
+  "stages_text": "",
+  "error": null
+ }
+}

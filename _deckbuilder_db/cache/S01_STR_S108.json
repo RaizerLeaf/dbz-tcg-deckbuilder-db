@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S108",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S108_Red Burning Stance.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S108_Red Burning Stance.jpg",
+  "prefix": "S",
+  "number": 108,
+  "card_number": "S108",
+  "name_part": "Red Burning Stance",
+  "file_name": "Red Burning Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a040643fa4c3ec3445138b5fd721c3dfd6e5852b"
+ },
+ "vision": {
+  "id": "S01_STR_S108",
+  "name": "Red Burning Stance",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. Raise your anger 1 level. HIT: Banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:293"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "(RED BURNING STANCE C) S108\nas F —=>",
+  "stages_text": "3",
+  "error": null
+ }
+}

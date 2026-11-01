@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S133",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S133_Black Jab.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S133_Black Jab.jpg",
+  "prefix": "S",
+  "number": 133,
+  "card_number": "S133",
+  "name_part": "Black Jab",
+  "file_name": "Black Jab",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "bb9a9f724da6b8040c4d9e22136ecaac4bd83c50"
+ },
+ "vision": {
+  "id": "S01_STR_S133",
+  "name": "Black Jab",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand, choose a card in your opponent's discard pile and place it on top of his Life Deck.) [Attack] Physical attack. DAMAGE: AT +2 stages. If your opponent has no cards in his hand, destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:318"
+ },
+ "ocr": {
+  "agreement": 0.978,
+  "lower_conf": 90.2,
+  "header_text": "(BLACK JAB os () S133",
+  "stages_text": "2\n,4",
+  "error": null
+ }
+}

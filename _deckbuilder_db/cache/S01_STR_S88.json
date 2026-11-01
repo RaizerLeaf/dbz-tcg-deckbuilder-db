@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S88",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S88_Namekian Knee Block.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S88_Namekian Knee Block.jpg",
+  "prefix": "S",
+  "number": 88,
+  "card_number": "S88",
+  "name_part": "Namekian Knee Block",
+  "file_name": "Namekian Knee Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "47ca131df766676d481d111df2979e3ca079303d"
+ },
+ "vision": {
+  "id": "S01_STR_S88",
+  "name": "Namekian Knee Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S88",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, raise your anger 1 level.) ENDURANCE 2. [Defense] Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:273"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.2,
+  "header_text": "(NAMEKIAN KNEE BLOCK () sea",
+  "stages_text": "",
+  "error": null
+ }
+}

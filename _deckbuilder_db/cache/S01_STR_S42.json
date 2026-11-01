@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S42",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S42_Orange Steady Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S42_Orange Steady Drill.jpg",
+  "prefix": "S",
+  "number": 42,
+  "card_number": "S42",
+  "name_part": "Orange Steady Drill",
+  "file_name": "Orange Steady Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "154d15092291adf9247f1b9d54c2ab762845c918"
+ },
+ "vision": {
+  "id": "S01_STR_S42",
+  "name": "Orange Steady Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if your opponent has not performed a successful energy attack this combat.) [Defense] POWER: Stops an energy attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:227"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "© RANGE STEADY DRILL © sae |",
+  "stages_text": ",\n10",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S57",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S57_Orange Palm Blasts.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S57_Orange Palm Blasts.jpg",
+  "prefix": "S",
+  "number": 57,
+  "card_number": "S57",
+  "name_part": "Orange Palm Blasts",
+  "file_name": "Orange Palm Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a86f67d6c9fad51aa32766bfd8160a22af695021"
+ },
+ "vision": {
+  "id": "S01_STR_S57",
+  "name": "Orange Palm Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Your opponent cannot perform an energy attack in his next action.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:242"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "(ORANGE PALM BLASTS () 357",
+  "stages_text": "3\n,",
+  "error": null
+ }
+}

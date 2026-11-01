@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S18",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S18_Frieza - Transformed.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S18_Frieza - Transformed.jpg",
+  "prefix": "S",
+  "number": 18,
+  "card_number": "S18",
+  "name_part": "Frieza - Transformed",
+  "file_name": "Frieza",
+  "file_subtitle": "Transformed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5b97c0b449207ec38f94acd42cbc9bfe44ca997b"
+ },
+ "vision": {
+  "id": "S01_STR_S18",
+  "name": "Frieza",
+  "sub": "Transformed",
+  "type": "Main Personality",
+  "num": "S18",
+  "lvl": 2,
+  "stages": [
+   599000,
+   399000,
+   199000,
+   99000,
+   79000,
+   59000,
+   39000,
+   19000,
+   9000,
+   900,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Attack] POWER: Discard a card from your hand to perform the last attack your opponent used this combat. That attack deals an additional +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN; the 9,000 stage is printed without a comma ('9000')",
+  "_src": "S01.jsonl:203"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "FRIEZA\n\n_ TRANSFORMED ie) sis }\nLEVEL | \\e\n\nI} i“! raannn",
+  "stages_text": "599,000\n359,000\n199,000\n99,000\n79,000\n4 59,000\n39,000\n19,000\n9000\n900\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S118",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S118_Red Frenzied Blasts.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S118_Red Frenzied Blasts.jpg",
+  "prefix": "S",
+  "number": 118,
+  "card_number": "S118",
+  "name_part": "Red Frenzied Blasts",
+  "file_name": "Red Frenzied Blasts",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "03f14b14871cfa0778808215fdffc647f225b3ec"
+ },
+ "vision": {
+  "id": "S01_STR_S118",
+  "name": "Red Frenzied Blasts",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:303"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.6,
+  "header_text": "(RED FRENZIED BLASTS () sue\narn a",
+  "stages_text": "",
+  "error": null
+ }
+}

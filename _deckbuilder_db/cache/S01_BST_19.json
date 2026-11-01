@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_19",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "19_Black Punishment (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/19_Black Punishment (CRD).png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Black Punishment",
+  "file_name": "Black Punishment",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c06272606e2fc1b56b6451dc6364e6fbf83c23f6"
+ },
+ "vision": {
+  "id": "S01_BST_19",
+  "name": "Black Punishment",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Raise your anger 1 level. HIT: Until the start of your next turn, whenever a card is banished your opponent destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:19"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "(BLACK PUNISHMENT: () cis\nrT g",
+  "stages_text": "",
+  "error": null
+ }
+}

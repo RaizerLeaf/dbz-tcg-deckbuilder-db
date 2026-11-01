@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_163",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "163_Heroic Energy Sphere.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/163_Heroic Energy Sphere.jpg",
+  "prefix": null,
+  "number": 163,
+  "card_number": "163",
+  "name_part": "Heroic Energy Sphere",
+  "file_name": "Heroic Energy Sphere",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1dbd914ab73ab37de46faaf17c82ac1cccb17f4a"
+ },
+ "vision": {
+  "id": "S01_BST_163",
+  "name": "Heroic Energy Sphere",
+  "sub": null,
+  "type": "Event",
+  "num": "UR163",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Instant] POWER: Use when an Event is played. Cancel the effects of that card. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; UR rarity",
+  "_src": "S01.jsonl:163"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "{ Se - —_\n(HEROIC ENERGY SPHERE C) uaiss\nl 7 A",
+  "stages_text": "4",
+  "error": null
+ }
+}

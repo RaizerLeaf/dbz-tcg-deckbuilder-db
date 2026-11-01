@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P135",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P135_Android 13 - Surging Strength.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P135_Android 13 - Surging Strength.png",
+  "prefix": "P",
+  "number": 135,
+  "card_number": "P135",
+  "name_part": "Android 13 - Surging Strength",
+  "file_name": "Android 13",
+  "file_subtitle": "Surging Strength",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f182cc5ac9297ebc84b35c9769d106449dd4677"
+ },
+ "vision": {
+  "id": "PZP_MP_P135",
+  "name": "Android 13",
+  "sub": "Surging Strength",
+  "type": "Main Personality",
+  "num": "P135",
+  "lvl": 4,
+  "stages": [
+   2100000,
+   1700000,
+   1400000,
+   1100000,
+   800000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: Your non-Styled attack cards gain \"HIT: Your opponent skips their next action this combat.\"\nPOWER: [Attack] Physical attack.\nThis attack deals +1 stage for each card with \"Android\" in the title in your discard pile.\nDAMAGE: 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:193"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.6,
+  "header_text": "47.) ANDROID 13\n: LEVEL | SURGING STRENGTH P135",
+  "stages_text": "2,100,000\n1,700,000\n1,400,000\n1,100,000\n800,000\n500,000\n400,000\n300,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

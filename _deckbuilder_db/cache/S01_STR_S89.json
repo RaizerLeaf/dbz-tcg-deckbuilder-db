@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S89",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S89_Namekian Narrow Escape.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S89_Namekian Narrow Escape.jpg",
+  "prefix": "S",
+  "number": 89,
+  "card_number": "S89",
+  "name_part": "Namekian Narrow Escape",
+  "file_name": "Namekian Narrow Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8d6efa7ed02ac8fcb50ed6ecb36118f34074113d"
+ },
+ "vision": {
+  "id": "S01_STR_S89",
+  "name": "Namekian Narrow Escape",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. All Styled energy attacks cost -1 stage to perform this combat, to a minimum of 1.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:274"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "(NAMEKIAN NARROW.-ESCAPE C) sss",
+  "stages_text": ",",
+  "error": null
+ }
+}

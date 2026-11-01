@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S131",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S131_Black Flying Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S131_Black Flying Kick.jpg",
+  "prefix": "S",
+  "number": 131,
+  "card_number": "S131",
+  "name_part": "Black Flying Kick",
+  "file_name": "Black Flying Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "dacb0fb60ee4c748b9c2516c2b017a2568b7115c"
+ },
+ "vision": {
+  "id": "S01_STR_S131",
+  "name": "Black Flying Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +2 stages. Banish the top 3 cards of your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:316"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "(BLACK FLYING KICK: C) S131\n>>:",
+  "stages_text": ",\n,\n4\n273\n,",
+  "error": null
+ }
+}

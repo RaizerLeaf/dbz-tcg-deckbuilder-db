@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_42",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "42_Orange Refocus.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/42_Orange Refocus.jpg",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Orange Refocus",
+  "file_name": "Orange Refocus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "87664c9d4c6d499108bf0d5c711069a60a81bc63"
+ },
+ "vision": {
+  "id": "S01_BST_42",
+  "name": "Orange Refocus",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C42",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. Raise your anger 1 level. You may search your discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "(ORANGE REFOCUS ©» () cas",
+  "stages_text": "5\n4\n,",
+  "error": null
+ }
+}

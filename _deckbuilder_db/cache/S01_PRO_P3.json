@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P3",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P3_Gohan - Resilient Child.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P3_Gohan - Resilient Child.jpg",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Gohan - Resilient Child",
+  "file_name": "Gohan",
+  "file_subtitle": "Resilient Child",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "184f225444efd7f86e344ae3ab8cad4ae0e17ef4"
+ },
+ "vision": {
+  "id": "S01_PRO_P3",
+  "name": "Gohan",
+  "sub": "Resilient Child",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 1,
+  "stages": [
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   800,
+   600,
+   400,
+   200,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: When you perform a Styled attack, you may destroy up to 2 cards from the top of your Life Deck. That attack deals +X life cards. X = the number of cards destroyed.",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout; type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:167"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "\\ 4\nHAN\n1 conan CHILD y >3\nLEVEL g \"7 \\®\n2 ENN",
+  "stages_text": "3,500\n3,000\n2,500\n2,000\n1,500\n\n0\n1 1,000\n800\n600\n400\n200\n0",
+  "error": null
+ }
+}

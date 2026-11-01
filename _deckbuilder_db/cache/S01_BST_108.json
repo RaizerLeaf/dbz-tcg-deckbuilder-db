@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_108",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "108_Battle Pausing.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/108_Battle Pausing.jpg",
+  "prefix": null,
+  "number": 108,
+  "card_number": "108",
+  "name_part": "Battle Pausing",
+  "file_name": "Battle Pausing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4ce54337578e16300eec1ec10da061b599e3c8e7"
+ },
+ "vision": {
+  "id": "S01_BST_108",
+  "name": "Battle Pausing",
+  "sub": null,
+  "type": "Event",
+  "num": "U108",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) POWER: Banish a card from your hand to draw the top 2 cards of your discard pile. Your opponent gains 5 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "(BATTLE PAUSING ~~ () 2108",
+  "stages_text": ",",
+  "error": null
+ }
+}

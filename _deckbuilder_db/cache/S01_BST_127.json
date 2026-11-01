@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_127",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "127_Blue Protective Mastery.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/127_Blue Protective Mastery.jpg",
+  "prefix": null,
+  "number": 127,
+  "card_number": "127",
+  "name_part": "Blue Protective Mastery",
+  "file_name": "Blue Protective Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 911,
+  "height": 651,
+  "orientation": "landscape",
+  "sha1": "1c309d046e95d6da8dcd7b370e54fc2cc15d11f6"
+ },
+ "vision": {
+  "id": "S01_BST_127",
+  "name": "Blue Protective Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "R127",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent needs 6 anger to advance a personality level.\n[Defense] POWER: You may discard a Physical Combat card from your hand to stop an energy attack or an Energy Combat card to stop a physical attack. If you discarded a Blue card, you may raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:127"
+ },
+ "ocr": {
+  "agreement": 0.962,
+  "lower_conf": 84.8,
+  "header_text": "| BLUE PROTECTIVE MASTERY C) R127\np ee oe = —- —",
+  "stages_text": null,
+  "error": null
+ }
+}

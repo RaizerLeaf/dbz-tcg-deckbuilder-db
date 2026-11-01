@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S146",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S146_Orange Cover Up.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S146_Orange Cover Up.jpg",
+  "prefix": "S",
+  "number": 146,
+  "card_number": "S146",
+  "name_part": "Orange Cover Up",
+  "file_name": "Orange Cover Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7e94b54720b2ab88ccb79c49998b13aee6fc73d6"
+ },
+ "vision": {
+  "id": "S01_STR_S146",
+  "name": "Orange Cover Up",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S146",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. Also stops a physical attack in your opponent's next action.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:331"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 73.8,
+  "header_text": "(ORANGE COVER UP. () S146",
+  "stages_text": "7",
+  "error": null
+ }
+}

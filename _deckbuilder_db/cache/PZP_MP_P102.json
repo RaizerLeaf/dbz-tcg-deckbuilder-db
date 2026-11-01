@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P102",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P102_Garlic Jr. - Crazed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P102_Garlic Jr. - Crazed.png",
+  "prefix": "P",
+  "number": 102,
+  "card_number": "P102",
+  "name_part": "Garlic Jr. - Crazed",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Crazed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8e8184d0e2b60a3ba70fc6803cf0aba9f43dc594"
+ },
+ "vision": {
+  "id": "PZP_MP_P102",
+  "name": "Garlic Jr.",
+  "sub": "Crazed",
+  "type": "Main Personality",
+  "num": "P102",
+  "lvl": 2,
+  "stages": [
+   4000,
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   750,
+   500,
+   250,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards. Whenever a Dragon Ball is revealed when taking damage, raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:159"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "GARLIC JR.",
+  "stages_text": "4,000\n\n3,500\n\n3,000\n\n2,500\n\n2,000\n3\n\n1,500\n1\n\n,000\n\n750\n\n500\n\n, 250\n\n0",
+  "error": null
+ }
+}

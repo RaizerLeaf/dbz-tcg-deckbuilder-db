@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_56",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "56_Saiyan Pinpoint Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/56_Saiyan Pinpoint Blast.jpg",
+  "prefix": null,
+  "number": 56,
+  "card_number": "56",
+  "name_part": "Saiyan Pinpoint Blast",
+  "file_name": "Saiyan Pinpoint Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "71915d68a0234e42b457ce6a833d75bf4401deec"
+ },
+ "vision": {
+  "id": "S01_BST_56",
+  "name": "Saiyan Pinpoint Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. You may use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.9,
+  "header_text": "(SAIYAN PINPOINT BLAST €) ane",
+  "stages_text": ",",
+  "error": null
+ }
+}

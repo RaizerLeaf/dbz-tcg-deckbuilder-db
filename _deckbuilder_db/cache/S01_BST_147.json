@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_147",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "147_Saiyan Elbow Drop.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/147_Saiyan Elbow Drop.jpg",
+  "prefix": null,
+  "number": 147,
+  "card_number": "147",
+  "name_part": "Saiyan Elbow Drop",
+  "file_name": "Saiyan Elbow Drop",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0635b5539447fb91bc21522abeb67e1d93cbeb7a"
+ },
+ "vision": {
+  "id": "S01_BST_147",
+  "name": "Saiyan Elbow Drop",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R147",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack costing 1 stage. DAMAGE: AT +3 stages. This attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:147"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "(SAIYAN ELBOW DROP () a1a7",
+  "stages_text": "4",
+  "error": null
+ }
+}

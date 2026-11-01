@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S46",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S46_Blue Reprimand.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S46_Blue Reprimand.jpg",
+  "prefix": "S",
+  "number": 46,
+  "card_number": "S46",
+  "name_part": "Blue Reprimand",
+  "file_name": "Blue Reprimand",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "d33f47b6175add91f65bc15257a37ddaaa654ed1"
+ },
+ "vision": {
+  "id": "S01_STR_S46",
+  "name": "Blue Reprimand",
+  "sub": null,
+  "type": "Event",
+  "num": "S46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. POWER: Return a Setup, Drill, or Dragon Ball in play to its owner's hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:231"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "(BLUE REPRIMAND. () S46\n—_, —_—",
+  "stages_text": "",
+  "error": null
+ }
+}

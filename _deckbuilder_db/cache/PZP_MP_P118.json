@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P118",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P118_Android 20 - Unfazed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P118_Android 20 - Unfazed.png",
+  "prefix": "P",
+  "number": 118,
+  "card_number": "P118",
+  "name_part": "Android 20 - Unfazed",
+  "file_name": "Android 20",
+  "file_subtitle": "Unfazed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "02baeee4ee87dde23738078d0750928d513ecdbd"
+ },
+ "vision": {
+  "id": "PZP_MP_P118",
+  "name": "Android 20",
+  "sub": "Unfazed",
+  "type": "Main Personality",
+  "num": "P118",
+  "lvl": 2,
+  "stages": [
+   750000,
+   550000,
+   350000,
+   150000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: At the end of combat, if you control a non-Styled Drill you may Rejuvenate 3. At the end of combat, if you do not control a Styled Drill you may banish a Drill.\n[Instant] POWER: Use when entering combat. Search your Life Deck or discard pile for a non-Styled Drill and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:175"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "@ ANDROID 20\nLEVEL UNFAZED ia:",
+  "stages_text": "750,000\n550,000\n350,000\n150,000\n75,000\n50,000\n25,000\n10,000\n\n, 5,000\n2,500\n0",
+  "error": null
+ }
+}

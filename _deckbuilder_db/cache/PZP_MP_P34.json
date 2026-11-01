@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P34",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P34_Android 18 - Effective.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P34_Android 18 - Effective.png",
+  "prefix": "P",
+  "number": 34,
+  "card_number": "P34",
+  "name_part": "Android 18 - Effective",
+  "file_name": "Android 18",
+  "file_subtitle": "Effective",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6b2e4af4e8c01b50b6d64b94d8e301169dcc2ff8"
+ },
+ "vision": {
+  "id": "PZP_MP_P34",
+  "name": "Android 18",
+  "sub": "Effective",
+  "type": "Main Personality",
+  "num": "P34",
+  "lvl": 3,
+  "stages": [
+   1050000,
+   950000,
+   850000,
+   750000,
+   500000,
+   250000,
+   100000,
+   50000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: While your MP's power level is over 1, your opponent's physical attacks cannot have their damage modified.\nPOWER: [Attack] Energy attack.\nDAMAGE: 0 life cards.\nHIT: Look at the top 6 cards of your Life Deck and place them back in any order. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "=3 ANDROID 18\nLEVEL EFFECTIVE () P34\nfo lB. y 6",
+  "stages_text": "1,050,000\n950,000\n850,000\n750,000\n\n500,000\n\n250,000\n\n100,000\n\n50,000\n25,000\n10,000\n0",
+  "error": null
+ }
+}

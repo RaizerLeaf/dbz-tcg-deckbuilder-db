@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S136",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S136_Namekian Pound.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S136_Namekian Pound.jpg",
+  "prefix": "S",
+  "number": 136,
+  "card_number": "S136",
+  "name_part": "Namekian Pound",
+  "file_name": "Namekian Pound",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "414dfda590affc25f54a19d83bca6496e03332b8"
+ },
+ "vision": {
+  "id": "S01_STR_S136",
+  "name": "Namekian Pound",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. HIT: You may destroy up to 4 cards from the top of your Life Deck. For each card destroyed, gain 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:321"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "(NAMEKIAN POUND. C) sisc",
+  "stages_text": "4\n,8\n13,",
+  "error": null
+ }
+}

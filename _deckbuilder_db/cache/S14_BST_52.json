@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_52",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "52_Tenshinhan - Heroic.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/52_Tenshinhan - Heroic.png",
+  "prefix": null,
+  "number": 52,
+  "card_number": "52",
+  "name_part": "Tenshinhan - Heroic",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Heroic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "51846bbb1e257ef99b2c7f1f250ac41e1268ddd0"
+ },
+ "vision": {
+  "id": "S14_BST_52",
+  "name": "Tenshinhan",
+  "sub": "Heroic",
+  "type": "Main Personality",
+  "num": "S52",
+  "lvl": 2,
+  "stages": [
+   500000,
+   400000,
+   200000,
+   100000,
+   60000,
+   30000,
+   10000,
+   5000,
+   2500,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your non-Styled attacks deal +1 life card.\nPOWER: [Attack] Energy attack.\nDestroy the top card of your Life Deck. You may use this attack a second time this combat.\nDAMAGE: 2 life cards.\nHIT: Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO' -> Main Personality",
+  "_src": "S14.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "cj TENSHINHAN\nLEVEL HEROIC () 592",
+  "stages_text": "500,000\n400,000\n200,000\n100,000\n\n60,000\n\n30,000\n\n10,000\n\n5,000\n\n2,500\n\n1,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P28",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P28_Black Mischievous Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P28_Black Mischievous Drill.png",
+  "prefix": "P",
+  "number": 28,
+  "card_number": "P28",
+  "name_part": "Black Mischievous Drill",
+  "file_name": "Black Mischievous Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "1b6b90e3c83a731c848c38d612148d36c5974a08"
+ },
+ "vision": {
+  "id": "S14_PRO_P28",
+  "name": "Black Mischievous Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\n[Continuous]: Whenever your opponent plays a Setup or Drill, you may destroy the top 4 cards of your Life Deck. If you do, banish that Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout; FanZ reprint of S01 R123 (same text)",
+  "_src": "S14.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 0.935,
+  "lower_conf": 94.3,
+  "header_text": "BLACK MISCHIEVOUS DRILL a P28 |",
+  "stages_text": null,
+  "error": null
+ }
+}

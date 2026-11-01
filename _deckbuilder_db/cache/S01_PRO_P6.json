@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P6",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P6_Piccolo - Stoic.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P6_Piccolo - Stoic.jpg",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Piccolo - Stoic",
+  "file_name": "Piccolo",
+  "file_subtitle": "Stoic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ec23995f30291f9b0e91f2ed5120386c70562728"
+ },
+ "vision": {
+  "id": "S01_PRO_P6",
+  "name": "Piccolo",
+  "sub": "Stoic",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 1,
+  "stages": [
+   8500,
+   7000,
+   5500,
+   4500,
+   3500,
+   2200,
+   1700,
+   1300,
+   1100,
+   900,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack]: Energy attack costing 1 stage. DAMAGE: 3 life cards. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout; type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:170"
+ },
+ "ocr": {
+  "agreement": 0.909,
+  "lower_conf": 70.3,
+  "header_text": "\\\n1\nLEVEL { \\y\nis | a enann",
+  "stages_text": "8,500\n\n7,000\n\n5,500\n\n4,500\n\n3,500\n\n7 2,200\n1,700\n1,300\n\n1,100\n\n900\n\n0",
+  "error": null
+ }
+}

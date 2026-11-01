@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S12",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S12_Gohan - Armored (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S12_Gohan - Armored (CRD).png",
+  "prefix": "S",
+  "number": 12,
+  "card_number": "S12",
+  "name_part": "Gohan - Armored",
+  "file_name": "Gohan",
+  "file_subtitle": "Armored",
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "eb5c41bc64b4ee8082c93df3649edbf2fcaf7039"
+ },
+ "vision": {
+  "id": "S01_STR_S12",
+  "name": "Gohan",
+  "sub": "Armored",
+  "type": "Main Personality",
+  "num": "S12",
+  "lvl": 4,
+  "stages": [
+   525000,
+   450000,
+   375000,
+   300000,
+   225000,
+   200000,
+   125000,
+   50000,
+   5000,
+   500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +3 life cards of damage. When one of your effects raises your anger, you may shuffle 1 card with \"anger\" in the text box from your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO; '(CRD)' stamped below the card (owner annotation)",
+  "_src": "S01.jsonl:197"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "HAN",
+  "stages_text": "525,000\n450,000\n375,000\n300,000\n225,000\n200,000\n125,000\n50,000\n5,000\n\n500\n\n0",
+  "error": null
+ }
+}

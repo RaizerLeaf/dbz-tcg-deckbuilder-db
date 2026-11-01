@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S54",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S54_Blue Energy Overload.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S54_Blue Energy Overload.jpg",
+  "prefix": "S",
+  "number": 54,
+  "card_number": "S54",
+  "name_part": "Blue Energy Overload",
+  "file_name": "Blue Energy Overload",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "28594741712002c0b05ed751295898d56c03ff39"
+ },
+ "vision": {
+  "id": "S01_STR_S54",
+  "name": "Blue Energy Overload",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S54",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, put the top Physical Combat card from your discard pile at the bottom of your Life Deck.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:239"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "(BLUE ENERGY OVERLOAD C) ss4\nle, ee",
+  "stages_text": ",\n, 4",
+  "error": null
+ }
+}

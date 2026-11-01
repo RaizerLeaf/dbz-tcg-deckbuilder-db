@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S66",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S66_Blue Avoidance.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S66_Blue Avoidance.jpg",
+  "prefix": "S",
+  "number": 66,
+  "card_number": "S66",
+  "name_part": "Blue Avoidance",
+  "file_name": "Blue Avoidance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c2a6fe20b6e54e0d3a8941fe9ccd0ec9a4fc6630"
+ },
+ "vision": {
+  "id": "S01_STR_S66",
+  "name": "Blue Avoidance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S66",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. You may discard a card from your hand to perform a copy of that attack for your next action.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:251"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "(BLUE AVOIDANCE? () sss",
+  "stages_text": "",
+  "error": null
+ }
+}

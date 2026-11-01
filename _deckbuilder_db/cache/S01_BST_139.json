@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_139",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "139_Orange Uppercut (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/139_Orange Uppercut (CRD).png",
+  "prefix": null,
+  "number": 139,
+  "card_number": "139",
+  "name_part": "Orange Uppercut",
+  "file_name": "Orange Uppercut",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b259a98943d93c5c62d119afc9e83ff36f468d60"
+ },
+ "vision": {
+  "id": "S01_BST_139",
+  "name": "Orange Uppercut",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R139",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +4 stages. You may pay 2 power stages to search your Life Deck for an Energy Combat card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:139"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "(ORANGE UPPERCUT.. () aise\nOy mn ma) oe",
+  "stages_text": ", 2\n,\n,\n,\n,",
+  "error": null
+ }
+}

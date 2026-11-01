@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S128",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S128_Orange Energy Catch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S128_Orange Energy Catch.jpg",
+  "prefix": "S",
+  "number": 128,
+  "card_number": "S128",
+  "name_part": "Orange Energy Catch",
+  "file_name": "Orange Energy Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e530fcf83343c42122329aef1c2bc6b3caa68dce"
+ },
+ "vision": {
+  "id": "S01_STR_S128",
+  "name": "Orange Energy Catch",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S128",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3. [Defense] Stops an energy attack. Raise your anger 1 level. For the remainder of combat, all your attacks deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:313"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.9,
+  "header_text": "r ORANGE ENERGY CATCH © =",
+  "stages_text": "4\n2\n,",
+  "error": null
+ }
+}

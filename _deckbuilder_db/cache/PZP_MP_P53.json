@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P53",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P53_Cell - Semi-Perfect.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P53_Cell - Semi-Perfect.png",
+  "prefix": "P",
+  "number": 53,
+  "card_number": "P53",
+  "name_part": "Cell - Semi-Perfect",
+  "file_name": "Cell",
+  "file_subtitle": "Semi-Perfect",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4a0f9d4e007f5d1c8104647bd07e1522193af216"
+ },
+ "vision": {
+  "id": "PZP_MP_P53",
+  "name": "Cell",
+  "sub": "Semi-Perfect",
+  "type": "Main Personality",
+  "num": "P53",
+  "lvl": 2,
+  "stages": [
+   1400000,
+   900000,
+   400000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your opponent's non-Styled attacks cost +1 stage to perform.\n[Instant] POWER: Use when entering combat. Banish a card from your hand to search your Life Deck for a Styled card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:110"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "_ CELL\nLEVEL | SEMI-PERFECT C) P53",
+  "stages_text": "1,400,000\n900,000\n400,000\n100,000\n\n75,000\n\n50,000\n\n25,000\n\n10,000\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

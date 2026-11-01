@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_155",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "155_Gohan’s Masenko.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/155_Gohan’s Masenko.jpg",
+  "prefix": null,
+  "number": 155,
+  "card_number": "155",
+  "name_part": "Gohan’s Masenko",
+  "file_name": "Gohan’s Masenko",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "42c1d5b3a984475fc94b337498f9cd9ed02ba9df"
+ },
+ "vision": {
+  "id": "S01_BST_155",
+  "name": "Gohan's Masenko",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R155",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 2 life cards + X life cards. X = 2 times your anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.9,
+  "header_text": "i ay Fey Ee\n| ——_— —_—\n(GOHAN'S MASENKO--- () Riss\n| a",
+  "stages_text": ",\n1",
+  "error": null
+ }
+}

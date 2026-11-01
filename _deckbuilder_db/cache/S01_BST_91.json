@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_91",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "91_Orange Energy Phasing Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/91_Orange Energy Phasing Drill.jpg",
+  "prefix": null,
+  "number": 91,
+  "card_number": "91",
+  "name_part": "Orange Energy Phasing Drill",
+  "file_name": "Orange Energy Phasing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "00802746d3a754bddb66a114c5379c3eab6e4eca"
+ },
+ "vision": {
+  "id": "S01_BST_91",
+  "name": "Orange Energy Phasing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you perform a successful energy attack, you may have it deal -2 life cards of damage. If you do, destroy a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:91"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.8,
+  "header_text": "orance ENERGY PHASING DRILL € os",
+  "stages_text": ",",
+  "error": null
+ }
+}

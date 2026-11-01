@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_37",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "37_Orange Joint Restraint Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/37_Orange Joint Restraint Drill.jpg",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Orange Joint Restraint Drill",
+  "file_name": "Orange Joint Restraint Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b6a6f400a32738fc12a505e580558ca529e2fa99"
+ },
+ "vision": {
+  "id": "S01_BST_37",
+  "name": "Orange Joint Restraint Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your physical attacks deal +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "[ORANGE JOINT RESTRAINT.DRILL C) C37\noO TT",
+  "stages_text": "",
+  "error": null
+ }
+}

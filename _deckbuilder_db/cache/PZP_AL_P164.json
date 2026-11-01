@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P164",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P164_Recoome - Ginyu Force.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P164_Recoome - Ginyu Force.png",
+  "prefix": "P",
+  "number": 164,
+  "card_number": "P164",
+  "name_part": "Recoome - Ginyu Force",
+  "file_name": "Recoome",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6d1e7e499f4757f842735bc1382541c0c22037ee"
+ },
+ "vision": {
+  "id": "PZP_AL_P164",
+  "name": "Recoome",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "P164",
+  "lvl": 1,
+  "stages": [
+   55000,
+   45000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDAMAGE: AT stages.\nHIT: You may have your MP pay 2 stages to draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. FanZ update of S01 C11",
+  "_src": "PZP.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.4,
+  "header_text": "1 eons 6)\nLEVEL | GINYU FORCE P164",
+  "stages_text": "55,000\n45,000\n35,000\n30,000\n25,000\n720,000\n15,000\n110,000\n5,000\n2,500\n0",
+  "error": null
+ }
+}

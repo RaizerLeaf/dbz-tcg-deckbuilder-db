@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S115",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S115_Namekian Sudden Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S115_Namekian Sudden Blast.jpg",
+  "prefix": "S",
+  "number": 115,
+  "card_number": "S115",
+  "name_part": "Namekian Sudden Blast",
+  "file_name": "Namekian Sudden Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b7585e6224400e1b2f4f85fd93546d68c8742720"
+ },
+ "vision": {
+  "id": "S01_STR_S115",
+  "name": "Namekian Sudden Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. HIT: Choose 4 cards in your discard pile. Banish 2 of those cards and shuffle the remaining into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:300"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "(NAMEKIAN SUDDEN: BLAST C) sus\neS) ae",
+  "stages_text": "5,5",
+  "error": null
+ }
+}

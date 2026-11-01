@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S27",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S27_Red Enraged Mastery (Frozen).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S27_Red Enraged Mastery (Frozen).png",
+  "prefix": "S",
+  "number": 27,
+  "card_number": "S27",
+  "name_part": "Red Enraged Mastery",
+  "file_name": "Red Enraged Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 651,
+  "height": 465,
+  "orientation": "landscape",
+  "sha1": "480d76f0e1bcc6befb181bda8f91229e9d6791ca"
+ },
+ "vision": {
+  "id": "S01_STR_S27",
+  "name": "Red Enraged Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "S27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you use a critical damage effect, raise your anger 1 level. Whenever you advance a personality level, draw a card and then discard a card from your hand. Whenever you lower a personality level, you may draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "starter printing of R140 (same text); '(FROZEN)' stamped below the card (owner annotation)",
+  "_src": "S01.jsonl:212"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": ") | RED ENRAGED MASTERY () S27",
+  "stages_text": null,
+  "error": null
+ }
+}

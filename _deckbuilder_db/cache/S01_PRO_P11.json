@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P11",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P11_Trunks’ Sword Slash.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P11_Trunks’ Sword Slash.jpg",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Trunks’ Sword Slash",
+  "file_name": "Trunks’ Sword Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9ed9a8fdf8861f9af8c427de78484938acf9bc94"
+ },
+ "vision": {
+  "id": "S01_PRO_P11",
+  "name": "Trunks' Sword Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P11",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack]: Physical attack costing 1 stage. DAMAGE: AT +4 stages. Banish up to 6 cards from a player's discard pile. HIT: Your next Styled energy attack this combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R159 (same text; this printing has a colon after the attack icon)",
+  "_src": "S01.jsonl:175"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "I I Fe TS TT\n| —— —\n(TRUNKS' SWORD SLASH () 11",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P170",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P170_Captain Ginyu - Aggressive.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P170_Captain Ginyu - Aggressive.png",
+  "prefix": "P",
+  "number": 170,
+  "card_number": "P170",
+  "name_part": "Captain Ginyu - Aggressive",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Aggressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "91ee12ff299b00d4b6d067e4df97044c2268c69e"
+ },
+ "vision": {
+  "id": "PZP_AL_P170",
+  "name": "Captain Ginyu",
+  "sub": "Aggressive",
+  "type": "Ally",
+  "num": "P170",
+  "lvl": 1,
+  "stages": [
+   75000,
+   65000,
+   55000,
+   45000,
+   35000,
+   25000,
+   15000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your opponent plays with their hand revealed.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:17"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "1 Eas GINYU\nLEVEL | AGGRESSIVE Qn",
+  "stages_text": "75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n2,500\n\n1,250\n0",
+  "error": null
+ }
+}

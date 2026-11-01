@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P112",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P112_Turles - Conquering.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P112_Turles - Conquering.png",
+  "prefix": "P",
+  "number": 112,
+  "card_number": "P112",
+  "name_part": "Turles - Conquering",
+  "file_name": "Turles",
+  "file_subtitle": "Conquering",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b8f13a02aff2747cd63696ec7e3f7fc2b426cecf"
+ },
+ "vision": {
+  "id": "PZP_MP_P112",
+  "name": "Turles",
+  "sub": "Conquering",
+  "type": "Main Personality",
+  "num": "P112",
+  "lvl": 4,
+  "stages": [
+   300000,
+   200000,
+   150000,
+   100000,
+   75000,
+   50000,
+   25000,
+   20000,
+   15000,
+   10000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nEndurance cannot be used this turn.\nDAMAGE: X stages and X life cards. X = the number of power stages your opponent's MP is above 0.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:169"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 83.9,
+  "header_text": "4.) TURLES\n: LEVEL | CONQUERING PI L 2",
+  "stages_text": "300,000\n200,000\n150,000\n100,000\n75,000\n50,000\n25,000\n20,000\n15,000\n10,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_130",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "130_Blue Trapped Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/130_Blue Trapped Strike.jpg",
+  "prefix": null,
+  "number": 130,
+  "card_number": "130",
+  "name_part": "Blue Trapped Strike",
+  "file_name": "Blue Trapped Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9f41b9371248adeb1c5382a8c3941399df26479f"
+ },
+ "vision": {
+  "id": "S01_BST_130",
+  "name": "Blue Trapped Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical Attack. DAMAGE: AT +3 stages. If you control a Dragon Ball, this attack stays in play to be used a second time this combat. Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:130"
+ },
+ "ocr": {
+  "agreement": 0.973,
+  "lower_conf": 90.3,
+  "header_text": "(BLUE TRAPPED STRIKE () a1s0",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_33",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "33_Cataclysmic Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/33_Cataclysmic Blast.png",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Cataclysmic Blast",
+  "file_name": "Cataclysmic Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3de24467738ea8e2dd371ada74162a0797eb21af"
+ },
+ "vision": {
+  "id": "S14_BST_33",
+  "name": "Cataclysmic Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "UR33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(Villains only.)\n[Attack] 2: Energy attack.\nAllies lose all effects this combat. Destroy an Ally.\nDAMAGE: 3 life cards.\nHIT: Shuffle into your Life Deck after use.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; UR rarity",
+  "_src": "S14.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 88.2,
+  "header_text": "CATACLYSMIC BLAST )UR33\n\\ yA =] ere",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P56",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P56_Cell - Prepared.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P56_Cell - Prepared.png",
+  "prefix": "P",
+  "number": 56,
+  "card_number": "P56",
+  "name_part": "Cell - Prepared",
+  "file_name": "Cell",
+  "file_subtitle": "Prepared",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "913ef247bfe3966aa615868d953ee7e53745b8e8"
+ },
+ "vision": {
+  "id": "PZP_MP_P56",
+  "name": "Cell",
+  "sub": "Prepared",
+  "type": "Main Personality",
+  "num": "P56",
+  "lvl": 1,
+  "stages": [
+   1000000,
+   500000,
+   100000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck for an Ally with \"Cell Jr.\" in the title and play it.\nPOWER: Destroy the top card of your opponent's Life Deck. Shuffle an Ally in play into its owner's Life Deck to raise or lower a player's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "1 CELL\nLEVEL PREPARED () P56\na \\ |B",
+  "stages_text": "1,000,000\n500,000\n100,000\n\n25,000\n\n20,000\n\n15,000\n\n10,000\n\n5,000\n\n2,500\n\n1,250\n0",
+  "error": null
+ }
+}

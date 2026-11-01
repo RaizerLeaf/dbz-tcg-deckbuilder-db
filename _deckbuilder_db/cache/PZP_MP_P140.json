@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P140",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P140_Cooler - Familiar Face.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P140_Cooler - Familiar Face.png",
+  "prefix": "P",
+  "number": 140,
+  "card_number": "P140",
+  "name_part": "Cooler - Familiar Face",
+  "file_name": "Cooler",
+  "file_subtitle": "Familiar Face",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d275c78d2d1a10351e4fcd19fd45fad438fe4d25"
+ },
+ "vision": {
+  "id": "PZP_MP_P140",
+  "name": "Cooler",
+  "sub": "Familiar Face",
+  "type": "Main Personality",
+  "num": "P140",
+  "lvl": 1,
+  "stages": [
+   200000,
+   150000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Players cannot use a Setup as their first action in combat.\nPOWER: You may discard an Energy Combat card from your hand to draw a card. If you do, destroy the top card of your opponent's Life Deck and Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:198"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "1 COOLER\nLEVEL FAMILIAR FACE € prac",
+  "stages_text": "200,000\n150,000\n100,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n\n2,500\n\n0",
+  "error": null
+ }
+}

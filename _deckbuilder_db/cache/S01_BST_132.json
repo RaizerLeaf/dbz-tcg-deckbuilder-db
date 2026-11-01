@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_132",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "132_Namekian Dragon Clan.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/132_Namekian Dragon Clan.jpg",
+  "prefix": null,
+  "number": 132,
+  "card_number": "132",
+  "name_part": "Namekian Dragon Clan",
+  "file_name": "Namekian Dragon Clan",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a9a6da5af6b728a1bac76e20441781bb9461cadd"
+ },
+ "vision": {
+  "id": "S01_BST_132",
+  "name": "Namekian Dragon Clan",
+  "sub": null,
+  "type": "Setup",
+  "num": "R132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Search your Life Deck for a Dragon Ball and play it. If your MP is level 4, search your Life Deck for 2 Dragon Balls instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.0,
+  "header_text": "(NAMEKIAN DRAGON:CLAN () mise",
+  "stages_text": ",",
+  "error": null
+ }
+}

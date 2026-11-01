@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P173",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P173_Vegeta - Impatient.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P173_Vegeta - Impatient.png",
+  "prefix": "P",
+  "number": 173,
+  "card_number": "P173",
+  "name_part": "Vegeta - Impatient",
+  "file_name": "Vegeta",
+  "file_subtitle": "Impatient",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5c0b61f8f9a0edfacd3a6bb8624404be893f528f"
+ },
+ "vision": {
+  "id": "PZP_AL_P173",
+  "name": "Vegeta",
+  "sub": "Impatient",
+  "type": "Ally",
+  "num": "P173",
+  "lvl": 1,
+  "stages": [
+   20000,
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your physical attacks deal +1 stage. If Nappa is your MP, your physical attacks deal +2 stages instead.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "1 yecer,\nLEVEL | IMPATIENT Qu:",
+  "stages_text": "20,000\n18,000\n16,000\n14,000\n12,000\n710,000\n8,000\n6,000\n4,000\n2,000\n0",
+  "error": null
+ }
+}

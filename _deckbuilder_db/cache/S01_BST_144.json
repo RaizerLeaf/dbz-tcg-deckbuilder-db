@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_144",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "144_Red Observation.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/144_Red Observation.jpg",
+  "prefix": null,
+  "number": 144,
+  "card_number": "144",
+  "name_part": "Red Observation",
+  "file_name": "Red Observation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "81205431cfe26c30869b9e64ceef0ff931588528"
+ },
+ "vision": {
+  "id": "S01_BST_144",
+  "name": "Red Observation",
+  "sub": null,
+  "type": "Event",
+  "num": "R144",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) POWER: Your MP pays 5 power stages to destroy all Allies, Setups and Drills. Lower your MP to his 0 power stage. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "(RED OBSERVATION. () aiaa",
+  "stages_text": "4",
+  "error": null
+ }
+}

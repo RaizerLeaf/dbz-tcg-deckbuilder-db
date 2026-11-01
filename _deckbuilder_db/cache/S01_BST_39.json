@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_39",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "39_Orange Distracting Beam.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/39_Orange Distracting Beam.jpg",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Orange Distracting Beam",
+  "file_name": "Orange Distracting Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "90bf218f21795024f4d2d4c404e07b78c8c51b4b"
+ },
+ "vision": {
+  "id": "S01_BST_39",
+  "name": "Orange Distracting Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Choose a Styled card in your discard pile and place it on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:39"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "[ORANGE DISTRACTING. BEAM () css\nMETA / ae oe",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

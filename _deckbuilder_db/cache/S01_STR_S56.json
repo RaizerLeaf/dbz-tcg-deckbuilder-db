@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S56",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S56_Namekian Focused Beams.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S56_Namekian Focused Beams.jpg",
+  "prefix": "S",
+  "number": 56,
+  "card_number": "S56",
+  "name_part": "Namekian Focused Beams",
+  "file_name": "Namekian Focused Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0188c948ca76d6a53ae3a4657c593d95e0b54055"
+ },
+ "vision": {
+  "id": "S01_STR_S56",
+  "name": "Namekian Focused Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S56",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. If this attack is stopped, Banish the bottom 2 cards of your discard pile. HIT: Rejuvenate 3.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:241"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "(NAMEKIAN FOCUSED. BEAMS () sss",
+  "stages_text": "",
+  "error": null
+ }
+}

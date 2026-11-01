@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S132",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S132_Black Left Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S132_Black Left Kick.jpg",
+  "prefix": "S",
+  "number": 132,
+  "card_number": "S132",
+  "name_part": "Black Left Kick",
+  "file_name": "Black Left Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "09f01832695a90c9df13246d7a1b9461869066e8"
+ },
+ "vision": {
+  "id": "S01_STR_S132",
+  "name": "Black Left Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S132",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +3 stages. HIT: Choose 3 cards in your opponent's discard pile. Your opponent shuffles those cards into his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:317"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 85.8,
+  "header_text": "(BLACK LEFT KICK: () sise\n~~ my oN",
+  "stages_text": "4",
+  "error": null
+ }
+}

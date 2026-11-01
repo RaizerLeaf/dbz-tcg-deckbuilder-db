@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P176",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P176_Kami - Guardian.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P176_Kami - Guardian.png",
+  "prefix": "P",
+  "number": 176,
+  "card_number": "P176",
+  "name_part": "Kami - Guardian",
+  "file_name": "Kami",
+  "file_subtitle": "Guardian",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ac60aa725446e7210b5cf4e32cb710f2a7a8788f"
+ },
+ "vision": {
+  "id": "PZP_AL_P176",
+  "name": "Kami",
+  "sub": "Guardian",
+  "type": "Ally",
+  "num": "P176",
+  "lvl": 1,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Namekian"
+  ],
+  "text": "[Continuous]: At the start of your Rejuvenation Step, place the top card of your discard pile at the bottom of your Life Deck. When this card is leaving play, search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.4,
+  "header_text": "1 ES\nLEVEL | GUARDIAN a",
+  "stages_text": "1,000\n900\n800\n\n700\n600\n500\n400\n300\n200\n\n100\n0",
+  "error": null
+ }
+}

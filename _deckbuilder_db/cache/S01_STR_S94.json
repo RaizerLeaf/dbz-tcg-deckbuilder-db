@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S94",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S94_Red Blaze.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S94_Red Blaze.jpg",
+  "prefix": "S",
+  "number": 94,
+  "card_number": "S94",
+  "name_part": "Red Blaze",
+  "file_name": "Red Blaze",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1001858edfc5ec4f6ed9ef6ba720b83204adc407"
+ },
+ "vision": {
+  "id": "S01_STR_S94",
+  "name": "Red Blaze",
+  "sub": null,
+  "type": "Setup",
+  "num": "S94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 1 level. Rejuvenate 2. You may use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:279"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.2,
+  "header_text": "| RED BLAZE ee () ssa\nee eee 6 ee ee ee",
+  "stages_text": "1,",
+  "error": null
+ }
+}

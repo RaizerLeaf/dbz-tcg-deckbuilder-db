@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P95",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P95_Tenshinhan - Prepared.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P95_Tenshinhan - Prepared.png",
+  "prefix": "P",
+  "number": 95,
+  "card_number": "P95",
+  "name_part": "Tenshinhan - Prepared",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Prepared",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1f6ec4b69bc8129ee7275e23e52901e2ea6087cc"
+ },
+ "vision": {
+  "id": "PZP_MP_P95",
+  "name": "Tenshinhan",
+  "sub": "Prepared",
+  "type": "Main Personality",
+  "num": "P95",
+  "lvl": 3,
+  "stages": [
+   105000,
+   100000,
+   95000,
+   90000,
+   85000,
+   80000,
+   75000,
+   70000,
+   65000,
+   60000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(You cannot win by MPPV if you raise your anger with this effect.)\nPOWER: [Attack] Energy attack.\nYou may banish 8 cards from your discard pile. If you do, raise your anger 6.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "TENSHINHAN",
+  "stages_text": "105,000\n\n3 100,000\n95,000\n90,000\n85,000\n80,000\n75,000\n70,000\n65,000\n60,000\n0",
+  "error": null
+ }
+}

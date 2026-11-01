@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S39",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S39_Namekian Combat Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S39_Namekian Combat Drill.jpg",
+  "prefix": "S",
+  "number": 39,
+  "card_number": "S39",
+  "name_part": "Namekian Combat Drill",
+  "file_name": "Namekian Combat Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b1e729f423fc29f2ed6250589a111b32926505b5"
+ },
+ "vision": {
+  "id": "S01_STR_S39",
+  "name": "Namekian Combat Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S39",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: After taking damage from an attack, your MP gains X stages. X = the number of life cards that attack dealt.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:224"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.6,
+  "header_text": "(NAMEKIAN COMBAT DRILL () S3s\neee | ee ee 2 a",
+  "stages_text": "4\n4\n1,",
+  "error": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P59",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P59_Gohan - Adept.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P59_Gohan - Adept.png",
+  "prefix": "P",
+  "number": 59,
+  "card_number": "P59",
+  "name_part": "Gohan - Adept",
+  "file_name": "Gohan",
+  "file_subtitle": "Adept",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7802a28a93ef16c926f4604762819c1f2f0865f7"
+ },
+ "vision": {
+  "id": "PZP_MP_P59",
+  "name": "Gohan",
+  "sub": "Adept",
+  "type": "Main Personality",
+  "num": "P59",
+  "lvl": 1,
+  "stages": [
+   700000,
+   500000,
+   300000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled. Whenever an Ally you control is banished, raise your anger 1 level.\nPOWER: [Attack] Physical attack.\nYou may banish an Ally.\nDAMAGE: AT + 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:116"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.6,
+  "header_text": "GOHAN",
+  "stages_text": "700,000\n500,000\n300,000\n100,000\n75,000\n50,000\n25,000\n10,000\n5,000\n\n, 2,500\n0",
+  "error": null
+ }
+}

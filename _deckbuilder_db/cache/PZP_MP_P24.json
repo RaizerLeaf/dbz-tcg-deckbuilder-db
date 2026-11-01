@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P24",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P24_Vegeta - Price of Saiyans.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P24_Vegeta - Price of Saiyans.png",
+  "prefix": "P",
+  "number": 24,
+  "card_number": "P24",
+  "name_part": "Vegeta - Price of Saiyans",
+  "file_name": "Vegeta",
+  "file_subtitle": "Price of Saiyans",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "18c9e72d3e53ca9fd74632a5c6718073b4aefbde"
+ },
+ "vision": {
+  "id": "PZP_MP_P24",
+  "name": "Vegeta",
+  "sub": "Prince of Saiyans",
+  "type": "Main Personality",
+  "num": "P24",
+  "lvl": 1,
+  "stages": [
+   10000,
+   8000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks gain \"HIT: Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 S1; filename typo 'Price of Saiyans'",
+  "_src": "PZP.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "7\n| | VEGETA",
+  "stages_text": "10,000\n, 8,000\n6,000\n5,000\n\n7\n4,000\n3,000\n2,000\n1,000\n500\n250\n0",
+  "error": null
+ }
+}

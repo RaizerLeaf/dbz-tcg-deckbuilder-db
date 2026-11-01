@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P12",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P12_Krillin - Z-Warrior.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P12_Krillin - Z-Warrior.png",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Krillin - Z-Warrior",
+  "file_name": "Krillin",
+  "file_subtitle": "Z-Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 815,
+  "height": 1111,
+  "orientation": "portrait",
+  "sha1": "0a0888c0d8b347eaf55526d23187e441287f569e"
+ },
+ "vision": {
+  "id": "S14_PRO_P12",
+  "name": "Krillin",
+  "sub": "Z-Warrior",
+  "type": "Main Personality",
+  "num": "P12",
+  "lvl": 3,
+  "stages": [
+   750000,
+   675000,
+   600000,
+   500000,
+   350000,
+   250000,
+   100000,
+   50000,
+   15000,
+   7000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1. POWER: [Attack] 2: Energy attack. Search your Life Deck for a Styled Setup or Styled Drill and place it into play. DAMAGE: 5 life cards. HIT: Rejuvenate 3. Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout (image is 815x1111, slightly larger than the other promos); right edge reads HERO -> Main Personality",
+  "_src": "S14.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 68.5,
+  "header_text": "KRILLIN",
+  "stages_text": "750,000\n675,000\n600,000\n500,000\n350,000\n250,000\n100,000\n50,000\n15,000\n7,000\n0",
+  "error": null
+ }
+}

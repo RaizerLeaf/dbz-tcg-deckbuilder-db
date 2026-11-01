@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S90",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S90_Red Catch.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S90_Red Catch.jpg",
+  "prefix": "S",
+  "number": 90,
+  "card_number": "S90",
+  "name_part": "Red Catch",
+  "file_name": "Red Catch",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a65399edfa0905a674d08c0d0e4130dbf9d7f702"
+ },
+ "vision": {
+  "id": "S01_STR_S90",
+  "name": "Red Catch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S90",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops a physical attack. Banish X cards from your opponent's discard pile. X = your anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:275"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.3,
+  "header_text": "(RED CATCH ee () seo\nfoo : Ww",
+  "stages_text": "4",
+  "error": null
+ }
+}

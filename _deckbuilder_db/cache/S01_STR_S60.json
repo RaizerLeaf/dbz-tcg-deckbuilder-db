@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S60",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S60_Red Energy Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S60_Red Energy Blast.jpg",
+  "prefix": "S",
+  "number": 60,
+  "card_number": "S60",
+  "name_part": "Red Energy Blast",
+  "file_name": "Red Energy Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b8f75e5405634bd49a09279844fe3f9e22043c8a"
+ },
+ "vision": {
+  "id": "S01_STR_S60",
+  "name": "Red Energy Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Raise your anger 1 level. Banish a Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:245"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.8,
+  "header_text": "(RED ENERGY BLAST. () Sco\n~ > 1 am Co",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S21",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S21_Piccolo - Stoic.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S21_Piccolo - Stoic.jpg",
+  "prefix": "S",
+  "number": 21,
+  "card_number": "S21",
+  "name_part": "Piccolo - Stoic",
+  "file_name": "Piccolo",
+  "file_subtitle": "Stoic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "dab1abcaf6a9764b2129b3293523304cec0b7b3f"
+ },
+ "vision": {
+  "id": "S01_STR_S21",
+  "name": "Piccolo",
+  "sub": "Stoic",
+  "type": "Main Personality",
+  "num": "S21",
+  "lvl": 1,
+  "stages": [
+   8500,
+   7000,
+   5500,
+   4500,
+   3500,
+   2200,
+   1700,
+   1300,
+   1100,
+   900,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack] POWER: Energy attack costing 1 stage. DAMAGE: 3 life cards. Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:206"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "_ \\ ©&\nPI L\n1 a\n= 3s Q nnn",
+  "stages_text": "8,500\n\n7,000\n\n5,500\n\n4,500\n\n3,500\n\n2,200\n1,700\n1,300\n\n1,100\n\n900\n\n0",
+  "error": null
+ }
+}

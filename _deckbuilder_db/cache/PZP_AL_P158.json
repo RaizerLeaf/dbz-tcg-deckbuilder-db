@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P158",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P158_Tenshinhan - Returned.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P158_Tenshinhan - Returned.png",
+  "prefix": "P",
+  "number": 158,
+  "card_number": "P158",
+  "name_part": "Tenshinhan - Returned",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Returned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "91adbf8e7d7287f9ca45765e111e12debfad6d4a"
+ },
+ "vision": {
+  "id": "PZP_AL_P158",
+  "name": "Tenshinhan",
+  "sub": "Returned",
+  "type": "Ally",
+  "num": "P158",
+  "lvl": 1,
+  "stages": [
+   95000,
+   80000,
+   65000,
+   50000,
+   35000,
+   20000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nDAMAGE: 3 life cards.\nHIT: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. FanZ update of S01 C9",
+  "_src": "PZP.jsonl:4"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.6,
+  "header_text": "1 enecnAN C)\nLEVEL | RETURNED P158",
+  "stages_text": "95,000\n80,000\n65,000\n50,000\n35,000\n20,000\n5,000\n4,000\n3,000\n\n2,000\n0",
+  "error": null
+ }
+}

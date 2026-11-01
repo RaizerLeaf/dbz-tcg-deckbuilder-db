@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_85",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "85_Namekian Finger Lasers.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/85_Namekian Finger Lasers.jpg",
+  "prefix": null,
+  "number": 85,
+  "card_number": "85",
+  "name_part": "Namekian Finger Lasers",
+  "file_name": "Namekian Finger Lasers",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "afa357d11f4443c83246d83f79bed96150e508c1"
+ },
+ "vision": {
+  "id": "S01_BST_85",
+  "name": "Namekian Finger Lasers",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U85",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. Rearrange the top X cards of your discard pile. X = your PUR +1. HIT: Draw the top card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "(NAMEKIAN FINGER LASERS C) UBS\n~~ , “*S",
+  "stages_text": "2\n,\n7",
+  "error": null
+ }
+}

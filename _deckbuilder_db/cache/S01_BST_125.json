@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_125",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "125_Black Reflection.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/125_Black Reflection.jpg",
+  "prefix": null,
+  "number": 125,
+  "card_number": "125",
+  "name_part": "Black Reflection",
+  "file_name": "Black Reflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "db757e0e2055dee257bfd973a7357dafc4977e4b"
+ },
+ "vision": {
+  "id": "S01_BST_125",
+  "name": "Black Reflection",
+  "sub": null,
+  "type": "Event",
+  "num": "R125",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your opponent's Banished Zone for an attack card and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:125"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "(BLACK REFLECTION--- () ales",
+  "stages_text": "",
+  "error": null
+ }
+}

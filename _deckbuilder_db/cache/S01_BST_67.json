@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_67",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "67_Captain Ginyu - Frog.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/67_Captain Ginyu - Frog.jpg",
+  "prefix": null,
+  "number": 67,
+  "card_number": "67",
+  "name_part": "Captain Ginyu - Frog",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Frog",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "237f9655748568c808cebf4080c18bff1a52e708"
+ },
+ "vision": {
+  "id": "S01_BST_67",
+  "name": "Captain Ginyu",
+  "sub": "Frog",
+  "type": "Main Personality",
+  "num": "U67",
+  "lvl": 4,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your Allies may make actions regardless of your MP's power stage and they cannot be discarded. All of your attacks deal +X life cards of damage. X = the number of Allies you have in play when you perform that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN; stages 10..0 and PUR 1 as printed",
+  "_src": "S01.jsonl:67"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.9,
+  "header_text": "BA CAPTAIN GINYU () ue?\nFROG :\nLEVEL —— —",
+  "stages_text": "10\n9\n8\n7\n6\n5\n1\n5 4\n3\n2\n1\n0",
+  "error": null
+ }
+}

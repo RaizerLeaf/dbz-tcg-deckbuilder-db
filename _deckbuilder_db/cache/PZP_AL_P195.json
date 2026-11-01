@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P195",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P195_Cell - Larval.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P195_Cell - Larval.png",
+  "prefix": "P",
+  "number": 195,
+  "card_number": "P195",
+  "name_part": "Cell - Larval",
+  "file_name": "Cell",
+  "file_subtitle": "Larval",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bcbcf0ef3ef826fd339c426fbd57af4b6d753aad"
+ },
+ "vision": {
+  "id": "PZP_AL_P195",
+  "name": "Cell",
+  "sub": "Larval",
+  "type": "Ally",
+  "num": "P195",
+  "lvl": 1,
+  "stages": [
+   100,
+   90,
+   80,
+   70,
+   60,
+   50,
+   40,
+   30,
+   20,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Styled attacks deal +1 life card and non-Styled attacks cost +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. Five Trait badges A, R, E, N, S",
+  "_src": "PZP.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "1 Fe C)\nLEVEL | LARVAL P195",
+  "stages_text": "100\n\n90\n\n80\n70\n60\n7 50\n40\n30\n20\n10\n\n0",
+  "error": null
+ }
+}

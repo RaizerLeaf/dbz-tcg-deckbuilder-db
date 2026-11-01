@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_83",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "83_Blue Shifting Maneuver.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/83_Blue Shifting Maneuver.jpg",
+  "prefix": null,
+  "number": 83,
+  "card_number": "83",
+  "name_part": "Blue Shifting Maneuver",
+  "file_name": "Blue Shifting Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "879be2d9b4e7f60c2f1d4106e01d691c84c445dc"
+ },
+ "vision": {
+  "id": "S01_BST_83",
+  "name": "Blue Shifting Maneuver",
+  "sub": null,
+  "type": "Event",
+  "num": "U83",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 2. [Defense] POWER: Stops a physical or energy attack. If your current anger level is 3 or higher, discard after use instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(BLUE SHIFTING MANEUVER () UBS",
+  "stages_text": "4",
+  "error": null
+ }
+}

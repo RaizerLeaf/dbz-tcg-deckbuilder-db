@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S34",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S34_Orange Energy Gathering.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S34_Orange Energy Gathering.jpg",
+  "prefix": "S",
+  "number": 34,
+  "card_number": "S34",
+  "name_part": "Orange Energy Gathering",
+  "file_name": "Orange Energy Gathering",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f9f7216f320e1bbb096f7bbe8e095a54b2db6db9"
+ },
+ "vision": {
+  "id": "S01_STR_S34",
+  "name": "Orange Energy Gathering",
+  "sub": null,
+  "type": "Setup",
+  "num": "S34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP gains 7 stages. Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:219"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": "( ORANGE ENERGY: GATHERING C) S34 :",
+  "stages_text": "8\n2,",
+  "error": null
+ }
+}

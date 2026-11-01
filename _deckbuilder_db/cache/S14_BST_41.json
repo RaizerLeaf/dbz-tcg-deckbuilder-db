@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_41",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "41_King Yemma - Arbiter of Fate.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/41_King Yemma - Arbiter of Fate.png",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "King Yemma - Arbiter of Fate",
+  "file_name": "King Yemma",
+  "file_subtitle": "Arbiter of Fate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "61b055fb9376f8b86374b5c15ca8e218e1cbab00"
+ },
+ "vision": {
+  "id": "S14_BST_41",
+  "name": "King Yemma",
+  "sub": "Arbiter of Fate",
+  "type": "Ally",
+  "num": "U41",
+  "lvl": 1,
+  "stages": [
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   500,
+   250,
+   125,
+   50,
+   25,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: When a player would win the game by MPPV, once per game, set both players' anger to 0 instead and banish this card.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO/VILLAIN ALLY'. Trait badge G (gold) = God",
+  "_src": "S14.jsonl:42"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 85.9,
+  "header_text": "1 | KING YEMMA uA\nLEVEL | ARBITER OF FATE",
+  "stages_text": "3,000\n2,500\n\n2,000\n4 1,500\n1,000\n500\n250\n125\n50\n25\n\n0",
+  "error": null
+ }
+}

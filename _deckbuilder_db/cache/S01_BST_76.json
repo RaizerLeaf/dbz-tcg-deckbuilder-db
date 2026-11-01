@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_76",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "76_Black Delay.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/76_Black Delay.jpg",
+  "prefix": null,
+  "number": 76,
+  "card_number": "76",
+  "name_part": "Black Delay",
+  "file_name": "Black Delay",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2d6194f89efd3602a05fc4ad6c0e6578eeda162e"
+ },
+ "vision": {
+  "id": "S01_BST_76",
+  "name": "Black Delay",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops a physical attack. If that attack was a Physical Combat card, return it to your opponent's hand. Your opponent discards a random card from his hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "(BLACK DELAY = () uve\n1 wee . &",
+  "stages_text": "9\n2\n\n,\n,",
+  "error": null
+ }
+}

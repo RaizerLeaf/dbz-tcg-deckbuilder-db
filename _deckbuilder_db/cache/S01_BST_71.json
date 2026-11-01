@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_71",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "71_Burter - Ginyu Force.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/71_Burter - Ginyu Force.jpg",
+  "prefix": null,
+  "number": 71,
+  "card_number": "71",
+  "name_part": "Burter - Ginyu Force",
+  "file_name": "Burter",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "938e469940910fdc56c7acf7aa7bffdf03ce598e"
+ },
+ "vision": {
+  "id": "S01_BST_71",
+  "name": "Burter",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "U71",
+  "lvl": 1,
+  "stages": [
+   64000,
+   32000,
+   16000,
+   8000,
+   4000,
+   2000,
+   1000,
+   500,
+   250,
+   125,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Continuous]: Your attacks deal +1 stage of damage. If your MP is \"Captain Ginyu\", your attacks deal +2 stages of damage instead.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "BURTER wasn _—\n1 GINYU FORCE vn () uUT71\nLEVEL en 7\n—_ }",
+  "stages_text": "64,000\n32,000\n16,000\n8,000\n\n4,000\n1 2,000\n1,000\n500\n\n250\n125",
+  "error": null
+ }
+}

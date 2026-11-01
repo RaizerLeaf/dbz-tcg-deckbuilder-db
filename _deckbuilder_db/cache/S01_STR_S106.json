@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S106",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S106_Namekian Regeneration.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S106_Namekian Regeneration.jpg",
+  "prefix": "S",
+  "number": 106,
+  "card_number": "S106",
+  "name_part": "Namekian Regeneration",
+  "file_name": "Namekian Regeneration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "015d8a986e4b58f0ddf366cb0c2496b440aa62e2"
+ },
+ "vision": {
+  "id": "S01_STR_S106",
+  "name": "Namekian Regeneration",
+  "sub": null,
+  "type": "Event",
+  "num": "S106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Rejuvenate the top or bottom 4 cards of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:291"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.5,
+  "header_text": "(NAMEKIAN REGENERATION () S106",
+  "stages_text": ",",
+  "error": null
+ }
+}

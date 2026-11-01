@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P31",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P31_Android 17 - In Action.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P31_Android 17 - In Action.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Android 17 - In Action",
+  "file_name": "Android 17",
+  "file_subtitle": "In Action",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "deb4ca83e1b0ad811273566ee185b970638eefb8"
+ },
+ "vision": {
+  "id": "PZP_MP_P31",
+  "name": "Android 17",
+  "sub": "In Action",
+  "type": "Main Personality",
+  "num": "P31",
+  "lvl": 4,
+  "stages": [
+   1900000,
+   1700000,
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Your physical attacks deal +X stages of damage and can only be stopped by Physical Combat cards. X = the number of Allies in your opponent's Banished Zone.\n[Instant] POWER: Use when entering combat. You may search your Banished Zone for \"Android 17's Van\" and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "Zi. ANDROID 17\nLEVEL IN ACTION () P3t",
+  "stages_text": "1,900,000\n1,700,000\n1,500,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000\n\n0",
+  "error": null
+ }
+}

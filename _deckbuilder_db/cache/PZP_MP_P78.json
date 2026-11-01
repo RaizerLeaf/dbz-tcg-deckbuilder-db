@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P78",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P78_Vegeta - Pinnacle of Power.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P78_Vegeta - Pinnacle of Power.png",
+  "prefix": "P",
+  "number": 78,
+  "card_number": "P78",
+  "name_part": "Vegeta - Pinnacle of Power",
+  "file_name": "Vegeta",
+  "file_subtitle": "Pinnacle of Power",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0faea60b93874773b9f80999fa065417926e20c0"
+ },
+ "vision": {
+  "id": "PZP_MP_P78",
+  "name": "Vegeta",
+  "sub": "Pinnacle of Power",
+  "type": "Main Personality",
+  "num": "P78",
+  "lvl": 4,
+  "stages": [
+   2000000,
+   1700000,
+   1400000,
+   1100000,
+   800000,
+   500000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(When you reach this level during combat, your opponent must pass for their next action this combat.)\n[Continuous]: Your non-Styled attacks cannot be stopped and deal +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:135"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "VEGETA\n: PINNACLE OF POWER P78",
+  "stages_text": "2,000,000\n1,700,000\n1,400,000\n1,100,000\n800,000\n500,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

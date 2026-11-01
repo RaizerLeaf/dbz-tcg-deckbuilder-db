@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P163",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P163_Nappa - Space Traveler.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P163_Nappa - Space Traveler.png",
+  "prefix": "P",
+  "number": 163,
+  "card_number": "P163",
+  "name_part": "Nappa - Space Traveler",
+  "file_name": "Nappa",
+  "file_subtitle": "Space Traveler",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "15bd28c8dea027ed1b00b00c0724b9d613b7c631"
+ },
+ "vision": {
+  "id": "PZP_AL_P163",
+  "name": "Nappa",
+  "sub": "Space Traveler",
+  "type": "Ally",
+  "num": "P163",
+  "lvl": 1,
+  "stages": [
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Setups cannot be used.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. FanZ update of S01 C12",
+  "_src": "PZP.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.7,
+  "header_text": "1 NAPPA\nLEVEL | SPACE TRAVELER Qs",
+  "stages_text": "8,000\n\n7,000\n\n6,000\n5,000\n4,000\n7 3,000\n2,000\n1,000\n500\n250\n\n0",
+  "error": null
+ }
+}

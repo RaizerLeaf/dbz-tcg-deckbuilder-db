@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_146",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "146_Saiyan Acute Rapid Slam.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/146_Saiyan Acute Rapid Slam.jpg",
+  "prefix": null,
+  "number": 146,
+  "card_number": "146",
+  "name_part": "Saiyan Acute Rapid Slam",
+  "file_name": "Saiyan Acute Rapid Slam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ccd979a44b179af8452d19a3b5d887dd9fa73a06"
+ },
+ "vision": {
+  "id": "S01_BST_146",
+  "name": "Saiyan Acute Rapid Slam",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R146",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +5 stages. For the remainder of combat, your Physical Combat and Energy Combat attacks that are not banished after use are placed at the bottom of your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:146"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "(SAIYAN ACUTE RAPID. SLAM () A146\n=~",
+  "stages_text": "4\n3, ,\n5,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P108",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P108_Lord Slug - Huge.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P108_Lord Slug - Huge.png",
+  "prefix": "P",
+  "number": 108,
+  "card_number": "P108",
+  "name_part": "Lord Slug - Huge",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Huge",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "491d5c0e7c131fccbfaa997a7be0509a847c31e2"
+ },
+ "vision": {
+  "id": "PZP_MP_P108",
+  "name": "Lord Slug",
+  "sub": "Huge",
+  "type": "Main Personality",
+  "num": "P108",
+  "lvl": 4,
+  "stages": [
+   400000,
+   350000,
+   300000,
+   250000,
+   200000,
+   150000,
+   100000,
+   50000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 6,
+  "align": "Villain",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "(You cannot win by MPPV.)\n[Instant] POWER: Use when entering combat. You may lower your MP 1 level or you may search your Life Deck for a Dragon Ball and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:165"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.0,
+  "header_text": "41} LORD SLUG\n: HUGE P108",
+  "stages_text": "400,000\n350,000\n300,000\n250,000\n200,000\n150,000\n100,000\n50,000\n10,000\n1,000\n\n0",
+  "error": null
+ }
+}

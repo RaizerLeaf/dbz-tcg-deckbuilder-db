@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_02",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "02_Namek Dragon Ball 2.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/02_Namek Dragon Ball 2.jpg",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Namek Dragon Ball 2",
+  "file_name": "Namek Dragon Ball 2",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "04cd4ba2e87ff13458b398aa75d48044dc1e14e4"
+ },
+ "vision": {
+  "id": "S01_BST_02",
+  "name": "Namek Dragon Ball 2",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "You may lower a personality 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.6,
+  "header_text": "(NAMEK DRAGON BALL 2 () ce",
+  "stages_text": "4",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_65",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "65_Trunks - Young Super Saiyan.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/65_Trunks - Young Super Saiyan.jpg",
+  "prefix": null,
+  "number": 65,
+  "card_number": "65",
+  "name_part": "Trunks - Young Super Saiyan",
+  "file_name": "Trunks",
+  "file_subtitle": "Young Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "035e8e938d7150c746c84ec4f841e1dfe7c24189"
+ },
+ "vision": {
+  "id": "S01_BST_65",
+  "name": "Trunks",
+  "sub": "Young Super Saiyan",
+  "type": "Main Personality",
+  "num": "U65",
+  "lvl": 4,
+  "stages": [
+   1600000,
+   1500000,
+   1400000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: When entering combat, look at the top 6 cards of a player's Life Deck and put them back in any order.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 71.2,
+  "header_text": "Fi TRUNKS\n— }",
+  "stages_text": "1,600,000\n1,500,000\n1,400,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n\n0",
+  "error": null
+ }
+}

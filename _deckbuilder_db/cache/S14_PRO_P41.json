@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P41",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P41_Red Combined Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P41_Red Combined Blast.png",
+  "prefix": "P",
+  "number": 41,
+  "card_number": "P41",
+  "name_part": "Red Combined Blast",
+  "file_name": "Red Combined Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b360174f80184d9420b46c918e0023bfe53fd3f4"
+ },
+ "vision": {
+  "id": "S14_PRO_P41",
+  "name": "Red Combined Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] 3: Energy attack.\nRaise your anger 1. You may lower your anger 3. If you do, your opponent cannot play Events this combat.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 0.931,
+  "lower_conf": 89.1,
+  "header_text": "RED COMBINED BLAST C) P41\na",
+  "stages_text": "7",
+  "error": null
+ }
+}

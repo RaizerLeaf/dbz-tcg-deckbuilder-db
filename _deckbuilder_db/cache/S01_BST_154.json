@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_154",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "154_Frieza’s Supernova.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/154_Frieza’s Supernova.jpg",
+  "prefix": null,
+  "number": 154,
+  "card_number": "154",
+  "name_part": "Frieza’s Supernova",
+  "file_name": "Frieza’s Supernova",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2f8cce60a7271ba36e06f059f486fb69b514f4c8"
+ },
+ "vision": {
+  "id": "S01_BST_154",
+  "name": "Frieza's Supernova",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R154",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards + X life cards. X = 3 times number of Frieza Named cards in your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "FRIEZA'S SUPERNOVA — (@) mt=+\nEE SON oS SO Siew",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

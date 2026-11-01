@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S64",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S64_Black Swipe.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S64_Black Swipe.jpg",
+  "prefix": "S",
+  "number": 64,
+  "card_number": "S64",
+  "name_part": "Black Swipe",
+  "file_name": "Black Swipe",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "cf5cc8a72073c908d2ca7b40963e9051d09c0d6e"
+ },
+ "vision": {
+  "id": "S01_STR_S64",
+  "name": "Black Swipe",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S64",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Banish 3 cards from your opponent's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:249"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 73.7,
+  "header_text": "(BLACK SWIPE () sea\n! —",
+  "stages_text": "5\n,",
+  "error": null
+ }
+}

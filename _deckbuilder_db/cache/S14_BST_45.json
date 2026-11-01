@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_45",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "45_Buu - Destructive.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/45_Buu - Destructive.png",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Buu - Destructive",
+  "file_name": "Buu",
+  "file_subtitle": "Destructive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7fc0ddd1ba205e21705b74508f1af7f237d80aec"
+ },
+ "vision": {
+  "id": "S14_BST_45",
+  "name": "Buu",
+  "sub": "Destructive",
+  "type": "Main Personality",
+  "num": "S45",
+  "lvl": 3,
+  "stages": [
+   6000000,
+   4200000,
+   2500000,
+   1800000,
+   1400000,
+   900000,
+   700000,
+   400000,
+   90000,
+   60000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage. Your Styled attacks gain \"HIT: Rejuvenate 1.\"\n[Instant] POWER: Use when entering combat. Banish 2 cards from a player's discard pile.\nPOWER: [Attack] Physical attack.\nUnpreventable. If stopped, banish the top 2 cards of a player's Life Deck.\nDAMAGE: 7 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'VILLAIN' -> Main Personality",
+  "_src": "S14.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.1,
+  "header_text": "3 BUU\nLEVEL | DESTRUCTIVE C) 545",
+  "stages_text": "6,000,000\n4,200,000\n2,500,000\n1,800,000\n\n1,400,000\n\n900,000\n\n700,000\n\n400,000\n90,000\n60,000\n\n0",
+  "error": null
+ }
+}

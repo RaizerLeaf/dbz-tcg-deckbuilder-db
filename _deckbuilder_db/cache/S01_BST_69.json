@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_69",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "69_Chi Chi - Armed and Dangerous.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/69_Chi Chi - Armed and Dangerous.jpg",
+  "prefix": null,
+  "number": 69,
+  "card_number": "69",
+  "name_part": "Chi Chi - Armed and Dangerous",
+  "file_name": "Chi Chi",
+  "file_subtitle": "Armed and Dangerous",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "08d08e770beb9ba82b7f65e7c2d4ba681b20289b"
+ },
+ "vision": {
+  "id": "S01_BST_69",
+  "name": "Chichi",
+  "sub": "Armed and Dangerous",
+  "type": "Ally",
+  "num": "U69",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. If your MP is Goku, Gohan, or Goten, you may use this power regardless of your MP's power stage.) [Defense] POWER: Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY; printed name CHICHI (one word), filename says 'Chi Chi'",
+  "_src": "S01.jsonl:69"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "CHICHI ne _\n1 ARMED ANO DANGEROUS 70” () TES\nLEVEL ———— —",
+  "stages_text": "50\n\n45\n\n40\n\n35\n30\n25\n20\n15\n\n10\n\n5\n\n0",
+  "error": null
+ }
+}

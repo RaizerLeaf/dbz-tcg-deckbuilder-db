@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_28",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "28_Saiyan Shattering Strike.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/28_Saiyan Shattering Strike.png",
+  "prefix": null,
+  "number": 28,
+  "card_number": "28",
+  "name_part": "Saiyan Shattering Strike",
+  "file_name": "Saiyan Shattering Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2b5f31e697eb7e7cf60e794cc97e8d24216062a2"
+ },
+ "vision": {
+  "id": "S14_BST_28",
+  "name": "Saiyan Shattering Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U28",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n[Attack] Physical attack.\nLower your opponent's anger 2.\nDAMAGE: AT + 4 stages.\nHIT: Your cards with printed Endurance have their Endurance set to 3 this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge printed as 0",
+  "_src": "S14.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 0.929,
+  "lower_conf": 89.5,
+  "header_text": "SAIYAN SHATTERING STRIKE €) U28\n| \\ ia sap",
+  "stages_text": "0,\n2,\n5",
+  "error": null
+ }
+}

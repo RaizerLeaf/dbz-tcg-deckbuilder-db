@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S135",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S135_Blue Fist Smash.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S135_Blue Fist Smash.jpg",
+  "prefix": "S",
+  "number": 135,
+  "card_number": "S135",
+  "name_part": "Blue Fist Smash",
+  "file_name": "Blue Fist Smash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c0977746ee7243779126836b109beee79c9cb121"
+ },
+ "vision": {
+  "id": "S01_STR_S135",
+  "name": "Blue Fist Smash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S135",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. HIT: Prevent X stages and X life cards of damage from your opponent's next attack this combat. X = the number of power stages of damage dealt by this attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:320"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(BLUE FIST SMASH- () siss\nEEE",
+  "stages_text": "7\n,",
+  "error": null
+ }
+}

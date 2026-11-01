@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P35",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P35_Android 18 - Determined.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P35_Android 18 - Determined.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Android 18 - Determined",
+  "file_name": "Android 18",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5f0cc2987074a08780262d351a6197bdab480fad"
+ },
+ "vision": {
+  "id": "PZP_MP_P35",
+  "name": "Android 18",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "P35",
+  "lvl": 4,
+  "stages": [
+   1800000,
+   1700000,
+   1600000,
+   1500000,
+   1300000,
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Your opponent's physical attacks cost +2 stages to perform.\nPOWER: [Attack] Energy attack.\nDAMAGE: 0 life cards.\nHIT: Set your opponent's MP's power level to 0.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:92"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "Zi ANDROID 18\nLEVEL DETERMINED () P35",
+  "stages_text": "1,800,000\n1,700,000\n1,600,000\n1,500,000\n1,300,000\n1,100,000\n900,000\n700,000\n500,000\n300,000\n0",
+  "error": null
+ }
+}

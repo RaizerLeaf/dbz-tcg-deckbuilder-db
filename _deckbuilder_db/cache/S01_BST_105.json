@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_105",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "105_Saiyan Surprise.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/105_Saiyan Surprise.jpg",
+  "prefix": null,
+  "number": 105,
+  "card_number": "105",
+  "name_part": "Saiyan Surprise",
+  "file_name": "Saiyan Surprise",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7e3c223e8e37d07a30556b3844094cb7b8a0f7b5"
+ },
+ "vision": {
+  "id": "S01_BST_105",
+  "name": "Saiyan Surprise",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U105",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. If the personality performing this attack has a higher power level than the defending personality, destroy up to 2 of your opponent's Allies.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "(SAIYAN SURPRISE , €) Wi0S\n-_",
+  "stages_text": "",
+  "error": null
+ }
+}

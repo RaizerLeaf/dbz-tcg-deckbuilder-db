@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_66",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "66_Captain Ginyu - Body Change.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/66_Captain Ginyu - Body Change.jpg",
+  "prefix": null,
+  "number": 66,
+  "card_number": "66",
+  "name_part": "Captain Ginyu - Body Change",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Body Change",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8afb821e437c5b35677241690368bf424842ec5a"
+ },
+ "vision": {
+  "id": "S01_BST_66",
+  "name": "Captain Ginyu",
+  "sub": "Body Change",
+  "type": "Main Personality",
+  "num": "U66",
+  "lvl": 3,
+  "stages": [
+   175000,
+   150000,
+   125000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your \"Ginyu Force\" Allies may make actions regardless of your MP's power stage and they cannot be discarded. All of your attacks deal +2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "3 CAPTAIN GINYU. ... —_\nBODY CHANGE ms () USS\nLEVEL ee —",
+  "stages_text": "175,000\n150,000\n125,000\n100,000\n80,000\n60,000\n40,000\n20,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P177",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P177_Master Roshi - Scouted.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P177_Master Roshi - Scouted.png",
+  "prefix": "P",
+  "number": 177,
+  "card_number": "P177",
+  "name_part": "Master Roshi - Scouted",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Scouted",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "859340fa40582c69adcc5cc86a164c80c3c697b3"
+ },
+ "vision": {
+  "id": "PZP_AL_P177",
+  "name": "Master Roshi",
+  "sub": "Scouted",
+  "type": "Ally",
+  "num": "P177",
+  "lvl": 1,
+  "stages": [
+   1200,
+   1100,
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   250,
+   100,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Players cannot use effects to search a player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:24"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.2,
+  "header_text": "MASTER ROSHI\nLEVEL SCOUTED ev",
+  "stages_text": "1,200\n\n1,100\n\n1,000\n\n900\n800\n700\n\n7 600\n500\n250\n\n100\n0",
+  "error": null
+ }
+}

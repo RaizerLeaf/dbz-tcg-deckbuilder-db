@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S03",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S03_Vegeta - Empowered.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S03_Vegeta - Empowered.jpg",
+  "prefix": "S",
+  "number": 3,
+  "card_number": "S03",
+  "name_part": "Vegeta - Empowered",
+  "file_name": "Vegeta",
+  "file_subtitle": "Empowered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "43722516ba8b6ed04d610b035ebfc995e38fb9ab"
+ },
+ "vision": {
+  "id": "S01_STR_S03",
+  "name": "Vegeta",
+  "sub": "Empowered",
+  "type": "Main Personality",
+  "num": "S3",
+  "lvl": 3,
+  "stages": [
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks that raise your anger deal +3 power stages and +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:188"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "i \\ 4\nVEGETA\nLEVEL , \\y\nInn nnn",
+  "stages_text": "150,000\n125,000\n100,000\n75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

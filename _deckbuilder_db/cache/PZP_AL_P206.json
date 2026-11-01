@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P206",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P206_Ox King - Naming Genius.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P206_Ox King - Naming Genius.png",
+  "prefix": "P",
+  "number": 206,
+  "card_number": "P206",
+  "name_part": "Ox King - Naming Genius",
+  "file_name": "Ox King",
+  "file_subtitle": "Naming Genius",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a227e7d24e9f8e46de83a1dd3574ef62fe13c5a0"
+ },
+ "vision": {
+  "id": "PZP_AL_P206",
+  "name": "Ox King",
+  "sub": "Naming Genius",
+  "type": "Ally",
+  "num": "P206",
+  "lvl": 1,
+  "stages": [
+   12,
+   11,
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(When your MP is Chi-Chi, Goku, Gohan, Goten, Pan, or Videl, Rejuvenate 3 when this card enters play.)\n[Continuous]: Damage from attacks can only be modified by the effects of Physical Combat or Energy Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout, purple frame); right edge reads 'HERO ALLY'. A '(FROZEN)' label is stamped below the card image, but the filename has no (Frozen) flag; flagging the mismatch for the owner",
+  "_src": "PZP.jsonl:53"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.4,
+  "header_text": "1 ox KING 6)\nLEVEL | NAMING GENIUS P206",
+  "stages_text": "12\n\n11\n\n10\n\n9\n8\n7\n\n5\n4\n\n3\n\n0",
+  "error": null
+ }
+}

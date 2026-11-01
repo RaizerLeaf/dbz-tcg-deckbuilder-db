@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_117",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "117_Goku’s KaioKen.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/117_Goku’s KaioKen.jpg",
+  "prefix": null,
+  "number": 117,
+  "card_number": "117",
+  "name_part": "Goku’s KaioKen",
+  "file_name": "Goku’s KaioKen",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e43efbf2191075212e30099ae9ee5ef1bc95d794"
+ },
+ "vision": {
+  "id": "S01_BST_117",
+  "name": "Goku's Kaio-Ken",
+  "sub": null,
+  "type": "Event",
+  "num": "U117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.) POWER: Destroy the top 3 cards of your deck. Raise your anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; printed title has a hyphen (KAIO-KEN), filename has 'KaioKen'",
+  "_src": "S01.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.0,
+  "header_text": "{Cow's KATO-KEN| © Un?\naww SCONES NSE SKN",
+  "stages_text": ",\n5\n,",
+  "error": null
+ }
+}

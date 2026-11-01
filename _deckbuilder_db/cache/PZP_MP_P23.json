@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P23",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P23_Piccolo - Fused.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P23_Piccolo - Fused.png",
+  "prefix": "P",
+  "number": 23,
+  "card_number": "P23",
+  "name_part": "Piccolo - Fused",
+  "file_name": "Piccolo",
+  "file_subtitle": "Fused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fa6c6dd722afde3f0dc91fe2ea20420588f4c0b5"
+ },
+ "vision": {
+  "id": "PZP_MP_P23",
+  "name": "Piccolo",
+  "sub": "Fused",
+  "type": "Main Personality",
+  "num": "P23",
+  "lvl": 4,
+  "stages": [
+   750000,
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   100000,
+   50000,
+   5000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your opponent needs to deal 7 or more life cards to activate critical damage.\nPOWER: [Attack] Energy attack costing 2 stages.\nDAMAGE: 7 life cards.\nHIT: Rejuvenate X. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S24. Only the Namekian Trait is shown (no Fusion Trait)",
+  "_src": "PZP.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.9,
+  "header_text": "@1 PICCOLO\nLEVEL FUSED () P23\n>",
+  "stages_text": "750,000\n650,000\n550,000\n450,000\n350,000\n250,000\n6150,000\n100,000\n50,000\n5,000\n\n0",
+  "error": null
+ }
+}

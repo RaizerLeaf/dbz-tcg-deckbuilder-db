@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P18",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P18_Black Conflict Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P18_Black Conflict Mastery.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Black Conflict Mastery",
+  "file_name": "Black Conflict Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "66282ccc46df10143cd411d2b4920b80aa46f30f"
+ },
+ "vision": {
+  "id": "S14_PRO_P18",
+  "name": "Black Conflict Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P18",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks that deal at least 4 life cards of damage are considered to deal critical damage.\nPOWER: Discard a card from your hand. If that card was Styled, your MP gains 6 stages or you may raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout (title bar mid-card, MASTERY label below text); title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "iY ai )",
+  "stages_text": "4\n,\n8\n4",
+  "error": null
+ }
+}

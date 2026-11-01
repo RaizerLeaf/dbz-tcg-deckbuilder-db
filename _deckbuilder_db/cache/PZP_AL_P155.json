@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P155",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P155_Bulma - Genius.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P155_Bulma - Genius.png",
+  "prefix": "P",
+  "number": 155,
+  "card_number": "P155",
+  "name_part": "Bulma - Genius",
+  "file_name": "Bulma",
+  "file_subtitle": "Genius",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d70945d3437bda636f14d6683d30bdd7987264b6"
+ },
+ "vision": {
+  "id": "PZP_AL_P155",
+  "name": "Bulma",
+  "sub": "Genius",
+  "type": "Ally",
+  "num": "P155",
+  "lvl": 1,
+  "stages": [
+   20,
+   18,
+   16,
+   14,
+   12,
+   10,
+   8,
+   6,
+   4,
+   2,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: When Bulma enters play, attach a card from any discard pile to her. Cards with that title cannot be played.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. FanZ update of S01 U68 ('(Heroes only.)' dropped; alignment now printed on the edge)",
+  "_src": "PZP.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "1 ean\n| LEVEL | GENIUS C) P155",
+  "stages_text": "20\n\n18\n\n16\n14\n4\n\n2\n0",
+  "error": null
+ }
+}

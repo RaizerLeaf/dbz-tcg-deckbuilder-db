@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S71",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S71_Black Defensive Burst.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S71_Black Defensive Burst.jpg",
+  "prefix": "S",
+  "number": 71,
+  "card_number": "S71",
+  "name_part": "Black Defensive Burst",
+  "file_name": "Black Defensive Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0f564ff813858ef75ff89fb107ada2445ce3d2f5"
+ },
+ "vision": {
+  "id": "S01_STR_S71",
+  "name": "Black Defensive Burst",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S71",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 4 life cards. HIT: Your opponent cannot perform physical attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:256"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "“(BLACK DEFENSIVE BURST C) S71\nat ener (AU Ne",
+  "stages_text": ",\n4,",
+  "error": null
+ }
+}

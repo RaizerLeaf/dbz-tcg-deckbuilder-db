@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S112",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S112_Black Energy Web.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S112_Black Energy Web.jpg",
+  "prefix": "S",
+  "number": 112,
+  "card_number": "S112",
+  "name_part": "Black Energy Web",
+  "file_name": "Black Energy Web",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4fab6e6620091f14f2d0e0802072b4f6ef8b7f7e"
+ },
+ "vision": {
+  "id": "S01_STR_S112",
+  "name": "Black Energy Web",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S112",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. HIT: Your opponent cannot perform energy attacks for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:297"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.0,
+  "header_text": "in TET",
+  "stages_text": "2\n7 3",
+  "error": null
+ }
+}

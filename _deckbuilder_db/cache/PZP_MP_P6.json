@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P6",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P6_Gohan - Resilient Child.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P6_Gohan - Resilient Child.png",
+  "prefix": "P",
+  "number": 6,
+  "card_number": "P6",
+  "name_part": "Gohan - Resilient Child",
+  "file_name": "Gohan",
+  "file_subtitle": "Resilient Child",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f32a0dbda45fd293138cc558c01b703b7ec5683"
+ },
+ "vision": {
+  "id": "PZP_MP_P6",
+  "name": "Gohan",
+  "sub": "Resilient Child",
+  "type": "Main Personality",
+  "num": "P6",
+  "lvl": 1,
+  "stages": [
+   3500,
+   3000,
+   2500,
+   2000,
+   1500,
+   1000,
+   800,
+   600,
+   400,
+   200,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: When you perform a Styled attack, you may destroy up to 2 cards from the top of your Life Deck. That attack deals +X life cards of damage. X = the number of cards destroyed.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S9",
+  "_src": "PZP.jsonl:63"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "GOHAN PE\nRESILIENT CHILD",
+  "stages_text": "3,500\n\n3,000\n2,500\n\n2,000\n\n5 1,500\n1,000\n800\n600\n\n400\n\n200\n0",
+  "error": null
+ }
+}

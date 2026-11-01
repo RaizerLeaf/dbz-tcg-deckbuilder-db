@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P18",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P18_Krillin - Enraged.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P18_Krillin - Enraged.png",
+  "prefix": "P",
+  "number": 18,
+  "card_number": "P18",
+  "name_part": "Krillin - Enraged",
+  "file_name": "Krillin",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "300d2620a5beea4a249e6b5d6c2ee3da66979d04"
+ },
+ "vision": {
+  "id": "PZP_MP_P18",
+  "name": "Krillin",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "P18",
+  "lvl": 4,
+  "stages": [
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your first Styled attack each turn cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S16",
+  "_src": "PZP.jsonl:75"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "KRILLIN",
+  "stages_text": "500,000\n400,000\n300,000\n200,000\n100,000\n75,000\n50,000\n25,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

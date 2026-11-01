@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P3",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P3_Android 18 - Finalist.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P3_Android 18 - Finalist.png",
+  "prefix": "P",
+  "number": 3,
+  "card_number": "P3",
+  "name_part": "Android 18 - Finalist",
+  "file_name": "Android 18",
+  "file_subtitle": "Finalist",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cbfe582fbaa07438c71295d4f46607f51f5c9c07"
+ },
+ "vision": {
+  "id": "S14_PRO_P3",
+  "name": "Android 18",
+  "sub": "Finalist",
+  "type": "Main Personality",
+  "num": "P3",
+  "lvl": 3,
+  "stages": [
+   1200000,
+   1000000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   75000,
+   50000,
+   15000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Your attacks with \"Android\" in the title are considered Styled.) [Continuous]: Your Styled attacks cost -2 stages (to a minimum of 0). [Instant] POWER: Use when entering combat. Search your Life Deck for a card with \"Android\" in the title and place it into your hand. POWER: Your opponent discards a card from their hand. Search your discard pile for a Styled card or card with \"Android\" in the title and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality; Trait badges E + R above text box",
+  "_src": "S14.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.0,
+  "header_text": "ANDROID 18\n3 FINALIST yr) 73 )",
+  "stages_text": "1,200,000\n1,000,000\n700,000\n500,000\n300,000\n100,000\n75,000\n50,000\n15,000\n\n0",
+  "error": null
+ }
+}

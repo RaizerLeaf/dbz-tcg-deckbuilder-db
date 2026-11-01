@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_19",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "19_Orange Wrist Block.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/19_Orange Wrist Block.png",
+  "prefix": null,
+  "number": 19,
+  "card_number": "19",
+  "name_part": "Orange Wrist Block",
+  "file_name": "Orange Wrist Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b53f19366474a110cff3ecc78d2d5833f7df60cd"
+ },
+ "vision": {
+  "id": "S14_BST_19",
+  "name": "Orange Wrist Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C19",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Defense] Stops a physical attack.\nLower your opponent's anger 1. If you control less than 5 Drills, your Styled attacks deal +2 stages this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:18"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 84.4,
+  "header_text": "ORANGE WRIST BLOCK )c19,\nYN) WY. 7) ee .ll—F—Fnm",
+  "stages_text": ",\n5\n1,\n\n,",
+  "error": null
+ }
+}

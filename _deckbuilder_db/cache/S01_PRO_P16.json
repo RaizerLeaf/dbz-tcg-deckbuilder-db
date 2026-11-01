@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P16",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P16_Black Scout Maneuver.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P16_Black Scout Maneuver.jpg",
+  "prefix": "P",
+  "number": 16,
+  "card_number": "P16",
+  "name_part": "Black Scout Maneuver",
+  "file_name": "Black Scout Maneuver",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5093bcf631ae580d3cc8578fa545ab06c7bda23a"
+ },
+ "vision": {
+  "id": "S01_PRO_P16",
+  "name": "Black Scout Maneuver",
+  "sub": null,
+  "type": "Event",
+  "num": "P16",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Name a Physical Combat, Energy Combat or Event card. Search your opponent's his Life Deck for all copies of that card and banishes them.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S01 R126 (same text, same printed grammar errors)",
+  "_src": "S01.jsonl:180"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.2,
+  "header_text": "(BLACK SCOUT MANEUVER () PIS",
+  "stages_text": "",
+  "error": null
+ }
+}

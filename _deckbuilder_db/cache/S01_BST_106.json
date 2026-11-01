@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_106",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "106_Saiyan Wrist Block.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/106_Saiyan Wrist Block.jpg",
+  "prefix": null,
+  "number": 106,
+  "card_number": "106",
+  "name_part": "Saiyan Wrist Block",
+  "file_name": "Saiyan Wrist Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3ba04ebb128db3e61eff84e56dda123345242161"
+ },
+ "vision": {
+  "id": "S01_BST_106",
+  "name": "Saiyan Wrist Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U106",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Your opponent's MP loses 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:106"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.6,
+  "header_text": "OAT\nPS) REO:\nrout CK\nAGEN ()\n106",
+  "stages_text": "",
+  "error": null
+ }
+}

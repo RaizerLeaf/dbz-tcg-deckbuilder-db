@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P191",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P191_Android 20 - Mastermind.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P191_Android 20 - Mastermind.png",
+  "prefix": "P",
+  "number": 191,
+  "card_number": "P191",
+  "name_part": "Android 20 - Mastermind",
+  "file_name": "Android 20",
+  "file_subtitle": "Mastermind",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fa261a14a37e18a06d1686ab89c235fc792f5d76"
+ },
+ "vision": {
+  "id": "PZP_AL_P191",
+  "name": "Android 20",
+  "sub": "Mastermind",
+  "type": "Ally",
+  "num": "P191",
+  "lvl": 1,
+  "stages": [
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   15000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Attacks performed by personalities with \"Android\" in the title are Unpreventable. When this card is leaving play, all personalities with \"Android\" in the title lose 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "ANDROID 20 P191\nLEVEL MASTERMIND",
+  "stages_text": "100,000\n80,000\n60,000\n40,000\n20,000\n715,000\n10,000\n5,000\n1,000\n500\n\n0",
+  "error": null
+ }
+}

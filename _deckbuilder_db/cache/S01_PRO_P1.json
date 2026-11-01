@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P1",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P1_Vegeta - Prince of Saiyans.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P1_Vegeta - Prince of Saiyans.jpg",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Vegeta - Prince of Saiyans",
+  "file_name": "Vegeta",
+  "file_subtitle": "Prince of Saiyans",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9b4e60bde431327617c1d76bb0ec968ea1ea5587"
+ },
+ "vision": {
+  "id": "S01_PRO_P1",
+  "name": "Vegeta",
+  "sub": "Prince of Saiyans",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   10000,
+   8000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: Your attacks gain \"HIT: Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout (white title bar, Japanese name art); type inferred from frame: right edge reads VILLAIN.",
+  "_src": "S01.jsonl:165"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 66.4,
+  "header_text": "; A\nVEGETA\n1 PRINCE OF SAITYANS Ce) ml\nLEVEL . \\2\n1n|. nnn",
+  "stages_text": "10,000\n\n8,000\n\n6,000\n\n5,000\n\n4,000\n3,000\n2,000\n1,000\n\n500\n250\n\n0",
+  "error": null
+ }
+}

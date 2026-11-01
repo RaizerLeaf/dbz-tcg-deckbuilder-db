@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_59",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "59_Saiyan Uppercut.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/59_Saiyan Uppercut.jpg",
+  "prefix": null,
+  "number": 59,
+  "card_number": "59",
+  "name_part": "Saiyan Uppercut",
+  "file_name": "Saiyan Uppercut",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "62f4bc0c6f2ca839fcf300a609f98521a550e35c"
+ },
+ "vision": {
+  "id": "S01_BST_59",
+  "name": "Saiyan Uppercut",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C59",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: 5 stages. If the personality performing this attack has a higher power level than the defending personality, this attack's base damage is 7 stages instead.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 0.966,
+  "lower_conf": 82.4,
+  "header_text": "(SAIYAN UPPERCUT () css\n/ a e",
+  "stages_text": "68\n16",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S68",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S68_Orange Energy Evasion.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S68_Orange Energy Evasion.jpg",
+  "prefix": "S",
+  "number": 68,
+  "card_number": "S68",
+  "name_part": "Orange Energy Evasion",
+  "file_name": "Orange Energy Evasion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "648a663982dcfabcd63b6adb19f390929adffb10"
+ },
+ "vision": {
+  "id": "S01_STR_S68",
+  "name": "Orange Energy Evasion",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S68",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. Rejuvenate a Drill from your discard pile to gain 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:253"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "oranct ENERGY EVASION © =)\na Ld",
+  "stages_text": "",
+  "error": null
+ }
+}

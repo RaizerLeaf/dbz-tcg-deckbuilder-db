@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P48",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P48_Vegeta - Calculating.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P48_Vegeta - Calculating.png",
+  "prefix": "P",
+  "number": 48,
+  "card_number": "P48",
+  "name_part": "Vegeta - Calculating",
+  "file_name": "Vegeta",
+  "file_subtitle": "Calculating",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ac62d586d5a75739f64dd3b6de621a3f1e619825"
+ },
+ "vision": {
+  "id": "PZP_MP_P48",
+  "name": "Vegeta",
+  "sub": "Calculating",
+  "type": "Main Personality",
+  "num": "P48",
+  "lvl": 1,
+  "stages": [
+   113000,
+   87000,
+   61000,
+   35000,
+   20000,
+   10000,
+   5000,
+   1000,
+   500,
+   100,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: The first time each combat one of your effects requires you to discard 1 card from your hand, you may reveal that card instead.\n[Instant] POWER: Use when you perform a Styled attack. You may choose for that attack to deal its life card damage as stages of damage instead.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:105"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "VEGETA",
+  "stages_text": "113,000\n87,000\n61,000\n35,000\n\n20,000\n10,000\n5,000\n1,000\n\n500\n\n100\n\n0",
+  "error": null
+ }
+}

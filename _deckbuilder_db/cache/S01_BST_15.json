@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_15",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "15_Black Corruption (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/15_Black Corruption (CRD).png",
+  "prefix": null,
+  "number": 15,
+  "card_number": "15",
+  "name_part": "Black Corruption",
+  "file_name": "Black Corruption",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ea2c80a5a4f40ac86b017c23b370b5b2f60aae49"
+ },
+ "vision": {
+  "id": "S01_BST_15",
+  "name": "Black Corruption",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C15",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand, Banish the top 2 cards of your opponent's Life Deck.) [Defense] Stops an energy attack. Raise your anger 1 level and lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:15"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.6,
+  "header_text": "(BLACK CORRUPTION C) cis",
+  "stages_text": "3",
+  "error": null
+ }
+}

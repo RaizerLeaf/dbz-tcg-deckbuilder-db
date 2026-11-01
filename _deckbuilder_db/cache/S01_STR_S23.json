@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S23",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S23_Piccolo - Unleashed.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S23_Piccolo - Unleashed.jpg",
+  "prefix": "S",
+  "number": 23,
+  "card_number": "S23",
+  "name_part": "Piccolo - Unleashed",
+  "file_name": "Piccolo",
+  "file_subtitle": "Unleashed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "791c38c2642536d913e4c283f80e2d584b2b1004"
+ },
+ "vision": {
+  "id": "S01_STR_S23",
+  "name": "Piccolo",
+  "sub": "Unleashed",
+  "type": "Main Personality",
+  "num": "S23",
+  "lvl": 3,
+  "stages": [
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   150000,
+   100000,
+   50000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 life cards of damage. Once per Combat when you deal critical damage, you may search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:208"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.4,
+  "header_text": "PICCOLO\nUNLEASHED _ ) ses)\nT= Ww) ot jy N ean ann",
+  "stages_text": "4 600,000\n900,000\n400,000\n300,000\n200,000\n\n5\n150,000\n100,000\n50,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

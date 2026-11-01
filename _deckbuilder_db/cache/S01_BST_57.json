@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_57",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "57_Saiyan Scouting.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/57_Saiyan Scouting.jpg",
+  "prefix": null,
+  "number": 57,
+  "card_number": "57",
+  "name_part": "Saiyan Scouting",
+  "file_name": "Saiyan Scouting",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "382d924360cf07fbb2960f5741d5564accf02372"
+ },
+ "vision": {
+  "id": "S01_BST_57",
+  "name": "Saiyan Scouting",
+  "sub": null,
+  "type": "Event",
+  "num": "C57",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 4. POWER: Choose up to two cards from your discard pile and place them on the top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.6,
+  "header_text": "(SAIYAN SCOUTING =: () cS?\nWV",
+  "stages_text": "4",
+  "error": null
+ }
+}

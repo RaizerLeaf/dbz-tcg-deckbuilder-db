@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S110",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S110_Black Energy Toss.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S110_Black Energy Toss.jpg",
+  "prefix": "S",
+  "number": 110,
+  "card_number": "S110",
+  "name_part": "Black Energy Toss",
+  "file_name": "Black Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "89744423c9a6765286e23cc1e2b6c9f6537e4eeb"
+ },
+ "vision": {
+  "id": "S01_STR_S110",
+  "name": "Black Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S110",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages. DAMAGE: 4 life cards. HIT: Gain 3 stages and your opponent cannot play Events for the remainder of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:295"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "(BLACK ENERGY TOSS () S110",
+  "stages_text": ", 4\n71\n37",
+  "error": null
+ }
+}

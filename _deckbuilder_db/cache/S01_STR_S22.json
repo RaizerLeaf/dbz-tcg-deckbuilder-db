@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S22",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S22_Piccolo - Combat Stance.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S22_Piccolo - Combat Stance.jpg",
+  "prefix": "S",
+  "number": 22,
+  "card_number": "S22",
+  "name_part": "Piccolo - Combat Stance",
+  "file_name": "Piccolo",
+  "file_subtitle": "Combat Stance",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4a0a1a3c9ea190b20392acb5d91852e640c99324"
+ },
+ "vision": {
+  "id": "S01_STR_S22",
+  "name": "Piccolo",
+  "sub": "Combat Stance",
+  "type": "Main Personality",
+  "num": "S22",
+  "lvl": 2,
+  "stages": [
+   23000,
+   20000,
+   17000,
+   14000,
+   11000,
+   8000,
+   5000,
+   2000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: Discard a card from your hand to Rejuvenate 2 and your opponent destroys the top 2 cards of his Life Deck. If you discarded a Styled card, you may draw a card and use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO; no icon before POWER",
+  "_src": "S01.jsonl:207"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "PI L\n=] ka rE",
+  "stages_text": "23,000\n20,000\n17,000\n,\n14,000\n11,000\n8,000\n,\n5,000\n2,000\n1,000\n500\n0",
+  "error": null
+ }
+}

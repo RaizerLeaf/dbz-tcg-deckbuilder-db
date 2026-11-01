@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S121",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S121_Saiyan Diving Burst.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S121_Saiyan Diving Burst.jpg",
+  "prefix": "S",
+  "number": 121,
+  "card_number": "S121",
+  "name_part": "Saiyan Diving Burst",
+  "file_name": "Saiyan Diving Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4fab84152ad6d0694f5b7433d3e28b454bc31b64"
+ },
+ "vision": {
+  "id": "S01_STR_S121",
+  "name": "Saiyan Diving Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 stages. When you perform this attack you may destroy the top card of your Life Deck to have this attack deal +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:306"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.1,
+  "header_text": "(SALYAN DIVING BURST () S121\n>. VEE NS |) eee",
+  "stages_text": "44\n,",
+  "error": null
+ }
+}

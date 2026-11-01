@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_20",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "20_Blue Battle Readiness.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/20_Blue Battle Readiness.jpg",
+  "prefix": null,
+  "number": 20,
+  "card_number": "20",
+  "name_part": "Blue Battle Readiness",
+  "file_name": "Blue Battle Readiness",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7fe8537c89ee5efc4ca384924720a3556822fd99"
+ },
+ "vision": {
+  "id": "S01_BST_20",
+  "name": "Blue Battle Readiness",
+  "sub": null,
+  "type": "Setup",
+  "num": "C20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Life Deck for an Ally and place it into play at 3 stages above 0. Search your discard pile for an Ally and place it into play at 3 stages above 0.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:20"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "(BLUE BATTLE READINESS () ceo",
+  "stages_text": "7\n2",
+  "error": null
+ }
+}

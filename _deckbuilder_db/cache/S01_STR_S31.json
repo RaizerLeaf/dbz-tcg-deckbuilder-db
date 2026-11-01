@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S31",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S31_Black Power Up.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S31_Black Power Up.jpg",
+  "prefix": "S",
+  "number": 31,
+  "card_number": "S31",
+  "name_part": "Black Power Up",
+  "file_name": "Black Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9efa4c936182a085452bb2acfeea21c720dea8ff"
+ },
+ "vision": {
+  "id": "S01_STR_S31",
+  "name": "Black Power Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "S31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise a personality to its highest power stage. You may end combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:216"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "(BLACK POWER UP: () ssi\n-, yw ————- CUT",
+  "stages_text": "9",
+  "error": null
+ }
+}

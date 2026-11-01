@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S144",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S144_Blue Swift Block.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S144_Blue Swift Block.jpg",
+  "prefix": "S",
+  "number": 144,
+  "card_number": "S144",
+  "name_part": "Blue Swift Block",
+  "file_name": "Blue Swift Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "73993a50e0dd09315f9ef5f9936f745e7e50accd"
+ },
+ "vision": {
+  "id": "S01_STR_S144",
+  "name": "Blue Swift Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S144",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. You may discard a card from your hand to perform a copy of that attack for your next action.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:329"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "(BLUE SWIFT BLOCK: C) siaa",
+  "stages_text": "44",
+  "error": null
+ }
+}

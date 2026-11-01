@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P85",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P85_Nail - Combat Ready.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P85_Nail - Combat Ready.png",
+  "prefix": "P",
+  "number": 85,
+  "card_number": "P85",
+  "name_part": "Nail - Combat Ready",
+  "file_name": "Nail",
+  "file_subtitle": "Combat Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a20d8512e3417d04f603ad46d1e4009291875afd"
+ },
+ "vision": {
+  "id": "PZP_MP_P85",
+  "name": "Nail",
+  "sub": "Combat Ready",
+  "type": "Main Personality",
+  "num": "P85",
+  "lvl": 4,
+  "stages": [
+   150000,
+   145000,
+   140000,
+   135000,
+   130000,
+   125000,
+   120000,
+   115000,
+   110000,
+   105000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Your maximum hand size is +1 during the Discard Step.\nPOWER: [Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: You may use the immediate effects of a Dragon Ball in play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "NAIL",
+  "stages_text": "150,000\n145,000\n140,000\n135,000\n130,000\n125,000\n120,000\n115,000\n110,000\n105,000\n0",
+  "error": null
+ }
+}

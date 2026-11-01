@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S36",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S36_Saiyan Offensive Rush.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S36_Saiyan Offensive Rush.jpg",
+  "prefix": "S",
+  "number": 36,
+  "card_number": "S36",
+  "name_part": "Saiyan Offensive Rush",
+  "file_name": "Saiyan Offensive Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3e65ca496633d68ab64eb20726b943fe2cb18680"
+ },
+ "vision": {
+  "id": "S01_STR_S36",
+  "name": "Saiyan Offensive Rush",
+  "sub": null,
+  "type": "Setup",
+  "num": "S36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your MP loses 4 stages. Your attacks deal +3 life cards of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:221"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "OC FFE",
+  "stages_text": "4",
+  "error": null
+ }
+}

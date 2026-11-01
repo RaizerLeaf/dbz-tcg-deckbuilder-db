@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P7",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P7_Gohan - Ultimate.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P7_Gohan - Ultimate.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Gohan - Ultimate",
+  "file_name": "Gohan",
+  "file_subtitle": "Ultimate",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "43b53d002d42577920550939a2e4d41f51b107c8"
+ },
+ "vision": {
+  "id": "S14_PRO_P7",
+  "name": "Gohan",
+  "sub": "Ultimate",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 3,
+  "stages": [
+   10000000,
+   6000000,
+   3000000,
+   1000000,
+   800000,
+   500000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage and +1 life card. POWER: Choose up to 3 Styled cards in your discard pile. Your opponent chooses 1 of those cards. Place the chosen card into your hand. Rejuvenate the remaining cards.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality; Trait badges N (orange, Namekian), E (Earthling), S (Saiyan)",
+  "_src": "S14.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.7,
+  "header_text": "GOHAN\n. | ULTIMATE y 7\na). i an BONAR ANN Ann",
+  "stages_text": "10,000,000\n6,000,000\n\n3 3,000,000\n1,000,000\n800,000\n\n7 900,000\n200,000\n100,000\n90,000",
+  "error": null
+ }
+}

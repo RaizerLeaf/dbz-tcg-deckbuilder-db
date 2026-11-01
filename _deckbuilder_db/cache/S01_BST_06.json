@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_06",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "06_Captain Ginyu - Leader.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/06_Captain Ginyu - Leader.jpg",
+  "prefix": null,
+  "number": 6,
+  "card_number": "06",
+  "name_part": "Captain Ginyu - Leader",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Leader",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "59de4d91b1a52aeee426f5abefcba084a927cad5"
+ },
+ "vision": {
+  "id": "S01_BST_06",
+  "name": "Captain Ginyu",
+  "sub": "Leader",
+  "type": "Main Personality",
+  "num": "C6",
+  "lvl": 1,
+  "stages": [
+   75000,
+   65000,
+   55000,
+   45000,
+   35000,
+   25000,
+   15000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Attack] POWER: Energy attack costing 3 stages. DAMAGE: 4 life cards. Search your Life Deck for an Ally and place it into play at 4 power stages above 0. HIT: Choose one of your Allies in play, that Ally can make actions regardless of your MP's power stage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "1 CAPTAIN GINYU. ... () ce\nLEADER ;\nLEVEL —— —",
+  "stages_text": "75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n\n2,500\n, 1,250\n0",
+  "error": null
+ }
+}

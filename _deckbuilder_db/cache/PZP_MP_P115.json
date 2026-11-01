@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P115",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P115_Android 19 - Unimpressed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P115_Android 19 - Unimpressed.png",
+  "prefix": "P",
+  "number": 115,
+  "card_number": "P115",
+  "name_part": "Android 19 - Unimpressed",
+  "file_name": "Android 19",
+  "file_subtitle": "Unimpressed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5c00eb1d99c08aa508cddab9ba0fc1def198c8de"
+ },
+ "vision": {
+  "id": "PZP_MP_P115",
+  "name": "Android 19",
+  "sub": "Unimpressed",
+  "type": "Main Personality",
+  "num": "P115",
+  "lvl": 3,
+  "stages": [
+   850000,
+   750000,
+   650000,
+   550000,
+   450000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: After taking life card damage from an attack, gain 2 stages.\n[Instant] POWER: Use after you stop an attack. Search your Life Deck for a card that can attach to an MP and place it into play attached.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:172"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "=3 ANDROID 19\nLEVEL UNIMPRESSED Ces\n_",
+  "stages_text": "850,000\n\n, 750,000\n650,000\n550,000\n450,000\n350,000\n250,000\n150,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

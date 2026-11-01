@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_39",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "39_Bee - Loyal Companion.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/39_Bee - Loyal Companion.png",
+  "prefix": null,
+  "number": 39,
+  "card_number": "39",
+  "name_part": "Bee - Loyal Companion",
+  "file_name": "Bee",
+  "file_subtitle": "Loyal Companion",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "69df8ce4e7cfd28d570b723f76da33c8f8cf1978"
+ },
+ "vision": {
+  "id": "S14_BST_39",
+  "name": "Bee",
+  "sub": "Loyal Companion",
+  "type": "Ally",
+  "num": "U39",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Buu only. This card is considered Named. You cannot win by MPPV if you advance a personality level with this card. Once per game, after an opponent's effect causes this card to leave play, advance your MP 1 level.)\n[Continuous]: If your MP is Buu, your personalities can use their non-[Instant] Powers a second time each combat.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO ALLY'",
+  "_src": "S14.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.0,
+  "header_text": "1 BEE\nLEVEL LOYAL COMPANION () U39",
+  "stages_text": "10\n\n8\n\n7\n6\n5\n\n4\n3\n2\n\n1\n0",
+  "error": null
+ }
+}

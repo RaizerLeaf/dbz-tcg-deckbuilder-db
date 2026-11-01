@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P91",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P91_Raditz - Angered.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P91_Raditz - Angered.png",
+  "prefix": "P",
+  "number": 91,
+  "card_number": "P91",
+  "name_part": "Raditz - Angered",
+  "file_name": "Raditz",
+  "file_subtitle": "Angered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3d9e42b757c3628c5f31be334ff21c0420b559b3"
+ },
+ "vision": {
+  "id": "PZP_MP_P91",
+  "name": "Raditz",
+  "sub": "Angered",
+  "type": "Main Personality",
+  "num": "P91",
+  "lvl": 3,
+  "stages": [
+   17000,
+   16000,
+   15000,
+   14000,
+   13000,
+   12000,
+   11000,
+   10000,
+   9000,
+   8000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Your opponent discards a random card from their hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "= | RADITZ",
+  "stages_text": "17,000\n16,000\n15,000\n14,000\n\n7\n13,000\n12,000\n11,000\n10,000\n9,000\n8,000\n0",
+  "error": null
+ }
+}

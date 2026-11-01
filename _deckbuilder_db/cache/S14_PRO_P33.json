@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P33",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P33_Blue Swift Block.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P33_Blue Swift Block.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Blue Swift Block",
+  "file_name": "Blue Swift Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8c0bcf1a8c4e43fbf4bec8020fb67bf942ab27d2"
+ },
+ "vision": {
+  "id": "S14_PRO_P33",
+  "name": "Blue Swift Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack.\nYou may discard a card from your hand to perform a copy of that attack for your next action.",
+  "conf": "high",
+  "review": null,
+  "note": "FanZ reprint of S01 S144 (same text); no Endurance badge",
+  "_src": "S14.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "BLUE SWIFT BLOCK ) P33\n| A wa k_ |",
+  "stages_text": ",\n,\n,",
+  "error": null
+ }
+}

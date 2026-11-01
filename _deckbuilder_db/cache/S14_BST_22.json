@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_22",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "22_Red Quick Block.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/22_Red Quick Block.png",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Red Quick Block",
+  "file_name": "Red Quick Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "93ea0d2a5b1672919eff5735e39545d80d852a8e"
+ },
+ "vision": {
+  "id": "S14_BST_22",
+  "name": "Red Quick Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1.\n(If this card is discarded from your hand by an effect, you may banish it to gain 5 stages.)\n[Defense] Stops a physical attack.\nRaise your anger 1. You may lower your anger by any amount. Lower your opponent's anger X. X = the amount of anger you lowered.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.96,
+  "lower_conf": 89.4,
+  "header_text": "RED QUICK BLOCK C) C22",
+  "stages_text": "1\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P67",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P67_Hercule - Champion.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P67_Hercule - Champion.png",
+  "prefix": "P",
+  "number": 67,
+  "card_number": "P67",
+  "name_part": "Hercule - Champion",
+  "file_name": "Hercule",
+  "file_subtitle": "Champion",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "786a3e08e24d48704ca8574a5ce735a85a2f007c"
+ },
+ "vision": {
+  "id": "PZP_MP_P67",
+  "name": "Hercule",
+  "sub": "Champion",
+  "type": "Main Personality",
+  "num": "P67",
+  "lvl": 1,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Your Life Deck cannot include cards that perform energy attacks.)\n[Continuous]: Your attacks deal +100 stages of damage. Your attacks cannot have their damage modified by your effects.\nPOWER: [Attack] Physical attack.\nYour MP gains 5 stages. Search your Life Deck for \"Hercule's Dynamite Kick\" and place it into your hand.\nDAMAGE: 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Power stages are printed ASCENDING (5 ... 50) above 0; printed design, not a misread",
+  "_src": "PZP.jsonl:124"
+ },
+ "ocr": {
+  "agreement": 0.943,
+  "lower_conf": 79.6,
+  "header_text": "HERCULE",
+  "stages_text": ", 5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n0",
+  "error": null
+ }
+}

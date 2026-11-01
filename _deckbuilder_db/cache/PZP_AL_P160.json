@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P160",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P160_Burter - Ginyu Force.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P160_Burter - Ginyu Force.png",
+  "prefix": "P",
+  "number": 160,
+  "card_number": "P160",
+  "name_part": "Burter - Ginyu Force",
+  "file_name": "Burter",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c6e5e0036d1f69a93a0d0ba536356f4eaacacfe5"
+ },
+ "vision": {
+  "id": "PZP_AL_P160",
+  "name": "Burter",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "P160",
+  "lvl": 1,
+  "stages": [
+   64000,
+   32000,
+   16000,
+   8000,
+   4000,
+   2000,
+   1000,
+   500,
+   250,
+   125,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 stage. If your MP is \"Captain Ginyu,\" your attacks deal +2 stages instead.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. Trait badge A (purple) = Alien. FanZ update of S01 U71",
+  "_src": "PZP.jsonl:6"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "1 Bae\nLEVEL | GINYU FORCE Qs",
+  "stages_text": "64,000\n32,000\n16,000\n8,000\n4 4,000\n7 2,000\n1,000\n500\n250\n125\n\n0",
+  "error": null
+ }
+}

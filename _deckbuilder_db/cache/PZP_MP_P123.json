@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P123",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P123_Android 16 - Injured.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P123_Android 16 - Injured.png",
+  "prefix": "P",
+  "number": 123,
+  "card_number": "P123",
+  "name_part": "Android 16 - Injured",
+  "file_name": "Android 16",
+  "file_subtitle": "Injured",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b60877e8026f4ebb8d1f8c64414e9b70de713630"
+ },
+ "vision": {
+  "id": "PZP_MP_P123",
+  "name": "Android 16",
+  "sub": "Injured",
+  "type": "Main Personality",
+  "num": "P123",
+  "lvl": 4,
+  "stages": [
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards. Whenever you play a \"Heroes only\" card, you may Rejuvenate 2. Whenever you play a \"Villains only\" card, you may banish the top 2 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:181"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "Al ANDROID 16\n: INJURED P123",
+  "stages_text": "1,000,000\n900,000\n800,000\n700,000\n\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

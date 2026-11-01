@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S130",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S130_Saiyan Energy Deflection.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S130_Saiyan Energy Deflection.jpg",
+  "prefix": "S",
+  "number": 130,
+  "card_number": "S130",
+  "name_part": "Saiyan Energy Deflection",
+  "file_name": "Saiyan Energy Deflection",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ad7140317580153f5ff4860112fae1e3bbe569a6"
+ },
+ "vision": {
+  "id": "S01_STR_S130",
+  "name": "Saiyan Energy Deflection",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S130",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:315"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.3,
+  "header_text": "(SAIYAN ENERGY DEFLECTION () S130\nVy. 2.) oll LT",
+  "stages_text": ", 74",
+  "error": null
+ }
+}

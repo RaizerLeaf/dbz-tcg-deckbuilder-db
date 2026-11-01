@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_47",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "47_Buu - Ready to Fight.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/47_Buu - Ready to Fight.png",
+  "prefix": null,
+  "number": 47,
+  "card_number": "47",
+  "name_part": "Buu - Ready to Fight",
+  "file_name": "Buu",
+  "file_subtitle": "Ready to Fight",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "dfc9800d158d7464415a00ee1012dde92659b61a"
+ },
+ "vision": {
+  "id": "S14_BST_47",
+  "name": "Buu",
+  "sub": "Ready to Fight",
+  "type": "Main Personality",
+  "num": "S47",
+  "lvl": 1,
+  "stages": [
+   1900000,
+   1500000,
+   900000,
+   700000,
+   500000,
+   200000,
+   100000,
+   40000,
+   20000,
+   3000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(Your Life Deck cannot include Allies not named \"Bee\" or \"Hercule.\")\n[Instant] POWER: Use when entering combat. Search your Life Deck for a Named card and place it into your hand. Banish a card from your hand.\nPOWER: [Attack] Physical attack.\nDAMAGE: 2 life cards.\nHIT: Raise or lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO' -> Main Personality",
+  "_src": "S14.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 0.846,
+  "lower_conf": 82.4,
+  "header_text": "BUU",
+  "stages_text": "1,900,000\n1,500,000\n900,000\n700,000\n500,000\n200,000\n100,000\n40,000\n20,000\n3,000\n0",
+  "error": null
+ }
+}

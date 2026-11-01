@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S13",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S13_Krillin - Ready.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S13_Krillin - Ready.jpg",
+  "prefix": "S",
+  "number": 13,
+  "card_number": "S13",
+  "name_part": "Krillin - Ready",
+  "file_name": "Krillin",
+  "file_subtitle": "Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "fe2282667a2ed4cc4ca412d93292551482818e90"
+ },
+ "vision": {
+  "id": "S01_STR_S13",
+  "name": "Krillin",
+  "sub": "Ready",
+  "type": "Main Personality",
+  "num": "S13",
+  "lvl": 1,
+  "stages": [
+   4000,
+   3600,
+   3200,
+   2800,
+   2400,
+   2000,
+   1600,
+   1200,
+   800,
+   400,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack] POWER: Energy attack costing 2 stages. DAMAGE: 4 life cards. The next time a card is discarded from a hand this combat, use a critical damage effect and raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO. Text differs from promo P4 Krillin - Ready, which lacks 'and raise your anger 2 levels' and reads '[Attack]:' instead of '[Attack] POWER:'",
+  "_src": "S01.jsonl:198"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.9,
+  "header_text": "KRILLIN\n1 READY y Sis\n@ Annn",
+  "stages_text": "4,000\n\n3,600\n\n3,200\n\n2,800\n\n2,400\n\n7 2,000\n1,600\n1,200\n\n800\n\n400\n\n0",
+  "error": null
+ }
+}

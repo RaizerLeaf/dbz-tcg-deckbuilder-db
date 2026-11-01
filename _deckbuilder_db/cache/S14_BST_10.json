@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_10",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "10_Blue Punishment.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/10_Blue Punishment.png",
+  "prefix": null,
+  "number": 10,
+  "card_number": "10",
+  "name_part": "Blue Punishment",
+  "file_name": "Blue Punishment",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "df827fa8a894ce7f630c01785bed09276b290257"
+ },
+ "vision": {
+  "id": "S14_BST_10",
+  "name": "Blue Punishment",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R10",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(This attack is considered a copied attack. If this card is destroyed from your Life Deck by one of your effects, you may banish it to lower your opponent's anger 2.)\n[Attack] 1: Physical attack\nDestroy the top 2 cards of your Life Deck.\nDAMAGE: 1 + X life cards. X = the number of cards in your discard pile with \"copy\" or \"copied\" in the text-box to a maximum of 9.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:10"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.6,
+  "header_text": "BLUE PUNISHMENT C) R10",
+  "stages_text": "0\n37\n2\n,",
+  "error": null
+ }
+}

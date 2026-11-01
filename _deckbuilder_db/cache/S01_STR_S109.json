@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S109",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S109_Saiyan Preparation.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S109_Saiyan Preparation.jpg",
+  "prefix": "S",
+  "number": 109,
+  "card_number": "S109",
+  "name_part": "Saiyan Preparation",
+  "file_name": "Saiyan Preparation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8dd6e99dc8bf718d0c5427b78d9a699ec4b2e77c"
+ },
+ "vision": {
+  "id": "S01_STR_S109",
+  "name": "Saiyan Preparation",
+  "sub": null,
+  "type": "Event",
+  "num": "S109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Look at top card of your Life Deck. You may place that card at the bottom of your Life Deck. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:294"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.5,
+  "header_text": "(SALYAN PREPARATION () S109\n>",
+  "stages_text": "4",
+  "error": null
+ }
+}

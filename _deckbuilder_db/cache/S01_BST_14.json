@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_14",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "14_Black Concussive Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/14_Black Concussive Blast.jpg",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Black Concussive Blast",
+  "file_name": "Black Concussive Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "cb4948c02f266835a10df6d794ab00bb5e8707bd"
+ },
+ "vision": {
+  "id": "S01_BST_14",
+  "name": "Black Concussive Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 4 stages. DAMAGE: 4 life cards. Raise your anger 2 levels. You may place a card from your hand at the bottom of your Life Deck to have your opponent put a card from his hand at the bottom of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "(BLACK CONCUSSIVE- BLAST () ci4",
+  "stages_text": ",,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S43",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S43_Red Tactical Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S43_Red Tactical Drill.jpg",
+  "prefix": "S",
+  "number": 43,
+  "card_number": "S43",
+  "name_part": "Red Tactical Drill",
+  "file_name": "Red Tactical Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "11d4992bb2ba3cfb13817eba88acc3c739334059"
+ },
+ "vision": {
+  "id": "S01_STR_S43",
+  "name": "Red Tactical Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S43",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your opponent's effects cannot lower your anger.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:228"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.5,
+  "header_text": "RED\n{ TACTICAL DRIEL",
+  "stages_text": ", 3 2",
+  "error": null
+ }
+}

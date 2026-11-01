@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_07",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "07_Captain Ginyu - Energized.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/07_Captain Ginyu - Energized.jpg",
+  "prefix": null,
+  "number": 7,
+  "card_number": "07",
+  "name_part": "Captain Ginyu - Energized",
+  "file_name": "Captain Ginyu",
+  "file_subtitle": "Energized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f91142f390296ba8851dd93dad40990cf051ae27"
+ },
+ "vision": {
+  "id": "S01_BST_07",
+  "name": "Captain Ginyu",
+  "sub": "Energized",
+  "type": "Main Personality",
+  "num": "C7",
+  "lvl": 2,
+  "stages": [
+   125000,
+   115000,
+   105000,
+   85000,
+   65000,
+   45000,
+   25000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Attack] POWER: Energy attack costing 2 stages. DAMAGE: 4 life cards. Search your discard pile for an Ally and place it into play at 5 power stages above 0. Raise your anger X levels. X = the number of your \"Ginyu Force\" Allies in play.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:7"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.1,
+  "header_text": "f CAPTAIN GINYU. () a\nENERGIZED\nLEVEL ——— —\ny —",
+  "stages_text": "125,000\n115,000\n105,000\n85,000\n65,000\n45,000\n25,000\n5,000\n\n2,500\n\n1,250\n\n0",
+  "error": null
+ }
+}

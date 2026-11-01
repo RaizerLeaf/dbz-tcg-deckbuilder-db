@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P199",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P199_Broly - Undaunted.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P199_Broly - Undaunted.png",
+  "prefix": "P",
+  "number": 199,
+  "card_number": "P199",
+  "name_part": "Broly - Undaunted",
+  "file_name": "Broly",
+  "file_subtitle": "Undaunted",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "94fb73c82489d12b391718eda5261932413ef049"
+ },
+ "vision": {
+  "id": "PZP_AL_P199",
+  "name": "Broly",
+  "sub": "Undaunted",
+  "type": "Ally",
+  "num": "P199",
+  "lvl": 1,
+  "stages": [
+   200000,
+   150000,
+   100000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: You cannot win by MPPV. If your MP is a Saiyan, players cannot use effects to lower an MP 1 or more levels. Whenever a card would be discarded after use, it is banished instead.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:46"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.2,
+  "header_text": "BROLY\n/ 2, UNDAUNTED C) P199\nDa, —",
+  "stages_text": "200,000\n150,000\n100,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n2,500\n0",
+  "error": null
+ }
+}

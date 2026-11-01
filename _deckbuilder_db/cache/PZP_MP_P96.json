@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P96",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P96_Tenshinhan - Smug.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P96_Tenshinhan - Smug.png",
+  "prefix": "P",
+  "number": 96,
+  "card_number": "P96",
+  "name_part": "Tenshinhan - Smug",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Smug",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a814eaa75b1cf6b3a7cfa6ed6f35de3469800686"
+ },
+ "vision": {
+  "id": "PZP_MP_P96",
+  "name": "Tenshinhan",
+  "sub": "Smug",
+  "type": "Main Personality",
+  "num": "P96",
+  "lvl": 4,
+  "stages": [
+   275000,
+   250000,
+   225000,
+   200000,
+   175000,
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: The first attack you play each combat stays in play to be used a second time that combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:153"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "TENSHINHAN",
+  "stages_text": "275,000\n250,000\n225,000\n200,000\n175,000\n150,000\n125,000\n100,000\n75,000\n50,000\n\n0",
+  "error": null
+ }
+}

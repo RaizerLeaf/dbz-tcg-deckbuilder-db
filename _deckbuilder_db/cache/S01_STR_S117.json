@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S117",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S117_Orange Stare Down.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S117_Orange Stare Down.jpg",
+  "prefix": "S",
+  "number": 117,
+  "card_number": "S117",
+  "name_part": "Orange Stare Down",
+  "file_name": "Orange Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "6a3d2ddc132203c9c5d851155188510f8a82319a"
+ },
+ "vision": {
+  "id": "S01_STR_S117",
+  "name": "Orange Stare Down",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S117",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:302"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.2,
+  "header_text": "(ORANGE STARE DOWN C) S17",
+  "stages_text": "7\n2\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_84",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "84_Namekian Wish.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/84_Namekian Wish.jpg",
+  "prefix": null,
+  "number": 84,
+  "card_number": "84",
+  "name_part": "Namekian Wish",
+  "file_name": "Namekian Wish",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ca3251fef241b481ece4eb46eaa509882ae53b14"
+ },
+ "vision": {
+  "id": "S01_BST_84",
+  "name": "Namekian Wish",
+  "sub": null,
+  "type": "Setup",
+  "num": "U84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: End Combat. Choose X cards in your discard pile and Rejuvenate them. X = the number of Dragon Balls in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "(NAMEKIAN WISH eu () Las\n7 a",
+  "stages_text": ",",
+  "error": null
+ }
+}

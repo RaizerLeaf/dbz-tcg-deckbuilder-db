@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_72",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "72_Jiece - Ginyu Force.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/72_Jiece - Ginyu Force.jpg",
+  "prefix": null,
+  "number": 72,
+  "card_number": "72",
+  "name_part": "Jiece - Ginyu Force",
+  "file_name": "Jiece",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ad8767fa3e7623b18f7d0fef281b80a4cbc1de98"
+ },
+ "vision": {
+  "id": "S01_BST_72",
+  "name": "Jiece",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "U72",
+  "lvl": 1,
+  "stages": [
+   65000,
+   60000,
+   55000,
+   45000,
+   35000,
+   25000,
+   15000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Attack] POWER: Energy attack costing 2 stages. DAMAGE: 5 life cards. Raise a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:72"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.6,
+  "header_text": "JIECE ———~—O —\n1 GINYU FORCE renee () uve\nLEVEL a 7\nIN _ y",
+  "stages_text": "65,000\n60,000\n55,000\n45,000\n35,000\n25,000\n15,000\n5,000\n\n2,500\n\n1,250\n\n0",
+  "error": null
+ }
+}

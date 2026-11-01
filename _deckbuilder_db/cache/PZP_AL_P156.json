@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P156",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P156_Chaozu - Resurrected.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P156_Chaozu - Resurrected.png",
+  "prefix": "P",
+  "number": 156,
+  "card_number": "P156",
+  "name_part": "Chaozu - Resurrected",
+  "file_name": "Chaozu",
+  "file_subtitle": "Resurrected",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cfb130f03e7a180166835e079d5d739a6828e507"
+ },
+ "vision": {
+  "id": "PZP_AL_P156",
+  "name": "Chaozu",
+  "sub": "Resurrected",
+  "type": "Ally",
+  "num": "P156",
+  "lvl": 1,
+  "stages": [
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] 4: Energy attack.\nShuffle \"Chaozu\" into your Life Deck at the beginning of the next action this combat.\nDAMAGE: 7 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. FanZ update of S01 C8",
+  "_src": "PZP.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.7,
+  "header_text": "1 CHAOZU\nLEVEL RESURRECTED () P156\non . aaa",
+  "stages_text": "1 90,000\n80,000\n70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

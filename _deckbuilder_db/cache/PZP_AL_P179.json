@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P179",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P179_Yajirobe - Bundled.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P179_Yajirobe - Bundled.png",
+  "prefix": "P",
+  "number": 179,
+  "card_number": "P179",
+  "name_part": "Yajirobe - Bundled",
+  "file_name": "Yajirobe",
+  "file_subtitle": "Bundled",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5fdd10001be378840fed96862c293ab14de24484"
+ },
+ "vision": {
+  "id": "PZP_AL_P179",
+  "name": "Yajirobe",
+  "sub": "Bundled",
+  "type": "Ally",
+  "num": "P179",
+  "lvl": 1,
+  "stages": [
+   400,
+   350,
+   300,
+   250,
+   200,
+   150,
+   100,
+   50,
+   25,
+   10,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Players cannot use Setups unless they have performed an attack from their hand this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:26"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "1 Erceam\nLEVEL | BUNDLED a",
+  "stages_text": "400\n\n350\n\n300\n\n250\n200\n5 150\n100\n50\n25\n\n10\n\n0",
+  "error": null
+ }
+}

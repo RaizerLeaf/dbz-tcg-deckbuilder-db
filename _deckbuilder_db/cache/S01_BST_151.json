@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_151",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "151_Stare Down.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/151_Stare Down.jpg",
+  "prefix": null,
+  "number": 151,
+  "card_number": "151",
+  "name_part": "Stare Down",
+  "file_name": "Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2e962968b5ec484010b285b8e6d774b9f9887e6f"
+ },
+ "vision": {
+  "id": "S01_BST_151",
+  "name": "Stare Down",
+  "sub": null,
+  "type": "Event",
+  "num": "R151",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) POWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:151"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.1,
+  "header_text": "Grvne DOWNS Sees © A151\nUf y <= / / z=",
+  "stages_text": "0",
+  "error": null
+ }
+}

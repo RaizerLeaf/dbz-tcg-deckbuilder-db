@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P32",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P32_Blue Observation Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P32_Blue Observation Drill.png",
+  "prefix": "P",
+  "number": 32,
+  "card_number": "P32",
+  "name_part": "Blue Observation Drill",
+  "file_name": "Blue Observation Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "12f82561d1da643df672053567597a9eb89c9cd2"
+ },
+ "vision": {
+  "id": "S14_PRO_P32",
+  "name": "Blue Observation Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Endurance cannot be used.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout",
+  "_src": "S14.jsonl:85"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.2,
+  "header_text": "BLUE OBSERVATION DRILL () P32\n— en Eo’ a",
+  "stages_text": null,
+  "error": null
+ }
+}

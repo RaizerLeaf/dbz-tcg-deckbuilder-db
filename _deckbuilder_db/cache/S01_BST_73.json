@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_73",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "73_Black Searching Technique.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/73_Black Searching Technique.jpg",
+  "prefix": null,
+  "number": 73,
+  "card_number": "73",
+  "name_part": "Black Searching Technique",
+  "file_name": "Black Searching Technique",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "83a21a7d64624bce309a0e33ce0fca90ecc6bd04"
+ },
+ "vision": {
+  "id": "S01_BST_73",
+  "name": "Black Searching Technique",
+  "sub": null,
+  "type": "Setup",
+  "num": "U73",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Search your opponent's deck for 2 non-Dragon Ball cards and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:73"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.1,
+  "header_text": "[BLACK SEARCHING TECHNIQUE () u73",
+  "stages_text": "1",
+  "error": null
+ }
+}

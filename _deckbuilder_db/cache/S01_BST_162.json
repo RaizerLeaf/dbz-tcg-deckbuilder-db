@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_162",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "162_Villainous Visage.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/162_Villainous Visage.jpg",
+  "prefix": null,
+  "number": 162,
+  "card_number": "162",
+  "name_part": "Villainous Visage",
+  "file_name": "Villainous Visage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f40da6ecfbc339dbeb65c10bacfbb300ed7d898d"
+ },
+ "vision": {
+  "id": "S01_BST_162",
+  "name": "Villainous Visage",
+  "sub": null,
+  "type": "Setup",
+  "num": "UR162",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only. Limit 1 per deck. Banish after use.) [Instant] POWER: Use after you take damage from an attack. Your opponent destroys the top X cards of his Life Deck. X = twice the amount of life card damage that attack dealt.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; UR rarity",
+  "_src": "S01.jsonl:162"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "‘ VILLAIN QUS VISAGE: & vase ”\na. ey) SISA, ZZ WE",
+  "stages_text": "",
+  "error": null
+ }
+}

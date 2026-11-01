@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S40",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S40_Orange Devouring Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S40_Orange Devouring Drill.jpg",
+  "prefix": "S",
+  "number": 40,
+  "card_number": "S40",
+  "name_part": "Orange Devouring Drill",
+  "file_name": "Orange Devouring Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "8ad5340d1cd0f17a1e82409cfc1580d495f113be"
+ },
+ "vision": {
+  "id": "S01_STR_S40",
+  "name": "Orange Devouring Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this Drill's effect. Banish after use.) [Continuous]: When you play a Drill, you may banish this card. If you do, advance a personality level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:225"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "(ORANGE DEVOURING DRILL () S40",
+  "stages_text": "3",
+  "error": null
+ }
+}

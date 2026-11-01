@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P17",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P17_Buu - Unhinged.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P17_Buu - Unhinged.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Buu - Unhinged",
+  "file_name": "Buu",
+  "file_subtitle": "Unhinged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9457b338ff80ebfb20e7a2abac8083efb1d4a72d"
+ },
+ "vision": {
+  "id": "S14_PRO_P17",
+  "name": "Buu",
+  "sub": "Unhinged",
+  "type": "Main Personality",
+  "num": "P17",
+  "lvl": 4,
+  "stages": [
+   9000000,
+   6000000,
+   4000000,
+   2500000,
+   1200000,
+   800000,
+   600000,
+   400000,
+   200000,
+   80000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 stages and gain \"HIT: Rejuvenate 1.\" POWER: [Attack] Physical attack. Unpreventable. If stopped, banish the top or bottom 3 cards of a player's Life Deck. DAMAGE: 7 stages. HIT: Banish 5 cards from a player's discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads VILLAIN -> Main Personality. Same as S14 S46",
+  "_src": "S14.jsonl:70"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "BUU\n4 UNHINGED f | 717)",
+  "stages_text": "79,000,000\n6,000,000\n4,000,000\n2,500,000\n\n4\n\n400,000\n\n80,000",
+  "error": null
+ }
+}

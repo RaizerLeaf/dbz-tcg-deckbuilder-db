@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_156",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "156_Goku’s Kamehameha.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/156_Goku’s Kamehameha.jpg",
+  "prefix": null,
+  "number": 156,
+  "card_number": "156",
+  "name_part": "Goku’s Kamehameha",
+  "file_name": "Goku’s Kamehameha",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3f47b21a05832f540216d6df9bffb6d1379d01fb"
+ },
+ "vision": {
+  "id": "S01_BST_156",
+  "name": "Goku's Kamehameha",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R156",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. You may destroy any of your Drills. This attack deals +3 stages for each Drill destroyed.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "| ——_. —_\n(GOKU'S KAMEHAMEHA () aiss\na To WE",
+  "stages_text": "2\n,",
+  "error": null
+ }
+}

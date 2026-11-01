@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_60",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "60_It’s Over 9,000!.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/60_It’s Over 9,000!.jpg",
+  "prefix": null,
+  "number": 60,
+  "card_number": "60",
+  "name_part": "It’s Over 9,000!",
+  "file_name": "It’s Over 9,000!",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e16a11b00262b3df90f8c399b0bbaccfae681951"
+ },
+ "vision": {
+  "id": "S01_BST_60",
+  "name": "It's Over 9,000!",
+  "sub": null,
+  "type": "Event",
+  "num": "C60",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.) POWER: If your opponent's MP's power level is over 9,000, both players raise their anger 6 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:60"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "(IT'S OVER 9,000! -- () cso",
+  "stages_text": "7\n\n1\n,\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P105",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P105_Lord Slug - Aged.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P105_Lord Slug - Aged.png",
+  "prefix": "P",
+  "number": 105,
+  "card_number": "P105",
+  "name_part": "Lord Slug - Aged",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Aged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6b0c8c5f79d8d1b21334c30e87e11ad7fb9cf418"
+ },
+ "vision": {
+  "id": "PZP_MP_P105",
+  "name": "Lord Slug",
+  "sub": "Aged",
+  "type": "Main Personality",
+  "num": "P105",
+  "lvl": 1,
+  "stages": [
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Whenever a Dragon Ball enters play, raise your anger 1. If you do not control a Dragon Ball at the end of combat, search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:162"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.2,
+  "header_text": "] LORD SLUG\nLEVEL AGED ia:",
+  "stages_text": "14,000\n12,000\n10,000\n8,000\n\n7\n5 6,000\n4,000\n2,000\n1,000\n500\n250\n0",
+  "error": null
+ }
+}

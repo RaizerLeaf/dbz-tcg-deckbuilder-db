@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P4",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P4_Android 18 - Runner Up.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P4_Android 18 - Runner Up.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Android 18 - Runner Up",
+  "file_name": "Android 18",
+  "file_subtitle": "Runner Up",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "fe94cf28fa6318ddb921794eb07ebe2574091bd4"
+ },
+ "vision": {
+  "id": "S14_PRO_P4",
+  "name": "Android 18",
+  "sub": "Runner Up",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 4,
+  "stages": [
+   2000000,
+   1900000,
+   1700000,
+   1500000,
+   1200000,
+   800000,
+   500000,
+   200000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Your attacks with \"Android\" in the title are considered Styled. When you reach this level, search your discard pile and/or Banished Zone for 2 Styled cards and/or cards with \"Android\" in the title and Rejuvenate them.) [Continuous]: Your Styled attacks cost -2 stages (to a minimum of 0) and deal +2 life cards. POWER: Search your Life Deck, discard pile, or Banished Zone for a card with \"Android\" in the title and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality; Trait badges E + R above text box",
+  "_src": "S14.jsonl:57"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.2,
+  "header_text": "ANDROID 18\n| A RUNNER UP y 4\n‘ LEVEL — — —",
+  "stages_text": "2,000,000\n1,900,000\n1,700,000\n1,500,000\n1,200,000\n\n7 800,000\n900,000\n200,000\n90,000\n25,000\n\n0",
+  "error": null
+ }
+}

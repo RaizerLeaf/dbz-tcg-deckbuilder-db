@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P75",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P75_Vegeta - Experienced.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P75_Vegeta - Experienced.png",
+  "prefix": "P",
+  "number": 75,
+  "card_number": "P75",
+  "name_part": "Vegeta - Experienced",
+  "file_name": "Vegeta",
+  "file_subtitle": "Experienced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "af09e96e2a386f5bc3c29b14038441fb9bf7a673"
+ },
+ "vision": {
+  "id": "PZP_MP_P75",
+  "name": "Vegeta",
+  "sub": "Experienced",
+  "type": "Main Personality",
+  "num": "P75",
+  "lvl": 1,
+  "stages": [
+   250000,
+   175000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(Damage from your non-Styled attacks can only be modified by this card's effects.)\n[Continuous]: Your non-Styled attacks deal +2 life cards of damage.\nPOWER: [Attack] Energy attack costing 1 stage.\nBanish a card from your opponent's discard pile.\nDAMAGE: 1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:132"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.2,
+  "header_text": "LL VEGETA\nLEVEL EXPERIENCED () P75",
+  "stages_text": "250,000\n175,000\n100,000\n80,000\n60,000\n40,000\n20,000\n10,000\n5,000\n2,500\n0",
+  "error": null
+ }
+}

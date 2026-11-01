@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P207",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P207_Puar - Cheerful.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P207_Puar - Cheerful.png",
+  "prefix": "P",
+  "number": 207,
+  "card_number": "P207",
+  "name_part": "Puar - Cheerful",
+  "file_name": "Puar",
+  "file_subtitle": "Cheerful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0c4c432d98078df05f6d77bc95393ac2c9feae56"
+ },
+ "vision": {
+  "id": "PZP_AL_P207",
+  "name": "Puar",
+  "sub": "Cheerful",
+  "type": "Ally",
+  "num": "P207",
+  "lvl": 1,
+  "stages": [
+   25,
+   23,
+   21,
+   19,
+   17,
+   15,
+   13,
+   11,
+   9,
+   7,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Yamcha, you may choose him with this Power's effect.)\nPOWER: Choose a non-[Instant]/non-[Continuous] Power of an Ally in play that isn't Puar. Use that Power.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout, purple frame); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "PUAR\n/ 2. CHEERFUL C) P207",
+  "stages_text": "25\n23\n\n21\n\n19\n13\n11\n0",
+  "error": null
+ }
+}

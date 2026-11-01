@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_21",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "21_Blue Trick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/21_Blue Trick.jpg",
+  "prefix": null,
+  "number": 21,
+  "card_number": "21",
+  "name_part": "Blue Trick",
+  "file_name": "Blue Trick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "91bbf5f6d3a328478328cbe6933d4196bb433d8a"
+ },
+ "vision": {
+  "id": "S01_BST_21",
+  "name": "Blue Trick",
+  "sub": null,
+  "type": "Setup",
+  "num": "C21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. POWER: Capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:21"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 67.1,
+  "header_text": "GO Nad f",
+  "stages_text": "5",
+  "error": null
+ }
+}

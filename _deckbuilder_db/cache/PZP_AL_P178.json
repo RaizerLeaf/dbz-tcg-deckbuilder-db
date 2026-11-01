@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P178",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P178_Oolong - Concerned.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P178_Oolong - Concerned.png",
+  "prefix": "P",
+  "number": 178,
+  "card_number": "P178",
+  "name_part": "Oolong - Concerned",
+  "file_name": "Oolong",
+  "file_subtitle": "Concerned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9f0b127639b919ffa0e62a2c25ca44c0d05271d5"
+ },
+ "vision": {
+  "id": "PZP_AL_P178",
+  "name": "Oolong",
+  "sub": "Concerned",
+  "type": "Ally",
+  "num": "P178",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Dragon Balls lose all effects.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.2,
+  "header_text": "1 oes\nod CONCERNED Qe\n= i /f 7 ASD 3",
+  "stages_text": "50\n45\n\n40\n\n35\n30\n25\n20\n5\n10\n\n5\n0",
+  "error": null
+ }
+}

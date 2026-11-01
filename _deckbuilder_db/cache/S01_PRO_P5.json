@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P5",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P5_Goku - Super Saiyan God.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P5_Goku - Super Saiyan God.jpg",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Goku - Super Saiyan God",
+  "file_name": "Goku",
+  "file_subtitle": "Super Saiyan God",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "a763c81d3f103017fefc626dc8758f58ebb77f33"
+ },
+ "vision": {
+  "id": "S01_PRO_P5",
+  "name": "Goku",
+  "sub": "Super Saiyan God",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   100000000,
+   10000000,
+   1000000,
+   500000,
+   250000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "POWER: Destroy the top card of your Life Deck to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout; no icon printed before POWER; type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:169"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "=\nKU\n1 Sache SAIYAN GOD yr) -5S\nLEVEL = \\2\n\\ { 4NNM ANN nnn",
+  "stages_text": "100,000,000\n10,000,000\n1,000,000\n500,000\n250,000\n100,000\n50,000\n25,000\n\n10,000\n\n5,000\n\n0",
+  "error": null
+ }
+}

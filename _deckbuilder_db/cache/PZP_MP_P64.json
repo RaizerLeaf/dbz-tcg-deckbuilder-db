@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P64",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P64_Goku - Determined.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P64_Goku - Determined.png",
+  "prefix": "P",
+  "number": 64,
+  "card_number": "P64",
+  "name_part": "Goku - Determined",
+  "file_name": "Goku",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1e915afc7931d4e62a30c7d25f80cd9013a593f8"
+ },
+ "vision": {
+  "id": "PZP_MP_P64",
+  "name": "Goku",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "P64",
+  "lvl": 2,
+  "stages": [
+   1250000,
+   1000000,
+   750000,
+   500000,
+   250000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage and your opponent's attacks deal -1 life card of damage.\nPOWER: Draw the bottom card of your discard pile. You may discard a card from your hand to use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "— GOKU\nLEVEL DETERMINED () P64",
+  "stages_text": "1,250,000\n41,000,000\n750,000\n500,000\n250,000\n100,000\n80,000\n60,000\n40,000\n20,000\n0",
+  "error": null
+ }
+}

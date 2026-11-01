@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_96",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "96_Red Despair Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/96_Red Despair Drill.jpg",
+  "prefix": null,
+  "number": 96,
+  "card_number": "96",
+  "name_part": "Red Despair Drill",
+  "file_name": "Red Despair Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "008d63c4f77b7931fd04e4067a4fa31dbc5e2ab2"
+ },
+ "vision": {
+  "id": "S01_BST_96",
+  "name": "Red Despair Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Continuous]: Your attacks deal +X life cards of damage. X = your current anger level when you perform that attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.6,
+  "header_text": "(RED DESPAIR DRILL () use",
+  "stages_text": "6\n,\n4",
+  "error": null
+ }
+}

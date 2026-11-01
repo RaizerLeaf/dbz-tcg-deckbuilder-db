@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P49",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P49_Blue Charging Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P49_Blue Charging Drill.png",
+  "prefix": "P",
+  "number": 49,
+  "card_number": "P49",
+  "name_part": "Blue Charging Drill",
+  "file_name": "Blue Charging Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "66cf42b73d5ed593b4a241075ed0e1de683c40f1"
+ },
+ "vision": {
+  "id": "S14_PRO_P49",
+  "name": "Blue Charging Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\nPOWER: Discard a card from your hand to perform a Styled energy attack costing 2 stages and dealing 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout",
+  "_src": "S14.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 0.87,
+  "lower_conf": 88.4,
+  "header_text": "BLUE CHARGING DRILL a pag |",
+  "stages_text": null,
+  "error": null
+ }
+}

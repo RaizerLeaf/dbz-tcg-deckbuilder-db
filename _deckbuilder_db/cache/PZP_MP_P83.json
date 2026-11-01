@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P83",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P83_Nail - Protector.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P83_Nail - Protector.png",
+  "prefix": "P",
+  "number": 83,
+  "card_number": "P83",
+  "name_part": "Nail - Protector",
+  "file_name": "Nail",
+  "file_subtitle": "Protector",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "540137553570ededb4699955783c809baa545e1a"
+ },
+ "vision": {
+  "id": "PZP_MP_P83",
+  "name": "Nail",
+  "sub": "Protector",
+  "type": "Main Personality",
+  "num": "P83",
+  "lvl": 2,
+  "stages": [
+   40000,
+   36000,
+   32000,
+   28000,
+   24000,
+   20000,
+   16000,
+   12000,
+   8000,
+   4000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "[Continuous]: Whenever your opponent stops one of your attacks, destroy the top 2 cards of their Life Deck. After your opponent takes damage from one of your attacks, banish the top X cards of their Life Deck. X = the number of times they used Endurance on that attack.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Nail's set in this folder has no Level 1 (P83 is Level 2)",
+  "_src": "PZP.jsonl:140"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "NAIL",
+  "stages_text": "40,000\n36,000\n32,000\n28,000\n\n24,000\n\n20,000\n\n16,000\n12,000\n\n8,000\n\n4,000\n\n0",
+  "error": null
+ }
+}

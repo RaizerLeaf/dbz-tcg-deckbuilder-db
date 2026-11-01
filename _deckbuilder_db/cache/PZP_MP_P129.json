@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P129",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P129_Yamcha - On the Move.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P129_Yamcha - On the Move.png",
+  "prefix": "P",
+  "number": 129,
+  "card_number": "P129",
+  "name_part": "Yamcha - On the Move",
+  "file_name": "Yamcha",
+  "file_subtitle": "On the Move",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f28d8aaa8fd42a5e89a36bb9d4c209c10c188aa0"
+ },
+ "vision": {
+  "id": "PZP_MP_P129",
+  "name": "Yamcha",
+  "sub": "On the Move",
+  "type": "Main Personality",
+  "num": "P129",
+  "lvl": 2,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks cost -1 stage (to a minimum of 0).\n[Instant] POWER: Use when entering combat. Lower your opponent's anger 1. You may banish the top 2 cards of your discard pile to search your discard pile for a Styled energy attack and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:187"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "@ YAMCHA\nLEVEL ON THE MOVE () P129",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n\n5 60,000\n50,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

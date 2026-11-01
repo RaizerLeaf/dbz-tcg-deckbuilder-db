@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P58",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P58_Cell - Smooth.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P58_Cell - Smooth.png",
+  "prefix": "P",
+  "number": 58,
+  "card_number": "P58",
+  "name_part": "Cell - Smooth",
+  "file_name": "Cell",
+  "file_subtitle": "Smooth",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "57310527536fb5fc99b6a0722bcf6491b6fc60a9"
+ },
+ "vision": {
+  "id": "PZP_MP_P58",
+  "name": "Cell",
+  "sub": "Smooth",
+  "type": "Main Personality",
+  "num": "P58",
+  "lvl": 3,
+  "stages": [
+   2000000,
+   1400000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Search your Life Deck, discard pile, or Banished Zone for a Saiyan Ally and play it.\nPOWER: [Attack] Physical attack.\nIf you control 2 or more Allies, destroy the top 5 cards of your opponent's Life Deck.\nDAMAGE: AT + 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.9,
+  "header_text": "S3 CELL\nLEVEL SMOOTH () Pos",
+  "stages_text": "2,000,000\n1,400,000\n1,000,000\n\n500,000\n400,000\n300,000\n200,000\n\n100,000\n\n25,000\n10,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S84",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S84_Saiyan Sabotage.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S84_Saiyan Sabotage.jpg",
+  "prefix": "S",
+  "number": 84,
+  "card_number": "S84",
+  "name_part": "Saiyan Sabotage",
+  "file_name": "Saiyan Sabotage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f188dffb2ad89a03e2288b20c9cef59652a281ce"
+ },
+ "vision": {
+  "id": "S01_STR_S84",
+  "name": "Saiyan Sabotage",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S84",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT stages. HIT: Banish a Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:269"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.1,
+  "header_text": "(SAIYAN SABOTAGE. () se4\nRy a= e",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

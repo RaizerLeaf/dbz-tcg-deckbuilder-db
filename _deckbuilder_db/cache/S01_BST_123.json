@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_123",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "123_Black Mischievous Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/123_Black Mischievous Drill.jpg",
+  "prefix": null,
+  "number": 123,
+  "card_number": "123",
+  "name_part": "Black Mischievous Drill",
+  "file_name": "Black Mischievous Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1fe7d1168599cced47b0c2d83786e252e5cdc9f3"
+ },
+ "vision": {
+  "id": "S01_BST_123",
+  "name": "Black Mischievous Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R123",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Continuous]: Whenever your opponent plays a Setup or Drill, you may destroy the top 4 cards of your Life Deck. If you do, banish that Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:123"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(BLACK MISCHIEVOUS. DRILL () Ales",
+  "stages_text": "",
+  "error": null
+ }
+}

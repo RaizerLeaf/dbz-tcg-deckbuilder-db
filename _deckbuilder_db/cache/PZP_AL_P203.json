@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P203",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P203_Beerus - God of Destruction.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P203_Beerus - God of Destruction.png",
+  "prefix": "P",
+  "number": 203,
+  "card_number": "P203",
+  "name_part": "Beerus - God of Destruction",
+  "file_name": "Beerus",
+  "file_subtitle": "God of Destruction",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a5b029c7139cdb9a5e2a0034855386fc3621cd5b"
+ },
+ "vision": {
+  "id": "PZP_AL_P203",
+  "name": "Beerus",
+  "sub": "God of Destruction",
+  "type": "Ally",
+  "num": "P203",
+  "lvl": 1,
+  "stages": [
+   200000000,
+   20000000,
+   2000000,
+   1000000,
+   500000,
+   200000,
+   100000,
+   50000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero/Villain",
+  "traits": [
+   "God"
+  ],
+  "text": "(When this card enters play, destroy the top card of each player's Life Deck.)\n[Continuous]: Whenever a non-Dragon Ball card is discarded from a player's hand, banish it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO/VILLAIN ALLY'. PUR 2",
+  "_src": "PZP.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "1 | BEERUS\n/ LEVEL) GOD OF DESTRUCTION C) P203",
+  "stages_text": "200,000,000\n20,000,000\n2,000,000\n1,000,000\n500,000\n200,000\n100,000\n0,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

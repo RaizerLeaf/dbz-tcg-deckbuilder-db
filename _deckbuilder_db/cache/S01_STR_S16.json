@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S16",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S16_Krillin - Enraged.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S16_Krillin - Enraged.jpg",
+  "prefix": "S",
+  "number": 16,
+  "card_number": "S16",
+  "name_part": "Krillin - Enraged",
+  "file_name": "Krillin",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ae5226ff6051e06ab817a2b086b4e4054026e5ef"
+ },
+ "vision": {
+  "id": "S01_STR_S16",
+  "name": "Krillin",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "S16",
+  "lvl": 4,
+  "stages": [
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your first Styled attack each turn cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:201"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 64.0,
+  "header_text": "KRILLIN\n4 ENRAGED yr) Si6 ;\n\"ee — NN NNN",
+  "stages_text": "500,000\n400,000\n300,000\n200,000\n100,000\n\n7 75,000\n50,000\n25,000\n10,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

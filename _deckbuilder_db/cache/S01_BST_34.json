@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_34",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "34_Namekian Onslaught.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/34_Namekian Onslaught.jpg",
+  "prefix": null,
+  "number": 34,
+  "card_number": "34",
+  "name_part": "Namekian Onslaught",
+  "file_name": "Namekian Onslaught",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "736b56ca6aa91f2ae2ed8c61fc34bf45d4965df8"
+ },
+ "vision": {
+  "id": "S01_BST_34",
+  "name": "Namekian Onslaught",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C34",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 4 life cards. Rejuvenate 1. If you control 2 or more Dragon Balls, this attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:34"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "N",
+  "stages_text": "1,",
+  "error": null
+ }
+}

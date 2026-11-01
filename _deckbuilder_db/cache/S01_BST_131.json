@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_131",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "131_Namekian Knowledge Mastery (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/131_Namekian Knowledge Mastery (CRD).png",
+  "prefix": null,
+  "number": 131,
+  "card_number": "131",
+  "name_part": "Namekian Knowledge Mastery",
+  "file_name": "Namekian Knowledge Mastery",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 911,
+  "height": 651,
+  "orientation": "landscape",
+  "sha1": "7089b9e3adbdaf633f8e38f7a3746f76a2cb420a"
+ },
+ "vision": {
+  "id": "S01_BST_131",
+  "name": "Namekian Knowledge Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "R131",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "a '(CRD)' label is stamped below the card (owner annotation, not card text)",
+  "_src": "S01.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 0.957,
+  "lower_conf": 74.3,
+  "header_text": "NAMEKIAN KNOWLEDGE MASTERY () r131\n~ an: eg —",
+  "stages_text": null,
+  "error": null
+ }
+}

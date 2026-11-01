@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P29",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P29_Black Targeting Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P29_Black Targeting Drill.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Black Targeting Drill",
+  "file_name": "Black Targeting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "b7baca0c46b9a50bf13b4c350f80254505ed2166"
+ },
+ "vision": {
+  "id": "S14_PRO_P29",
+  "name": "Black Targeting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "P29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever your opponent discards a card from their hand from one of your effects, the cards are chosen at random. Your opponent's physical attacks cost +1 stage to perform.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout; FanZ reprint of S01 S37 with 'his hand' changed to 'their hand'",
+  "_src": "S14.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 0.9,
+  "lower_conf": 92.0,
+  "header_text": "BLACK TARGETING DRILL a P29 |",
+  "stages_text": null,
+  "error": null
+ }
+}

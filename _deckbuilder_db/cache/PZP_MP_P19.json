@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P19",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P19_Krillin - Ready (SDCC).png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P19_Krillin - Ready (SDCC).png",
+  "prefix": "P",
+  "number": 19,
+  "card_number": "P19",
+  "name_part": "Krillin - Ready",
+  "file_name": "Krillin",
+  "file_subtitle": "Ready",
+  "filename_flags": [
+   "SDCC"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "949ce47fd529a3e5ad42d5facdc707a9dfc44cc9"
+ },
+ "vision": {
+  "id": "PZP_MP_P19",
+  "name": "Krillin",
+  "sub": "Ready (SDCC)",
+  "type": "Main Personality",
+  "num": "P19",
+  "lvl": 1,
+  "stages": [
+   4000,
+   3600,
+   3200,
+   2800,
+   2400,
+   2000,
+   1600,
+   1200,
+   800,
+   400,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nThe next time a card is discarded from a hand this combat, use a critical damage effect.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Subtitle is printed as 'READY (SDCC)' on the card itself. FanZ update of S01 P4 (promo wording, without the anger clause)",
+  "_src": "PZP.jsonl:76"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "KRILLIN\n: READY (SDCC) P19",
+  "stages_text": "4,000\n3,600\n\n3,200\n\n2,800\n\n2,400\n2,000\n1,600\n1,200\n\n800\n\n400\n\n0",
+  "error": null
+ }
+}

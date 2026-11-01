@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P159",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P159_Yamcha - Action Ready.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P159_Yamcha - Action Ready.png",
+  "prefix": "P",
+  "number": 159,
+  "card_number": "P159",
+  "name_part": "Yamcha - Action Ready",
+  "file_name": "Yamcha",
+  "file_subtitle": "Action Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7317709007344d73257fc696227b731562f076bf"
+ },
+ "vision": {
+  "id": "PZP_AL_P159",
+  "name": "Yamcha",
+  "sub": "Action Ready",
+  "type": "Ally",
+  "num": "P159",
+  "lvl": 1,
+  "stages": [
+   95000,
+   90000,
+   85000,
+   75000,
+   65000,
+   55000,
+   40000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] 1: Energy attack.\nDAMAGE: 3 life cards.\nHIT: Shuffle a Setup, Drill, or Ally in play into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. FanZ update of S01 U70",
+  "_src": "PZP.jsonl:5"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "1 rons\nLEVEL | ACTION READY C) P159",
+  "stages_text": "95,000\n90,000\n85,000\n\n75,000\n65,000\n55,000\n40,000\n25,000\n10,000\n5,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_111",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "111_Empowered Flying Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/111_Empowered Flying Kick.jpg",
+  "prefix": null,
+  "number": 111,
+  "card_number": "111",
+  "name_part": "Empowered Flying Kick",
+  "file_name": "Empowered Flying Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e6500cc5184b6fc15d74dff4900096b15d6f3df8"
+ },
+ "vision": {
+  "id": "S01_BST_111",
+  "name": "Empowered Flying Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U111",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +2 stages. Both players set their anger level to 2.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "{ —_——— —\n(EMPOWERED FLYING.-KICK () L111",
+  "stages_text": "2 4\n96\n11422,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S77",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S77_Namekian Elbow Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S77_Namekian Elbow Strike.jpg",
+  "prefix": "S",
+  "number": 77,
+  "card_number": "S77",
+  "name_part": "Namekian Elbow Strike",
+  "file_name": "Namekian Elbow Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c51aae5947df01166410ebbc203228711ecf982b"
+ },
+ "vision": {
+  "id": "S01_STR_S77",
+  "name": "Namekian Elbow Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S77",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, lower your opponent's anger 2 levels.) ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:262"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.3,
+  "header_text": "(NAMEKIAN ELBOW. STRIKE C) S77\n[i ~ &@",
+  "stages_text": "0",
+  "error": null
+ }
+}

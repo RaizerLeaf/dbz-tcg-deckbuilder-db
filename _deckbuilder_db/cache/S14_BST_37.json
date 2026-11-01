@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_37",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "37_Pikkon's Taunt.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/37_Pikkon's Taunt.png",
+  "prefix": null,
+  "number": 37,
+  "card_number": "37",
+  "name_part": "Pikkon's Taunt",
+  "file_name": "Pikkon's Taunt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8fac12ed41d8447fc25c729b08094a468cbf9fae"
+ },
+ "vision": {
+  "id": "S14_BST_37",
+  "name": "Pikkon's Taunt",
+  "sub": null,
+  "type": "Event",
+  "num": "R37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Instant] POWER: Use when your opponent performs an attack. The immediate effects of that attack become HIT effects instead. Draw a card.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; number area reads 'PREVIEW R37'",
+  "_src": "S14.jsonl:37"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.8,
+  "header_text": "PREVIEW\nPIKKON'S TAUNT () R37\nBE. =~ ee ee",
+  "stages_text": "6\n5,",
+  "error": null
+ }
+}

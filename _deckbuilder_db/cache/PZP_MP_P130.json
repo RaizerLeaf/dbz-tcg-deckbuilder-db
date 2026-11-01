@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P130",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P130_Yamcha - Surprised.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P130_Yamcha - Surprised.png",
+  "prefix": "P",
+  "number": 130,
+  "card_number": "P130",
+  "name_part": "Yamcha - Surprised",
+  "file_name": "Yamcha",
+  "file_subtitle": "Surprised",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d3ef5112176ba7571731c1a7038d4eeddea8258b"
+ },
+ "vision": {
+  "id": "PZP_MP_P130",
+  "name": "Yamcha",
+  "sub": "Surprised",
+  "type": "Main Personality",
+  "num": "P130",
+  "lvl": 3,
+  "stages": [
+   200000,
+   180000,
+   160000,
+   140000,
+   120000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(When you advance to this level, you may draw a card.)\n[Continuous]: Your energy attacks cost -1 stage (to a minimum of 0) and are Unpreventable.\nPOWER: Draw a card. Lower your opponent's anger 2.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:188"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "YAMCHA\n: SURPRISED P190",
+  "stages_text": "200,000\n180,000\n160,000\n140,000\n120,000\n100,000\n80,000\n60,000\n\n, 40,000\n20,000\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P14",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P14_Goku - Super Saiyan God.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P14_Goku - Super Saiyan God.png",
+  "prefix": "P",
+  "number": 14,
+  "card_number": "P14",
+  "name_part": "Goku - Super Saiyan God",
+  "file_name": "Goku",
+  "file_subtitle": "Super Saiyan God",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "45c17905f1621f88c51291798b33c3c5802422cc"
+ },
+ "vision": {
+  "id": "PZP_MP_P14",
+  "name": "Goku",
+  "sub": "Super Saiyan God",
+  "type": "Main Personality",
+  "num": "P14",
+  "lvl": 1,
+  "stages": [
+   100000000,
+   10000000,
+   1000000,
+   500000,
+   250000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "God",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: Destroy the top card of your Life Deck to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 P5",
+  "_src": "PZP.jsonl:71"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "1 Goku\nLEVEL SUPER SAIYAN GOD () P14",
+  "stages_text": "100,000,000\n10,000,000\n1,000,000\n500,000\n250,000\n100,000\n50,000\n25,000\n10,000\n, 5,000\n0",
+  "error": null
+ }
+}

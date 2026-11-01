@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_107",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "107_Visiting the Past (Frozen).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/107_Visiting the Past (Frozen).png",
+  "prefix": null,
+  "number": 107,
+  "card_number": "107",
+  "name_part": "Visiting the Past",
+  "file_name": "Visiting the Past",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Frozen"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "06aeba488d4400288d29de35ffc35ca75de39b3d"
+ },
+ "vision": {
+  "id": "S01_BST_107",
+  "name": "Visiting the Past",
+  "sub": null,
+  "type": "Setup",
+  "num": "U107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. Banish after use.) [Instant] POWER: Use when entering combat. Search your discard pile for a card and place it into your hand. If you have more than 3 cards in your hand, place a card from your hand at the bottom of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.8,
+  "header_text": "© ISITIN G THE PASTS. €© W107 ©",
+  "stages_text": "2",
+  "error": null
+ }
+}

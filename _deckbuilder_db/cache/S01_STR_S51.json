@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S51",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S51_Black Lightning Storm.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S51_Black Lightning Storm.jpg",
+  "prefix": "S",
+  "number": 51,
+  "card_number": "S51",
+  "name_part": "Black Lightning Storm",
+  "file_name": "Black Lightning Storm",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "b18db0aa5adc479274473888bcd811c340a45623"
+ },
+ "vision": {
+  "id": "S01_STR_S51",
+  "name": "Black Lightning Storm",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S51",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. HIT: Your opponent plays with his hand revealed until the start of your next turn.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:236"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "(BLACK LIGHTNING. STORM C) Ssl\n| ‘i e iA 4S Ga",
+  "stages_text": "3",
+  "error": null
+ }
+}

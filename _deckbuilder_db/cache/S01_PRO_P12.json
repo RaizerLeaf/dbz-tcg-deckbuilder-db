@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P12",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P12_Stare Down.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P12_Stare Down.jpg",
+  "prefix": "P",
+  "number": 12,
+  "card_number": "P12",
+  "name_part": "Stare Down",
+  "file_name": "Stare Down",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0a398f1da8ef0a53bcbdcb4c902eae6dcd3ac09a"
+ },
+ "vision": {
+  "id": "S01_PRO_P12",
+  "name": "Stare Down",
+  "sub": null,
+  "type": "Event",
+  "num": "P12",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) POWER: Look at your opponent's hand and choose a card. Your opponent discards that card.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R151 (same text)",
+  "_src": "S01.jsonl:176"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.0,
+  "header_text": "Grace DOWNES © rie :\n_—— wy —",
+  "stages_text": "",
+  "error": null
+ }
+}

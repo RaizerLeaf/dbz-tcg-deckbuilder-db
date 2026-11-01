@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P2",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P2_Frieza - Transformed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P2_Frieza - Transformed.png",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Frieza - Transformed",
+  "file_name": "Frieza",
+  "file_subtitle": "Transformed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a1f25e3add7c934eea7fe7a8fa7a4d99ffa6f46e"
+ },
+ "vision": {
+  "id": "PZP_MP_P2",
+  "name": "Frieza",
+  "sub": "Transformed",
+  "type": "Main Personality",
+  "num": "P2",
+  "lvl": 2,
+  "stages": [
+   599000,
+   399000,
+   199000,
+   99000,
+   79000,
+   59000,
+   39000,
+   19000,
+   9000,
+   900,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: Discard a card from your hand to perform a copy of the last attack your opponent used this combat. That attack deals an additional +2 stages of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 S18 (no attack icon; 'perform a copy of the last attack')",
+  "_src": "PZP.jsonl:59"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.2,
+  "header_text": "ce FRIEZA y)\nLEVEL TRANSFORMED\nyr YL NY Wap Gaal",
+  "stages_text": "599,000\n399,000\n199,000\n99,000\n79,000\n59,000\n39,000\n19,000\n9,000\n\n900\n0",
+  "error": null
+ }
+}

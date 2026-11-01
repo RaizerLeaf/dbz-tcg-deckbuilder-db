@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_11",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "11_Recoome - Ginyu Force.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/11_Recoome - Ginyu Force.jpg",
+  "prefix": null,
+  "number": 11,
+  "card_number": "11",
+  "name_part": "Recoome - Ginyu Force",
+  "file_name": "Recoome",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e22f94dbbbdf53157740c12d8b42332ebf4ed03f"
+ },
+ "vision": {
+  "id": "S01_BST_11",
+  "name": "Recoome",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "C11",
+  "lvl": 1,
+  "stages": [
+   55000,
+   45000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Attack] POWER: Physical attack. DAMAGE: AT stages. HIT: You may have your MP pay 2 stages to draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 76.5,
+  "header_text": "1 REO C) cll.\n, LEVEL —~s Sw )lU —— peciteng",
+  "stages_text": "55,000\n45,000\n35,000\n30,000\n25,000\n20,000\n15,000\n10,000\n5,000\n\n2,500\n0",
+  "error": null
+ }
+}

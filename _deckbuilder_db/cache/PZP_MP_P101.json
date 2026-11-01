@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P101",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P101_Garlic Jr. - Commanding.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P101_Garlic Jr. - Commanding.png",
+  "prefix": "P",
+  "number": 101,
+  "card_number": "P101",
+  "name_part": "Garlic Jr. - Commanding",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Commanding",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bf1d6c38729b2c298337937706e3fda7b38cf664"
+ },
+ "vision": {
+  "id": "PZP_MP_P101",
+  "name": "Garlic Jr.",
+  "sub": "Commanding",
+  "type": "Main Personality",
+  "num": "P101",
+  "lvl": 1,
+  "stages": [
+   1500,
+   1300,
+   1100,
+   900,
+   700,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -1 life card. You need 2 less anger to advance a personality level.\nPOWER: Raise your anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:158"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "1 GARLIC IR.\nLEVEL COMMANDING rio",
+  "stages_text": "1,500\n1,300\n1,100\n900\n\n7\n700\n500\n400\n300\n200\n\n4\n100\n0",
+  "error": null
+ }
+}

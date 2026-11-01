@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_161",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "161_Heroic Plan.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/161_Heroic Plan.jpg",
+  "prefix": null,
+  "number": 161,
+  "card_number": "161",
+  "name_part": "Heroic Plan",
+  "file_name": "Heroic Plan",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3bbc05fc7858717e2f9fd8bc19b989a7c382ee44"
+ },
+ "vision": {
+  "id": "S01_BST_161",
+  "name": "Heroic Plan",
+  "sub": null,
+  "type": "Setup",
+  "num": "UR161",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. Limit 1 per deck. Banish after use.) POWER: Search your Life Deck for a Setup, Drill, or Ally and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame; UR rarity",
+  "_src": "S01.jsonl:161"
+ },
+ "ocr": {
+  "agreement": 0.92,
+  "lower_conf": 84.5,
+  "header_text": "{ LL  — —\n(HEROIC PLAN es () VARIG]",
+  "stages_text": ",2\n7",
+  "error": null
+ }
+}

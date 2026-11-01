@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_148",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "148_Saiyan Power Up.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/148_Saiyan Power Up.jpg",
+  "prefix": null,
+  "number": 148,
+  "card_number": "148",
+  "name_part": "Saiyan Power Up",
+  "file_name": "Saiyan Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4a8bff57e278d1c2b2b42aa5192511c082644503"
+ },
+ "vision": {
+  "id": "S01_BST_148",
+  "name": "Saiyan Power Up",
+  "sub": null,
+  "type": "Event",
+  "num": "R148",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your MP gains 6 stages. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:148"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.7,
+  "header_text": "(SAIYAN POWER UP. () aiae",
+  "stages_text": ",\n6",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_01",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "01_Namek Dragon Ball 1.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/01_Namek Dragon Ball 1.jpg",
+  "prefix": null,
+  "number": 1,
+  "card_number": "01",
+  "name_part": "Namek Dragon Ball 1",
+  "file_name": "Namek Dragon Ball 1",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "80e6ebd2cffa8b50a65b42076de2a50ead56464c"
+ },
+ "vision": {
+  "id": "S01_BST_01",
+  "name": "Namek Dragon Ball 1",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "C1",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your other Dragon Balls cannot be captured. Your attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:1"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.0,
+  "header_text": "(NAMEK DRAGON BALL 1 () C1",
+  "stages_text": "",
+  "error": null
+ }
+}

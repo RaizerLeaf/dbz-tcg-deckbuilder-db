@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_119",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "119_Piccolo’s Weighted Clothing.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/119_Piccolo’s Weighted Clothing.jpg",
+  "prefix": null,
+  "number": 119,
+  "card_number": "119",
+  "name_part": "Piccolo’s Weighted Clothing",
+  "file_name": "Piccolo’s Weighted Clothing",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9c4236ce986901c163acaf1edfaa869f1d149ce4"
+ },
+ "vision": {
+  "id": "S01_BST_119",
+  "name": "Piccolo's Weighted Clothing",
+  "sub": null,
+  "type": "Event",
+  "num": "U119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is in your discard pile, you may banish it as an action to raise your anger 2 levels.) [Instant] POWER: Use when entering combat as the defender. Your opponent skips his first action this combat. Gain X stages. X = your PUR.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "al crc eee tern) Reanim ha ents aaa aN\n| ee —_—_ .\n{PICCOLO'S WEIGHTED CLOTHING C) W119",
+  "stages_text": "4 ,\n21",
+  "error": null
+ }
+}

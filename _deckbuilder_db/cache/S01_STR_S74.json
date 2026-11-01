@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S74",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S74_Blue Torpedo.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S74_Blue Torpedo.jpg",
+  "prefix": "S",
+  "number": 74,
+  "card_number": "S74",
+  "name_part": "Blue Torpedo",
+  "file_name": "Blue Torpedo",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e9e6b8fef814cc58d3c4560fb9fec68f21d47b07"
+ },
+ "vision": {
+  "id": "S01_STR_S74",
+  "name": "Blue Torpedo",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S74",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, put the top Energy Combat card from your discard pile at the bottom of your Life Deck.) ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:259"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.3,
+  "header_text": "(BLUE TORPEDO veo () Sra",
+  "stages_text": "",
+  "error": null
+ }
+}

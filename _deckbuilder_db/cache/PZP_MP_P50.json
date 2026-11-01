@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P50",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P50_Vegeta - Super Saiyan.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P50_Vegeta - Super Saiyan.png",
+  "prefix": "P",
+  "number": 50,
+  "card_number": "P50",
+  "name_part": "Vegeta - Super Saiyan",
+  "file_name": "Vegeta",
+  "file_subtitle": "Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f9638b004a6dcebf7e11ba1c5a8272b409d29607"
+ },
+ "vision": {
+  "id": "PZP_MP_P50",
+  "name": "Vegeta",
+  "sub": "Super Saiyan",
+  "type": "Main Personality",
+  "num": "P50",
+  "lvl": 3,
+  "stages": [
+   1000000,
+   900000,
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: The first time each combat a card effect requires you to discard 1 card from your hand, you may reveal that card instead. Whenever you perform a Styled attack, you may choose for that attack to deal its life card damage as stages of damage instead or vice versa.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:107"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "=3 VEGETA\nLEVEL SUPER SAIYAN () P50\ni Te aw",
+  "stages_text": "1,000,000\n900,000\n800,000\n700,000\n\n600,000\n\n500,000\n\n400,000\n300,000\n200,000\n\n100,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_157",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "157_Krillin’s Destructo Disk.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/157_Krillin’s Destructo Disk.jpg",
+  "prefix": null,
+  "number": 157,
+  "card_number": "157",
+  "name_part": "Krillin’s Destructo Disk",
+  "file_name": "Krillin’s Destructo Disk",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9e1e2d78e6e0f8eebf6f62cc8827c67bfd373124"
+ },
+ "vision": {
+  "id": "S01_BST_157",
+  "name": "Krillin's Destructo Disk",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R157",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. This attack cannot be stopped or have its damage prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:157"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.9,
+  "header_text": "EET ET TT TCT TO IT TE a I a TI\n{ — EEE —\n(KRILLIN'S DESTRUCTOQ-DISK () AlSs7\nCO ee ee",
+  "stages_text": "",
+  "error": null
+ }
+}

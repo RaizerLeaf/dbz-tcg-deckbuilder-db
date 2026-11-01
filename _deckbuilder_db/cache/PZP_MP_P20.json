@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P20",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P20_Piccolo - Stoic.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P20_Piccolo - Stoic.png",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Piccolo - Stoic",
+  "file_name": "Piccolo",
+  "file_subtitle": "Stoic",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4a88a7a841e27a3130aae7e683f591ce3a4b1197"
+ },
+ "vision": {
+  "id": "PZP_MP_P20",
+  "name": "Piccolo",
+  "sub": "Stoic",
+  "type": "Main Personality",
+  "num": "P20",
+  "lvl": 1,
+  "stages": [
+   8500,
+   7000,
+   5500,
+   4500,
+   3500,
+   2200,
+   1700,
+   1300,
+   1100,
+   900,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 1 stage.\nRejuvenate 1.\nDAMAGE: 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S21",
+  "_src": "PZP.jsonl:77"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "PICCOLO",
+  "stages_text": "8,500\n7,000\n\n5,500\n\n4,500\n\n5 3,500\n2,200\n1,700\n1,300\n\n1,100\n\n900\n0",
+  "error": null
+ }
+}

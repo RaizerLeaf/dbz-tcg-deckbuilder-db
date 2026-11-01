@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S02",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S02_Vegeta - Villainous.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S02_Vegeta - Villainous.jpg",
+  "prefix": "S",
+  "number": 2,
+  "card_number": "S02",
+  "name_part": "Vegeta - Villainous",
+  "file_name": "Vegeta",
+  "file_subtitle": "Villainous",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5f09ebcd00512d56ffa14cf56e715d8c8d07867a"
+ },
+ "vision": {
+  "id": "S01_STR_S02",
+  "name": "Vegeta",
+  "sub": "Villainous",
+  "type": "Main Personality",
+  "num": "S2",
+  "lvl": 2,
+  "stages": [
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Attack] POWER: Physical attack. DAMAGE: 4 stages. HIT: Your attacks that raise your anger deal +1 stage and +1 life card of damage this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:187"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.1,
+  "header_text": "VEGETA\nVILLAINOUS Ee) =",
+  "stages_text": "25,000\n,\n20,000\n15,000\n10,000\n7 5,000\n4,000\n3,000\n2,000\n1,000\n500\n0",
+  "error": null
+ }
+}

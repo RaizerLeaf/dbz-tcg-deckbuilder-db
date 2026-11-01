@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S104",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S104_Black Taunt.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S104_Black Taunt.jpg",
+  "prefix": "S",
+  "number": 104,
+  "card_number": "S104",
+  "name_part": "Black Taunt",
+  "file_name": "Black Taunt",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "83034bb591a34af4973afbc2537b273014825e43"
+ },
+ "vision": {
+  "id": "S01_STR_S104",
+  "name": "Black Taunt",
+  "sub": null,
+  "type": "Event",
+  "num": "S104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your opponent destroys the top X cards of his Life Deck. X = his current anger level + 1. Your opponent shuffles his hand into his Life Deck and draws the same number of cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:289"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.5,
+  "header_text": "(BLACK TAUNT vee () S104",
+  "stages_text": "",
+  "error": null
+ }
+}

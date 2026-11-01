@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S35",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S35_Red Burning Rage.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S35_Red Burning Rage.jpg",
+  "prefix": "S",
+  "number": 35,
+  "card_number": "S35",
+  "name_part": "Red Burning Rage",
+  "file_name": "Red Burning Rage",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "6befee7afa2ed670f0f2347bedee3ccb68a6a8a3"
+ },
+ "vision": {
+  "id": "S01_STR_S35",
+  "name": "Red Burning Rage",
+  "sub": null,
+  "type": "Setup",
+  "num": "S35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Raise your anger 1 level. Your attacks deal +1 life card of damage and your opponent cannot use Endurance this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:220"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.1,
+  "header_text": "(RED BURNING RAGE» () sss",
+  "stages_text": "2",
+  "error": null
+ }
+}

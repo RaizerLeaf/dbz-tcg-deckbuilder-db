@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P109",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P109_Turles - Shadowy.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P109_Turles - Shadowy.png",
+  "prefix": "P",
+  "number": 109,
+  "card_number": "P109",
+  "name_part": "Turles - Shadowy",
+  "file_name": "Turles",
+  "file_subtitle": "Shadowy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9cecabe81da829ef0d37ca51609d9d74196ef68"
+ },
+ "vision": {
+  "id": "PZP_MP_P109",
+  "name": "Turles",
+  "sub": "Shadowy",
+  "type": "Main Personality",
+  "num": "P109",
+  "lvl": 1,
+  "stages": [
+   12000,
+   11500,
+   11000,
+   10500,
+   10000,
+   7000,
+   4000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +2 stages and are Unpreventable.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:166"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.3,
+  "header_text": "] TuRLES\nLEVEL SHADOWY € Pros",
+  "stages_text": "12,000\n11,500\n11,000\n10,500\n10,000\n1 7,000\n4,000\n1,000\n\n500\n\n250\n0",
+  "error": null
+ }
+}

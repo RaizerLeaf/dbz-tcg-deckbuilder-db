@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P27",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P27_Saiyan Rampaging Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P27_Saiyan Rampaging Mastery.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Saiyan Rampaging Mastery",
+  "file_name": "Saiyan Rampaging Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7d04cbfe1be8ba32430934fda7067b02762fda27"
+ },
+ "vision": {
+  "id": "S14_PRO_P27",
+  "name": "Saiyan Rampaging Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P27",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: You need 1 less anger to advance a personality level (to a minimum of 4). Your Styled attacks gain \"HIT: You may raise your anger 1.\"\nPOWER: Discard a Styled card with Endurance from your hand to perform a non-Styled physical attack dealing 1 + X stages. X = the amount of Endurance on the discarded card.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout; title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:80"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.1,
+  "header_text": "",
+  "stages_text": "4\n4,",
+  "error": null
+ }
+}

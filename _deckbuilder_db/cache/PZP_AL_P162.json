@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P162",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P162_Jeice - Ginyu Force.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P162_Jeice - Ginyu Force.png",
+  "prefix": "P",
+  "number": 162,
+  "card_number": "P162",
+  "name_part": "Jeice - Ginyu Force",
+  "file_name": "Jeice",
+  "file_subtitle": "Ginyu Force",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "320704670e53620d0f987eed47d0e2c273f65737"
+ },
+ "vision": {
+  "id": "PZP_AL_P162",
+  "name": "Jeice",
+  "sub": "Ginyu Force",
+  "type": "Ally",
+  "num": "P162",
+  "lvl": 1,
+  "stages": [
+   65000,
+   60000,
+   55000,
+   45000,
+   35000,
+   25000,
+   15000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] 2: Energy attack.\nRaise a player's anger 1.\nDAMAGE: 5 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. Printed 'JEICE' here; the S01 U72 printing spells it 'JIECE'. FanZ update of S01 U72",
+  "_src": "PZP.jsonl:8"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "1 ES ©)\nLEVEL | GINYU FORCE P162",
+  "stages_text": "65,000\n60,000\n55,000\n45,000\n35,000\n725,000\n15,000\n5,000\n2,500\n5, 1,250\n0",
+  "error": null
+ }
+}

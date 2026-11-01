@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_33",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "33_Namekian Maximum Will.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/33_Namekian Maximum Will.jpg",
+  "prefix": null,
+  "number": 33,
+  "card_number": "33",
+  "name_part": "Namekian Maximum Will",
+  "file_name": "Namekian Maximum Will",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c0a63d2add470995f3fcdc891b0835fa777779e5"
+ },
+ "vision": {
+  "id": "S01_BST_33",
+  "name": "Namekian Maximum Will",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. You may destroy up to 2 cards from the top of your Life Deck. For each card destroyed, lower your opponent's anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:33"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "| j— =< SS — |",
+  "stages_text": "57 ,",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P180",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P180_Dr. Wheelo - Intelligent.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P180_Dr. Wheelo - Intelligent.png",
+  "prefix": "P",
+  "number": 180,
+  "card_number": "P180",
+  "name_part": "Dr. Wheelo - Intelligent",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Intelligent",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9e660c940a98ac4f55fc39c04b5c3bc0396bc70"
+ },
+ "vision": {
+  "id": "PZP_AL_P180",
+  "name": "Dr. Wheelo",
+  "sub": "Intelligent",
+  "type": "Ally",
+  "num": "P180",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, or Setup in play and shuffle that card into its owner's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'. R badge = Android (CRD lists Dr. Wheelo as Android + Earthling)",
+  "_src": "PZP.jsonl:27"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "LDR. WHEELO\nLEVEL INTELLIGENT € prec",
+  "stages_text": "10\n9\n8\n7\n6\n7 5\n4\n4\n3\n4 2\n1\n0",
+  "error": null
+ }
+}

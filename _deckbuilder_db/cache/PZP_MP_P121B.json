@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P121B",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P121B_Android 16 - Distracted.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P121B_Android 16 - Distracted.png",
+  "prefix": "P",
+  "number": 121,
+  "card_number": "P121B",
+  "name_part": "Android 16 - Distracted",
+  "file_name": "Android 16",
+  "file_subtitle": "Distracted",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "397443e49cbdbe6972adcbe9a86690306899c307"
+ },
+ "vision": {
+  "id": "PZP_MP_P121B",
+  "name": "Android 16",
+  "sub": "Distracted",
+  "type": "Main Personality",
+  "num": "P121",
+  "lvl": 2,
+  "stages": [
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   80000,
+   60000,
+   40000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card. Cards in all Life Decks without Endurance gain \"Endurance 1.\"\nPOWER: Place a non-Personality card that is Alignment-restricted from your discard pile at the bottom of your Life Deck to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). Card prints plain 'P121' (same number as the Level 1 'BONUS P121'); the 'B' is filename-only",
+  "_src": "PZP.jsonl:179"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "— ANDROID 16\nLEVEL DISTRACTED riz",
+  "stages_text": ", 900,000\n700,000\n500,000\n300,000\n\n100,000\n\n80,000\n\n60,000\n40,000\n20,000\n\n10,000\n\n0",
+  "error": null
+ }
+}

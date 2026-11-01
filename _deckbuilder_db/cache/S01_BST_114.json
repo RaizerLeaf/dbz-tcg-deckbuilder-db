@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_114",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "114_Quickness Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/114_Quickness Drill.jpg",
+  "prefix": null,
+  "number": 114,
+  "card_number": "114",
+  "name_part": "Quickness Drill",
+  "file_name": "Quickness Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9475c296e6bbc24adc6e201e64d4ac8893f74064"
+ },
+ "vision": {
+  "id": "S01_BST_114",
+  "name": "Quickness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "U114",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Instant]: When entering combat, you may discard a card from your hand to place the bottom card of your discard pile into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:114"
+ },
+ "ocr": {
+  "agreement": 0.926,
+  "lower_conf": 76.8,
+  "header_text": "(Gourckness oar © W114\n2 | =~ SADA — << |",
+  "stages_text": ",",
+  "error": null
+ }
+}

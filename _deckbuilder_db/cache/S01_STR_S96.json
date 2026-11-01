@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S96",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S96_Black Smoothness Drill (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S96_Black Smoothness Drill (CRD).png",
+  "prefix": "S",
+  "number": 96,
+  "card_number": "S96",
+  "name_part": "Black Smoothness Drill",
+  "file_name": "Black Smoothness Drill",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "494f7cea5b090480ac5ba7f2dd1a53e9f5f88618"
+ },
+ "vision": {
+  "id": "S01_STR_S96",
+  "name": "Black Smoothness Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S96",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your maximum hand size is +1 during the Discard Step.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:281"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.4,
+  "header_text": "(BLACK SMOOTHNESS: DRILL C) sss\n[—_———_—_",
+  "stages_text": "",
+  "error": null
+ }
+}

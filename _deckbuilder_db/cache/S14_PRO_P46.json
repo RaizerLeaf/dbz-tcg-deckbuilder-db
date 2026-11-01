@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P46",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P46_Tug of War.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P46_Tug of War.png",
+  "prefix": "P",
+  "number": 46,
+  "card_number": "P46",
+  "name_part": "Tug of War",
+  "file_name": "Tug of War",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4ac0682fd066310baab066ccd290317d648e7f80"
+ },
+ "vision": {
+  "id": "S14_PRO_P46",
+  "name": "Tug of War",
+  "sub": null,
+  "type": "Event",
+  "num": "P46",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this card is discarded or destroyed from your Life Deck, banish an Ally.)\nPOWER: Banish an Ally. Lower your opponent's anger 2. Shuffle into your Life Deck after use.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S14.jsonl:99"
+ },
+ "ocr": {
+  "agreement": 0.939,
+  "lower_conf": 86.6,
+  "header_text": "TUG OF WAR =) Pag\nnee RS Ae",
+  "stages_text": ",",
+  "error": null
+ }
+}

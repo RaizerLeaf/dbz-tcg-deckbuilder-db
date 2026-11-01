@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P154",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P154_Mercenary Tao - Shielded.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P154_Mercenary Tao - Shielded.png",
+  "prefix": "P",
+  "number": 154,
+  "card_number": "P154",
+  "name_part": "Mercenary Tao - Shielded",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Shielded",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b6d14c1fc238ebabd530c5954692b744bbbcbdb"
+ },
+ "vision": {
+  "id": "PZP_MP_P154",
+  "name": "Mercenary Tao",
+  "sub": "Shielded",
+  "type": "Main Personality",
+  "num": "P154",
+  "lvl": 4,
+  "stages": [
+   487,
+   467,
+   447,
+   427,
+   407,
+   387,
+   367,
+   347,
+   327,
+   307,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Android",
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever you perform an attack, banish the top card of your opponent's Life Deck.\nPOWER: Look at your opponent's hand and choose a non-Dragon Ball card in it. Banish that card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:212"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "a MERCENARY TAO f\n: SHIELDED P154",
+  "stages_text": "487\n467\n447\n427\n\n7\n407\n387\n367\n347\n327\n307\n0",
+  "error": null
+ }
+}

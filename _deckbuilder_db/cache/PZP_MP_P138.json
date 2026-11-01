@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P138",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P138_Broly - Legendary.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P138_Broly - Legendary.png",
+  "prefix": "P",
+  "number": 138,
+  "card_number": "P138",
+  "name_part": "Broly - Legendary",
+  "file_name": "Broly",
+  "file_subtitle": "Legendary",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "59c85cd8df9a4f947c09c2ba03707d8dccb99038"
+ },
+ "vision": {
+  "id": "PZP_MP_P138",
+  "name": "Broly",
+  "sub": "Legendary",
+  "type": "Main Personality",
+  "num": "P138",
+  "lvl": 3,
+  "stages": [
+   2000000,
+   1500000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: After your opponent's MP advances a level, all of your opponent's personalities lose 7 stages. Physical attacks performed by this personality deal +3 stages.\nPOWER: [Attack] Physical attack.\nYou may reveal 2 attack cards from your hand to draw a card.\nDAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:196"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.7,
+  "header_text": "= | BROLY\n: LEGENDARY P138",
+  "stages_text": "2,000,000\n1,500,000\n1,000,000\n500,000\n400,000\n300,000\n200,000\n100,000\n50,000\n25,000\n0",
+  "error": null
+ }
+}

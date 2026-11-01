@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_89",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "89_Namekian Zone Pressure.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/89_Namekian Zone Pressure.jpg",
+  "prefix": null,
+  "number": 89,
+  "card_number": "89",
+  "name_part": "Namekian Zone Pressure",
+  "file_name": "Namekian Zone Pressure",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "49f44c02f8615a27ad34bb2f9f8b1c538c6fedcb"
+ },
+ "vision": {
+  "id": "S01_BST_89",
+  "name": "Namekian Zone Pressure",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U89",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, banish a Setup or Drill in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:89"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "(NAMEKIAN ZONE PRESSURE C) UBS",
+  "stages_text": "44\n4\n143,",
+  "error": null
+ }
+}

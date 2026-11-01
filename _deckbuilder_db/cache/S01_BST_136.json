@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_136",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "136_Orange Adaptive Mastery.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/136_Orange Adaptive Mastery.jpg",
+  "prefix": null,
+  "number": 136,
+  "card_number": "136",
+  "name_part": "Orange Adaptive Mastery",
+  "file_name": "Orange Adaptive Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 911,
+  "height": 651,
+  "orientation": "landscape",
+  "sha1": "f0fb617df6588d14c450cbabd62904a46164bdac"
+ },
+ "vision": {
+  "id": "S01_BST_136",
+  "name": "Orange Adaptive Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "R136",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card of damage. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:136"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.9,
+  "header_text": "ORANGE ADAPTIVE: MASTERY () Riss",
+  "stages_text": null,
+  "error": null
+ }
+}

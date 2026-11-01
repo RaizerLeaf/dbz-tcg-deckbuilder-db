@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_14",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "14_Namekian Aggressive Burst.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/14_Namekian Aggressive Burst.png",
+  "prefix": null,
+  "number": 14,
+  "card_number": "14",
+  "name_part": "Namekian Aggressive Burst",
+  "file_name": "Namekian Aggressive Burst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3b1dd906c24da868545ed7c249d99eb0df9bd48f"
+ },
+ "vision": {
+  "id": "S14_BST_14",
+  "name": "Namekian Aggressive Burst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U14",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n[Attack] 2: Energy attack.\nDamage from this attack cannot be modified. If you control no Dragon Balls, Remain 1.\nDAMAGE: 5 life cards.\nHIT: Raise your anger 1. Lower your opponent's anger 1.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 0.947,
+  "lower_conf": 86.8,
+  "header_text": "NAMEKIAN AGGRESSIVE BURST )ui4\nTE FT",
+  "stages_text": ",\n,\n,1,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P37",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P37_Orange Escape.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P37_Orange Escape.png",
+  "prefix": "P",
+  "number": 37,
+  "card_number": "P37",
+  "name_part": "Orange Escape",
+  "file_name": "Orange Escape",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "652eab8af65375b629e8b670c423ad05128f42a3"
+ },
+ "vision": {
+  "id": "S14_PRO_P37",
+  "name": "Orange Escape",
+  "sub": null,
+  "type": "Setup",
+  "num": "P37",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: You may play a Drill from your hand to end combat.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Setup layout; FanZ reprint of S01 U92 (same text)",
+  "_src": "S14.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 94.7,
+  "header_text": "ORANGE ESCAPE () P3/\ndl re rrr, ~— ee",
+  "stages_text": null,
+  "error": null
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P209",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P209_Cell Jr. - Trapped.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P209_Cell Jr. - Trapped.png",
+  "prefix": "P",
+  "number": 209,
+  "card_number": "P209",
+  "name_part": "Cell Jr. - Trapped",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Trapped",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b4b90c0d2d9ad23c727877d62c10b4a3dc6ca07e"
+ },
+ "vision": {
+  "id": "PZP_AL_P209",
+  "name": "Cell Jr.",
+  "sub": "Trapped",
+  "type": "Ally",
+  "num": "P209",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 0,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "(This personality cannot gain stages.)\n[Continuous]: While you control 1 Ally, your effects that destroy cards from the top of your opponent's Life Deck have that amount increased by 1. If your MP is Cell, your opponent's attacks deal -1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout, purple frame); right edge reads 'VILLAIN ALLY'. PUR printed as 0",
+  "_src": "PZP.jsonl:56"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.4,
+  "header_text": "CELL JR.\n2, TRAPPED C) P209",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n\n0",
+  "error": null
+ }
+}

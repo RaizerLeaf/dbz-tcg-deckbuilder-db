@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_109",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "109_Blinding Energy Move.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/109_Blinding Energy Move.jpg",
+  "prefix": null,
+  "number": 109,
+  "card_number": "109",
+  "name_part": "Blinding Energy Move",
+  "file_name": "Blinding Energy Move",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "d1f9baf9edb55cc0194409a7ed2a4f05af8093ed"
+ },
+ "vision": {
+  "id": "S01_BST_109",
+  "name": "Blinding Energy Move",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U109",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 2 per deck. You must banish the top 2 cards of your Life Deck to play this card.) [Attack] Energy attack. DAMAGE: 3 life cards. At the beginning of the next action this combat, end combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 0.972,
+  "lower_conf": 83.9,
+  "header_text": "euinor NG ENERGY: MOVE © ey",
+  "stages_text": "4\n\n4\n\n, 4\n7",
+  "error": null
+ }
+}

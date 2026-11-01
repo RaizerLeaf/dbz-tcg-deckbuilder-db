@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_45",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "45_Red Back Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/45_Red Back Kick.jpg",
+  "prefix": null,
+  "number": 45,
+  "card_number": "45",
+  "name_part": "Red Back Kick",
+  "file_name": "Red Back Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "129fb0fe9af42c635931c4621d88d0f04f8edd74"
+ },
+ "vision": {
+  "id": "S01_BST_45",
+  "name": "Red Back Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +3 stages. You may lower your anger 3 levels to stop all energy attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.7,
+  "header_text": "(RED BACK KICK. (cas",
+  "stages_text": "7\n3\n,",
+  "error": null
+ }
+}

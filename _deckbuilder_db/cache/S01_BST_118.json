@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_118",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "118_Krillin’s Solar Flare.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/118_Krillin’s Solar Flare.jpg",
+  "prefix": null,
+  "number": 118,
+  "card_number": "118",
+  "name_part": "Krillin’s Solar Flare",
+  "file_name": "Krillin’s Solar Flare",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "d468bef084bf34790565f130ad64ee056dbb8b8e"
+ },
+ "vision": {
+  "id": "S01_BST_118",
+  "name": "Krillin's Solar Flare",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U118",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Your opponent passes for his next action this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:118"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.9,
+  "header_text": "(KRILLIN'S SOLAR FLARE () W118\nee",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S113",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S113_Blue Neck Beam.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S113_Blue Neck Beam.jpg",
+  "prefix": "S",
+  "number": 113,
+  "card_number": "S113",
+  "name_part": "Blue Neck Beam",
+  "file_name": "Blue Neck Beam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "565358779a3d025c53e79256cd682de886c6c333"
+ },
+ "vision": {
+  "id": "S01_STR_S113",
+  "name": "Blue Neck Beam",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, your MP gains 4 stages.) ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Raise or lower your opponent's MP one personality level at the end of combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:298"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(BLUE NECK BEAM -:: () sus\n7 AG",
+  "stages_text": ",",
+  "error": null
+ }
+}

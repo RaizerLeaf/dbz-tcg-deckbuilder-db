@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P97",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P97_Dr. Wheelo - Big Brain.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P97_Dr. Wheelo - Big Brain.png",
+  "prefix": "P",
+  "number": 97,
+  "card_number": "P97",
+  "name_part": "Dr. Wheelo - Big Brain",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Big Brain",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0d8efa45563025cd75f72453ff44a6ae94b46908"
+ },
+ "vision": {
+  "id": "PZP_MP_P97",
+  "name": "Dr. Wheelo",
+  "sub": "Big Brain",
+  "type": "Main Personality",
+  "num": "P97",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "POWER: Destroy the top card of your Life Deck to destroy the top 2 cards of your opponent's Life Deck. Set your anger to 3.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:154"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.5,
+  "header_text": "LDR. WHEELO\nLEVEL BIG BRAIN () P97",
+  "stages_text": "10\n\n9\n\n8\n7\n6\n5\n4\n3\n\n2\n\n1\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P189",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P189_Android 18 - Smirking.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P189_Android 18 - Smirking.png",
+  "prefix": "P",
+  "number": 189,
+  "card_number": "P189",
+  "name_part": "Android 18 - Smirking",
+  "file_name": "Android 18",
+  "file_subtitle": "Smirking",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8f88f6b5639fae4bd9b1fab2efbc261d207b28c3"
+ },
+ "vision": {
+  "id": "PZP_AL_P189",
+  "name": "Android 18",
+  "sub": "Smirking",
+  "type": "Ally",
+  "num": "P189",
+  "lvl": 1,
+  "stages": [
+   130000,
+   110000,
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(If your MP is Android 17, you may use this Power regardless of your MP's power stage.)\nPOWER: Discard a card from your hand to perform a non-Styled physical attack dealing 2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.4,
+  "header_text": "1 or 18\nLEVEL | SMIRKING @ rss",
+  "stages_text": "130,000\n110,000\n90,000\n70,000\n50,000\n730,000\n10,000\n5,000\n1,000\n500\n0",
+  "error": null
+ }
+}

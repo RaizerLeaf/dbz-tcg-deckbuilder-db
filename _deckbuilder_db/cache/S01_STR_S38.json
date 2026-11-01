@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S38",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S38_Blue Mental Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S38_Blue Mental Drill.jpg",
+  "prefix": "S",
+  "number": 38,
+  "card_number": "S38",
+  "name_part": "Blue Mental Drill",
+  "file_name": "Blue Mental Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "42b7d4b26eab8b6246d7ed76463854c7cf343443"
+ },
+ "vision": {
+  "id": "S01_STR_S38",
+  "name": "Blue Mental Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Continuous]: Your opponent plays with his hand revealed.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:223"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.3,
+  "header_text": "ic LUE MENTAL DRILL @) cae\nll",
+  "stages_text": "2",
+  "error": null
+ }
+}

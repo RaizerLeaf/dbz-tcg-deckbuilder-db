@@ -1,0 +1,5218 @@
+[
+ {
+  "card_id": "PZP_AL_P155",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": 0.636,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P156",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P157",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.2,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P158",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.6,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P159",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.2,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P160",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.1,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P161",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P162",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P163",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P164",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.4,
+  "stage_agreement": 0.818,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P165",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P166",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P166B",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P167",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P168",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P169",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P170",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.6,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P171",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P172",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.2,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P173",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.9,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P174",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P175",
+  "type": "Ally",
+  "text_agreement": 0.86,
+  "ocr_conf": 76.5,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P176",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P177",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P178",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.2,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P179",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P180",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P181",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P182",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.9,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P183",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P184",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P185",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.6,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P186",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.0,
+  "stage_agreement": 0.818,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P187",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P188",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P189",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.4,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P190",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P191",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P192",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P193",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P194",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.8,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P195",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P196",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P197",
+  "type": "Ally",
+  "text_agreement": 0.911,
+  "ocr_conf": 81.3,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P198",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.0,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P199",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P200",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P201",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.3,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P202",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P203",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.1,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P204",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.7,
+  "stage_agreement": 0.636,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P205",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P206",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P207",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.7,
+  "stage_agreement": 0.636,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P208",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_AL_P209",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_AL_P210",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.7,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P1",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P10",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P100",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P101",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P102",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.6,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P103",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P104",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P105",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P106",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P107",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P108",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P109",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P11",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P110",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P111",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P112",
+  "type": "Main Personality",
+  "text_agreement": 0.966,
+  "ocr_conf": 83.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P113",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P114",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P115",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P116",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P117",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P118",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P119",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P12",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P120",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.3,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P121A",
+  "type": "Main Personality",
+  "text_agreement": 0.877,
+  "ocr_conf": 73.1,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P121B",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P122",
+  "type": "Main Personality",
+  "text_agreement": 0.984,
+  "ocr_conf": 79.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P123",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P124",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P125",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P126",
+  "type": "Main Personality",
+  "text_agreement": 0.903,
+  "ocr_conf": 75.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P127",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P128",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P129",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P13",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P130",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P131",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P132",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P133",
+  "type": "Main Personality",
+  "text_agreement": 0.865,
+  "ocr_conf": 81.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P134",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P135",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P136",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P137",
+  "type": "Main Personality",
+  "text_agreement": 0.94,
+  "ocr_conf": 80.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P138",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P139",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P14",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P140",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P141",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P142",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P143",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P144",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P145",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P146",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P147",
+  "type": "Main Personality",
+  "text_agreement": 0.893,
+  "ocr_conf": 76.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P148",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P149",
+  "type": "Main Personality",
+  "text_agreement": 0.885,
+  "ocr_conf": 78.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P15",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P150",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.9,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P151",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.7,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P152",
+  "type": "Main Personality",
+  "text_agreement": 0.978,
+  "ocr_conf": 80.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P153",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P154",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P16",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P17",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P18",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P19",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P2",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P20",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P21",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P211",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P212",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P213",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P214",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P22",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P23",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.9,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P24",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P25",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P26",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P27",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P28",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P29",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P3",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P30",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.0,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P31",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P32",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.3,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P33",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P34",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P35",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P36",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P37",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P38",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P39",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.3,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P4",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P40",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P41",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P43_05fac4",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P43_b18684",
+  "type": "Main Personality",
+  "text_agreement": 0.936,
+  "ocr_conf": 81.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P44",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P45",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P46",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P47",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P48",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P49",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P5",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P50",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P51",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P52",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.8,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "PZP_MP_P53",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P54",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P55",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P56",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P57",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P58",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P59",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P6",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P60",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P61",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P62",
+  "type": "Main Personality",
+  "text_agreement": 0.98,
+  "ocr_conf": 78.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P63",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P64",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P65",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P66",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P67",
+  "type": "Main Personality",
+  "text_agreement": 0.943,
+  "ocr_conf": 79.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P68",
+  "type": "Main Personality",
+  "text_agreement": 0.942,
+  "ocr_conf": 82.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P69",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P7",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P70",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P71",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P72",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P73",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P74",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P75",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P76",
+  "type": "Main Personality",
+  "text_agreement": 0.979,
+  "ocr_conf": 81.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P77",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P78",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P79",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.3,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P8",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P80",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P81",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P82",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P83",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P84",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P85",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P86",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P87",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.9,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P88",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P89",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P9",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P90",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P91",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P92",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P93",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P94",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P95",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P96",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P97",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P98",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "PZP_MP_P99",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_01",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_02",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 66.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_03",
+  "type": "Dragon Ball",
+  "text_agreement": 0.92,
+  "ocr_conf": 80.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_04",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_05",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_06",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_07",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_08",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_09",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 70.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_10",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_100",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_101",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_102",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_103",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_104",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_105",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_106",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.6,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_107",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_108",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_109",
+  "type": "Energy Combat",
+  "text_agreement": 0.972,
+  "ocr_conf": 83.9,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_11",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.5,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_110",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_111",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_112",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_113",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_114",
+  "type": "Drill",
+  "text_agreement": 0.926,
+  "ocr_conf": 76.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_115",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_116",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_117",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 72.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_118",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_119",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_12",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 59.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_120",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_121",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_122",
+  "type": "Mastery",
+  "text_agreement": 0.978,
+  "ocr_conf": 89.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_123",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_124",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_125",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_126",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_127",
+  "type": "Mastery",
+  "text_agreement": 0.962,
+  "ocr_conf": 84.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_128",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_129",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_13",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_130",
+  "type": "Physical Combat",
+  "text_agreement": 0.973,
+  "ocr_conf": 90.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_131",
+  "type": "Mastery",
+  "text_agreement": 0.957,
+  "ocr_conf": 74.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_132",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_133",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_134",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_135",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_136",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_137",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_138",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_139",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_14",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_140",
+  "type": "Mastery",
+  "text_agreement": 0.95,
+  "ocr_conf": 87.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_141",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_142",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_143",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_144",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_145",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_146",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_147",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_148",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_149",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_15",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_150",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 68.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_151",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_152",
+  "type": "Event",
+  "text_agreement": 0.95,
+  "ocr_conf": 78.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_153",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_154",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_155",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_156",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_157",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_158",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_159",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_16",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_160",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_161",
+  "type": "Setup",
+  "text_agreement": 0.92,
+  "ocr_conf": 84.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_162",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_163",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_164",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_17",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 71.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_18",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_19",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_20",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_21",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 67.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_22",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_23",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_24",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_25",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.3,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_26",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_27",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_28",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_29",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_30",
+  "type": "Energy Combat",
+  "text_agreement": 0.972,
+  "ocr_conf": 89.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_31",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_32",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_33",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_34",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_35",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_36",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 65.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_37",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_38",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_39",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_40",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_41",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_42",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_43",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_44",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_45",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_46",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_47",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_48",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_49",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_50",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_51",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_52",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_53",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_54",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_55",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_56",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_57",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_58",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_59",
+  "type": "Physical Combat",
+  "text_agreement": 0.966,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_60",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_61",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_62",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_63",
+  "type": "Dragon Ball",
+  "text_agreement": 1.0,
+  "ocr_conf": 70.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_64",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.0,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_65",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 71.2,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_66",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_67",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_68",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_69",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_70",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_71",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_72",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_73",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_74",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 93.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_75",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_76",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_77",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_78",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_79",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_80",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_81",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 93.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_82",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_83",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_84",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_85",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_86",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_87",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_88",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_89",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_90",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_91",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_92",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_93",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_94",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_95",
+  "type": "Physical Combat",
+  "text_agreement": 0.975,
+  "ocr_conf": 79.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_BST_96",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_97",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_98",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_BST_99",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P1",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 66.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P10",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P11",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P12",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P13",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P14",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P15",
+  "type": "Energy Combat",
+  "text_agreement": 0.917,
+  "ocr_conf": 76.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P16",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P17",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.7,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P18",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P19",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P2",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P20",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P21",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 72.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P3",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P4",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_PRO_P5",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P6",
+  "type": "Main Personality",
+  "text_agreement": 0.909,
+  "ocr_conf": 70.3,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P7",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.9,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P8",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_PRO_P9",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S01",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S02",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S03",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S04",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S05",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.6,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S06",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S07",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S08",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.4,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S09",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S10",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S100",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S101",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 68.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S102",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S103",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S104",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S105",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S106",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S107",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S108",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S109",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S11",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.8,
+  "stage_agreement": 0.818,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S110",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S111",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S112",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S113",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S114",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S115",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S116",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S117",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S118",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S119",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S12",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S120",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S121",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S122",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S123",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S124",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S125",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S126",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S127",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S128",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S129",
+  "type": "Energy Combat",
+  "text_agreement": 0.933,
+  "ocr_conf": 73.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S13",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S130",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 67.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S131",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S132",
+  "type": "Physical Combat",
+  "text_agreement": 0.926,
+  "ocr_conf": 85.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S133",
+  "type": "Physical Combat",
+  "text_agreement": 0.978,
+  "ocr_conf": 90.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S134",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S135",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S136",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S137",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S138",
+  "type": "Physical Combat",
+  "text_agreement": 0.933,
+  "ocr_conf": 64.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S139",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S14",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S140",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S141",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.9,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S142",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S143",
+  "type": "Physical Combat",
+  "text_agreement": 0.97,
+  "ocr_conf": 81.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S144",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S145",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S146",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S147",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S148",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 73.6,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S149",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 68.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S15",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S150",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S16",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 64.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S17",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 69.8,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S18",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S19",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.6,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S20",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.3,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S21",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.4,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S22",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.5,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S23",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S24",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S25",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S26",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S27",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 93.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S28",
+  "type": "Mastery",
+  "text_agreement": 0.956,
+  "ocr_conf": 83.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S29",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S30",
+  "type": "Mastery",
+  "text_agreement": 0.935,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S31",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S32",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S33",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S34",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S35",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S36",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.7,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S37",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S38",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.3,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S39",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S40",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S41",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S42",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.0,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S43",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 64.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S44",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S45",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S46",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S47",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S48",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S49",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S50",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S51",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S52",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S53",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S54",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S55",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S56",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S57",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 79.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S58",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S59",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S60",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 71.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S61",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S62",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S63",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S64",
+  "type": "Energy Combat",
+  "text_agreement": 0.933,
+  "ocr_conf": 73.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S65",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S66",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S67",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S68",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.3,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S69",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 62.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S70",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S71",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S72",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S73",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S74",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S75",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S76",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S77",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S78",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S79",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S80",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S81",
+  "type": "Physical Combat",
+  "text_agreement": 0.833,
+  "ocr_conf": 78.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S82",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S83",
+  "type": "Physical Combat",
+  "text_agreement": 0.857,
+  "ocr_conf": 80.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S84",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S85",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S86",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S87",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S88",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S89",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S90",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S91",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S92",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S93",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 84.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S94",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 93.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S95",
+  "type": "Setup",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S01_STR_S96",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S97",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S98",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S01_STR_S99",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_01",
+  "type": "Setup",
+  "text_agreement": 0.857,
+  "ocr_conf": 84.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_02",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 93.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_03",
+  "type": "Physical Combat",
+  "text_agreement": 0.941,
+  "ocr_conf": 87.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_04",
+  "type": "Energy Combat",
+  "text_agreement": 0.965,
+  "ocr_conf": 91.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_05",
+  "type": "Energy Combat",
+  "text_agreement": 0.969,
+  "ocr_conf": 93.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_06",
+  "type": "Drill",
+  "text_agreement": 0.848,
+  "ocr_conf": 89.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_07",
+  "type": "Drill",
+  "text_agreement": 0.818,
+  "ocr_conf": 92.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_08",
+  "type": "Event",
+  "text_agreement": 0.826,
+  "ocr_conf": 89.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_09",
+  "type": "Physical Combat",
+  "text_agreement": 0.952,
+  "ocr_conf": 87.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_10",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_11",
+  "type": "Drill",
+  "text_agreement": 0.895,
+  "ocr_conf": 87.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_12",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_13",
+  "type": "Physical Combat",
+  "text_agreement": 0.957,
+  "ocr_conf": 86.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_14",
+  "type": "Energy Combat",
+  "text_agreement": 0.947,
+  "ocr_conf": 86.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_15",
+  "type": "Energy Combat",
+  "text_agreement": 0.944,
+  "ocr_conf": 85.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_16",
+  "type": "Drill",
+  "text_agreement": 0.97,
+  "ocr_conf": 89.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_17",
+  "type": "Event",
+  "text_agreement": 0.889,
+  "ocr_conf": 86.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_18",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_19",
+  "type": "Physical Combat",
+  "text_agreement": 0.926,
+  "ocr_conf": 84.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_20",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_21",
+  "type": "Drill",
+  "text_agreement": 0.898,
+  "ocr_conf": 90.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_22",
+  "type": "Physical Combat",
+  "text_agreement": 0.96,
+  "ocr_conf": 89.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_23",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_24",
+  "type": "Energy Combat",
+  "text_agreement": 0.941,
+  "ocr_conf": 90.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_25",
+  "type": "Energy Combat",
+  "text_agreement": 0.958,
+  "ocr_conf": 86.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_26",
+  "type": "Setup",
+  "text_agreement": 0.907,
+  "ocr_conf": 83.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_27",
+  "type": "Drill",
+  "text_agreement": 0.857,
+  "ocr_conf": 88.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_28",
+  "type": "Physical Combat",
+  "text_agreement": 0.929,
+  "ocr_conf": 89.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_29",
+  "type": "Energy Combat",
+  "text_agreement": 0.969,
+  "ocr_conf": 92.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_30",
+  "type": "Energy Combat",
+  "text_agreement": 0.943,
+  "ocr_conf": 87.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_31",
+  "type": "Setup",
+  "text_agreement": 0.857,
+  "ocr_conf": 84.8,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_BST_32",
+  "type": "Drill",
+  "text_agreement": 0.111,
+  "ocr_conf": 72.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_33",
+  "type": "Energy Combat",
+  "text_agreement": 0.968,
+  "ocr_conf": 88.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_34",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_35",
+  "type": "Event",
+  "text_agreement": 0.926,
+  "ocr_conf": 85.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_36",
+  "type": "Event",
+  "text_agreement": 0.968,
+  "ocr_conf": 92.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_37",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.8,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_38",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 87.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_39",
+  "type": "Ally",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_40",
+  "type": "Ally",
+  "text_agreement": 0.951,
+  "ocr_conf": 79.0,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_BST_41",
+  "type": "Ally",
+  "text_agreement": 0.957,
+  "ocr_conf": 85.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_42",
+  "type": "Ally",
+  "text_agreement": 0.826,
+  "ocr_conf": 88.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_43",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_44",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.7,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_45",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_46",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 74.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_47",
+  "type": "Main Personality",
+  "text_agreement": 0.846,
+  "ocr_conf": 82.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_48",
+  "type": "Main Personality",
+  "text_agreement": 0.957,
+  "ocr_conf": 71.0,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_49",
+  "type": "Main Personality",
+  "text_agreement": 0.98,
+  "ocr_conf": 75.4,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_50",
+  "type": "Main Personality",
+  "text_agreement": 0.942,
+  "ocr_conf": 77.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_51",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 82.1,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_BST_52",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 78.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P1",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.3,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P10",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 80.4,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P11",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 72.1,
+  "stage_agreement": 0.636,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P12",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 68.5,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P13",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.7,
+  "stage_agreement": 1.0,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P14",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 70.8,
+  "stage_agreement": 0.545,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P15",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 62.7,
+  "stage_agreement": 0.636,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P16",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 76.0,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P17",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.7,
+  "stage_agreement": 0.455,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P18",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.7,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P19",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 89.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P2",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 81.9,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P20",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 83.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P21",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.6,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P22",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.5,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P23",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.2,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P24",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P25",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.7,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P26",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P27",
+  "type": "Mastery",
+  "text_agreement": 1.0,
+  "ocr_conf": 86.1,
+  "stage_agreement": null,
+  "title_in_header": false
+ },
+ {
+  "card_id": "S14_PRO_P28",
+  "type": "Drill",
+  "text_agreement": 0.935,
+  "ocr_conf": 94.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P29",
+  "type": "Drill",
+  "text_agreement": 0.9,
+  "ocr_conf": 92.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P3",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.0,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P30",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P31",
+  "type": "Setup",
+  "text_agreement": 0.914,
+  "ocr_conf": 94.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P32",
+  "type": "Drill",
+  "text_agreement": 1.0,
+  "ocr_conf": 95.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P33",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 90.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P34",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P35",
+  "type": "Setup",
+  "text_agreement": 0.921,
+  "ocr_conf": 94.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P36",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.3,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P37",
+  "type": "Setup",
+  "text_agreement": 0.933,
+  "ocr_conf": 94.7,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P38",
+  "type": "Drill",
+  "text_agreement": 0.947,
+  "ocr_conf": 94.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P39",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.0,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P4",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 77.2,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P40",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 92.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P41",
+  "type": "Energy Combat",
+  "text_agreement": 0.931,
+  "ocr_conf": 89.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P42",
+  "type": "Drill",
+  "text_agreement": 0.917,
+  "ocr_conf": 89.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P43",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.9,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P44",
+  "type": "Energy Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 91.2,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P45",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 88.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P46",
+  "type": "Event",
+  "text_agreement": 0.939,
+  "ocr_conf": 86.6,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P47",
+  "type": "Event",
+  "text_agreement": 1.0,
+  "ocr_conf": 94.1,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P48",
+  "type": "Physical Combat",
+  "text_agreement": 1.0,
+  "ocr_conf": 85.5,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P49",
+  "type": "Drill",
+  "text_agreement": 0.87,
+  "ocr_conf": 88.4,
+  "stage_agreement": null,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P5",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.2,
+  "stage_agreement": 0.909,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P6",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 75.3,
+  "stage_agreement": 0.818,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P7",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 70.7,
+  "stage_agreement": 0.636,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P8",
+  "type": "Main Personality",
+  "text_agreement": 1.0,
+  "ocr_conf": 67.9,
+  "stage_agreement": 1.0,
+  "title_in_header": true
+ },
+ {
+  "card_id": "S14_PRO_P9",
+  "type": "Main Personality",
+  "text_agreement": 0.967,
+  "ocr_conf": 67.3,
+  "stage_agreement": 0.909,
+  "title_in_header": false
+ }
+]

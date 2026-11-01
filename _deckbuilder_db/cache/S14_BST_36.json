@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_36",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "36_Buu's Company.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/36_Buu's Company.png",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Buu's Company",
+  "file_name": "Buu's Company",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "98b59ee496002740b621b74a04cdee3e9f11e547"
+ },
+ "vision": {
+  "id": "S14_BST_36",
+  "name": "Buu's Company",
+  "sub": null,
+  "type": "Event",
+  "num": "R36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 3.\n(You may play this card during your Planning Step. You may only have one \"Buu's Company\" attached.)\nPOWER: Attach to your MP. Search your Life Deck or Banished Zone for an Ally named \"Bee\" or \"Hercule\" and play it. While attached, at the end of your turn you may play an Ally named \"Bee\" or \"Hercule\" from your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S14.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 0.968,
+  "lower_conf": 92.1,
+  "header_text": "BUU'S COMPANY ) R36\nse 2. a",
+  "stages_text": "3\n7\n,",
+  "error": null
+ }
+}

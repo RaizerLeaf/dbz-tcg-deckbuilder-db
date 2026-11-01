@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S62",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S62_Saiyan Triangle Beams.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S62_Saiyan Triangle Beams.jpg",
+  "prefix": "S",
+  "number": 62,
+  "card_number": "S62",
+  "name_part": "Saiyan Triangle Beams",
+  "file_name": "Saiyan Triangle Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5f1c8f4bd2c4090a9633905d3c3348ed9535bbeb"
+ },
+ "vision": {
+  "id": "S01_STR_S62",
+  "name": "Saiyan Triangle Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S62",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. If you deal critical damage with this attack, you may use two different critical effects instead of one.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:247"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.7,
+  "header_text": "(SAIYAN TRIANGLE-BEAMS () sce",
+  "stages_text": "7",
+  "error": null
+ }
+}

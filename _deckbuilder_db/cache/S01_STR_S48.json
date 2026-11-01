@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S48",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S48_Orange Excavation.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S48_Orange Excavation.jpg",
+  "prefix": "S",
+  "number": 48,
+  "card_number": "S48",
+  "name_part": "Orange Excavation",
+  "file_name": "Orange Excavation",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "dfbbc25acf730b61c317d98514a2747ce59c0546"
+ },
+ "vision": {
+  "id": "S01_STR_S48",
+  "name": "Orange Excavation",
+  "sub": null,
+  "type": "Event",
+  "num": "S48",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Rejuvenate 3 Drills from your discard pile. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:233"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "(ORANGE EXCAVATION C) saa",
+  "stages_text": "",
+  "error": null
+ }
+}

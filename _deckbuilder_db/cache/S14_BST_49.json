@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_49",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "49_Buu - Devastated.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/49_Buu - Devastated.png",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Buu - Devastated",
+  "file_name": "Buu",
+  "file_subtitle": "Devastated",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c9af71c25f399e1869c060afc4aaf55decd9509e"
+ },
+ "vision": {
+  "id": "S14_BST_49",
+  "name": "Buu",
+  "sub": "Devastated",
+  "type": "Main Personality",
+  "num": "S49",
+  "lvl": 3,
+  "stages": [
+   3800000,
+   3200000,
+   2300000,
+   1600000,
+   1200000,
+   800000,
+   600000,
+   200000,
+   80000,
+   30000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: If a Bee or Hercule Ally is in your discard pile or Banished Zone, your attacks deal +2 life cards and gain \"HIT: Raise your anger 1.\"\nPOWER: [Attack] Energy attack.\nDestroy an Ally or Setup.\nDAMAGE: 4 life cards.\nHIT: Search your discard pile for a card and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO' -> Main Personality",
+  "_src": "S14.jsonl:50"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 75.4,
+  "header_text": "BUU",
+  "stages_text": "3,800,000\n3,200,000\n2,300,000\n1,600,000\n1,200,000\n800,000\n600,000\n200,000\n80,000\n30,000\n\n0",
+  "error": null
+ }
+}

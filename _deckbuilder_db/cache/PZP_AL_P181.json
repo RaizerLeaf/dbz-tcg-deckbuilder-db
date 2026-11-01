@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P181",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P181_Garlic Jr. - Confrontational.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P181_Garlic Jr. - Confrontational.png",
+  "prefix": "P",
+  "number": 181,
+  "card_number": "P181",
+  "name_part": "Garlic Jr. - Confrontational",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Confrontational",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3e04bed2800f012be3c3edf7c26550caecb8c0da"
+ },
+ "vision": {
+  "id": "PZP_AL_P181",
+  "name": "Garlic Jr.",
+  "sub": "Confrontational",
+  "type": "Ally",
+  "num": "P181",
+  "lvl": 1,
+  "stages": [
+   400,
+   375,
+   350,
+   325,
+   300,
+   275,
+   250,
+   225,
+   200,
+   175,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: The first attack each player performs during combat cannot have its damage modified.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:28"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.4,
+  "header_text": "L GARLIC JR. P7181\nLEVEL CONFRONTATIONAL",
+  "stages_text": "400\n\n375\n\n350\n325\n300\n7 275\n250\n225\n200\n175\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P77",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P77_Vegeta - Energized.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P77_Vegeta - Energized.png",
+  "prefix": "P",
+  "number": 77,
+  "card_number": "P77",
+  "name_part": "Vegeta - Energized",
+  "file_name": "Vegeta",
+  "file_subtitle": "Energized",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6411f27fd55d848bff171c9e17592832e3bdbe46"
+ },
+ "vision": {
+  "id": "PZP_MP_P77",
+  "name": "Vegeta",
+  "sub": "Energized",
+  "type": "Main Personality",
+  "num": "P77",
+  "lvl": 3,
+  "stages": [
+   1500000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   150000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(When you reach this level during combat, your opponent must pass for their next action this combat.)\n[Continuous]: The first time each combat one of your non-Styled attack cards is stopped, it stays in play to be used a second time this combat. Your non-Styled attacks deal +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "VEGETA",
+  "stages_text": "1,500,000\n1,200,000\n900,000\n600,000\n300,000\n150,000\n100,000\n50,000\n25,000\n12,500\n0",
+  "error": null
+ }
+}

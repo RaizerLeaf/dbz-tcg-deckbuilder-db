@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_121",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "121_Namek Dragon Ball 7.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/121_Namek Dragon Ball 7.jpg",
+  "prefix": null,
+  "number": 121,
+  "card_number": "121",
+  "name_part": "Namek Dragon Ball 7",
+  "file_name": "Namek Dragon Ball 7",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "752e5e2f70f4c012e416add013c620ecfab9a356"
+ },
+ "vision": {
+  "id": "S01_BST_121",
+  "name": "Namek Dragon Ball 7",
+  "sub": null,
+  "type": "Dragon Ball",
+  "num": "R121",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "Choose 3 cards from your discard pile and place them on top of your Life Deck. Destroy the top 3 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:121"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.1,
+  "header_text": "r NAMEK DRAGON: BALL 7 () 121",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P182",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P182_Lord Slug - Amazed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P182_Lord Slug - Amazed.png",
+  "prefix": "P",
+  "number": 182,
+  "card_number": "P182",
+  "name_part": "Lord Slug - Amazed",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Amazed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c33e9c4112efa937f956ce380b5e4ea34d5bd534"
+ },
+ "vision": {
+  "id": "PZP_AL_P182",
+  "name": "Lord Slug",
+  "sub": "Amazed",
+  "type": "Ally",
+  "num": "P182",
+  "lvl": 1,
+  "stages": [
+   125000,
+   75000,
+   25000,
+   20000,
+   15000,
+   10000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "POWER: Place the top 3 Styled Events in your discard pile at the bottom of your Life Deck. Shuffle \"Lord Slug\" into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.9,
+  "header_text": "1 Foe SLUG\nLEVEL | AMAZED Qe",
+  "stages_text": "125,000\n75,000\n25,000\n20,000\n15,000\n710,000\n5,000\n4,000\n3,000\n2,000\n\n0",
+  "error": null
+ }
+}

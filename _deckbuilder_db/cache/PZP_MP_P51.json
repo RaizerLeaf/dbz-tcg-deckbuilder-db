@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P51",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P51_Vegeta - Elite.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P51_Vegeta - Elite.png",
+  "prefix": "P",
+  "number": 51,
+  "card_number": "P51",
+  "name_part": "Vegeta - Elite",
+  "file_name": "Vegeta",
+  "file_subtitle": "Elite",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8a1a44be36865107a188297f106242337eb94cc9"
+ },
+ "vision": {
+  "id": "PZP_MP_P51",
+  "name": "Vegeta",
+  "sub": "Elite",
+  "type": "Main Personality",
+  "num": "P51",
+  "lvl": 4,
+  "stages": [
+   1750000,
+   1550000,
+   1350000,
+   1150000,
+   950000,
+   750000,
+   550000,
+   350000,
+   250000,
+   150000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: The first Styled physical attack you perform each combat cannot be stopped. The first Styled energy attack you perform each combat gains \"HIT: Search your discard pile for a physical attack card and place it into your hand.\"",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Hero Vegeta",
+  "_src": "PZP.jsonl:108"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.3,
+  "header_text": "ZA VEGETA\nLEVEL ELITE () Pal\nne iD i rf,  #g",
+  "stages_text": "1,750,000\n1,550,000\n1,350,000\n1,150,000\n950,000\n750,000\n550,000\n350,000\n250,000\n150,000\n0",
+  "error": null
+ }
+}

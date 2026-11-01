@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S72",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S72_Black Entanglement.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S72_Black Entanglement.jpg",
+  "prefix": "S",
+  "number": 72,
+  "card_number": "S72",
+  "name_part": "Black Entanglement",
+  "file_name": "Black Entanglement",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0aaa6ce5ee1195aa06c608e3b1167194d6ae4667"
+ },
+ "vision": {
+  "id": "S01_STR_S72",
+  "name": "Black Entanglement",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S72",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. HIT: Your opponent reveals his hand and banishes any Setups or Drills in his hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:257"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.1,
+  "header_text": "(BLACK ENTANGLEMENT C) —",
+  "stages_text": "5",
+  "error": null
+ }
+}

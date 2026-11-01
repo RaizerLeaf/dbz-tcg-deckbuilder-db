@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P194",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P194_Android 16 - Unmoving.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P194_Android 16 - Unmoving.png",
+  "prefix": "P",
+  "number": 194,
+  "card_number": "P194",
+  "name_part": "Android 16 - Unmoving",
+  "file_name": "Android 16",
+  "file_subtitle": "Unmoving",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "b28a76c18ed6dbb646c3b745b7ad9a8874493d66"
+ },
+ "vision": {
+  "id": "PZP_AL_P194",
+  "name": "Android 16",
+  "sub": "Unmoving",
+  "type": "Ally",
+  "num": "P194",
+  "lvl": 1,
+  "stages": [
+   100000,
+   90000,
+   80000,
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Continuous]: If your MP has \"Android\" in the title, your opponent's attacks deal -2 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "1 ome 16 C)\nLEVEL | UNMOVING P194",
+  "stages_text": "100,000\n90,000\n80,000\n70,000\n60,000\n750,000\n40,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

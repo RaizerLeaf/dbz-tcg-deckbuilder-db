@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P21",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P21_Piccolo - Combat Stance.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P21_Piccolo - Combat Stance.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Piccolo - Combat Stance",
+  "file_name": "Piccolo",
+  "file_subtitle": "Combat Stance",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "19767ef3d78b085fe5223a0e87f9b3a16e7141ce"
+ },
+ "vision": {
+  "id": "PZP_MP_P21",
+  "name": "Piccolo",
+  "sub": "Combat Stance",
+  "type": "Main Personality",
+  "num": "P21",
+  "lvl": 2,
+  "stages": [
+   23000,
+   20000,
+   17000,
+   14000,
+   11000,
+   8000,
+   5000,
+   2000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "POWER: Discard a card from your hand to Rejuvenate 2 and destroy the top 2 cards of your opponent's Life Deck. If you discarded a Styled card, you may draw a card and use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S22",
+  "_src": "PZP.jsonl:78"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.1,
+  "header_text": "@ PICCOLO P71\nLEVEL COMBAT STANCE\nFT",
+  "stages_text": "23,000\n20,000\n17,000\n14,000\n\n11,000\n\n8,000\n\n5,000\n\n2,000\n\n1,000\n\n500\n0",
+  "error": null
+ }
+}

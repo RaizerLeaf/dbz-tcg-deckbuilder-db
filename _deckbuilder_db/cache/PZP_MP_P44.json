@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P44",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P44_Trunks - Returned.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P44_Trunks - Returned.png",
+  "prefix": "P",
+  "number": 44,
+  "card_number": "P44",
+  "name_part": "Trunks - Returned",
+  "file_name": "Trunks",
+  "file_subtitle": "Returned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0540a4491796accbb54b3085172d9f6646cbb38f"
+ },
+ "vision": {
+  "id": "PZP_MP_P44",
+  "name": "Trunks",
+  "sub": "Returned",
+  "type": "Main Personality",
+  "num": "P44",
+  "lvl": 1,
+  "stages": [
+   110000,
+   90000,
+   70000,
+   50000,
+   30000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nIf this attack is stopped, your opponent skips their next action this combat.\nDAMAGE: AT + 1 stage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:101"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.8,
+  "header_text": "TRUNKS",
+  "stages_text": "110,000\n90,000\n70,000\n50,000\n\n30,000\n10,000\n8,000\n6,000\n\n4,000\n\n2,000\n0",
+  "error": null
+ }
+}

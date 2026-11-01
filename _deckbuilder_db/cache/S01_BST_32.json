@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_32",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "32_Namekian Energy Toss.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/32_Namekian Energy Toss.jpg",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Namekian Energy Toss",
+  "file_name": "Namekian Energy Toss",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "15da54644d45f390580f74b80dcb848f38c5ddf8"
+ },
+ "vision": {
+  "id": "S01_BST_32",
+  "name": "Namekian Energy Toss",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 1 stage. DAMAGE: 4 life cards. If you control 2 or more Dragon Balls, all other attacks you perform this combat gain \"HIT: Rejuvenate 1.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.2,
+  "header_text": "(NAMEKIAN ENERGY TOSS () cae\n\"oy",
+  "stages_text": "4\n154",
+  "error": null
+ }
+}

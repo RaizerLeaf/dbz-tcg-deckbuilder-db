@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_86",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "86_Namekian Flinch (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/86_Namekian Flinch (CRD).png",
+  "prefix": null,
+  "number": 86,
+  "card_number": "86",
+  "name_part": "Namekian Flinch",
+  "file_name": "Namekian Flinch",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "74adc798a98965b19c45fc33eb39780df1e5106f"
+ },
+ "vision": {
+  "id": "S01_BST_86",
+  "name": "Namekian Flinch",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U86",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is Rejuvenated, search your discard pile for an Ally and place it into play at 3 stages above 0.) [Defense] Stops a physical attack. You may shuffle a Dragon Ball in play back into its owner's Life Deck. If your MP is level 3 or higher search your Life Deck for a Dragon Ball and play it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "(NAMEKIAN FLINCH «~~ () ves",
+  "stages_text": "7",
+  "error": null
+ }
+}

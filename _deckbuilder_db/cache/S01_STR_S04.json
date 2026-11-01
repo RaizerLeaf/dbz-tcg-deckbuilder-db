@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S04",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S04_Vegata - Renewed.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S04_Vegata - Renewed.jpg",
+  "prefix": "S",
+  "number": 4,
+  "card_number": "S04",
+  "name_part": "Vegata - Renewed",
+  "file_name": "Vegata",
+  "file_subtitle": "Renewed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f4aa1a64f68b602771a002aa2f05d8105ebe502d"
+ },
+ "vision": {
+  "id": "S01_STR_S04",
+  "name": "Vegeta",
+  "sub": "Renewed",
+  "type": "Main Personality",
+  "num": "S4",
+  "lvl": 4,
+  "stages": [
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Attack] POWER: Physical attack. DAMAGE: AT +6 stages. Lower your anger 1 level to draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN; filename typo 'Vegata'",
+  "_src": "S01.jsonl:189"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "VEGETA )\nGd RENEWED r) Ss4 }\n3 XN » enn ann",
+  "stages_text": "800,000\n700,000\n600,000\n500,000\n400,000\n\n4 300,000\n200,000\n100,000\n10,000\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P88",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P88_Nappa - Enraged.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P88_Nappa - Enraged.png",
+  "prefix": "P",
+  "number": 88,
+  "card_number": "P88",
+  "name_part": "Nappa - Enraged",
+  "file_name": "Nappa",
+  "file_subtitle": "Enraged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "34b74c1ae4ad32c5a887749b62279d3aaf69524b"
+ },
+ "vision": {
+  "id": "PZP_MP_P88",
+  "name": "Nappa",
+  "sub": "Enraged",
+  "type": "Main Personality",
+  "num": "P88",
+  "lvl": 4,
+  "stages": [
+   24000,
+   22000,
+   20000,
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +4 stages. If your opponent's MP's power level is 0, your attacks are Unpreventable.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:145"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "ES NAPPA\nLEVEL ENRAGED C) P88",
+  "stages_text": "24,000\n22,000\n20,000\n18,000\n\n7\n\n16,000\n\n14,000\n\n12,000\n10,000\n\n8,000\n\n6,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_12",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "12_Nappa - Space Traveler.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/12_Nappa - Space Traveler.jpg",
+  "prefix": null,
+  "number": 12,
+  "card_number": "12",
+  "name_part": "Nappa - Space Traveler",
+  "file_name": "Nappa",
+  "file_subtitle": "Space Traveler",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "27514ab7ccfdd6f8b42662e35064904b19bda740"
+ },
+ "vision": {
+  "id": "S01_BST_12",
+  "name": "Nappa",
+  "sub": "Space Traveler",
+  "type": "Ally",
+  "num": "C12",
+  "lvl": 1,
+  "stages": [
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   250,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Villains only.) [Continuous]: Setups cannot be used.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:12"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 59.3,
+  "header_text": "1 NAPPA tes C) Cie\n- SPACE TRAVELER ee\n: LEVEL —— _",
+  "stages_text": ", 8,000\n2 7,000\n6,000\n5,000\n\n4,000\n1 3,000\n2,000\n1,000\n500\n\n250\n\n0",
+  "error": null
+ }
+}

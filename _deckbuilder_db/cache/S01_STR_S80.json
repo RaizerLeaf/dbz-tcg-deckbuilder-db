@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S80",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S80_Red Power Lift.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S80_Red Power Lift.jpg",
+  "prefix": "S",
+  "number": 80,
+  "card_number": "S80",
+  "name_part": "Red Power Lift",
+  "file_name": "Red Power Lift",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "0e9971c06e32b187a992080cac8449419bb7f9d5"
+ },
+ "vision": {
+  "id": "S01_STR_S80",
+  "name": "Red Power Lift",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S80",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Attack] Physical attack. DAMAGE: AT +3 stages. Stops the next physical attack performed against you this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:265"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.9,
+  "header_text": "(RED POWER LIFT. = () a0\nTer a",
+  "stages_text": ",\n,,",
+  "error": null
+ }
+}

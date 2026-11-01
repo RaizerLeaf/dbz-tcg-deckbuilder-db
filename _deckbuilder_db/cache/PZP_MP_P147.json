@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P147",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P147_Cell Jr. - Taunting.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P147_Cell Jr. - Taunting.png",
+  "prefix": "P",
+  "number": 147,
+  "card_number": "P147",
+  "name_part": "Cell Jr. - Taunting",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Taunting",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a270d4eb002db146a194566a24e3e373efd9da95"
+ },
+ "vision": {
+  "id": "PZP_MP_P147",
+  "name": "Cell Jr.",
+  "sub": "Taunting",
+  "type": "Main Personality",
+  "num": "P147",
+  "lvl": 1,
+  "stages": [
+   500000,
+   300000,
+   100000,
+   70000,
+   40000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "(Your Life Deck may include up to 3 copies of each Ally with \"Cell Jr.\" in the title.)\nPOWER: [Attack] Physical attack.\nYou may discard an Ally with \"Cell Jr.\" in the title from your hand. If you do, Unstoppable.\nDAMAGE: 4 stages.\nHIT: Search your Life Deck for a card with a [Continuous] effect and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:205"
+ },
+ "ocr": {
+  "agreement": 0.893,
+  "lower_conf": 76.7,
+  "header_text": "1 CELL OR.\n: TAUNTING P147",
+  "stages_text": "500,000\n300,000\n100,000\n\n70,000\n\n40,000\n\n10,000\n\n8,000\n\n6,000\n\n4,000\n\n2,000\n0",
+  "error": null
+ }
+}

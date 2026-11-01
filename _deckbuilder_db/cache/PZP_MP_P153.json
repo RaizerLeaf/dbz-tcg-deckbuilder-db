@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P153",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P153_Mercenary Tao - Armed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P153_Mercenary Tao - Armed.png",
+  "prefix": "P",
+  "number": 153,
+  "card_number": "P153",
+  "name_part": "Mercenary Tao - Armed",
+  "file_name": "Mercenary Tao",
+  "file_subtitle": "Armed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cdf2273670c17aafaaeaa473934a3057c26f4387"
+ },
+ "vision": {
+  "id": "PZP_MP_P153",
+  "name": "Mercenary Tao",
+  "sub": "Armed",
+  "type": "Main Personality",
+  "num": "P153",
+  "lvl": 3,
+  "stages": [
+   387,
+   357,
+   327,
+   297,
+   267,
+   237,
+   207,
+   177,
+   147,
+   117,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Android",
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever one of your attacks is stopped, banish the top card of your opponent's Life Deck. If a Dragon Ball is banished this way, you may play it.\nPOWER: The next non-Styled attack you perform this combat is Unstoppable.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:211"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.1,
+  "header_text": "=3 MERCENARY TAO\nLEVEL ARMED aE:\n~ BO",
+  "stages_text": "387\n\n357\n\n327\n\n297\n\n267\n237\n207\n177\n\n147\n\n117\n0",
+  "error": null
+ }
+}

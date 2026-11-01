@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_38",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "38_Orange Defensive Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/38_Orange Defensive Blast.jpg",
+  "prefix": null,
+  "number": 38,
+  "card_number": "38",
+  "name_part": "Orange Defensive Blast",
+  "file_name": "Orange Defensive Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f21471af6ded468a431c9b59e179ea4ddd533588"
+ },
+ "vision": {
+  "id": "S01_BST_38",
+  "name": "Orange Defensive Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C38",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: For the remainder of combat, cards in your Life Deck without Endurance gain \"Endurance 1.\"",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.3,
+  "header_text": "(ORANGE DEFENSIVE BLAST C) cae",
+  "stages_text": "069\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_09",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "09_Tenshinhan - Returned.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/09_Tenshinhan - Returned.jpg",
+  "prefix": null,
+  "number": 9,
+  "card_number": "09",
+  "name_part": "Tenshinhan - Returned",
+  "file_name": "Tenshinhan",
+  "file_subtitle": "Returned",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e7b7a3b4274c23faf529beaa0d42498d8762c8e4"
+ },
+ "vision": {
+  "id": "S01_BST_09",
+  "name": "Tenshinhan",
+  "sub": "Returned",
+  "type": "Ally",
+  "num": "C9",
+  "lvl": 1,
+  "stages": [
+   95000,
+   80000,
+   65000,
+   50000,
+   35000,
+   20000,
+   5000,
+   4000,
+   3000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.) [Attack] POWER: Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads ALLY",
+  "_src": "S01.jsonl:9"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 70.5,
+  "header_text": "TENSHINHAN |...\nRETURNED ae () cs\nLEVEL eS S",
+  "stages_text": "95,000\n80,000\n65,000\n50,000\n35,000\n20,000\n5,000\n4,000\n\n3,000\n\n2,000\n\n0",
+  "error": null
+ }
+}

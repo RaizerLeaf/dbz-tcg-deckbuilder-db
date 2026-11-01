@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S92",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S92_Namekian Fusion.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S92_Namekian Fusion.jpg",
+  "prefix": "S",
+  "number": 92,
+  "card_number": "S92",
+  "name_part": "Namekian Fusion",
+  "file_name": "Namekian Fusion",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f6c3a9dce54b9a195a26318f836eb7bfbfb64f4a"
+ },
+ "vision": {
+  "id": "S01_STR_S92",
+  "name": "Namekian Fusion",
+  "sub": null,
+  "type": "Setup",
+  "num": "S92",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Raise your MP to its highest power stage. Draw a card and reveal it to your opponent. If that card is Styled, Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:277"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "(NAMEKIAN FUSION. () sae",
+  "stages_text": "22\n,\n,",
+  "error": null
+ }
+}

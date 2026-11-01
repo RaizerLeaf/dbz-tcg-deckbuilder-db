@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_32",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "32_Showdown Drill.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/32_Showdown Drill.png",
+  "prefix": null,
+  "number": 32,
+  "card_number": "32",
+  "name_part": "Showdown Drill",
+  "file_name": "Showdown Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "aba2f1e3cc8f0f016c7a1274f833a92c1ff38026"
+ },
+ "vision": {
+  "id": "S14_BST_32",
+  "name": "Showdown Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "R32",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Players cannot draw cards from their non-Mastery effects.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Drill layout, grey (non-styled) frame; no Endurance badge",
+  "_src": "S14.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 0.111,
+  "lower_conf": 72.2,
+  "header_text": ": ¥ \\ de\nSHOWDOWN DRILL f ) R37\n. wd rs as ty . -e O7 —_— * a 2s",
+  "stages_text": null,
+  "error": null
+ }
+}

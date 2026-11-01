@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S20",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S20_Frieza - Revived.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S20_Frieza - Revived.jpg",
+  "prefix": "S",
+  "number": 20,
+  "card_number": "S20",
+  "name_part": "Frieza - Revived",
+  "file_name": "Frieza",
+  "file_subtitle": "Revived",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "15c7ef1cda4c00718996ca242f1a1d707b686362"
+ },
+ "vision": {
+  "id": "S01_STR_S20",
+  "name": "Frieza",
+  "sub": "Revived",
+  "type": "Main Personality",
+  "num": "S20",
+  "lvl": 4,
+  "stages": [
+   1400000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [],
+  "text": "POWER: Destroy the top 4 cards of your opponent's Life Deck. Search your Life Deck for a Frieza Named card and place it in your hand.\n[Continuous]: You may also use your Level 2 Powers.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads VILLAIN; no icon before the first POWER",
+  "_src": "S01.jsonl:205"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.3,
+  "header_text": "—— \\_\nFRIEZA\n4 REVIVED yr) S2o\nWA =s * 1 ANN NNN",
+  "stages_text": "1,400,000\n1,200,000\n1,000,000\n800,000\n7600,000\n1400,000\n2 200,000\n100,000\n\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

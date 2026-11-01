@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S129",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S129_Red Energy Shield.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S129_Red Energy Shield.jpg",
+  "prefix": "S",
+  "number": 129,
+  "card_number": "S129",
+  "name_part": "Red Energy Shield",
+  "file_name": "Red Energy Shield",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7be156dd5e03bdbd069e470245e89a92342819e3"
+ },
+ "vision": {
+  "id": "S01_STR_S129",
+  "name": "Red Energy Shield",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S129",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Defense] Stops an energy attack. Raise a personality to their highest power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:314"
+ },
+ "ocr": {
+  "agreement": 0.933,
+  "lower_conf": 73.7,
+  "header_text": "| RED ENERGY SHiekbDe () si2es\n, i yr 4",
+  "stages_text": "",
+  "error": null
+ }
+}

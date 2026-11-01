@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P35",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P35_Namekian Disturbance.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P35_Namekian Disturbance.png",
+  "prefix": "P",
+  "number": 35,
+  "card_number": "P35",
+  "name_part": "Namekian Disturbance",
+  "file_name": "Namekian Disturbance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "0fc9293ad5e6a0c2472eec0ce4dfaab91e1bd1cd"
+ },
+ "vision": {
+  "id": "S14_PRO_P35",
+  "name": "Namekian Disturbance",
+  "sub": null,
+  "type": "Setup",
+  "num": "P35",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Namek Dragon Ball with a number in the title that is less than or equal to your MP's personality level and play it.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Setup layout",
+  "_src": "S14.jsonl:88"
+ },
+ "ocr": {
+  "agreement": 0.921,
+  "lower_conf": 94.1,
+  "header_text": "NAMEKIAN DISTURBANCE () P35",
+  "stages_text": null,
+  "error": null
+ }
+}

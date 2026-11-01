@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_82",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "82_Blue Lunar Ray.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/82_Blue Lunar Ray.jpg",
+  "prefix": null,
+  "number": 82,
+  "card_number": "82",
+  "name_part": "Blue Lunar Ray",
+  "file_name": "Blue Lunar Ray",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3d77e65d82c6cdb926b81118ffde13e9d89982b4"
+ },
+ "vision": {
+  "id": "S01_BST_82",
+  "name": "Blue Lunar Ray",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U82",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. You may search your discard pile for an Ally and place it into play at 3 power stages above 0. HIT: Raise that ally to it's highest power stage.",
+  "conf": "high",
+  "review": null,
+  "note": "'it's' is the printed spelling",
+  "_src": "S01.jsonl:82"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.8,
+  "header_text": "(BLUE LUNAR RAY = C) uae\n_",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P17",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P17_Krillin - Ready for Battle.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P17_Krillin - Ready for Battle.png",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Krillin - Ready for Battle",
+  "file_name": "Krillin",
+  "file_subtitle": "Ready for Battle",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a0d3990ecec2bba6d6a752ca7ba0c49a4b175c15"
+ },
+ "vision": {
+  "id": "PZP_MP_P17",
+  "name": "Krillin",
+  "sub": "Ready For Battle",
+  "type": "Main Personality",
+  "num": "P17",
+  "lvl": 3,
+  "stages": [
+   375000,
+   300000,
+   225000,
+   150000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "POWER: [Attack] Energy attack costing 2 stages.\nDAMAGE: 9 - X life cards. X = the number of cards in your opponent's hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S15",
+  "_src": "PZP.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.0,
+  "header_text": "S53 KRILLIN P17\nLEVEL READY FOR BATTLE",
+  "stages_text": "375,000\n6300,000\n225,000\n150,000\n\n5 75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n0",
+  "error": null
+ }
+}

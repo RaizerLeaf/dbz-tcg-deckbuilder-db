@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P165",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P165_Gohan - Trained.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P165_Gohan - Trained.png",
+  "prefix": "P",
+  "number": 165,
+  "card_number": "P165",
+  "name_part": "Gohan - Trained",
+  "file_name": "Gohan",
+  "file_subtitle": "Trained",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "73f2b6b8b8aba93490c4846fa315032794e31efa"
+ },
+ "vision": {
+  "id": "PZP_AL_P165",
+  "name": "Gohan",
+  "sub": "Trained",
+  "type": "Ally",
+  "num": "P165",
+  "lvl": 1,
+  "stages": [
+   65000,
+   60000,
+   55000,
+   50000,
+   40000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever a player raises their anger, change that amount to 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:11"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "1 GOHAN\n/ LEVEL | TRAINED C) P165",
+  "stages_text": "65,000\n60,000\n55,000\n50,000\n40,000\n35,000\n30,000\n25,000\n20,000\n15,000\n\n0",
+  "error": null
+ }
+}

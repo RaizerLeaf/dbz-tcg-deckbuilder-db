@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S91",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S91_Blue Ki Build Up.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S91_Blue Ki Build Up.jpg",
+  "prefix": "S",
+  "number": 91,
+  "card_number": "S91",
+  "name_part": "Blue Ki Build Up",
+  "file_name": "Blue Ki Build Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e86483debc76f3832c941b03fbb53498283b5fc5"
+ },
+ "vision": {
+  "id": "S01_STR_S91",
+  "name": "Blue Ki Build Up",
+  "sub": null,
+  "type": "Setup",
+  "num": "S91",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 7 life cards. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:276"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.6,
+  "header_text": "(BLUE KI BUILD UP... C) sai",
+  "stages_text": "03\n0, 13\n2",
+  "error": null
+ }
+}

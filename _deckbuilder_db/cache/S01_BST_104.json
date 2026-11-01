@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_104",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "104_Saiyan Multi Blast.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/104_Saiyan Multi Blast.jpg",
+  "prefix": null,
+  "number": 104,
+  "card_number": "104",
+  "name_part": "Saiyan Multi Blast",
+  "file_name": "Saiyan Multi Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "693d3d79be6198c750121e2311d26e0dda87ea53"
+ },
+ "vision": {
+  "id": "S01_BST_104",
+  "name": "Saiyan Multi-Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U104",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "printed title has a hyphen (MULTI-BLAST); filename has 'Multi Blast'",
+  "_src": "S01.jsonl:104"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.3,
+  "header_text": "(SAIYAN MULTI-BLAST () W104\n, ij ™",
+  "stages_text": "",
+  "error": null
+ }
+}

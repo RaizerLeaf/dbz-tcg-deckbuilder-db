@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P4",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P4_Frieza - Revived.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P4_Frieza - Revived.png",
+  "prefix": "P",
+  "number": 4,
+  "card_number": "P4",
+  "name_part": "Frieza - Revived",
+  "file_name": "Frieza",
+  "file_subtitle": "Revived",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "a2ac9450897edadc9a00d269482bd10684965501"
+ },
+ "vision": {
+  "id": "PZP_MP_P4",
+  "name": "Frieza",
+  "sub": "Revived",
+  "type": "Main Personality",
+  "num": "P4",
+  "lvl": 4,
+  "stages": [
+   1400000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: You may also use your Level 2 Powers.\nPOWER: Destroy the top 4 cards of your opponent's Life Deck. Search your Life Deck for a Frieza Named card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 S20 (powers re-ordered)",
+  "_src": "PZP.jsonl:61"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "441 FRIEZA\nLEVEL REVIVED () Pa\ntn inayat |",
+  "stages_text": "1,400,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n50,000\n425,000\n0",
+  "error": null
+ }
+}

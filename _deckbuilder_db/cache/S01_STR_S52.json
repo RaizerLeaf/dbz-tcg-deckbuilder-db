@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S52",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S52_Black Capture.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S52_Black Capture.jpg",
+  "prefix": "S",
+  "number": 52,
+  "card_number": "S52",
+  "name_part": "Black Capture",
+  "file_name": "Black Capture",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "67e57cec81dccd5acdad08d7f0d1649750f64f7b"
+ },
+ "vision": {
+  "id": "S01_STR_S52",
+  "name": "Black Capture",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S52",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. HIT: Attach this card to your opponent's MP. At the beginning of each turn, your opponent banishes the top card of his Life Deck. Banish this card when your opponent deals critical damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:237"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.0,
+  "header_text": "(BLACK CAPTURE oo () ese",
+  "stages_text": ",",
+  "error": null
+ }
+}

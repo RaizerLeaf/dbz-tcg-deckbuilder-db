@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P72",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P72_Trunks - Frenzied.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P72_Trunks - Frenzied.png",
+  "prefix": "P",
+  "number": 72,
+  "card_number": "P72",
+  "name_part": "Trunks - Frenzied",
+  "file_name": "Trunks",
+  "file_subtitle": "Frenzied",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "29558626c4c7c6c20b733b06749efa41c7e7eef1"
+ },
+ "vision": {
+  "id": "PZP_MP_P72",
+  "name": "Trunks",
+  "sub": "Frenzied",
+  "type": "Main Personality",
+  "num": "P72",
+  "lvl": 2,
+  "stages": [
+   850000,
+   700000,
+   550000,
+   400000,
+   250000,
+   100000,
+   50000,
+   25000,
+   12500,
+   6250,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Whenever you play a Named card, you may use a critical damage effect.\n[Defense] POWER: Stops a physical attack. You may Rejuvenate a card with \"Sword\" in the title from your Banished Zone to raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:129"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.3,
+  "header_text": "TRUNKS",
+  "stages_text": "850,000\n700,000\n550,000\n400,000\n250,000\n100,000\n50,000\n25,000\n12,500\n\n4 6,250\n0",
+  "error": null
+ }
+}

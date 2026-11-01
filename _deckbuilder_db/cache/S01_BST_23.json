@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_23",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "23_Blue Biting Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/23_Blue Biting Drill.jpg",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Blue Biting Drill",
+  "file_name": "Blue Biting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "184737f9ff169b494623e36690842c44b274c945"
+ },
+ "vision": {
+  "id": "S01_BST_23",
+  "name": "Blue Biting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Your attacks deal +2 power stages of damage. When a card effect lowers your opponent's anger and his anger is already 0, he destroys the top card of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.4,
+  "header_text": "(BLUE BITING DRILt () ces",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S45",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S45_Black Command (CRD).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S45_Black Command (CRD).png",
+  "prefix": "S",
+  "number": 45,
+  "card_number": "S45",
+  "name_part": "Black Command",
+  "file_name": "Black Command",
+  "file_subtitle": null,
+  "filename_flags": [
+   "CRD"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "35456fab31773863b40641493b34da89ad31d2b3"
+ },
+ "vision": {
+  "id": "S01_STR_S45",
+  "name": "Black Command",
+  "sub": null,
+  "type": "Event",
+  "num": "S45",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand, raise your anger 2 levels and shuffle this card into your Life Deck.) ENDURANCE 1. POWER: Banish the top 5 cards of your opponent's discard pile. If less than 5 cards are banished, your opponent destroys the top 3 cards of his Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:230"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.1,
+  "header_text": "| BLACK COMMAND». C) Sas",
+  "stages_text": "",
+  "error": null
+ }
+}

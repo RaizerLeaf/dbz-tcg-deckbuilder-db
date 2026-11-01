@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P21",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P21_Blue Tag Team Mastery.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P21_Blue Tag Team Mastery.png",
+  "prefix": "P",
+  "number": 21,
+  "card_number": "P21",
+  "name_part": "Blue Tag Team Mastery",
+  "file_name": "Blue Tag Team Mastery",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f0ed002df6e6f24eec373c19fb55d30b2d8078a5"
+ },
+ "vision": {
+  "id": "S14_PRO_P21",
+  "name": "Blue Tag Team Mastery",
+  "sub": null,
+  "type": "Mastery",
+  "num": "P21",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(At the start of your opponent's first turn, search your Life Deck for an Ally and place it into play at 3 power stages above 0.)\n[Continuous]: While you control 1 Ally, it cannot be discarded by critical damage effects.\n[Instant] POWER: Use at the end of combat. Choose an Ally in your Banished Zone and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "portrait FanZ Mastery layout (title bar mid-card, MASTERY label below text); title and number confirmed from a crop of the original",
+  "_src": "S14.jsonl:74"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.6,
+  "header_text": "ge",
+  "stages_text": "21\n,\n0\n,",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P131",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P131_Yamcha - Happy.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P131_Yamcha - Happy.png",
+  "prefix": "P",
+  "number": 131,
+  "card_number": "P131",
+  "name_part": "Yamcha - Happy",
+  "file_name": "Yamcha",
+  "file_subtitle": "Happy",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7f10add15ca4958fca936e1579f8c86acbe2b2e4"
+ },
+ "vision": {
+  "id": "PZP_MP_P131",
+  "name": "Yamcha",
+  "sub": "Happy",
+  "type": "Main Personality",
+  "num": "P131",
+  "lvl": 4,
+  "stages": [
+   250000,
+   230000,
+   210000,
+   190000,
+   170000,
+   150000,
+   130000,
+   110000,
+   90000,
+   70000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Your attacks cost -3 stages (to a minimum of 0) and deal +3 life cards.\nPOWER: [Attack] Energy attack.\nDAMAGE: 4 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:189"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "Zi YAMCHA\nLEVEL HAPPY () P131\nPn ee",
+  "stages_text": "250,000\n230,000\n210,000\n190,000\n170,000\n150,000\n130,000\n110,000\n90,000\n70,000\n0",
+  "error": null
+ }
+}

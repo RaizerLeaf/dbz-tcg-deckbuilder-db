@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_02",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "02_Black Bite.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/02_Black Bite.png",
+  "prefix": null,
+  "number": 2,
+  "card_number": "02",
+  "name_part": "Black Bite",
+  "file_name": "Black Bite",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "ebbbf07f600446e614fd2324845ae88554e7a2cd"
+ },
+ "vision": {
+  "id": "S14_BST_02",
+  "name": "Black Bite",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C2",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only. This card cannot be attached unless your MP only has 1 Trait. You may only have one \"Black Bite\" attached.)\n[Attack] Physical attack.\nAttach to your MP. While attached, your non-Styled attacks gain \"HIT: Gain 2 stages or banish a card from your opponent's discard pile.\"\nDAMAGE: AT + 3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:2"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.3,
+  "header_text": "BLACK BITE C) C2",
+  "stages_text": "10\n1,\n,",
+  "error": null
+ }
+}

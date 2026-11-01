@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_13",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "13_Black Erasing Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/13_Black Erasing Drill.jpg",
+  "prefix": null,
+  "number": 13,
+  "card_number": "13",
+  "name_part": "Black Erasing Drill",
+  "file_name": "Black Erasing Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3d367ad73e3b7baa24e06a208053b45ec9441837"
+ },
+ "vision": {
+  "id": "S01_BST_13",
+  "name": "Black Erasing Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C13",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Continuous]: Whenever you perform a successful energy attack, you may destroy an opponent's Setup or Drill.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:13"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "(BLACK ERASING DRILL () cis\n~~ Be = ca",
+  "stages_text": "4",
+  "error": null
+ }
+}

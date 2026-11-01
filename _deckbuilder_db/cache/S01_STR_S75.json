@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S75",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S75_Blue Round Throw.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S75_Blue Round Throw.jpg",
+  "prefix": "S",
+  "number": 75,
+  "card_number": "S75",
+  "name_part": "Blue Round Throw",
+  "file_name": "Blue Round Throw",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "fc26f0885c1d584ba14385fe7aa43a589ae40d82"
+ },
+ "vision": {
+  "id": "S01_STR_S75",
+  "name": "Blue Round Throw",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S75",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may play this card to stop an energy attack instead of as an attack.) [Attack] Physical attack. DAMAGE: AT +5 stages. Lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:260"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.1,
+  "header_text": "(SLU i ROUND WHR: C) S7S\nSEAS GE wt al GY 7",
+  "stages_text": "",
+  "error": null
+ }
+}

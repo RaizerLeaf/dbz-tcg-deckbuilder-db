@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P125",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P125_Master Roshi - Overwhelmed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P125_Master Roshi - Overwhelmed.png",
+  "prefix": "P",
+  "number": 125,
+  "card_number": "P125",
+  "name_part": "Master Roshi - Overwhelmed",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Overwhelmed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1413a6422db74a1f620274613904d1908e87c25e"
+ },
+ "vision": {
+  "id": "PZP_MP_P125",
+  "name": "Master Roshi",
+  "sub": "Overwhelmed",
+  "type": "Main Personality",
+  "num": "P125",
+  "lvl": 2,
+  "stages": [
+   250,
+   230,
+   210,
+   190,
+   170,
+   150,
+   130,
+   110,
+   90,
+   70,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(When you advance to this personality level, you may return a Setup or Drill you control to its owner's hand.)\n[Continuous]: After your Life Deck is shuffled, you may raise your anger 1.\n[Defense] POWER: Return a Setup or Drill in play to its owner's hand to prevent all damage from an attack.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:183"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.1,
+  "header_text": "— MASTER ROSHI\nLEVEL OVERWHELMED € Pras",
+  "stages_text": "250\n\n230\n210\n\n190\n\n170\n150\n130\n110\n\n90\n\n0",
+  "error": null
+ }
+}

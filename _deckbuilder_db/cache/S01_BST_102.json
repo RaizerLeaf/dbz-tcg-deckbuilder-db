@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_102",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "102_Saiyan Domination.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/102_Saiyan Domination.jpg",
+  "prefix": null,
+  "number": 102,
+  "card_number": "102",
+  "name_part": "Saiyan Domination",
+  "file_name": "Saiyan Domination",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1e4c04f2b1ee0097c6b6dfb335a0f40e063c39b8"
+ },
+ "vision": {
+  "id": "S01_BST_102",
+  "name": "Saiyan Domination",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U102",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. If the personality performing this attack has a higher power level than the defending personality, your opponent cannot play Events this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:102"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.8,
+  "header_text": "(SAIYAN DOMINATION () W102\n> Vim 2",
+  "stages_text": "4\n4\n,\n4\n,\n4",
+  "error": null
+ }
+}

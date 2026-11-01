@@ -1,0 +1,52 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_113",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "113_Overpowering Attack (Errata).png",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/113_Overpowering Attack (Errata).png",
+  "prefix": null,
+  "number": 113,
+  "card_number": "113",
+  "name_part": "Overpowering Attack",
+  "file_name": "Overpowering Attack",
+  "file_subtitle": null,
+  "filename_flags": [
+   "Errata"
+  ],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5ed62bb61c02479f15092df208a60b1f59efdd2e"
+ },
+ "vision": {
+  "id": "S01_BST_113",
+  "name": "Overpowering Attack",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U113",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Search your Life Deck or discard pile for an Ally and place it into play at 5 stages above 0.\n(Limit 1 per deck.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame. '(Limit 1 per deck.)' sits on its own line at the END of the text box, unlike every other Set 1 card where limits lead the text; with the (Errata) filename flag this image looks edited to show errata. Check against the CRD in Phase 3.",
+  "_src": "S01.jsonl:113"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "{ ——_—.. —\n(OVERPOWERING ATTACK ) W113",
+  "stages_text": "3",
+  "error": null
+ }
+}

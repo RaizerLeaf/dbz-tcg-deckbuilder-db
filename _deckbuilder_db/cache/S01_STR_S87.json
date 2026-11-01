@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S87",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S87_Blue Wrist Block.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S87_Blue Wrist Block.jpg",
+  "prefix": "S",
+  "number": 87,
+  "card_number": "S87",
+  "name_part": "Blue Wrist Block",
+  "file_name": "Blue Wrist Block",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "dfc6e30b55ee6ea02abd1cccb783e1f3a0534ba1"
+ },
+ "vision": {
+  "id": "S01_STR_S87",
+  "name": "Blue Wrist Block",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S87",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Destroy one of your opponent's Setups or Drills.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:272"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "(BLUE WRIST BLOCK» () Sse7\n_ A",
+  "stages_text": "",
+  "error": null
+ }
+}

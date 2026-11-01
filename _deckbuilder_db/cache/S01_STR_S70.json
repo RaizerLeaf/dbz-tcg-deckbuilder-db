@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S70",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S70_Saiyan Focus.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S70_Saiyan Focus.jpg",
+  "prefix": "S",
+  "number": 70,
+  "card_number": "S70",
+  "name_part": "Saiyan Focus",
+  "file_name": "Saiyan Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "21e200f5021b45746f21c9235fe452adfb86a0a7"
+ },
+ "vision": {
+  "id": "S01_STR_S70",
+  "name": "Saiyan Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S70",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops an energy attack. If the bottom card of your discard pile is a Styled card, your opponent's MP loses 4 stages, to a minimum of 0.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:255"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.4,
+  "header_text": "(SAIYAN FOCUS. C) S70\nTT —OOt—t—<“‘“_SCS",
+  "stages_text": "4",
+  "error": null
+ }
+}

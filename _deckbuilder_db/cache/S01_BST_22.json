@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_22",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "22_Blue Battle Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/22_Blue Battle Drill.jpg",
+  "prefix": null,
+  "number": 22,
+  "card_number": "22",
+  "name_part": "Blue Battle Drill",
+  "file_name": "Blue Battle Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "1d98f2d4b49816347e2163669b58d5d85bea9b14"
+ },
+ "vision": {
+  "id": "S01_BST_22",
+  "name": "Blue Battle Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C22",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Continuous]: Cards that end combat cannot be played or used.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.4,
+  "header_text": "(BLUE BATTLE DRILL C) cae",
+  "stages_text": ",",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P69",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P69_Hercule - Guarded.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P69_Hercule - Guarded.png",
+  "prefix": "P",
+  "number": 69,
+  "card_number": "P69",
+  "name_part": "Hercule - Guarded",
+  "file_name": "Hercule",
+  "file_subtitle": "Guarded",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "da9d08e435b34355a59388abfd9b37313d17a337"
+ },
+ "vision": {
+  "id": "PZP_MP_P69",
+  "name": "Hercule",
+  "sub": "Guarded",
+  "type": "Main Personality",
+  "num": "P69",
+  "lvl": 3,
+  "stages": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(Your opponent cannot use effects that lower your MP 1 or more levels.)\n[Continuous]: Your anger cannot be lowered by critical damage effects. All attacks deal +1 stage of damage. Your damage modifiers are doubled. Your Named cards cannot have their damage modified and gain \"HIT: Raise your anger 1 level.\"",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). Power stages are printed ASCENDING (5 ... 50) above 0; printed design, not a misread",
+  "_src": "PZP.jsonl:126"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "HERCULE",
+  "stages_text": "5\n\n10\n\n15\n\n20\n\n25\n30\n35\n40\n\n45\n\n50\n\n0",
+  "error": null
+ }
+}

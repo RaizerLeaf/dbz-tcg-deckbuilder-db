@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S107",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S107_Orange Destruction.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S107_Orange Destruction.jpg",
+  "prefix": "S",
+  "number": 107,
+  "card_number": "S107",
+  "name_part": "Orange Destruction",
+  "file_name": "Orange Destruction",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "105e3aceee490571d510d6106e2fe3695a0ee30d"
+ },
+ "vision": {
+  "id": "S01_STR_S107",
+  "name": "Orange Destruction",
+  "sub": null,
+  "type": "Event",
+  "num": "S107",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Your opponent destroys top X cards of his Life Deck. X = 1 + the number of Drills you have in play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:292"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.7,
+  "header_text": "(ORANGE DESTRUCTION () 5107\nEe",
+  "stages_text": "",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_159",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "159_Trunks’ Sword Slash.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/159_Trunks’ Sword Slash.jpg",
+  "prefix": null,
+  "number": 159,
+  "card_number": "159",
+  "name_part": "Trunks’ Sword Slash",
+  "file_name": "Trunks’ Sword Slash",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "cc8af86bb8fcfdbe25901b8e7d9eea324e1297c6"
+ },
+ "vision": {
+  "id": "S01_BST_159",
+  "name": "Trunks' Sword Slash",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R159",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack costing 1 stage. DAMAGE: AT +4 stages. Banish up to 6 cards from a player's discard pile. HIT: Your next Styled energy attack this combat cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:159"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.3,
+  "header_text": "ET PE POT a OT TT\n| ——_— —\n(TRUNKS' SWORD SLASH () aise",
+  "stages_text": ",\n43\n4\n,",
+  "error": null
+ }
+}

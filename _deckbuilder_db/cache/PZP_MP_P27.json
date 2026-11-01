@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P27",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P27_Vegeta - Renewed.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P27_Vegeta - Renewed.png",
+  "prefix": "P",
+  "number": 27,
+  "card_number": "P27",
+  "name_part": "Vegeta - Renewed",
+  "file_name": "Vegeta",
+  "file_subtitle": "Renewed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "66ae628cd182d6897637c3f220831862807dda8b"
+ },
+ "vision": {
+  "id": "PZP_MP_P27",
+  "name": "Vegeta",
+  "sub": "Renewed",
+  "type": "Main Personality",
+  "num": "P27",
+  "lvl": 4,
+  "stages": [
+   800000,
+   700000,
+   600000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   10000,
+   1000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nLower your anger 1 level to draw a card.\nDAMAGE: AT + 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 S4",
+  "_src": "PZP.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "ZA VEGETA\nLEVEL RENEWED () P27\n{",
+  "stages_text": "800,000\n700,000\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n10,000\n1,000\n0",
+  "error": null
+ }
+}

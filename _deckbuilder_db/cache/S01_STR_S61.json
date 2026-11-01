@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S61",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S61_Red Energy Outburst.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S61_Red Energy Outburst.jpg",
+  "prefix": "S",
+  "number": 61,
+  "card_number": "S61",
+  "name_part": "Red Energy Outburst",
+  "file_name": "Red Energy Outburst",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5f40b2759100f5e010175ab08ced04d34ddfd01e"
+ },
+ "vision": {
+  "id": "S01_STR_S61",
+  "name": "Red Energy Outburst",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S61",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: If you have dealt critical damage this combat, raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:246"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.6,
+  "header_text": "(RED ENERGY OUTBURST () S6l",
+  "stages_text": "4\n8\n7\n\n6\n,",
+  "error": null
+ }
+}

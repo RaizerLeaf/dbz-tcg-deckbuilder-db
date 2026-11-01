@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_50",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "50_Buu - Pissed.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/50_Buu - Pissed.png",
+  "prefix": null,
+  "number": 50,
+  "card_number": "50",
+  "name_part": "Buu - Pissed",
+  "file_name": "Buu",
+  "file_subtitle": "Pissed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "454e46b08065b3991ab9f410148707fc54658825"
+ },
+ "vision": {
+  "id": "S14_BST_50",
+  "name": "Buu",
+  "sub": "Pissed",
+  "type": "Main Personality",
+  "num": "S50",
+  "lvl": 4,
+  "stages": [
+   4900000,
+   3900000,
+   2900000,
+   1900000,
+   900000,
+   600000,
+   500000,
+   200000,
+   100000,
+   40000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Majin"
+  ],
+  "text": "(You cannot win by MPPV. When you reach this level, destroy all Allies in play.)\n[Continuous]: Your attacks deal +3 life cards.\nPOWER: [Attack] Physical attack.\nUnstoppable by Events if you do not control an Ally. Raise your anger 2.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate the bottom 2 cards of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'HERO' -> Main Personality",
+  "_src": "S14.jsonl:51"
+ },
+ "ocr": {
+  "agreement": 0.942,
+  "lower_conf": 77.5,
+  "header_text": "BUU",
+  "stages_text": "4,900,000\n3,900,000\n2,900,000\n1,900,000\n\n900,000\n\n600,000\n\n500,000\n\n200,000\n100,000\n40,000\n0",
+  "error": null
+ }
+}

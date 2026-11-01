@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P167",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P167_Krillin - Supportive.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P167_Krillin - Supportive.png",
+  "prefix": "P",
+  "number": 167,
+  "card_number": "P167",
+  "name_part": "Krillin - Supportive",
+  "file_name": "Krillin",
+  "file_subtitle": "Supportive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "60736f1180e53a7ce556860d4a92d67fd96a4a49"
+ },
+ "vision": {
+  "id": "PZP_AL_P167",
+  "name": "Krillin",
+  "sub": "Supportive",
+  "type": "Ally",
+  "num": "P167",
+  "lvl": 1,
+  "stages": [
+   70000,
+   60000,
+   50000,
+   40000,
+   30000,
+   20000,
+   15000,
+   10000,
+   5000,
+   2500,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Once per turn at the start of your Rejuvenation Step, choose a Drill and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:14"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.7,
+  "header_text": "1 | KRILLIN\nod SUPPORTIVE Qe",
+  "stages_text": "70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n15,000\n10,000\n5,000\n\n2,500\n0",
+  "error": null
+ }
+}

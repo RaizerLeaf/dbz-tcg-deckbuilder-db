@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S10",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S10_Gohan - Young Warrior.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S10_Gohan - Young Warrior.jpg",
+  "prefix": "S",
+  "number": 10,
+  "card_number": "S10",
+  "name_part": "Gohan - Young Warrior",
+  "file_name": "Gohan",
+  "file_subtitle": "Young Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "74c5b1f7b889f6ace3eacff2da123f41f5f3db2f"
+ },
+ "vision": {
+  "id": "S01_STR_S10",
+  "name": "Gohan",
+  "sub": "Young Warrior",
+  "type": "Main Personality",
+  "num": "S10",
+  "lvl": 2,
+  "stages": [
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Continuous]: Your Styled attacks deal +2 life cards of damage. When you deal critical damage, you may Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:195"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.7,
+  "header_text": "HAN\ne ol WARRIOR y ) Slo\nXe : 12a nNnNNn",
+  "stages_text": "18,000\n16,000\n14,000\n12,000\n10,000\n8,000\n6,000\n4,000\n\n2,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P7",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P7_Gohan - Young Warrior.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P7_Gohan - Young Warrior.png",
+  "prefix": "P",
+  "number": 7,
+  "card_number": "P7",
+  "name_part": "Gohan - Young Warrior",
+  "file_name": "Gohan",
+  "file_subtitle": "Young Warrior",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9a0b2251c88fad89413b83487a23f5d293b13410"
+ },
+ "vision": {
+  "id": "PZP_MP_P7",
+  "name": "Gohan",
+  "sub": "Young Warrior",
+  "type": "Main Personality",
+  "num": "P7",
+  "lvl": 2,
+  "stages": [
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +2 life cards of damage. When you deal critical damage, you may Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S10",
+  "_src": "PZP.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.4,
+  "header_text": "GOHAN P7\nYOUNG WARRIOR",
+  "stages_text": "18,000\n16,000\n14,000\n12,000\n\n5 10,000\n8,000\n6,000\n4,000\n\n2,000\n1,000\n\n0",
+  "error": null
+ }
+}

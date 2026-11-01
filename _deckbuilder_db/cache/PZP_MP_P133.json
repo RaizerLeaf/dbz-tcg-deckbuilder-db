@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P133",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P133_Android 13 - Amused.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P133_Android 13 - Amused.png",
+  "prefix": "P",
+  "number": 133,
+  "card_number": "P133",
+  "name_part": "Android 13 - Amused",
+  "file_name": "Android 13",
+  "file_subtitle": "Amused",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c37070f29278a841d715110107112b6b479df06e"
+ },
+ "vision": {
+  "id": "PZP_MP_P133",
+  "name": "Android 13",
+  "sub": "Amused",
+  "type": "Main Personality",
+  "num": "P133",
+  "lvl": 2,
+  "stages": [
+   900000,
+   750000,
+   600000,
+   450000,
+   300000,
+   150000,
+   120000,
+   90000,
+   60000,
+   30000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect.)\n[Instant] POWER: Use when entering combat. Banish Android 14 and Android 15 if they are under your control and/or in your discard pile to advance your MP 1 level.\nPOWER: [Attack] Physical attack.\nYour opponent skips their next action this combat.\nDAMAGE: 3 stages.\nHIT: Search your Banished Zone for a card with \"Android\" in the title and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:191"
+ },
+ "ocr": {
+  "agreement": 0.865,
+  "lower_conf": 81.3,
+  "header_text": "ANDROID 13\n: AMUSED P133",
+  "stages_text": "900,000\n750,000\n600,000\n450,000\n300,000\n150,000\n120,000\n90,000\n60,000\n30,000\n\n0",
+  "error": null
+ }
+}

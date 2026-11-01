@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P17",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P17_Piccolo’s Special Beam Cannon.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P17_Piccolo’s Special Beam Cannon.jpg",
+  "prefix": "P",
+  "number": 17,
+  "card_number": "P17",
+  "name_part": "Piccolo’s Special Beam Cannon",
+  "file_name": "Piccolo’s Special Beam Cannon",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9b82ce7e94cfd72d75701e66ffe2651512d6b250"
+ },
+ "vision": {
+  "id": "S01_PRO_P17",
+  "name": "Piccolo's Special Beam Cannon",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P17",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. Rejuvenate 1. HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.",
+  "conf": "high",
+  "review": null,
+  "note": "grey frame; promo printing of S01 R158 (same text)",
+  "_src": "S01.jsonl:181"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "VT TE PLES TIT TOI TE EE I a TE\n\n{ SS —\n(PIcCcoLo’s SPECIAL BEAM. CANNON C) P17\n\n| = AZZ a _",
+  "stages_text": "7",
+  "error": null
+ }
+}

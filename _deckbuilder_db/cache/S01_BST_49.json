@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_49",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "49_Red Shattering Leap.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/49_Red Shattering Leap.jpg",
+  "prefix": null,
+  "number": 49,
+  "card_number": "49",
+  "name_part": "Red Shattering Leap",
+  "file_name": "Red Shattering Leap",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "6b4d714eebc8278d8c89e51391b749902c8b40fb"
+ },
+ "vision": {
+  "id": "S01_BST_49",
+  "name": "Red Shattering Leap",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C49",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack costing 1 stage. DAMAGE: AT +4 stages. HIT: This attack stays in play to be used a second time this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:49"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.8,
+  "header_text": "(RED SHATTERING LEAP () cas",
+  "stages_text": ",\n7\n,",
+  "error": null
+ }
+}

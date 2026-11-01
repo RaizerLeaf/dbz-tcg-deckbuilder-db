@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S150",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S150_Saiyan Lightning Dodge.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S150_Saiyan Lightning Dodge.jpg",
+  "prefix": "S",
+  "number": 150,
+  "card_number": "S150",
+  "name_part": "Saiyan Lightning Dodge",
+  "file_name": "Saiyan Lightning Dodge",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "88a73fd603297db398947e2927cca1dc1897dd3f"
+ },
+ "vision": {
+  "id": "S01_STR_S150",
+  "name": "Saiyan Lightning Dodge",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S150",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Your opponent loses 4 stages, to a minimum of 0.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:335"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 79.1,
+  "header_text": "(SAIYAN LIGHTNING:PODGE € Ee\n‘Ql ia OF",
+  "stages_text": ",",
+  "error": null
+ }
+}

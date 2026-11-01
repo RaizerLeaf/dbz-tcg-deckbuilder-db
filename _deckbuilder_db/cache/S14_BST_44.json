@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_44",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "44_Buu - Crazed.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/44_Buu - Crazed.png",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Buu - Crazed",
+  "file_name": "Buu",
+  "file_subtitle": "Crazed",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "0b7fafb2a97e896b429d13caae32003635424240"
+ },
+ "vision": {
+  "id": "S14_BST_44",
+  "name": "Buu",
+  "sub": "Crazed",
+  "type": "Main Personality",
+  "num": "S44",
+  "lvl": 2,
+  "stages": [
+   3750000,
+   3000000,
+   2000000,
+   1300000,
+   900000,
+   600000,
+   400000,
+   300000,
+   80000,
+   40000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your Styled attacks gain \"HIT: Rejuvenate 1.\"\nPOWER: [Attack] Physical attack.\nIf stopped, draw a card.\nDAMAGE: 6 stages.\nHIT: Lower a player's anger 1.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'VILLAIN' -> Main Personality",
+  "_src": "S14.jsonl:45"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.7,
+  "header_text": "BUU\nLEVEL CRAZED () 544",
+  "stages_text": "3,750,000\n3,000,000\n2,000,000\n1,300,000\n\n900,000\n\n600,000\n\n400,000\n\n300,000\n80,000\n40,000\n0",
+  "error": null
+ }
+}

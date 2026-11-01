@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P11",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P11_Krillin - In Training.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P11_Krillin - In Training.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Krillin - In Training",
+  "file_name": "Krillin",
+  "file_subtitle": "In Training",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d5e915b9f10e560f23dcb7f8f449441354d70d1b"
+ },
+ "vision": {
+  "id": "S14_PRO_P11",
+  "name": "Krillin",
+  "sub": "In Training",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 2,
+  "stages": [
+   550000,
+   300000,
+   150000,
+   100000,
+   80000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. [Instant] POWER: Use at the end of combat. Search your Life Deck for a Styled Setup or Styled Drill and place it into play. [Defense] POWER: Prevent all damage from an attack.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality",
+  "_src": "S14.jsonl:64"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 72.1,
+  "header_text": "KRILLIN )\n- IN TRAINING y m-1l",
+  "stages_text": "950,000\n300,000\n150,000\n100,000\n\n5 80,000\n90,000\n25,000\n10,000\n\n0,000\n\n1,000",
+  "error": null
+ }
+}

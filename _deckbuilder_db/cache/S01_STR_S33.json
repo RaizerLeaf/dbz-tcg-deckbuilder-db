@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S33",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S33_Namekian Concentration.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S33_Namekian Concentration.jpg",
+  "prefix": "S",
+  "number": 33,
+  "card_number": "S33",
+  "name_part": "Namekian Concentration",
+  "file_name": "Namekian Concentration",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "259e793eebf9a488914a00d94558d334bbfce31b"
+ },
+ "vision": {
+  "id": "S01_STR_S33",
+  "name": "Namekian Concentration",
+  "sub": null,
+  "type": "Setup",
+  "num": "S33",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Instant] Power: Use at the beginning of your Rejuvenation Step if you did not declare combat. Rejuvenate 4.",
+  "conf": "high",
+  "review": null,
+  "note": "'Power' printed in mixed case here",
+  "_src": "S01.jsonl:218"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "(NAMEKIAN CONCENTRATION () sss",
+  "stages_text": "",
+  "error": null
+ }
+}

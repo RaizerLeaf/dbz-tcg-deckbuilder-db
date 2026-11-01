@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P33",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P33_Andrid 18 - Threatening.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P33_Andrid 18 - Threatening.png",
+  "prefix": "P",
+  "number": 33,
+  "card_number": "P33",
+  "name_part": "Andrid 18 - Threatening",
+  "file_name": "Andrid 18",
+  "file_subtitle": "Threatening",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "5d6e55d02c5e0b4d1cdac477c6fad510bbb5c7ac"
+ },
+ "vision": {
+  "id": "PZP_MP_P33",
+  "name": "Android 18",
+  "sub": "Threatening",
+  "type": "Main Personality",
+  "num": "P33",
+  "lvl": 2,
+  "stages": [
+   750000,
+   550000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: While your MP's power level is over 50,000, your opponent's physical attacks cannot have their damage modified. Your attacks deal +1 life card of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). Filename typo 'Andrid 18'",
+  "_src": "PZP.jsonl:90"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.7,
+  "header_text": "— ANDROID 18\nLEVEL THREATENING () P33",
+  "stages_text": "750,000\n550,000\n350,000\n250,000\n150,000\n50,000\n25,000\n10,000\n\n7 5,000\n1,000\n0",
+  "error": null
+ }
+}

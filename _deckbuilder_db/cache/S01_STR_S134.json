@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S134",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S134_Black Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S134_Black Strike.jpg",
+  "prefix": "S",
+  "number": 134,
+  "card_number": "S134",
+  "name_part": "Black Strike",
+  "file_name": "Black Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "58243783027300655cff037d2c3c7fbcfbad6adb"
+ },
+ "vision": {
+  "id": "S01_STR_S134",
+  "name": "Black Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. Choose a random card from your opponent's hand. Your opponent shuffles that card into his Life Deck and draws a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:319"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.8,
+  "header_text": "(BLACK STRIKE eo () sis4",
+  "stages_text": ",\n,\n37\n4\n44 ,",
+  "error": null
+ }
+}

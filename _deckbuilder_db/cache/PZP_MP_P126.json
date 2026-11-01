@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P126",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P126_Master Roshi - Catcher.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P126_Master Roshi - Catcher.png",
+  "prefix": "P",
+  "number": 126,
+  "card_number": "P126",
+  "name_part": "Master Roshi - Catcher",
+  "file_name": "Master Roshi",
+  "file_subtitle": "Catcher",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "349c47f711265cf9d29f75b1667f4fa2915518b2"
+ },
+ "vision": {
+  "id": "PZP_MP_P126",
+  "name": "Master Roshi",
+  "sub": "Catcher",
+  "type": "Main Personality",
+  "num": "P126",
+  "lvl": 3,
+  "stages": [
+   350,
+   325,
+   300,
+   275,
+   250,
+   225,
+   200,
+   175,
+   150,
+   125,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(When you advance to this personality level, you may return a Setup or Drill to its owner's hand.)\n[Continuous]: Your opponent plays with their hand revealed. Whenever you Rejuvenate, you may destroy the top card of your opponent's Life Deck.\n[Instant] POWER: Use at the end of combat. Search your discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:184"
+ },
+ "ocr": {
+  "agreement": 0.903,
+  "lower_conf": 75.0,
+  "header_text": "=3 MASTER ROSHI\nLEVEL CATCHER i:",
+  "stages_text": "350\n\n325\n\n300\n\n275\n\n250\n225\n200\n175\n\n150\n\n125\n0",
+  "error": null
+ }
+}

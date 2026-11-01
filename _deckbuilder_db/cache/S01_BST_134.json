@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_134",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "134_Namekian Palm Shots.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/134_Namekian Palm Shots.jpg",
+  "prefix": null,
+  "number": 134,
+  "card_number": "134",
+  "name_part": "Namekian Palm Shots",
+  "file_name": "Namekian Palm Shots",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "27ea3476c8091add890d61c8c3d1355a094830bb"
+ },
+ "vision": {
+  "id": "S01_BST_134",
+  "name": "Namekian Palm Shots",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R134",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. HIT: Draw the bottom card of your Life Deck and you may shuffle a Dragon Ball in play back into its owner's Life Deck to search your Life Deck for a Dragon Ball and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:134"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.5,
+  "header_text": "(NAMEKIAN PALM SHOTS () alsa",
+  "stages_text": "",
+  "error": null
+ }
+}

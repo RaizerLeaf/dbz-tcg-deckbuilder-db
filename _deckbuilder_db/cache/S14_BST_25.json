@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_25",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "25_Red Clearing Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/25_Red Clearing Blast.png",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Red Clearing Blast",
+  "file_name": "Red Clearing Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "83623796abfaefafa9184c757282ba9cf42324b9"
+ },
+ "vision": {
+  "id": "S14_BST_25",
+  "name": "Red Clearing Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(When this attack is performed from your discard pile, Rejuvenate any of the bottom 3 cards of your discard pile.)\n[Attack] 2: Energy attack.\nRaise your anger 1.\nDAMAGE: 5 life cards.\nHIT: Banish X cards from your opponent's discard pile. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 0.958,
+  "lower_conf": 86.9,
+  "header_text": "RED CLEARING BLAST C) U25",
+  "stages_text": ",",
+  "error": null
+ }
+}

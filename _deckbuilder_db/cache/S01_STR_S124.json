@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S124",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S124_Blue Defensive Stance.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S124_Blue Defensive Stance.jpg",
+  "prefix": "S",
+  "number": 124,
+  "card_number": "S124",
+  "name_part": "Blue Defensive Stance",
+  "file_name": "Blue Defensive Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "070a2813fb72e2a0eb42911200889ee572ca3285"
+ },
+ "vision": {
+  "id": "S01_STR_S124",
+  "name": "Blue Defensive Stance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S124",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Defense] Stops an energy attack. Raise or lower a player's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:309"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "(BLUE DEFENSIVE STANCE () si2a",
+  "stages_text": "",
+  "error": null
+ }
+}

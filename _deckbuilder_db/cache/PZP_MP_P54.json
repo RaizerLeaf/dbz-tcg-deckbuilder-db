@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P54",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P54_Cell - Perfect.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P54_Cell - Perfect.png",
+  "prefix": "P",
+  "number": 54,
+  "card_number": "P54",
+  "name_part": "Cell - Perfect",
+  "file_name": "Cell",
+  "file_subtitle": "Perfect",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d1c0a001f1216a42ad27dcf8670a4dec0a7d2b07"
+ },
+ "vision": {
+  "id": "PZP_MP_P54",
+  "name": "Cell",
+  "sub": "Perfect",
+  "type": "Main Personality",
+  "num": "P54",
+  "lvl": 3,
+  "stages": [
+   2000000,
+   1400000,
+   1000000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   25000,
+   10000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "(You cannot win by MPPV if you advance a level with this card's effect.)\nPOWER: [Attack] Physical attack.\nDamage from this attack cannot be prevented. At the end of combat, you may banish 5 cards from your opponent's discard pile. If you do, advance your MP 1 level.\nDAMAGE: 7 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:111"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.8,
+  "header_text": "S3 CELL\nLEVEL PERFECT () Po4\noo",
+  "stages_text": "2,000,000\n1,400,000\n1,000,000\n500,000\n400,000\n300,000\n200,000\n100,000\n25,000\n10,000\n\n0",
+  "error": null
+ }
+}

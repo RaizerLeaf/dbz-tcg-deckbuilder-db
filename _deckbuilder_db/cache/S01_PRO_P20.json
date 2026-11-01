@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P20",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P20_Saiyan Power Up.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P20_Saiyan Power Up.jpg",
+  "prefix": "P",
+  "number": 20,
+  "card_number": "P20",
+  "name_part": "Saiyan Power Up",
+  "file_name": "Saiyan Power Up",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e8b8bc7ab9c01476f86bc19756f01dbad86b0b8d"
+ },
+ "vision": {
+  "id": "S01_PRO_P20",
+  "name": "Saiyan Power Up",
+  "sub": null,
+  "type": "Event",
+  "num": "P20",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Your MP gains 6 stages. Draw the bottom card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": "promo printing of S01 R148 (same text)",
+  "_src": "S01.jsonl:184"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 95.5,
+  "header_text": "(SAIYAN POWER UP: () P20\ni im vy #~_,/ iil |’ a |",
+  "stages_text": "",
+  "error": null
+ }
+}

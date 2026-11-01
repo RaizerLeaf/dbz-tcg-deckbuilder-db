@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S69",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S69_Red Energy Defensive Stance.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S69_Red Energy Defensive Stance.jpg",
+  "prefix": "S",
+  "number": 69,
+  "card_number": "S69",
+  "name_part": "Red Energy Defensive Stance",
+  "file_name": "Red Energy Defensive Stance",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9499f0ace9ce20b2aa969219583a0301d82c124c"
+ },
+ "vision": {
+  "id": "S01_STR_S69",
+  "name": "Red Energy Defensive Stance",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S69",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Defense] Stops an energy attack. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:254"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 62.7,
+  "header_text": "( RED ENERGY: DEFENSIVE: STANCE C) S65\nbee OAD OUR wate ert at ata areeh eh ater en elt eh ahah at” ote as\n- ©6>S i",
+  "stages_text": ",",
+  "error": null
+ }
+}

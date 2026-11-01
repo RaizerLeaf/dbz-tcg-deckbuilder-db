@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P214",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P214_Trunks - Young Super Saiyan.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P214_Trunks - Young Super Saiyan.png",
+  "prefix": "P",
+  "number": 214,
+  "card_number": "P214",
+  "name_part": "Trunks - Young Super Saiyan",
+  "file_name": "Trunks",
+  "file_subtitle": "Young Super Saiyan",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "6006167e0aae3e06b6d370cdd77b9b4644d6b002"
+ },
+ "vision": {
+  "id": "PZP_MP_P214",
+  "name": "Trunks",
+  "sub": "Young Super Saiyan",
+  "type": "Main Personality",
+  "num": "P214",
+  "lvl": 4,
+  "stages": [
+   1600000,
+   1500000,
+   1400000,
+   1200000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: When entering combat, look at the top 6 cards of a player's Life Deck and put them back in any order.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 U65 (same)",
+  "_src": "PZP.jsonl:216"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "TRUNKS\n: YOUNG SUPER SAIYAN p214",
+  "stages_text": "1,600,000\n1,500,000\n1,400,000\n1,200,000\n1,000,000\n800,000\n600,000\n400,000\n200,000\n100,000\n\n0",
+  "error": null
+ }
+}

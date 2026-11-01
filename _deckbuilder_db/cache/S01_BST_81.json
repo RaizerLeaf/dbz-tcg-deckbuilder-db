@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_81",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "81_Blue Farewell.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/81_Blue Farewell.jpg",
+  "prefix": null,
+  "number": 81,
+  "card_number": "81",
+  "name_part": "Blue Farewell",
+  "file_name": "Blue Farewell",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "84796735457c215be5833ef19725caa12f444fcb"
+ },
+ "vision": {
+  "id": "S01_BST_81",
+  "name": "Blue Farewell",
+  "sub": null,
+  "type": "Event",
+  "num": "U81",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Shuffle an Ally you control into its owner's Life Deck to stop all attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:81"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 93.0,
+  "header_text": "—— a NN",
+  "stages_text": "7,",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_115",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "115_Frieza’s Captive Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/115_Frieza’s Captive Strike.jpg",
+  "prefix": null,
+  "number": 115,
+  "card_number": "115",
+  "name_part": "Frieza’s Captive Strike",
+  "file_name": "Frieza’s Captive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "50f6fb96c96c04ef516f5cd7a33978dc24e45a34"
+ },
+ "vision": {
+  "id": "S01_BST_115",
+  "name": "Frieza's Captive Strike",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U115",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is discarded from your hand by a card effect, you may raise or lower a player's anger 1 level.) [Attack] Physical attack. DAMAGE: AT stages.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:115"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.5,
+  "header_text": "FRIEZA'S CAPTIVE STRIKE Cae\nALLO A SSS SSIES, Zoe\n2 ZS :",
+  "stages_text": "3\n7,",
+  "error": null
+ }
+}

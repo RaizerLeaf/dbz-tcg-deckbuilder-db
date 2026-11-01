@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P13",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P13_Krillin - Victorious.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P13_Krillin - Victorious.png",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Krillin - Victorious",
+  "file_name": "Krillin",
+  "file_subtitle": "Victorious",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 815,
+  "height": 1111,
+  "orientation": "portrait",
+  "sha1": "365ac82f80c362bb12d6cc99ff687faa3978a94b"
+ },
+ "vision": {
+  "id": "S14_PRO_P13",
+  "name": "Krillin",
+  "sub": "Victorious",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 4,
+  "stages": [
+   1000100,
+   1000000,
+   800000,
+   600000,
+   400000,
+   100000,
+   70000,
+   30000,
+   20000,
+   10000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever a Setup enters play under your control, gain 2 stages. Whenever a Setup or Drill enters play under your control during combat, Rejuvenate 1 and banish the top card of your opponent's Life Deck. POWER: [Attack] 2: Energy attack. You may use this attack a second time this combat. DAMAGE: 5 life cards. HIT: Search your Life Deck or discard pile for a Setup or Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout (815x1111); right edge reads HERO -> Main Personality; top stage is printed 1,000,100 (not a misread)",
+  "_src": "S14.jsonl:66"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "A ee =)",
+  "stages_text": "1,000,100\n1,000,000\n800,000\n600,000\n400,000\n100,000\n70,000\n30,000\n20,000\n10,000\n0",
+  "error": null
+ }
+}

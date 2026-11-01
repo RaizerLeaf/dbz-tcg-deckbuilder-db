@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P62",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P62_Gohan - Undeniable.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P62_Gohan - Undeniable.png",
+  "prefix": "P",
+  "number": 62,
+  "card_number": "P62",
+  "name_part": "Gohan - Undeniable",
+  "file_name": "Gohan",
+  "file_subtitle": "Undeniable",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "069b98c5f87c3ef4f4ad03ca68b3f02d20725ab2"
+ },
+ "vision": {
+  "id": "PZP_MP_P62",
+  "name": "Gohan",
+  "sub": "Undeniable",
+  "type": "Main Personality",
+  "num": "P62",
+  "lvl": 4,
+  "stages": [
+   2800000,
+   2000000,
+   1200000,
+   900000,
+   600000,
+   300000,
+   200000,
+   100000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 6,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled. Your physical attacks can only be stopped by Physical Combat cards. Your energy attacks can only be stopped by Energy Combat cards.\nPOWER: The next attack you perform this combat has its power stage cost reduced to 0 and its damage cannot be prevented.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:119"
+ },
+ "ocr": {
+  "agreement": 0.98,
+  "lower_conf": 78.8,
+  "header_text": "GOHAN",
+  "stages_text": "2,800,000\n2,000,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

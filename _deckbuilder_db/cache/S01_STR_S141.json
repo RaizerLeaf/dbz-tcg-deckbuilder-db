@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S141",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S141_Saiyan Face Stomp.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S141_Saiyan Face Stomp.jpg",
+  "prefix": "S",
+  "number": 141,
+  "card_number": "S141",
+  "name_part": "Saiyan Face Stomp",
+  "file_name": "Saiyan Face Stomp",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "e5806012f5f847ab876a6f54ae3361d9a1fc5444"
+ },
+ "vision": {
+  "id": "S01_STR_S141",
+  "name": "Saiyan Face Stomp",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S141",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack. DAMAGE: AT +4 stages. When you perform this attack you may destroy the top card of your Life Deck to have this attack also deal +3 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:326"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.9,
+  "header_text": "(SALYAN FACE STOMP. () S141\neen , BIE",
+  "stages_text": ",",
+  "error": null
+ }
+}

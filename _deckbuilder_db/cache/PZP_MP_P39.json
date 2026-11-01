@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P39",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P39_Goku - Dashing.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P39_Goku - Dashing.png",
+  "prefix": "P",
+  "number": 39,
+  "card_number": "P39",
+  "name_part": "Goku - Dashing",
+  "file_name": "Goku",
+  "file_subtitle": "Dashing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e65f92d05c52c21c48f215f3fb40c239af9bdad1"
+ },
+ "vision": {
+  "id": "PZP_MP_P39",
+  "name": "Goku",
+  "sub": "Dashing",
+  "type": "Main Personality",
+  "num": "P39",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1750000,
+   1650000,
+   1400000,
+   1150000,
+   900000,
+   650000,
+   400000,
+   150000,
+   75000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: Search your Life Deck, discard pile, or Banished Zone for an Ally and place it into play at its highest power stage. Choose one of your Allies in play. For the remainder of combat, that Ally may make actions regardless of your MP's power stage and attacks performed by that Ally deal +4 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:96"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.3,
+  "header_text": "44 coku\nLEVEL DASHING () P39\nPans (OT | {_ a",
+  "stages_text": "1,850,000\n1,750,000\n1,650,000\n1,400,000\n\n1,150,000\n\n900,000\n\n650,000\n\n400,000\n150,000\n75,000\n0",
+  "error": null
+ }
+}

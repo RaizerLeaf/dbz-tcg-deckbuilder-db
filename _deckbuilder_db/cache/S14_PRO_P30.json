@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P30",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P30_Black Chin Kick.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P30_Black Chin Kick.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Black Chin Kick",
+  "file_name": "Black Chin Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "53d3a7345f438785bc6834f831f1209f15dc209d"
+ },
+ "vision": {
+  "id": "S14_PRO_P30",
+  "name": "Black Chin Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P30",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nAllies lose all effects until the end of combat. Allies cannot make actions nor have damage redirected to them this combat.\nDAMAGE: AT + 3 stages.\nHIT: Raise your anger X. X = your current anger level.",
+  "conf": "high",
+  "review": null,
+  "note": "FanZ combat layout with black frame and no Endurance badge",
+  "_src": "S14.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "BLACK CHIN KICK ) P30.",
+  "stages_text": ", 8\n4\n3\n4 4 2\n37\n,\n,",
+  "error": null
+ }
+}

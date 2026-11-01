@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_41",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "41_Orange Precise Shot.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/41_Orange Precise Shot.jpg",
+  "prefix": null,
+  "number": 41,
+  "card_number": "41",
+  "name_part": "Orange Precise Shot",
+  "file_name": "Orange Precise Shot",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "7ff930fc25aa764ee0727abad7adb7b103f2ce4f"
+ },
+ "vision": {
+  "id": "S01_BST_41",
+  "name": "Orange Precise Shot",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "C41",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2. [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. HIT: Search your opponent's Life Deck for a card and discard it. Raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:41"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "(ORANGE PRECISE SHOT () cai",
+  "stages_text": "484",
+  "error": null
+ }
+}

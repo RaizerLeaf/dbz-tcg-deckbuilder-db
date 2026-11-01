@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_42",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "42_Bibidi - Progenitor.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/42_Bibidi - Progenitor.png",
+  "prefix": null,
+  "number": 42,
+  "card_number": "42",
+  "name_part": "Bibidi - Progenitor",
+  "file_name": "Bibidi",
+  "file_subtitle": "Progenitor",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c0848cc9115836c9f65b329435dea5d4a869a6a7"
+ },
+ "vision": {
+  "id": "S14_BST_42",
+  "name": "Bibidi",
+  "sub": "Progenitor",
+  "type": "Ally",
+  "num": "U42",
+  "lvl": 1,
+  "stages": [
+   1000,
+   800,
+   600,
+   400,
+   200,
+   100,
+   50,
+   25,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: If your MP has [Trait:Majin], your attacks deal +1 life card. Attacks performed by personalities with [Trait:Majin] deal +1 life card.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'VILLAIN ALLY'",
+  "_src": "S14.jsonl:43"
+ },
+ "ocr": {
+  "agreement": 0.826,
+  "lower_conf": 88.4,
+  "header_text": "] BIBIDI\nLEVEL PROGENITOR () U42\n= a COP a |",
+  "stages_text": "1,000\n800\n\n600\n400\n200\n7 100\n50\n25\n10\n5\n\n0",
+  "error": null
+ }
+}

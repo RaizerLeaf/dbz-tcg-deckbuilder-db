@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_05",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "05_Black Energy Focus.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/05_Black Energy Focus.png",
+  "prefix": null,
+  "number": 5,
+  "card_number": "05",
+  "name_part": "Black Energy Focus",
+  "file_name": "Black Energy Focus",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "01460222b296f6e79ea74b2789bc79970b212610"
+ },
+ "vision": {
+  "id": "S14_BST_05",
+  "name": "Black Energy Focus",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R5",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(If this card is destroyed from your Life Deck by one of your effects, you may banish it to banish the top card of your opponent's Life Deck.)\n[Attack] 1: Energy attack.\nLower a player's anger 1.\nDAMAGE: 3 life cards.\nHIT: Your opponent discards a card from their hand. If your MP does not have [Trait:Android], your opponent draws a card.",
+  "conf": "high",
+  "review": null,
+  "note": "card number area reads 'PREVIEW R5'. Inline Trait icon is the grey Red-Ribbon-style pictogram with an 'R' badge; identified as Android because Android 17 (S14 U38) carries exactly this icon plus the Earthling icon, and the FanZ CRD lists Android 17 as Android + Earthling",
+  "_src": "S14.jsonl:38"
+ },
+ "ocr": {
+  "agreement": 0.969,
+  "lower_conf": 93.4,
+  "header_text": "BLACK ENERGY Focus Fu\n| \\",
+  "stages_text": ",",
+  "error": null
+ }
+}

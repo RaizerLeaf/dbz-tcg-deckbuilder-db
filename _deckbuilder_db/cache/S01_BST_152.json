@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_152",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "152_Time Is A Warrior’s Tool.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/152_Time Is A Warrior’s Tool.jpg",
+  "prefix": null,
+  "number": 152,
+  "card_number": "152",
+  "name_part": "Time Is A Warrior’s Tool",
+  "file_name": "Time Is A Warrior’s Tool",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "d6864ffabfd20dc70f483dd10594bd3071a2de58"
+ },
+ "vision": {
+  "id": "S01_BST_152",
+  "name": "Time Is A Warrior's Tool",
+  "sub": null,
+  "type": "Event",
+  "num": "R152",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck.) [Defense] POWER: Stops a physical or energy attack. Stops all of your opponent's attacks this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:152"
+ },
+ "ocr": {
+  "agreement": 0.95,
+  "lower_conf": 78.7,
+  "header_text": "{ —— —_—\n(TIME IS A WARRIOR'S. TOOL C) AlSe2\nara Fr FI f/f",
+  "stages_text": "",
+  "error": null
+ }
+}

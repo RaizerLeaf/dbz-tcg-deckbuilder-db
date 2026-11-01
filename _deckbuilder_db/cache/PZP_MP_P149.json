@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P149",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P149_Cell Jr. - Oppressive.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P149_Cell Jr. - Oppressive.png",
+  "prefix": "P",
+  "number": 149,
+  "card_number": "P149",
+  "name_part": "Cell Jr. - Oppressive",
+  "file_name": "Cell Jr.",
+  "file_subtitle": "Oppressive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "65a497c9a58bd220ddb7e65aeda3883589bd366d"
+ },
+ "vision": {
+  "id": "PZP_MP_P149",
+  "name": "Cell Jr.",
+  "sub": "Oppressive",
+  "type": "Main Personality",
+  "num": "P149",
+  "lvl": 3,
+  "stages": [
+   900000,
+   700000,
+   500000,
+   400000,
+   300000,
+   200000,
+   100000,
+   75000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: You may Rejuvenate an Ally with \"Cell Jr.\" in the title from your hand to stop an attack.\nPOWER: [Attack] Physical attack.\nSearch your discard pile for 2 Allies with \"Cell Jr.\" in the title and Rejuvenate them.\nDAMAGE: 1 life card.\nHIT: Search your Life Deck for an Ally with \"Cell Jr.\" in the title and place it in your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:207"
+ },
+ "ocr": {
+  "agreement": 0.885,
+  "lower_conf": 78.3,
+  "header_text": "3 CELL JR.\n: OPPRESSIVE P149",
+  "stages_text": "900,000\n700,000\n500,000\n400,000\n300,000\n200,000\n100,000\n75,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

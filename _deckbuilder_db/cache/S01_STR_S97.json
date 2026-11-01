@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S97",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S97_Blue Positioning Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S97_Blue Positioning Drill.jpg",
+  "prefix": "S",
+  "number": 97,
+  "card_number": "S97",
+  "name_part": "Blue Positioning Drill",
+  "file_name": "Blue Positioning Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "2fa9b0dff4c2e797cd673e6e06fda71cb371f8a1"
+ },
+ "vision": {
+  "id": "S01_STR_S97",
+  "name": "Blue Positioning Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S97",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Whenever you stop an attack, place a Styled card from your discard pile on top of your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:282"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.5,
+  "header_text": "(BLUE POSITIONING. DRILL () ss7",
+  "stages_text": "4\n,",
+  "error": null
+ }
+}

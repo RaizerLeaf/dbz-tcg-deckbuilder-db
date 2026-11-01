@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S95",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S95_Saiyan Enraged.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S95_Saiyan Enraged.jpg",
+  "prefix": "S",
+  "number": 95,
+  "card_number": "S95",
+  "name_part": "Saiyan Enraged",
+  "file_name": "Saiyan Enraged",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5bbf460671f6da2a244941d179dec1f066749e18"
+ },
+ "vision": {
+  "id": "S01_STR_S95",
+  "name": "Saiyan Enraged",
+  "sub": null,
+  "type": "Setup",
+  "num": "S95",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Raise your anger 2 levels. Rejuvenate the bottom 2 cards of your discard pile. If your MP's power level is higher than your opponent's MP's power level, draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:280"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.2,
+  "header_text": "(Garvan enraged @ ces\n<TR 19191 TH",
+  "stages_text": "",
+  "error": null
+ }
+}

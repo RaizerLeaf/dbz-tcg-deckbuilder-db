@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P103",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P103_Garlic Jr. - Observant.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P103_Garlic Jr. - Observant.png",
+  "prefix": "P",
+  "number": 103,
+  "card_number": "P103",
+  "name_part": "Garlic Jr. - Observant",
+  "file_name": "Garlic Jr.",
+  "file_subtitle": "Observant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9672a773878d603530a6b33a63720d16fe9caa8f"
+ },
+ "vision": {
+  "id": "PZP_MP_P103",
+  "name": "Garlic Jr.",
+  "sub": "Observant",
+  "type": "Main Personality",
+  "num": "P103",
+  "lvl": 3,
+  "stages": [
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   600,
+   300,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "[Continuous]: Your opponent's attacks deal -2 life cards and -2 stages. Whenever you raise your anger, you may capture a Dragon Ball.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:160"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.0,
+  "header_text": "=3 GARLIC JR.\nLEVEL OBSERVANT € P10:",
+  "stages_text": "8,000\n7,000\n6,000\n5,000\n\n7\n5 4,000\n3,000\n2,000\n1,000\n600\n300\n0",
+  "error": null
+ }
+}

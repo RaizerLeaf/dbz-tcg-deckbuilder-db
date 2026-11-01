@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_31",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "31_All You Need Is the Ground.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/31_All You Need Is the Ground.png",
+  "prefix": null,
+  "number": 31,
+  "card_number": "31",
+  "name_part": "All You Need Is the Ground",
+  "file_name": "All You Need Is the Ground",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "dad4e3e5ec01050c7701d4db93ce2598e7c0310f"
+ },
+ "vision": {
+  "id": "S14_BST_31",
+  "name": "All You Need Is the Ground",
+  "sub": null,
+  "type": "Setup",
+  "num": "R31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 2.\n(You may shuffle this card from your hand into your Life Deck as an action to lower a player's anger 2.)\nPOWER: Players can only gain anger from the effects of Physical Combat and Energy Combat cards this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Setup layout, grey (non-styled) frame; number area reads 'PREVIEW R31'",
+  "_src": "S14.jsonl:31"
+ },
+ "ocr": {
+  "agreement": 0.857,
+  "lower_conf": 84.8,
+  "header_text": ".L YOU NEED IS THE GROUND Oe\nI —",
+  "stages_text": null,
+  "error": null
+ }
+}

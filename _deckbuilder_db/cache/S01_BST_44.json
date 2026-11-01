@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_44",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "44_Red Hunting Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/44_Red Hunting Drill.jpg",
+  "prefix": null,
+  "number": 44,
+  "card_number": "44",
+  "name_part": "Red Hunting Drill",
+  "file_name": "Red Hunting Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "bb10c4d013452873042d518a2be8d1cc238b1a2e"
+ },
+ "vision": {
+  "id": "S01_BST_44",
+  "name": "Red Hunting Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Continuous]: Once per combat when you deal critical damage, you may search your opponent's Life Deck for a card and destroy it.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "(RED HUNTING DRILL () cad",
+  "stages_text": "",
+  "error": null
+ }
+}

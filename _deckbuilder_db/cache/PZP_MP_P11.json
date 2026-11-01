@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P11",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P11_Goku - Kaio-Ken Enhanced.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P11_Goku - Kaio-Ken Enhanced.png",
+  "prefix": "P",
+  "number": 11,
+  "card_number": "P11",
+  "name_part": "Goku - Kaio-Ken Enhanced",
+  "file_name": "Goku",
+  "file_subtitle": "Kaio-Ken Enhanced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "bc50cb16a84ff6611258e2cefdf1f472b32e44a9"
+ },
+ "vision": {
+  "id": "PZP_MP_P11",
+  "name": "Goku",
+  "sub": "Kaio-Ken Enhanced",
+  "type": "Main Personality",
+  "num": "P11",
+  "lvl": 2,
+  "stages": [
+   33000,
+   29000,
+   25000,
+   21000,
+   17000,
+   13000,
+   9000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: At the end of combat, you may lower your MP 1 level and you may search your Life Deck or discard pile for a Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S6",
+  "_src": "PZP.jsonl:68"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.3,
+  "header_text": "GOKU",
+  "stages_text": "33,000\n29,000\n25,000\n21,000\n\n, 17,000\n13,000\n9,000\n5,000\n\n, 1,000\n500\n0",
+  "error": null
+ }
+}

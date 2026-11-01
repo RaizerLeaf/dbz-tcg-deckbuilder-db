@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P30",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P30_Android 17 - Battle Ready.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P30_Android 17 - Battle Ready.png",
+  "prefix": "P",
+  "number": 30,
+  "card_number": "P30",
+  "name_part": "Android 17 - Battle Ready",
+  "file_name": "Android 17",
+  "file_subtitle": "Battle Ready",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "171085cad8623dd82940c3b64b39a43aefb107ba"
+ },
+ "vision": {
+  "id": "PZP_MP_P30",
+  "name": "Android 17",
+  "sub": "Battle Ready",
+  "type": "Main Personality",
+  "num": "P30",
+  "lvl": 3,
+  "stages": [
+   1150000,
+   950000,
+   750000,
+   550000,
+   350000,
+   150000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "POWER: [Attack] Energy attack.\nAllies cannot have damage redirected to them this combat. If \"Android 17's Van\" is in play, damage from this attack cannot be prevented.\nDAMAGE: 6 life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:87"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.0,
+  "header_text": "F=| Boe 17\nLEVEL | BATTLE READY C) P30",
+  "stages_text": "1,150,000\n950,000\n750,000\n550,000\n\n350,000\n\n150,000\n\n100,000\n\n50,000\n25,000\n12,500\n0",
+  "error": null
+ }
+}

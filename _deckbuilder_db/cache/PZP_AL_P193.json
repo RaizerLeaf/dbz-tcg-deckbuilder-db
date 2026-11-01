@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P193",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P193_Mr. Popo - Guide.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P193_Mr. Popo - Guide.png",
+  "prefix": "P",
+  "number": 193,
+  "card_number": "P193",
+  "name_part": "Mr. Popo - Guide",
+  "file_name": "Mr. Popo",
+  "file_subtitle": "Guide",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "1150dd7cb1ceae6fedb41ee67f2f28fe223afb84"
+ },
+ "vision": {
+  "id": "PZP_AL_P193",
+  "name": "Mr. Popo",
+  "sub": "Guide",
+  "type": "Ally",
+  "num": "P193",
+  "lvl": 1,
+  "stages": [
+   1030,
+   930,
+   830,
+   730,
+   630,
+   530,
+   430,
+   330,
+   230,
+   130,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "God"
+  ],
+  "text": "[Continuous]: Each combat, the first Rejuvenation effect for both players is optional. Whenever a player Rejuvenates, that player's opponent may draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:40"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.7,
+  "header_text": "L mr. Popo\nLEVEL GUIDE ia:",
+  "stages_text": "1,030\n930\n830\n\n730\n630\n530\n430\n330\n230\n\n130\n0",
+  "error": null
+ }
+}

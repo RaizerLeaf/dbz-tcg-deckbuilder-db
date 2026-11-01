@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_25",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "25_Blue Defensive Flight.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/25_Blue Defensive Flight.jpg",
+  "prefix": null,
+  "number": 25,
+  "card_number": "25",
+  "name_part": "Blue Defensive Flight",
+  "file_name": "Blue Defensive Flight",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "3ac76a6e7269f28a90aa32d1f03ff554b8cd8710"
+ },
+ "vision": {
+  "id": "S01_BST_25",
+  "name": "Blue Defensive Flight",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "C25",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Defense] Stops a physical attack. Your Main Personality may pay any number of stages. For every 2 stages paid, lower your opponent's anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "title lettering is printed in orange/gold rather than white",
+  "_src": "S01.jsonl:25"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.3,
+  "header_text": "",
+  "stages_text": "",
+  "error": null
+ }
+}

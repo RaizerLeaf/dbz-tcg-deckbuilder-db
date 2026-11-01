@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_36",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "36_Orange Aura Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/36_Orange Aura Drill.jpg",
+  "prefix": null,
+  "number": 36,
+  "card_number": "36",
+  "name_part": "Orange Aura Drill",
+  "file_name": "Orange Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "eb8cbcc97f635b2e1cbd6e2b3c065d3a170c6d8d"
+ },
+ "vision": {
+  "id": "S01_BST_36",
+  "name": "Orange Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "C36",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 1. [Continuous]: Your energy attacks deal +2 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:36"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 65.5,
+  "header_text": "(ORANGE AURA DRL €) cas :",
+  "stages_text": ",\n7,\n7",
+  "error": null
+ }
+}

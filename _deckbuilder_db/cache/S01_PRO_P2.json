@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P2",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P2_Goku - Protector of Earth.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P2_Goku - Protector of Earth.jpg",
+  "prefix": "P",
+  "number": 2,
+  "card_number": "P2",
+  "name_part": "Goku - Protector of Earth",
+  "file_name": "Goku",
+  "file_subtitle": "Protector of Earth",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "d6957dd37011f19823077fd3d01b39feba544e35"
+ },
+ "vision": {
+  "id": "S01_PRO_P2",
+  "name": "Goku",
+  "sub": "Protector of Earth",
+  "type": "Main Personality",
+  "num": "P2",
+  "lvl": 1,
+  "stages": [
+   9001,
+   8000,
+   7000,
+   6000,
+   5000,
+   4000,
+   3000,
+   2000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [],
+  "text": "[Attack]: Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: You may discard a card from your hand to search your Life Deck for a Styled Drill and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "promo layout; type inferred from frame: right edge reads HERO",
+  "_src": "S01.jsonl:166"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 80.8,
+  "header_text": "=\nGOKU\n1 PROTECTOR OF EARTH y ) -2\nLEVEL Op \\2\n3 > anni",
+  "stages_text": "9,001\n\n8,000\n\n7,000\n\n6,000\n\n5,000\n\n7 4,000\n3,000\n2,000\n\n1,000\n\n500\n\n0",
+  "error": null
+ }
+}

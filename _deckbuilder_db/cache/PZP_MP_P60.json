@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P60",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P60_Gohan - Unlocked.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P60_Gohan - Unlocked.png",
+  "prefix": "P",
+  "number": 60,
+  "card_number": "P60",
+  "name_part": "Gohan - Unlocked",
+  "file_name": "Gohan",
+  "file_subtitle": "Unlocked",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "628f75070d8fa7364e7bbf1649addf28f7ce3840"
+ },
+ "vision": {
+  "id": "PZP_MP_P60",
+  "name": "Gohan",
+  "sub": "Unlocked",
+  "type": "Main Personality",
+  "num": "P60",
+  "lvl": 2,
+  "stages": [
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   50000,
+   25000,
+   12500,
+   6250,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks are considered Styled. Whenever your MP would advance a level, you may lower your MP 1 level instead.\nPOWER: Discard a card from your hand to search your Life Deck for a Styled [Attack] or [Defense] card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:117"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.2,
+  "header_text": "GOHAN",
+  "stages_text": "1,100,000\n900,000\n700,000\n500,000\n\n300,000\n\n100,000\n\n50,000\n\n25,000\n12,500\n6,250\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P157",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P157_ChiChi - Armed and Dangerous.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P157_ChiChi - Armed and Dangerous.png",
+  "prefix": "P",
+  "number": 157,
+  "card_number": "P157",
+  "name_part": "ChiChi - Armed and Dangerous",
+  "file_name": "ChiChi",
+  "file_subtitle": "Armed and Dangerous",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f436f47ed2ea899c4ce7be617d490f22b2376796"
+ },
+ "vision": {
+  "id": "PZP_AL_P157",
+  "name": "Chichi",
+  "sub": "Armed and Dangerous",
+  "type": "Ally",
+  "num": "P157",
+  "lvl": 1,
+  "stages": [
+   50,
+   45,
+   40,
+   35,
+   30,
+   25,
+   20,
+   15,
+   10,
+   5,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Goku, Gohan, or Goten, you may use this Power regardless of your MP's power stage.)\n[Defense] POWER: Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. FanZ update of S01 U69",
+  "_src": "PZP.jsonl:3"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "1 CHICHI\nLEVEL ARMED AND DANGEROUS €)evs1",
+  "stages_text": "50\n\n45\n\n40\n35\n30\n25\n20\n10\n\n5\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_43",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "43_Buu - Wild Card.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/43_Buu - Wild Card.png",
+  "prefix": null,
+  "number": 43,
+  "card_number": "43",
+  "name_part": "Buu - Wild Card",
+  "file_name": "Buu",
+  "file_subtitle": "Wild Card",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "9576deb2ac34455ec09182041d42d9f485a2d77d"
+ },
+ "vision": {
+  "id": "S14_BST_43",
+  "name": "Buu",
+  "sub": "Wild Card",
+  "type": "Main Personality",
+  "num": "S43",
+  "lvl": 1,
+  "stages": [
+   2750000,
+   1900000,
+   1400000,
+   900000,
+   600000,
+   400000,
+   200000,
+   70000,
+   40000,
+   8000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Majin"
+  ],
+  "text": "[Continuous]: Your Styled attacks deal +1 stage.\nPOWER: You may search your Life Deck for a non-Styled card and banish it. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "right edge reads 'VILLAIN' only (no ALLY) -> Main Personality; 'S' rarity letter in a booster set",
+  "_src": "S14.jsonl:44"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.0,
+  "header_text": "1 | Buu\n: LEVEL’ WILD CARD 543",
+  "stages_text": "2,750,000\n1,900,000\n1,400,000\n900,000\n600,000\n400,000\n200,000\n70,000\n40,000\n8,000\n0",
+  "error": null
+ }
+}

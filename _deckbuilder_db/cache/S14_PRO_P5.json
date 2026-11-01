@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P5",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P5_Gohan - Enhanced.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P5_Gohan - Enhanced.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Gohan - Enhanced",
+  "file_name": "Gohan",
+  "file_subtitle": "Enhanced",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "79aca6a415c655dd9f68679c73b0c0c704428f22"
+ },
+ "vision": {
+  "id": "S14_PRO_P5",
+  "name": "Gohan",
+  "sub": "Enhanced",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 1,
+  "stages": [
+   3500000,
+   2000000,
+   1000000,
+   700000,
+   300000,
+   100000,
+   50000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Instant] POWER: Use after you Rejuvenate during combat. Raise your anger 1. POWER: [Attack] Physical attack. Raise your anger 1. Search your discard pile for a Styled card and Rejuvenate it. DAMAGE: 4 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout; right edge reads HERO -> Main Personality; Trait badges N (orange, Namekian), E (Earthling), S (Saiyan)",
+  "_src": "S14.jsonl:58"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.2,
+  "header_text": "GOHAN )\n1 ENHANCED y a)",
+  "stages_text": "3,500,000\n72,000,000\n1,000,000\n700,000\n300,000\n100,000\n50,000\n10,000\n5,000\n1,000\n\n0",
+  "error": null
+ }
+}

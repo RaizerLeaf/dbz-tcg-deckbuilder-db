@@ -1,0 +1,66 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P8",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P8_Gohan - Determined.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P8_Gohan - Determined.png",
+  "prefix": "P",
+  "number": 8,
+  "card_number": "P8",
+  "name_part": "Gohan - Determined",
+  "file_name": "Gohan",
+  "file_subtitle": "Determined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f7eba67d123e5e41e8c75976e7b4a31fb1581e4b"
+ },
+ "vision": {
+  "id": "PZP_MP_P8",
+  "name": "Gohan",
+  "sub": "Determined",
+  "type": "Main Personality",
+  "num": "P8",
+  "lvl": 3,
+  "stages": [
+   400000,
+   350000,
+   300000,
+   250000,
+   200000,
+   150000,
+   100000,
+   75000,
+   7500,
+   750,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Namekian",
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nYou may lower your anger any amount. This attack deals +X life cards of damage. X = 2 times the amount lowered.\nDAMAGE: 6 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 S11",
+  "_src": "PZP.jsonl:65"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.2,
+  "header_text": "GOHAN",
+  "stages_text": "400,000\n350,000\n300,000\n\n250,000\n200,000\n150,000\n100,000\n\n75,000\n7,500\n\n750\n0",
+  "error": null
+ }
+}

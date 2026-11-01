@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_29",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "29_Saiyan Desperate Blast.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/29_Saiyan Desperate Blast.png",
+  "prefix": null,
+  "number": 29,
+  "card_number": "29",
+  "name_part": "Saiyan Desperate Blast",
+  "file_name": "Saiyan Desperate Blast",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "67e925b1b8fbdf4c03acf9ffcef0a8550476c76b"
+ },
+ "vision": {
+  "id": "S14_BST_29",
+  "name": "Saiyan Desperate Blast",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "R29",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "ENDURANCE 0.\n(If this card is destroyed from your Life Deck by one of your effects, you may banish it to search your discard pile for a Styled Drill and play it.)\n[Attack] 2: Energy attack.\nYou may destroy the top 3 cards of your Life Deck. If you do, this attack deals +3 life cards and is Unpreventable.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "Endurance badge printed as 0",
+  "_src": "S14.jsonl:29"
+ },
+ "ocr": {
+  "agreement": 0.969,
+  "lower_conf": 92.9,
+  "header_text": "SAIYAN DESPERATE BLAST Eé) R29",
+  "stages_text": "1",
+  "error": null
+ }
+}

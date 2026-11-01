@@ -19,21 +19,48 @@ images in this repository. Original images are never modified; all output goes i
    `work/sheets/<set>/` (git-ignored, regenerable)
 4. Vision transcriptions are appended to `work/vision/*.jsonl` (format in `ingest.py`)
 5. `python ingest.py`: merges inventory + OCR + vision -> `cache/<card_id>.json`
+6. `python derive.py --sets S01,S14,PZP --out work/pilot`: brief-schema records plus derived
+   fields (style, named, icons, keywords, limits, restrictions, filename checks) and an
+   OCR-vs-vision comparison -> `<out>/cards.json`, `cards.csv`, `ocr_compare.json`
+
+Vision text conventions: icons are written `[Attack] [Defense] [Continuous] [Instant]
+[Desperation]`; inline Trait icons as `[Trait:Earthling]`; FanZ Endurance badges as a leading
+`ENDURANCE N.` line; FanZ line breaks as `\n`. `rarity` is the printed letter code (C, U, R,
+UR, S, P), not interpreted.
 
 Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 
-## Status (2026-10-31)
+## Status (2026-11-01)
 - Phase 0 done: 3,113 images inventoried.
-- Phase 1 pilot (S01, S14, PZP = 652 images): OCR complete; vision pass not started.
-- Open questions for the owner: how MP vs Ally is decided for Personality cards (same
-  printed layout); how to treat Trait cards (`T_` files); meaning of the `DR` prefix; era
-  label for the PZP and OP folders (printed by FanZ, currently `era = FanZ`).
-- Layout findings so far: Masteries are the landscape images (385). MPs and Allies share one
-  printed "Personality" layout (Level, 11 stages, PUR, alignment) with no MP/Ally label; the
-  PZP `MPs`/`Allies` subfolders are ground truth for the role. FanZ personalities show small
-  lettered Trait badges just above the text box (e.g. E = Earthling, S = Saiyan, M = Majin).
-  The printed card number carries a rarity letter (C19, U23, R127, S44, P10). Some images
-  have a "(CRD)" stamp below the card: the owner's annotation, not card text. PanZ images
-  for Sets 1-6 are mostly ~465 px wide; still readable by eye, so OCR upscales them 3x.
-- Filename oddities to report in QA: duplicate numbers `S02 06` (Raditz / Tenshinhan),
-  `S10 54` (two cards), `PZP P43` (two Piccolos); typos such as `S01_Vegeta - Price of Saiyans`.
+- Phase 1 pilot (S01, S14, PZP = 652 images): OCR, vision pass, ingest and derive done.
+  Results and problem cards: `work/pilot/PILOT_REPORT.md`. Waiting for the owner's OK
+  before Phase 2.
+
+## Layout findings
+- PanZ Personalities print `ALLY` on the right edge for Allies and `HERO`/`VILLAIN` for MPs;
+  FanZ prints `HERO ALLY`, `VILLAIN ALLY` or `HERO/VILLAIN ALLY`. That edge label is used to
+  tell MPs from Allies (owner to confirm).
+- PanZ Masteries are landscape. FanZ Masteries (S14 P18-P27) are portrait, and FanZ
+  Setups/Drills are landscape, so orientation alone does not identify a Mastery.
+- FanZ Trait badges (letter in the corner): A Alien, R Android (Red Ribbon logo), E Earthling
+  (Capsule Corp logo), G God, M Majin, N Namekian, S Saiyan. R = Android was deduced from
+  the CRD Trait list (Android 19 shows only R).
+- The printed card number carries a rarity letter (C19, U23, R127, UR161, S44, P10); some
+  FanZ numbers also carry `PREVIEW` or `BONUS`.
+- Some images have a "(CRD)" or "(FROZEN)" stamp below the card: the owner's annotation,
+  not card text.
+- Filename oddities for the QA report: duplicate numbers `S02 06` (Raditz / Tenshinhan) and
+  `S10 54` (two cards); `PZP P43` is resolved (the "Ferocious" file prints P42). Pilot
+  filename typos are listed in the pilot report.
+- PanZ images for Sets 1-6 are ~465 px wide; still readable by eye, so OCR upscales them 3x.
+
+## Fixes to make before Phase 2
+- `ocr.py`: the landscape `lower` crop (x 0.15-0.85) cuts off the right edge of FanZ
+  landscape Setups/Drills, and OCR cannot read the Endurance badge. OCR is a cross-check
+  only, so this lowers OCR agreement but does not affect the vision records.
+- `sheets.py`: the personality heuristic depends on OCR and missed one full-art promo
+  (S14 P14 Buu) and FanZ portrait Masteries; full-card 2-up sheets worked better for
+  high-res FanZ cards.
+
+## Open questions for the owner
+See `work/pilot/PILOT_REPORT.md` (section "Open questions").

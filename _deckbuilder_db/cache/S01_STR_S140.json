@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S140",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S140_Red Power Rush.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S140_Red Power Rush.jpg",
+  "prefix": "S",
+  "number": 140,
+  "card_number": "S140",
+  "name_part": "Red Power Rush",
+  "file_name": "Red Power Rush",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ff89abfbb8a483912f72c35f1f259f65ead81e9b"
+ },
+ "vision": {
+  "id": "S01_STR_S140",
+  "name": "Red Power Rush",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S140",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. If you have 3 or more anger, this attack cannot be stopped or have its damage prevented by Physical Combat cards.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:325"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "(RED POWER RUSH €) S140\nwe a ae",
+  "stages_text": ",",
+  "error": null
+ }
+}

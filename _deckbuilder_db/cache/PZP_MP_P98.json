@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P98",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P98_Dr. Wheelo - Scheming.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P98_Dr. Wheelo - Scheming.png",
+  "prefix": "P",
+  "number": 98,
+  "card_number": "P98",
+  "name_part": "Dr. Wheelo - Scheming",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Scheming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "739958255583e6ffceaf9d8df8bf0aff6516db01"
+ },
+ "vision": {
+  "id": "PZP_MP_P98",
+  "name": "Dr. Wheelo",
+  "sub": "Scheming",
+  "type": "Main Personality",
+  "num": "P98",
+  "lvl": 2,
+  "stages": [
+   1000,
+   900,
+   800,
+   700,
+   600,
+   500,
+   400,
+   300,
+   200,
+   100,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Your attacks deal +2 life cards. Whenever you stop an attack, destroy the top card of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:155"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.6,
+  "header_text": "— DR. WHEELO\nLEVEL SCHEMING () P98\nNw",
+  "stages_text": "1,000\n900\n800\n700\n\n7\n600\n500\n400\n300\n200\n100\n0",
+  "error": null
+ }
+}

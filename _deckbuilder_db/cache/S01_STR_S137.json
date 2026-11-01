@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S137",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S137_Namekian Side Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S137_Namekian Side Kick.jpg",
+  "prefix": "S",
+  "number": 137,
+  "card_number": "S137",
+  "name_part": "Namekian Side Kick",
+  "file_name": "Namekian Side Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "f72ba1bdde6901ee23193f3e9221381f0d520480"
+ },
+ "vision": {
+  "id": "S01_STR_S137",
+  "name": "Namekian Side Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S137",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 life cards. Lower your opponent's anger 2 levels. HIT: Draw the top card of your discard pile.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:322"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "(NAMEKIAN SIDE KICK () 5137",
+  "stages_text": "2\n4",
+  "error": null
+ }
+}

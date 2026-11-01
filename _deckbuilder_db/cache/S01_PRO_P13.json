@@ -1,0 +1,62 @@
+{
+ "inventory": {
+  "card_id": "S01_PRO_P13",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "promo",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Promos)",
+  "filename": "P13_Frieza - Tyrant.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Promos)/P13_Frieza - Tyrant.jpg",
+  "prefix": "P",
+  "number": 13,
+  "card_number": "P13",
+  "name_part": "Frieza - Tyrant",
+  "file_name": "Frieza",
+  "file_subtitle": "Tyrant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "c7ab7725e23a9145cd4bd3d802df3dcc8c274bfc"
+ },
+ "vision": {
+  "id": "S01_PRO_P13",
+  "name": "Frieza",
+  "sub": "Tyrant",
+  "type": "Main Personality",
+  "num": "P13",
+  "lvl": 1,
+  "stages": [
+   94000,
+   79000,
+   64000,
+   49000,
+   34000,
+   19000,
+   9000,
+   4500,
+   900,
+   450,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [],
+  "text": "[Continuous]: When you stop an attack, you may raise your anger 1 level.",
+  "conf": "high",
+  "review": null,
+  "note": "standard Set 1 personality layout (not the white-bar promo layout); type inferred from frame: right edge reads VILLAIN",
+  "_src": "S01.jsonl:177"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.5,
+  "header_text": "FRIEZA ae\n1 TYRANT re () Pls\nLEVEL _ _\n— _ _—_ ll _ .",
+  "stages_text": "94,000\n79,000\n64,000\n49,000\n34,000\n19,000\n5 9,000\n4,500\n\n900\n\n450\n\n0",
+  "error": null
+ }
+}

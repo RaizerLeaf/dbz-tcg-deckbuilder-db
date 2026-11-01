@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P213",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P213_Trunks - Energy Charged.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P213_Trunks - Energy Charged.png",
+  "prefix": "P",
+  "number": 213,
+  "card_number": "P213",
+  "name_part": "Trunks - Energy Charged",
+  "file_name": "Trunks",
+  "file_subtitle": "Energy Charged",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2dc2997a3c3ac5ad2b6d8402637f1af4c5b81884"
+ },
+ "vision": {
+  "id": "PZP_MP_P213",
+  "name": "Trunks",
+  "sub": "Energy Charged",
+  "type": "Main Personality",
+  "num": "P213",
+  "lvl": 3,
+  "stages": [
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: When entering combat, look at the top 6 cards of your Life Deck and put them back in any order. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). FanZ update of S01 U64 (same)",
+  "_src": "PZP.jsonl:215"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.2,
+  "header_text": "=3 TRUNKS\nLEVEL ENERGY CHARGED () P213\nTie ie",
+  "stages_text": "1,100,000\n900,000\n700,000\n500,000\n\n300,000\n100,000\n50,000\n25,000\n10,000\n5,000\n\n0",
+  "error": null
+ }
+}

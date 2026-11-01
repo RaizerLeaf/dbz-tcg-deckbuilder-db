@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P74",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P74_Trunks - Overwhelming.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P74_Trunks - Overwhelming.png",
+  "prefix": "P",
+  "number": 74,
+  "card_number": "P74",
+  "name_part": "Trunks - Overwhelming",
+  "file_name": "Trunks",
+  "file_subtitle": "Overwhelming",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "48e67763dcaa1157524c4f37e56585da26eb9b1e"
+ },
+ "vision": {
+  "id": "PZP_MP_P74",
+  "name": "Trunks",
+  "sub": "Overwhelming",
+  "type": "Main Personality",
+  "num": "P74",
+  "lvl": 4,
+  "stages": [
+   1850000,
+   1550000,
+   1250000,
+   950000,
+   650000,
+   350000,
+   250000,
+   150000,
+   50000,
+   25000,
+   0
+  ],
+  "pur": 5,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks with \"Sword\" in the title cannot be stopped and gain \"Raise your anger 1 level\"\nPOWER: Skip your next 2 actions this combat. Raise your anger 2 levels.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY). No closing period inside the quoted text, as printed",
+  "_src": "PZP.jsonl:131"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 85.2,
+  "header_text": "A TRUNKS\nLEVEL OVERWHELMING () P74\n| ¥ f/f ~¥+¥*f £4xF gf",
+  "stages_text": ",1,850,000\n1,550,000\n1,250,000\n\n950,000\n\n650,000\n\n350,000\n\n250,000\n\n150,000\n50,000\n25,000\n\n0",
+  "error": null
+ }
+}

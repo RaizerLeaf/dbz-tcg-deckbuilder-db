@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P47",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P47_Unleashed.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P47_Unleashed.png",
+  "prefix": "P",
+  "number": 47,
+  "card_number": "P47",
+  "name_part": "Unleashed",
+  "file_name": "Unleashed",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "7fa6fe218a5546b33e6c562b2330e79513194bb6"
+ },
+ "vision": {
+  "id": "S14_PRO_P47",
+  "name": "Unleashed",
+  "sub": null,
+  "type": "Event",
+  "num": "P47",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You cannot win by MPPV if you use this card.)\nPOWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S14.jsonl:100"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 94.1,
+  "header_text": "UNLEASHED () P47\nVW) ° ae",
+  "stages_text": "0\n2\n3\n1\n,1,\n1,",
+  "error": null
+ }
+}

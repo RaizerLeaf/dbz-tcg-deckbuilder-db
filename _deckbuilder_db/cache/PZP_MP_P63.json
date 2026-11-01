@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P63",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P63_Goku - Training.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P63_Goku - Training.png",
+  "prefix": "P",
+  "number": 63,
+  "card_number": "P63",
+  "name_part": "Goku - Training",
+  "file_name": "Goku",
+  "file_subtitle": "Training",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "84e098361bd6a948272154a299e1ad27214ed44f"
+ },
+ "vision": {
+  "id": "PZP_MP_P63",
+  "name": "Goku",
+  "sub": "Training",
+  "type": "Main Personality",
+  "num": "P63",
+  "lvl": 1,
+  "stages": [
+   800000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   10000,
+   5000,
+   2500,
+   1250,
+   0
+  ],
+  "pur": 2,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks deal +1 life card of damage.\n[Instant] POWER: Use when entering combat. Draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.7,
+  "header_text": "GOKU",
+  "stages_text": "800,000\n400,000\n200,000\n100,000\n\n, 50,000\n25,000\n10,000\n5,000\n\n, 2,500\n1,250\n0",
+  "error": null
+ }
+}

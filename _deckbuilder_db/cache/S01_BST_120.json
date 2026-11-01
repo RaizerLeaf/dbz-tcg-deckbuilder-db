@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_120",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "120_Vegeta’s Anger.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/120_Vegeta’s Anger.jpg",
+  "prefix": null,
+  "number": 120,
+  "card_number": "120",
+  "name_part": "Vegeta’s Anger",
+  "file_name": "Vegeta’s Anger",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "91153c215b57d927d82031126681239325b6589f"
+ },
+ "vision": {
+  "id": "S01_BST_120",
+  "name": "Vegeta's Anger",
+  "sub": null,
+  "type": "Event",
+  "num": "U120",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(You may have only one \"Vegeta's Anger\" attached.) POWER: Attach to your MP. Draw a card. [Continuous]: While attached, your MP is considered to have a higher power level than the defending personality for your card effects.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:120"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 81.6,
+  "header_text": "(VEGETA'S ANGER () W120\nim a |",
+  "stages_text": "",
+  "error": null
+ }
+}

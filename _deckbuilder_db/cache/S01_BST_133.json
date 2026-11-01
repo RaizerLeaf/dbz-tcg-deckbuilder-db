@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_133",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "133_Namekian Overtime.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/133_Namekian Overtime.jpg",
+  "prefix": null,
+  "number": 133,
+  "card_number": "133",
+  "name_part": "Namekian Overtime",
+  "file_name": "Namekian Overtime",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "ac1207b3796755807c9838d264080ec1d6e5bb8e"
+ },
+ "vision": {
+  "id": "S01_BST_133",
+  "name": "Namekian Overtime",
+  "sub": null,
+  "type": "Event",
+  "num": "R133",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) POWER: Rejuvenate 1. Destroy the top X cards of your opponent's Life Deck. X = the number of Dragon Balls you control. Search your Life Deck for a Styled Energy Combat card and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:133"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.9,
+  "header_text": "(NAMEKIAN OVERTIME () ass",
+  "stages_text": "4\n2 3\n4\n4\n7\n1,",
+  "error": null
+ }
+}

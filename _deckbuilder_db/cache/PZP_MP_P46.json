@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P46",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P46_Trunks - Defiant.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P46_Trunks - Defiant.png",
+  "prefix": "P",
+  "number": 46,
+  "card_number": "P46",
+  "name_part": "Trunks - Defiant",
+  "file_name": "Trunks",
+  "file_subtitle": "Defiant",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "4c2d3e3f8084823fb941d25549136ceb0e66dbad"
+ },
+ "vision": {
+  "id": "PZP_MP_P46",
+  "name": "Trunks",
+  "sub": "Defiant",
+  "type": "Main Personality",
+  "num": "P46",
+  "lvl": 3,
+  "stages": [
+   1000000,
+   900000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   50000,
+   25000,
+   12500,
+   0
+  ],
+  "pur": 4,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card that is Styled or has \"Sword\" in the title from your discard pile and place it into your hand. Your opponent skips their next action this combat.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'HERO' (no ALLY)",
+  "_src": "PZP.jsonl:103"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 90.3,
+  "header_text": "TRUNKS",
+  "stages_text": "1,000,000\n900,000\n800,000\n600,000\n\n400,000\n\n200,000\n\n100,000\n\n50,000\n25,000\n12,500\n0",
+  "error": null
+ }
+}

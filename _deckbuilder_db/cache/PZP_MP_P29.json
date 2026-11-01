@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P29",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P29_Android 17 - Imposing.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P29_Android 17 - Imposing.png",
+  "prefix": "P",
+  "number": 29,
+  "card_number": "P29",
+  "name_part": "Android 17 - Imposing",
+  "file_name": "Android 17",
+  "file_subtitle": "Imposing",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "8ffd919f11b5f8212e72be38bdaa7482812f6bd9"
+ },
+ "vision": {
+  "id": "PZP_MP_P29",
+  "name": "Android 17",
+  "sub": "Imposing",
+  "type": "Main Personality",
+  "num": "P29",
+  "lvl": 2,
+  "stages": [
+   850000,
+   650000,
+   450000,
+   250000,
+   150000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nYou may destroy an opponent's Ally.\nDAMAGE: AT + 3 stages.\nHIT: Search your discard pile or Banished Zone for \"Android 17's Van\" and place it into play.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:86"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.3,
+  "header_text": "=) ANDROID 17\n: IMPOSING P29",
+  "stages_text": "850,000\n650,000\n450,000\n250,000\n\n150,000\n\n50,000\n\n25,000\n\n10,000\n5,000\n1,000\n0",
+  "error": null
+ }
+}

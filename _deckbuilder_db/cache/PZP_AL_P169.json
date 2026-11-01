@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P169",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P169_Trunks - Bashful.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P169_Trunks - Bashful.png",
+  "prefix": "P",
+  "number": 169,
+  "card_number": "P169",
+  "name_part": "Trunks - Bashful",
+  "file_name": "Trunks",
+  "file_subtitle": "Bashful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "46978f9d8fb0d6b04c1ce6e930a010c59bd23220"
+ },
+ "vision": {
+  "id": "PZP_AL_P169",
+  "name": "Trunks",
+  "sub": "Bashful",
+  "type": "Ally",
+  "num": "P169",
+  "lvl": 1,
+  "stages": [
+   95000,
+   85000,
+   75000,
+   65000,
+   55000,
+   45000,
+   35000,
+   25000,
+   20000,
+   15000,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Saiyan"
+  ],
+  "text": "(You may use this Power regardless of your MP's power stage.)\n[Instant] POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:16"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 86.4,
+  "header_text": "1 Es\nLEVEL | BASHFUL @ res",
+  "stages_text": ", 95,000\n85,000\n75,000\n\n85,000\n\n55,000\n\n45,000\n\n35,000\n\n25,000\n20,000\n\n15,000\n\n0",
+  "error": null
+ }
+}

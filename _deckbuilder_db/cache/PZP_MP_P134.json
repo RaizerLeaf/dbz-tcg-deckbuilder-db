@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P134",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P134_Android 13 - Dark Villain.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P134_Android 13 - Dark Villain.png",
+  "prefix": "P",
+  "number": 134,
+  "card_number": "P134",
+  "name_part": "Android 13 - Dark Villain",
+  "file_name": "Android 13",
+  "file_subtitle": "Dark Villain",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "60f91e41d37f1448600775ebb64a99477b9256e5"
+ },
+ "vision": {
+  "id": "PZP_MP_P134",
+  "name": "Android 13",
+  "sub": "Dark Villain",
+  "type": "Main Personality",
+  "num": "P134",
+  "lvl": 3,
+  "stages": [
+   1900000,
+   1700000,
+   1500000,
+   1300000,
+   1100000,
+   900000,
+   700000,
+   500000,
+   300000,
+   100000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Android"
+  ],
+  "text": "[Instant] POWER: Use when entering combat. Your opponent's MP loses 4 stages. Your opponent skips their first action this combat.\nPOWER: [Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: Your opponent's [Continuous] Powers cannot be used this turn.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:192"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.8,
+  "header_text": "—3 | ANDROID 13\n: LEVEL | DARK VILLAIN P134",
+  "stages_text": "1,900,000\n1,700,000\n1,500,000\n1,300,000\n1,100,000\n900,000\n700,000\n500,000\n300,000\n100,000\n\n0",
+  "error": null
+ }
+}

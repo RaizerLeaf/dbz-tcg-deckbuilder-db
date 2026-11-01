@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S119",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S119_Red Surrounded Beams.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S119_Red Surrounded Beams.jpg",
+  "prefix": "S",
+  "number": 119,
+  "card_number": "S119",
+  "name_part": "Red Surrounded Beams",
+  "file_name": "Red Surrounded Beams",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "07644a19a9773421d57b05615641124f3b1d209d"
+ },
+ "vision": {
+  "id": "S01_STR_S119",
+  "name": "Red Surrounded Beams",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "S119",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Raise your anger 1 level. If you advance a personality level with this card, this attack cannot be stopped.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:304"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.2,
+  "header_text": "(RED SURROUNDED: BEAMS C) sis\n“Pie | oe i",
+  "stages_text": "",
+  "error": null
+ }
+}

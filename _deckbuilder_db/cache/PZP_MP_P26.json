@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P26",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P26_Vegeta - Empowered.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P26_Vegeta - Empowered.png",
+  "prefix": "P",
+  "number": 26,
+  "card_number": "P26",
+  "name_part": "Vegeta - Empowered",
+  "file_name": "Vegeta",
+  "file_subtitle": "Empowered",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cff5f81d664e97db69cee848e6a157a955953f70"
+ },
+ "vision": {
+  "id": "PZP_MP_P26",
+  "name": "Vegeta",
+  "sub": "Empowered",
+  "type": "Main Personality",
+  "num": "P26",
+  "lvl": 3,
+  "stages": [
+   150000,
+   125000,
+   100000,
+   75000,
+   50000,
+   25000,
+   10000,
+   5000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "[Continuous]: Your attacks that raise your anger deal +3 stages and +3 life cards of damage.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). FanZ update of S01 S3",
+  "_src": "PZP.jsonl:83"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.9,
+  "header_text": "3 VEGETA\nLEVEL EMPOWERED C) P26",
+  "stages_text": "150,000\n125,000\n100,000\n\n75,000\n\n50,000\n\n25,000\n\n10,000\n\n5,000\n\n1,000\n\n500\n0",
+  "error": null
+ }
+}

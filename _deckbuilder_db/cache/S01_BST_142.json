@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_142",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "142_Red Heel Kick.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/142_Red Heel Kick.jpg",
+  "prefix": null,
+  "number": 142,
+  "card_number": "142",
+  "name_part": "Red Heel Kick",
+  "file_name": "Red Heel Kick",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "df2ec501e149642b32bafbc5469e43632a1bcd9f"
+ },
+ "vision": {
+  "id": "S01_BST_142",
+  "name": "Red Heel Kick",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "R142",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Physical attack. DAMAGE: AT +2 stages. Raise your anger 1 level. You may lower your anger 2 levels to choose a Styled attack in your discard pile except \"Red Heel Kick\" and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:142"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.0,
+  "header_text": "(RED HEEL KICK () alae",
+  "stages_text": ",",
+  "error": null
+ }
+}

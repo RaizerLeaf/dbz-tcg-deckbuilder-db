@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P31",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P31_Blue Battle Readiness.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P31_Blue Battle Readiness.png",
+  "prefix": "P",
+  "number": 31,
+  "card_number": "P31",
+  "name_part": "Blue Battle Readiness",
+  "file_name": "Blue Battle Readiness",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 1054,
+  "height": 754,
+  "orientation": "landscape",
+  "sha1": "ed755646839efca73566d27fe8ba71cb79f3fb42"
+ },
+ "vision": {
+  "id": "S14_PRO_P31",
+  "name": "Blue Battle Readiness",
+  "sub": null,
+  "type": "Setup",
+  "num": "P31",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "POWER: Search your Life Deck for an Ally and place it into play at 3 stages above 0. Search your discard pile for an Ally and place it into play at 3 stages above 0.",
+  "conf": "high",
+  "review": null,
+  "note": "landscape FanZ Setup layout; FanZ reprint of S01 C20 (same text)",
+  "_src": "S14.jsonl:84"
+ },
+ "ocr": {
+  "agreement": 0.914,
+  "lower_conf": 94.6,
+  "header_text": "BLUE BATTLE READINESS C) P31 |",
+  "stages_text": null,
+  "error": null
+ }
+}

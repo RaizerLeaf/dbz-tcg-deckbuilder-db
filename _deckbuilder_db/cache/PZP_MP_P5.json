@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P5",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P5_Frieza - Golden.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P5_Frieza - Golden.png",
+  "prefix": "P",
+  "number": 5,
+  "card_number": "P5",
+  "name_part": "Frieza - Golden",
+  "file_name": "Frieza",
+  "file_subtitle": "Golden",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "c4bc9962d11addd6716410da1f1b10b9cfd72ddc"
+ },
+ "vision": {
+  "id": "PZP_MP_P5",
+  "name": "Frieza",
+  "sub": "Golden",
+  "type": "Main Personality",
+  "num": "P5",
+  "lvl": 2,
+  "stages": [
+   150000000,
+   25000000,
+   1250000,
+   600000,
+   300000,
+   150000,
+   75000,
+   30000,
+   15000,
+   7500,
+   0
+  ],
+  "pur": 3,
+  "align": "Villain",
+  "traits": [
+   "Alien"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nGain 3 stages. You may Rejuvenate a Frieza Named card from your discard pile or Banished Zone. If you do, use a critical damage effect.\nDAMAGE: AT life cards.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:62"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 84.5,
+  "header_text": "ce FRIEZA\nLEVEL GOLDEN () PS",
+  "stages_text": "150,000,000\n25,000,000\n1,250,000\n600,000\n300,000\n150,000\n75,000\n30,000\n15,000\n7,500\n0",
+  "error": null
+ }
+}

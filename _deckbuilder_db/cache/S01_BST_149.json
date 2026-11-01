@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_149",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "149_Dragon Radar.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/149_Dragon Radar.jpg",
+  "prefix": null,
+  "number": 149,
+  "card_number": "149",
+  "name_part": "Dragon Radar",
+  "file_name": "Dragon Radar",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "4b13783644b7a869cd86ca54b625eccd74c7954e"
+ },
+ "vision": {
+  "id": "S01_BST_149",
+  "name": "Dragon Radar",
+  "sub": null,
+  "type": "Setup",
+  "num": "R149",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Limit 1 per deck. Banish after use.) POWER: Search your Life Deck for a Dragon Ball and play it.",
+  "conf": "high",
+  "review": null,
+  "note": "grey (non-styled) frame",
+  "_src": "S01.jsonl:149"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.7,
+  "header_text": "| ———— —\n(DRAGON RADAR. > () mas",
+  "stages_text": "5",
+  "error": null
+ }
+}

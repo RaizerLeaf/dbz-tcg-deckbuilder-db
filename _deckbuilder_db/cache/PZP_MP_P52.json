@@ -1,0 +1,68 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P52",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P52_Cell - Imperfect.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P52_Cell - Imperfect.png",
+  "prefix": "P",
+  "number": 52,
+  "card_number": "P52",
+  "name_part": "Cell - Imperfect",
+  "file_name": "Cell",
+  "file_subtitle": "Imperfect",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "cef7fb48c16e0e45aeafb08a93a00e116407b950"
+ },
+ "vision": {
+  "id": "PZP_MP_P52",
+  "name": "Cell",
+  "sub": "Imperfect",
+  "type": "Main Personality",
+  "num": "P52",
+  "lvl": 1,
+  "stages": [
+   145000,
+   105000,
+   65000,
+   25000,
+   21000,
+   17000,
+   13000,
+   9000,
+   5000,
+   1000,
+   0
+  ],
+  "pur": 2,
+  "align": "Villain",
+  "traits": [
+   "Alien",
+   "Android",
+   "Earthling",
+   "Namekian",
+   "Saiyan"
+  ],
+  "text": "(This attack is considered Styled.)\nPOWER: [Attack] Energy attack.\nDestroy the top card of your Life Deck.\nDAMAGE: AT + 3 stages.\nHIT: If the top card of your discard pile is Styled, gain 3 stages.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:109"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 78.8,
+  "header_text": ": IMPERFECT P52",
+  "stages_text": "145,000\n105,000\n65,000\n25,000\n21,000\n17,000\n13,000\n9,000\n\n5,000\n\n1,000\n0",
+  "error": null
+ }
+}

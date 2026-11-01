@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P99",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P99_Dr. Wheelo - Confined.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P99_Dr. Wheelo - Confined.png",
+  "prefix": "P",
+  "number": 99,
+  "card_number": "P99",
+  "name_part": "Dr. Wheelo - Confined",
+  "file_name": "Dr. Wheelo",
+  "file_subtitle": "Confined",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "2603a5bf2679dbf3779f086eeee43e02cf16d4f9"
+ },
+ "vision": {
+  "id": "PZP_MP_P99",
+  "name": "Dr. Wheelo",
+  "sub": "Confined",
+  "type": "Main Personality",
+  "num": "P99",
+  "lvl": 3,
+  "stages": [
+   1400,
+   1350,
+   1300,
+   1250,
+   1200,
+   1150,
+   1100,
+   1000,
+   900,
+   800,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "[Continuous]: Whenever one of your effects destroys cards from the top of your opponent's Life Deck, increase that amount by 1.\n[Instant] POWER: Use after you perform a successful attack. Destroy the top 2 cards of your opponent's Life Deck and Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). PUR 4 (same as Level 2)",
+  "_src": "PZP.jsonl:156"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.5,
+  "header_text": "=3 DR. WHEELO\nLEVEL CONFINED () P99",
+  "stages_text": "1,400\n\n1,350\n\n1,300\n\n1,250\n\n1,200\n9\n\n1,150\n\n1,100\n9\n\n1,000\n\n900\n\n800\n\n0",
+  "error": null
+ }
+}

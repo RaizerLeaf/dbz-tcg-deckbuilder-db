@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P40",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P40_Red Knee Lift.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P40_Red Knee Lift.png",
+  "prefix": "P",
+  "number": 40,
+  "card_number": "P40",
+  "name_part": "Red Knee Lift",
+  "file_name": "Red Knee Lift",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "18c4876e6a3d5c1398cc989642b8b44a534078f2"
+ },
+ "vision": {
+  "id": "S14_PRO_P40",
+  "name": "Red Knee Lift",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "P40",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nYou may use a critical damage effect.\nDAMAGE: AT stages.\nHIT: You may lower your anger 1. If you do, use a critical damage effect.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:93"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 92.2,
+  "header_text": "RED KNEE LIFT C) P40\n—_— - le iy a",
+  "stages_text": ",\n4",
+  "error": null
+ }
+}

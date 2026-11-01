@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P106",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P106_Lord Slug - Successful.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P106_Lord Slug - Successful.png",
+  "prefix": "P",
+  "number": 106,
+  "card_number": "P106",
+  "name_part": "Lord Slug - Successful",
+  "file_name": "Lord Slug",
+  "file_subtitle": "Successful",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "927c329b04271c589135f545ebe291fbe7c105a3"
+ },
+ "vision": {
+  "id": "PZP_MP_P106",
+  "name": "Lord Slug",
+  "sub": "Successful",
+  "type": "Main Personality",
+  "num": "P106",
+  "lvl": 2,
+  "stages": [
+   45000,
+   40000,
+   35000,
+   30000,
+   25000,
+   20000,
+   15000,
+   10000,
+   1000,
+   500,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Namekian"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDAMAGE: AT + 3 stages.\nHIT: Rejuvenate 2.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:163"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 82.5,
+  "header_text": "#— LORD SLUG\n: LEVEL SUCCESSFUL P106\nSS |",
+  "stages_text": ", 45,000\n40,000\n35,000\n30,000\n\n25,000\n\n20,000\n\n15,000\n10,000\n\n1,000\n500\n0",
+  "error": null
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P44",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P44_Saiyan Prepped Ball.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P44_Saiyan Prepped Ball.png",
+  "prefix": "P",
+  "number": 44,
+  "card_number": "P44",
+  "name_part": "Saiyan Prepped Ball",
+  "file_name": "Saiyan Prepped Ball",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "f8a8dc33f726dfd0d8fd934d669fe3c38f0df6a0"
+ },
+ "vision": {
+  "id": "S14_PRO_P44",
+  "name": "Saiyan Prepped Ball",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "P44",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Heroes only.)\n[Attack] 2: Energy attack.\nYou may search your discard pile for a Styled Event and place it into your hand.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:97"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.2,
+  "header_text": "SAIYAN PREPPED BALL C) P44\newes Ee err",
+  "stages_text": ",",
+  "error": null
+ }
+}

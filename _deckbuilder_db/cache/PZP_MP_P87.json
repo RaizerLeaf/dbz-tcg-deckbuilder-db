@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P87",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P87_Nappa - Overconfident.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P87_Nappa - Overconfident.png",
+  "prefix": "P",
+  "number": 87,
+  "card_number": "P87",
+  "name_part": "Nappa - Overconfident",
+  "file_name": "Nappa",
+  "file_subtitle": "Overconfident",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "11c528974d833f2e878b21b32fb70f888d4eb41c"
+ },
+ "vision": {
+  "id": "PZP_MP_P87",
+  "name": "Nappa",
+  "sub": "Overconfident",
+  "type": "Main Personality",
+  "num": "P87",
+  "lvl": 3,
+  "stages": [
+   14000,
+   13000,
+   12000,
+   11000,
+   10000,
+   9000,
+   8000,
+   7000,
+   6000,
+   5000,
+   0
+  ],
+  "pur": 4,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "POWER: [Attack] Physical attack.\nDAMAGE: 7 stages.\nHIT: Banish a Drill or Ally.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY). Nappa in this folder has Levels 1, 3, 4 only (no Level 2)",
+  "_src": "PZP.jsonl:144"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 83.9,
+  "header_text": "SS NAPPA pay\nLEVEL OVERCONFIDENT",
+  "stages_text": "14,000\n43,000\n12,000\n11,000\n\n7\n10,000\n9,000\n8,000\n7,000\n6,000\n5,000\n0",
+  "error": null
+ }
+}

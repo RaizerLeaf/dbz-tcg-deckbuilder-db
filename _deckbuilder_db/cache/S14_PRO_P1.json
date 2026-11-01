@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "S14_PRO_P1",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "promo",
+  "source_folder": "14_Set 14 (Showdown)/Showdown (Promos)",
+  "filename": "P1_Android 18 - Settled Down.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown (Promos)/P1_Android 18 - Settled Down.png",
+  "prefix": "P",
+  "number": 1,
+  "card_number": "P1",
+  "name_part": "Android 18 - Settled Down",
+  "file_name": "Android 18",
+  "file_subtitle": "Settled Down",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "d7df068cd01e953f72e18a315de21f86482b8b29"
+ },
+ "vision": {
+  "id": "S14_PRO_P1",
+  "name": "Android 18",
+  "sub": "Settled Down",
+  "type": "Main Personality",
+  "num": "P1",
+  "lvl": 1,
+  "stages": [
+   250000,
+   150000,
+   100000,
+   50000,
+   25000,
+   15000,
+   10000,
+   7000,
+   4000,
+   1000,
+   0
+  ],
+  "pur": 3,
+  "align": "Hero",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(Your attacks with \"Android\" in the title are considered Styled.)\n[Continuous]: Your Styled attacks cost -1 stage (to a minimum of 0).\nPOWER: [Attack] 1: Energy attack.\nRaise your anger 1. DAMAGE: 2 life cards.\nHIT: Search your discard pile for a Styled card or card with \"Android\" in the title and Rejuvenate it.",
+  "conf": "high",
+  "review": null,
+  "note": "full-art promo layout (Japanese name art); right edge reads 'HERO' -> Main Personality. Trait badges E + R sit just above the text box",
+  "_src": "S14.jsonl:54"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 75.3,
+  "header_text": "ANDROID 18\n1 SETTLED DOWN y =r}",
+  "stages_text": "250,000\n150,000\n100,000\n50,000\n\n5 25,000\n15,000\n10,000\n7,000\n\n4,000\n\n1,000\n\n0",
+  "error": null
+ }
+}

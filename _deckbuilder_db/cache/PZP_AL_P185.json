@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P185",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P185_Maron - Popular.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P185_Maron - Popular.png",
+  "prefix": "P",
+  "number": 185,
+  "card_number": "P185",
+  "name_part": "Maron - Popular",
+  "file_name": "Maron",
+  "file_subtitle": "Popular",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "e44fa92cc9d1172eec85b027805983df75362963"
+ },
+ "vision": {
+  "id": "PZP_AL_P185",
+  "name": "Maron",
+  "sub": "Popular",
+  "type": "Ally",
+  "num": "P185",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "[Continuous]: Whenever you use a critical damage effect, your MP gains 1 stage.\nPOWER: If your MP is Krillin, discard a Styled card from your hand to shuffle your Life Deck and draw a card.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'",
+  "_src": "PZP.jsonl:32"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.6,
+  "header_text": "1 Eo C)\nLEVEL | POPULAR P185",
+  "stages_text": "10\n\n8\n\n7\n6\n5\n\n4\n3\n2\n\n1\n\n0",
+  "error": null
+ }
+}

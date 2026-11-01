@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S76",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S76_Namekian Crushing Slam.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S76_Namekian Crushing Slam.jpg",
+  "prefix": "S",
+  "number": 76,
+  "card_number": "S76",
+  "name_part": "Namekian Crushing Slam",
+  "file_name": "Namekian Crushing Slam",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "9823a290286cfce430d87af3a23d231272517029"
+ },
+ "vision": {
+  "id": "S01_STR_S76",
+  "name": "Namekian Crushing Slam",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "S76",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) ENDURANCE 2. [Attack] Physical attack. DAMAGE: AT +3 stages. Shuffle the top 2 cards from your discard pile into your Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:261"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 87.2,
+  "header_text": "(NAMEKIAN CRUSHING:SEAM C) S76",
+  "stages_text": ",",
+  "error": null
+ }
+}

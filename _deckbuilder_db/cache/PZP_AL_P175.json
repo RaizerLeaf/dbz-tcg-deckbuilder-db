@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P175",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P175_Icarus - Supportive.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P175_Icarus - Supportive.png",
+  "prefix": "P",
+  "number": 175,
+  "card_number": "P175",
+  "name_part": "Icarus - Supportive",
+  "file_name": "Icarus",
+  "file_subtitle": "Supportive",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3cc4c8c2f508b895e76db185ea4c8aef64a53606"
+ },
+ "vision": {
+  "id": "PZP_AL_P175",
+  "name": "Icarus",
+  "sub": "Supportive",
+  "type": "Ally",
+  "num": "P175",
+  "lvl": 1,
+  "stages": [
+   10,
+   9,
+   8,
+   7,
+   6,
+   5,
+   4,
+   3,
+   2,
+   1,
+   0
+  ],
+  "pur": 1,
+  "align": "Hero",
+  "traits": [
+   "Earthling"
+  ],
+  "text": "(If your MP is Gohan, you may use this Power regardless of your MP's power stage.)\n[Continuous]: Your other [Trait:Earthling] Allies cannot be destroyed or banished by your opponent's card effects.\nPOWER: [Attack] Physical attack.\nDAMAGE: 1 life card.\nHIT: Rejuvenate 1.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'HERO ALLY'. Inline icon is the Earthling (Capsule Corp) Trait icon; matches the FanZ CRD 'Updated Text' wording",
+  "_src": "PZP.jsonl:22"
+ },
+ "ocr": {
+  "agreement": 0.86,
+  "lower_conf": 76.5,
+  "header_text": "ICARUS\n/ iL SUPPORTIVE C) P175",
+  "stages_text": "10\n9\n8\n7\n4\n3\n2\n1\n0",
+  "error": null
+ }
+}

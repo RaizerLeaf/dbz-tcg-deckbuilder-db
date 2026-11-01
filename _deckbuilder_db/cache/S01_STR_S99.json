@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_STR_S99",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "starter",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Starter)",
+  "filename": "S99_Orange Burning Aura Drill.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Starter)/S99_Orange Burning Aura Drill.jpg",
+  "prefix": "S",
+  "number": 99,
+  "card_number": "S99",
+  "name_part": "Orange Burning Aura Drill",
+  "file_name": "Orange Burning Aura Drill",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "451f38b1e55a3295561bad93570ac896a1e2477a"
+ },
+ "vision": {
+  "id": "S01_STR_S99",
+  "name": "Orange Burning Aura Drill",
+  "sub": null,
+  "type": "Drill",
+  "num": "S99",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Use only if your opponent has not performed a successful physical attack this combat.) [Defense] POWER: Stops a physical attack.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:284"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 89.5,
+  "header_text": "(ORANGE BURNING AURA:DRILL () sss\nwy i ff waa",
+  "stages_text": "",
+  "error": null
+ }
+}

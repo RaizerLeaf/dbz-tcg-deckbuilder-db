@@ -1,0 +1,65 @@
+{
+ "inventory": {
+  "card_id": "PZP_MP_P120",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_mp",
+  "source_folder": "zz_PanZ MP & Ally Promos/MPs",
+  "filename": "P120_Android 20 - Master Planner.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/MPs/P120_Android 20 - Master Planner.png",
+  "prefix": "P",
+  "number": 120,
+  "card_number": "P120",
+  "name_part": "Android 20 - Master Planner",
+  "file_name": "Android 20",
+  "file_subtitle": "Master Planner",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "89bbf1dc3dad53294b3d18b0712b35a540b7181c"
+ },
+ "vision": {
+  "id": "PZP_MP_P120",
+  "name": "Android 20",
+  "sub": "Master Planner",
+  "type": "Main Personality",
+  "num": "P120",
+  "lvl": 4,
+  "stages": [
+   1400000,
+   1300000,
+   1200000,
+   1100000,
+   1000000,
+   800000,
+   600000,
+   400000,
+   200000,
+   100000,
+   0
+  ],
+  "pur": 5,
+  "align": "Villain",
+  "traits": [
+   "Earthling",
+   "Android"
+  ],
+  "text": "(You may use this [Defense] Power more than once per turn but only once per attack.)\n[Defense] POWER: Destroy the top 2 cards of your Life Deck to prevent all damage from an energy attack.\nPOWER: Shuffle a non-Styled Drill you control into its owner's Life Deck to destroy the top 3 cards of your opponent's Life Deck.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP MP (FanZ Personality layout); right edge reads 'VILLAIN' (no ALLY)",
+  "_src": "PZP.jsonl:177"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 77.3,
+  "header_text": "4} ANDROID 20\n: LEVEL | MASTER PLANNER P120",
+  "stages_text": "1,400,000\n1,300,000\n1,200,000\n1,100,000\n1,000,000\n300,000\n600,000\n400,000\n200,000\n100,000\n0",
+  "error": null
+ }
+}

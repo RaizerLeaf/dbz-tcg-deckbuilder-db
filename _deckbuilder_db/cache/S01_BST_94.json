@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S01_BST_94",
+  "set_number": 1,
+  "set_name": "Premiere",
+  "set_code": "S01",
+  "era": "PanZ",
+  "collection": "booster",
+  "source_folder": "01_Set 1 (Premiere)/Premiere (Booster)",
+  "filename": "94_Orange Offensive Strike.jpg",
+  "rel_path": "01_Set 1 (Premiere)/Premiere (Booster)/94_Orange Offensive Strike.jpg",
+  "prefix": null,
+  "number": 94,
+  "card_number": "94",
+  "name_part": "Orange Offensive Strike",
+  "file_name": "Orange Offensive Strike",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 465,
+  "height": 651,
+  "orientation": "portrait",
+  "sha1": "5f3e27d831ed83c7f2c8060d5585edce9e84e771"
+ },
+ "vision": {
+  "id": "S01_BST_94",
+  "name": "Orange Offensive Strike",
+  "sub": null,
+  "type": "Energy Combat",
+  "num": "U94",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "(Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 2 life cards. Search your Life Deck for a copy of \"Orange Offensive Strike\" and place it into your hand.",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S01.jsonl:94"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 88.1,
+  "header_text": "(ORANGE OFFENSIVE STRIKE C) usa",
+  "stages_text": "",
+  "error": null
+ }
+}

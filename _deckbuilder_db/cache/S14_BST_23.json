@@ -1,0 +1,50 @@
+{
+ "inventory": {
+  "card_id": "S14_BST_23",
+  "set_number": 14,
+  "set_name": "Showdown",
+  "set_code": "S14",
+  "era": "FanZ",
+  "collection": "booster",
+  "source_folder": "14_Set 14 (Showdown)/Showdown",
+  "filename": "23_Red Uppercut.png",
+  "rel_path": "14_Set 14 (Showdown)/Showdown/23_Red Uppercut.png",
+  "prefix": null,
+  "number": 23,
+  "card_number": "23",
+  "name_part": "Red Uppercut",
+  "file_name": "Red Uppercut",
+  "file_subtitle": null,
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "3430692e18b680b3b517426afe758bae3d3788d5"
+ },
+ "vision": {
+  "id": "S14_BST_23",
+  "name": "Red Uppercut",
+  "sub": null,
+  "type": "Physical Combat",
+  "num": "U23",
+  "lvl": null,
+  "stages": null,
+  "pur": null,
+  "align": null,
+  "traits": [],
+  "text": "[Attack] Physical attack.\nFocused.\nDAMAGE: AT + 2 stages.\nHIT: Destroy a Setup, Drill, or Ally.\n(Banish after use.)",
+  "conf": "high",
+  "review": null,
+  "note": null,
+  "_src": "S14.jsonl:23"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 91.8,
+  "header_text": "RED UPPERCUT C) U23\n“=D",
+  "stages_text": "3 ,",
+  "error": null
+ }
+}

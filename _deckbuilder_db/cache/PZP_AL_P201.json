@@ -1,0 +1,64 @@
+{
+ "inventory": {
+  "card_id": "PZP_AL_P201",
+  "set_number": null,
+  "set_name": "PanZ MP & Ally Promos",
+  "set_code": "PZP",
+  "era": "FanZ",
+  "collection": "promo_ally",
+  "source_folder": "zz_PanZ MP & Ally Promos/Allies",
+  "filename": "P201_Paragus - Desperate Father.png",
+  "rel_path": "zz_PanZ MP & Ally Promos/Allies/P201_Paragus - Desperate Father.png",
+  "prefix": "P",
+  "number": 201,
+  "card_number": "P201",
+  "name_part": "Paragus - Desperate Father",
+  "file_name": "Paragus",
+  "file_subtitle": "Desperate Father",
+  "filename_flags": [],
+  "unparsed_parens": [],
+  "parse_ok": true,
+  "width": 754,
+  "height": 1054,
+  "orientation": "portrait",
+  "sha1": "42ee3a13285e9e4818c8ee82b98f4a6a76629ae8"
+ },
+ "vision": {
+  "id": "PZP_AL_P201",
+  "name": "Paragus",
+  "sub": "Desperate Father",
+  "type": "Ally",
+  "num": "P201",
+  "lvl": 1,
+  "stages": [
+   20000,
+   18000,
+   16000,
+   14000,
+   12000,
+   10000,
+   8000,
+   6000,
+   4000,
+   2000,
+   0
+  ],
+  "pur": 1,
+  "align": "Villain",
+  "traits": [
+   "Saiyan"
+  ],
+  "text": "(If your MP is Broly, you may use this Power regardless of your MP's power stage.)\n[Continuous]: Effects that end combat cannot be used.\nPOWER: Reveal your hand. If you revealed at least 2 attack cards, your anger cannot be lowered this combat. Until the end of your opponent's next turn, you cannot win by MPPV.",
+  "conf": "high",
+  "review": null,
+  "note": "PZP Ally (FanZ Personality layout); right edge reads 'VILLAIN ALLY'",
+  "_src": "PZP.jsonl:48"
+ },
+ "ocr": {
+  "agreement": 1.0,
+  "lower_conf": 74.3,
+  "header_text": "1 PARAGUS\nLEVEL DESPERATE FATHER () P201",
+  "stages_text": "20,000\n418,000\n16,000\n14,000\n12,000\n10,000\n8,000\n6,000\n4,000\n4 2,000\n\n0",
+  "error": null
+ }
+}
