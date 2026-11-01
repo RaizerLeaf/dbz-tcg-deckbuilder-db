@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_38",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/38_Orange Torching Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(ORANGE TORCHING: DRILL ass",
+   "conf": 54.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 22.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "7 Set a” PP\nam | |i \\t\n44, OF tf\n; co; Whenever one of your Drills enters play\nG during combat, destroy the top card of your\nopponent's Life Deck. |",
+   "conf": 72.7,
+   "n_words": 33
+  }
+ }
+}

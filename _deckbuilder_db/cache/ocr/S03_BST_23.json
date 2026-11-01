@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_23",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/23_Blue Safeguard.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE SAFEGUARD. () ces",
+   "conf": 60.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "NS yy oe.\n. PHYSICAL COMBAT\nENDURANCE 1. @ Stops a physical attack.\nIf your opponent's anger level is 0, raise your\nanger 2 levels.",
+   "conf": 76.0,
+   "n_words": 25
+  }
+ }
+}

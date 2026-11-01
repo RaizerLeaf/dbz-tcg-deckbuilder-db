@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_99",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/99_Saiyan Lunge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Garvan wunce Que\nIs Y i",
+   "conf": 42.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4 7\n0\n\n4\n,",
+   "conf": 32.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "_7™N > XK\n| PHYSICAL COMBAT +\ny\nPas Physical attack. DAMAGE: 4 stages. For\nthe remainder of combat, life card damage\nfrom your attacks is banished.\n: | PAMIMI |\nters",
+   "conf": 76.2,
+   "n_words": 32
+  }
+ }
+}

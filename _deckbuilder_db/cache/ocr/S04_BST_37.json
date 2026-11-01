@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_37",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/37_Orange Sideswipe.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE SIDESWIPE\nPD ra",
+   "conf": 55.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "= Jie SIE Saha DG\n(This attack cannot have its\ndamage modified.)\n* Physical attack.\nDAMAGE: 7 stages.",
+   "conf": 78.2,
+   "n_words": 18
+  }
+ }
+}

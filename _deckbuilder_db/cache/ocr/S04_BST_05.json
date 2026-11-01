@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_05",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/05_Black Headbutt.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLACK HEADBUTT () C5\nan |",
+   "conf": 67.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (Ron\n2 2\n* Physical attack.\nIf this attack is stopped, banish the top card of\nyour opponent's Life Deck.\nDAMAGE: AT life cards.\n; (ey) © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 86.1,
+   "n_words": 37
+  }
+ }
+}

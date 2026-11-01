@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_71",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/71_Namekian Aerial Knee.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN AERIAL KNEE\nFS I Som i. °°} |",
+   "conf": 48.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R_ RI}\n* Physical attack.\nIf you control a Saiyan Personality, gain X\nstages and Rejuvenate X. X = Your MP’s level.\nDAMAGE: AT +3 stages.\nrr\n©",
+   "conf": 86.3,
+   "n_words": 30
+  }
+ }
+}

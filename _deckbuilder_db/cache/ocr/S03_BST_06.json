@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_06",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/06_Garlic Jr. - Confrontational.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 GARLIC JReoiee () cS",
+   "conf": 64.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "400\n\n375\n\n350\n\n325\n\n300\n275\n250\n225\n\n200\n175\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "—\nx\n\nP\n\nGg gS 200\n\n> .( Za\n\n(Villains only.) co: The first attack each player performs\n\nduring combat cannot have its damage modified.\n— | PAMIME |",
+   "conf": 74.3,
+   "n_words": 29
+  }
+ }
+}

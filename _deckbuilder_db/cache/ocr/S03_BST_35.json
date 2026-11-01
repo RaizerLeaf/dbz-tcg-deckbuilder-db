@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_35",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/35_Orange Confidence.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE CONFIDENCE (=",
+   "conf": 75.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ivf NY ‘\nPHYSICAL COMBAT |:\ny\nENDURANCE 1. © Stops a physical attack.\nRaise your anger 1 level. Your AT damage\nis considered to be 4 for your Styled\nattacks this combat.\n; | PAMINI |\ntere 7 7",
+   "conf": 80.5,
+   "n_words": 40
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_94",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/94_Red Freezing Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED FREEZING BEAM. (2",
+   "conf": 62.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "347",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "S581) -\n_ , OS was B\n~ am\nENERGY COMBAT '\nY\n(Banish after use.) ENDURANCE 1. Energy\nattack costing 2 stages. DAMAGE: AT +2\nstages. You may raise your anger 1 level.\nSearch your discard pile or Banished Zone\nfor a Drill and place it into play.\n| PAMINI |\ntere",
+   "conf": 77.8,
+   "n_words": 53
+  }
+ }
+}

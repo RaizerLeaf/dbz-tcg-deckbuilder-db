@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_50",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/50_Red Vaulted Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED VAULTED KICK. (<=",
+   "conf": 67.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1\n3,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "m2 PHYSICAL COMBAT\n* Physical attack. DAMAGE: AT +3 stages.\nRaise your anger 1 level. HIT: Banish 2 +X\ncards from your opponent's discard pile. X =\nyour MP's level.\n— | PARMIME |",
+   "conf": 86.1,
+   "n_words": 34
+  }
+ }
+}

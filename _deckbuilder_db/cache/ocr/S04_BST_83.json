@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_83",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/83_Saiyan Interruption.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN INTERRUPTION () U83\nes. ae . Fi — Ma",
+   "conf": 59.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n,\n,\n5",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(As an action, you may discard this card from your\nhand to perform a Styled physical attack dealing 5\nstages of damage.)\n\n* POWER: Use when a card effect would end\ncombat. Combat cannot be ended by card effects\nthis turn. Your opponent skips his\n\n| > R| next action this combat.\n: (ey) © 2015 Panini America, inc. Printed in the USA.",
+   "conf": 91.4,
+   "n_words": 63
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_88",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/88_Namekian Erasing Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ERASING BLAST ps\nI eG",
+   "conf": 55.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n,\n7",
+   "conf": 52.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ENERGY COMBAT ,\ngg\n\n(If an Ally performs this attack, it costs 0\nstages and deals +2 life cards of damage.)\nENDURANCE 1. XX Energy attack costing 3\nstages. DAMAGE: 5 life cards. If any damage\nfrom this attack is prevented, Rejuvenate this\ncard and the bottom card of your discard pile.\n_— | PAMIMI|",
+   "conf": 88.9,
+   "n_words": 55
+  }
+ }
+}

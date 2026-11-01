@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_63",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/63_Black Energy Discharge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY DISCHARGE ) 63\nVa, ke x - a",
+   "conf": 51.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n2\n,\n,",
+   "conf": 14.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ReR ENERGY COMBAT\n\\ >,\n(If this card is destroyed from your Life\nDeck by one of your card effects, you may\nbanish an Ally.)\nx Energy attack costing 3 stages.\nDAMAGE: 4 life cards.\nHIT: Your next successful attack this combat is\nconsidered to deal critical damage.\n; ey) ® 2015 Panini America, Inc. Printed in the USA. PANINI |",
+   "conf": 85.6,
+   "n_words": 61
+  }
+ }
+}

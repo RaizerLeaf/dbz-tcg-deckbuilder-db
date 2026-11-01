@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_136",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/136_Energized Strike.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ENERGIZED STRIKE ) R136\n. peel Se VALS,",
+   "conf": 62.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "J\naA * Energy attack. TTS\nPlayers can only gain anger from the effects of\nPhysical Combat or Energy Combat cards this turn.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck after use.\nGS) cresstansiannica ne rinetnnevs,  PAMTRE]",
+   "conf": 81.8,
+   "n_words": 42
+  }
+ }
+}

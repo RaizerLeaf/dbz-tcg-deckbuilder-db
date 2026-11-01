@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_02",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/02_Nail - Protector.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "E NAIL C) a\nLEVEL -",
+   "conf": 34.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "40,000\n36,000\n32,000\n28,000\n24,000\n20,000\n16,000\n12,000\n8,000\n\n4,000\n\n0",
+   "conf": 86.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "1Z2,UUU\n8,000\n= oe 4,000\n2 | 0\n3) y~ a 7\noo: Whenever your opponent stops one of your attacks,\nhe destroys the top 2 cards of his Life Deck.\nAfter your opponent takes damage from one of your attacks,\nhe banishes the top X cards of his Life Deck. X = the\nnumber of times he used Endurance on that attack.",
+   "conf": 86.7,
+   "n_words": 63
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_49",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/49_Saiyan Blockade.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN BLOCKADE C) C49",
+   "conf": 76.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n2\n,\n,\n,",
+   "conf": 3.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(rok) ENERGY COMBAT ( r= M\n(If this card would be discarded\nfrom your hand by one of your effects,\nyou may banish it instead. If you do, your\nopponent's MP loses 2 stages.)\nvw Stops an energy attack.\niC © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 86.8,
+   "n_words": 49
+  }
+ }
+}

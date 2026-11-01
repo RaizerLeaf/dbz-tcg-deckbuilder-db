@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_64",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/64_Black Shoulder Charge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SHOULDER CHARGE () U64",
+   "conf": 78.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(GY PHYSICAL COMBAT ( RR\nHoup wri (If this card is destroyed from il\n~ your Life Deck by one of your effects, you may\nuse a critical damage effect.)\nx Physical attack.\n\nPlace a card from each player's discard pile on top of its\nowner's Life Deck. Lower your opponent's anger 1 level.\nDAMAGE: 3 stages.\n\nHIT: Choose a card in your discard pile and Rejuvenate it.\n\na = | |\nA=Z ® 2015 Panini America, Inc. Printed in the USA. PANINI |",
+   "conf": 84.1,
+   "n_words": 84
+  }
+ }
+}

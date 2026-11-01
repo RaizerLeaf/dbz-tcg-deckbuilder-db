@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_70",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/70_Blue Palm Shot.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE PALM SHOT\niii mk",
+   "conf": 70.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n\n7 1\n,\n,",
+   "conf": 6.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ReR ENERGY COMBAT\n\\ ;\n= (Heroes only.)\n* Energy attack costing 4 stages.\nYou may destroy any amount of Allies you control.\nRaise your anger X levels. X = the number of Allies\nyou destroyed.\nDAMAGE: 3 life cards.\nLEP) rorsrsantanuiea ue rinetinmeusn «EEE",
+   "conf": 80.7,
+   "n_words": 45
+  }
+ }
+}

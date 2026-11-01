@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_100",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/100_Saiyan Upward Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN UPWARD KICK (x20",
+   "conf": 70.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 21.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ae\n-_ -“ 7 ; - —- —~\n| PHYSICAL COMBAT :\nY\n* Physical attack. DAMAGE: AT +4 stages.\nYour opponent cannot gain stages this combat.\n: | PAMINI |\nfer",
+   "conf": 71.5,
+   "n_words": 32
+  }
+ }
+}

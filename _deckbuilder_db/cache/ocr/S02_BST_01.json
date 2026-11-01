@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_01",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/01_Nail - Watchful.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(2 NAIL cone () cl\nLEVEL ew —",
+   "conf": 58.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "22,000\n18,000\n14,000\n10,000\n6,000\n5,000\n4,000\n3,000\n\n2,000\n\n1,000\n\n0",
+   "conf": 94.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| ay 4 »,UULU\n8 2,000\na? | 0\nyy CSS —\nPOWER: X Physical attack. DAMAGE: AT +2 life\ncards. If this attack is stopped, destroy the top card of\nyour opponent's Life Deck.",
+   "conf": 78.5,
+   "n_words": 35
+  }
+ }
+}

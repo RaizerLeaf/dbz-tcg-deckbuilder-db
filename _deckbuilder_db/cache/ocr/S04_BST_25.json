@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_25",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/25_Namekian Intervention.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN INTERVENTION ) 025",
+   "conf": 85.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n4\n7,\n,\n,",
+   "conf": 18.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(rer) ENERGY COMBAT\n(As an action, you may play this\ncard to perform a Styled physical attack\ndealing AT +2 stages of damage.)\nwv Stops an energy attack.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.9,
+   "n_words": 37
+  }
+ }
+}

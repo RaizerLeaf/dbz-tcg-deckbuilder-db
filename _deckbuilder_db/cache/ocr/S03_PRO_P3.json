@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P3",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P3_Orange Power Point.jpg",
+ "scale": 4.37,
+ "regions": {
+  "header": {
+   "text": "[ORANGE POWER POINT (=\nSan \\ Vv",
+   "conf": 42.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 30.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". y/\nye ow\nESGNERGY COMBAT '\nENDURANCE 3. Energy attack costing 2\nstages. DAMAGE: 6 life cards. HIT: Search\nyour Life Deck for a Styled Drill and place\nit into play.",
+   "conf": 83.3,
+   "n_words": 32
+  }
+ }
+}

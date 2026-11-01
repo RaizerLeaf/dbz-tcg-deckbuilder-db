@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_71",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/71_Trunks - Bashful (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| | 1 TRUNKS co () UTI\nges = om -",
+   "conf": 42.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "95,000\n85,000\n75,000\n65,000\n55,000\n45,000\n35,000\n25,000\n20,000\n15,000\n\n0",
+   "conf": 78.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "29,UU0U\n~~ ~~ 20,000\ndy re V4 15,000\nwe? | 0\nyD wy On.\n(Heroes only.) * POWER: Use when entering combat.\nLook at the top card of a player's Life Deck. You may\nplace that card at the bottom of that player's Life Deck.",
+   "conf": 77.1,
+   "n_words": 45
+  }
+ }
+}

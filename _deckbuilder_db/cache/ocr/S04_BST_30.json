@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_BST_30",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/30_Orange Retrieval Drill.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "= A ig\n'@., e x = RR ‘Ere",
+   "conf": 50.0,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "co: Your MP's PUR is +2. Whenever you perform\nan attack, banish the top card of your opponent's\ndiscard pile. :",
+   "conf": 90.3,
+   "n_words": 21
+  }
+ }
+}

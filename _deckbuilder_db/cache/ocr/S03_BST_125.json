@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_125",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/125_Saiyan Backbreaker.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN BACKBREAKER () mi2s",
+   "conf": 56.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "~~ |\nPHYSICAL COMBAT |:\n“a\n\n(Villains only. Banish after use.) X Physical\n\nattack. DAMAGE: AT +1 stage. You may shuffle\n\nan attached card in play into its owner's Life\n\nDeck. If you do, this attack stays in play to be\nused a second time this combat.\n\n| PAMINI |\nfevaa",
+   "conf": 85.9,
+   "n_words": 51
+  }
+ }
+}

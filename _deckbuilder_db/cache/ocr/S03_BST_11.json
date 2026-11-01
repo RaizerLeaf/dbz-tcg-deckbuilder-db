@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_11",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/11_Black Blinding Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK BLINDING. BURST () cll\n~ ->7”—. F Wi Loo.",
+   "conf": 62.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n4\n\n,\n2",
+   "conf": 4.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "( ENERGY COMBAT\nENDURANCE 2. X Energy attack costing 2\nstages. DAMAGE: 5 life cards. Raise your\n\nanger 1 level.",
+   "conf": 80.8,
+   "n_words": 20
+  }
+ }
+}

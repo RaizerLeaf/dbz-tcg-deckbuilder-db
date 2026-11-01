@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_135",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/135_Wall Breaker.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "naa aan\nWALL BREAKER eee () 13s",
+   "conf": 42.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n35\n,\n41",
+   "conf": 7.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "it ii Sb\nDX Physical attack. DAMAGE: AT +1 Ie\ni) stage. Attach to your opponent's MP. While\n>; attached, your opponent cannot gain anger. fe\n~~ Banish this card when your opponent deals es\nLe critical damage.",
+   "conf": 75.1,
+   "n_words": 38
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_139",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/139_Sinister Choke.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SINISTER CHOKE ¢) R139\n] |",
+   "conf": 57.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n41\n347 ,",
+   "conf": 10.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PPHYSICAL COMBAT (RoR)\n* Physical attack.\nDamage from this attack cannot be\nprevented. This attack cannot be stopped and\nits damage is banished if your opponent controls\na total of 7 or more of the following card types:\npersonalities, Drills, Setups, and Dragon Balls.\nDAMAGE: 5 life cards.\n(Banish after use.)\nACoA ee Oe ae vaxrnt)",
+   "conf": 85.4,
+   "n_words": 56
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P14",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P14_Heroic Energ Sphere.png",
+ "scale": 3.14,
+ "regions": {
+  "header": {
+   "text": "“(HEROIC ENERGY SPHERE a",
+   "conf": 81.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 9.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "—_— a - _ oe —\n=VENT - '\n—\na 6 (Heroes only.) * POWER: Use when an Event\nis played. Cancel the effects of that card.\nRejuvenate 1.",
+   "conf": 71.2,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_127",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/127_Dr. Wheelo's Revival.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(DR. WHEELO'S REVIVAL (a=\n-- Fwy ff fy |",
+   "conf": 55.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", 7\n, ,\n2\n7\n,",
+   "conf": 7.4,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "a P| [DLE\n—_— : td ?\n\na he oe * fh = St\nBp) (When this card is discarded or destroyed e\ni from your Life Deck, destroy the top 3 cards\n> of your opponent's Life Deck and banish this jig\n= card.) POWER: Your opponent cannot play @\nIC Events this combat. Gain 2 stages and shuffle §\n|| this card into your Life Deck. !",
+   "conf": 73.1,
+   "n_words": 69
+  }
+ }
+}

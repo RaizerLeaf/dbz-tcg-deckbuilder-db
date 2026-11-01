@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P5",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P5_Saiyan Offensive Rush.png",
+ "scale": 1.12,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN OFFENSIVE: RUSH () Ps",
+   "conf": 39.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ek Ee SR eg EE\nPOWER: Your MP loses 4 stages. Your attacks\ndeal +3 life cards of damage this combat.\n_—— | PANINI,",
+   "conf": 75.0,
+   "n_words": 24
+  }
+ }
+}

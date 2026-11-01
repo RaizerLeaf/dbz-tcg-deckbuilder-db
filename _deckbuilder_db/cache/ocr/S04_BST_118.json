@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_118",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/118_Red Rage.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED RAGE ) R118\n\"4 blue 4aS[S=_",
+   "conf": 54.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "22\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(rea) ENERGY COMBAT\n: * Energy attack costing 1 stage.\nIf the top card of your discard pile is a Styled\nattack, you may banish a Styled card from your hand\nto draw the top card of your discard pile.\nDAMAGE: 3 stages.\nHIT: Raise your anger 1 level.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 91.3,
+   "n_words": 61
+  }
+ }
+}

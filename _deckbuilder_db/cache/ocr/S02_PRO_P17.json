@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_PRO_P17",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P17_Orange Hand Cannon.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE HAND CANNON (=",
+   "conf": 79.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "_ mr oo\n| « GNERGY COMBAT '\nWY SS\n(Banish after use.) > Energy attack costing\n2 stages. DAMAGE: 3 life cards. HIT: Your\nnext Styled energy attack this combat cannot\nhave its damage prevented and you do not\nhave to pay power stage costs for it.\nfovea -",
+   "conf": 82.4,
+   "n_words": 50
+  }
+ }
+}

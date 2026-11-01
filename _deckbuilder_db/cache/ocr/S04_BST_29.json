@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_BST_29",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/29_Orange Investiagation Drill.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "‘fi —\niw aN: =\n‘| wo |\n| Wey ~R | A\nal\n2",
+   "conf": 48.7,
+   "n_words": 15
+  },
+  "lower": {
+   "text": "(After this Drill enters play, you may banish an\nattached card in play.)\nco: Whenever an effect would lower your anger by =\nmore than 1 level, it is lowered by 1 instead. : @)",
+   "conf": 89.3,
+   "n_words": 35
+  }
+ }
+}

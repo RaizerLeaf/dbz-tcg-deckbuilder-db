@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_67",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/67_Tenshinhan - Prepared.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| TENSHINHAN eo () US7\nLEVEL ~",
+   "conf": 47.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "105,000\n100,000\n95,000\n90,000\n5185,000\n80,000\n75,000\n70,000\n65,000\n60,000\n\n0",
+   "conf": 69.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "i. . 65,000\n4 oT 60,000\ney? | 0\n(You cannot win by MPPV if you raise your anger with\nthis effect.) POWER: Energy attack. DAMAGE: 5 life\ncards. You may banish 8 cards from your discard pile.\nIf you do, raise your anger 6 levels.",
+   "conf": 88.8,
+   "n_words": 46
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_114",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/114_Orange Drain.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE DRAIN ) R114\newe —_",
+   "conf": 54.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Roa} =SNERGY COMBAT\n\n* Energy attack costing 2 stages.\nThe next time one of your attacks causes you to\nchange levels this combat, you may search\nyour Life Deck for a Styled Event and place it\ninto your hand.\nDAMAGE: 2 stages +2 life cards.\nHIT: Raise your anger 1 level.",
+   "conf": 91.6,
+   "n_words": 51
+  }
+ }
+}

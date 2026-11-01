@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_29",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/29_Blue Glare.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE GLARE Sa () ces",
+   "conf": 71.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n,",
+   "conf": 22.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "tS Sy . aw,\n_ ria TE\n« GNERGY COMBAT '\n* Energy attack costing 2 stages. DAMAGE:\n5 life cards. You may discard a card from\nhand. If you do, stop your opponent's next\nphysical attack this combat.\n\n— | PAMIMI |\nfores",
+   "conf": 75.8,
+   "n_words": 44
+  }
+ }
+}

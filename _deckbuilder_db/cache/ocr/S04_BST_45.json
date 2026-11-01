@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_45",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/45_Red Smash.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED SMASH C) C45\nACN \\ SMM",
+   "conf": 44.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @RoR}\n* Physical attack.\nRaise your anger 1 level. Look at the top 3 cards\nof your discard pile and banish any amount of them.\nDAMAGE: 3 stages.\nHIT: Banish any amount of cards from your\ndiscard pile.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 93.4,
+   "n_words": 52
+  }
+ }
+}

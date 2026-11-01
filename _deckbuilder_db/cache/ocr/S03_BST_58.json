@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_58",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/58_Saiyan Overpowering Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN OVERPOWERING ‘BLAST () cse\n| ye",
+   "conf": 68.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 20.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Neca\nee tI\n(2) ENERGY COMBAT\n* Energy attack costing 2 stages. DAMAGE:\n4 life cards. HIT: You may lower your MP 1\nlevel. If you do, your opponent destroys the\ntop 3 cards of his Life Deck.\n\na | PAMIME |",
+   "conf": 83.6,
+   "n_words": 42
+  }
+ }
+}

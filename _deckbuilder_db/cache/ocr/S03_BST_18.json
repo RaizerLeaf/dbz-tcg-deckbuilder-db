@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_18",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/18_Blue Escaping Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE ESCAPING DRILL () cis\n» ’ ) r",
+   "conf": 66.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "! DRILL\noo; Whenever you lower your opponent's\nanger, banish the top card of your opponent's\ndiscard pile. Whenever you lower your\nopponent's anger and your MP's level is higher\nthan your opponent's MP's level, Rejuvenate 1.\n. | PAMIMI |",
+   "conf": 82.0,
+   "n_words": 41
+  }
+ }
+}

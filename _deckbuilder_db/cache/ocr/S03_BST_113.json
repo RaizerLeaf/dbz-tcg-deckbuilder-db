@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_113",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/113_Namekian Surprise Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SURPRISE ATTACK () Al13\n| “3",
+   "conf": 61.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4,\n3 5\n4\n9\n1",
+   "conf": 19.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "ON Axa «of\n- I a . ee\nENERGY COMBAT '\n(Banish after use.) Energy attack costing 1\nstage. DAMAGE: 4 stages. HIT: Search your Life\nDeck for a card with “Dragon” or “Reinforced”\nin the title and place it into your hand.\n| PAMINI |\nteva -",
+   "conf": 78.2,
+   "n_words": 48
+  }
+ }
+}

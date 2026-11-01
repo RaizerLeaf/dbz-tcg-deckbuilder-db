@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_129",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/129_Garlic Jr.'s Dead Zone.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(GARLIC JR.'S DEAD ZONE a\np f @€ jg i wg",
+   "conf": 36.2,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "277\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "UO oo, 1 J\nA pot\nSETUP '\n—_——\n= @6(Limit 2 per deck. Banish after use.) POWER:\n; Shuffle all Dragon Balls in play into their\nowner's Life Decks to search your Life Deck\n- for a Dragon Ball and place it into play.",
+   "conf": 75.6,
+   "n_words": 45
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_93",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/93_Red Dazing Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED DAZING DRILL (2",
+   "conf": 76.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 52.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "7 a, Pa\n| DRILL '\n“a\noo; When this Drill is leaving play, you may\nbanish it to search your Life Deck for a copy\nof Red Dazing Drill and place it into your\nhand. The first time your anger is lowered\nduring combat, your opponent skips his next\naction that combat.\n: | PAMIMI |\nSee",
+   "conf": 84.5,
+   "n_words": 58
+  }
+ }
+}

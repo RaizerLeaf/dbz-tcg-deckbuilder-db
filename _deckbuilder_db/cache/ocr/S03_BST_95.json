@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_95",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/95_Red Tandem Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED TANDEM ATTACK: (2\n= =~ FF) WwW .__.",
+   "conf": 52.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "6",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT 1:\n(If this card is discarded from your hand by an\nopponent's effect, draw a card and raise your\nanger 1 level.) ENDURANCE 2. Physical\nattack. DAMAGE: AT +3 stages. Raise your\nanger 1 level. If your opponent has 5 or more\n\ncards in his hand, draw a card.\n_— | PAMINI |",
+   "conf": 90.6,
+   "n_words": 55
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_117",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/117_Red Eye Beams.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED EYE BEAMS R117\nOe eee",
+   "conf": 75.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(rok) ENERGY COMBAT\n: * Energy attack costing 1 stage.\nDAMAGE: 2 life cards.\nHIT: Banish the top card of your Life Deck.\nWhile that card is banished, you may play it one time\nthis combat as though it were in your hand.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 91.8,
+   "n_words": 55
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_BST_75",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/75_Orange Scorn.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": ". a\nie we =\n, ° a) =n * ———",
+   "conf": 25.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| + : Use after performing a successful Styled\n\n_ physical attack. Banish 2 Drills. Search your Life\n\n| Deck for a Styled Drill and place it into play.\n@ (Banish after use.)",
+   "conf": 91.9,
+   "n_words": 33
+  }
+ }
+}

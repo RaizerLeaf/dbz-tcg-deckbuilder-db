@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_17",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/17_Blue Minions.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE MINIONS eco () O17\ni a",
+   "conf": 52.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "6\n4 4\n4\n7",
+   "conf": 33.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a 2 sa\nPOWER: * Energy attack costing 1 stage.\nDAMAGE: 3 life cards. You may raise or lower\na player's anger 1 level.\ni prira",
+   "conf": 80.6,
+   "n_words": 26
+  }
+ }
+}

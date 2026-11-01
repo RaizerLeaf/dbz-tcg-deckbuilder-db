@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_138",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/138_Optic Blast.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "OPTIC BLAST ) R138 |\n2",
+   "conf": 82.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3",
+   "conf": 81.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(ropa) ENERGY COMBAT ( —d le\n* Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\n\nHIT: Capture a Dragon Ball. If you captured a\nNamek Dragon Ball, destroy the top 3 cards of your\nopponent's Life Deck. If you captured an\nEarth Dragon Ball, draw a card.\n\n(Banish after use.)\n\na\nACen aw vaxrnt)",
+   "conf": 83.6,
+   "n_words": 55
+  }
+ }
+}

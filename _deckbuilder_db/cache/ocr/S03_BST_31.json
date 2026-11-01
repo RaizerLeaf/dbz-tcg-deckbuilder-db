@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_31",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/31_Namekian Reinforced Charge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKTAN REINFORGROSBHARGE (IED Co: |\nLT SZ A : ZH SS\nea CS, gee *",
+   "conf": 38.5,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "47",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "-_ a ee —e\neVvVeENT ’\nPOWER: Rejuvenate 1. Search your Life Deck\nfor a Drill or Ally and play it. Dragon Balls lose\nall effects this combat.\n| PAMIMI\nteres",
+   "conf": 78.1,
+   "n_words": 31
+  }
+ }
+}

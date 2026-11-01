@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_109",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/109_Namekian Growth.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN GROWTH: () m108",
+   "conf": 47.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3\n1 1 ,\n,\n4\n\n,\n\n,\n\n,",
+   "conf": 20.3,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "“(Gee = Tt J\nrey Sa\n(Banish after use.) POWER: You may play a\nDragon Ball from your hand or Rejuvenate 4.\nIf your MP is level 3 or higher, you may instead\nsearch your Life Deck for a Styled card and @&\nplace it into your hand.",
+   "conf": 88.2,
+   "n_words": 48
+  }
+ }
+}

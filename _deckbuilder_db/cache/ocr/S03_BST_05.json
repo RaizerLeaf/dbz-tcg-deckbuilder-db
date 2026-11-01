@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_05",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/05_Dr. Wheelo - Intelligent (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 DR. WHEELO- () cs\nEVEL | _",
+   "conf": 56.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "10\n\n9\n\n8\n\n7\n\n6\n5\n4\n3\n\n2\n\n1\n\n0",
+   "conf": 87.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "A at ww at ; a 3\n—. - al 2\ney, os\n“a 7™\n6.\na, v4\n(Villains only.) POWER: Banish “Dr. Wheelo” to choose\nan Ally, Drill, Setup in play and shuffle that card into its\nowner's Life Deck.\n- | PAMINI |\nesas",
+   "conf": 69.6,
+   "n_words": 46
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_23",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/23_Namekian Door Destruction.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DOOR DESTRUCTION () 023\n{ ; ~~:",
+   "conf": 61.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 25.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(e-R) ENERGY COMBAT\n(An Ally you control may\nperform this attack regardless of your\nMP's power stage.)\n* Energy attack costing 3 stages.\nDAMAGE: 8 life cards.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.4,
+   "n_words": 36
+  }
+ }
+}

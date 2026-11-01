@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_73",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/73_Turles - Shadowy.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(3 TURLES 9 cee () U73\naah SHADOWY —_",
+   "conf": 45.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "12,000\n11,500\n11,000\n10,500\n10,000\n7,000\n4,000\n1,000\n\n500\n\n250\n\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Loh 1,000\n. 500\n—— 250\nRNG\nco: Your Styled attacks deal +2 stages of damage and\ncannot have their damage prevented.",
+   "conf": 77.5,
+   "n_words": 22
+  }
+ }
+}

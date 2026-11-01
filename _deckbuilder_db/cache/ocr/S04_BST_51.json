@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_51",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/51_Saiyan Discovery.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DISCOVERY C) C51",
+   "conf": 74.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 25.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "H—VeENT\n(You may have only one\n“Saiyan Discovery” attached.)\n\nPOWER: Destroy a Setup or Drill. Attach to your\nMP. While attached, your MP is considered to\nhave a higher power level than the\ndefending personality for your\np< 5 card effects.\n; iC © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.3,
+   "n_words": 52
+  }
+ }
+}

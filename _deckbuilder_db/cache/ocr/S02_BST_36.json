@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_36",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/36_Namekian Quick Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN QUICK:SHOT (=e",
+   "conf": 62.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_ rey ~\n| « GNERGY COMBAT '\nENDURANCE 2. Energy attack. DAMAGE:\n\n2 life cards. You may discard a Dragon\nBall from your hand. If you do, capture\na Dragon Ball.\n\n_— | PAMINI |",
+   "conf": 83.9,
+   "n_words": 36
+  }
+ }
+}

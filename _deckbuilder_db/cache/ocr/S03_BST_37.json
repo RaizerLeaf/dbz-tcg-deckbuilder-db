@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_37",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/37_Orange Eruption.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(O RANGE ERUPTION: () C37\n\\ | | | [",
+   "conf": 52.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4",
+   "conf": 77.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Pa, j} a\n\nS (Banish after use.) X Energy attack costing BR\n1 stage. DAMAGE: 2 life cards. Raise your\n\ny) anger 2 levels. Lower your opponent's i\n\nA anger 2 levels. ~",
+   "conf": 73.8,
+   "n_words": 33
+  }
+ }
+}

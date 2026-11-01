@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_126",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/126_Android 18's Toss.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID 18’S TOSS ») R126",
+   "conf": 70.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n18\n\n,\n\n,",
+   "conf": 3.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "4 (You may not search for Android 18's\nToss with this card's effect.)\n* Energy attack costing 2 stages.\n\nYou may search your Life Deck for a card with “Android”\nin the title and place it into your hand. If that card was a\nSetup, Drill, or Ally, you may place it into play.\nDAMAGE: 4 life cards.\n| (Banish after use.)\nGD sess suns anna, ies nn usa",
+   "conf": 86.9,
+   "n_words": 69
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_12",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/12_Black Dense Ball.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DENSE BALL: () c12\n~~: ae | Sf",
+   "conf": 46.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| aN\n_ a” ™ ce _\nENERGY COMBAT 4\n(You may play this card to stop an energy\nattack instead of as an attack). Energy\nattack costing 2 stages. DAMAGE: 4 life cards.\n| PAMINI |\nfev",
+   "conf": 79.3,
+   "n_words": 38
+  }
+ }
+}

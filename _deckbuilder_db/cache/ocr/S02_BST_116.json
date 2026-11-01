@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_116",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/116_Orange Possession Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE POSSESSION- DRILL () 3116\ni“",
+   "conf": 68.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| .« OAILL '\nVF\nPOWER: Draw 2 cards and then discard 2\ncards from your hand unless you discard a\nStyled Drill from your hand.\n— | PAMINI |\ntones -",
+   "conf": 76.8,
+   "n_words": 32
+  }
+ }
+}

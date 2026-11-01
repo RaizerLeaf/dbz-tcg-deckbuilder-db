@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_140",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/140_Sagacious Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(SAGACIOUS STRIKE: () A140",
+   "conf": 40.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n,\n64",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "' )\na= ( 7 A\n) @ PHYSICAL COMBAT +\n<\nBe (Villains only. Limit 2 per deck.) X Physical Be\nattack. DAMAGE: AT +3 stages. This attack is\n>; considered to deal critical damage. You may “fal\n~~ choose for this attack to deal no damage.\nIe If you do, it cannot be stopped.",
+   "conf": 76.8,
+   "n_words": 56
+  }
+ }
+}

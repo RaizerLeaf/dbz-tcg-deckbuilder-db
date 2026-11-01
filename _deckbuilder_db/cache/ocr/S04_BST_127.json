@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_127",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/127_Android 19's Energy Absorption.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID 19’S ENERGY ABSORPTION R127\nWN aa",
+   "conf": 71.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "5\n\n4\n,\n,",
+   "conf": 10.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Roa} ENERGY COMBAT\nvw Stops an energy attack.\nGain 4 stages. Search your discard pile for a\ncard with “Android” in the title and place it into your\nhand. Attach to your MP. While attached, you may\nbanish this card to cancel the immediate effects of\nan energy attack.\nNe ee ee ae rami",
+   "conf": 85.0,
+   "n_words": 54
+  }
+ }
+}

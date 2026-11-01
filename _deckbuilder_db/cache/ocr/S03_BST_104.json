@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_104",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/104_Black Daze.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DAZE canis) () m104\neS ma ~~ FN |",
+   "conf": 46.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n7\n4\n,\n6\n,",
+   "conf": 14.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "ie ~ yw\n\"2 EVENT\nENDURANCE 2. POWER: Name a card. Your\nopponent reveals his hand. If the card you\nnamed was revealed, your opponent shuffles\na copy of that card from his hand into his Life\nDeck and both players draw a card.",
+   "conf": 89.5,
+   "n_words": 44
+  }
+ }
+}

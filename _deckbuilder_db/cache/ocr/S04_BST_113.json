@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_113",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/113_Orange Accumulated Burst.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "GANA OVS FUNNY NEE NY RST,\nORANGE ACCUMULATED BURST () R113\nTTT INN SS oF GF “TRY ty f, ara ae\na: <  \\ me’, Gate. ea 6G",
+   "conf": 44.1,
+   "n_words": 28
+  },
+  "stages": {
+   "text": "4\n,\n,\n,\n,",
+   "conf": 19.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(82R)) SNERGY COMBAT\nEnergy attack costing 4 stages.\nDamage from this attack cannot be prevented.\nDAMAGE: 6 life cards.\nHIT: Banish 2 Allies.",
+   "conf": 87.0,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_40",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/40_Orange Crashing Drill (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE CRASHING DRILL () CAO",
+   "conf": 63.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", 2\n, 4\n\n7\n4 44\n4\n\n1\n\n7\n,",
+   "conf": 30.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "CAR AS 0. 77\noles —_ e I =\nco: When this card enters play during combat,\n\n( your opponent destroys the top card of his Life\nb) Deck. When this card is leaving play during\n\n~~ combat, your opponent destroys the top card jee\n\nA of his Life Deck.",
+   "conf": 77.5,
+   "n_words": 50
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_53",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/53_Saiyan Counter Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN COUNTER: KICK (=\nas =:",
+   "conf": 53.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n4\n,",
+   "conf": 17.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "_ a —\nPHYSICAL COMBAT 1:\ngg\nXX Physical attack. DAMAGE: 5 stages. If you\nhave changed levels this combat, your MP\nis considered to have a higher power level\nthan the defending personality for your card\neffects this combat.\n: | PAMIMI\nter",
+   "conf": 83.2,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_62",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/62_Dr. Wheelo - Scheming.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "E DR. WHEELOQ oe (=\nLEVEL SCHEMING i —_",
+   "conf": 43.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,000\n\n900\n\n800\n\n700\n\n600\n\n500\n1\n\n5 400\n\n300\n\n200\n\n100\n\n0",
+   "conf": 87.6,
+   "n_words": 13
+  },
+  "lower": {
+   "text": ". 3UU\nae 200\ngp >. 100\njee 0\n| CZ\nco: Your attacks deal +2 life cards of damage.\nWhenever you stop an attack, your opponent destroys\nthe top card of his Life Deck.",
+   "conf": 84.9,
+   "n_words": 35
+  }
+ }
+}

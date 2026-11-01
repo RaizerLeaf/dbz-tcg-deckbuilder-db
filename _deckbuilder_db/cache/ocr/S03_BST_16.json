@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_16",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/16_Black Stop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK STOP OSs: () O16",
+   "conf": 59.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7 4",
+   "conf": 38.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "-_ a q\nPHYSICAL COMBAT\nY\nW Stops a physical attack. Raise your anger\n1 level. Your opponent plays with his hand\nrevealed until the start of your next turn.\n| PAMIMI |\nfens",
+   "conf": 82.3,
+   "n_words": 34
+  }
+ }
+}

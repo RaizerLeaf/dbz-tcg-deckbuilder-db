@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_81",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/81_Black Tracing Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK TRACING BEAM (=\n™~ - \\ |W Je, am",
+   "conf": 51.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n5\n1",
+   "conf": 23.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Aa] VW\n| ENERGY COMBAT 1\n(Banish after use.) X Energy attack costing 1\nstage. DAMAGE: 2 life cards. Raise your anger\n1 level. Name a card. Your opponent reveals\nhis hand. If the card you named was revealed,\nthis attack stays in play to be used a second\ntime this combat.\n\n|PAMIMI\ner",
+   "conf": 88.6,
+   "n_words": 54
+  }
+ }
+}

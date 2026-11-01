@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_PRO_P10",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P10_Namekian Mouth Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "stages": {
+   "text": "10",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "MOUTH BEAM\nImage N/A",
+   "conf": 95.0,
+   "n_words": 4
+  }
+ }
+}

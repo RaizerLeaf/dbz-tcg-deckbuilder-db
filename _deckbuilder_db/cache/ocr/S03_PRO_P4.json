@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P4",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P4_Red Shoulder Grab.jpg",
+ "scale": 4.37,
+ "regions": {
+  "header": {
+   "text": "(RED SHOULDER GRAB ( )-\nCo ; eae f",
+   "conf": 51.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Aff (|) \\\\ \\\\ Ww\n(PHYSICAL COMBAT 5\nX% Physical attack. DAMAGE: AT +3 stages.\nRaise your anger 1 level. For the remainder\nof combat, all of your other attacks are\nconsidered to deal critical damage.",
+   "conf": 83.2,
+   "n_words": 36
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_133",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/133_Crushing Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘ CRUSHING BEAM 2 €) ey",
+   "conf": 44.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "‘et id\nLoe ae _\n| « GNERGY COMBAT '\n(Heroes only.) ENDURANCE 2. > Energy\nattack costing 3 stages. DAMAGE: 6 life cards.\nLife card damage from this attack is banished.\n| Shuffle into your Life Deck after use.",
+   "conf": 80.4,
+   "n_words": 40
+  }
+ }
+}

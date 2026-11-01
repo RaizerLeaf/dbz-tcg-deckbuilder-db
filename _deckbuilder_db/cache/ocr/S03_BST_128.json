@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_128",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/128_Dr. Wheelo's History.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(DR. WHEELO'S HISTORY a\nRL pet ett",
+   "conf": 56.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4 ,\n\n2\n,\n, ,",
+   "conf": 8.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "2 ;\nMA. ~\n: eVeENT '\n. (Banish after use.) POWER: Destroy the top\nms 63 cards of your opponent's Life Deck. You\nmay lower your MP 1 level. If you do, destroy\n: the top 5 instead.",
+   "conf": 75.9,
+   "n_words": 39
+  }
+ }
+}

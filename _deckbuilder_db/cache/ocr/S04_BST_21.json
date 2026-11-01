@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_21",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/21_Namekian Catch.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CATCH () C21",
+   "conf": 73.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n3\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @RoR}\n(When this card is banished from\nyour discard pile, gain 2 stages.)\nwv Stops a physical attack.\nLook at the bottom 5 cards of your discard pile or\nLife Deck and place them back in any order.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 92.5,
+   "n_words": 49
+  }
+ }
+}

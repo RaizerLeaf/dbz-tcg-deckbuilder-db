@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_110",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/110_Blue Back Break.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE BACK BREAK... () A110\n. \\ ANS a7 NG. Ne ek -",
+   "conf": 46.9,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "2\n2\n2",
+   "conf": 26.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "New VA A\n| aVhs PHYSICAL COMBAT\nSZ\n*X Physical attack. DAMAGE: 5 stages.\nRaise your anger 1 level. You may shuffle an\nAlly in play into its owner's Life Deck.\nfoxes",
+   "conf": 79.8,
+   "n_words": 32
+  }
+ }
+}

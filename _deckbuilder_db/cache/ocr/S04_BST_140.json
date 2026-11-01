@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_140",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/140_Tug of War.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "TUG OF WAR ¢) R140\nee ee ee Le ha”",
+   "conf": 51.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n2\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(When this card is discarded or destroyed from\nyour Life Deck, banish an Ally.)\nPOWER: Banish an Ally. Lower your opponent's\nanger 2 levels. Shuffle into your Life Deck\nafter use.\n|\nNe ee ee ae raxrnt)",
+   "conf": 84.1,
+   "n_words": 37
+  }
+ }
+}

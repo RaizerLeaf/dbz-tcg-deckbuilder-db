@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_49",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/49_Red Slide.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED SLIDE he () cas\n| | JN",
+   "conf": 58.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 23.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "wp\nm2) PHYSICAL COMBAT\nENDURANCE 1. X Physical attack. DAMAGE:\nAT +4 stages. Raise your anger 1 level.\nYour Drills are not discarded when changing\nlevels this combat.",
+   "conf": 90.0,
+   "n_words": 28
+  }
+ }
+}

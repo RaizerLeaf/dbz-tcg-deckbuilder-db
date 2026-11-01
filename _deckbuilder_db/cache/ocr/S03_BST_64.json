@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_64",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/64_Dr. Wheelo - Robotic.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[4 DR. WHEELO (=\nLEVEL _",
+   "conf": 58.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2,600\n\n2,400\n\n2,200\n\n2,000\n1,800\n1,600\n1,400\n1,200\n\n1,000\n\n, 500\n0",
+   "conf": 87.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "1,2UU\n; 1,000\n= —— 900\n| tz 0\nio\noo: Whenever one of your effects destroys cards from\nthe top of your opponent's Life Deck, increase that\namount by 2 and Rejuvenate 2.",
+   "conf": 82.7,
+   "n_words": 34
+  }
+ }
+}

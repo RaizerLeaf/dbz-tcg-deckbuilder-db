@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P6",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P6_Namekian Onslaught.jpg",
+ "scale": 4.37,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN ONSLAUGHT (\n—,",
+   "conf": 53.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1,\n\n7 7\n4\n1,",
+   "conf": 2.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "—M }\n(ES ENERGY COMBAT 4\n* Energy attack costing 1 stage. DAMAGE:\n4 life cards. Rejuvenate 1. If you control 2 or\nmore Dragon Balls, this attack stays in play to\nbe used a second time this combat.",
+   "conf": 86.4,
+   "n_words": 39
+  }
+ }
+}

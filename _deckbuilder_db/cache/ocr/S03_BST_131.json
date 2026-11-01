@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_131",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/131_Lord Slugs Fist Slam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": ". 3 |",
+   "conf": 45.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "9",
+   "conf": 26.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "y »v\n. SE\nP| Physical attack. DAMAGE: AT +3 stages. [im\n(> If your MP is level 2 or lower, raise your\nyj anger 2 levels. If your MP is level 3 or higher, re\nfe Rejuvenate 1 and capture a Dragon Ball. ot",
+   "conf": 77.8,
+   "n_words": 45
+  }
+ }
+}

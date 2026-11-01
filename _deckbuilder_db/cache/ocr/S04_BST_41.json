@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_41",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/41_Red Cross Block.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED CROSS BLOCK @ ai\nSO A GaSe”",
+   "conf": 61.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @ RoR}\nv Stops a physical attack.\nSearch your discard pile for a Styled attack\ncard and place it on top of your Life Deck\nor discard pile.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.1,
+   "n_words": 39
+  }
+ }
+}

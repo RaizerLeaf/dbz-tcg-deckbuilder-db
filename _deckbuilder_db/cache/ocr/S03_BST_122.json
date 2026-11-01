@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_122",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/122_Red Retreat.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED RETREAT 9 ees () alee\ni. ae",
+   "conf": 49.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",,\n2 1\n,",
+   "conf": 9.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Po ae =\n7) = Vi _ ry\n(Limit 2 per deck. Banish after use.) POWER:\nSearch your Life Deck for a Drill and place it\ninto play. You may banish a Drill you control.\nIf you do, end combat.\n> | PAMIMI",
+   "conf": 79.2,
+   "n_words": 43
+  }
+ }
+}

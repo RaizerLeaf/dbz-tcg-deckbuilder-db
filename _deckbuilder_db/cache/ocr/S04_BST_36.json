@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_36",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/36_Orange Outburst.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE OUTBURST ) 036",
+   "conf": 79.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n\n7 7\n,\n,",
+   "conf": 25.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "POWER: Banish any amount of Drills you control.\nDestroy a total of up to X Setups and/or Allies.\nX = the number of Drills banished this way.",
+   "conf": 95.3,
+   "n_words": 27
+  }
+ }
+}

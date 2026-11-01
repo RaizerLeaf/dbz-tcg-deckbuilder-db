@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_09",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/09_Black Travelling Punch.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLACK TRAVELLING PUNCH () C9\n7 . . en ——-- eae",
+   "conf": 46.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7 ,\n2",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "( 1 ) PHYSICAL COMBAT (Re), |\n| * Physical attack.\nIf this attack is stopped by a Physical Combat\nor Energy Combat card, destroy the top 2 cards of\nyour opponent's Life Deck. If this attack is stopped\nby any other card type or by a floating effect, banish\nthe top 2 cards of your opponent's Life Deck.\nDAMAGE: 0 stages.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.9,
+   "n_words": 71
+  }
+ }
+}

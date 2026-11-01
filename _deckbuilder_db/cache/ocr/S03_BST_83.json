@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_83",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/83_Blue Double Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE DOUBLE BLAST.. (2\n.” &",
+   "conf": 52.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "> SIS DVS\n=. ENERGY COMBAT\n* Energy attack costing 2 stages. DAMAGE:\n6 life cards. Lower your opponent's anger 2\nlevels. If your current anger level is higher\nthan the MP level of your opponent, damage\nfrom this attack cannot be prevented.\naa | PAMIMI|",
+   "conf": 82.2,
+   "n_words": 46
+  }
+ }
+}

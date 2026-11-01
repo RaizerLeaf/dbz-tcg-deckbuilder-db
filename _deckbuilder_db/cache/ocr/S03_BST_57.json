@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_57",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/57_Saiyan Leaping Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SALYAN LEAPING BURST (=\nen a 2 es",
+   "conf": 59.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n37",
+   "conf": 17.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "~ ENERGY COMBAT\n\n-\n* Energy attack costing 2 stages. DAMAGE:\n6 life cards. If you have destroyed cards\nfrom the top of your Life Deck this combat,\n\nRejuvenate 2.\n| PAMINI|\n\nSess",
+   "conf": 86.0,
+   "n_words": 33
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_71",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/71_Lord Slug - Renewed.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[B vor sus Om\nCae | —",
+   "conf": 37.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "200,000\n150,000\n125,000\n100,000\n75,000\n50,000\n10,000\n1,000\n\n500\n\n250\n\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "e 1,0UU\n\\' y : 500\nam > . 250\neg) (2 0\nWy Mo\nco: Your attacks deal +2 stages of damage. The first\ntime during combat one of your effects shuffles or\nRejuvenates cards from your discard pile into your Life\nDeck, double that amount.",
+   "conf": 76.5,
+   "n_words": 47
+  }
+ }
+}

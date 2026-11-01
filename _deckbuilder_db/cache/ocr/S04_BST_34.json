@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_34",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/34_Orange Ki Blast.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE KI BLAST ) 034\nee",
+   "conf": 73.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Roa} =SNERGY COMBAT\n* Energy attack costing\n2 stages.\nDAMAGE: 4 stages +AT life cards.\nHIT: Your next successful energy attack this combat\ncannot have its damage modified nor prevented.",
+   "conf": 88.7,
+   "n_words": 30
+  }
+ }
+}

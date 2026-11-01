@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_38",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/38_Orange Upward Strike.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE UPWARD STRIKE ) 038\nSS ee",
+   "conf": 69.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n3",
+   "conf": 35.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (RoR)\n* Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Lower your opponent's anger X levels.\nX = the number of Drills you control.",
+   "conf": 89.7,
+   "n_words": 30
+  }
+ }
+}

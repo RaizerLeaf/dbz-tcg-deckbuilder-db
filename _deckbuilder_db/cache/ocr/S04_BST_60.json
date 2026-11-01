@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_60",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/60_Shoulder Slam.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SHOULDER SLAM ) C60 |",
+   "conf": 91.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ", 1m) -HYSICAL COMBAT (e R\nCOTS” * Physical attack. i\nRaise your anger 1 level. Lower your\nopponent's anger 3 levels.\n\nDAMAGE: AT +AT stages.\n\n&S © 2015 Panini America, Inc. Printed in the USA. [paniut)",
+   "conf": 73.6,
+   "n_words": 37
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_07",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/07_Black Protection.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLACK PROTECTION () C7\nll oe =. s",
+   "conf": 49.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(rea) ENERGY COMBAT\n(If this card is destroyed from your\nLife Deck by one of your effects,\nyou may draw a card.)\nwv Stops an energy attack.\nYou may discard a Styled card from your hand.\nIf you do, this card stays in play to be used a second\ntime this combat.\n\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 92.5,
+   "n_words": 61
+  }
+ }
+}

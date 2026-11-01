@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_92",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/92_Orange Distracting Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE DISTRACTING DRILL () US2",
+   "conf": 75.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 14.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| ae EE ee OE\n_ TaN 7 7 Te a\nDRILL. '\na\n(You may discard this card from your hand to\nperform a non-Styled physical attack dealing\n3 stages of damage.) oo: Your AT damage is\nconsidered to be 4 for your Styled attacks.\n| PAMINI |\nerg - 7",
+   "conf": 74.9,
+   "n_words": 52
+  }
+ }
+}

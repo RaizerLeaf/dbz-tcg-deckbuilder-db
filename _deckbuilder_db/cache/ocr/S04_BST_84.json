@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_84",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/84_Saiyan Sword Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SWORD STRIKE () U84\nar [I Ds",
+   "conf": 57.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n4\n,",
+   "conf": 34.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT fR-R}\n* Physical attack.\nIf your opponent passed as his last action\nthis combat, this attack cannot be stopped nor have\nits damage prevented.\nDAMAGE: AT +4 stages.",
+   "conf": 90.8,
+   "n_words": 30
+  }
+ }
+}

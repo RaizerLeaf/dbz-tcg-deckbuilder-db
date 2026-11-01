@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_139",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/139_Pulverize.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ PULVERT ZB eee @) ALSS\n- A",
+   "conf": 35.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n43,2",
+   "conf": 5.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT =:\ni © Physical attack. DAMAGE: AT 43 stages.\nBanish 2 cards from your opponent's discard\npile. At the end of combat, search your Life Deck\nmm = for a Physical Combat or Energy Combat attack I\n7 card and place it on top of your Life Deck.\n. , [Paint]",
+   "conf": 81.0,
+   "n_words": 54
+  }
+ }
+}

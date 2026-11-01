@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_94",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/94_Saiyan Rescue.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN RESCUE = (2",
+   "conf": 59.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3 4\n7",
+   "conf": 13.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(te fae ws\n\naT ML - Se\n\n« GVENT '\n(You may only have one “Saiyan Rescue”\nattached.) POWER: Attach to your MP.\nRejuvenate 1. °°: Once per turn as an action,\nchoose a card in your discard pile and\n\nRejuvenate it.\n\n_— | PAMINI |",
+   "conf": 78.6,
+   "n_words": 46
+  }
+ }
+}

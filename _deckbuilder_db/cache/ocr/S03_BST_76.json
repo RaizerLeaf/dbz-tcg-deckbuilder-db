@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_76",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/76_Turles - Conquering.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "4 tuRLES UIE\nLEVEL —_",
+   "conf": 50.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "300,000\n200,000\n150,000\n100,000\n75,000\n50,000\n5 25,000\n, 20,000\n15,000\n10,000\n\n0",
+   "conf": 84.6,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "R \\ Ba») >A \\—~ | 2U,UU0U\nWH) JZ ie A w 10,000\n(EA). SS)\nPOWER: X Physical attack. DAMAGE: X stages and\nX life cards. X = the number of power stages your\nopponent's MP is above 0. Endurance cannot be\nused this turn.",
+   "conf": 74.6,
+   "n_words": 45
+  }
+ }
+}

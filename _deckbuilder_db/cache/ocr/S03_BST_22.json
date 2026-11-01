@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_22",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/22_Blue Rejection.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE REJECTION () cee\na ~~ *. — |",
+   "conf": 53.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n4",
+   "conf": 42.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Ae > =m\n(Banish after use.) X Energy attack costing\n2 stages. DAMAGE: 6 life cards. Lower your\nopponent's anger 1 level. You do not have to\npay power stage costs for your next Styled\nenergy attack this combat. HIT: Your MP\ngains 4 stages.\nfew - | PAM IMT",
+   "conf": 84.7,
+   "n_words": 50
+  }
+ }
+}

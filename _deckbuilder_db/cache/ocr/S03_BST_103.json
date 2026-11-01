@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_103",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/103_Black Dash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DASH Se () a103\n. ¢ _",
+   "conf": 58.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 5.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(LD = eee\n\\ ke PHYSICAL COMBAT\nENDURANCE 1. X Physical attack. DAMAGE:\nAT +2 stages. Raise your anger 2 levels. HIT:\nYou may search your opponent's Life Deck for\nan Ally that isn’t already in play and play it.\na | PARMIME |",
+   "conf": 83.4,
+   "n_words": 44
+  }
+ }
+}

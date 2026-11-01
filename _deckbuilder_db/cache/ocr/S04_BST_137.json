@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_137",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/137_Enhanced Reflexes.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ENHANCED REFLEXES ) R137]\naw «=. ae iad ae,",
+   "conf": 51.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n\n4\n,\n,",
+   "conf": 23.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Limit 2 per deck.)\nvw Stops a physical or energy attack.\nIf that attack was a Named card, it deals no\ndamage and is banished after use. Banish the top\ncard of your Life Deck.\nG 5 (Banish after use.)",
+   "conf": 90.3,
+   "n_words": 40
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_130",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/130_Garlic Jr.'s Counter Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“(GARLIC IR'S COUNTER BLAST a",
+   "conf": 53.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n4\n, 2",
+   "conf": 33.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| SNERGY COMBAT '\n. oe\n. (Banish after use.) X Energy attack costing\n62 stages. DAMAGE: 5 life cards. Raise your\nanger 2 levels. The damage modifiers on your\n7 MP's °© powers are doubled this combat.\n7 , PAMINT)",
+   "conf": 75.8,
+   "n_words": 41
+  }
+ }
+}

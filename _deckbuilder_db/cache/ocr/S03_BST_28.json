@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_28",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/28_Namekian Mouth Beam (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN MOUTH: BEAM () cee\n- e~ Ul",
+   "conf": 41.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "24\n4\n1,",
+   "conf": 28.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ENERGY COMBAT '\n\n_g\n\n(Banish after use.) ENDURANCE 1. Energy\nattack costing 2 stages. DAMAGE: 4 life cards.\nHIT: Choose a Styled block in your discard\n\npile and Rejuvenate it.\n| PAMINI |\n\ntesa",
+   "conf": 87.9,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_141",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/141_Defiant Challenge.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "DEFIANT CHALLENGE urit\nELEY! / Le",
+   "conf": 54.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n5,,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "POWER: Search your Banished Zone for a Named\ncard and place it on top of your Life Deck. Search\nyour Life Deck for a Named attack card and place\n\nit into your hand. Your opponent may discard a\n\ncard from his hand to search his Life Deck for\n\na Named attack card and place it\ninto his hand.\n(Banish after use.)\nGS) cresstansssnnica ne rinesnnevs,  PAMTRE]",
+   "conf": 90.0,
+   "n_words": 66
+  }
+ }
+}

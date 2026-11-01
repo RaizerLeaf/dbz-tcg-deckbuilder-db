@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_PRO_P3",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P3_Orange Dodge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE DODGE () PS\n- -”-. be",
+   "conf": 38.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n\n,,\n1\n2",
+   "conf": 12.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "r A f oA\net\n(Banish after use.) & POWER: Prevent all\ndamage from an attack. Shuffle one of your\nDrills in play into your Life Deck to search\nyour Life Deck for a Styled Drill and place it\ninto your hand.",
+   "conf": 82.0,
+   "n_words": 42
+  }
+ }
+}

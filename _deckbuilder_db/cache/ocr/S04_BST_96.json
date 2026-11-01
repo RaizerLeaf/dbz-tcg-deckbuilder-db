@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_96",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/96_Turtle - Protective.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "LL sTURTLE\nLEVEL PROTECTIVE () U96\n4 EE\" —_—",
+   "conf": 55.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "11\n\n10\n\n9\n\n8\n7\n6\n\n5\n4\n3\n\n2\n0",
+   "conf": 91.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "_ ‘I ¢\n) >\nFF Newt 0\noo: At the start of your turn, banish =\nthe top card of each player's\ndiscard pile. CUNIMATION.\nPOWER: Shuffle “Turtle” into your ‘PAMIMI|\nLife Deck to draw a card. ee",
+   "conf": 76.6,
+   "n_words": 39
+  }
+ }
+}

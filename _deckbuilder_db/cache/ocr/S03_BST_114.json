@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_114",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/114_Orange Spotlight.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE SPOTLIGHT. ( )-n\nel |’! | ae aie FF",
+   "conf": 39.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 7.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "yo ee Ps eS\nNe\nWes) —“F\nJ] (Heroes only.) POWER: Play with your hand\nf revealed this turn. Your Styled attacks deal +2\nlife cards of damage this combat. ss",
+   "conf": 74.2,
+   "n_words": 31
+  }
+ }
+}

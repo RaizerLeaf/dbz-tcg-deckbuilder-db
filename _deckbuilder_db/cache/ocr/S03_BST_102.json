@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_102",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/102_Black Combo.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK COMBO veces () 102",
+   "conf": 53.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "/ | a, ==, ee\n| — PHYSICAL COMBAT .\n* Physical attack. DAMAGE: AT +1 stage.\nRaise your anger 2 levels. HIT: You may\nchoose a card attached to an MP and attach\nto a different MP.",
+   "conf": 81.4,
+   "n_words": 38
+  }
+ }
+}

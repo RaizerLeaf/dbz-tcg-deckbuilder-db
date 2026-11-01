@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_42",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/42_Orange Smash (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE SMASH oe () cae\nwr",
+   "conf": 60.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ee rN _ |\n_ —_ ae 7 Si\nPHYSICAL COMBAT\ny\n% Physical attack. DAMAGE: AT +4 stages.\nBanish up to 3 of your Drills and return them\nto play at the end of combat.\n. | PAMIMI |",
+   "conf": 73.7,
+   "n_words": 40
+  }
+ }
+}

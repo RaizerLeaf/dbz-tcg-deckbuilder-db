@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_91",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/91_Orange Commanding Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[ORANGE COMMANDING--DRILL (=",
+   "conf": 51.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "1\n9 28\n3",
+   "conf": 27.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "3 POWER: Discard a card from your hand to\nG perform a non-Styled physical attack dealing\n) AT +2 stages of damage. a",
+   "conf": 82.4,
+   "n_words": 23
+  }
+ }
+}

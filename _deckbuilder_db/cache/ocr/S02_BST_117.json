@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_117",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/117_Orange Chasing Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ce RANGE CHASING DRILL é a7\nLSI — i : Al",
+   "conf": 46.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n4\n0",
+   "conf": 10.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "sare f\nan? Zae\n)\nCONSTANT: Whenever you perform a Styled\n() attack, you may choose for that attack to\n>, deal its life card damage as power stages of fie\nA damage instead. .",
+   "conf": 74.5,
+   "n_words": 35
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_123",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/123_Red Controlled Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED CONTROLLED ATTACK (a",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Cw, PHYSICAL COMBAT =\nEE\n* Physical attack. DAMAGE: AT +3 stages.\nHIT: You may lower your MP 1 level.\nIf you do, your opponent skips his next\naction this combat.",
+   "conf": 85.9,
+   "n_words": 31
+  }
+ }
+}

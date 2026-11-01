@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_124",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/124_Android 17's Back Smash.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID 17’S BACK SMASH @@) R124\nell",
+   "conf": 66.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R-R\n* Physical attack.\nRaise your anger 1 level. Your opponent skips\nhis next action this combat.\nDAMAGE: 5 stages.\n&S © 2015 Panini America, Inc. Printed in the USA. [paniut)",
+   "conf": 86.4,
+   "n_words": 33
+  }
+ }
+}

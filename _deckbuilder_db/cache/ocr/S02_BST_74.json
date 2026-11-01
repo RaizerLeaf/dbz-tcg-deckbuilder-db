@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_74",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/74_Black Foreshadowing.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK FORESHADOWING () U74\n. i d t |",
+   "conf": 69.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "8",
+   "conf": 48.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "car OF 4G\n\nHa, pe EVENT 4\n(Banish after use.) ENDURANCE 3. POWER:\nDestroy the top X cards of your opponent's\nLife Deck and gain X stages. X = the number\nof different card types in your opponent's\nBanished Zone.\ntones",
+   "conf": 84.1,
+   "n_words": 41
+  }
+ }
+}

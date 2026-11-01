@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_105",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/105_Blue Observation Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE OBSERVATION DRELL () A105",
+   "conf": 68.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "“E> a aa a ae a\n( = DAILL >\nco: Endurance cannot be used.",
+   "conf": 65.7,
+   "n_words": 15
+  }
+ }
+}

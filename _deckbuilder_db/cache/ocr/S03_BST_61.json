@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_61",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/61_Dr. Wheelo - Big Brain.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "LEVEL _",
+   "conf": 62.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "10\n\n9\n\n8\n\n7\n\n6\n\n5\n4\n\n4\n\n3\n\n2\n\n1\n\n0\n4",
+   "conf": 88.4,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "~ 3\ny ’ 2\n— — 1\nLI\na (2 0\nPUR) SEZ,\nPOWER: Destroy the top card of your Life Deck to\ndestroy the top 2 cards of your opponent's Life Deck.\nSet your anger level to 3.",
+   "conf": 77.3,
+   "n_words": 40
+  }
+ }
+}

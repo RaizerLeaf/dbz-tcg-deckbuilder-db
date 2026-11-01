@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_BST_47",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/47_Saiyan Flight.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "~ y 7 |\n> it 5 ANY",
+   "conf": 52.5,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "| . _ a\n| (This card is considered to be a Named card for\n| your card effects.)\n\nca POWER: x Physical attack.\n\n2 1) G) DAMAGE: 5 stages.\n\n= Q) A HIT: Rejuvenate 1.\n\n2 (Banish after use.)",
+   "conf": 80.5,
+   "n_words": 40
+  }
+ }
+}

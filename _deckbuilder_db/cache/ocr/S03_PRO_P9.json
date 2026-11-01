@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P9",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P9_Orange Stare Down.jpg",
+ "scale": 1.0,
+ "regions": {
+  "header": {
+   "text": "(ORANGE STARE DOWN () Ps\n\\ af",
+   "conf": 76.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7 1",
+   "conf": 22.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a (ee ue\nCNERGY COMBAT '\n_\nEnergy attack costing 2 stages. DAMAGE:\n4 life cards. Banish an opponent's Setup,\nDrill or Ally.",
+   "conf": 75.5,
+   "n_words": 23
+  }
+ }
+}

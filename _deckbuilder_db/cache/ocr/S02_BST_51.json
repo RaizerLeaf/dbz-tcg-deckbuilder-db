@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_51",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/51_Saiyan Protection Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN PROTECTION DRILL () cs1\n4 ™! »",
+   "conf": 60.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n4\n2",
+   "conf": 16.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "-  —. ” |\n« DAILL '\nENDURANCE 1. °°: Your opponent's attacks\ndeal -1 stage and -1 life card of damage.\nOnce per combat after banishing a card for\nEndurance, you may Rejuvenate that card.\n— | PAMIME |",
+   "conf": 79.4,
+   "n_words": 40
+  }
+ }
+}

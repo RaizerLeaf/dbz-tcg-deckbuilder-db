@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P7",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P7_Blue Positioning Drill.jpg",
+ "scale": 1.0,
+ "regions": {
+  "header": {
+   "text": "(BLUE POSITIONING::DRILL () P7\nes Oe Uy 7",
+   "conf": 32.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4\n,",
+   "conf": 5.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "‘a SAM cee ON\n‘ DRILL F\n_ a\ncoo: Whenever you stop an attack, place a\nStyled card from your discard pile on top of\nyour Life Deck.",
+   "conf": 78.2,
+   "n_words": 29
+  }
+ }
+}

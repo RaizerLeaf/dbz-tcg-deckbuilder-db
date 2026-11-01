@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_43",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/43_Red Right Knee.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED RIGHT KNEE @",
+   "conf": 78.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n, 7",
+   "conf": 41.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "( 1 ) PHYSICAL COMBAT (iR-R},\n| * Physical attack.\nRearrange the top 5 cards of your discard pile.\nDAMAGE: AT +4 stages.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 84.2,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_68",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/68_Garlic Jr. - Transformed.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Se GARLIC IR €) 25\nLEVEL ROR",
+   "conf": 54.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "25,000\n15,000\n10,000\n8,000\n\n6,000\n4,000\n5 2,000\n1,000\n\n500\n\n250\n\n0",
+   "conf": 91.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "1,Q0U\n500\n“a oN 250\nou :\n4 4\noo: Your opponent's attacks deal +3 life cards of\ndamage. Your Dragon Balls cannot be captured.\nWhenever your anger is lowered, you may capture\na Dragon Ball.\n~ |PAMINI\nleotes",
+   "conf": 78.5,
+   "n_words": 39
+  }
+ }
+}

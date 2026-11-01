@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_17",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/17_Blue Vehicle Destruction.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE VEHICLE DESTRUCTION",
+   "conf": 96.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",,\n, 7\n2,\n\n,",
+   "conf": 10.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "\\ — ) PHYSICAL COMBAT (Re), |\n* Physical attack. )\nLower your opponent's anger 2 levels.\nDAMAGE: 4 stages +AT life cards.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 80.9,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_74",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/74_Turles - Watchful.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "E TURLES aE: C) Ta\nLEVEL err —_",
+   "conf": 48.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "30,000\n25,000\n20,000\n15,000\n10,000\n8,000\n6,000\n4,000\n\n2,000\n\n1,000\n\n0",
+   "conf": 96.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "/ \\ 4,000\n2,000\n“a } ~~ 1,000\n6B.\n7 | 7 :\nPOWER: X Energy attack costing 2 stages.\nDAMAGE: 5 stages. Damage from this attack cannot\nbe prevented. HIT: Your opponent pays 3 stages or\nyou may raise your anger 2 levels and use a\ncritical damage effect.\n| PAMINI|\nloess",
+   "conf": 81.8,
+   "n_words": 53
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_32",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/32_Namekian Reinforced Jab.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN REINFORCED. JAB ( =",
+   "conf": 52.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "-_ fr \\ a —~\nPHYSICAL COMBAT :\n* Physical attack. DAMAGE: AT +4 stages.\nBanish up to 3 cards from your discard pile.\nHIT: Banish up to 3 cards from your opponent's\ndiscard pile.\n| PAMIMI|\nter",
+   "conf": 84.2,
+   "n_words": 38
+  }
+ }
+}

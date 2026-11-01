@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_59",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/59_Energetic Left Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ENERGETIC LEFT BLAST () cs9\ni... tC",
+   "conf": 50.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "OY r\n| « GNERGY COMBAT\nx Energy attack. DAMAGE: 1 life card.\nYou may destroy an Ally. if you do, this attack\ndeals +4 life cards of damage.\n| _— | PAMINI |",
+   "conf": 81.2,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_44",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/44_Red Robotic Blast.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED ROBOTIC BLAST @ wu\nOe eS wd",
+   "conf": 61.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n9\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(rok) ENERGY COMBAT\n) * Energy attack costing\n2 stages.\nSearch your Life Deck or Banished Zone for a Styled\nattack card and place it on top of your discard pile.\nDAMAGE: 5 stages.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 90.4,
+   "n_words": 43
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_102",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/102_Black Head Charge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK HEAD CHARGE (m0\nmer Os oS",
+   "conf": 56.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 10.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(aia' ae - dN -_\n| wis PHYSICAL COMBAT .\nSF,\n*X Physical attack. DAMAGE: AT stages.\nThe personality performing this attack may\npay any amount of stages. This attack deals\n+1 stage of damage for each stage paid.\n_— | PAMIMI|",
+   "conf": 79.6,
+   "n_words": 42
+  }
+ }
+}

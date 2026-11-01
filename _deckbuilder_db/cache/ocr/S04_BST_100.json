@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_100",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/100_Android 20 - Mastermind.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "L ANDROID 20\nLEVEL MASTERMIND () U100",
+   "conf": 77.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "100,000\n80,000\n60,000\n40,000\n20,000\n715,000\n10,000\n5,000\n1,000\n500\n0",
+   "conf": 71.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Lee ZL S J 9,000\nJ Me LA\ng G7 1,000\n-— hi X 7 |\nVu a> 0\noo: Damage from attacks performed =\nby personalities with “Android”\nin the title cannot be prevented. cunhanarican.\nWhen this card is leaving play, all\npersonalities with “Android” in the\ntitle lose 3 stages. © 2015 Panini America, Inc.",
+   "conf": 76.2,
+   "n_words": 57
+  }
+ }
+}

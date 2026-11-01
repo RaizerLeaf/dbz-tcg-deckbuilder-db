@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_66",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/66_Garlic Jr. - Crazed.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| — GARLIC JIRe vw a:\n| aoa —\nrn STE ae",
+   "conf": 40.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "4,000\n\n3,500\n\n3,000\n\n2,500\n\n2,000\n1,500\n1,000\n750\n\n500\n\n250\n\n0",
+   "conf": 95.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "y =\\~ es\n= 500\n“a ro We) ; 250\nena) (22 0\nPUR, Oey)\nco: Your opponent's attacks deal -2 life cards of\ndamage. Whenever a Dragon Ball is revealed when\ntaking damage, raise your anger 1 level.",
+   "conf": 76.5,
+   "n_words": 39
+  }
+ }
+}

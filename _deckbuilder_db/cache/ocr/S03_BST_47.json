@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_47",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/47_Red Resourceful Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED RESOURCEFUL. BLOCK () Caz\nhe , ho | y A",
+   "conf": 43.8,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "5\n,",
+   "conf": 17.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "me NN 4\n“~ AV\nPHYSICAL COMBAT\n_\nENDURANCE 3. © Stops a physical attack.\nLower your MP 1 level. If you do, advance your\nMP 1 level at the end of combat.\n, | PAMINI|\nters",
+   "conf": 76.1,
+   "n_words": 37
+  }
+ }
+}

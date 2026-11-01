@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_99",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/99_Nappa’s Confidence.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAPPA'S CONFIDENCE (2\n. 2 nee S| Eee",
+   "conf": 55.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n3 ,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "WAT\"\n« &VENT\n(Banish after use.) | POWER: Choose a\npersonality in play. That personality loses 4\nstages. If that personality's power level is 0,\n| you may banish a Setup, Drill or Ally.",
+   "conf": 85.4,
+   "n_words": 34
+  }
+ }
+}

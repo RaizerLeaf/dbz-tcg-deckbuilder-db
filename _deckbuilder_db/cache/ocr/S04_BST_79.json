@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_79",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/79_Red Forceful Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED FORCEFUL STRIKE €) U79\n/ wii pp",
+   "conf": 69.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "= PHYSICAL COMBAT fR-R)\n\n(When this attack is performed\n\nfrom your discard pile, you may destroy a\n\nSetup or Drill.)\n* Physical attack.\nDAMAGE: AT +3 stages.\nHIT: You may banish the top card of your Life\nDeck to destroy a Setup or Drill.\n© 2015 Panini America, tac. Printed in the USA. | PAMIRI |",
+   "conf": 88.9,
+   "n_words": 56
+  }
+ }
+}

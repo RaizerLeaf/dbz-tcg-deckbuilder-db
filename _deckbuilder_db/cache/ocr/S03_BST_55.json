@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_55",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/55_Saiyan Evasion.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN EVASION (<=",
+   "conf": 35.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ", 4",
+   "conf": 38.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "-_ 2 ev —__—»\"\nPHYSICAL COMBAT 8\ng\nw Stops a physical attack. Search your\ndiscard pile for a card with Endurance\nand Rejuvenate it.\n| PAMINI |\ntesa",
+   "conf": 74.0,
+   "n_words": 29
+  }
+ }
+}

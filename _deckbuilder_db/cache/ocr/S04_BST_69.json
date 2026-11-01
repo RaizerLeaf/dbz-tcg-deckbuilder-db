@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_69",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/69_Blue Face Grab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE FACE GRAB =) veo\n——e EE",
+   "conf": 60.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ", 7\n,",
+   "conf": 21.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT R R 7\n( ®@,\nx Physical attack.\nWhenever one of your effects causes a\npersonality to lose stages this combat, double\nthat amount.\nDAMAGE: 6 -X stages. X = your opponent's current\nanger level.\nLEP) rorsrsantanuiea ue rinetinmeusn «EEE",
+   "conf": 81.1,
+   "n_words": 42
+  }
+ }
+}

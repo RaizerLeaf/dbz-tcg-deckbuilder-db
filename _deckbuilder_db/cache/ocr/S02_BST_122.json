@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_122",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/122_Red Stop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED STOP ne () a1l2e\nl _.,<__” _",
+   "conf": 50.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 39.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "oe Pg Oe\n\n| - =VENT 4\n(Banish after use.) % POWER: Stops a\nphysical or energy attack. You may lower your\nanger 1 level. If you do, search your discard\npile or Banished Zone for a Styled Drill and\nplace it into play.\nflores",
+   "conf": 83.0,
+   "n_words": 45
+  }
+ }
+}

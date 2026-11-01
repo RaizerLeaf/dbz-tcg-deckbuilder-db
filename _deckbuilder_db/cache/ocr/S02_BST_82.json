@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_82",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/82_Namekian Hurried Quest.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HURRIED. QUEST () Use\n, | iii",
+   "conf": 63.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2 ,",
+   "conf": 9.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "_&y\n.« &2VENT\n(Banish after use.) POWER: Return a Dragon\nBall in play to its owner's hand. If you do, use\nthe immediate effects of a Dragon Ball you\ncontrol and then return it to its owner's hand.",
+   "conf": 89.0,
+   "n_words": 38
+  }
+ }
+}

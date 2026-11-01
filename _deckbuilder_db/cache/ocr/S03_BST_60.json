@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_60",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/60_Lookout Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘(Loo KOUT DRILL eee () CSO",
+   "conf": 58.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "is ; ri f 4] .\nWis Jr ong\n\nJ (After this Drill enters play from your hand, Be\n\nRejuvenate 1.) °°: The first time each turn\n\njj an opponent's card effect would destroy or ‘@\n\n“+ banish cards from the top of your Life Deck, @s\n\nIe reduce that amount to 0.",
+   "conf": 74.0,
+   "n_words": 53
+  }
+ }
+}

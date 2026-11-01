@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_PRO_P8",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P8_Black Enraged Assault.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK ENRAGED ASSAULT ( )-",
+   "conf": 66.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2",
+   "conf": 17.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "rr on. 2\" 4\nC . ug PHYSICAL COMBAT =\nENDURANCE 1. * Physical attack.\nDAMAGE: 3 stages +3 life cards. HIT: Choose\na card in your opponent's Banished Zone.\nSearch your opponent's Life Deck for all\ncopies of that card and banish them.",
+   "conf": 79.0,
+   "n_words": 44
+  }
+ }
+}

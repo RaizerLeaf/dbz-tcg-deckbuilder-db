@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_54",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/54_Saiyan Enjoyment.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN ENJOYMENT: ( =",
+   "conf": 62.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 3.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_” ~ | .\nEVENT '\n4\n(Banish after use.) POWER: Your physical\nattacks deal +2 stages of damage this combat.\nDraw a card.\n: | PAMINI |\nSere",
+   "conf": 78.0,
+   "n_words": 29
+  }
+ }
+}

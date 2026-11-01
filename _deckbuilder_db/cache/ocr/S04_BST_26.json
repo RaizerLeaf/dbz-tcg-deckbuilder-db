@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_26",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/26_Namekian Wrist Strike.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN WRIST STRIKE ) 026",
+   "conf": 84.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "( —4 ) PHYSICAL COMBAT (Re), |\n* Physical attack.\nIf Gohan or Namek Dragon Ball 5 are in play,\nthis attack stays in play to be used a second time\nthis combat.\nDAMAGE: AT +3 stages.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 87.7,
+   "n_words": 49
+  }
+ }
+}

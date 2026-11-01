@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_141",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/141_I'll Dig Your Grave.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "‘(I'LL DIG YOUR GRAVE! a=\nFP y i",
+   "conf": 71.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n,,\n,",
+   "conf": 24.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ",* Mae / _\n| PHYSICAL COMBAT :\nyg\n(You cannot win by MPPV if you advance a\n. personality level with this card.) Physical\nattack. DAMAGE: 6 stages. Damage from your\n; attacks cannot be prevented this combat.\n. HIT: You may advance your MP 1 level. If you\n| do, advance your opponent's MP 1 level.",
+   "conf": 81.7,
+   "n_words": 58
+  }
+ }
+}

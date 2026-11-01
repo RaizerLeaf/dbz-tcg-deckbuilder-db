@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P11",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P11_Saiyan Energy Focus.jpg",
+ "scale": 4.37,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN ENERGY FOCUS ()-»",
+   "conf": 73.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "9 ,\n3\n,",
+   "conf": 9.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ao\n7™ i _\nGCNERGY COMBAT '\nx Energy attack costing 2 stages. DAMAGE:\n\n3 life cards. Choose 3 non-personality/non-\nMastery cards in play. Those cards lose all\neffects until the end of combat.\n\n| PAMEME |\neee",
+   "conf": 80.4,
+   "n_words": 38
+  }
+ }
+}

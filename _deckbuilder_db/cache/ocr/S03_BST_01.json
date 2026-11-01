@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_01",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/01_Kami - Guardian.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{lL kam €) cr\nren =\n: me F 3 TES a",
+   "conf": 42.1,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "1,000\n\n300\n\n800\n\n700\n\n600\n500\n400\n300\n\n200\n\n100\n\n0",
+   "conf": 91.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Ld 200\na a 100\n=< ——\neo\n' << 8)\nPURY) CY) a\n(Heroes only.) co: At the start of your Rejuvenation\nStep, place the top card of your discard pile at the\nbottom of your Life Deck. When this card is leaving\nplay, search your Life Deck for a Dragon Ball\nand place it into play.",
+   "conf": 80.7,
+   "n_words": 58
+  }
+ }
+}

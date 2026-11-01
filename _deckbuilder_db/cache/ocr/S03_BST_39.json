@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_39",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/39_Orange Flee.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "c RANGE FLEE €) cso\nSE >",
+   "conf": 51.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4",
+   "conf": 61.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "oN ~\n| ENERGY COMBAT '\na\nW Stops an energy attack. Your next Styled\nphysical attack this combat gains, “HIT: This\nattack stays in play to be used a second time\nthis combat.”\n| PAMINI |\nters 7 7",
+   "conf": 83.9,
+   "n_words": 40
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_16",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/16_Blue Shopping.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE SHOPPING ) Cie\nDee. OMe -- oh,",
+   "conf": 62.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| =VENT |\nwv POWER: Prevent all damage from an attack.\nStyled attacks deal +2 stages of damage\nthis combat.\n(Banish after use.)\nB . R |\nPn eM RO A Pain)",
+   "conf": 72.9,
+   "n_words": 32
+  }
+ }
+}

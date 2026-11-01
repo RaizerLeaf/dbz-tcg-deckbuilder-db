@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_72",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/72_Namekian Downward Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DOWNWARD BLAST@\nttl a ll ta",
+   "conf": 45.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n, ,\n4\n6\n,\n,2",
+   "conf": 7.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "(Sa Ee = )I\n* Energy attack costing 1 stage CU\nYour MP gains 2 stages. Lower your opponent's\nanger 2 levels.\nDAMAGE: 2 life cards.\nHIT: You may place this card on the top or bottom\nof your Life Deck after use.\na\n©",
+   "conf": 84.2,
+   "n_words": 45
+  }
+ }
+}

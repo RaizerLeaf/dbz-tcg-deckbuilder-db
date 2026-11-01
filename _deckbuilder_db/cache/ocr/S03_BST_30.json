@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_30",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/30_Namekian Reinforced Defense.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( NAMEKIAN REINFORCED.-DEFENSE (=",
+   "conf": 59.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n7",
+   "conf": 32.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "CATA\nENERGY COMBAT '\nZZ\n(Banish after use.) 8 Stops an energy attack.\nAttach to your MP. While attached, whenever you\nperform an attack you may choose for that attack\nto deal its life card damage as power stages of\ndamage instead. Banish this card when your\nopponent uses a critical damage effect.\n\n_— : | PAMINI |",
+   "conf": 86.7,
+   "n_words": 58
+  }
+ }
+}

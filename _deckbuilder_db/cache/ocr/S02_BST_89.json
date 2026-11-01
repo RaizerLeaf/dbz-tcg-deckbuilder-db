@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_89",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/89_Red City Destruction.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED CITY DESTRUCTION (29\n1 ‘N i ; eto",
+   "conf": 59.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PE RS a\n\narr’ | ae — a\n\nC ‘ Lp =—=VENT 4\n\noN OC TEE LL\nPOWER: Use a critical damage effect.\nYour anger cannot be lowered by critical\ndamage effects this turn. Until the start of\nyour next turn, your effects that require you\nto lower your anger are reduced by 1 (to a\n\nminimum of 0).",
+   "conf": 77.5,
+   "n_words": 59
+  }
+ }
+}

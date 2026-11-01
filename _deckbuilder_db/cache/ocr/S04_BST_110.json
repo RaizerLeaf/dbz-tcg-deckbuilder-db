@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_110",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/110_Namekian Overcharge.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN OVERCHARGE ) R110\n————",
+   "conf": 74.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "H—VeENT\n* Energy attack costing 1 stage.\n\nIf the top card of your discard pile is a Styled\nattack, you may banish a Styled card from your\nhand to draw the top card of your discard pile.\n\nDAMAGE: 3 stages.\nbd HIT: Raise your anger 1 level.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 93.3,
+   "n_words": 59
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_56",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/56_Saiyan Palm Block.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN PALM BLOCK @ cs",
+   "conf": 84.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R R} I\nv Stops a physical attack.\nIf your MP has a lower power level than\nthe attacking personality, your power level is\nconsidered to be 1,000,000 this combat.\n; iC © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.0,
+   "n_words": 43
+  }
+ }
+}

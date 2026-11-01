@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_09",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/09_Black Amusement Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK AMUSEMENT DRILL (=",
+   "conf": 28.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 25.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "— DRILL \" aa\nco; Whenever your opponent reveals his\nhand, you may look at the top 2 cards of a\nplayer's Life Deck. If you do, you may place\nany of those cards at the bottom of that\n\nplayer's Life Deck.\n\n. |PAMIMI|",
+   "conf": 84.3,
+   "n_words": 44
+  }
+ }
+}

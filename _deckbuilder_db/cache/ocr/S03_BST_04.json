@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_04",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/04_Yajirobe - Bundled.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 YAJIROBE see. ( )-:\nLEVEL —_",
+   "conf": 55.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "400\n\n350\n\n300\n\n250\n\n200\n150\n100\n50\n\n25\n\n10\n\n0",
+   "conf": 94.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "faa. * a\nr 4 25\n- TN || Kh 10\nGA 0\n6 @ Aen 3\n(Heroes only.) co: Players cannot use Setups unless\nthey have performed an attack from their hand this turn.",
+   "conf": 76.8,
+   "n_words": 35
+  }
+ }
+}

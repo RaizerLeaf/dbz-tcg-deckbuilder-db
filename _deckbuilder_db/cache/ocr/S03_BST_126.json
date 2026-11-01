@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_126",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/126_Saiyan Studying.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "SAIYAN STUDYING. () A126\nx r - ¢« | _",
+   "conf": 55.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 42.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "; 7 “F\n2 EVENT\n(Banish after use.) POWER: Search your\nLife Deck for three different Styled Physical\nCombat or Energy Combat cards and reveal\nthem. Your opponent chooses one of those\ncards. Place that card into your hand and\ndestroy the remaining cards.",
+   "conf": 88.8,
+   "n_words": 44
+  }
+ }
+}

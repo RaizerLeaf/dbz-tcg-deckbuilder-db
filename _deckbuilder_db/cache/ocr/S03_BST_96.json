@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_96",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/96_Red Trailing Blast (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED TRAILING BLAST (2\n| |",
+   "conf": 68.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5\n347",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "_ Fr ‘\\\nECNERGY COMBAT '\n\ny\nENDURANCE 2. X Energy attack costing 1\nstage. DAMAGE: 3 Life Cards. Attach to your\nMP. While attached when your MP changes\n\nlevels, return this card to your hand.\n| PAMINI |\n\nteva",
+   "conf": 81.2,
+   "n_words": 40
+  }
+ }
+}

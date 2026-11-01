@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_136",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/136_Tree of Might.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "*{ TREE OF MIGHT o-2e () A136",
+   "conf": 60.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| os iz . | Oe .\nJI (You may only have one “Tree of Might\" attached.) | ®\ni) POWER: Attach to your MP. While attached, your [am\n>, attacks deal +2 stages of damage. While attached, jig\n2) both players may search their Life Deck for aFreestyle Boa\nDrill and place it into play when entering combat. §\nee] Banish this card when you control a Styled Drill. ;",
+   "conf": 77.9,
+   "n_words": 71
+  }
+ }
+}

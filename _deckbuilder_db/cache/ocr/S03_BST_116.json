@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_116",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/116_Orange Empowered Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "CN SC ip\nANE RY Eee | SEER",
+   "conf": 38.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4 ,\n4,\n4\n37",
+   "conf": 29.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "> OMBAT =\n9] x Physical attack. DAMAGE: AT +3 stages.\nif Destroy an Ally. |",
+   "conf": 75.1,
+   "n_words": 16
+  }
+ }
+}

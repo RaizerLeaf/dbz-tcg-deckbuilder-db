@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_123",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/123_Saiyan Arrival.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ARRIVAL? s23~: () —",
+   "conf": 40.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 2.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "- = oe\nGe? =\nroy) SeEeTUrF _ —]\n(Limit 2 per deck. Banish after use.) * POWER:\nUse at the start of your opponent's turn. If your\nopponent does not declare combat this turn then\natthe start of the Rejuvenation Step, your opponent\nbanishes the top 2 cards of his Life Deck and you\nmay banish a total of up to 2 Setups and/or Drills.\na PAM IMT |",
+   "conf": 84.2,
+   "n_words": 70
+  }
+ }
+}

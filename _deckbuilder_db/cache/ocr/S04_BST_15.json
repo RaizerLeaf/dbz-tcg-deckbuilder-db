@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_15",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/15_Blue Knee.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE KNEE () C15\nlO OS",
+   "conf": 58.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n4,",
+   "conf": 6.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @ RoR}\n* Physical Attack. )\nDAMAGE: AT +3 stages.\nHIT: You may banish the top 2 cards of your Life\nDeck to lower your opponent's MP 1 level.\nRaise a player's anger 1 level.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 87.6,
+   "n_words": 46
+  }
+ }
+}

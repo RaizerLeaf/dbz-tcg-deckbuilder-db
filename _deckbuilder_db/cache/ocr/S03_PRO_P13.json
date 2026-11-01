@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P13",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P13_Saiyan Aerial Attack.jpg",
+ "scale": 2.17,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN AERIAL ATTACK (ns\ni ae: tt, RR ite ae",
+   "conf": 49.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n4\n\n2,\n\n4",
+   "conf": 21.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "A\naN ENERGY COMBAT\nENDURANCE 3. X Energy attack costing 2\nstages. DAMAGE: 4 life cards. HIT: Search\nyour Life Deck or discard pile for a Styled Drill\nand place it into play.",
+   "conf": 91.5,
+   "n_words": 33
+  }
+ }
+}

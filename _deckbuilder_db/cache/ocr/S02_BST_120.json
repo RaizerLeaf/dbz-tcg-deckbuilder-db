@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_120",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/120_Orange Mini Ball.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE MINI BALL: (nec",
+   "conf": 67.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| 7\na fs\n_ \\ — ~\n\n« GNERGY COMBAT '\n* ~=Energy attack costing 1 stage.\nDAMAGE: 3 life cards. You may discard a\nStyled Drill from your hand. If you do, this\nattack stays on the table to be used a second\n\ntime this combat.\n— | PAMIMI |\nfores 7",
+   "conf": 78.7,
+   "n_words": 54
+  }
+ }
+}

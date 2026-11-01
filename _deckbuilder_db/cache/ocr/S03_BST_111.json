@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_111",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/111_Namekian Overwatch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( AMEKIAN OVERWATCH é au\n& z . 5 ae aE ,° ~",
+   "conf": 43.3,
+   "n_words": 13
+  },
+  "stages": {
+   "text": ",\n4\n, 4\n,\n2",
+   "conf": 14.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "ene |\ny a ——— aw,\n(2 =VENT “1\n(Banish after use.) POWER: Lower your\nopponent's anger 2 levels or banish 2 Events\nfrom your opponent's discard pile. Draw the\nbottom card of your Life Deck and reveal it.\nIf that card is a Dragon Ball, draw the bottom\ncard of your discard pile.",
+   "conf": 85.1,
+   "n_words": 54
+  }
+ }
+}

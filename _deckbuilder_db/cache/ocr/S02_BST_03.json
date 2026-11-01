@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_03",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/03_Nappa - Rested.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| 1 NAPPA che () co",
+   "conf": 66.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "8,750\n\n8,000\n\n7,250\n\n6,500\n5,750\n5,000\n4,250\n3,500\n\n2,750\n\n2,000\n\n0",
+   "conf": 95.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "\\\\ 3,9UU\n\\ 2,750\nAo 2,000\né6 WwW - :\nPOWER: X Physical attack. DAMAGE: 3 stages.\nDestroy one of your opponent's Allies.",
+   "conf": 67.4,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_65",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/65_Garlic Jr. - Commanding.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| lL cartic oR = () ues\nLEVEL —",
+   "conf": 60.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,500\n\n1,300\n\n1,100\n\n900\n\n700\n500\n5 400\n300\n\n200\n100\n\n0",
+   "conf": 89.7,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "\\ JUU\n( Z 200\nse\ncs I= WN 100\nYY\nco: Your opponent's attacks deal -1 life card of\ndamage. You need 2 less anger to advance a\npersonality level. POWER: Raise your anger 1 level.",
+   "conf": 78.6,
+   "n_words": 37
+  }
+ }
+}

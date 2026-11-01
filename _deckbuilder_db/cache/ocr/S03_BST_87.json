@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_87",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/87_Namekian Disturbance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN DISTURBANCE (x",
+   "conf": 70.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| (Limit 1 per deck. Banish after use.) POWER:\n\nSearch your Life Deck for a Namek Dragon\n\nBall with a number in the title that is less\n\n; than or equal to your MP's personality level\nI and play it.",
+   "conf": 89.1,
+   "n_words": 40
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_116",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/116_Red Antidote.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED ANTIDOTE R116\na ~",
+   "conf": 82.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "H—VeENT\nPOWER: Banish all attached cards in play. Raise\nyour anger X levels. X = the number of cards\nbanished this way.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 92.6,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_59",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/59_Saiyan Swat.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN SWAT €) css\na",
+   "conf": 47.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "si =\n(2) ENERGY COMBAT\nWStops an energy attack. Search your\ndiscard pile for a card with Endurance and\nplace it on top of your Life Deck.\n— | PAMIMI",
+   "conf": 82.4,
+   "n_words": 30
+  }
+ }
+}

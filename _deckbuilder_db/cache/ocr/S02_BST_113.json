@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_113",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/113_Namekian Clash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "( NAMEKIAN CLASH () aus",
+   "conf": 64.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "= aS Dy PHYSICAL COMBAT\n* Physical attack. DAMAGE: AT +2 stages.\nlf you have performed another physical\nattack this combat, banish an opponent's\nSetup or Drill.\n= | PAM IMEI |",
+   "conf": 81.4,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_46",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/46_Red Hop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED HOP sedis () cas",
+   "conf": 68.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "S22 ENERGY COMBAT\nENDURANCE 2. © Stops an energy attack.\nYour next attack this combat gains “HIT: Use a\ncritical damage effect.”\n— Beira",
+   "conf": 82.5,
+   "n_words": 24
+  }
+ }
+}

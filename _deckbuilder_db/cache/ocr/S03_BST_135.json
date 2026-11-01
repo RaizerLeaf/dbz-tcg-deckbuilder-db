@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_135",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/135_Information Gathering.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "{ INFORMATION GATHERING () 3135\n~~ *",
+   "conf": 59.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Bl (Limit 1 per deck. Banish after use.) POWER: f\nf) Search your Banished Zone for a Dragon Ball\n>j and place it at the bottom of your Life Deck. ig",
+   "conf": 84.9,
+   "n_words": 31
+  }
+ }
+}

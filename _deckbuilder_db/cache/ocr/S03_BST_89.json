@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_89",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/89_Namekian Gut Punch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN GUT PUNCH (2",
+   "conf": 83.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ef * ae s\n- A — DM |\nPHYSICAL COMBAT $$:\naA\n% Physical attack. DAMAGE: AT +3 stages.\nDestroy X Allies. X = your MP’s level.\nme | PAMIMI",
+   "conf": 69.6,
+   "n_words": 31
+  }
+ }
+}

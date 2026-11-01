@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_35",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/35_Namekian Energy Beams.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN ENERGY.:BEAMS () C35",
+   "conf": 55.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n37",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "aN * vt —\n| « GNeERGY COMBAT '\n7\nXX Energy attack costing 1 stage. DAMAGE:\n5 stages. You may discard a Dragon Ball\nfrom your hand. If you do, damage from your\nattacks cannot be prevented for the remainder\nof combat.\nflores",
+   "conf": 80.9,
+   "n_words": 44
+  }
+ }
+}

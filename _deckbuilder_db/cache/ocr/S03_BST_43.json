@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_43",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/43_Red Maneuvering Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED MANEUVERING. DRILL () cas",
+   "conf": 70.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 24.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "— OAc a\noo; Whenever one of your attacks lowers your\nanger, that attack deals +X stages of damage.\n\nX = the amount of anger lowered.\n> | PAMIMI,",
+   "conf": 78.1,
+   "n_words": 29
+  }
+ }
+}

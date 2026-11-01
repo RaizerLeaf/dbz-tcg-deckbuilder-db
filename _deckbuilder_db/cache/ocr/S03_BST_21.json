@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_21",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/21_Blue Floating Beam.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE FLOATING BEAM (=",
+   "conf": 80.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_~ ay . _\nENERGY COMBAT '\ny\n(Banish after use.) X Energy attack costing\n2 stages. DAMAGE: 6 life cards. Raise your\nanger 1 level. You may raise your opponent's\nanger 1 level. if your opponent's anger level\nis 4 or higher, this attack cannot be stopped.\n| PAMINI |\nfer",
+   "conf": 84.1,
+   "n_words": 52
+  }
+ }
+}

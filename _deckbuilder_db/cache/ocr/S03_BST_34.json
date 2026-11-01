@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_34",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/34_Orange Disaster Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE DISASTER DRILL (=\na 86 ,",
+   "conf": 64.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2 7,\n42",
+   "conf": 14.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Ww. (Aig “\nOS\n2 co: Your Styled physical attacks deal +2\nf stages of damage and gain “Raise your\nanger 1 level.”",
+   "conf": 78.0,
+   "n_words": 23
+  }
+ }
+}

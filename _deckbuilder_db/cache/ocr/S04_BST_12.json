@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_12",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/12_Blue Energy Focus.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY FOCUS ) cia\n_ yt eS re",
+   "conf": 55.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2\n2,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(RoR) ENERGY COMBAT ( — fe\nx Energy attack costing\n1 stage.\nYou may raise your opponent's anger 2 levels.\nIf you do, raise your anger 2 levels.\nDAMAGE: 3 life cards.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 86.6,
+   "n_words": 41
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_28",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/28_Blue Hand Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE HAND BLAST () cee\nf aN",
+   "conf": 71.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "of Ae —_\nCrow\n| « GNERGY COMBAT '\n* Energy attack costing 3 stages. DAMAGE:\n5 life cards. Raise your anger 2 levels. HIT:\nRaise or lower your opponent's anger 2 levels.\n— | PAMINI |",
+   "conf": 79.7,
+   "n_words": 37
+  }
+ }
+}

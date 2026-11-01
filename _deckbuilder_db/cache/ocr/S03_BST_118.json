@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_118",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/118_Red Relaxation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED RELAXATION @) ae\na,",
+   "conf": 46.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n\n7\n7\n\n3",
+   "conf": 22.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "= a eee furl\nSeTUP\n\n_\n(Banish after use.) * POWER: Use when\nentering combat. Use a critical damage effect.\nYour MP gains 2 stages. Draw the bottom card\n\nof your discard pile.\n| PAMINI |\n\nfers",
+   "conf": 82.9,
+   "n_words": 37
+  }
+ }
+}

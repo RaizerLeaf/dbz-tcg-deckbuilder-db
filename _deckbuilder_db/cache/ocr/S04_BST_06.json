@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_06",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/06_Black Impediment.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLACK IMPEDIMENT () C6\n| —<—-~ yr |, =",
+   "conf": 52.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "( 1 ) PHYSICAL COMBAT (iR-R}, |\n| (If this card is destroyed from\nyour Life Deck by one of your effects,\nyou may banish it to lower your\nopponent's anger 2 levels.)\nwv Stops a physical attack.\nLower your opponent's anger 1 level.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.2,
+   "n_words": 53
+  }
+ }
+}

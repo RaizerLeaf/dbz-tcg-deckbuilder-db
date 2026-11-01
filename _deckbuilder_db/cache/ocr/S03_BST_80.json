@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_80",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/80_Black Teamwork.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLACK TEAMWORK. () USO\n; , / £a",
+   "conf": 43.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2\n\n,\n4\n37",
+   "conf": 15.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Sf oN ¥ _\n| EGNeEeRGyvy COMBAT '\n(Banish after use.) ENDURANCE 1. Energy\nattack costing 2 stages. DAMAGE: 2 life cards.\n\nHIT: Your opponent destroys the top X cards of\nhis Life Deck. X = the number of cards with\nEndurance in his Banished Zone, to a max of 10.\n\n, |PAMINI",
+   "conf": 85.3,
+   "n_words": 53
+  }
+ }
+}

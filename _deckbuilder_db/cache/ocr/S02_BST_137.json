@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_137",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/137_Nappa’s Energized Charge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAPPA'S ENERGIZED CHARGE (==",
+   "conf": 65.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "6,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "a i ua , ; at et ow\n| ead are NA\n_ ™ aes (os Lm|\n“wey PHYSICAL COMBAT\n\nWSF,\n*X Physical attack. DAMAGE: 6 stages.\nWhenever your opponent's MP changes\nlevels this combat, set his power level to 0.",
+   "conf": 61.7,
+   "n_words": 41
+  }
+ }
+}

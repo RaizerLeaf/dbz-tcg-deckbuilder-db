@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_08",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/08_Black Request.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLACK REQUEST () C8\n, Ye ee eee a ee |",
+   "conf": 46.1,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "1,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "H—VeENT\nPOWER: Look at the top 3 cards of your opponent's\nLife Deck and place them back in any order. If your\nnext action is a Styled attack, it stays in play to be\nused a second time this combat.\n(Banish after use.)\n\nB : R}\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 91.1,
+   "n_words": 55
+  }
+ }
+}

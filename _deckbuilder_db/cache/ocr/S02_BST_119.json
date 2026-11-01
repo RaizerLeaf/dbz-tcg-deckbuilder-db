@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_119",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/119_Orange Hand Cannon.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE HAND CANNON (ns",
+   "conf": 76.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Banish after use.) 2% Energy attack costing\nG 2 stages. DAMAGE: 3 life cards. HIT: Your\nsy next Styled energy attack this combat cannot\nZ— have its damage prevented and you do not @e\nA have to pay power stage costs for it.",
+   "conf": 86.5,
+   "n_words": 43
+  }
+ }
+}

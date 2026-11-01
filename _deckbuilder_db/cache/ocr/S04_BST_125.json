@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_125",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/125_Android 18's Arm Breaker.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID 18’S ARM BREAKER?) R125\nnN “(| OUWY Eee NY",
+   "conf": 56.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4",
+   "conf": 18.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (RvR\n\\ S,\n* Physical attack.\nRaise your anger 1 level. Your opponent's MP\nloses 2 stages.\nDAMAGE: AT +3 stages.\n\nHIT: You may banish the top card of your Life\nDeck. If you do, end combat at the beginning of\nthe next action this turn.\n\n&S © 2015 Panini America, Inc. Printed in the USA. [paniut)",
+   "conf": 89.0,
+   "n_words": 59
+  }
+ }
+}

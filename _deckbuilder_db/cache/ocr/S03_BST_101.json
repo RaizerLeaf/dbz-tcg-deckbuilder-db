@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_101",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/101_Black Chin Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK CHIN KICK: () mio",
+   "conf": 64.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": ": sg is\nwe eo\n2) PHYSICAL COMBAT 5\n* Physical attack. DAMAGE: AT +3 stages.\nAllies lose all effects until the end of combat.\nAllies cannot make actions nor have damage\nredirect to them this combat. HIT: Raise your\nanger X levels. X = your current anger level.\n. | PAMIMI |",
+   "conf": 81.7,
+   "n_words": 53
+  }
+ }
+}

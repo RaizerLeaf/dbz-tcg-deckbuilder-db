@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_41",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/41_Orange Reactive Strike.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE REACTIVE STRIKE () c41",
+   "conf": 50.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7",
+   "conf": 48.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "K\n\n24 6X Physical attack. DAMAGE: AT +2 stages. Ba\ni) ~=HIT: Raise your anger 1 level. Banish the top X\n\n>; cards of your opponent's discard pile.X=the jie\nHa number of Styled Drills you control. ~\nX",
+   "conf": 76.1,
+   "n_words": 38
+  }
+ }
+}

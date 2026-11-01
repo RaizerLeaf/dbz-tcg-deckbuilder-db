@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_77",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/77_Red Chest Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED CHEST BEAM (\nNSP NG i ar ii",
+   "conf": 54.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1\n,\n0\n2,\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(e-a)) =EN=eAGY COMBAT\n(When this attack is played from your\ndiscard pile, raise your anger 2 levels.)\n* Energy attack costing 3 stages.\nBanish an Ally. Allies cannot be played nor placed\ninto play this combat.\nDAMAGE: 5 life cards.",
+   "conf": 90.0,
+   "n_words": 40
+  }
+ }
+}

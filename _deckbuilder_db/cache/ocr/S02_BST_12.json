@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_12",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/12_Gohan - Trained.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "lL GonHAN soedetee cle\nLEVEL —",
+   "conf": 37.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "65,000\n60,000\n55,000\n50,000\n40,000\n35,000\n30,000\n25,000\n20,000\n15,000\n\n0",
+   "conf": 79.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "y, a G 29,UUU0\nFa 20,000\n} =\n( gy Youa 15,000\nei\nWa? ay\n(Heroes only.) oo: Whenever a player raises\nhis anger, change that amount to 1.\n7: PamneT\nlores",
+   "conf": 61.5,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_42",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/42_Red Quick Jab.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED QUICK JAB () C42",
+   "conf": 81.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @ RoR}\n(When this card is banished from the top ~\nof your discard pile by one of your effects,\nyou may raise your anger 2 levels.)\n* Physical attack.\nYour opponent cannot lower your anger with\nvw cards this combat.\nDAMAGE: 4 stages.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 90.5,
+   "n_words": 55
+  }
+ }
+}

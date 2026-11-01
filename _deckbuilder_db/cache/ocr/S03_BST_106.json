@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_106",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/106_Blue Precarious Defense.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE PRECARIOUS DEFENSE () A106",
+   "conf": 73.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "— PHYSICAL COMBAT =\n(You may discard this card from your hand\nduring the Planning Step. If you do, choose\na Setup in play and place it at the bottom\nof its owner's Life Deck.) ENDURANCE 1.\nPrevent all damage from a physical attack.",
+   "conf": 91.0,
+   "n_words": 44
+  }
+ }
+}

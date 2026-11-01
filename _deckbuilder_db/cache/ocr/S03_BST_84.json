@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_84",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/84_Blue Intervention.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE INTERVENTION. () ues",
+   "conf": 59.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_ iy Ride _\n| PHYSICAL COMBAT :\n(Limit 2 per deck. If this card is discarded from\nyour hand by a card effect, you may banish it\nto search your Life Deck or discard pile for a\ncopy of Blue Intervention and place it into your\nhand.) ~ Stops an energy attack. You may\nraise or lower your opponent's anger 1 level.\n— | PAMIMI |",
+   "conf": 87.5,
+   "n_words": 67
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_31",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/31_Orange Concealment.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE CONCEALMENT ) 31\n—————————————— ee",
+   "conf": 53.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(82R)) SNERGY COMBAT\nwv Stops an energy attack.\nYour physical attacks cannot have their\ndamage prevented this combat.",
+   "conf": 85.3,
+   "n_words": 18
+  }
+ }
+}

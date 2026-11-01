@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_134",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/134_Face Smash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ee\nFACE SMASH ce () A1sa\nCen wa i",
+   "conf": 40.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3 4\n2",
+   "conf": 23.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "AM ANE ” A\nSENSES CL ES\n\"whey PHYSICAL COMBAT +\nWTF,\n(Villains only. Banish after use.) > Physical\nattack. DAMAGE: AT +1 stage. Lower your\nopponent's anger 1 level. Capture a Dragon\n. Ball without using its immediate effects.\nHIT: Use that Dragon Ball's immediate effects.\n— | PAMIMI |",
+   "conf": 76.2,
+   "n_words": 51
+  }
+ }
+}

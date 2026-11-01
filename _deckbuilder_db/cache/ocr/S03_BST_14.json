@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_14",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/14_Black Flying Knee.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "Gurck FLYING: KNEES €) Cla\nvem i- = gam",
+   "conf": 37.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n0",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT ‘\n* Physical attack. DAMAGE: 6 stages. Name\n2 cards. Your opponent reveals the top 4 cards\nof his Life Deck. If both cards you named were\nrevealed, this attack deals +6 life cards of\ndamage and cannot be stopped.\n| PAMIMI|\ntev",
+   "conf": 89.2,
+   "n_words": 45
+  }
+ }
+}

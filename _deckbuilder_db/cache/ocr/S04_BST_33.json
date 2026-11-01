@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_33",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/33_Orange Fracture.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "GANA ONS FUNNY NEE NY RST,\n\nORANGE FRACTURE () C33\n\n7 INN SS oF GF “TRY ty f, ara ae\n“sel ett Wel) te Ti A e/a ee! ahh 49",
+   "conf": 37.2,
+   "n_words": 30
+  },
+  "stages": {
+   "text": "4\n27",
+   "conf": 13.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "POWER: Your opponent cannot play Events that\nstop attacks this combat. Shuffle this card into\nyour Life Deck after use.",
+   "conf": 95.8,
+   "n_words": 20
+  }
+ }
+}

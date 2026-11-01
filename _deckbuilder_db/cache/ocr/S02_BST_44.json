@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_44",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/44_Red Destiny.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED DESTINY ns () can\nA",
+   "conf": 73.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n,\n5",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "_ —_— |\n.« SETUP '\n(Banish after use.) POWER: Raise your anger\n2 levels. For the remainder of combat, your\nopponent's attacks deal -2 stages and -2 life\ncards of damage.\nforce",
+   "conf": 83.9,
+   "n_words": 33
+  }
+ }
+}

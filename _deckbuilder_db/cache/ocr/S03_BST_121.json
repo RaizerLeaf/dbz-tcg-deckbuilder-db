@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_121",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/121_Red Restriction.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED RESTRICTION 3 () miz1",
+   "conf": 42.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2",
+   "conf": 23.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| EVENT '\ny\n(Banish after use.) * POWER: Use when\nentering combat. Players can only attack\nor pass in their actions this combat. Draw 2\ncards and then discard a card from your hand.\n: |PAMIMI\nSena",
+   "conf": 87.2,
+   "n_words": 38
+  }
+ }
+}

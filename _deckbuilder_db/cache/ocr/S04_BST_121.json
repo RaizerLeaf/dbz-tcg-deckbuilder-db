@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_121",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/121_Saiyan Destructive Blast.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DESTRUCTIVE pLasT¢ ) R121\nhi / ’ a",
+   "conf": 61.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 31.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(rea) ENERGY COMBAT\n* Energy attack costing 1 stage.\nPlace an Ally in play on top of its owner's\nLife Deck.\nDAMAGE: 4 life cards.\nHIT: Place an Ally in play at the bottom of its owner's\nLife Deck. Shuffle an Ally in play into its owner's\n\nLife Deck. Destroy an Ally. Banish an Ally.\n\n; iC © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 91.0,
+   "n_words": 66
+  }
+ }
+}

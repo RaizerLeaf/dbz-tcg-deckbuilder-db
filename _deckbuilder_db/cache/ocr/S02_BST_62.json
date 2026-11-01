@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_62",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/62_Nail - Combat Ready.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(4 NAIL ne () use\nLEVEL —",
+   "conf": 59.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "150,000\n145,000\n140,000\n135,000\n130,000\n125,000\n120,000\n115,000\n110,000\n105,000\n\n0",
+   "conf": 69.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "WH \\\\ 110,000\n/{{—— 105,000\n{ Yw 0\nWi XS = 4 y\nco: Your maximum hand size is +1 during the Discard\nStep. POWER: x Physical Attack. DAMAGE: 7\nstages. HIT: You may use the immediate effects of a\nDragon Ball in play.",
+   "conf": 81.9,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_65",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/65_Black Tunneling Ball.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK TUNNELING BALL () U65\n- es taigd 7",
+   "conf": 59.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", ,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ReR ENERGY COMBAT\n\\ >)\nx Energy attack costing 2 stages.\nIf this attack is stopped, you may banish an Ally.\nDAMAGE: 3 life cards.\nHIT: Choose a card in your opponent's discard pile\nand place it on top of his Life Deck. Choose a card\nin your discard pile and place it on top of\nyour Life Deck.\n; ey) ® 2015 Panini America, Inc. Printed in the USA. PANINI |",
+   "conf": 88.2,
+   "n_words": 72
+  }
+ }
+}

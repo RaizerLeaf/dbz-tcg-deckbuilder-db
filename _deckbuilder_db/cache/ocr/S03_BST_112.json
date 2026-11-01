@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_112",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/112_Namekian Right Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN RIGHT. KECK () mie",
+   "conf": 50.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "_ Lf ~ ee _\n| PHYSICAL COMBAT :\n(Heroes only. Banish after use.) % Physical\nattack. DAMAGE: 6 stages. HIT: Search your\nLife Deck for a Named card and place it\ninto your hand.\n\n| PAMINI |\nters",
+   "conf": 83.2,
+   "n_words": 39
+  }
+ }
+}

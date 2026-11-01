@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_22",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/22_Namekian Deflection.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DEFLECTION ) 022°",
+   "conf": 77.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n,\n113,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Roa) ENERGY COMBAT\n* Stops an energy attack.\nYour successful attacks that deal 3 or more\nlife cards of damage are considered to deal critical\ndamage this combat.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 92.5,
+   "n_words": 37
+  }
+ }
+}

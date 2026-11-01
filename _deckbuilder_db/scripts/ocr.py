@@ -28,7 +28,8 @@ REGIONS = {
     },
     "landscape": {
         "header": (0.30, 0.03, 1.0, 0.17),
-        "lower": (0.15, 0.66, 0.85, 0.95),
+        # FanZ landscape Setups/Drills run their text to the right edge (Phase 1 finding)
+        "lower": (0.05, 0.62, 0.98, 0.97),
     },
 }
 

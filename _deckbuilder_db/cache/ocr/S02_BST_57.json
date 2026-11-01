@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_57",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/57_Saiyan Charged Fist.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(SAIYAN CHARGED-FIST () cs7",
+   "conf": 72.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2",
+   "conf": 20.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "~ ¢ of pie\nC > PHYSICAL COMBAT\n(Villains only.) % Physical attack. DAMAGE:\n5 stages. If the personality performing this\nattack has a higher power level than the\ndefending personality, your opponent's MP\nloses 3 stages, to a minimum of 0.",
+   "conf": 84.2,
+   "n_words": 42
+  }
+ }
+}

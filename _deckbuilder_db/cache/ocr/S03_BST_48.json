@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_48",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/48_Red Right Punch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(RED RIGHT PUNCH (<=",
+   "conf": 73.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "8",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "~ Fe , PHYSICAL COMBAT op\nENDURANCE 1. X Physical attack. DAMAGE:\n\nAT stages. Search your Life Deck for X\nDrills and place them into play. X = your\ncurrent anger level.\n\n— PA MIME |",
+   "conf": 82.4,
+   "n_words": 36
+  }
+ }
+}

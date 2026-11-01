@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_59",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/59_Android Superiority.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID SUPERIORITY () C59\n, a SN y",
+   "conf": 52.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "5\n\n77\n\n,\n,",
+   "conf": 6.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "I 1 PHYSICAL COMBAT (RR) |\n* Physical attack.\nChoose 1 Styled card and 1 non-Styled card\nfrom your opponent's discard pile and banish them.\nDAMAGE: 4 stages.\nHIT: Lower your opponent's anger 2 levels.\nNe ee ee ae rami",
+   "conf": 80.2,
+   "n_words": 40
+  }
+ }
+}

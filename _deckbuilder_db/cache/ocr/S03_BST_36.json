@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_36",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/36_Orange Desperation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(ORANGE DESPERATION (=e",
+   "conf": 68.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 43.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "-_ a eS _- —»\nEVENT '\n_ 2\n\nPOWER: Your attacks deal +1 stage of damage\n\nthis combat. Lower your opponent's anger 2\n\nlevels. If you control 2 or less Drills, search\n\nyour Life Deck for a Drill that does not have a\noo effect and place it into play.\n\n| PAMIMI\nters - 7",
+   "conf": 79.7,
+   "n_words": 56
+  }
+ }
+}

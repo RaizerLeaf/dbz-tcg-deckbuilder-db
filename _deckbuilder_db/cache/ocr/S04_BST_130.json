@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_130",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/130_Android 20's Domination.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ANDROID 20’S DOMINATION (=) R130",
+   "conf": 74.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n\n,\n1,\n,",
+   "conf": 9.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "2 PHYSICAL COMBAT \\ R- A\nA * Physical attack. I\nYour opponent's personalities lose 1 stage.\n\nName a card. Search your opponent's Life Deck for a\ncopy of that card and banish it. At the end of combat, you\nmay choose a non-Event card from your discard pile and\n\nplace it on top of your Life Deck.\nDAMAGE: 3 life cards.\n(Banish after use.) |\n&S © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 88.2,
+   "n_words": 76
+  }
+ }
+}

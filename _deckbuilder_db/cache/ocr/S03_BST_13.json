@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_13",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/13_Black Dismissal.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DISMISSAL () os",
+   "conf": 62.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(= PHYSICAL COMBAT\nENDURANCE 2. Physical attack. DAMAGE:\n4 stages. Your MP gains 4 stages. Raise\nyour anger 1 level. Lower your opponent's\nanger 1 level.",
+   "conf": 88.7,
+   "n_words": 26
+  }
+ }
+}

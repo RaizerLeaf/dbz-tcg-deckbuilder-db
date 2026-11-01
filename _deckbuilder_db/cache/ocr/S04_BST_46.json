@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_46",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/46_Red Vault.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED VAULT €) CAG\n‘ | VY KAZE) _",
+   "conf": 48.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", 7\n,\n\n,\n1,",
+   "conf": 1.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(e-R) ENERGY COMBAT ( rd I\nwv Stops an energy attack.\nLower your opponent's anger 1 level.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 80.5,
+   "n_words": 26
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_81",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/81_Saiyan Empowered Slide.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN EMPOWERED SLIDE () U81\ni, —_ am",
+   "conf": 67.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n00,",
+   "conf": 15.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "freee) =N=eRAGY COMBAT \\ L yy\n* Energy attack costing 1 stage. COTS\nUntil the end of your next turn, while your\npower level is above 0 your power level is\nconsidered to be 1,000,000.\nDAMAGE: 3 stages.\n© 2015 Panini America, inc. Printed in the USA. | PAMIMI |",
+   "conf": 83.6,
+   "n_words": 50
+  }
+ }
+}

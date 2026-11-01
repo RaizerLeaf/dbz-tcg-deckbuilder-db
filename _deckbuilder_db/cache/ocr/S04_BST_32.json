@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_32",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/32_Orange Duck.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE DUCK ) 032,",
+   "conf": 76.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n4\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i 1 PHYSICAL COMBAT (rea) |\nv Stops a physical attack.\nThe next time your MP changes levels this\ncombat, you may search your discard pile for a\nDrill and play it.",
+   "conf": 87.8,
+   "n_words": 32
+  }
+ }
+}

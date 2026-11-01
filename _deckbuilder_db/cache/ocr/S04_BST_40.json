@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_40",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/40_Red Chop.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED CHOP C) C40",
+   "conf": 77.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7",
+   "conf": 90.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "( ed ) PHYSICAL COMBAT (iReR},\n| * Physical attack.\nRaise your anger 1 level.\nDAMAGE: 3 +X stages.\nX = your current anger level.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 82.4,
+   "n_words": 34
+  }
+ }
+}

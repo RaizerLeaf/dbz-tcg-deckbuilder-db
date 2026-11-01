@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_19",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/19_Blue Barrier.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE BARRIER ( =\n4 .",
+   "conf": 52.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "= eZ ‘\nid \\ ,\n(a — \\ ie\nLaN J SNERGY COMBAT a\nStops an energy attack. Destroy an Ally.",
+   "conf": 60.0,
+   "n_words": 22
+  }
+ }
+}

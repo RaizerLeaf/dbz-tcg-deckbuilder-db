@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_72",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/72_Vegeta - Impatient.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(2 VEGETA ws () uve\nLEVEL —",
+   "conf": 53.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "20,000\n18,000\n16,000\n14,000\n12,000\n110,000\n8,000\n6,000\n\n4,000\n\n2,000\n\n0",
+   "conf": 77.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "V 6,UUU\n\\ A VA -\no£\n> 2,000\n1\n(ey ““ 8)\ne Ze\n(Villains only.) °°: Your physical attacks deal +1 stage\nof damage. If Nappa is your MP, your physical attacks\ndeal +2 stages of damage instead.",
+   "conf": 75.4,
+   "n_words": 40
+  }
+ }
+}

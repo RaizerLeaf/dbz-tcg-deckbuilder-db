@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_94",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/94_Korin - Watching from Afar.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "1 KORIN vod\nLEVEL WATCHING FROM AFAR",
+   "conf": 69.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "25\n23\n\n21\n\n19\n17\n15\n13\n11\n9\n\n7\n0",
+   "conf": 92.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "> ro 9\nPr ee he\n7\n» (<< aw\nN YY, i j @]\noo: After taking life card damage =\nfrom an attack, Rejuvenate 1.\nTOEI ANIMATION\nFUNIMATION.\n© 2015 Panini America, Inc.\nPrinted in the USA.\n©BS./ S. , TA. LC by FUN.",
+   "conf": 68.2,
+   "n_words": 46
+  }
+ }
+}

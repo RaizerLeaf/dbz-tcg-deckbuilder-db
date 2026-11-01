@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_35",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/35_Orange Left Punch.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ORANGE LEFT PUNCH ) 035\nAW) eel",
+   "conf": 72.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ", 5\n,\n,\n4\n,",
+   "conf": 5.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (RoR)\nwv Physical attack.\nLower your opponent's anger 1 level. If you\ncontrol less than 3 Drills, this attack stays in play\nto be used a second time this combat.\nDAMAGE: AT +1 stage.\n(Banish after use.)",
+   "conf": 92.3,
+   "n_words": 39
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_138",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/138_Flip Toss.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": ": FLIP TOSS eae () A138",
+   "conf": 55.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 34.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "a OO AB ge ee\nPHYSICAL COMBAT :\ni Physical attack. DAMAGE: AT +2 stages.\n @6Attach to your opponent's MP. While attached,\ncard effects that destroy cards from a player's\nmm 6 Life Deck cannot be used. Banish this\n- card when your opponent performs a\nsuccessful attack.",
+   "conf": 78.6,
+   "n_words": 48
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_85",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/85_Blue Surround.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE SURROUND... () bas\nfF NY _——— ee,",
+   "conf": 42.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 27.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". |g > de. “\n\n- | = PHYSICAL COMBAT\n% Physical attack. DAMAGE: 5 stages. HIT:\nAttach to your opponent's MP. While attached at\nthe start of your opponent's Rejuvenation Step,\nyour opponent destroys a Setup or Drill if he did\nnot declare Combat that turn. Banish this card\n\nwhen your opponent changes levels.\n\nma | PAMIMI |",
+   "conf": 79.9,
+   "n_words": 59
+  }
+ }
+}

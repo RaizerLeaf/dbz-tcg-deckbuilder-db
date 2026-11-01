@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_78",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/78_Blue Flinch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE FLINCH cae () u7e8",
+   "conf": 56.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7",
+   "conf": 66.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "> 7\na o™\n| « GNERGY COMBAT\nW Stops an energy attack. You may discard\na Styled card from your hand. If you do, each\nplayer draws a card.\n_ | PAMINI |",
+   "conf": 81.7,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_115",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/115_Red Analysis.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "RED ANALYSIS ) R115",
+   "conf": 92.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "30\n,\n,",
+   "conf": 27.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "—VENT\n\nPOWER: Reveal the bottom card of your Life Deck.\n\nIf that card was Styled, place it into your hand.\nIf that card was an attack, use a critical\ndamage effect.\n(Banish after use.)\nbd\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 94.4,
+   "n_words": 44
+  }
+ }
+}

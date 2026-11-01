@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_131",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/131_Vegeta's Destruction Blast.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "VEGETA’S DESTRUCTION BLAST () R131\n» Pea. Ae anos",
+   "conf": 66.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Roa} ENERGY COMBAT\n* Energy attack costing 3 stages.\nThis attack can only be stopped by\nEnergy Combat cards.\nDAMAGE: 5 life cards.\nHIT: If your MP is a Hero, gain 2 stages and\nRejuvenate 2. If your MP is a Villain, banish the top\n5 cards of your opponent's discard pile.\nee\nACen aw vaxrnt)",
+   "conf": 87.0,
+   "n_words": 56
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_100",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/100_Tenshinhan’s Preparation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "TENSHINHAN'S PREPARATION () W100\n--mUCc i‘é‘CiY",
+   "conf": 50.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Vy\ncos a\n« CVG §\n\n(If this card is Rejuvenated, you may draw a\ncard.) POWER: Destroy the top 2 cards of each\nplayer's Life Deck. Raise your anger 2 levels\n\n. and lower your opponent's anger 2 levels.\n\n. Rejuvenate this card.\n\n| ov | PAMIMI |",
+   "conf": 78.1,
+   "n_words": 49
+  }
+ }
+}

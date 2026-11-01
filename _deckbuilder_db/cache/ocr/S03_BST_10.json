@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_10",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/10_Black Chopping Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK CHOPPING. BRILL () C10",
+   "conf": 73.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "24",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "_! AW ))\n\na DRILL \"\noo; Your Styled attacks deal +1 stage and +1\nlife card of damage. Whenever your opponent\nperforms an attack, banish the top card of\nyour opponent's discard pile.\n| PAMINI |\nters",
+   "conf": 81.8,
+   "n_words": 38
+  }
+ }
+}

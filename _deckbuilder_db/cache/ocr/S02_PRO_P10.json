@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_PRO_P10",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P10_Saiyan Outrage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "SAIYAN OUTRAGE Ln () 10\n>  «, 7 /",
+   "conf": 36.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1\n\n, 4\n,\n\n4",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "S— => ae ka ‘ J SS S\n- VENT  z-,\n~~ !t1ITUi_!_iL_\n(Banish after use.) ® POWER: Stops a physical\nor energy attack. If the defending personality\nhas a higher power level than the attacking\npersonality, then at the end of combat you may\nsearch your Life Deck for a card that can attach\nto your MP and place it into play attached.",
+   "conf": 81.7,
+   "n_words": 64
+  }
+ }
+}

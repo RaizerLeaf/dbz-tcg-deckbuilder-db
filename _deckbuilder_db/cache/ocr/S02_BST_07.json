@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_07",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/07_Tenshinhan - Patient.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 TENSHINHAN 3 () C7",
+   "conf": 68.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3,800\n\n3,400\n\n3,000\n\n2,600\n\n2,200\n1,800\n1,400\n1,000\n\n600\n\n200\n\n0",
+   "conf": 94.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "»,UUU\n\\ ~ 600\nNa 0\na ==\nPOWER: Banish the top card of your Life Deck to\nsearch your Life Deck for a Named card and place it\ninto your hand.",
+   "conf": 83.7,
+   "n_words": 32
+  }
+ }
+}

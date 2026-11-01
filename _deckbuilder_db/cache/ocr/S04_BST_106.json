@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_106",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/106_Blue Belly Bash.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE BELLY BASH ) R106",
+   "conf": 93.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 10.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @ RoR}\n* Physical attack. )\nThe next time you stop an attack this combat,\nuse a Critical damage effect.\nDAMAGE: AT +2 stages.\nHIT: Your Setups in play cannot be destroyed or\nbanished this combat.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.1,
+   "n_words": 47
+  }
+ }
+}

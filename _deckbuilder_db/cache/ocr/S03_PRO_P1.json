@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P1",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P1_Black Searching Technique.jpg",
+ "scale": 1.0,
+ "regions": {
+  "header": {
+   "text": "[BLACK SEARCHING TECHNIQUE (",
+   "conf": 61.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1 2",
+   "conf": 56.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "~ | |\nSeTUrP k\n_ 4\n(Banish after use.) POWER: Search your\nopponent's deck for 2 non-Dragon Ball cards\nand banish them.\n=",
+   "conf": 77.7,
+   "n_words": 24
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_38",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/38_Orange Extension.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(Crance extension €) css",
+   "conf": 37.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3\n9",
+   "conf": 18.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "> Ny ee _\nPHYSICAL COMBAT Fr\n(Banish after use.) 2 Physical attack.\nDAMAGE: AT +2 stages. If you have performed\nanother physical attack from your hand this\ncombat, search your Life Deck for a Styled\nDrill and play it.\n| PAMINI |\ntere 7 7",
+   "conf": 83.6,
+   "n_words": 46
+  }
+ }
+}

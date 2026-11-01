@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_132",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/132_Withering Fire.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "gS\nWITHERING FIRE oo () A132",
+   "conf": 51.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "on Ma ~\n« GNERGY COMBAT '\n(Villains only.) 2% Energy attack costing\n2 stages. DAMAGE: 4 life cards. Banish an\nopponent's Drill.",
+   "conf": 77.6,
+   "n_words": 23
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_PRO_P16",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Promos)/P16_Red Stop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| RED STO Pe C) R16.\naes || (| 7” mm",
+   "conf": 50.7,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n,\n\n,\n7\n,\n\n,\n4\n7 ,",
+   "conf": 18.4,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "_o ONT A\n\n« &VENT '\n(Banish after use.) % POWER: Stops a\nphysical or energy attack. You may lower your\nanger 1 level. If you do, search your discard\npile or Banished Zone for a Styled Drill and\nplace it into play.\nfoxes",
+   "conf": 83.1,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_33",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/33_Namekian Right Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(NAMEKIAN RIGHT BuRsT <3\nYY, RB ff",
+   "conf": 55.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "-~ #4 @nr\n| ESNERGY COMBAT '\na\n* Energy attack costing 1 stage. DAMAGE:\n3 life cards. If you control 2 or more Dragon\nBalls, you may shuffle your hand into your Life\nDeck to draw the same number of cards.\n|PAMINI\nters -",
+   "conf": 81.6,
+   "n_words": 45
+  }
+ }
+}

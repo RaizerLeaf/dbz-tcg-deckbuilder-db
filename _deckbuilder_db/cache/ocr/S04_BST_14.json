@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_14",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/14_Blue Flight.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE FLIGHT () C14",
+   "conf": 81.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(rok) ENERGY COMBAT\nvw Stops an energy attack.\nYou may banish an Ally you control to search\nyour Life Deck or discard pile for an Ally and play it.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 90.8,
+   "n_words": 38
+  }
+ }
+}

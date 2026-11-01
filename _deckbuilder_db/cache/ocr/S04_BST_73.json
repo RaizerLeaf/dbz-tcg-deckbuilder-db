@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_73",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/73_Namekian Energy Assault.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ENERGY ASSAULT @ =) U73_\nee",
+   "conf": 46.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n1\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ROR) SCNERGY COMBAT\n* Energy attack costing 2 stages.\n\nYou may shuffle a Dragon Ball you control into\n\nits owner's Life Deck to search your Life Deck or\n\ndiscard pile for an Ally and play it.\nDAMAGE: 5 life cards.\n(Banish after use.)\na\n\n©",
+   "conf": 88.5,
+   "n_words": 45
+  }
+ }
+}

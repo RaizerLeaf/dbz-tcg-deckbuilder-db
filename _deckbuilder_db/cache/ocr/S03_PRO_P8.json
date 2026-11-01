@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P8",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P8_Devastating Blow.png",
+ "scale": 1.0,
+ "regions": {
+  "header": {
+   "text": "i | DEVASTATING BLOW GD) Bess",
+   "conf": 63.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "JI Physical attack. DAMAGE: AT +1 stage. Raise BR\ni your anger 1 level. Lower your opponent's #\nyj anger 2 levels. Choose 3 cards in your jj\nic opponent's discard pile and banish them. >",
+   "conf": 78.4,
+   "n_words": 36
+  }
+ }
+}

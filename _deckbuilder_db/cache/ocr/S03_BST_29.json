@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_29",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/29_Namekian Reinforced Block.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REINFORCED: BLOCK () cea",
+   "conf": 64.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 62.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": ". Se\n\n_ a \\ a —\nPHYSICAL COMBAT :\n\nde\n\nENDURANCE 2. © Stops a physical attack. Your\nDragon Balls cannot be captured this combat.\n. | PAMINI |\nters",
+   "conf": 74.7,
+   "n_words": 31
+  }
+ }
+}

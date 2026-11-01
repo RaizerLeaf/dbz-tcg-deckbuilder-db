@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_PRO_P2",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Promos)/P2_Blue Betrayal.jpg",
+ "scale": 4.37,
+ "regions": {
+  "header": {
+   "text": "(BLUE BETRAYAL (=\nee ra",
+   "conf": 40.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 39.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "OS By “  H\nof: *:\nPHYSICAL COMBAT ;\n*X Physical attack. DAMAGE: AT stages.\nBanish an opponent's Setup, Drill, or Ally in play.\nRAT,\nenw",
+   "conf": 70.3,
+   "n_words": 26
+  }
+ }
+}

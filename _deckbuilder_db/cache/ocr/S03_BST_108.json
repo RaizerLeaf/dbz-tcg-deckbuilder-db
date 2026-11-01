@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_108",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/108_Blue Takedown.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE TAKEDOWN ce () A108",
+   "conf": 48.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(22 PHYSICAL COMBAT\n* Physical attack. DAMAGE: 4 stages.\nLower your opponent's anger 1 level. If your\nopponent's anger was lowered to 0, lower\n\nyour opponent's MP 1 level.",
+   "conf": 84.1,
+   "n_words": 29
+  }
+ }
+}

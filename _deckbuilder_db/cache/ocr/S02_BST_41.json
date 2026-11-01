@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_41",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/41_Orange Energy Bubble.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ic ORANGE ENERGY BUBBLE € cat",
+   "conf": 77.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Ol\n_ Te _ —\n« ©VENT '\nENDURANCE 1. © POWER: You may destroy\nany of your Drills. Prevent X stages of damage\nfrom your opponent's attacks this combat. X =\n1 + the number of Drills you destroyed.\nfoxren 7",
+   "conf": 79.0,
+   "n_words": 42
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_64",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/64_Nappa - Enraged.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "[4 NAPPA oes () es\nT LEVEL _\ni aT",
+   "conf": 36.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "24,000\n22,000\n20,000\n18,000\n16,000\n14,000\n12,000\n10,000\n8,000\n\n6,000\n\n0",
+   "conf": 94.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "©) J,UUL\ny yr ei 8,000\n| an “G .¥ 6,000\ney, 0\n(3) Ww , ia\nco: Your attacks deal +4 stages of damage. If your\nopponent's MP's power level is 0, your attacks cannot\nhave their damage prevented.",
+   "conf": 72.3,
+   "n_words": 40
+  }
+ }
+}

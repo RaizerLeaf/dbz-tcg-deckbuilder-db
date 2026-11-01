@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_120",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/120_Saiyan Dash.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DASH R120",
+   "conf": 94.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 20.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R R} I\n* Physical attack.\nThis attack can only be stopped by a Physical\nCombat, Energy Combat, or Event card.\nDAMAGE: AT +3 stages.\nHIT: Setups cannot be used this combat.\n; iC © 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 89.6,
+   "n_words": 45
+  }
+ }
+}

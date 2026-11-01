@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_42",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/42_Orange Nudge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE NUDGE vec () c4a2\n™~, VW WY |",
+   "conf": 56.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4",
+   "conf": 41.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "\\ giles g — — : J\nay ENERGY COMBAT\n3 Stops an energy attack. Destroy one of\n| your Drills and then place it back into play at\nthe end of combat.",
+   "conf": 77.4,
+   "n_words": 33
+  }
+ }
+}

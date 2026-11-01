@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_79",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/79_Blue Leverage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| BLUE LEVERAGE sehen (> “=",
+   "conf": 55.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "£TN ALY | ~\nHes PHYSICAL COMBAT :\nWTF,\nW Stops a physical attack. Reveal the top\n3 cards of your Life Deck to all players.\nYour opponent chooses 1 of those cards.\nThe chosen card is placed into your hand\nand the other 2 are placed back in any order.\nIf your Main Personality's level is 3 or higher,\nyou get to choose the card instead.\n— | PAMINE |",
+   "conf": 87.9,
+   "n_words": 71
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_80",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/80_Red Intense Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED INTENSE BLAST ©) 120\n~a \\ ee",
+   "conf": 71.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "5\n,\n5",
+   "conf": 14.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(roe) ENERGY COMBAT\n* Energy attack costing 4 stages.\nDAMAGE: 3 life cards.\nHIT: You may banish any of your Styled Drills.\nYour opponent destroys the top X cards of his\nLife Deck. X = the number of Drills you banished\n+ your MP's current level.\n(Banish after use.)\n© 2015 Panini America, tnc. Printed in the USA. [PAM IRI |",
+   "conf": 88.9,
+   "n_words": 61
+  }
+ }
+}

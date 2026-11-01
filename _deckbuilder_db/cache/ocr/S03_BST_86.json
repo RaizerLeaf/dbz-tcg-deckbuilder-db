@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_86",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/86_Blue Upward Barrage.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLUE UPWARD BARRAGE (2",
+   "conf": 82.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "347",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "vs acaneew dou) +)\nAg ay (EC yh JB\n\\ ~ ENERGY COMBAT on |\n* Energy attack costing 2 stages. DAMAGE:\n5 life cards. You may place a Styled Setup\nfrom your hand into play. If you do, you may\nraise or lower a player's anger 2 levels.",
+   "conf": 79.6,
+   "n_words": 49
+  }
+ }
+}

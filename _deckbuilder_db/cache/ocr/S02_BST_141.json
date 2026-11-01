@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_141",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/141_Heroic Assistance.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(OT eS\n(HEROIC ASSISTANCE: (n=",
+   "conf": 44.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n,\n,",
+   "conf": 9.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "a 6%\n_ ae\n.« SeTUP '\n(Heroes only. Limit 2 per deck.)\nPOWER: Gain 2 stages. Choose a Physical\nCombat, Energy Combat or Event from your\n. discard pile and place it on top of your Life\nDeck. You may shuffle this card into your Life\nDeck after use.",
+   "conf": 85.6,
+   "n_words": 50
+  }
+ }
+}

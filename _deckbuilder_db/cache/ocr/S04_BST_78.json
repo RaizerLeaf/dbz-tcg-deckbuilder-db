@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_78",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/78_Red Collision.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED COLLISION () U78\nNe rN",
+   "conf": 56.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "I \\ 2 ) PHYSICAL COMBAT fR-A)\nCOT” (When this card is banished fromthe top ~\nof your discard pile by one of your effects,\nraise your anger 1 level.)\n* Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +3 stages.\nHIT: Search your discard pile for an attack card\nand place it on top of your discard pile.\n(Banish after use.)",
+   "conf": 88.6,
+   "n_words": 63
+  }
+ }
+}

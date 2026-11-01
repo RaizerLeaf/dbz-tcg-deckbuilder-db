@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_139",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/139_Tenshinhan’s Draining Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "a ian.\n( TENSHINHAN'S DRAINING BLAST () 13s\nee",
+   "conf": 40.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2",
+   "conf": 64.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "rr |\nHaye ENERGY COMBAT\n(You must banish the top 3 cards of your Life\nDeck to play this card. Banish after use.)\n* Energy attack. DAMAGE: 5 life cards.\n. Search your discard pile or Banished Zone for\n. a non-Styled card and Rejuvenate it.\n| — | PAMIMI |",
+   "conf": 82.9,
+   "n_words": 51
+  }
+ }
+}

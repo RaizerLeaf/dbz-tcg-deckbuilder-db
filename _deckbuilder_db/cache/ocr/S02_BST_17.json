@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_17",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/17_Black Evasion.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK EVASION (esc: () 017\n|",
+   "conf": 52.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4\n0\n04",
+   "conf": 34.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "_£m™ TN -: _\n« ENERGY COMBAT '\nW Stops an energy attack. You may choose a\ncard in your opponent's discard pile. If you do,\nyour opponent Rejuvenates that card and you\nmay place a card from each player's discard\npile on top of its owner's Life Deck.\nfovea",
+   "conf": 83.7,
+   "n_words": 50
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_54",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/54_Saiyan Lifting Kick.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "SAIYAN LIFTING KICK () C54\n- wer SEE aA =",
+   "conf": 51.5,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "\\e PHYSICAL COMBAT (rer),\nIRD * Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT life cards.\n\nHIT: Your opponent's non-Styled attacks deal -2\nstages and -2 life cards of damage this combat.\n(Banish after use.)\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 90.7,
+   "n_words": 46
+  }
+ }
+}

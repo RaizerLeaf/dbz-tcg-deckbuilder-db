@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_103",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/103_Black Enraged Assault.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK ENRAGED assaur mos\nlt",
+   "conf": 34.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "1 : ) oy.\n\n(. ge PHYSICAL COMBAT ?\nENDURANCE 1. | Physical attack.\nDAMAGE: 3 stages +3 life cards. HIT: Choose\na card in your opponent's Banished Zone.\nSearch your opponent's Life Deck for all\n\ncopies of that card and banish them.\n— | PAMINI |\ntones",
+   "conf": 78.0,
+   "n_words": 48
+  }
+ }
+}

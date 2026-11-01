@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_13",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/13_Krillin - Supportive.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "1 KRILLIN cys e138\nSag cron: -",
+   "conf": 47.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "70,000\n60,000\n50,000\n40,000\n30,000\n20,000\n15,000\n10,000\n5,000\n\n2,500\n\n0",
+   "conf": 79.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Lf J,UUU\n( p\n\nJ j a= C 5,000\noo i 2,500\nif 1 y Y Z 0\n\n(Heroes only.) co: Once per turn at the start\n\nof your Rejuvenation Step, choose a Drill\nand destroy it.",
+   "conf": 77.7,
+   "n_words": 37
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_08",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/08_Turles Fighter.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "a TURLES €) Gas\n\\ cE",
+   "conf": 35.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "100,000\n50,000\n25,000\n20,000\n\n15,000\n110,000\n5,000\n\n3,000\n1,000\n500\n0",
+   "conf": 89.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "rw 3,UUU\n! \" AZ 1,000\n- “4 —S ‘ 500\n(Villains only.) oo: If your MP is a Saiyan, your Styled\nattacks deal +X stages of damage. X = the number of\nSaiyans in play.",
+   "conf": 79.0,
+   "n_words": 36
+  }
+ }
+}

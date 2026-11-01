@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_11",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/11_Blue Counter.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "BLUE COUNTER () C11\ni ae ©",
+   "conf": 54.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n,\n,\n2",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @ RoR}\nv Stops a physical attack. )\nIf this card stopped an attack with a HIT\neffect, you may banish an Ally you control\nto perform a copy of that attack for your next\naction this combat.\n© 2015 Panini America, Inc. Printed in the USA.",
+   "conf": 88.6,
+   "n_words": 49
+  }
+ }
+}

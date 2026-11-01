@@ -1,0 +1,22 @@
+{
+ "card_id": "S02_BST_76",
+ "rel_path": "02_Set 2 (Heroes & Villains)/Heroes & Villains (Booster)/76_Black Overhead Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "(BLACK OVERHEAD: BURST €) U7e8\nTe / COA",
+   "conf": 47.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n4",
+   "conf": 29.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "{oF y _\n. - ENERGY COMBAT '\n* Energy attack costing 3 stages. DAMAGE:\n5 life cards. Raise your anger 2 levels.\nHIT: You may discard a card from your hand.\nIf you do, use a critical damage effect.\nfovea",
+   "conf": 83.9,
+   "n_words": 41
+  }
+ }
+}

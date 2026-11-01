@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_74",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/74_Namekian Leaping Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN LEAPING KICK\n-_",
+   "conf": 72.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7 4\n3",
+   "conf": 5.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i 1) SHYSICAL COMBAT (real\nOES (You cannot win by MPPV if you\nadvance a personality level with this card.)\n* Physical attack.\n\nYou may search your Life Deck for 2 Dragon Balls and\nbanish them. If you do, advance your MP 1 level.\nDAMAGE: 5 stages.\n\nBanish after use. j\n©",
+   "conf": 85.7,
+   "n_words": 52
+  }
+ }
+}

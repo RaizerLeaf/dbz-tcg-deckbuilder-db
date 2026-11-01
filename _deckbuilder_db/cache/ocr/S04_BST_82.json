@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_BST_82",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Booster)/82_Saiyan Fierce Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN FIERCE KICK () U82\nNe.",
+   "conf": 67.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n7\n,",
+   "conf": 4.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT fR-A}\n* Physical attack.\nDAMAGE: AT +3 stages.\nHIT: Raise your anger 1 level. If you advance a\npersonality level with this card and your MP is 2\nor more levels higher than your opponent's MP,\nbanish your opponent's discard pile.\n© 2015 Panini America, inc. Printed in the USA. | PAMIMI |",
+   "conf": 87.4,
+   "n_words": 56
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S03_BST_134",
+ "rel_path": "03_Set 3 (Movie Collection)/Movie Collection (Booster)/134_Turles Energy Ring.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "*{ TURLES' ENERGY RING () A134",
+   "conf": 57.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ss ENERSGYIESMBAT\nBl * Energy attack costing 1 stage. Damage: 5 €\nf life cards +AT stages. HIT: If this attack did\nyj not deal critical damage, it stays in playtobe jg\nle used a second time this combat. =~",
+   "conf": 73.8,
+   "n_words": 40
+  }
+ }
+}
