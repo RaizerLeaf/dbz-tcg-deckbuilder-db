@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_15",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/15_Namekian Timing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN TIMING C) C15",
+   "conf": 77.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,\n2\n,",
+   "conf": 1.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "EVENT\nPOWER: Destroy a Setup or Drill.\nIf your MP has 2 or less Traits, raise your anger\n1 level and gain 3 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.4,
+   "n_words": 58
+  }
+ }
+}

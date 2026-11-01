@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-Namekian",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_Namekian Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEIINN\nTANT oY \\V/",
+   "conf": 22.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4",
+   "conf": 78.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Cell\nCell Jr. .\nGohan 7 |\nKami 7 \\\nLord Slug / \\\nNail |\nPiccolo ey. 2S\n; ra",
+   "conf": 62.8,
+   "n_words": 21
+  }
+ }
+}

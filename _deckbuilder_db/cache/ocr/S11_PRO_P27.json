@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P27",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P27_Sinister Choke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SINISTER CHOKE () P?/\nwana, A,",
+   "conf": 60.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n8\n,\n07\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "M XX Physical attack.\nDamage from this attack cannot be prevented.\n\nThis attack cannot be stopped and its damage is\nbanished if your opponent controls a total of 7 or\nmore of the following card types: personalities,\n\nDrills, Setups, and Dragon Balls.\n\nDAMAGE: 5 life cards.\n\n(Banish after use.)\n|",
+   "conf": 93.2,
+   "n_words": 50
+  }
+ }
+}

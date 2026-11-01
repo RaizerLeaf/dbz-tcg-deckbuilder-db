@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_PRO_P25",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P25_Heroic Plan.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC PLAN a) P25 |",
+   "conf": 79.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "\\\\ ted |f ~w . ee =. rs i\nBae oe ea!)\n(Heroes only. Limit 1 per deck.)\n\nPOWER: Search your Life Deck for a Setup, Drill, or\nAlly and place it into play.\n| (Banish after use.)",
+   "conf": 73.6,
+   "n_words": 38
+  }
+ }
+}

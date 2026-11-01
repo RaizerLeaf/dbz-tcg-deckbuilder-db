@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_PRO_P26",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P26_Villainous Visage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS VISAGE © P26 ») P26 |\nSi an a Oe ee ne ae Sy.",
+   "conf": 50.2,
+   "n_words": 15
+  },
+  "lower": {
+   "text": "Be 2 ENC Glitter \\ “ SZASSS\n|\nj (Villains only. Limit 1 per deck:)\n* POWER: Use after you take damage from.an attack.\n| Your opponent destroys the top X cards of their Life Deck.\nX= twice the-amountoof life card damage that attack dealt.\n' (Banish after use.)",
+   "conf": 70.3,
+   "n_words": 49
+  }
+ }
+}

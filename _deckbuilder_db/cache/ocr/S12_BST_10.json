@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_10",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/10_Blue Static Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE STATIC BLAST () R10\nWay ila £ 404i ys",
+   "conf": 59.6,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4,\n,\n,",
+   "conf": 10.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "I Myr tN\nSS rf ENERGY COMBAT\naoe\n2X Energy attack costing 2 stages.\nYour opponent cannot use Endurance on\nyour Styled attacks this combat.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent’s anger 2 levels.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 88.0,
+   "n_words": 67
+  }
+ }
+}

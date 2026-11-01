@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-Android",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_Android Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ANBASID Sig.",
+   "conf": 25.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "4\n4",
+   "conf": 19.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ALUPUIU TJ\nAndroid 16\nAndroid 17\nAndroid 18\nAndroid 19\nAndroid 20 ”\nCell \\\nCell Jr. Ng f \\\nDr. Wheelo\nMercenary Tao A 2\nF ts \\",
+   "conf": 72.0,
+   "n_words": 29
+  }
+ }
+}

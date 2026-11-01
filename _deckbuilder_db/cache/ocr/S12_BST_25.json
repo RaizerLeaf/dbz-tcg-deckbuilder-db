@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_25",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/25_Red Expunge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED EXPUNGE () C25\ny",
+   "conf": 61.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n1,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "YE ALAN.\nSS) ENERGY COMBAT\n(If this card is banished by one of your\neffects, lower your opponent’s anger 1 level.)\nXX Energy attack costing 2 stages.\nYou may lower your anger 1 level. If you do,\nlower your opponent’s anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent’s anger 2 levels.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.0,
+   "n_words": 85
+  }
+ }
+}

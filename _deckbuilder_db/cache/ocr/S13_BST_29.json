@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_29",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/29_Red Guilty Flash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED GUILTY FLASH () U29",
+   "conf": 81.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n2 4\n, 2 ,\n,\n7\n,\n2\n,",
+   "conf": 14.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "[ ) ENERGY COMBAT\n(When this attack is performed from\nyour discard pile, gain 3 stages.)\nXX Energy attack costing 2 stages.\nRaise your anger 1 level. You may lower your anger\n2 levels. If you do, this attack stays in play to be\nused a second time this combat.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.9,
+   "n_words": 85
+  }
+ }
+}

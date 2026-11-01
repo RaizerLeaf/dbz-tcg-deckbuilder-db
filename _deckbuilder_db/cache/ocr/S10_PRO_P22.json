@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_PRO_P22",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P22_Red Relaxation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RELAXATION () P22",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ": i : % POWER: Use when entering combat.\n222 Use a critical damage effect. Your MP gains 2 stages.\n-e: Draw the bottom card of your discard pile.\n\n| (Banish after use.)",
+   "conf": 87.8,
+   "n_words": 33
+  }
+ }
+}

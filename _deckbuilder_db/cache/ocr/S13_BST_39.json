@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_39",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/39_Gotenks' Galactic Donut.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOTENKS' GALACTIC DONUTE¢ ) R39 |\nll eee lll",
+   "conf": 66.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n\n,\n\n,",
+   "conf": 0.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(QBS aaa 1\n(If this card is destroyed or Ome\nbanished from your Life Deck, gain\n3 stages and Rejuvenate it.)\nXX Energy attack costing 1 stage.\nRaise your anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Attach to your opponent’s MP. While attached, at\nthe beginning of your turn, you may Rejuvenate this card\nto banish the top 2 cards of your opponent's Life Deck.\na",
+   "conf": 87.9,
+   "n_words": 67
+  }
+ }
+}

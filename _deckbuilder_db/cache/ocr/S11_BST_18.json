@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_18",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/18_Orane Beatdown.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE BEATDOWN R18.\nEe sau. | err EE a",
+   "conf": 47.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "()\\4U PHYSICAL COMBAT >\nXX Physical attack.\nYour Styled Drills cannot leave play until the\nbeginning of your next action this combat.\nRaise your anger 2 levels.\nDAMAGE: 5 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.1,
+   "n_words": 64
+  }
+ }
+}

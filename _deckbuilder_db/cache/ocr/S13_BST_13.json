@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_13",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/13_Namekian Imposing Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "eV",
+   "conf": 41.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "0\n2\n013\n,\n7\n,",
+   "conf": 15.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "mm\n* POWER: Use when you would Rejuvenate\na Styled X card during combat. You may\nplace it into your hand instead.\nPOWER: Shuffle the top and bottom cards\nof your discard pile into your Life Deck.",
+   "conf": 92.4,
+   "n_words": 37
+  }
+ }
+}

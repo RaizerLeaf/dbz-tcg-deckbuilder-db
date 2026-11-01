@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P28",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P28_Heroic Dashing Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC DASHING PUNCH () P28",
+   "conf": 82.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ey (Heroes only. Limit 2 per deck.)\nPhysical attack.\nRaise your anger 1 level. Your opponent skips their next\naction this combat. For the remainder of combat,\nlife card damage from attacks is banished.\n\nDAMAGE: 5 stages.\n\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)\n\na",
+   "conf": 89.2,
+   "n_words": 49
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P16",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P16_Blue Shifting Maneuver.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SHIFTING MANEUVER ) P16.",
+   "conf": 80.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3\n7\n,",
+   "conf": 19.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(VG =VENT ( —d ) I\n'w POWER: Stops a physical or \"TT\nenergy attack.\n(If your current anger level is 2 or lower,\nbanish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 86.8,
+   "n_words": 58
+  }
+ }
+}

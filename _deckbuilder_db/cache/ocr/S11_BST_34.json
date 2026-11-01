@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_34",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/34_Reality Check.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "REALITY CHECK ) R34\na. as oe ¥",
+   "conf": 61.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "M POWER: Destroy an opponent's\nSetup, Drill, Ally, or attached card.",
+   "conf": 86.5,
+   "n_words": 11
+  }
+ }
+}

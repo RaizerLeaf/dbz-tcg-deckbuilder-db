@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_21",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/21_Red Quickness Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED QUICKNESS DRILL () C21\net pe V—",
+   "conf": 61.1,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "38 8 SEY y = ; .\n: i : co: Your Styled physical attacks deal + 1 stage of damage.\n\na2 i % POWER: Use when entering combat.\n\nFE Draw a card. Discard a card from your hand.",
+   "conf": 72.9,
+   "n_words": 39
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P18",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P18_Namekian Knowledge Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "mn _ (",
+   "conf": 39.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n,\n1\n1,\n,",
+   "conf": 0.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a LOL,L,L,L ee anne TT eel\n\nco: Whenever one of your effects during\n\ncombat Rejuvenates or shuffles cards into\nyour Life Deck, raise your anger 1 level.\nAfter a Namek Dragon Ball enters play\n\nunder your control, destroy the top card of\n\nyour opponent's Life Deck. While you control\n1 Dragon Ball, it cannot be captured by a\n; critical damage effect.",
+   "conf": 84.7,
+   "n_words": 62
+  }
+ }
+}

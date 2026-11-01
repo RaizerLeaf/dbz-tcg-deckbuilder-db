@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P20",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P20_Orange Juke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE JUKE ) P20,\nwie lee One € eee wee 8 o> ea vr",
+   "conf": 48.2,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "30 7\n7 6\n8 7\n,\n7 2\n2,\n3,",
+   "conf": 5.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "No. ON\n(RS =VENT\n‘W POWER: Stops a physical or\nenergy attack.\nSearch your discard pile for a Styled Drill and\nRejuvenate it. If you control less than 3 Drills,\nyou may place it into play instead.\n(Banish after use.)\n )",
+   "conf": 86.3,
+   "n_words": 41
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_17",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/17_Orange Energy Focus.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY FOCUS\news Al aw 6Y",
+   "conf": 68.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n7\n,\n,",
+   "conf": 1.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "DREN TS\nSS rf ENERGY COMBAT\nAc\n(You may banish this card from your\nhand as an action to banish a Styled energy\nattack from your discard pile. If you do,\nperform a copy of that attack.)\nX Energy attack.\nSet your MP’s power level to 0.\nDAMAGE: 1 life card.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.0,
+   "n_words": 82
+  }
+ }
+}

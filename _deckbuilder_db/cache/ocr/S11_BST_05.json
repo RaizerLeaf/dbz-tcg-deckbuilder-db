@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_05",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/05_Black Energy Rings.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY RINGS _ ) RS |\nBWO\\\\\\ | Vane =—hl",
+   "conf": 61.4,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "3\n4\n,\n\n,",
+   "conf": 27.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(J ENERGY COMBAT\n2X Energy attack costing 3 stages.\nIf this attack is stopped, your next Styled\nattack this combat cannot be stopped.\nDAMAGE: 4 life cards.\nHIT: Your opponent discards a card from their hand.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.6,
+   "n_words": 69
+  }
+ }
+}

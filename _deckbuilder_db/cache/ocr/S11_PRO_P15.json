@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P15",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P15_Blue Leverage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE LEVERAGE ) P15.",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n2,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| \\ f PHYSICAL COMBAT\nVW Stops a physical attack.\nReveal the top 3 cards of your Life Deck. Your\nopponent chooses 1 of those cards. Place the chosen\ncard into your hand and the other 2 on top of your\nLife Deck in any order. If your MP is level 3 or\nhigher, you choose the card instead.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 92.7,
+   "n_words": 90
+  }
+ }
+}

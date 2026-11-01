@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_29",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/29_Saiyan Forceful Stop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN FORCEFUL STOP C) C29\ny” 64 es",
+   "conf": 58.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n4\n,",
+   "conf": 45.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "()/)_ ENzARGY comaaT (=R)\n(This card’s Endurance is\nconsidered to be 5 for your card\neffects.)\nStops an energy attack.\nLower your opponent's anger 1 level.\nYour attacks deal +X stages of damage this combat.\nX=your MP's current level.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.5,
+   "n_words": 70
+  }
+ }
+}

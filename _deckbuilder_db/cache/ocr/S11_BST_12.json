@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_12",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/12_Namekian Empowering Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "AMEKIAN EMPOWERING DRILL a R12)",
+   "conf": 82.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "fle SS mu %\n: i? * POWER: Use when entering combat.\nae Look at the top 2 cards of your Life Deck and place any number\nae of them on the top or bottom of your Life Deck.\nPOWER: Gain 2 stages. If your MP has 2 or less Traits, choose a\n| Styled XX card in your discard pile and shuffle it into your Life Deck.",
+   "conf": 89.0,
+   "n_words": 68
+  }
+ }
+}

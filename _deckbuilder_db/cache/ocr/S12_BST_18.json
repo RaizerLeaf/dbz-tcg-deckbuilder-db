@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_18",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/18_Orange Counter Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE COUNTER PUNCH C) U18",
+   "conf": 74.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n0,\n,",
+   "conf": 35.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "DREN ee \\\n(RS PHYSICAL COMBAT ( @®)\nXX Physical attack. COT”\nSearch your discard pile for a Styled\nattack card and Rejuvenate it.\nDAMAGE: AT +3 stages.\nHIT: Rejuvenate the bottom 2 cards of your\ndiscard pile.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 84.4,
+   "n_words": 69
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_15",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/15_Namekian Feinforced Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REINFORCED BLAST )C15.\n— — of Ae 4",
+   "conf": 55.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "79,\n,",
+   "conf": 9.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(VG ENeasy comBaT (1s\n2X Energy attack costing 1 stage. COT”\nDestroy the top card of your opponent's\nLife Deck.\nDAMAGE: 2 life cards.\nHIT: You may banish a Dragon Ball you own.\nIf you do, destroy the top 4 cards of your opponent's\nLife Deck.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 86.3,
+   "n_words": 77
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_09",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/09_Blue Outburst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE OUTBURST ) RO",
+   "conf": 74.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n,884442",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| =VENT (3 }\n. (If this card is discarded or ZR”\ndestroyed from your Life Deck, lower =\nyour opponent's anger 1 level.)\n\n% POWER: Use after an effect destroys or banishes\ncards from your Life Deck. Choose 3 Styled cards in\nyour discard pile and shuffle them into your Life Deck.\nDraw a card.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 89.9,
+   "n_words": 90
+  }
+ }
+}

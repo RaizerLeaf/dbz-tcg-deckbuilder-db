@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P26",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P26_Namekian Growth.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN GROWTH () P26",
+   "conf": 78.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "z2 5 ”\n3 25 - a\n: i? POWER: You may play a Dragon Ball from your hand or\nz22 Rejuvenate 4. If your MP is level 3 or higher, you may instead\nae search your Life Deck for a Styled card and place it\ninto your hand.\n| (Banish after use.)",
+   "conf": 82.9,
+   "n_words": 53
+  }
+ }
+}

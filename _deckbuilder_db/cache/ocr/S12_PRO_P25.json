@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P25",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P25_Red Controlled Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED CONTROLLED BLAST () P25\n\\ f",
+   "conf": 81.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "fi, iN\nSS’) ENERGY COMBAT\n(You may play this card to stop a\nphysical attack instead of as an attack.)\nXX Energy attack costing 2 stages.\nRaise your anger 1 level.\nDAMAGE: 5 life cards.\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 69
+  }
+ }
+}

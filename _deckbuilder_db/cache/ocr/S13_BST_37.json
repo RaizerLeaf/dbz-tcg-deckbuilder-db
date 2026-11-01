@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_37",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/37_Head Smash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEAD SMASH | )UR37|",
+   "conf": 76.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n4\n4\n347\n1\n0",
+   "conf": 26.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "qo =i\nXX Physical attack. COT\nLower your opponent's anger 1 level.\nThe next time your opponent would gain anger\nthis combat, change that amount to 0.\nDAMAGE: 4 life cards or 4 stages.\n@: HIT: Shuffle into your Life Deck after use.",
+   "conf": 85.7,
+   "n_words": 43
+  }
+ }
+}

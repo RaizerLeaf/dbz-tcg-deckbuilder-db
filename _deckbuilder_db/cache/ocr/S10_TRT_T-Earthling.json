@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-Earthling",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_Earthling Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "—- <*",
+   "conf": 37.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "Android 16 Korin\nAndroid 20 Krillin\nBaba Maron\nBulma Master Roshi\nCell Mercenary Tao\nCell Jr. Puar a\nChaozu Oolong |\nChiChi Ox King\nDr. Brief Tenshinhan\nDr Wneelo Trunks |\nohan Turtle\nGoku Yajirobe —__\n_ Hercule Yamcha\nIcarus",
+   "conf": 84.1,
+   "n_words": 40
+  }
+ }
+}

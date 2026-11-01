@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_37",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/37_Babidi's Corruption.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BABIDI'S CORRUPTION",
+   "conf": 93.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "8\n\n3 4 5,\n7,\n2 4\n\n0\n,\n,,\n,",
+   "conf": 11.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "(VL) as 1)\n(If this card is banished for Ome\nEndurance, you may discard a card at\nrandom from your opponent's hand. If you do,\nyour opponent draws a card.)\nPOWER: Search your Life Deck or discard pile for an\nAlly and play it. You may banish an Ally you\ncontrol to end combat.\n(Banish after use.)\n\n|",
+   "conf": 89.4,
+   "n_words": 58
+  }
+ }
+}

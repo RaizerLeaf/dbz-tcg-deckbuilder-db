@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P31",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P31_Crushing Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CRUSHING BEAM () P31",
+   "conf": 79.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Ver Dg\n(Heroes only.) COT\n2 Energy attack costing 3 stages.\nDamage from this attack is banished.\nDAMAGE: 6 life cards.\n(Shuffle into your Life Deck after use.)\nito eases a ea:",
+   "conf": 79.3,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_24",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/24_Red Celestial Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED CELESTIAL STRIKE () C24\na a ae vou.",
+   "conf": 57.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "28\n37\n2,",
+   "conf": 8.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "UPN,\nSS) PHYSICAL COMBAT\nXX Physical attack.\nRaise your anger 1 level. Destroy a Drill or Ally.\n@: Lower your opponent's anger 2 levels.\nDAMAGE: AT +1 stage.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.8,
+   "n_words": 59
+  }
+ }
+}

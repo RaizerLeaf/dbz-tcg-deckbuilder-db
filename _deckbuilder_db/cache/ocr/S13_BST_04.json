@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_04",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/04_Black Jeer.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK JEER () C4",
+   "conf": 73.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| ) =VENT ( —d y\n(If this card is destroyed from\nyour Life Deck by one of your effects,\ngain 3 stages.)\n\nPOWER: Banish the bottom 5 cards of your opponent's\ndiscard pile. If you banished less than 5 cards, destroy\nthe difference from the top of your opponent's Life\nDeck. If a Dragon Ball is destroyed by this effect, you\nmay place it into play under your control instead of your\nopponent placing it on the bottom of their Life Deck.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.9,
+   "n_words": 114
+  }
+ }
+}

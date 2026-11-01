@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_05",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/05_Black Deceptive Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DECEPTIVE STRIKE () U5\n7 _ |",
+   "conf": 68.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT\n. (If this card is revealed from your\nhand, you may use a critical damage effect.)\nXX Physical attack.\nLower your opponent's anger 1 level.\n@ : Banish the bottom 3 cards of your opponent's\ndiscard pile.\nDAMAGE: 3 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 90.7,
+   "n_words": 76
+  }
+ }
+}

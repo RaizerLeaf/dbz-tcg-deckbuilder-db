@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P14",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P14_Black Delay.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DELAY",
+   "conf": 96.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": ", ,\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "Whpow \\\\ j ‘we\n(FO) PHYSICAL COMBAT (ae\nStops a physical attack.\nIf that attack was a Physical Combat card,\nreturn it to your opponent’s hand. Your opponent\ndiscards a random card from their hand.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.4,
+   "n_words": 66
+  }
+ }
+}

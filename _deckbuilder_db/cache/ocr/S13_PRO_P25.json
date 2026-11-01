@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P25",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P25_Blue Lunge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE LUNGE ) P25.",
+   "conf": 78.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n4 ,\n37 2\n,",
+   "conf": 15.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT { G=Q)\n. XX Physical attack. ars”\nSearch the top 5 cards of your Life Deck for a\nSetup or Drill and place it into play. Put the remaining\ncards at the bottom of your Life Deck in any order.\nDAMAGE: AT +5 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 90.8,
+   "n_words": 78
+  }
+ }
+}

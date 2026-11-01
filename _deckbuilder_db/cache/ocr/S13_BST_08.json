@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_BST_08",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/08_Blue Taunting Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE TAUNTING DRILL () U8\na = ———————s",
+   "conf": 65.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": ": fH (If this card is destroyed from your Life Deck, gain 5 stages.)\n33 co: Players cannot use Setups during combat unless they have\n“$e performed an attack this turn.\n* POWER: Use after you perform a successful copied attack.\n| Rejuvenate 2. Lower your opponent’s anger 1 level.",
+   "conf": 91.2,
+   "n_words": 50
+  }
+ }
+}

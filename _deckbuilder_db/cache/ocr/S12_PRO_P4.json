@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P4",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P4_Broly - Bio Warrior.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BROLY\nfea BIO WARRIOR y ra )\nLEVEL feces ass\nSe ee ee ae nn",
+   "conf": 48.5,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "3,200,000\n2,200,000\n,1,200,000\n900,000\n600,000\n300,000\n0\n150,000\n75,000\n30,000\n10,000\n0",
+   "conf": 71.9,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "> e en ee ce\n\n. moe ~~ 10,000\n\nif | * . . . - ; . e 0\n\nAN ae a a a\n| GS co: Your attacks deal +2 life cards of damage. Whenever Jam\n\\ Crd you Rejuvenate during combat, attacks in your next Rete\naction this combat are considered to deal critical damage. [aan\n: POWER: > Energy attack. Choose 3 cards in your Boa\ndiscard pile and Rejuvenate them. DAMAGE: 4 life cards. jae\n\nS HIT: Banish the top 10 cards of your opponent's discard pile. ( ae",
+   "conf": 69.5,
+   "n_words": 94
+  }
+ }
+}

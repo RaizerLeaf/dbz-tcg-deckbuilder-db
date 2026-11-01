@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P28",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P28_Surprise Attack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SURPRISE ATTACK () P28\nART EK 4). ee",
+   "conf": 54.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n9\n,\n20\n,",
+   "conf": 16.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "M (Players cannot search for “Surprise\nAttack” with this card's effect.)\nPhysical attack.\nSearch your.opponent's-Life Deck for 2°non-Styled/\nnon-Dragon Ball cards and ‘banish them.\n\nYour opponent searches your Life/Deck for 2 non-Styled/\nnon-Dragon Ball cards and banishes them:\nDAMAGE:4 life’cards.\n\nHIT: Banish the;top'4 cards -of-your opponent‘s:discard pile.",
+   "conf": 69.3,
+   "n_words": 47
+  }
+ }
+}

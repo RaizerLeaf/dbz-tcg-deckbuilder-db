@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_84",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/84_Piccolo - Fierce Combatant.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,450,000\n1,200,000\n1,150,000\n1,000,000\n700,000\n450,000\n300,000\n100,000\n40,000\n20,000\n0",
+   "conf": 69.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| -/ 1U0,UUU\n| | 40,000\n; ae 20,000\n- () 0\nco: After a card effect causes you to discard\na card from your hand, gain 5 stages.\nPOWER: XX Physical attack.\nDraw a card. You may discard a card from\nyour hand. If you do, banish the top 5 cards\nof your opponent's discard pile and this attack NEES pee een\ngains “HIT: Choose a card in your discard wination ot ination Fa TV.\npile and shuffle it into your Life Deck.” ct ine Thi ed es\nNARAA - A a “ho ma pctenees elalicssl tes",
+   "conf": 77.7,
+   "n_words": 98
+  }
+ }
+}

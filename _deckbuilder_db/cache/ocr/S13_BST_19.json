@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_19",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/19_Orange Energetic Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "|",
+   "conf": 41.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "4\n,\n1,",
+   "conf": 30.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| \\ ==, TT,\n(At the start of your opponent's first turn,\nsearch your Life Deck for a Styled non-co Drill\nand place it into play.)\n| %* POWER: Use after performing a successful\nattack. Gain 3 stages and raise your anger 1 level.\nPOWER: Discard a card from your hand to\nperform a Styled energy attack dealing 4 life\n| cards of damage. If you discarded a Styled card,\n| raise or lower a player’s anger 1 level. L",
+   "conf": 90.1,
+   "n_words": 80
+  }
+ }
+}

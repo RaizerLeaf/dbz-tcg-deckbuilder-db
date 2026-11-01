@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_24",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/24_Red Sleeper Hold.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED SLEEPER HOLD () C24",
+   "conf": 82.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Ab) eeyYsicaL comBaT (=\n(When this attack is performed\nfrom your discard pile, banish an Ally.)\nXX Physical attack.\nSearch your Life Deck for a Styled X or W card\nand discard it. Raise your anger 1 level.\nDAMAGE: 4 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.9,
+   "n_words": 75
+  }
+ }
+}

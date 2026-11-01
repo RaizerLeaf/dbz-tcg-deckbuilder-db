@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P20",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P20_Black Chopping Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK CHOPPING DRILL @ P20)",
+   "conf": 78.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ae co: Your Styled attacks deal +1 stage and +1 life card of damage.\na3 2 Whenever your opponent performs an attack, banish the\nBEL 4 : top card of your opponent's discard pile.",
+   "conf": 82.4,
+   "n_words": 34
+  }
+ }
+}

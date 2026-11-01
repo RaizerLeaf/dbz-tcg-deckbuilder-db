@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P26",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P26_Wall Breaker.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "WALL BREAKER S ) P26 |\noo - xf F- me",
+   "conf": 50.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n,\n\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "eS XX Physical attack.\nAttach to your opponent’s MP. While attached,\nyour opponent cannot gain anger. Banish this card\nwhen your opponent deals critical damage.\nDAMAGE: AT +1 stage.",
+   "conf": 90.7,
+   "n_words": 29
+  }
+ }
+}

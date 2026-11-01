@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_33",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/33_Coordinated Efforts.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "COORDINATED EFFORTS ) R33 |",
+   "conf": 94.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "6,\n,\n2\n20,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "YE ALAN. ‘i \\\nKS) ENERGY COMBAT (QSg!\n2X Energy attack costing 1 stage. Orne”\nAttach to an Ally you control. While\nattached during combat, you may use the Powers of\nthat Ally regardless of your MP’s power stage.\nDAMAGE: 4 life cards.",
+   "conf": 82.7,
+   "n_words": 43
+  }
+ }
+}

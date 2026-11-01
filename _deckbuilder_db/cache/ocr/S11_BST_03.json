@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_03",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/03_Blac Gut Check.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK GUT CHECK ) U3",
+   "conf": 81.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n2\n4\n, 4\n,\n37\n,",
+   "conf": 8.4,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "| \\ f PHYSICAL COMBAT\nXX Physical attack.\nChoose a random card from your opponent's hand\nand reveal it. If that card is a 8 card, this attack\ncannot be stopped.\nDAMAGE: AT +4 stages.\nHIT: Raise or tower both players’ anger 2 levels.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 90.5,
+   "n_words": 77
+  }
+ }
+}

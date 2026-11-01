@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_32",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/32_Halt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "I 35 [fF Foe 1 ai ee PY [Pte\n| HALT () UR32 |\nant, te CAC EEE fC",
+   "conf": 43.7,
+   "n_words": 19
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 13.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "M (Limit 1 per deck.)\n* POWER: @#: If you have 2 or less Traits, use\nwhen an Event is played or a Setup Power is used.\nCancel the effects of that card.\n(Shuffle into your Life Deck after use.)",
+   "conf": 92.1,
+   "n_words": 40
+  }
+ }
+}

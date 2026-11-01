@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_01",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/01_Black Focus.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FOCUS o) C1 |\n2 ee tS",
+   "conf": 59.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "a ee = ] Tae\n5 a3 (You may only have one “Black Focus” attached. If this card is\na2 2 discarded from your hand during combat, place it into play.)\na POWER: Attach to your MP. The next attack you perform this combat\ngains “If this attack deals critical damage, draw a card.”\n©) While attached, whenever an effect would raise your anger, you\n— may banish the top card of your opponent's discard pile instead.",
+   "conf": 88.2,
+   "n_words": 77
+  }
+ }
+}

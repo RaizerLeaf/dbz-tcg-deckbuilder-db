@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_21",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/21_Orange Sidestep.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE SIDESTEP C) C21,",
+   "conf": 60.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "42 4\n4\n,",
+   "conf": 20.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT ~~\n. (If this card is discarded from your\nhand by a personality or Mastery effect,\nyou may banish it instead to draw the bottom\ncard of your discard pile.)\nVW Stops a physical attack.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.5,
+   "n_words": 69
+  }
+ }
+}

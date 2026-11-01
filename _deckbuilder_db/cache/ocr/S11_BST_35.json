@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_35",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/35_Concussive Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CONCUSSIVE STRIKE ) R35\n=), _~",
+   "conf": 77.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n40\n2,",
+   "conf": 13.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Vt area Oo\n(If your MP has @, this cardis QZ”\nconsidered Styled.) a\nXX Physical attack.\nRaise your anger 1. Lower your opponent’s anger 2.\n@ : Choose a player. That player banishes 2 cards\nfrom their discard pile. Rejuvenate 2.\nDAMAGE: 6 stages.\n(Banish after use.)",
+   "conf": 84.0,
+   "n_words": 48
+  }
+ }
+}

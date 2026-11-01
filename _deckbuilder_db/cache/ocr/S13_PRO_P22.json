@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P22",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P22_Black Evasion.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK EVASION a ) P22 |",
+   "conf": 69.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1 4\n,",
+   "conf": 36.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| ) ENERGY COMBAT\nStops an energy attack.\n\nYou may choose a card in your opponent’s discard\npile. If you do, your opponent Rejuvenates that card\nand you may place a card from each player’s discard\n\npile on top of its owner's Life Deck.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.9,
+   "n_words": 75
+  }
+ }
+}

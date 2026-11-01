@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_17",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/17_Namekian Gut Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN GUT KICK\nll",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n,\n1",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT ~~\n. Physical attack.\n\nRaise your anger 1 level. You may discard a card from\nyour hand. If you discarded a Styled card, this attack\nstays in play to be used a second time this combat.\nDAMAGE: AT +3 stages.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 77
+  }
+ }
+}

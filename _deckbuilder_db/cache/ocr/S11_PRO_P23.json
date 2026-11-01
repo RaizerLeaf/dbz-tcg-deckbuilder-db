@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P23",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P23_Saiyan Grab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN GRAB C) P23\n, . = —_~",
+   "conf": 47.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "19,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| IML PHYSICAL COMBAT\n(Villains only.)\nXX Physical attack.\nIf the personality performing this attack has a\nhigher power level than the defending personality,\nthis attack cannot be stopped.\nDAMAGE: AT stages.\nHIT: Draw a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 92.9,
+   "n_words": 70
+  }
+ }
+}

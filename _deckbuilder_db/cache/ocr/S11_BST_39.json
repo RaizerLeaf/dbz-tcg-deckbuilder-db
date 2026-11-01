@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_39",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/39_Buu's Candy.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S CANDY \"@) R39 |",
+   "conf": 72.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "+a\na ;\n\na (Limit 1 per deck. Whenever this card leaves play, banish the\n\nf a card “Buu’s Candy” was attached to.)\n\n«Be : POWER: Attach to an opponent's Setup in play. Gain control of that Setup\n\n“a and it loses all effects. While attached, you may banish this card as\n\np an action to lower your opponent's anger 2 levels and banish\n\n. = the top 2 cards of your opponent's discard pile.",
+   "conf": 79.8,
+   "n_words": 75
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P34",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P34_Red Sacrifice.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED SACRIFICE () P34\nhae.",
+   "conf": 63.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,\n\n2\n\n,",
+   "conf": 16.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| ) ENERGY COMBAT\n(If this card is discarded from your\nhand by a card effect, raise your anger 2 levels\nand damage from your next attack this\ncombat cannot be prevented.)\nW Stops an energy attack.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.8,
+   "n_words": 68
+  }
+ }
+}

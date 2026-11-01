@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_14",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/14_Namekian Destruction.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DESTRUCTION @ )U14",
+   "conf": 67.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n2",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "()\\4, ENERGY COMBAT\n2X Energy attack costing 2 stages.\nIf you control 3 or more Dragon Balls, you may\ndestroy a Setup, Drill, or Ally. lf your MP has 2\nor less Traits, choose a card in your discard\npile and Rejuvenate it.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 89.3,
+   "n_words": 78
+  }
+ }
+}

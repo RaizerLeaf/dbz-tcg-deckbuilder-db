@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_15",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/15_Namekian Power Ball.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN POWER BALL C) U15\n| ws",
+   "conf": 68.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n1 7\n,",
+   "conf": 20.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(RS) ENERGY COMBAT (Bw)\n2X Energy attack costing 3 stages. Te”\nDamage from this attack is banished.\nDAMAGE: 5 life cards.\nHIT: Shuffle a Dragon Ball or Ally you control into\nits owner’s Life Deck to destroy a Setup or Drill.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.7,
+   "n_words": 72
+  }
+ }
+}

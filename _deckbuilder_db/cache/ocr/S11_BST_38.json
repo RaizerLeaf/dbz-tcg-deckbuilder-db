@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_38",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/38_Babidi's Dark Magic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BABIDI'S DARK MAGIC ) R38\ni a ALS ~..LU\\",
+   "conf": 55.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n2\n,\n,\n0,",
+   "conf": 4.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "VL) eg 1)\n(This card gains +X Endurance. Ome\nX=the number of @ Allies you control.)\nPOWER: Search your Life Deck or discard pile for\na @ Ally and place it into play at 3 stages above 0.\nRaise that Ally to its highest power stage or destroy\nthe top X cards of your opponent’s Life Deck.\nX=the number of @ Allies you control.\n(Banish after use.)\n|",
+   "conf": 89.5,
+   "n_words": 68
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-Saiyan",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_Saiyan Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "Aw *",
+   "conf": 61.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "UGII eee\n\nCell Jr.\n\nGohan\n\nGoku\n\nNappa |\nParagus\n\nRaditz Ww\nTrunks / | ‘\nTurles 4 |\nVegeta 5\ni om F ~ \"",
+   "conf": 60.3,
+   "n_words": 25
+  }
+ }
+}

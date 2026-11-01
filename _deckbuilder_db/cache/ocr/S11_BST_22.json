@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_22",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/22_Red Burn.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED BURN Oa\na An Gap",
+   "conf": 56.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "0,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(NW EVENT ( = )k\nPOWER: Use a critical damage Gs\n\neffect. Lower your opponent’s anger\n\n1 level. : Gain 5 stages. If the highest power\n\nlevel on your MP’s level 4 is 500,000 or greater,\nshuffle into your Life Deck after use.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.4,
+   "n_words": 74
+  }
+ }
+}

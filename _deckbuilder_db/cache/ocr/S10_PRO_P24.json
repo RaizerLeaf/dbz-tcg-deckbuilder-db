@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_PRO_P24",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P24_Dragon Radar.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DRAGON RADAR a) P24 |\nSS ee Se",
+   "conf": 60.4,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "(Limit 1 per deck.)\nPOWER: Search your Life Deck for a Dragon ball and play it.\n(Banish after use.)",
+   "conf": 95.9,
+   "n_words": 19
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_16",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/16_Namekian Grit.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN GRIT C) C16",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n2\n,\n72\n347 2",
+   "conf": 16.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT | =p)\n. '% Stops a physical attack. Soi Na\nRejuvenate the bottom 3 cards of your\ndiscard pile.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 83.5,
+   "n_words": 56
+  }
+ }
+}

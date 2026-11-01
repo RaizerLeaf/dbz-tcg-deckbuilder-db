@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P22",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P22_Red Stop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED STOP () P99\nPORTER WO",
+   "conf": 56.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(VG =VENT\n‘W POWER: Stops a physical or\nenergy attack.\nYou may lower your anger 1 level.\nIf you do, search your discard pile or Banished Zone\nfor a Styled Drill and place it into play.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.1,
+   "n_words": 70
+  }
+ }
+}

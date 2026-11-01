@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P6",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P6_Buu - Abomination.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU\n(2 ABOMINATION y 7s )",
+   "conf": 62.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3,000,000\n2,300,000\n1,200,000\n7800,000\n4600,000\n5 400,000\n200,000\n60,000\n30,000\n0\n7",
+   "conf": 57.2,
+   "n_words": 12
+  },
+  "lower": {
+   "text": ": \\ = Gooctaene dead\n| 60,000\n\\ | V ) 30,000\nco: After taking damage from an attack, Rejuvenate 1. Leer %\n<7 POWER: X Physical attack. See\nChoose a card in your discard pile and shuffle it See\ninto your Life Deck. a Lm\nDAMAGE: 6 stages. ES\nLI | HIT: Raise your anger 2 levels or Rejuvenate 2. BAY",
+   "conf": 76.5,
+   "n_words": 62
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_30",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/30_Red Lightning Cutter.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED LIGHTNING CUTTER () R30\nBW -",
+   "conf": 70.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| ENERGY COMBAT (B®)\n. XX Energy attack. COTY\nRaise your anger 1 level.\nDAMAGE: 1 life card.\nHIT: You may lower your anger 1 level to destroy\nall of your opponent’s Setups or all of their\nattached cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.8,
+   "n_words": 70
+  }
+ }
+}

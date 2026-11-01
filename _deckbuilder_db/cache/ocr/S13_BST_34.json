@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_34",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/34_Saiyan Leg Catch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN LEG CATCH C) C34\nEEO, CS",
+   "conf": 66.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "5 ,\n,\n\n,\n\n,",
+   "conf": 2.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| \\PHYSICAL COMBAT\n(If this card is destroyed from your\nLife Deck by one of your effects, you may\nbanish it to gain 3 stages.)\nStops a physical attack.\nDestroy the top card of a player’s Life Deck.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 93.4,
+   "n_words": 69
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_06",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/06_Black Piercing Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK PIERCING BEAM ) RE",
+   "conf": 81.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "( ENERGY comBaT (@)\n(If this card is revealed from your\nhand, you may discard a card at random\nfrom your opponent’s hand. If you do, your\nopponent draws a card.)\n\nXX Energy attack costing 1 stage.\nBanish an Ally or attached card.\nDAMAGE: 3 life cards.\n\nHIT: Lower your opponent's anger 2 levels.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.6,
+   "n_words": 85
+  }
+ }
+}

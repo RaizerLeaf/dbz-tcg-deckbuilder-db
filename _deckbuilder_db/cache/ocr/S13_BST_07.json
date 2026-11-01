@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_07",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/07_Blue Mimicry Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\\\\i WVy/ ha) Ov WV\nWe ee \\\\ |) if, ]",
+   "conf": 31.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "3\n\n5\n\n7\n77\n\n2\n\n,",
+   "conf": 6.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "——\nco: Your opponent cannot use Endurance on\nyour copied attacks. .\n* POWER: Use after performing a successful\ncopied attack. Destroy the top 2 cards of\nyour Life Deck to draw a card.\n) POWER: Shuffle up to 3 cards with “copy” or\n“copied” in the text-box or parenthetical text\nfrom your discard pile into your Life Deck.",
+   "conf": 92.1,
+   "n_words": 59
+  }
+ }
+}

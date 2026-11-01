@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_BST_14",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/14_Namekian Hysteria.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HYSTERIA &) 14)",
+   "conf": 76.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "it (You may only have one “Namekian Hysteria” attached.)\n\nae : POWER: Attach to your MP. While attached, your Styled attacks\n\nFE deal +1 stage of damage and gain “HIT: Place the bottom card\n| of your discard pile on the bottom of your Life Deck.”",
+   "conf": 90.3,
+   "n_words": 46
+  }
+ }
+}

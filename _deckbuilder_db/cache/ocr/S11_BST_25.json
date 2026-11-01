@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_25",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/25_Red Palm Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED PALM SHOT () U25\n~~, ‘SSA y z_ i",
+   "conf": 60.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "()/L) ENERGY COMBAT ( i) |\nX% Energy attack costing 2 stages.\nRaise your anger 1 level. Damage from\nthis attack is banished. You may lower your\nanger 2 levels. If you do, banish the top or bottom\n3 cards of your opponent's discard pile.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.5,
+   "n_words": 80
+  }
+ }
+}

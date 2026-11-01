@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P25",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P25_Playful Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PLAYFUL PUNCH ; ) P25 |\nA. NOY a o£",
+   "conf": 57.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "© (If the highest power level on your\nMP’s Level 4 is 500,000 or less, you may\nplay this card to stop a non-Styled attack\ninstead of as an attack.)\nXX Physical attack.\nYour MP gains 5 stages.\nLower your opponent's anger 1 level.\nDAMAGE: 3 life cards.",
+   "conf": 92.1,
+   "n_words": 48
+  }
+ }
+}

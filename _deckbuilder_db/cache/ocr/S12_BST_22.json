@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_22",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/22_Red Counter.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED COUNTER () U22",
+   "conf": 77.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n\n3\n4\n,",
+   "conf": 24.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "TITAN, _—.\n‘ POWER: Stops a physical attack.\n62: \\f you have only 1 Trait, you may banish a card\n\nfrom your hand to search your discard pile for\n\na Named attack card and place it into your hand.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.2,
+   "n_words": 73
+  }
+ }
+}

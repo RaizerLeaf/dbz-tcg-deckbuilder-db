@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_54",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/54_Babidi - Controlling.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "41. BABIDI\nLEVEL CONTROLLING () 954",
+   "conf": 64.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4,000\n\n3,500\n\n3,000\n\n2,500\n\n1,700\n3\n\n1,500\n\n600\n\n500\n\n400\n\n100\n\n0",
+   "conf": 95.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "= pM 400\nNUR :\noo: Your Allies’ PUR is +2.\n% POWER: Use at the start of your Planning\nStep. Search a player’s Life Deck, discard { WL\npile, or Banished Zone for an Ally and play it. \\\nPOWER: X Energy attack.\n| DAMAGE: 0 life cards. Barz nO\n_ HIT: Destroy the top X cards of your sti oan FT.\nopponent's Life Deck. X = the number of fanmade coro pet cd",
+   "conf": 79.2,
+   "n_words": 75
+  }
+ }
+}

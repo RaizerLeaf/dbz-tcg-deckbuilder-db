@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P32",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P32_Red Despair Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DESPAIR DRILL () P32",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "cit (Limit 1 per deck.)\na : | co: Your attacks deal +X life cards of damage.\nae! X= your current anger level when you perform that attack.",
+   "conf": 80.4,
+   "n_words": 28
+  }
+ }
+}

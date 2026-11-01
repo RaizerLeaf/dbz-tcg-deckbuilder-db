@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P10",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P10_Dabura - Second in Command.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ee a 5\nDABURA\n- SECOND IN COMMAND y -10\nwee ON Ore! UCU TRAN NNN",
+   "conf": 50.2,
+   "n_words": 16
+  },
+  "stages": {
+   "text": "1,500,000\n1,000,000\n666,000\n300,000\n100,000\n95,000\n55,000\n36,000\n10,000\n1,000\n0\n06",
+   "conf": 46.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "10,000\nL v7. 1,000\ne \\d a 0\n| GS ) oo: Your attacks with “Sword” in the title deal 5 ; _—\n\\ Cr +1 stage and +1 life card of damage. Rete\nPOWER: > Physical attack. Raise your anger 1 level. aaa\nDAMAGE: 5 stages. HIT: Search your discard Bo\npile for a Styled or Named card with “Sword” in a\n| the title and place it into your hand. i ae\nJ Us = ay a a i A nate eat - a",
+   "conf": 70.8,
+   "n_words": 86
+  }
+ }
+}

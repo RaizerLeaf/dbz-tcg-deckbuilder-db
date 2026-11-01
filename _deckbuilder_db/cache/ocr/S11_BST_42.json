@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_42",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/42_Buu's Candy Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S CANDY BEAM () R42",
+   "conf": 82.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5 ,\n\n5\n,\n\n,\n\n,",
+   "conf": 14.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "LV 1)\n\n(When this card is discarded or Ome\ndestroyed from your Life Deck, you\nmay banish an attached card in play.)\nXX Energy attack costing 2 stages.\n\nSearch your discard pile or Banished Zone for a\nNamed Setup and place it into play or use its Power.\nDAMAGE: 5 life cards.\n|",
+   "conf": 90.1,
+   "n_words": 53
+  }
+ }
+}

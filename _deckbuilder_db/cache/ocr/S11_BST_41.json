@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_41",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/41_Buu's Cookie.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S COOKIE © rar]",
+   "conf": 72.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "& (Limit 1 per deck. Whenever this card leaves play, banish the\n\na card “Buu's Cookie” was attached to.)\n\na: POWER: Attach to an Ally in play. Gain control of that Ally, it loses\n\n| all effects, and it cannot make actions nor have damage redirected to it.\nL While attached, you may banish this card as an action to\n\nq —— gain 2 stages and Rejuvenate 2.",
+   "conf": 88.9,
+   "n_words": 68
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_12",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/12_Blue Energy Push.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY PUSH () U12\nAD Re ae",
+   "conf": 63.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n, 2\n,\n,\n1 ,",
+   "conf": 5.7,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "| ENERGY COMBAT (GER)\n. 2X Energy attack costing 1 stage. Orne”\nRaise your anger 1 level. Name a card. Search\nyour Life Deck for a copy of that card and destroy it.\nIf you destroyed a card, search your opponent’s\nLife Deck for a card and destroy it.\nDAMAGE: 4 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 92.1,
+   "n_words": 84
+  }
+ }
+}

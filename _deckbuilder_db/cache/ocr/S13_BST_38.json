@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_BST_38",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/38_Buu's Absorbing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S ABSORBING DRILL a R38 |\nmr ee",
+   "conf": 72.8,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "se a”\n(Limit 1 per deck. This card is not discarded when advancing a level.\n\n: Use only if your opponent has not performed a successful attack\n\n| this combat.)\n\n‘v POWER: Stops a physical or energy attack.\n\n| You may discard a card from your hand to perform a copy of that\n\n' attack for your next action.",
+   "conf": 87.7,
+   "n_words": 59
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-God",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_God Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SoD —\nTAAIrT | |. +",
+   "conf": 50.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| Mr. Popo U\nog\n, =\n.-",
+   "conf": 57.9,
+   "n_words": 8
+  }
+ }
+}

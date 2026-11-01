@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P2",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P2_Yajirobe - Hungry.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YAJIROBE",
+   "conf": 87.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "700\n\n500\n\n300\n\n100\n\n75\n1 50\n25\n10\n\n5\n\n1\n0",
+   "conf": 89.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "my 4 \\y yy rw 1U\na | iN ros}\n| ‘ yy 5\n(i |\nES\n~ We 0\nco: Whenever you play a card with “Sword”\nin the title, gain 2 stages.\nPOWER: Search your discard pile for up to\n2 cards with “Sword” in the title and\nRejuvenate them. Draw a card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 82.5,
+   "n_words": 94
+  }
+ }
+}

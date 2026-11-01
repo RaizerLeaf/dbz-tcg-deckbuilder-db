@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P19",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P19_Namekian Backhand.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN BACKHAND ) P19,",
+   "conf": 79.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n4\n3",
+   "conf": 28.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "SS) PHYSICAL COMBAT\n(Limit 1 per deck.)\nXX Physical attack.\nDamage from this attack cannot be redirected\nor prevented. Remain 2.\nDAMAGE: 3 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 88.8,
+   "n_words": 58
+  }
+ }
+}

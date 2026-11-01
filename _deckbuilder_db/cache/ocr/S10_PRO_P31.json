@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P31",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P31_Heroic Energy Sphere.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC ENERGY SPHERE > ) P31 |",
+   "conf": 79.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2\n4\n,\n\n2\n,\n,\n1\n20",
+   "conf": 1.6,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "= .. <== #£°;&°&+£&£&727~7~7~7~7~7~2©«=7=&7» CSCC\n@ =VENT\n— (Heroes only.)\n* POWER: Use when an Event is played.\nCancel the effects of that card. Rejuvenate 1.",
+   "conf": 73.1,
+   "n_words": 26
+  }
+ }
+}

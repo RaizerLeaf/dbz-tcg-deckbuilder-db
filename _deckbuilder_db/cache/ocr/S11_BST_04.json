@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_04",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/04_Black Pressure Point.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK PRESSURE POINT ) C4 |\na {C22 =n 7” an",
+   "conf": 64.7,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "1",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| IML PHYSICAL COMBAT ( 1 ) I\nXX Physical attack.\nRaise your anger 1 level. You may discard a\ncard from your hand to lower your opponent's anger\n1 level and place a Styled card from your discard\npile on top of your Life Deck.\nDAMAGE: AT +3 stages.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.8,
+   "n_words": 84
+  }
+ }
+}

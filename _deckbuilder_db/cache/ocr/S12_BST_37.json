@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_37",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/37_Broly's Gigantic Meteor.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BROLY'S GIGANTIC METEOR =) R37,\ni ftw ,",
+   "conf": 58.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 36.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "=)\nCrs? (If this card is revealed from your QO <>\nhand, choose a card in your discard BURA\npile and Rejuvenate it.)\nXX Energy attack costing 2 stages.\nIf stopped, banish the top 2 cards of your opponent’s\nLife Deck.\nDAMAGE: 6 life cards.\nHIT: Raise your anger 2 levels.\n(Banish after use.)",
+   "conf": 89.6,
+   "n_words": 54
+  }
+ }
+}

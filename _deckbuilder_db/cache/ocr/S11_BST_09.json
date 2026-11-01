@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_09",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/09_Blue Combined Effort.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE COMBINED EFFORT",
+   "conf": 96.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "2\n7\n,\n7",
+   "conf": 9.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(J ENERGY COMBAT\n(This attack’s cost must be paid\nby an Ally you control, regardless of\nyour MP’s power stage.)\n2X Energy attack costing 4 stages.\nDamage from this attack cannot be modified.\nDAMAGE: 10 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 93.3,
+   "n_words": 71
+  }
+ }
+}

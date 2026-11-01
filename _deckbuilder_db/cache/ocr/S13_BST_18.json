@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_18",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/18_Namekian Head Lock.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HEAD LOCK C) U18\n> — rae 4",
+   "conf": 59.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT (| @m)\n. Physical attack. Soi Na\nIf your MP has 2 or less Traits, search your\ndiscard pile for a Styled card and Rejuvenate it.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent’s anger 2 levels.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 86.7,
+   "n_words": 74
+  }
+ }
+}

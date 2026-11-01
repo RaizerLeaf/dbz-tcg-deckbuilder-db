@@ -1,0 +1,17 @@
+{
+ "card_id": "S12_BST_01",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/01_Black Mist.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK MIST () R1",
+   "conf": 75.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ity } —\neH (You may banish this card from your hand as an action to\na3 : banish a Styled Event from your discard pile. If you do,\nBEL 4 play a copy of that Event.)\nPOWER: Discard a card from your hand.\nReturn this card to your hand.",
+   "conf": 87.3,
+   "n_words": 50
+  }
+ }
+}

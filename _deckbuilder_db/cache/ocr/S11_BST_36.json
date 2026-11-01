@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_36",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/36_Controlled Energy Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CONTROLLED ENERGY BURST é ) R36 |",
+   "conf": 73.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "M 2X Energy attack costing 2 stages.\nLower your opponent’s anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)",
+   "conf": 93.8,
+   "n_words": 28
+  }
+ }
+}

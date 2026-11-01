@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_40",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/40_Gotenks' Ghost Kamikaze Attack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOTENKS' GHOST KAMIKAZE ATTACK @a ) R40\n» » Ove ye",
+   "conf": 59.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n439\n3\n,\n,",
+   "conf": 4.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "oh (If this card is destroyed or Ome\nbanished from your Life Deck by one\nof your effects, you may banish it to draw a card.)\nXX Energy attack costing 2 stages.\nRaise your anger 1 level. Search your Life Deck or\ndiscard pile for an Ally with “Ghost” in the title\nand play it.\nDAMAGE: 5 life cards.\n|",
+   "conf": 92.4,
+   "n_words": 60
+  }
+ }
+}

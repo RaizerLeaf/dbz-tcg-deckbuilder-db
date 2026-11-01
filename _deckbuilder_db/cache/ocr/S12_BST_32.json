@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_32",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/32_Reinforcements.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "REINFORCEMENTS () R32",
+   "conf": 74.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n\n7\n,\n\n1\n\n0,",
+   "conf": 9.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "INN ‘i \\\n| POWER: Search your Life Deck 2m”\nor discard pile for an Ally and place\nit into play at 5 stages above 0.",
+   "conf": 78.4,
+   "n_words": 26
+  }
+ }
+}

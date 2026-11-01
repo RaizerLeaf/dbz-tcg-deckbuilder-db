@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_19",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/19_Orange Elbow Rush.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ELBOW RUSH C) U19.\ndaycare",
+   "conf": 50.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "5,",
+   "conf": 54.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(MW 2HyYSICAL COMBAT (eR)\n* Physical attack. COT”\nRaise your anger 1 level.\nDAMAGE: AT +3 stages.\nHIT: Search your Life Deck for a Styled Drill\nand place it into play.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.2,
+   "n_words": 62
+  }
+ }
+}

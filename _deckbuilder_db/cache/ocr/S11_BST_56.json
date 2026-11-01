@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_56",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/56_Buu - Abomination.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "= | BUU\n; ABOMINATION S56",
+   "conf": 62.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3,000,000\n2,300,000\n1,600,000\n1,200,000\n800,000\n600,000\n400,000\n200,000\n60,000\n30,000\n0",
+   "conf": 78.3,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "2st 60,000\n. ov 0\noo: After taking damage from an attack,\nRejuvenate 1.\nPOWER: > Physical attack. IML |\nChoose a card in your discard pile\nand shuffle it into your Life Deck.\nDISCLAIMER: Dragon Ball, Dragon\nDAMAGE: 6 stages. andl nee ced weed\nHIT: Raise your anger 2 levels sal ise Bavenat Tu cod as\nor Rejuvenate 2. faccatdaea verse echt hase",
+   "conf": 74.2,
+   "n_words": 64
+  }
+ }
+}

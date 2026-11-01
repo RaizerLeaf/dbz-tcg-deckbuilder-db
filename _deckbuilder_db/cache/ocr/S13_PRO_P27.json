@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P27",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P27_Namekian Confident Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CONFIDENT BURST C) P27",
+   "conf": 68.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n1",
+   "conf": 19.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "cS (Limit 1 per deck.)\nXX 2: Energy attack.\nDAMAGE: 4 life cards.\n\nHIT: Search your Life Deck for an Ally and place it into\nplay at 4 stages above O. If you have Gohan in play,\ninstead search your Life Deck and discard pile for\na total of 2 Allies and place them into play at\ntheir highest power stage.\nee",
+   "conf": 92.3,
+   "n_words": 62
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_30",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/30_Saiyan Massacre.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN MASSACRE @ F320",
+   "conf": 57.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7,\n,\n,\n,\n,",
+   "conf": 3.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(J ENERGY COMBAT\n2X Energy attack costing 2 stages.\nBanish an opponent’s Ally or Setup.\n@ : You may banish 4 cards from your discard pile.\nIf you do, Rejuvenate this card after use.\nDAMAGE: 6 life cards.\nHIT: Lower your opponent’s anger 2 levels.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all ownad by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.8,
+   "n_words": 76
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S12_BST_06",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/06_Blue Agility.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE AGILITY () U6\nee +t -* ———————s",
+   "conf": 54.1,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "fH (You may only have one “Blue Agility” attached.)\n\nfe 3 POWER: Attach to your MP. Lower your opponent's anger 2\n\nFE levels. While attached, your physical attacks deal +1 stage of\n| damage and gain “HIT: Lower your opponent's anger 1 level.”",
+   "conf": 85.3,
+   "n_words": 43
+  }
+ }
+}

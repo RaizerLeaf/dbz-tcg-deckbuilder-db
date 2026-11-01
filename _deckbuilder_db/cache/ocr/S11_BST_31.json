@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_31",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/31_Deflection Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEFLECTION DRILL On)",
+   "conf": 79.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "iw Ki\n(You may only have one “Deflection Drill” in play. As an action,\nyou may banish this card from your hand to gain 5 stages.)\n. * POWER: Use when an opponent's card effect would destroy\nor banish cards from the top of your Life Deck. Destroy that many\nf cards from the top of your opponent's Life Deck instead.",
+   "conf": 89.0,
+   "n_words": 61
+  }
+ }
+}

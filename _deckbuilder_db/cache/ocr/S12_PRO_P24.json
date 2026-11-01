@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P24",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P24_Red Brace.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED BRACE () P24",
+   "conf": 78.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n3\n2\n2\n,\n\n,",
+   "conf": 12.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "wy (70 2) \\—\n(/—\\) ENERGY COMBAT (FS\n(If this card is banished from\nyour Life Deck, gain 2 stages and\nyour opponent’s MP loses 2 stages.)\nStops an energy attack.\nRaise your anger 1 level.\nLower your opponent's anger 1 level.\n(Rejuvenate after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.6,
+   "n_words": 76
+  }
+ }
+}

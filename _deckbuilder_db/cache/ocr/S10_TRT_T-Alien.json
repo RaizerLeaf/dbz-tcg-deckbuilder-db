@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_TRT_T-Alien",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Traits)/T_Alien Trait.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "/ *",
+   "conf": 38.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "2\n,",
+   "conf": 6.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Cell Jr | i;\nCooler : %\nDodoria : E ‘\nFrieza 7 5\n\nGarlic Jr. Sy,\nGuldo\nJiece \\\n\nRecoome \\\nSalza f\n\nZarbon yt 4",
+   "conf": 60.2,
+   "n_words": 27
+  }
+ }
+}

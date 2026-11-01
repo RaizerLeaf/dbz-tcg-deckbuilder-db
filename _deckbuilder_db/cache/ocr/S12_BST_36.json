@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_36",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/36_Bojack's Galactic Buster.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BOJACK'S GALACTIC BUSTER @ ) R36 |\ngw Sl ll",
+   "conf": 57.5,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "8\n1\n\n,\n\n,\n\n,",
+   "conf": 5.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "DREN TTT Am\n\nSS) ENERGY COMBAT\n.\n\n2X Energy attack costing 3 stages.\n\nThis attack can only be stopped by an Energy\nCombat card. You may destroy a Setup or Ally to\nraise your anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Advance or lower your opponent’s MP 1 level.\n(Banish after use.)",
+   "conf": 88.9,
+   "n_words": 53
+  }
+ }
+}

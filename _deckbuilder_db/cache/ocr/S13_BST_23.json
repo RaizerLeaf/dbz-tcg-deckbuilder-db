@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_23",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/23_Orange 5-Finger Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE 5-FINGER BLAST ) U23,",
+   "conf": 68.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n\n7\n\n,\n2",
+   "conf": 3.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| ENERGY COMBAT ~~\n. 2X Energy attack costing 2 stages.\n\nRaise your anger 1 level. Lower your opponent’s\nanger 2 levels. If your MP has changed levels this\ncombat, search your discard pile for a Drill\nand place it into play.\n\nDAMAGE: 5 life cards.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.4,
+   "n_words": 80
+  }
+ }
+}

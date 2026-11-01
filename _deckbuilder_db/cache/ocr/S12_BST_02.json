@@ -1,0 +1,17 @@
+{
+ "card_id": "S12_BST_02",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/02_Black Research.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK RESEARCH a C2 |",
+   "conf": 89.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ale \\ ame\n5 a: (Villains only. If this card is destroyed from your Life Deck\naE 2 you may place it into play.)\n“33 POWER: If the highest power level on your MP’s Level 4 is 500,000\nor less, destroy the top 3 cards of your opponent's Life Deck. If your\nss” opponent controls no Setups, shuffle into your Life Deck after use.",
+   "conf": 86.3,
+   "n_words": 64
+  }
+ }
+}

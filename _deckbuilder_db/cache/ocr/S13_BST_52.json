@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_52",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/52_Gohan - Earth's Defender.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "12,000,000\n9,800,000\n7,000,000\n3,500,000\n1,000,000\n700,000\n500,000\n300,000\n100,000\n40,000\n0",
+   "conf": 61.7,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "JUU,UUU\niy >, 100,000\noo. —\noO’ ee 0\nco: Your Styled attacks deal +2 stages\nand +2 life cards of damage. Your attacks\ncannot be stopped by Event cards. )\nPOWER: Gain 4 stages. Rejuvenate 4.\nDraw a card.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 89.1,
+   "n_words": 79
+  }
+ }
+}

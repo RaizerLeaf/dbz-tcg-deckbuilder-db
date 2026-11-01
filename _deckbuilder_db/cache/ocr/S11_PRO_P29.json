@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P29",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P29_Allied Blitz.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ALLIED BLITZ | () P29\nOIG J MME. WAYS",
+   "conf": 44.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Mt A Energy attack costing 1 stage. Ce\nWhenever you performyan energy attack\nthis combat, your opponent skips their next\naction this combat.\nDAMAGE: 3 life cards.\nHIT: If your. MP is not/a Saiyan, then for the remainder\nof combat your Allies may make actions regardless of\nyour MP’s power stage.",
+   "conf": 88.9,
+   "n_words": 51
+  }
+ }
+}

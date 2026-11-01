@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_48",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/48_Spopovich - Enhanced.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "1 | SPOPOVICH E)\ni}. ENHANCED U48\n~ ie",
+   "conf": 56.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "500\n400\n\n300\n200\n4 100\n7 50\n25\n15\n10\n5\n0",
+   "conf": 90.3,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "poe 19\n=~ 5\nJ 5\na) TOR :\nPOWER: X Physical attack.\nDAMAGE: 3 stages.\nHIT: You may destroy an Ally. IML\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 87.5,
+   "n_words": 62
+  }
+ }
+}

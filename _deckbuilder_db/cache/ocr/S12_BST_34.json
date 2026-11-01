@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_34",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/34_Legendary Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "LEGENDARY BLAST ) R34\nON ee ae NNN",
+   "conf": 61.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 13.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(JSS 1\nee (You may banish this card from Ome\nyour hand when an opponent’s effect\nwould discard a card from your hand to draw a card\ninstead. Your opponent’s effects cannot discard\ncards from your hand this combat.)\n\nXX Energy attack.\n\nLower your opponent's anger 2 levels.\n\nDAMAGE: 3 life cards.\n\nHIT: Shuffle into your Life Deck after use.\na",
+   "conf": 86.8,
+   "n_words": 61
+  }
+ }
+}

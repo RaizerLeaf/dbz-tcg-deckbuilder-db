@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_03",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/03_Black Hop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK HOP ) U3",
+   "conf": 78.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n9\n2",
+   "conf": 27.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| EVENT\n. POWER: Stops a physical or\nenergy attack.\nThe next time a card is revealed from your hand\nthis combat, Rejuvenate 2 and banish the top 2 cards\nof your opponent's discard pile.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.6,
+   "n_words": 65
+  }
+ }
+}

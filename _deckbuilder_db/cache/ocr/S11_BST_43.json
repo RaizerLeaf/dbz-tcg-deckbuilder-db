@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_43",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/43_Piccolo's Lethal Chop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PICCOLO'S LETHAL CHOP ) R43",
+   "conf": 83.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(QOS 1)\n(Limit 1 per deck.) Ome\nXX 1: Physical attack.\nUnpreventable. You may shuffle a non-MP/non-Mastery\ncard in play back into its owner’s Life Deck.\nDAMAGE: 6 life cards or 6 stages.\n(Banish after use.)\na",
+   "conf": 86.8,
+   "n_words": 37
+  }
+ }
+}

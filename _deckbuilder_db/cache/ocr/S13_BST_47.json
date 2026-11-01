@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_47",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/47_Buu - Gotenks Absorbed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "= Buu",
+   "conf": 73.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "13,500,000\n7,000,000\n2,500,000\n1,900,000\n\n1,300,000\n900,000\n600,000\n300,000\n80,000\n50,000\n0",
+   "conf": 78.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "UU,UUL\n| 80,000\n\\\\ SAY ; 50,000\nTr /y y ’\nNe\n\\ 0\n% POWER: Use when one of your effects\nrequires you to discard 1 card from your\nhand. Reveal that card instead.\nPOWER: Banish a Styled attack from your (\ndiscard pile. Perform a copy of that attack.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 85.7,
+   "n_words": 90
+  }
+ }
+}

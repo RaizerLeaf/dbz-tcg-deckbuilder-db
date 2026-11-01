@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_08",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/08_Blue Security.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SECURITY ) ca",
+   "conf": 71.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "347 ,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "())4Q PHYSICAL, COMBAT (| Gy)\nStops a physical attack. Soi Na\nYou may banish an Ally you control.\nIf you do, search your Life Deck or discard pile\nfor a Styled Drill and place it into play.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 87.8,
+   "n_words": 68
+  }
+ }
+}

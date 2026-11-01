@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_11",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/11_Blue Barrage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE BARRAGE yc\nce Tn wey £ ia)",
+   "conf": 49.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "3\n3\n,\n1,",
+   "conf": 32.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| ENERGY COMBAT (f=¥)\n. 2X Energy attack costing 1 stage. ars”\nLower your opponent's anger 1 level.\n\nDestroy up to 2 cards from the top of your Life\nDeck. If you destroyed any cards, your next Styled\nattack this combat is considered a copied attack.\n\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 90.5,
+   "n_words": 81
+  }
+ }
+}

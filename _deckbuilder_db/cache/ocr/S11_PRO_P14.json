@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_PRO_P14",
+ "rel_path": "11_Set 11 (Escalation)/Escalation (Promos)/P14_Black Taunt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK TAUNT ) P14.",
+   "conf": 80.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1\n7\n0\n,",
+   "conf": 7.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(J =VENT\nPOWER: Your opponent destroys the\n\ntop X cards of their Life Deck. X = their current\nanger level + 1. Your opponent shuffles their hand into\ntheir Life Deck and draws the same number of cards.\n\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.9,
+   "n_words": 71
+  }
+ }
+}

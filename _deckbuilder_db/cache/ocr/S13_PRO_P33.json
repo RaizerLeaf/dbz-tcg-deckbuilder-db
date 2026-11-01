@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P33",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P33_Red Restraint.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED RESTRAINT () P33\na Ba WO",
+   "conf": 65.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "37\n1,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "[ }PHYSICAL COMBAT\n\n(If this card is discarded from your\nhand by a card effect, raise your anger 1 level,\ngain 3 stages and your next attack this combat\n\ndeals +2 life cards of damage.)\nW Stops a physical attack.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.9,
+   "n_words": 71
+  }
+ }
+}

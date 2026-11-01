@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_PRO_P29",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P29_Torturous Volley.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TORTUROUS VOLLEY ; ) P29 |\n=_—_~ ep",
+   "conf": 60.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "3\n,\n1,",
+   "conf": 23.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "DREN TTT Am\nSo) ENERGY COMBAT\nX* 2: Energy attack.\nChoose a card in your discard pile and Rejuvenate it.\n§2: |\\f you have 2 or less Traits, Remain 1.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+   "conf": 83.0,
+   "n_words": 37
+  }
+ }
+}

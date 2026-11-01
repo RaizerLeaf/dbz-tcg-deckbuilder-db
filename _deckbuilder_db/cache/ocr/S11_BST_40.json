@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_40",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/40_Buu's Chocolate.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BUU'S CHOCOLATE ae R40 |\na ee",
+   "conf": 64.7,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "| '\n(Limit 1 per deck. Whenever this card leaves play, banish the\n| card “Buu’s Chocolate” was attached to.)\nPOWER: Attach to a Drill in play. Gain control of that Drill and it\nloses all effects. While attached, you may banish this card as an\n— action to raise your anger 1 level and your opponent loses 3 stages.",
+   "conf": 93.2,
+   "n_words": 60
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_58",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/58_Vegito - Boastful.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGITO",
+   "conf": 91.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "12,000,000\n8,000,000\n3,000,000\n1,300,000\n900,000\n700,000\n300,000\n100,000\n80,000\n40,000\n\n0",
+   "conf": 60.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "rd aN 100,000\n_ 80,000\n@ 40,000\nNUR ;\noo: Your energy attacks deal + 1 life card.\n% POWER: Use when one of your effects\nrequires you to discard 1 card from your\nhand during combat. Rejuvenate 2.\nPOWER: > 1: Energy attack.\nRaise your anger 1. Bal Z, Dagon Bal GT end Dragon\n| DAMAGE: 4 life cards. rian Aton Fe\nHIT: Search your Life Deck for a Styled + iiitaeetautecstata",
+   "conf": 77.0,
+   "n_words": 73
+  }
+ }
+}

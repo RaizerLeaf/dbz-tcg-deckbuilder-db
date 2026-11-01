@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P30",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P30_Orange Distracting Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YRANGE DISTRACTING DRILL a P30 |",
+   "conf": 79.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": ii (You may discard this card from your hand to perform a\n\n: g3 non-Styled physical attack dealing 3 stages of damage.)\n\n\"Bs co: Your AT damage is considered to be 4 for your Styled\n| attacks.",
+   "conf": 87.4,
+   "n_words": 38
+  }
+ }
+}

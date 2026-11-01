@@ -1,0 +1,22 @@
+{
+ "card_id": "S12_BST_20",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2/20_Orange Quick Toss.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE QUICK TOSS ) U20",
+   "conf": 78.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n,\n1,",
+   "conf": 8.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(RS) ENERGY COMBAT (B®)\nas * Energy attack costing 1 stage. Soi Na\nLower your opponent's anger 1 level.\n@: This attack stays in play to be used a second\ntime this combat.\nDAMAGE: 3 life cards.\nHIT: Gain 2 stages.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.1,
+   "n_words": 75
+  }
+ }
+}

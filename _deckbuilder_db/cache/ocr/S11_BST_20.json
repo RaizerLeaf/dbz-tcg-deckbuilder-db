@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_20",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/20_Orange Energy Ball.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY BALL C) C20\nye",
+   "conf": 65.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n6\n7\n0,",
+   "conf": 23.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(VG ENeAaGY COMBAT | (eR)\nXX Energy attack costing 2 stages. nT”\nYou may destroy a Drill or Setup you control to\nsearch your Life Deck for a Styled Drill or\nStyled Setup and place it into play.\nDAMAGE: 4 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.0,
+   "n_words": 76
+  }
+ }
+}

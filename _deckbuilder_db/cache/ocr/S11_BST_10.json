@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_10",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/10_Blue Energy Ricochet.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY RICOCHET a\nee ia | |) |, | ee",
+   "conf": 61.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n\n,\n2,\n,\n1",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "()4, =NeRGY comBAT (Gg)\nStops an energy attack. COTY\nLower your opponent’s anger 2 levels.\nUntil the end of the turn, after you use a Setup,\nlower your opponent's anger 1 level.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 88.9,
+   "n_words": 63
+  }
+ }
+}

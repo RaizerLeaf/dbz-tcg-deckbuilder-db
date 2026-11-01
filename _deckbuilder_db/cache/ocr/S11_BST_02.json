@@ -1,0 +1,22 @@
+{
+ "card_id": "S11_BST_02",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/02_Black Glare.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK GLARE en as\n_ =",
+   "conf": 55.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4,\n,",
+   "conf": 14.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(J EVENT\n\n(Limit 2 per deck.)\n\nPOWER: Your opponent plays with their hand\n\nrevealed until the start of your next turn.\n@: \\f you have 2 or less Traits, search your Life Deck\n\nfor a Styled Setup or Styled Drill and play it.\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.8,
+   "n_words": 76
+  }
+ }
+}

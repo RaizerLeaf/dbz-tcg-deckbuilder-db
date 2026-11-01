@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P17",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P17_Black Capture.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK CAPTURE () P17",
+   "conf": 69.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 31.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| @ CNERGY COMBAT\n. 2X Energy attack costing 3 stages.\nDAMAGE: 5 life cards.\nHIT: Attach to your opponent’s MP. While attached,\n\nat the beginning of each turn, your opponent banishes\n\nthe top card of their Life Deck. Banish this card\nwhen your opponent deals critical damage.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.2,
+   "n_words": 78
+  }
+ }
+}

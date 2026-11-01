@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P21",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P21_Orange Energy Catch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY CATCH C) P21",
+   "conf": 75.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n,\n,",
+   "conf": 6.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "@ ENERGY COMBAT (RSP)\n. Stops an energy attack. Soi Na\nRaise your anger 1 level.\nFor the remainder of combat, all of your\nattacks deal +2 stages of damage.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.7,
+   "n_words": 61
+  }
+ }
+}

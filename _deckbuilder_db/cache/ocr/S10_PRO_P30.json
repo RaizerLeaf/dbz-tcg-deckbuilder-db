@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_PRO_P30",
+ "rel_path": "10_Set 10 (Revelation)/Revelation (Promos)/P30_Stare Down.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "STARE DOWN ? ) P30\nRAN SN LN  x.ltiCOGYYf/",
+   "conf": 55.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n4\n,",
+   "conf": 28.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "— Some A\n| ~%, Z\n= \\ f Pa,\n@ —=VONT\n, (Villains only.)\nPOWER: Look at your opponent’s-hand and\nchoose a card. Your opponent discards that card.",
+   "conf": 62.8,
+   "n_words": 29
+  }
+ }
+}

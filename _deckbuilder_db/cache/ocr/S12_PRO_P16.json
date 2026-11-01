@@ -1,0 +1,17 @@
+{
+ "card_id": "S12_PRO_P16",
+ "rel_path": "12_Set 12 (Movie Collection 2)/Movie Collection 2 (Promos)/P16_Blue Sowrd Stance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SWORD STANCE () P16",
+   "conf": 83.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "za: ° 4 rN =\n: ai POWER: XX Physical attack.\niti DAMAGE: 3 life cards or 3 stages.\n\nm8 S @ HIT: Shuffle into your Life Deck after use.",
+   "conf": 71.2,
+   "n_words": 30
+  }
+ }
+}

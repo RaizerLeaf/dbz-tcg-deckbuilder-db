@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_41",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/41_Vegito's Effortless Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGITO'S EFFORTLESS DEFENSE ) R41\nSena \\06lUC( (“‘(_‘iléiOCti(i|dLDi Te",
+   "conf": 53.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "oS 9 POWER: Stops a physical or\nenergy attack.\n\nYou may discard a card from your hand. If you do,\nraise your anger 1 level and this card stays in play to\nbe used a second time this combat. If you discarded a\n\nDrill, you may place it into play.\n(Banish after use.)",
+   "conf": 92.5,
+   "n_words": 53
+  }
+ }
+}

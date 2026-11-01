@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_BST_27",
+ "rel_path": "13_Set 13 (Fusion)/Fusion/27_Red Elbow Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ELBOW BLOCK () C27\n~N |",
+   "conf": 67.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3 ,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(S))PHYSICAL COMBAT ( i) |\nYW Stops a physical attack.\nRaise your anger 1 level. Rearrange the\nbottom 5 cards of your discard pile.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 87.6,
+   "n_words": 55
+  }
+ }
+}

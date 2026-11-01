@@ -1,0 +1,22 @@
+{
+ "card_id": "S13_PRO_P17",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P17_Blue Protective Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "(4\n\n1 ¢\n\nLa4y\nPK SAY",
+   "conf": 25.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n4\n3\n,",
+   "conf": 34.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ". eco: Your Opponent needs 6 anger to advance a |\n; personality level.\nPOWER: You may discard a Physical Combat\n_ card from your hand to stop an energy attack\n‘ or an Energy Combat card to stop a physical\nattack. If you discarded a Blue card, you\nmay raise or lower a player’s anger 1.\nMASTERY\n. DISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super\nare all owned by Funimation, Toei Animation, Fuji T.V.and Akira Toriyama. This\ncard game is a fan-mada, non-profit project created for antertainment\npurposes only. Please support the original source material.",
+   "conf": 89.9,
+   "n_words": 102
+  }
+ }
+}

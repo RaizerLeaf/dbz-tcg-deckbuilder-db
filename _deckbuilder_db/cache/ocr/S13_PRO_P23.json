@@ -1,0 +1,17 @@
+{
+ "card_id": "S13_PRO_P23",
+ "rel_path": "13_Set 13 (Fusion)/Fusion (Promos)/P23_Blue Overpowering Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "3LUE OVERPOWERING DRILL ©) P23",
+   "conf": 68.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "i: (Villains only. This card is not discarded when advancing a level.)\nce ; co: Whenever you stop an attack, you may raise a player's\nFg anger 1 level. Your first copied attack each combat\ncannot be stopped.",
+   "conf": 86.7,
+   "n_words": 38
+  }
+ }
+}

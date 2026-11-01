@@ -1,0 +1,17 @@
+{
+ "card_id": "S11_BST_06",
+ "rel_path": "11_Set 11 (Escalation)/Escalation/06_Blue Rivalry Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE RIVALRY DRILL @ rc |",
+   "conf": 71.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": fH co: Your opponent’s attacks deal -1 stage and -1 life card\n32 of damage. If your MP is level 2, your opponent\n\"ss Oo cannot use effects that change your level.\n\nsi",
+   "conf": 82.3,
+   "n_words": 34
+  }
+ }
+}
