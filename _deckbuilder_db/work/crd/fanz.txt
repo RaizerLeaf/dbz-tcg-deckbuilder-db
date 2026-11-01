@@ -1,0 +1,1044 @@
+                                                        A Complete Resource
+     DRAGON BALL Z TCG                                   for Current Rulings,
+                                                          Card Legality, and
+     COMBINED CURRENT                                     Errata for the Fan-
+                                                        Driven Continuation
+
+RULINGS DOCUMENT (CRD)                                          of the
+                                                          Dragon Ball Z TCG
+
+
+
+                             Panini V 6.0 (6/30/2017)
+                             FanZ V 1.15.0 (6/4/2025)
+
+
+
+
+     Compiled by Dan Green
+                                       Dragon Ball Z TCG Combined Current Rules
+
+
+Final Panini update: June 20th, 2017
+Latest FanZ update: June 4th, 2025
+     This document contains advanced rulings and clarifications for the DBZ TCG and its fan-driven continuation, “FanZ”.
+
+ Since the game’s official retail demise in 2017, a dedicated group of former developers, judges, and pillars of the community
+   came together to help the game live on through virtual card releases. This continuation has maintained the rulings and
+  principles of the previous official rulings document, but with the release of more cards, it has also required the addition of
+              new rulings and errata to maintain a fair, fun, and balanced game true to the intent of the original.
+
+The purpose of this combined rulings document is to provide a single location for all official PanZ and FanZ current rulings. If
+you are new to the game, the initial section will contain all essential “core rulebook” rules that have been added to the game
+with FanZ. Beyond that section, many of these rules may seem superfluous or overly complex. For the most part, you will only
+   need to refer to the CRD for specific cards, intricate scenarios, or balance-based deck building restrictions. For ordinary
+ gameplay situations, refer to Section 1 of this document as well as the Dragon Ball Z: Awakening rulebook (v3.0) – available
+                                                          for download at:
+                     https://www.maindeck.games/wp-content/uploads/2020/06/panini-rule-book-3-0.pdf
+
+
+
+                                              Panini Rulings and FanZ Rulings
+
+ The rulings in this document are intended to be used in all gameplay environments where FanZ cards are legal. That said, in
+ the interest of posterity, we have still decided to preserve an indication of which rulings originated in the official Panini CRD
+  and which were added in the fan-driven continuation. To that end, all official Panini CRD elements will be presented with a
+                             light blue background, and all FanZ elements will have no background.
+
+
+                                                       Latest Additions
+
+                                 The latest additions to this document are noted with red text.
+                                                     I. New Core Rule Additions
+
+                   The following on-card elements have been added to the game with various FanZ releases.
+
+Traits: Beginning with Set 8, Celestial Tournament, all Main Personality and Ally cards have been assigned one or more
+Trait(s) representative of their heritage, origin, status, and/or fighting style. All Personalities printed in FanZ have any
+relevant Trait Icons printed on their cards. Traits have no inherent in-game effect, but are relevant in the following situations:
+
+        Using a Saiyan or Namekian Mastery: Traits replace the “heritage” rule from PanZ, meaning in order for a
+        particular Main Personality to be used with a Saiyan or Namekian mastery, that Main Personality must have the
+        relevant (Saiyan or Namekian, respectively) trait on all four of their MP’s chosen levels.
+
+        Using a “Traited” Effect: Some card effects will reference a particular trait, followed by a colon. In order to use
+        that effect, the personality (MP, or Ally, in the case of attack cards with traited effects) using that effect must have
+        the listed trait on their current level. Otherwise, that effect cannot be used.
+
+        Using a “Traited” Card: Some cards have parenthetical text stating ([Trait symbol] only.) These cards may only be
+        included in a deck if that trait is present on all four of their MP’s chosen levels.
+
+        Fused MPs and Allies: Main Personalities with the Fusion trait are unable to include Allies in their Life Deck that
+        match the characters from which they are fused. The full list is as follows:
+                 Vegito: Cannot include Goku or Vegeta allies.
+                 Gogeta: Cannot include Goku or Vegeta allies.
+                 Gotenks: Cannot include Goten or Kid Trunks allies.
+                 Kefla: Cannot include Caulifla or Kale allies.
+                 Fused Zamasu: Cannot include Goku Black or Zamasu allies.
+
+The Traits are listed below, along with any pre-FanZ Personalities that have retroactively gained that Trait:
+        Alien: Burter, Captain Ginyu, Cell, Cell Jr., Cooler, Dodoria, Frieza, Garlic Jr., Guldo, Jiece, Recoome, Salza, Zarbon
+
+        Android: Android 13, Android 14, Android 15, Android 16, Android 17, Android 18, Android 19, Android 20, Cell, Cell Jr., Dr. Wheelo,
+        Mercenary Tao
+
+        Earthling: Android 17, Android 18, Android 20, Baba, Bulma, Cell, Cell Jr., Chaozu, Chi Chi, Dr. Brief, Dr. Wheelo, Gohan, Goku,
+        Hercule, Icarus, Jimmy Firecracker, Korin, Krillin, Maron, Master Roshi, Mercenary Tao, Puar, Oolong, Ox King, Tenshinhan,
+        Trunks, Turtle, Yajirobe, Yamcha
+
+        Fusion: (All Fusion Personalities have been released in FanZ)
+
+        God: Beerus, Kami, Goku – Super Saiyan God , Mr. Popo
+
+        Majin: (All Majin Personalities have been released in FanZ)
+
+        Namekian: Captain Ginyu – Frog, Cell, Cell Jr., Gohan, Kami, Lord Slug, Nail, Piccolo
+
+        Saiyan: Broly, Captain Ginyu – Body Change, Cell, Cell Jr., Gohan, Goku, Nappa, Paragus, Raditz, Trunks, Turles, Vegeta
+New Text Changes, Keywords, and Mechanic Icons: Beginning with Set 14, Showdown, present and future card
+text has seen some cleaning up to preserve space and improve readability, and new Keywords have been added to aid in this
+effort. These changes and keywords are listed below:
+
+        Text Change - Stage Costs: Attacks with a power stage cost now simply indicate this with a number and colon
+        following the Attack Symbol rather than writing it out, e.g., “Energy attack costing 2 stages” has been replaced with
+        “2: Energy Attack”.
+
+        Text Change - Anger: Instances that would have referred to “anger level” now simply refer to “anger”, e.g., “Lower
+        your opponent’s anger 1 level” now simply reads “Lower your opponent’s anger 1.”
+
+        New Keyword - Focused: An attack with the new keyword Focused has the following effect: “This attack can only
+        be stopped by a physical combat or energy combat card.”
+
+        New Keyword – Remain X: An attack with the keyword Remain followed by a number will, when played, stay in
+        play to be used X additional times this combat. For example, a card with Remain 1 has “This card stays in play to be
+        used a second time this combat”, while a card with Remain 2 would have “This card stays in play to be used a second
+        and third time this combat”, and so on.
+
+        New Keyword - Unstoppable: An attack with the keyword Unstoppable has the following effect: “This attack
+        cannot be stopped.”
+
+        New Keyword - Unpreventable: An attack with the keyword Unpreventable has the following effect: “Damage
+        from this attack cannot be prevented.”
+
+        New Keyword - Unmodifiable: An attack with the keyword Unmodifiable has the following effect: “Damage from
+        this attack cannot be modified.”
+
+                New Keyword and Mechanic Icon - Desperation: A player is considered “in Desperation” when they
+                have exactly zero cards in hand while the effect is resolving. Similar to Trait symbols, the Desperation icon
+                pictured to the left, followed by a colon, means “If this character is in Desperation, use the following effect”.
+                (Note: if such an effect is on a card currently being played, that card is not currently in your hand as its
+                effects are resolving).
+
+        New Keyword – Foresee X: When a player uses Foresee, they look at a certain number of cards at the top of their
+        deck. They can leave these cards where they are or put them on the bottom of the deck. If a player can Foresee more
+        than one card, they can put as many as they want at the bottom or top of their deck in any order.
+                                                     II. General Rulings
+
+                      These rulings address a variety of general scenarios that can come up during play.
+         Rulings in light blue are from the final official Panini CRD, all other rulings have been implemented in FanZ.
+Ally Uniqueness, Non-Unique Allies, and Naming Allies: Some Ally characters have multiple cards available with the
+same name, but different subtitles. Your Life Deck may only contain one copy of an Ally by name, regardless of the subtitle.
+
+  Example – You may not include both Bulma – Genius and Bulma – Taking a Drag in the same deck because they share the
+                                                   same Card Name.
+Cell Jr. Allies are considered Non-Unique – you may include 1 copy of each Cell Jr. Ally in your deck.
+
+When a card effect requires naming an Ally, you do not need to name the Ally’s subtitle. For example, “Bulma Ally” would be
+acceptable. When a Unique Ally is named in this way, any Ally with that name is considered a match. When a Non-Unique ally
+is named in this way, all allies that share that card name are considered a match.
+
+Considered to be Named or Styled: Cards that are “considered to be Named” take on the name of your MP for all card
+effects. Similarly, cards that are “considered to be Styled” take on the Style of your Mastery.
+
+   Example – If your MP is Frieza, Black Back Strike would count as a “Frieza Named card” for Frieza’s Supernova. Defiant
+                                   Challenge would be able to search for Saiyan Freedom.
+Copied Attacks: When you copy an attack, treat it as if you played an invisible copy of the card yourself. You do not receive
+any modifiers that the opponent applied to the attack, and AT damage is calculated from your personality’s power level. If you
+copy an attack that stays on the table to be used again, it is not present on the table for a second use. If you copy an attack
+that attaches, the invisible copy does not attach.
+
+Damage Calculation: When taking damage, Power Stages that have been converted to Life Cards may be prevented by
+effects that prevent Life Cards of damage (such as Endurance). However, effects that modify damage calculation (such as
+Orange Hiding Drill) take place before the conversion, and they do not apply to power stages of damage.
+
+Defending Attacks: Whenever your opponent plays an attack, you may always play or use one “shield icon” card.
+
+ Example – A) Your opponent plays an attack that would already be stopped by Time is a Warrior’s Tool. You may still play or
+ use a “shield icon” card in defense. B) Your opponent plays Krillin’s Destructo Disk. You may still play or use a “shield icon”
+                                                  card in attempted defense.
+Discarding Damage: Life Cards of damage are always inherently discarded. When an attack such as Red Left Bolt or Saiyan
+Cheap Shot causes damage to be banished, you may use Endurance against that attack. Similarly, any Dragon Balls discarded
+during damage would still be placed on the bottom of your Life Deck and require a replacement discard.
+
+Drill Memory: Instant Powers and “Activated” Powers of Styled Drills can only be used once per turn, regardless of them
+leaving play and re-entering play, even if a different copy of the card had been used previously and a new copy has replaced
+it. Non-Styled Drills with Instant or “Activated” Powers may only be used once per combat, but do not have “memory” and may
+be re-used if they leave and enter play. Drills with Continuous powers may use their Continuous powers as long as the drill is
+in play, regardless of them leaving and re-entering play.
+
+ Example – You use Orange Possession Drill. Orange Possession Drill is then destroyed, and in the same combat, you use an
+ effect to search for another copy of Orange Possession Drill. Since it is a Styled Drill and you have already used a Drill with
+                       that name this turn, you may not use the power of Orange Possession Drill again.
+Dragon Ball Immunity: Whenever a card effect allows you to “name” a card, Dragon Balls may not be named.
+
+              Example – You may not name a Dragon Ball with the immediate effect of Android 20’s Domination.
+Dragon Balls: When taking damage, Dragon Balls that are banished (due to another copy being in play) do not require a
+replacement discard.
+
+Effects with Stipulations: Cards that have a stipulation “to” perform an effect require that stipulation to be met in order for
+the effect to occur.
+
+ Example – You play Battle Pausing. You must banish a card from your hand in order to draw the top 2 cards of your discard
+                                                           pile.
+Similarly, effects that retroactively check for a specific condition must actually meet the requirement.
+
+Example – You discard Blue Guard to the effect of Blue Protective Mastery to stop an attack. You elect to use the replacement
+ effect of Blue Guard to banish itself instead. You would not be able to raise or lower a player’s anger 1 level, as Blue Guard
+                                                      was not “discarded”.
+Legal Zones: Cards that you do not own may only be controlled while they are in play. Cards that you do not own may never
+enter your Life Deck, Banished Zone, discard pile, or hand.
+
+ Example – You play Black Reflection, targeting your opponent’s Devastating Blow. Your opponent defends with Black Delay,
+ which attempts to return Devastating Blow to your hand. Since you do not own Devastating Blow, it is not returned to your
+                                                          hand.
+
+
+Future Gohan: Future Gohan is a unique Main Personality – his Main Personality levels cannot be mixed with other Gohan
+personality levels that are not Future Gohan, however, his Life Deck may contain Gohan Named Cards.
+
+Naming Cards: When naming non-Ally cards for a card effect, the exact card title must be named. For clarifications
+regarding naming Ally cards, see “Ally Uniqueness, Non-Unique Allies, and Naming Allies.”
+
+Non-visible Game Zones: (AKA “The Hidden Zone Rule”) Whenever a card moves to a non-visible game zone (such as a
+player’s hand or Life Deck), it ceases to resolve any remaining sentences/effects. Similarly, you would cancel any referential
+floating effects that target a card that has moved into a non-visible game zone. However, effects or parenthetical text that
+specifically reference leaving play/changing zones in any way (such as Kami – Guardian, Namekian Knee Block, Tenshinhan’s
+Preparation, Cell Jr. – Escaping, etc.) still carry out their text.
+
+  Example A – You discard Blue Lifting Drill to the effect of Piccolo – Combat Stance. Since Blue Lifting Drill has moved to a
+ non-visible game zone (your Life Deck) while Rejuvenating from Piccolo’s effect, it ceases to resolve any remaining effects
+                                         (and thus would not place itself into play).
+Example B – You use Orange Nudge to stop an attack, and its immediate effect destroys one of your Drills and places it in your
+ discard pile. At the end of combat, that copy of the destroyed Drill would be placed into play due to Orange Nudge’s floating
+  effect. However, if that copy of the destroyed Drill had moved into a non-visible game zone (such as your hand), you would
+      cancel the referential floating effects of Orange Nudge (and thus the destroyed Drill would not be placed into play).
+Example C – Your Kami – Guardian is shuffled into your Life Deck by a card effect. Even though he is moving to a hidden zone,
+                      Kami’s “when leaving play” effect still allows you to search for a Dragon Ball.
+
+
+Parenthetical Text: Any text on a card that is in parenthesis. This text is not considered an effect of the card or a part of the
+text box and is treated independently of the card it is on. Any effects created by parentheses are considered to not have a
+card type. These effects indicate additional ways the card interacts with game mechanics. Parenthetical effects such as
+“banish after use” cannot be interacted with or superseded in any way.
+
+Text-Box: When a card checks the contents of the text-box of another card for quoted text, that condition is met even if that
+text is not a standalone word.
+Example – Beerus - Impulsive can search for a card with “Destroy” or “Banish” in the text-box. A card with “destroyed” or
+“banished” in the text box would also meet this criteria.
+
+
+Timing – Attack Sequence: The sequence of an attack step is as follows:
+
+              1) Pay any costs of the attack.
+        2) Use any immediate effects of the attack.
+        3) Opponent may play or use one shield icon card and use its immediate effects. It is then
+                  discarded/banished (if applicable).
+        4) Calculate and deal any unstopped or unprevented damage.
+        5) Resolve any floating or card effects that refer to the damage being dealt, such as “If you are dealt
+                  damage” or “if you are dealt critical damage”, etc.
+        6) Use any HIT effects.
+        7) If Critical Damage was dealt, you may choose a Critical Damage effect to resolve.
+        8) The attack is then discarded/banished (if applicable).
+
+Timing – Competing Timings: When you have multiple effects to resolve with the exact same timing, you may choose the
+order in which they occur. If both players have effects to resolve with the exact same timing, the player who initiated combat
+resolves all effects first.
+
+Example A – You have Blue Overpowering Drill and Blue Positioning Drill in play, and you stop an attack. You may resolve the
+                  effects of Blue Overpowering Drill and Blue Positioning Drill in any order you choose.
+ Example B – You declare combat and activate the power of Krillin – Ready. On your opponent’s next action, he also activates
+  the power of his Krillin – Ready. Later in combat, a card is discarded from a hand. You would use the ”next time” effect of
+                                 Krillin – Ready first, then your opponent would do the same.
+Timing – Entering and Leaving Combat: Effects that take place “when entering combat” are not considered to be “during
+combat”. Effects that take place “at the end of combat” are considered to be “during combat”.
+
+Timing – Order of Effects: When you play or use a card, resolve its immediate effects in the order listed on the card (one
+sentence at a time). Then, discard or banish the card (if applicable).
+
+ Example – You play Namekian Wish. Resolve the first sentence, which is “End Combat.” Next, choose X cards in your discard
+  pile and Rejuvenate them. You do not gain anger from the effect of Namekian Knowledge Mastery, as combat has already
+                                                          ended.
+Timing – Special Timings: Effects that take place with a contextual timing (i.e. “whenever,” “if,” “after,” etc.) take place
+immediately after finishing the resolution of a sentence.
+
+Example A – You play Namekian Right Throw and resolve its first sentence by shuffling a Dragon Ball into your Life Deck. After
+completing that, Namekian Knowledge Mastery’s “whenever” effect raises your anger 1 level for shuffling a card into your Life
+             Deck. Then, proceed to the next sentence of Namekian Right Throw and raise your anger 2 levels.
+ Example B – You activate Black Devious Mastery by discarding Black Corruption. Resolve the first sentence of Black Devious
+  Mastery by banishing the bottom two cards of your opponent’s discard pile. Then, Black Corruption’s “if” effect banishes the
+ top two cards of your opponent’s Life Deck. Finally, complete the next sentence of Black Devious Mastery and discard a card
+                                                  from your opponent’s hand.
+                                                   DEFUNCT RULINGS
+These rules have been retired from the fan-driven continuation of the game. The reasoning for each rule’s retirement is listed
+                                                      below the rule.
+
+
+
+Defunct Ruling - Drill Powers: Drill Powers may only be activated once per combat, but may be used again whenever
+they leave and re-enter play.
+
+The Drill Powers rule has been replaced with the Drill Memory rule as a check on the power of overly recyclable drills.
+                                           III. Individual Card Rulings and Errata
+
+  A number of cards have benefited from specific ruling on how their effects are to be carried out, and another set of cards
+have required text modifications (Errata) to address either functionality or balance concerns. Cards are listed by set, and each
+ card will either be a [RULING] or [ERRATUM], with the latter displaying a previous text followed by the updated version. Many
+ cards with Errata have had Most Recent Printing (MRP) versions with corrected text – those versions will be noted alongside
+                                                          their Errata.
+      Rulings/Errata in light blue are from the final official Panini CRD, all other rulings have been implemented in FanZ.
+                                                        Premiere Set
+
+[RULING] S2 Vegeta – Villainous and S3 Vegeta – Empowered: These Powers only apply to attacks that raise your
+anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger, the modifier is not applied.
+
+[ERRATUM] S8 Goku – Super Saiyan
+Original Text: “POWER: Search your Life Deck, discard pile, and Banished Zone for a total of 5 Drills and place them into
+play.”
+Updated Text: “POWER: Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them
+into play.”
+(MRP: Evolution P11 Goku – Super Saiyan)
+
+[ERRATUM] S12 Gohan - Armored
+Original Text: “∞: Your Styled attacks deal +3 Life Cards of damage. When one of your effects raises your anger, you may
+shuffle 1 card with “anger” in the text box from your discard pile into your Life Deck.”
+Updated Text: “∞: Your Styled attacks deal +3 Life Cards of damage. Ϟ POWER: Use when one of your effects raises your
+anger. You may shuffle 1 card with “anger” in the text box from your discard pile into your Life Deck.”
+(MRP: None)
+
+[RULING] S18 Frieza - Transformed: This effect is considered a copied attack.
+
+[RULING] S25/R145 Saiyan Empowered Mastery: Raise your anger 1 level for each Styled card that is Rejuvenated.
+
+[ERRATUM] S30/R131 Namekian Knowledge Mastery
+Original Text: “∞: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a
+Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be
+captured by a critical damage effect.”
+Updated Text: ““∞: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise
+your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent’s Life
+Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.”
+(MRP: Evolution P1 Namekian Knowledge Mastery)
+
+[RULING] S37 Black Targeting Drill: Your effects that target specific cards to be discarded are not affected by Black
+Targeting Drill. For example, Stare Down would discard the chosen card.
+
+[ERRATUM] S65 Blue Guard
+Original Text: “(If this card is discarded from your hand by a card effect, you may banish it instead to draw a card.)”
+Updated Text: “(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card.)”
+(MRP: Evolution P9 Blue Guard, Awakening S50 Blue Guard)
+FanZ Updated Text: “(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead
+to draw a card.)”
+(MRP: Movie Collection 3 P38 Blue Guard)
+
+[ERRATUM] S96 Black Smoothness Drill
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[ERRATUM] C15 Black Corruption
+Original Text: “(If this card is discarded from your hand, Banish the top 2 cards of your opponent’s Life Deck.)”
+Updated Text: “(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of
+your opponent’s Life Deck.)”
+(MRP: Evolution P3 Black Corruption, Awakening S125 Black Corruption)
+
+[ERRATUM] C19 Black Punishment
+Original Text: “HIT: Until the start of your next turn, whenever a card is banished your opponent destroys the top card of his
+Life Deck.”
+Updated Text: “HIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the
+top card of his Life Deck.”
+(MRP: Evolution P2 Black Punishment)
+
+[ERRATUM] C35 Namekian Right Throw
+Original Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do, raise your anger 2 levels.”
+Updated Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do and your MP has 2 or less
+Traits, raise your anger 2 levels.”
+(MRP: None)
+
+[RULING] U6 Captain Ginyu – Body Change and U7 Captain Ginyu - Frog: These Powers only prevent “discarding” an
+Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are not prevented.
+
+[ERRATUM] U86 Namekian Flinch
+Original Text: “If your MP is level 3 or higher search your Life Deck for a Dragon Ball and play it.”
+Updated Text: “If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.”
+(MRP: None)
+
+[ERRATUM] U113 Overpowering Attack
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[ERRATUM] U114 Quickness Drill
+Original Text: “∞: When entering combat, you may discard a card from your hand to place the bottom card of your discard
+pile into your hand.”
+Updated Text: “Ϟ POWER: Use when entering combat. You may discard a card from your hand to place the bottom card of
+your discard pile into your hand.
+(MRP: None)
+
+[ERRATUM] U117 Goku’s Kaio-Ken
+This Card Gains: “(Banish after use.)”
+(MRP: None)
+
+[ERRATUM] R121 Namek Dragon Ball 7
+Original Text: “Choose 3 cards from your discard pile and place them on top of your Life Deck. Destroy the top 3 cards of
+your opponent’s Life Deck.”
+Updated Text: “Choose 3 cards from your discard pile and place them on top of your Life Deck or Destroy the top 3 cards of
+your opponent’s Life Deck.”
+(MRP: None)
+
+[RULING] R124 Black Disorienting Blow: Hero/Villain only cards and Named cards are for deck construction purposes only,
+and may be targeted regardless of your MP’s name or Alignment. You may not play Events that have a contextual timing, such
+as Time is a Warrior’s Tool or Heroic Energy Sphere.
+
+[RULING] R125 Black Reflection: After resolving the attack, treat the targeted card as though it was played by your
+opponent. If it is banished after use, it will return to your opponent’s Banished Zone. If it is discarded after use, it returns to
+your opponent’s discard pile. If it would be shuffled into a Life Deck after use, your opponent shuffles it into their Life Deck.
+You may target any attack card, including Setups that perform attacks. You may not target cards that conditionally perform
+attacks, such as Allies.
+
+[ERRATUM] R126/P16 Black Scout Maneuver
+Original Text: “(Banish after use.) POWER: Name a Physical Combat, Energy Combat, or Event card. Your opponent searches
+his Life Deck for all copies of that card and banishes them.”
+Updated Text: “POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent’s Life Deck for all
+copies of that card and banishes them. (Banish after use.)”
+(MRP: Evolution P7 Black Scout Maneuver)
+
+[ERRATUM] R129/P18 Blue Terror
+Original Text: “Search your Life Deck for a non-Dragon Ball card and place it into your hand.”
+Updated Text: “[God Trait]: Search your Life Deck for a non-Dragon Ball card and place it into your hand.”
+(MRP: Revelation R13 Blue Terror)
+
+[RULING] R138 Orange Searching Maneuver: Search for the Drill immediately, and set it aside to be placed into play at the
+end of combat. If it is unable to enter play at that time, it remains outside of play (separate from the Banished Zone) until the
+game ends.
+
+[ERRATUM] R139 Orange Uppercut
+Original Text: “Physical attack. You may pay 2 power stages to search your Life Deck for an Energy Combat card and place it
+into your hand. DAMAGE: AT +4 stages. (Banish after use.)”
+Panini Updated Text: “Physical attack. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat
+card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)”
+
+FanZ Updated Text: “(Limit 1 per deck.) Physical attack. You may pay 2 power stages to search your Life Deck for a Styled
+Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)”
+(MRP: None)
+
+[RULING] R144 Red Observation: This card has no cost to play, and may be used regardless of your MP’s current power
+stages. If you are able to pay five or more stages for the first effect, you must. If you are unable to pay, move o to the next
+sentence and resolve the remaining effects normally.
+
+[ERRATUM] P17 Piccolo’s Special Beam Cannon
+Original Text: “HIT: Name two different cards. Search your opponent’s Life Deck for 1 copy of each card and banish them.”
+Updated Text: “HIT: Name two different non-Dragon Ball cards. Search your opponent’s Life Deck for 1 copy of each card and
+banish them.”
+(NOTE: This change matches the printed text of R158 – Piccolo’s Special Beam Cannon)
+                                                     Heroes & Villains
+
+[ERRATUM] C40 Orange Crashing Drill
+Original Text: “∞: When this card enters play during combat, your opponent destroys the top card of his Life Deck. When this
+card is leaving play during combat, your opponent destroys the top card of his Life Deck.”
+Updated Text: “∞: When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When
+this card is leaving play during combat, your opponent destroys the top card of his Life Deck.” (MRP: Evolution P5 Orange
+Crashing Drill)
+
+[ERRATUM] C52 Saiyan Strength Test
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the FanZ Fusion card images P37)
+
+[ERRATUM] C60 Combination Drill
+Original Text: “Ϟ POWER: Use when entering combat. Choose a Drill not named “Combination Drill” and destroy it. Your
+opponent may then use the effect of this drill.”
+Updated Text: “∞ POWER: When entering combat, choose a Drill not named “Combination Drill” and destroy it. Your opponent
+may choose a Drill not named “Combination Drill” and destroy it. “
+(MRP: Evolution P8 Combination Drill)
+
+[ERRATUM] U71 Trunks - Bashful
+Original Text: “[CARD TYPE: Ally] (Heroes only.) Ϟ POWER: Use when entering combat. Look at the top card of a player’s Life
+Deck. You may place that card at the bottom of that player’s Life Deck.”
+Updated Text: “[CARD TYPE: Hero Ally] (You may use this power regardless of your MP’s power stage.) Ϟ POWER: Use when
+entering combat. Look at the top card of a player’s Life Deck. You may place that card at the bottom of that player’s Life Deck.”
+(MRP: None – Evolution Promo P4 Trunks – Bashful is also incorrectly printed)
+
+[RULING] U100 Tenshinhan’s Preparation: The user of this card destroys the top 2 cards of his or her Life Deck first, then
+the opponent.
+
+[ERRATUM] R112 Namekian Backhand
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: FanZ Movie Collection 2 Promos P19)
+
+[ERRATUM] R115 Namekian Confident Burst
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: FanZ Fusion Promos P27)
+
+[ERRATUM] R127 Saiyan Outrage
+This Card Gains: “(Banish after use.)”
+(NOTE: This change matches the printed text of P10 – Saiyan Outrage)
+
+[ERRATUM] R131 Isolation
+Original Text: “(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of
+combat. Allies cannot make actions nor have damage redirect to them to combat.”
+Updated Text: “(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of
+combat. Allies cannot make actions nor have damage redirect to them this combat.”
+(MRP: None)
+                                                    The Movie Collection
+
+[ERRATUM] C2 Master Roshi - Scouted
+Original Text: “(Heroes only.) ∞: Players cannot use card effects to search a player’s Life Deck.”
+Updated Text: “(Heroes only.) ∞: Players cannot use effects to search a player’s Life Deck.”
+(MRP: None)
+
+[ERRATUM] C5 Dr. Wheelo - Intelligent
+Original Text: “(Villains only.) POWER: Banish “Dr. Wheelo” to choose an Ally, Drill, Setup in play and shuffle that card into its
+owner’s Life Deck.”
+Updated Text: “(Villains only.) POWER: Banish “Dr. Wheelo” to choose an Ally, Drill, or Setup in play and shuffle that card into
+its owner’s Life Deck.”
+(MRP: None)
+
+[RULING] C14 Black Flying Knee: You may name the same card twice, but two copies must be revealed.
+
+[ERRATUM] C28 Namekian Mouth Beam
+Original Text: “HIT: Choose a Styled block in your discard pile and Rejuvenate it.”
+Updated Text: “HIT: Choose a Styled card with a shield icon in your discard pile and Rejuvenate it.”
+(MRP: Evolution P10 Namekian Mouth Beam)
+
+[ERRATUM] C42 Orange Smash
+Original Text: “Banish up to 3 of your Drills and return them to play at the end of combat.”
+Updated Text: “Banish up to 3 Drills you control. At the end of combat, place those Drills into play under their owner’s
+control from the Banished Zone.”
+(MRP: None)
+
+[ERRATUM] C60 Lookout Drill
+Original Text: “∞: The first time each turn an opponent’s card effect would destroy or banish cards from the top of your Life
+Deck, reduce that amount to 0.”
+Updated Text: “∞: The first time each turn an opponent’s card effect would cause you to destroy or banish cards from the
+top of your Life Deck, reduce that amount to 0.”
+(MRP: None)
+
+[ERRATUM] U96 Red Trailing Blast
+This Card Gains: “If the highest power level on your MP’s Level 4 is more than 500,000 and this card would attach to your
+MP, banish it instead.”
+(MRP: None)
+
+[RULING] U100 Saiyan Upward Kick: This effect also prevents your opponent from “raising” stages. Note that leveling up
+allows you to “set" your MP to 10 stages above zero.
+
+[RULING] R139 Pulverize: You would search your Life Deck for the Physical Combat or Energy Combat attack card, reveal it,
+shuffle your Life Deck, and then place the chosen card on top.
+
+[ERRATUM] P4 Red Shoulder Grab
+Original Text: “Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your
+successful attacks are considered to deal critical damage.”
+Updated Text: “[Sword Icon] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat,
+all of your other attacks are considered to deal critical damage.”
+(NOTE: This change matches the printed text of Premiere C50 Red Shoulder Grab)
+
+[ERRATUM] P8 Devastating Blow
+This Card Gains: “[Sword Icon]”
+(NOTE: This change matches the printed text of Premiere U110 Devastating Blow)
+
+[ERRATUM] P9 Orange Stare Down
+Original Text: “Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent’s Setup, vDrill or Ally.”
+Updated Text: “[Sword Icon] Energy Attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent’s Setup, Drill, or Ally.”
+(NOTE: This change matches the printed text of Premiere S117 Orange Stare Down)
+
+
+
+                                                           Evolution
+
+[ERRATUM] S3 Trunks - Defiant
+Original Text: “POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card from
+your discard pile and place it into your hand. Your opponent skips his next action this combat.”
+Updated Text: “POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card that is
+Styled or has “Sword” in the title from your discard pile and place it into your hand. Your opponent skips their next action this
+combat.”
+(MRP: Movie Collection 2 P4 Trunks - Defiant)
+
+[ERRATUM] S35 Black Smoothness Drill
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[ERRATUM] S81 Namek Dragon Ball 6
+Original Text: “CARD TYPE: Mastery”
+Updated Text: “CARD TYPE: Dragon Ball”
+(NOTE: This change matches the printed text of Premiere U63 Namek Dragon Ball 6)
+
+[ERRATUM] S97 Namekian Reinforced Block
+Original Text: “ENDURANCE 1”
+Updated Text: “ENDURANCE 2”
+(NOTE: This change matches the printed text of Movie Collection C29 Namekian Reinforced Block)
+
+
+[ERRATUM] S98 Namekian Right Throw
+Original Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do, raise your anger 2 levels.”
+Updated Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do and your MP has 2 or less
+Traits, raise your anger 2 levels.”
+(MRP: None)
+
+[ERRATUM] S105 Orange Calming Drill
+This Card Gains: “ENDURANCE 1”
+(NOTE: This change matches the printed text of Heroes & Villains C39 Orange Calming Drill)
+
+[ERRATUM] S107 Orange Joint Restraint Drill
+Original Text: “∞: Your physical attacks deal +4 stages of damage.”
+Updated Text: “∞: Your physical attacks deal +2 stages of damage.”
+(NOTE: This change matches the printed text of Premiere C37 Orange Joint Restraint Drill)
+[ERRATUM] S109 Orange Cover Up
+Original Text: “ENDURANCE 2”
+Updated Text: “ENDURANCE 1”
+(NOTE: This change matches the printed text of Premiere S146 Orange Cover Up)
+
+[ERRATUM] S148 Red Lightning Slash
+Original Text: “HIT: You may lower your anger 1 level to destroy all of your opponent’s Allies or all of his Drills.”
+Updated Text: “HIT: You may lower your anger 2 levels to destroy all of your opponent’s Allies or all of his Drills.”
+(NOTE: This change matches the printed text of Premiere U99 Red Lightning Slash)
+
+[ERRATUM] C42 Red Quick Jab
+Original Text: “Ϟ Physical attack.”
+Updated Text: “[Sword Icon] Physical attack.”
+(MRP: None)
+
+[ERRATUM] C52 Saiyan Empowered Smash
+This Card Gains: “[Sword Icon]”
+(MRP: None)
+
+[ERRATUM] U79 Red Forceful Strike
+Original Text: “Ϟ Physical attack.”
+Updated Text: “[Sword Icon] Physical attack.”
+(MRP: None)
+
+[ERRATUM] U84 Saiyan Sword Strike
+Original Text: “If your opponent passed as his last action, this attack cannot be stopped nor have its damage prevented.”
+Updated Text: “If your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage
+prevented.”
+(MRP: None)
+
+[ERRATUM] U97 Android 17 - Beckoning
+Original Text: “POWER: Physical attack.”
+Updated Text: “POWER: [Sword Icon] Physical attack.”
+(MRP: None)
+
+[ERRATUM] R122 Saiyan Tracking Blast
+Original Text: “Ϟ Energy attack costing 3 stages.”
+Updated Text: “[Sword Icon] Energy attack costing 3 stages.”
+(MRP: None)
+
+[ERRATUM] R126 Android 18’s Toss
+Original Text: “Ϟ Energy attack costing 2 stages.”
+Updated Text: “[Sword Icon] Energy attack costing 2 stages.”
+(MRP: None)
+
+[ERRATUM] R130 Android 20’s Domination
+This Card Gains: “CARD TYPE: Physical Combat”
+(MRP: None)
+[ERRATUM] P4 Trunks - Bashful
+Original Text: “[CARD TYPE: Hero] (You may use this power regardless of your MP’s power stage.) Ϟ POWER: Use when
+entering combat. Look at the top card of a player’s Life Deck. You may place that card at the bottom of that player’s Life Deck.”
+Updated Text: “[CARD TYPE: Hero Ally] (You may use this power regardless of your MP’s power stage.) Ϟ POWER: Use when
+entering combat. Look at the top card of a player’s Life Deck. You may place that card at the bottom of that player’s Life Deck.”
+(NOTE: This card was also erroneously printed using the MP template rather than the Ally template)
+(MRP: None)
+
+[ERRATUM] U74 Namekian Leaping Kick
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: FanZ Super Premier Promos P23)
+
+[ERRATUM] R111 Orange Freezing Drill
+This Card Gains: “(Orange Adept Mastery only.)”
+(MRP: This card is currently up to date in the Evolution card images.)
+
+
+
+                                                          Perfection
+
+[ERRATUM] C52 Saiyan Demolishing Beam
+Original Text: “HIT: You may use the immediate effects of a Dragon Ball in play. Rejuvenate this card.”
+Updated Text: “HIT: You may use the immediate effects of a Dragon Ball in play. If you do, banish this card after use. If you do
+not, Rejuvenate this card.”
+(MRP: None)
+
+[RULING] U91 Orange Charge: If you fail to reveal a Styled attack, the revealed cards are shuffled into yoru Life Deck.
+
+[ERRATUM] U100 Saiyan Sword Skill
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[ERRATUM] R115 Overwhelming Power
+Original Text: “(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed
+into your hand by a card effect, you may use a critical damage effect.)”
+Updated Text: “(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed
+into your hand by a non-Mastery card effect, you may use a critical damage effect.)”
+(MRP: None)
+
+[ERRATUM] R116 Black Discovery
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[ERRATUM] R119 Black Extreme Blast
+Original Text: “Attach to your MP. While attached, you may lower your opponent’s anger 1 level whenever you destroy cards
+from your opponent’s Life Deck. Banish this card when your opponent’s MP changes levels.”
+Updated Text: “Attach to your MP. While attached, once per turn you may lower your opponent’s anger 1 level whenever you
+destroy cards from your opponent’s Life Deck. Banish this card when your opponent’s MP changes levels.”
+(MRP: None)
+[ERRATUM] DR4 Cell - Unstoppable
+This Card Gains: “(This card’s non-Ϟ power may only be used once per game.)”
+(MRP: Awakening S14/DR14 Cell - Unstoppable)
+
+[ERRATUM] P9 Red Trailing Blast
+This Card Gains: “If the highest power level on your MP’s Level 4 is more than 500,000 and this card would attach to your
+MP, banish it instead.”
+(MRP: None)
+
+[ERRATUM] P13 Red City Destruction
+Original Text: “[CARD TYPE: Energy Combat]”
+Updated Text: “[CARD TYPE: Event]”
+(NOTE: This change matches the printed text of Heroes & Villains U89 Red City Destruction)
+
+[ERRATUM] P14 Orange Uppercut
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+
+
+                                                        Vengeance
+
+[ERRATUM] C33 Orange Shopping Drill
+Original Text: “∞: Your opponent cannot use effects that banish cards from a discard pile. When this Drill is leaving play, you
+may banish this card and your discard pile to banish 6 cards from your opponent’s discard pile.”
+Updated Text: “∞: Your opponent cannot use effects that banish cards from your discard pile. When this Drill is leaving play,
+you may banish this card and your discard pile to banish 6 cards from your opponent’s discard pile.”
+(MRP: Movie Collection 3 PXX Orange Shopping Drill)
+
+ [ERRATUM] U77 Icarus - Supportive
+Original Text: “∞: Your other Allies cannot be destroyed or banished by your opponent’s card effects.”
+Updated Text: “∞: Your other [Earthling Trait] Allies cannot be destroyed or banished by your opponent’s card effects.”
+(MRP: None)
+
+[ERRATUM] UR142 Unleashed
+This Card Gains: “(Banish after use.)”
+(MRP: None)
+
+FanZ Updated Text: “(You cannot win by MPPV if you use this card.) POWER: Search your Life Deck for a card that can attach
+to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If
+your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent’s MP level equal
+to the number of cards destroyed this way. (Banish after use.)”
+(MRP: Movie Collection 3 P30 Unleashed)
+
+[ERRATUM] P1 Black Smoothness Drill
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+                                                         Awakening
+[ERRATUM] S10/DR10 Orange Retribution Mastery
+This Card Gains: “(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this
+turn.)”
+(MRP: None)
+
+
+[ERRATUM] S86 Namekian Right Throw
+Original Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do, raise your anger 2 levels.”
+Updated Text: “You may shuffle a Dragon Ball you control back into its owner’s Life Deck. If you do and your MP has 2 or less
+Traits, raise your anger 2 levels.”
+(MRP: None)
+
+[ERRATUM] S101 Saiyan Back Crash
+This Card Gains: “ENDURANCE 0”
+(NOTE: This change matches the printed text of Evolution U98 Saiyan Back Crash)
+[ERRATUM] C32 Orange Checkup Drill
+Original Text: “(When this Drill enters play during combat, you may search your Life Deck for a Styled “shield icon”card and
+place it into your hand.)”
+Panini Updated Text: “(When this Drill enters play during combat, if it is the first time a card titled “Orange Checkup Drill”
+has entered play this combat you may search your Life Deck for a Styled “shield icon” card and place it into your hand.)”
+
+FanZ Updated Text: “(Limit 1 per deck. When this Drill enters play during combat, if it is the first time a card titled “Orange
+Checkup Drill” has entered play this combat you may search your Life Deck for a Styled “shield icon” card and place it into
+your hand.)”
+(MRP: None)
+
+[ERRATUM] C58 Saiyan Turning Kick
+This Card Gains: “(Limit 2 per deck.)”
+(MRP: None.)
+
+
+[ERRATUM] U95 Red Scanning Drill
+Original Text: “∞: Whenever your anger is lowered, destroy the top card of your opponent’s Life Deck.”
+Updated Text: “Ϟ POWER: Use when your anger is lowered. Destroy the top card of your opponent’s Life Deck.”
+(MRP: None)
+
+[ERRATUM] U97 Red Pummel
+Original Text: “HIT: At the end of combat, you may lower your anger to 0. If you do, search your Life deck or discard pile for a
+Drill and play it.”
+Updated Text: “HIT: At the end of combat, you may set your anger to 0. If you do, search your Life deck or discard pile for a
+Drill and play it.”
+(MRP: None)
+
+[ERRATUM] U98 Saiyan Clench
+This Card Gains: “(Limit 2 per deck.)”
+(MRP: None)
+
+[ERRATUM] R133 Gohan’s Backlash
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+[RULING] R135 Hercule’s Dynamite Kick: If you are taking damage and can only discard Dragon Balls and/or Hercule’s
+Dynamite Kick, your opponent wins by Survival Victory.
+                                                 Celestial Tournament
+
+[ERRATUM] C18 Orange Meditation
+This Card Gains: “(Limit 2 per deck.)”
+(MRP: None)
+
+[ERRATUM] C19 Orange Bicycle Kick
+Original Text: “Lower a player’s anger 2 levels. Rejuvenate any number of Drills you control. Search your Life Deck for X ∞
+Drills and place them into play. X = the number of Drills you Rejuvenated.”
+Updated Text: “Lower a player’s anger 2 levels. Rejuvenate up to 3 Drills you control. Search your Life Deck for X ∞ Styled
+Drills and place them into play. X = the number of Drills you Rejuvenated.”
+(MRP: None)
+
+
+[ERRATUM] U40 King Cold – Caught Off Guard
+Original Text: “(This card is considered Named for your effects. If your MP is Frieza or Cooler, you may use this Power
+regardless of your MP’s power stage.)”
+Updated Text: “(If your MP is Chilled, Cooler, or Frieza, this card is considered Named and you may use this Power
+regardless of your MP’s power stage.)”
+(MRP: This card is currently up to date in the Celestial Tournament card images.)
+
+[ERRATUM] R2 Black Absorption Drill
+Original Text: “Whenever you discard, destroy, or banish cards from your opponent’s Life Deck from a non-damage effect,
+you may place a card from either player’s discard pile on top of its owner’s Life Deck.”
+Updated Text: “Whenever you discard, destroy, or banish cards from your opponent’s Life Deck with a non-damage effect,
+you may place a Styled card from either player’s discard pile on top of its owner’s Life Deck.”
+(MRP: None.)
+
+
+                                                         Legends
+
+[ERRATUM] U4 Black Punt
+Original Text: “Attach to your MP. While attached, cards that you own are considered Styled. Banish this card when your
+opponent’s MP advances a level.”
+Updated Text: “Attach to your MP. While attached, your attacks are considered Styled. Banish this card when your
+opponent’s MP advances a level.”
+(MRP: This card is currently up to date in the Legends card images.)
+
+[ERRATUM] R26 Saiyan Pre-Game
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Legends card images.)
+
+[ERRATUM] S61 Vegeta, The Crown Prince
+This Card Gains: “(Saiyan Mastery only.)”
+(MRP: This card is currently up to date in the Legends card images.)
+                                                         Revelation
+
+[ERRATUM] R16 Namekian Ascension
+This Card Gains: “(Limit 2 per deck.)”
+(MRP: This card is currently up to date in the Revelation card images.)
+
+[ERRATUM] U58 Bulma – Taking a Drag
+Original Text: “(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP’s power stage and
+you may play this card from your hand as an action to gain 5 stages and draw a card.)”
+Updated Text: “(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP’s power stage and
+once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.)”
+(MRP: This card is currently up to date in the Revelation card images.)
+
+
+                                                         Escalation
+
+[ERRATUM] U16 Orange Attraction Drill
+This Card Loses: “(Orange Combative Mastery only.)”
+(MRP: This card is currently up to date in the Escalation card images.)
+
+[ERRATUM] C26 Saiyan Combative Stance
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Escalation card images.)
+
+[ERRATUM] R43 Piccolo’s Lethal Chop
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Escalation card images.)
+
+[ERRATUM] R44 Vegeta’s Prideful Challenge
+This Card Gains: “(Villains only.)”
+(MRP: This card is currently up to date in the Escalation card images.)
+
+
+                                                    Movie Collection 2
+
+[ERRATUM] C9 Blue Sword Rush
+Original Text: “Lower your opponent’s anger 1 level. Your Styled Setups this combat gain ‘Shuffle into your Life Deck after
+use.’”
+Updated Text: “Lower your opponent’s anger 1 level. Your Styled Setups this combat that are not banished after use gain
+‘Shuffle into your Life Deck after use.’”
+(MRP: This card is currently up to date in the Movie Collection 2 card images.)
+
+[ERRATUM] U27 – Saiyan Bear Hug
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Movie Collection 2 card images.)
+
+                                                           Fusion
+
+[ERRATUM] S60 Vegito – Dominant
+This Card Gains: “(You cannot win by MPPV.)”
+(MRP: This card is currently up to date in the Fusion card images.)
+[ERRATUM] C21 Orange Sidestep
+Original Text: “(If this card is discarded from your hand by a card effect, you may banish it instead to draw the bottom card
+of your discard pile.)”
+Updated Text: “(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw
+the bottom card of your discard pile.)’”
+(MRP: This card is currently up to date in the Fusion card images.)
+
+[ERRATUM] DR7 Blue Mimicry Mastery
+Original Text: “POWER: Choose up to 3 cards in your discard pile with “copy” or “copied” in the text-box and shuffle them into
+your Life Deck.”
+Updated Text: “POWER: Choose up to 3 cards in your discard pile with “copy” or “copied” in the text-box or parenthetical text
+and shuffle them into your Life Deck.”
+(MRP: This card is currently up to date in the Fusion card images.)
+
+[ERRATUM] DR31 Saiyan Enhanced Mastery
+Original Text: “Whenever you perform a Styled attack, you may destroy the top card of each player’s Life Deck. Whenever
+one of your Styled effects destroys non-Dragon Ball cards from your opponent’s Life Deck, you may banish them instead.”
+Updated Text: “Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent’s Life Deck, you
+may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player’s
+Life Deck.”
+(MRP: This card is currently up to date in the Fusion card images.)
+
+
+
+                                                         Showdown
+
+[ERRATUM] C13 Namekian Swift Guard
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Showdown card images.)
+
+[ERRATUM] R16 Orange Provoking Drill
+This Card Gains: “(Orange Adept Mastery only.)”
+(MRP: This card is currently up to date in the Showdown card images.)
+
+
+
+                                              Premier: Dragon Ball Super
+
+[ERRATUM] DR19 Orange Aura Mastery
+Original Text: “Your energy attacks deal +1 life card and cost-1 stage (to a minimum of 0).”
+Updated Text: “Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (This cannot lower a cost to 0.)”
+(MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)
+
+[ERRATUM] R20 Orange Sidestep
+Original Text: “(Once per turn, after this Drill is destroyed from play by one of your effects, you may Rejuvenate it to search
+your Life Deck for a Non-Styled Drill and place it into play.)”
+Updated Text: “(Once per turn, after this Drill is destroyed from play by one of your effects, you may banish it to search your
+Life Deck for a Non-Styled Drill and place it into play.)”
+(MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)
+
+[ERRATUM] R46 Skillful Parry
+This Card Gains: “(Banish after use.)”
+(MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)
+                                         Universal Clash: Dragon Ball Super
+
+[ERRATUM] U11 Namekian Therapeutic Drill
+Original Text: “Use after a Dragon Ball is shuffled into your Life Deck by one of your effects. Draw a card.”
+Updated Text: “Use after a Dragon Ball in play is shuffled into your Life Deck by one of your effects. Draw a card.”
+(MRP: This card is currently up to date in the Universal Clash: Dragon Ball Super card images.)
+
+[ERRATUM] U25 Red Distracting Shot
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the Universal Clash: Dragon Ball Super card images.)
+
+
+
+                                                 Organized Play Promos
+
+[ERRATUM] P2 Blue Stylish Pose
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: None)
+
+
+[ERRATUM] P8 Raditz - Proud
+Original Text: “(As an action, you may place this card into play from your hand to choose a Styeld card in your discard pile
+and Rejuvenate it.)”
+Updated Text: “(Once per combat, as an action, you may place this card into play from your hand to choose a Styled card in
+your discard pile and Rejuvenate it.)”
+(MRP: This card is currently up to date in the OP Series OP1 card images.)
+
+[ERRATUM] P19 Namekian Straining Assault
+This Card Gains: “(Limit 1 per deck.)”
+(MRP: This card is currently up to date in the OP Series OP3 card images.)
+
+[ERRATUM] P25 Super Shenron, Dragon God
+This Card Gains: “(God Trait only.)”
+(MRP: This card is currently up to date in the OP Series OP3 card images.)
+                                                       IV. Card Legality
+
+ While the game was in print, a “Frozen List” was established which would render particular cards illegal for tournament
+play for an undetermined period of time. The fan-driven continuation has maintained and added to this list in an effort to keep
+tournament play varied and interesting. Below is the current form of that list, with Panini additions once again marked with a
+                                light blue highlight, and the most recent additions in red text.
+ In addition, a small set of cards printed in the Premiere and Heroes & Villains sets were printed with gold text names. These
+     Gold Title Reprints were intended to be direct reprints from the original Dragon Ball Z Collectible Card Game (Score
+Entertainment, 2001), though several had to be redacted due to their text and functionality not perfectly aligning with updated
+   text used in the new release. Any card name on this list that is not crossed out is a card which may be replaced with the
+                        original Score Entertainment card of the same title in a tournament environment.
+Current Frozen List
+Cards on this list may not be used in any official FanZ tournament.
+Black Devious Mastery (Premiere R122, Premiere S28)
+
+Red Enraged Mastery (Premiere R140, Premiere S27)
+
+Saiyan Empowered Mastery (Premiere R145, Premiere S25)
+
+Blue Protective Mastery (Premiere R127, Premiere S29)
+
+Namekian Knowledge Mastery (Premiere R131, Premiere S30
+
+Orange Adaptive Mastery (Premiere R136, Premiere S29)
+
+Red Tactical Drill (Premiere S43, Evolution S167)
+
+Visiting The Past (Premiere U107, Perfection P4)
+
+Orange Focusing Drill (Premiere R137)
+
+Namekian Restored Mastery (Evolution S15)
+
+Orange Charge (Perfection U91)
+
+Orange Retribution Mastery (Awakening S10, Awakening DR10)
+
+Orange Checkup Drill (Awakening C32)
+
+Ox King, Naming Genius (Awakening U81)
+
+
+
+DEFUNCT RULE – Legacy Thawing Bonus
+(This Rule is not active in any official FanZ event. Any Panini DBZ-only event may choose to use it at their
+discretion.) The following MPs may be paired with the corresponding Mastery Cards on the Frozen List in any non-FanZ
+event:
+
+Black Devious Mastery: Krillin, Frieza, Piccolo, Captain Ginyu, Vegeta (Villain alignment only), Nail, Nappa, Raditz,
+Tenshinhan, Turles, Lord Slug, Garlic Jr., Dr. Wheelo, Android 16, Android 17, Android 18, Android 19, Mercenary Tao, Hercule,
+Cell Jr.
+
+Red Enraged Mastery: Krillin, Frieza, Piccolo, Captain Ginyu, Vegeta (Villain alignment only), Nail, Nappa, Raditz,
+Tenshinhan, Turles, Lord Slug, Garlic Jr., Dr. Wheelo, Android 16, Android 17, Android 18, Android 19, Mercenary Tao, Cell, Cell
+Jr.
+Gold Title Reprints
+Cards on this list that have not been crossed out may be replaced with their title-matching Score Entertainment DBZ CCG
+card in official FanZ tournaments.
+Premiere Set
+
+         Black Side Thrust                  Black Energy Web                   Blue Defensive Flight
+          Blue Arm Blast                    Blue Round Throw                   Orange Power Point
+         Red Power Punch               Red Energy Defensive Stance              Red Energy Shield
+        Red Blocking Hand                  Saiyan Energy Toss                   Saiyan Wrist Block
+      Saiyan Energy Rupture                   Saiyan Focus                     Saiyan Direct Strike
+      Saiyan Lightning Dodge                 Saiyan Surprise
+
+
+Heroes & Villains
+
+          Black Fist Lock               Black Overpowering Attack              Black Upward Dodge
+         Blue Face Crunch                     Blue Leverage                 Saiyan Blocking Technique
+        Saiyan Hand Swipe
+

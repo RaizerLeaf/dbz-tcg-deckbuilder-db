@@ -35,7 +35,8 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 - Phase 1 pilot done and approved (`work/pilot/PILOT_REPORT.md`).
 - Phase 2 done: all 3,106 playable images read, ingested and derived. Draft `cards.json` /
   `cards.csv` in this folder; report in `work/full/PHASE2_REPORT.md` (28 cards need review).
-- Next: Phase 3 (errata/rulings from the CRD PDFs), Phase 4 (MP index), Phase 5 (verification).
+- Phase 3 done: errata, rulings, MRP, Frozen List and Gold Title Reprints attached (`work/crd/PHASE3_REPORT.md`, `crd_general.md`).
+- Next: Phase 4 (MP index), Phase 5 (verification).
 
 ## Layout findings
 - PanZ Personalities print `ALLY` on the right edge for Allies and `HERO`/`VILLAIN` for MPs;

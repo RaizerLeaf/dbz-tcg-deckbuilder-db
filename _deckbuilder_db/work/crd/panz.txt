@@ -1,0 +1,309 @@
+DRAGON BALL Z TCG
+ CURRENT RULINGS
+  DOCUMENT (CRD)
+            V 6.0 (6/30/2017)
+                                   Dragon Ball Z TCG Current Rules
+Last update: June 30th, 2017
+This document contains advanced rulings and clarifications for the DBZ TCG. If you’re new to the
+game, many of these rules may seem superfluous or overly complex. For the most part, you’ll only
+need to refer to the CRD for specific cards or intricate scenarios. For ordinary gameplay situations,
+refer to Dragon Ball Z: Awakening rulebook (v3.0) - available for download here.
+
+Despite the comprehensive nature of this document, novel interactions are sure to crop up and
+require additional explanation. Please contact dbz@paniniamerica.net for any rulings inquiries, or
+refer to dbztcg.com for other supplemental information. For an independently run collection of FAQs
+and ruling discussions, visit dragonballztcg.wikia.com/wiki/DragonBallZTCG_Wiki.
+                                                General
+Legal zones: Cards that you do not own may only be controlled while they are in play. Cards that you
+do not own may never enter your Life Deck, Banished Zone, discard pile, or hand.
+  Example – You play Black Reflection, targeting your opponent’s Devastating Blow. Your opponent
+defends with Black Delay, which attempts to return Devastating Blow to your hand. Since you do not
+                      own Devastating Blow, it is not returned to your hand.
+Non-visible game zones: Whenever a card moves to a non-visible game zone (such as a player’s hand
+or Life Deck), it ceases to resolve any remaining sentences/effects. Similarly, you would cancel any
+referential floating effects that target a card that has moved into a non-visible game zone. However,
+effects or parenthetical text that specifically reference leaving play/changing zones in any way (such
+as Kami - Guardian, Namekian Knee Block, Tenshinhan’s Preparation, Cell Jr - Escaping, etc.) still
+carry out their text.
+Example - You discard Blue Lifting Drill to the effect of Piccolo - Combat Stance. Since Blue Lifting
+Drill has moved to a non-visible game zone (your Life Deck) while Rejuvenating from Piccolo's
+effect, it ceases to resolve any remaining effects (and thus would not place itself into play).
+
+Example - You use Orange Nudge to stop an attack, and its immediate effect destroys one of your
+Drills and places it in your discard pile. At the end of combat, that copy of the destroyed Drill would
+be placed into play due to Orange Nudge's floating effect. However, if that copy of the destroyed
+Drill had moved into a non-visible zone (such as your hand), you would cancel the referential
+floating effects of Orange Nudge (and thus the destroyed Drill would not be placed into play).
+ Example - Your Kami - Guardian is shuffled into your Life Deck by a card effect. Even though he is
+ moving to a hidden zone, Kami’s “when leaving play” effect still allows you to search for a Dragon
+                                               Ball.
+Effects with stipulations: Cards that have a stipulation “to” perform an effect require that
+stipulation to be met in order for the effect to occur.
+Example – You play Battle Pausing. You must banish a card from your hand in order to draw the top 2
+                                     cards of your discard pile.
+Similarly, effects that retroactively check for a specific condition must actually meet the
+requirement.
+  Example - You discard Blue Guard to the effect of Blue Protective Mastery to stop an attack. You
+elect to use the replacement effect of Blue Guard to banish itself instead. You would not be able to
+             raise or lower a player’s anger 1 level, as Blue Guard was not “discarded.”
+
+
+Naming: When a card effect requires naming an Ally, you do not need to name the Allies sub-name.
+For example, “Bulma Ally” would be acceptable. Otherwise, the exact card title must be named.
+Considered to be Named or Styled: Cards that are “considered to be Named” take on the name of
+your MP for all card effects. Similarly, cards that are “considered to be Styled” take on the Style of
+your Mastery.
+ Example - Black Back Strike would count as a “Frieza Named card” for Frieza’s Supernova. Defiant
+                      Challenge would be able to search for Saiyan Freedom.
+Dragon Ball Immunity: Whenever a card effect allows you to “name” a card, Dragon Balls may not be
+named.
+ Example - You may not name a Dragon Ball with the immediate effect of Android 20’s Domination.
+Drill Powers: Drill Powers may only be activated once per combat, but may be used again whenever
+they leave and re-enter play.
+                                               Damage
+Dragon Balls: When taking damage, Dragon Balls that are banished (due to another copy being in
+play) do not require a replacement discard.
+Discarding damage: Life Cards of damage are always inherently discarded. When an attack such as
+Red Left Bolt or Saiyan Cheap Shot causes damage to be banished, you may use Endurance against
+that attack. Similarly, any Dragon Balls discarded during damage would still be placed on the bottom
+of your Life Deck and require a replacement discard.
+Damage calculation: When taking damage, Power Stages that have been converted to Life Cards may
+be prevented by effects that prevent Life Cards of damage (such as Endurance). However, effects
+that modify damage calculation (such as Orange Hiding Drill) take place before the conversion, and
+they do not apply to power stages of damage.
+Defending attacks: Whenever your opponent plays an attack, you may always play or use one “shield
+icon” card.
+  Example – a) Your opponent plays an attack that would already by stopped by Time is a Warrior’s
+   Tool. You may still play or use a “shield icon” card in defense. b) Your opponent plays Krillin’s
+        Destructo Disk. You may still play or use a “shield icon” card in attempted defense.
+Stages and Life Cards of damage: When a successful attack deals both stages and Life Cards of
+damage, the stages of damage are taken first.
+
+
+                                       Legacy Thawing Bonus
+These MPs may be paired with Mastery Cards on the Frozen List:
+• Black Devious Mastery: Krillin, Frieza, Piccolo, Captain Ginyu, Vegeta (Villain alignment only),
+  Nail, Nappa, Raditz, Tenshinhan, Turles, Lord Slug, Garlic Jr., Dr. Wheelo, Android 16, Android 17,
+  Android 18, Android 19, Mercenary Tao, Hercule, Cell Jr.
+• Red Enraged Mastery: Krillin, Frieza, Piccolo, Captain Ginyu, Vegeta (Villain alignment only), Nail,
+  Nappa, Raditz, Tenshinhan, Turles, Lord Slug, Garlic Jr., Dr. Wheelo, Android 16, Android 17,
+  Android 18, Android 19, Mercenary Tao, Cell, Cell Jr.
+                                                Timing
+Combat: Effects that take place “when entering combat” are not considered to be “during combat.”
+Effects that take place “at the end of combat” are considered to be “during combat.”
+Attack sequence:
+1) Pay any costs of the attack.
+2) Use any immediate effects of the attack.
+3) Opponent may play or use one shield icon card and use its immediate effects. It is then discarded/
+banished (if applicable).
+4) Calculate and deal any unstopped or un-prevented damage.
+5) Use any HIT effects.
+6) If Critical Damage was dealt, you may choose a Critical Damage effect.
+7) The attack is then discarded/banished (if applicable).
+Order of effects: When you play or use a card, resolve its immediate effects in the order listed on
+the card (one sentence at a time). Then, discard or banish the card (if applicable).
+Example - You play Namekian Wish. Resolve the first sentence, which is “End Combat.” Next, choose
+    X cards in your discard pile and Rejuvenate them. You do not gain anger from the effect of
+                    Namekian Knowledge Mastery, as combat has already ended.
+Special timings: Effects that take place with a contextual timing (i.e. “whenever,” “if,” “after,”
+etc.) take place immediately after finishing the resolution of a sentence.
+ Example 1 – You play Namekian Right Throw and resolve its first sentence by shuffling a Dragon Ball
+into your Life Deck. After completing that, Namekian Knowledge Mastery’s “whenever” effect raises
+  your anger 1 level for shuffling a card into your Life Deck. Then, proceed to the next sentence of
+                         Namekian Right Throw and raise your anger 2 levels.
+   Example 2 –You activate Black Devious Mastery by discarding Black Corruption. Resolve the first
+  sentence of Black Devious Mastery by banishing the bottom two cards of your opponent’s discard
+ pile. Then, Black Corruption’s “if” effect banishes the top two cards of your opponent’s Life Deck.
+     Finally, complete the next sentence of Black Devious Mastery and discard a card from your
+                                           opponent’s hand.
+Competing timings: When you have multiple effects to resolve with the exact same timing, you may
+choose the order in which they occur. If both players have effects to resolve with the exact same
+timing, the player who initiated combat resolves all effects first.
+Example 1 – You have Blue Overpowering Drill and Blue Positioning Drill in play, and you stop an
+attack. You may resolve the effects of Blue Overpowering Drill and Blue Positioning Drill in any
+order you choose.
+Example 2 – You declare combat and activate the Power of Krillin – Ready. On your opponent’s next
+action, he also activates the Power of his Krillin – Ready. Later in combat, a card is discarded from a
+hand. You would use the “next time” effect of Krillin – Ready first, then your opponent would do
+the same.
+                                        Individual Card Rulings
+Premiere Set
+S2 Vegeta – Villainous and S3 Vegeta – Empowered: These Powers only apply to attacks that raise
+your anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger,
+the modifier is not applied.
+S8 Goku, Super Saiyan: Treat this card as if it reads “Search your Life Deck, discard pile, and
+Banished Zone for a total of up to 5 Drills and place them into play.”
+S18 Frieza – Transformed: This effect is considered a copied attack.
+S25/R145 Saiyan Empowered Mastery: Raise your anger 1 level for each Styled card that is
+Rejuvenated.
+S30/R145 Namekian Knowledge Mastery: Treat this card as if it reads “Whenever one of your
+effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level.
+After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent’s
+Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.”
+S37 Black Targeting Drill: Your effects that target specific cards to be discarded are not affected by
+Black Targeting Drill. For example, Stare Down would discard the chosen card.
+S65 Blue Guard: Treat this card as if it reads “(If this card would be discarded from your hand by a
+card effect, you may banish it instead to draw a card). Stops an energy attack.”
+C15 Black Corruption: Treat this card as if it reads “(If this card is discarded from your hand by one
+of your card effects during combat, banish the top 2 cards of your opponent’s Life Deck.) Stops an
+energy attack. Raise your anger 1 level and lower your opponent’s anger 2 levels.”
+C19 Black Punishment: Treat this card as if it reads “Energy attack costing 2 stages. DAMAGE: 4 life
+cards. Raise your anger 1 level. HIT: Until the start of your next turn, whenever a card banishes itself
+after use your opponent destroys the top card of his Life Deck.”
+U6 Captain Ginyu – Body Change and U7 Captain Ginyu – Frog: These Powers only prevent
+“discarding” an Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are
+not prevented.
+U66 Blue Avoidance and S144 Blue Swift Block: When you copy an attack, treat it as if you played
+an invisible copy of the card yourself. You do not receive any modifiers that the opponent applied to
+the attack, and AT damage is calculated from your personality’s power level. If you copy an attack
+that stays on the table to be used again, it is not present on the table for a second use. If you copy
+an attack that attaches, the invisible copy does not attach.
+U86 Namekian Flinch: Treat the final sentence of this card as if it reads “If your MP is level 3 or
+higher, search your Life Deck for a Dragon Ball and place it into play.”
+U144 Quickness Drill: Treat this card as if it is an Instant Power (thus it may only be used once per
+turn).
+R124 Black Disorienting Blow: Hero/Villain only cards and Named cards are for deck construction
+purposes only, and may be targeted regardless of your MP’s name or Alignment. You may not play
+Events that have a contextual timing, such as Time is a Warrior’s Tool or Heroic Energy Sphere.
+R125 Black Reflection: After resolving the attack, treat the targeted card as though it was played by
+your opponent. If it is banished after use, it will return to your opponent’s Banished Zone. If it is
+discarded after use, it returns to your opponent’s discard pile. If it would be shuffled into a Life Deck
+after use, shuffle it into your opponent’s Life Deck. You may target any attack card, including Setups.
+You may not target cards that conditionally perform attacks, such as Allies.
+R126/P16 Black Scout Maneuver: Treat this card as if it reads “(Banish after use.) POWER: Name a
+Physical Combat, Energy Combat, or Event card. Search your opponent’s Life Deck for all copies of
+that card and banish them.”
+R138 Orange Searching Maneuver: Search for the drill immediately, and set it aside to be placed
+into play at the end of combat. If it is unable to enter play at that time, it remains outside of play
+(separate from the banished zone) until the game ends.
+R139 Orange Uppercut: Treat this card as if it reads “(Banish after use.) Physical attack. DAMAGE:
+AT +4 stages. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card
+and place it into your hand.”
+R144 Red Observation: This card has no cost to play, and may be used regardless of your MP’s
+current power stages. If you are able to pay five or more stages for the first effect, you must. If you
+are unable to pay, move on to the next sentence and resolve the remaining effects normally.
+P17 Piccolo’s Special Beam Cannon: Treat this card as if it reads “Energy attack costing 2 stages.
+DAMAGE: 3 life cards. Rejuvenate 1. HIT: Name two different non-Dragon Ball cards. Search your
+opponent’s Life Deck for 1 copy of each card and banish them.”
+Heroes & Villains
+C40 Orange Crashing Drill: Treat this card as if it reads “When this card is entering play during
+combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during
+combat, your opponent destroys the top card of his Life Deck.”
+C60 Combination Drill: Treat this card as if it was both Instant Power and Continuous Power (thus it
+must be used whenever you enter combat). If your opponent uses the effects of this drill, it does not
+allow you to then choose a new drill to destroy.
+U71 Trunks – Bashful: Treat this card as a Hero Ally that reads “(You may use this power regardless
+of your MP’s power stage.) Instant POWER: Use when entering combat. Look at the top card of a
+player's Life Deck. You may place that card at the bottom of that player’s Life Deck.”
+U100 Tenshinhan’s Preparation: The user of this card destroys the top 2 cards of his or her Life Deck
+first, then the opponent.
+R127 Saiyan Outrage: Treat this card as if it reads “(Banish after use.) Power: Stops a physical or
+energy attack. If the defending personality has a higher power level than the attacking personality,
+then at the end of combat you may search your Life Deck for a card that can attach to your MP and
+place it into play attached.” (Note: this is reflected in the printing of P10 Saiyan Outrage).
+R131 Isolation: Treat this card is if it reads “(Banish after use.) Instant Power: Use when entering
+combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have
+damage redirect to them this combat.”
+The Movie Collection
+C2 Master Roshi - Scouted: Treat this card as if it reads “(Heroes only.) Players cannot use effects to
+search a player's Life Deck.
+C5 Dr. Wheelo - Intelligent: Treat this card as if it reads “(Villains only.) POWER: Banish “Dr.
+Wheelo” to choose an Ally, Drill, or Setup in play and shuffle that card into its owner’s Life Deck.
+C14 Black Flying Knee: You may name the same card twice, but two copies must be revealed.
+C28 Namekian Mouth Beam: Treat this card as if it reads “(Banish after use.) ENDURANCE 1. Energy
+attack costing 2 stages. DAMAGE: 4 life cards. HIT: Choose a Styled card with a shield icon in your
+discard pile and Rejuvenate it.”
+C42 Orange Smash: Treat this card as if it reads “Physical attack. DAMAGE: AT +4 stages. Banish up
+to 3 Drills you control. At the end of combat, place those Drills into play under their owner’s control
+from the Banished Zone.”
+C60 Lookout Drill: Treat this card as if it reads “(After this Drill enters play from your hand,
+Rejuvenate 1.) The first time each turn an opponent’s effect would cause you to destroy or banish
+cards from the top of your Life Deck, reduce that amount to 0.”
+U100 Saiyan Upward Kick: This effect also prevents your opponent from “raising” stages. Note that
+leveling up allows you to “set” your MP to 10 stages above zero.
+R139 Pulverize: You would search your Life Deck for the Physical Combat or Energy Combat attack
+card, reveal it, shuffle your Life Deck, and then place the chosen card on top.
+P9 Orange Stare Down: Treat this card as if it reads “Energy attack costing 2 stages. DAMAGE: 4 life
+cards. Banish an opponent’s Setup, Drill, or Ally.”
+P4 Red Shoulder Grab: Treat this card as if it reads “Physical attack. DAMAGE: AT +3 stages. Raise
+your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal
+critical damage.
+Evolution
+S81 Namek Dragon Ball 6: Treat this card type as if it reads “Dragon Ball.”
+S97 Namekian Reinforced Block: Treat this card as if it reads “ENDURANCE 2. Stops a physical
+attack. Your Dragon Balls cannot be captured this combat.”
+S105 Orange Calming Drill: Treat this card as if it has “ENDURANCE 1.”
+S107 Orange Joint Restraint Drill: Treat this card as if it reads “Your physical attacks deal +2 stages
+of damage.”
+S109 Orange Cover Up: Treat this card as if it reads “ENDURANCE 1. Stops a physical attack. Also
+stops a physical attack in your opponent’s next action.”
+S148 Red Lightning Slash: Treat this card as if it reads “Physical attack. DAMAGE: AT stages. Raise
+your anger 1 level. HIT: You may lower your anger 2 levels to destroy all of your opponent’s Allies or
+all of his Drills.”
+C15 Blue Knee: Treat the Instant Power icon on this card as if it were an attack icon.
+C42 Red Quick Jab: Treat the Instant Power icon on this card as if it were an attack icon.
+C52 Saiyan Empowered Smash: Treat this card as if it has an attack icon.
+U79 Red Forceful Strike: Treat the Instant Power icon on this card as if it were an attack icon.
+U84 Saiyan Sword Strike: Treat this card as if it reads “Physical attack. If your opponent passed as
+his last action this combat, this attack cannot be stopped nor have its damage prevented. DAMAGE:
+AT +4 stages.”
+U97 Android 17 - Beckoning: Treat this card’s POWER as if it has an attack icon.
+R122 Saiyan Tracking Blast: Treat the Instant Power icon on this card as if it were an attack icon.
+R126 Android 18’s Toss: Treat the Instant Power icon on this card as if it were an attack icon.
+R130 Android 20’s Domination: Treat this card type as if it reads “Physical Combat.”
+P4 Trunks - Bashful: Treat this card as a Hero Ally that reads “(You may use this power regardless of
+your MP’s power stage.) INSTANT POWER: Use when entering combat. Look at the top card of a
+player's Life Deck. You may place that card at the bottom of that player’s Life Deck.”
+Perfection
+U91 Orange Charge: If you fail to reveal a Styled attack, the revealed cards are shuffled into your
+Life Deck.
+R115 Overwhelming Power: Treat the final sentence of this card’s parenthetical text as “If this card
+is placed into your hand by a non-Mastery card effect, you may use a Critical Damage effect.”
+DR4 Cell - Unstoppable: Treat this card as if it also reads “(This card’s non-instant power may only
+be used once per game.)”
+P13 Red City Destruction: Treat this card as an Event (and not an Energy Combat).
+Vengeance
+UR142 Unleashed: Treat this card as if it also reads “(Banish after use.)”
+Awakening
+S10/DR10 Orange Retribution Mastery: Treat this card as if it also reads “(You cannot activate the
+Power of a Drill with the same name as a Drill you have already activated this turn.)”
+S101 Saiyan Back Crash: Treat this card as if it has “ENDURANCE 0.”
+C32 Orange Checkup Drill: Treat this card’s parenthetical text as if it reads “(When this Drill enters
+play during combat, if it is the first time a card titled “Orange Checkup Drill” has entered play this
+combat you may search your Life Deck for a Styled “shield icon” card and place it into your hand.)”
+U97 Red Pummel: Treat this card’s HIT effect as if it reads “At the end of combat, you may set your
+anger to 0. If you do, search your Life Deck or discard pile for a drill and play it.”
+R135 Hercule’s Dynamite Kick: If you are taking damage and can only discard Dragon Balls and/or
+Hercule’s Dynamite Kick, your opponent wins by Survival Victory.
+
+
+                                          Gold Title Reprint
+The following cards are direct reprints from the DBZ CCG (2001), and you may use the original
+version.
+                                             Premiere Set
+   •   Black Side Thrust
+   •   Black Energy Web
+   •   Blue Defensive Flight
+   •   Blue Arm Blast
+   •   Blue Round Throw
+   •   Orange Power Point
+   •   Red Power Punch
+   •   Red Energy Defensive Stance
+   •   Red Energy Shield
+   •   Red Blocking Hand
+   •   Saiyan Energy Toss
+   •   Saiyan Wrist Block
+•   Saiyan Energy Rupture
+•   Saiyan Focus
+•   Saiyan Direct Strike
+•   Saiyan Lightning Dodge
+•   Saiyan Surprise
+                                Heroes & Villains
+•   Black Fist Lock
+•   Black Overpowering Attack
+•   Black Upward Dodge
+•   Blue Face Crunch
+•   Blue Leverage
+•   Saiyan Blocking Technique
+•   Saiyan Hand Swipe
+

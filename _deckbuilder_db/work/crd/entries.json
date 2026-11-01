@@ -1,0 +1,3711 @@
+[
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S2"
+    ],
+    "name": "Vegeta - Villainous"
+   },
+   {
+    "numbers": [
+     "S3"
+    ],
+    "name": "Vegeta - Empowered"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S2 Vegeta - Villainous and S3 Vegeta - Empowered: These Powers only apply to attacks that raise your anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger, the modifier is not applied.",
+  "ruling_text": "These Powers only apply to attacks that raise your anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger, the modifier is not applied.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S8"
+    ],
+    "name": "Goku - Super Saiyan"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S8 Goku - Super Saiyan Original Text: \"POWER: Search your Life Deck, discard pile, and Banished Zone for a total of 5 Drills and place them into play.\" Updated Text: \"POWER: Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them into play.\" (MRP: Evolution P11 Goku - Super Saiyan)",
+  "mrp_raw": "Evolution P11 Goku - Super Saiyan",
+  "note_raw": null,
+  "original_text": "POWER: Search your Life Deck, discard pile, and Banished Zone for a total of 5 Drills and place them into play.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "POWER: Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them into play.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S12"
+    ],
+    "name": "Gohan - Armored"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S12 Gohan - Armored Original Text: \"∞: Your Styled attacks deal +3 Life Cards of damage. When one of your effects raises your anger, you may shuffle 1 card with \"anger\" in the text box from your discard pile into your Life Deck.\" Updated Text: \"∞: Your Styled attacks deal +3 Life Cards of damage. Ϟ POWER: Use when one of your effects raises your anger. You may shuffle 1 card with \"anger\" in the text box from your discard pile into your Life Deck.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "∞: Your Styled attacks deal +3 Life Cards of damage. When one of your effects raises your anger, you may shuffle 1 card with \"anger\" in the text box from your discard pile into your Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: Your Styled attacks deal +3 Life Cards of damage. Ϟ POWER: Use when one of your effects raises your anger. You may shuffle 1 card with \"anger\" in the text box from your discard pile into your Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S18"
+    ],
+    "name": "Frieza - Transformed"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S18 Frieza - Transformed: This effect is considered a copied attack.",
+  "ruling_text": "This effect is considered a copied attack. ",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S25",
+     "R145"
+    ],
+    "name": "Saiyan Empowered Mastery"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S25/R145 Saiyan Empowered Mastery: Raise your anger 1 level for each Styled card that is Rejuvenated.",
+  "ruling_text": "Raise your anger 1 level for each Styled card that is Rejuvenated. ",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S30",
+     "R131"
+    ],
+    "name": "Namekian Knowledge Mastery"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S30/R131 Namekian Knowledge Mastery Original Text: \"∞: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\" Updated Text: \"\"∞: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\" (MRP: Evolution P1 Namekian Knowledge Mastery)",
+  "mrp_raw": "Evolution P1 Namekian Knowledge Mastery",
+  "note_raw": null,
+  "original_text": "∞: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S37"
+    ],
+    "name": "Black Targeting Drill"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S37 Black Targeting Drill: Your effects that target specific cards to be discarded are not affected by Black Targeting Drill. For example, Stare Down would discard the chosen card.",
+  "ruling_text": "Your effects that target specific cards to be discarded are not affected by Black Targeting Drill. For example, Stare Down would discard the chosen card.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S65"
+    ],
+    "name": "Blue Guard"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S65 Blue Guard Original Text: \"(If this card is discarded from your hand by a card effect, you may banish it instead to draw a card.)\" Updated Text: \"(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card.)\" (MRP: Evolution P9 Blue Guard, Awakening S50 Blue Guard) FanZ Updated Text: \"(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw a card.)\" (MRP: Movie Collection 3 P38 Blue Guard)",
+  "mrp_raw": "Evolution P9 Blue Guard, Awakening S50 Blue Guard) FanZ Updated Text: \"(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw a card.)\" (MRP: Movie Collection 3 P38 Blue Guard",
+  "note_raw": null,
+  "original_text": "(If this card is discarded from your hand by a card effect, you may banish it instead to draw a card.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": "(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw a card.)",
+  "updated_text": "(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "S96"
+    ],
+    "name": "Black Smoothness Drill"
+   }
+  ],
+  "section_set": 1,
+  "raw": "S96 Black Smoothness Drill This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "C15"
+    ],
+    "name": "Black Corruption"
+   }
+  ],
+  "section_set": 1,
+  "raw": "C15 Black Corruption Original Text: \"(If this card is discarded from your hand, Banish the top 2 cards of your opponent's Life Deck.)\" Updated Text: \"(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of your opponent's Life Deck.)\" (MRP: Evolution P3 Black Corruption, Awakening S125 Black Corruption)",
+  "mrp_raw": "Evolution P3 Black Corruption, Awakening S125 Black Corruption",
+  "note_raw": null,
+  "original_text": "(If this card is discarded from your hand, Banish the top 2 cards of your opponent's Life Deck.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of your opponent's Life Deck.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "C19"
+    ],
+    "name": "Black Punishment"
+   }
+  ],
+  "section_set": 1,
+  "raw": "C19 Black Punishment Original Text: \"HIT: Until the start of your next turn, whenever a card is banished your opponent destroys the top card of his Life Deck.\" Updated Text: \"HIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the top card of his Life Deck.\" (MRP: Evolution P2 Black Punishment)",
+  "mrp_raw": "Evolution P2 Black Punishment",
+  "note_raw": null,
+  "original_text": "HIT: Until the start of your next turn, whenever a card is banished your opponent destroys the top card of his Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the top card of his Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "C35"
+    ],
+    "name": "Namekian Right Throw"
+   }
+  ],
+  "section_set": 1,
+  "raw": "C35 Namekian Right Throw Original Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.\" Updated Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "U6"
+    ],
+    "name": "Captain Ginyu - Body Change"
+   },
+   {
+    "numbers": [
+     "U7"
+    ],
+    "name": "Captain Ginyu - Frog"
+   }
+  ],
+  "section_set": 1,
+  "raw": "U6 Captain Ginyu - Body Change and U7 Captain Ginyu - Frog: These Powers only prevent \"discarding\" an Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are not prevented.",
+  "ruling_text": "These Powers only prevent \"discarding\" an Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are not prevented.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "U86"
+    ],
+    "name": "Namekian Flinch"
+   }
+  ],
+  "section_set": 1,
+  "raw": "U86 Namekian Flinch Original Text: \"If your MP is level 3 or higher search your Life Deck for a Dragon Ball and play it.\" Updated Text: \"If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "If your MP is level 3 or higher search your Life Deck for a Dragon Ball and play it.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "U113"
+    ],
+    "name": "Overpowering Attack"
+   }
+  ],
+  "section_set": 1,
+  "raw": "U113 Overpowering Attack This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "U114"
+    ],
+    "name": "Quickness Drill"
+   }
+  ],
+  "section_set": 1,
+  "raw": "U114 Quickness Drill Original Text: \"∞: When entering combat, you may discard a card from your hand to place the bottom card of your discard pile into your hand.\" Updated Text: \"Ϟ POWER: Use when entering combat. You may discard a card from your hand to place the bottom card of your discard pile into your hand. (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "∞: When entering combat, you may discard a card from your hand to place the bottom card of your discard pile into your hand.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Ϟ POWER: Use when entering combat. You may discard a card from your hand to place the bottom card of your discard pile into your hand.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "U117"
+    ],
+    "name": "Goku's Kaio-Ken"
+   }
+  ],
+  "section_set": 1,
+  "raw": "U117 Goku's Kaio-Ken This Card Gains: \"(Banish after use.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Banish after use.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R121"
+    ],
+    "name": "Namek Dragon Ball 7"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R121 Namek Dragon Ball 7 Original Text: \"Choose 3 cards from your discard pile and place them on top of your Life Deck. Destroy the top 3 cards of your opponent's Life Deck.\" Updated Text: \"Choose 3 cards from your discard pile and place them on top of your Life Deck or Destroy the top 3 cards of your opponent's Life Deck.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Choose 3 cards from your discard pile and place them on top of your Life Deck. Destroy the top 3 cards of your opponent's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Choose 3 cards from your discard pile and place them on top of your Life Deck or Destroy the top 3 cards of your opponent's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R124"
+    ],
+    "name": "Black Disorienting Blow"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R124 Black Disorienting Blow: Hero/Villain only cards and Named cards are for deck construction purposes only, and may be targeted regardless of your MP's name or Alignment. You may not play Events that have a contextual timing, such as Time is a Warrior's Tool or Heroic Energy Sphere.",
+  "ruling_text": "Hero/Villain only cards and Named cards are for deck construction purposes only, and may be targeted regardless of your MP's name or Alignment. You may not play Events that have a contextual timing, such as Time is a Warrior's Tool or Heroic Energy Sphere.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R125"
+    ],
+    "name": "Black Reflection"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R125 Black Reflection: After resolving the attack, treat the targeted card as though it was played by your opponent. If it is banished after use, it will return to your opponent's Banished Zone. If it is discarded after use, it returns to your opponent's discard pile. If it would be shuffled into a Life Deck after use, your opponent shuffles it into their Life Deck. You may target any attack card, including Setups that perform attacks. You may not target cards that conditionally perform attacks, such as Allies.",
+  "ruling_text": "After resolving the attack, treat the targeted card as though it was played by your opponent. If it is banished after use, it will return to your opponent's Banished Zone. If it is discarded after use, it returns to your opponent's discard pile. If it would be shuffled into a Life Deck after use, your opponent shuffles it into their Life Deck. You may target any attack card, including Setups that perform attacks. You may not target cards that conditionally perform attacks, such as Allies.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R126",
+     "P16"
+    ],
+    "name": "Black Scout Maneuver"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R126/P16 Black Scout Maneuver Original Text: \"(Banish after use.) POWER: Name a Physical Combat, Energy Combat, or Event card. Your opponent searches his Life Deck for all copies of that card and banishes them.\" Updated Text: \"POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent's Life Deck for all copies of that card and banishes them. (Banish after use.)\" (MRP: Evolution P7 Black Scout Maneuver)",
+  "mrp_raw": "Evolution P7 Black Scout Maneuver",
+  "note_raw": null,
+  "original_text": "(Banish after use.) POWER: Name a Physical Combat, Energy Combat, or Event card. Your opponent searches his Life Deck for all copies of that card and banishes them.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent's Life Deck for all copies of that card and banishes them. (Banish after use.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R129",
+     "P18"
+    ],
+    "name": "Blue Terror"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R129/P18 Blue Terror Original Text: \"Search your Life Deck for a non-Dragon Ball card and place it into your hand.\" Updated Text: \"[God Trait]: Search your Life Deck for a non-Dragon Ball card and place it into your hand.\" (MRP: Revelation R13 Blue Terror)",
+  "mrp_raw": "Revelation R13 Blue Terror",
+  "note_raw": null,
+  "original_text": "Search your Life Deck for a non-Dragon Ball card and place it into your hand.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[God Trait]: Search your Life Deck for a non-Dragon Ball card and place it into your hand.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R138"
+    ],
+    "name": "Orange Searching Maneuver"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R138 Orange Searching Maneuver: Search for the Drill immediately, and set it aside to be placed into play at the end of combat. If it is unable to enter play at that time, it remains outside of play (separate from the Banished Zone) until the game ends.",
+  "ruling_text": "Search for the Drill immediately, and set it aside to be placed into play at the end of combat. If it is unable to enter play at that time, it remains outside of play (separate from the Banished Zone) until the game ends.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R139"
+    ],
+    "name": "Orange Uppercut"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R139 Orange Uppercut Original Text: \"Physical attack. You may pay 2 power stages to search your Life Deck for an Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)\" Panini Updated Text: \"Physical attack. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)\" FanZ Updated Text: \"(Limit 1 per deck.) Physical attack. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Physical attack. You may pay 2 power stages to search your Life Deck for an Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)",
+  "panini_updated_text": "Physical attack. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)",
+  "fanz_updated_text": "(Limit 1 per deck.) Physical attack. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand. DAMAGE: AT +4 stages. (Banish after use.)",
+  "updated_text": null,
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "R144"
+    ],
+    "name": "Red Observation"
+   }
+  ],
+  "section_set": 1,
+  "raw": "R144 Red Observation: This card has no cost to play, and may be used regardless of your MP's current power stages. If you are able to pay five or more stages for the first effect, you must. If you are unable to pay, move o to the next sentence and resolve the remaining effects normally.",
+  "ruling_text": "This card has no cost to play, and may be used regardless of your MP's current power stages. If you are able to pay five or more stages for the first effect, you must. If you are unable to pay, move o to the next sentence and resolve the remaining effects normally.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premiere Set",
+  "cards": [
+   {
+    "numbers": [
+     "P17"
+    ],
+    "name": "Piccolo's Special Beam Cannon"
+   }
+  ],
+  "section_set": 1,
+  "raw": "P17 Piccolo's Special Beam Cannon Original Text: \"HIT: Name two different cards. Search your opponent's Life Deck for 1 copy of each card and banish them.\" Updated Text: \"HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.\" (NOTE: This change matches the printed text of R158 - Piccolo's Special Beam Cannon)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of R158 - Piccolo's Special Beam Cannon",
+  "original_text": "HIT: Name two different cards. Search your opponent's Life Deck for 1 copy of each card and banish them.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "C40"
+    ],
+    "name": "Orange Crashing Drill"
+   }
+  ],
+  "section_set": 2,
+  "raw": "C40 Orange Crashing Drill Original Text: \"∞: When this card enters play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.\" Updated Text: \"∞: When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.\" (MRP: Evolution P5 Orange Crashing Drill)",
+  "mrp_raw": "Evolution P5 Orange Crashing Drill",
+  "note_raw": null,
+  "original_text": "∞: When this card enters play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "C52"
+    ],
+    "name": "Saiyan Strength Test"
+   }
+  ],
+  "section_set": 2,
+  "raw": "C52 Saiyan Strength Test This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the FanZ Fusion card images P37)",
+  "mrp_raw": "This card is currently up to date in the FanZ Fusion card images P37",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "C60"
+    ],
+    "name": "Combination Drill"
+   }
+  ],
+  "section_set": 2,
+  "raw": "C60 Combination Drill Original Text: \"Ϟ POWER: Use when entering combat. Choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may then use the effect of this drill.\" Updated Text: \"∞ POWER: When entering combat, choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may choose a Drill not named \"Combination Drill\" and destroy it. \" (MRP: Evolution P8 Combination Drill)",
+  "mrp_raw": "Evolution P8 Combination Drill",
+  "note_raw": null,
+  "original_text": "Ϟ POWER: Use when entering combat. Choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may then use the effect of this drill.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞ POWER: When entering combat, choose a Drill not named \"Combination Drill\" and destroy it. Your opponent may choose a Drill not named \"Combination Drill\" and destroy it.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "U71"
+    ],
+    "name": "Trunks - Bashful"
+   }
+  ],
+  "section_set": 2,
+  "raw": "U71 Trunks - Bashful Original Text: \"[CARD TYPE: Ally] (Heroes only.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\" Updated Text: \"[CARD TYPE: Hero Ally] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\" (MRP: None - Evolution Promo P4 Trunks - Bashful is also incorrectly printed)",
+  "mrp_raw": "None - Evolution Promo P4 Trunks - Bashful is also incorrectly printed",
+  "note_raw": null,
+  "original_text": "[CARD TYPE: Ally] (Heroes only.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[CARD TYPE: Hero Ally] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "U100"
+    ],
+    "name": "Tenshinhan's Preparation"
+   }
+  ],
+  "section_set": 2,
+  "raw": "U100 Tenshinhan's Preparation: The user of this card destroys the top 2 cards of his or her Life Deck first, then the opponent.",
+  "ruling_text": "The user of this card destroys the top 2 cards of his or her Life Deck first, then the opponent.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "R112"
+    ],
+    "name": "Namekian Backhand"
+   }
+  ],
+  "section_set": 2,
+  "raw": "R112 Namekian Backhand This Card Gains: \"(Limit 1 per deck.)\" (MRP: FanZ Movie Collection 2 Promos P19)",
+  "mrp_raw": "FanZ Movie Collection 2 Promos P19",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "R115"
+    ],
+    "name": "Namekian Confident Burst"
+   }
+  ],
+  "section_set": 2,
+  "raw": "R115 Namekian Confident Burst This Card Gains: \"(Limit 1 per deck.)\" (MRP: FanZ Fusion Promos P27)",
+  "mrp_raw": "FanZ Fusion Promos P27",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "R127"
+    ],
+    "name": "Saiyan Outrage"
+   }
+  ],
+  "section_set": 2,
+  "raw": "R127 Saiyan Outrage This Card Gains: \"(Banish after use.)\" (NOTE: This change matches the printed text of P10 - Saiyan Outrage)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of P10 - Saiyan Outrage",
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Banish after use.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Heroes & Villains",
+  "cards": [
+   {
+    "numbers": [
+     "R131"
+    ],
+    "name": "Isolation"
+   }
+  ],
+  "section_set": 2,
+  "raw": "R131 Isolation Original Text: \"(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them to combat.\" Updated Text: \"(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them to combat.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Banish after use.) Ϟ POWER: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C2"
+    ],
+    "name": "Master Roshi - Scouted"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C2 Master Roshi - Scouted Original Text: \"(Heroes only.) ∞: Players cannot use card effects to search a player's Life Deck.\" Updated Text: \"(Heroes only.) ∞: Players cannot use effects to search a player's Life Deck.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "(Heroes only.) ∞: Players cannot use card effects to search a player's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Heroes only.) ∞: Players cannot use effects to search a player's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C5"
+    ],
+    "name": "Dr. Wheelo - Intelligent"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C5 Dr. Wheelo - Intelligent Original Text: \"(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, Setup in play and shuffle that card into its owner's Life Deck.\" Updated Text: \"(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, or Setup in play and shuffle that card into its owner's Life Deck.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, Setup in play and shuffle that card into its owner's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, or Setup in play and shuffle that card into its owner's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C14"
+    ],
+    "name": "Black Flying Knee"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C14 Black Flying Knee: You may name the same card twice, but two copies must be revealed.",
+  "ruling_text": "You may name the same card twice, but two copies must be revealed. ",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C28"
+    ],
+    "name": "Namekian Mouth Beam"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C28 Namekian Mouth Beam Original Text: \"HIT: Choose a Styled block in your discard pile and Rejuvenate it.\" Updated Text: \"HIT: Choose a Styled card with a shield icon in your discard pile and Rejuvenate it.\" (MRP: Evolution P10 Namekian Mouth Beam)",
+  "mrp_raw": "Evolution P10 Namekian Mouth Beam",
+  "note_raw": null,
+  "original_text": "HIT: Choose a Styled block in your discard pile and Rejuvenate it.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: Choose a Styled card with a shield icon in your discard pile and Rejuvenate it.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C42"
+    ],
+    "name": "Orange Smash"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C42 Orange Smash Original Text: \"Banish up to 3 of your Drills and return them to play at the end of combat.\" Updated Text: \"Banish up to 3 Drills you control. At the end of combat, place those Drills into play under their owner's control from the Banished Zone.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Banish up to 3 of your Drills and return them to play at the end of combat.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Banish up to 3 Drills you control. At the end of combat, place those Drills into play under their owner's control from the Banished Zone.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "C60"
+    ],
+    "name": "Lookout Drill"
+   }
+  ],
+  "section_set": 3,
+  "raw": "C60 Lookout Drill Original Text: \"∞: The first time each turn an opponent's card effect would destroy or banish cards from the top of your Life Deck, reduce that amount to 0.\" Updated Text: \"∞: The first time each turn an opponent's card effect would cause you to destroy or banish cards from the top of your Life Deck, reduce that amount to 0.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "∞: The first time each turn an opponent's card effect would destroy or banish cards from the top of your Life Deck, reduce that amount to 0.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: The first time each turn an opponent's card effect would cause you to destroy or banish cards from the top of your Life Deck, reduce that amount to 0.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "U96"
+    ],
+    "name": "Red Trailing Blast"
+   }
+  ],
+  "section_set": 3,
+  "raw": "U96 Red Trailing Blast This Card Gains: \"If the highest power level on your MP's Level 4 is more than 500,000 and this card would attach to your MP, banish it instead.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "If the highest power level on your MP's Level 4 is more than 500,000 and this card would attach to your MP, banish it instead.",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "U100"
+    ],
+    "name": "Saiyan Upward Kick"
+   }
+  ],
+  "section_set": 3,
+  "raw": "U100 Saiyan Upward Kick: This effect also prevents your opponent from \"raising\" stages. Note that leveling up allows you to \"set\" your MP to 10 stages above zero.",
+  "ruling_text": "This effect also prevents your opponent from \"raising\" stages. Note that leveling up allows you to \"set\" your MP to 10 stages above zero.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "R139"
+    ],
+    "name": "Pulverize"
+   }
+  ],
+  "section_set": 3,
+  "raw": "R139 Pulverize: You would search your Life Deck for the Physical Combat or Energy Combat attack card, reveal it, shuffle your Life Deck, and then place the chosen card on top.",
+  "ruling_text": "You would search your Life Deck for the Physical Combat or Energy Combat attack card, reveal it, shuffle your Life Deck, and then place the chosen card on top.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "P4"
+    ],
+    "name": "Red Shoulder Grab"
+   }
+  ],
+  "section_set": 3,
+  "raw": "P4 Red Shoulder Grab Original Text: \"Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your successful attacks are considered to deal critical damage.\" Updated Text: \"[Sword Icon] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal critical damage.\" (NOTE: This change matches the printed text of Premiere C50 Red Shoulder Grab)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere C50 Red Shoulder Grab",
+  "original_text": "Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your successful attacks are considered to deal critical damage.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal critical damage.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "P8"
+    ],
+    "name": "Devastating Blow"
+   }
+  ],
+  "section_set": 3,
+  "raw": "P8 Devastating Blow This Card Gains: \"[Sword Icon]\" (NOTE: This change matches the printed text of Premiere U110 Devastating Blow)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere U110 Devastating Blow",
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "[Sword Icon]",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "The Movie Collection",
+  "cards": [
+   {
+    "numbers": [
+     "P9"
+    ],
+    "name": "Orange Stare Down"
+   }
+  ],
+  "section_set": 3,
+  "raw": "P9 Orange Stare Down Original Text: \"Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, vDrill or Ally.\" Updated Text: \"[Sword Icon] Energy Attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill, or Ally.\" (NOTE: This change matches the printed text of Premiere S117 Orange Stare Down)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere S117 Orange Stare Down",
+  "original_text": "Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, vDrill or Ally.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Energy Attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill, or Ally.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S3"
+    ],
+    "name": "Trunks - Defiant"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S3 Trunks - Defiant Original Text: \"POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card from your discard pile and place it into your hand. Your opponent skips his next action this combat.\" Updated Text: \"POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card that is Styled or has \"Sword\" in the title from your discard pile and place it into your hand. Your opponent skips their next action this combat.\" (MRP: Movie Collection 2 P4 Trunks - Defiant)",
+  "mrp_raw": "Movie Collection 2 P4 Trunks - Defiant",
+  "note_raw": null,
+  "original_text": "POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card from your discard pile and place it into your hand. Your opponent skips his next action this combat.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "POWER: Place a card from your hand on the top or bottom of your Life Deck to choose an attack card that is Styled or has \"Sword\" in the title from your discard pile and place it into your hand. Your opponent skips their next action this combat.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S35"
+    ],
+    "name": "Black Smoothness Drill"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S35 Black Smoothness Drill This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S81"
+    ],
+    "name": "Namek Dragon Ball 6"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S81 Namek Dragon Ball 6 Original Text: \"CARD TYPE: Mastery\" Updated Text: \"CARD TYPE: Dragon Ball\" (NOTE: This change matches the printed text of Premiere U63 Namek Dragon Ball 6)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere U63 Namek Dragon Ball 6",
+  "original_text": "CARD TYPE: Mastery",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "CARD TYPE: Dragon Ball",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S97"
+    ],
+    "name": "Namekian Reinforced Block"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S97 Namekian Reinforced Block Original Text: \"ENDURANCE 1\" Updated Text: \"ENDURANCE 2\" (NOTE: This change matches the printed text of Movie Collection C29 Namekian Reinforced Block)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Movie Collection C29 Namekian Reinforced Block",
+  "original_text": "ENDURANCE 1",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "ENDURANCE 2",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S98"
+    ],
+    "name": "Namekian Right Throw"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S98 Namekian Right Throw Original Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.\" Updated Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S105"
+    ],
+    "name": "Orange Calming Drill"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S105 Orange Calming Drill This Card Gains: \"ENDURANCE 1\" (NOTE: This change matches the printed text of Heroes & Villains C39 Orange Calming Drill)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Heroes & Villains C39 Orange Calming Drill",
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "ENDURANCE 1",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S107"
+    ],
+    "name": "Orange Joint Restraint Drill"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S107 Orange Joint Restraint Drill Original Text: \"∞: Your physical attacks deal +4 stages of damage.\" Updated Text: \"∞: Your physical attacks deal +2 stages of damage.\" (NOTE: This change matches the printed text of Premiere C37 Orange Joint Restraint Drill)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere C37 Orange Joint Restraint Drill",
+  "original_text": "∞: Your physical attacks deal +4 stages of damage.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: Your physical attacks deal +2 stages of damage.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S109"
+    ],
+    "name": "Orange Cover Up"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S109 Orange Cover Up Original Text: \"ENDURANCE 2\" Updated Text: \"ENDURANCE 1\" (NOTE: This change matches the printed text of Premiere S146 Orange Cover Up)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere S146 Orange Cover Up",
+  "original_text": "ENDURANCE 2",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "ENDURANCE 1",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "S148"
+    ],
+    "name": "Red Lightning Slash"
+   }
+  ],
+  "section_set": 4,
+  "raw": "S148 Red Lightning Slash Original Text: \"HIT: You may lower your anger 1 level to destroy all of your opponent's Allies or all of his Drills.\" Updated Text: \"HIT: You may lower your anger 2 levels to destroy all of your opponent's Allies or all of his Drills.\" (NOTE: This change matches the printed text of Premiere U99 Red Lightning Slash)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Premiere U99 Red Lightning Slash",
+  "original_text": "HIT: You may lower your anger 1 level to destroy all of your opponent's Allies or all of his Drills.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: You may lower your anger 2 levels to destroy all of your opponent's Allies or all of his Drills.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "C42"
+    ],
+    "name": "Red Quick Jab"
+   }
+  ],
+  "section_set": 4,
+  "raw": "C42 Red Quick Jab Original Text: \"Ϟ Physical attack.\" Updated Text: \"[Sword Icon] Physical attack.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Ϟ Physical attack.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Physical attack.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "C52"
+    ],
+    "name": "Saiyan Empowered Smash"
+   }
+  ],
+  "section_set": 4,
+  "raw": "C52 Saiyan Empowered Smash This Card Gains: \"[Sword Icon]\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "[Sword Icon]",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "U79"
+    ],
+    "name": "Red Forceful Strike"
+   }
+  ],
+  "section_set": 4,
+  "raw": "U79 Red Forceful Strike Original Text: \"Ϟ Physical attack.\" Updated Text: \"[Sword Icon] Physical attack.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Ϟ Physical attack.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Physical attack.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "U84"
+    ],
+    "name": "Saiyan Sword Strike"
+   }
+  ],
+  "section_set": 4,
+  "raw": "U84 Saiyan Sword Strike Original Text: \"If your opponent passed as his last action, this attack cannot be stopped nor have its damage prevented.\" Updated Text: \"If your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage prevented.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "If your opponent passed as his last action, this attack cannot be stopped nor have its damage prevented.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "If your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage prevented.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "U97"
+    ],
+    "name": "Android 17 - Beckoning"
+   }
+  ],
+  "section_set": 4,
+  "raw": "U97 Android 17 - Beckoning Original Text: \"POWER: Physical attack.\" Updated Text: \"POWER: [Sword Icon] Physical attack.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "POWER: Physical attack.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "POWER: [Sword Icon] Physical attack.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "R122"
+    ],
+    "name": "Saiyan Tracking Blast"
+   }
+  ],
+  "section_set": 4,
+  "raw": "R122 Saiyan Tracking Blast Original Text: \"Ϟ Energy attack costing 3 stages.\" Updated Text: \"[Sword Icon] Energy attack costing 3 stages.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Ϟ Energy attack costing 3 stages.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Energy attack costing 3 stages.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "R126"
+    ],
+    "name": "Android 18's Toss"
+   }
+  ],
+  "section_set": 4,
+  "raw": "R126 Android 18's Toss Original Text: \"Ϟ Energy attack costing 2 stages.\" Updated Text: \"[Sword Icon] Energy attack costing 2 stages.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Ϟ Energy attack costing 2 stages.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[Sword Icon] Energy attack costing 2 stages.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "R130"
+    ],
+    "name": "Android 20's Domination"
+   }
+  ],
+  "section_set": 4,
+  "raw": "R130 Android 20's Domination This Card Gains: \"CARD TYPE: Physical Combat\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "CARD TYPE: Physical Combat",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "P4"
+    ],
+    "name": "Trunks - Bashful"
+   }
+  ],
+  "section_set": 4,
+  "raw": "P4 Trunks - Bashful Original Text: \"[CARD TYPE: Hero] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\" Updated Text: \"[CARD TYPE: Hero Ally] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\" (NOTE: This card was also erroneously printed using the MP template rather than the Ally template) (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": "This card was also erroneously printed using the MP template rather than the Ally template",
+  "original_text": "[CARD TYPE: Hero] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[CARD TYPE: Hero Ally] (You may use this power regardless of your MP's power stage.) Ϟ POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "U74"
+    ],
+    "name": "Namekian Leaping Kick"
+   }
+  ],
+  "section_set": 4,
+  "raw": "U74 Namekian Leaping Kick This Card Gains: \"(Limit 1 per deck.)\" (MRP: FanZ Super Premier Promos P23)",
+  "mrp_raw": "FanZ Super Premier Promos P23",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Evolution",
+  "cards": [
+   {
+    "numbers": [
+     "R111"
+    ],
+    "name": "Orange Freezing Drill"
+   }
+  ],
+  "section_set": 4,
+  "raw": "R111 Orange Freezing Drill This Card Gains: \"(Orange Adept Mastery only.)\" (MRP: This card is currently up to date in the Evolution card images.)",
+  "mrp_raw": "This card is currently up to date in the Evolution card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Orange Adept Mastery only.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "C52"
+    ],
+    "name": "Saiyan Demolishing Beam"
+   }
+  ],
+  "section_set": 5,
+  "raw": "C52 Saiyan Demolishing Beam Original Text: \"HIT: You may use the immediate effects of a Dragon Ball in play. Rejuvenate this card.\" Updated Text: \"HIT: You may use the immediate effects of a Dragon Ball in play. If you do, banish this card after use. If you do not, Rejuvenate this card.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "HIT: You may use the immediate effects of a Dragon Ball in play. Rejuvenate this card.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: You may use the immediate effects of a Dragon Ball in play. If you do, banish this card after use. If you do not, Rejuvenate this card.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "U91"
+    ],
+    "name": "Orange Charge"
+   }
+  ],
+  "section_set": 5,
+  "raw": "U91 Orange Charge: If you fail to reveal a Styled attack, the revealed cards are shuffled into yoru Life Deck.",
+  "ruling_text": "If you fail to reveal a Styled attack, the revealed cards are shuffled into yoru Life Deck. ",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "U100"
+    ],
+    "name": "Saiyan Sword Skill"
+   }
+  ],
+  "section_set": 5,
+  "raw": "U100 Saiyan Sword Skill This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "R115"
+    ],
+    "name": "Overwhelming Power"
+   }
+  ],
+  "section_set": 5,
+  "raw": "R115 Overwhelming Power Original Text: \"(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a card effect, you may use a critical damage effect.)\" Updated Text: \"(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a non-Mastery card effect, you may use a critical damage effect.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a card effect, you may use a critical damage effect.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Limit 2 per deck. This card is considered a Styled and Named card for your card effects. If this card is placed into your hand by a non-Mastery card effect, you may use a critical damage effect.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "R116"
+    ],
+    "name": "Black Discovery"
+   }
+  ],
+  "section_set": 5,
+  "raw": "R116 Black Discovery This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "R119"
+    ],
+    "name": "Black Extreme Blast"
+   }
+  ],
+  "section_set": 5,
+  "raw": "R119 Black Extreme Blast Original Text: \"Attach to your MP. While attached, you may lower your opponent's anger 1 level whenever you destroy cards from your opponent's Life Deck. Banish this card when your opponent's MP changes levels.\" Updated Text: \"Attach to your MP. While attached, once per turn you may lower your opponent's anger 1 level whenever you destroy cards from your opponent's Life Deck. Banish this card when your opponent's MP changes levels.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Attach to your MP. While attached, you may lower your opponent's anger 1 level whenever you destroy cards from your opponent's Life Deck. Banish this card when your opponent's MP changes levels.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Attach to your MP. While attached, once per turn you may lower your opponent's anger 1 level whenever you destroy cards from your opponent's Life Deck. Banish this card when your opponent's MP changes levels.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "DR4"
+    ],
+    "name": "Cell - Unstoppable"
+   }
+  ],
+  "section_set": 5,
+  "raw": "DR4 Cell - Unstoppable This Card Gains: \"(This card's non-Ϟ power may only be used once per game.)\" (MRP: Awakening S14/DR14 Cell - Unstoppable)",
+  "mrp_raw": "Awakening S14/DR14 Cell - Unstoppable",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(This card's non-Ϟ power may only be used once per game.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "P9"
+    ],
+    "name": "Red Trailing Blast"
+   }
+  ],
+  "section_set": 5,
+  "raw": "P9 Red Trailing Blast This Card Gains: \"If the highest power level on your MP's Level 4 is more than 500,000 and this card would attach to your MP, banish it instead.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "If the highest power level on your MP's Level 4 is more than 500,000 and this card would attach to your MP, banish it instead.",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "P13"
+    ],
+    "name": "Red City Destruction"
+   }
+  ],
+  "section_set": 5,
+  "raw": "P13 Red City Destruction Original Text: \"[CARD TYPE: Energy Combat]\" Updated Text: \"[CARD TYPE: Event]\" (NOTE: This change matches the printed text of Heroes & Villains U89 Red City Destruction)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Heroes & Villains U89 Red City Destruction",
+  "original_text": "[CARD TYPE: Energy Combat]",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "[CARD TYPE: Event]",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Perfection",
+  "cards": [
+   {
+    "numbers": [
+     "P14"
+    ],
+    "name": "Orange Uppercut"
+   }
+  ],
+  "section_set": 5,
+  "raw": "P14 Orange Uppercut This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Vengeance",
+  "cards": [
+   {
+    "numbers": [
+     "C33"
+    ],
+    "name": "Orange Shopping Drill"
+   }
+  ],
+  "section_set": 6,
+  "raw": "C33 Orange Shopping Drill Original Text: \"∞: Your opponent cannot use effects that banish cards from a discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.\" Updated Text: \"∞: Your opponent cannot use effects that banish cards from your discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.\" (MRP: Movie Collection 3 PXX Orange Shopping Drill)",
+  "mrp_raw": "Movie Collection 3 PXX Orange Shopping Drill",
+  "note_raw": null,
+  "original_text": "∞: Your opponent cannot use effects that banish cards from a discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: Your opponent cannot use effects that banish cards from your discard pile. When this Drill is leaving play, you may banish this card and your discard pile to banish 6 cards from your opponent's discard pile.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Vengeance",
+  "cards": [
+   {
+    "numbers": [
+     "U77"
+    ],
+    "name": "Icarus - Supportive"
+   }
+  ],
+  "section_set": 6,
+  "raw": "U77 Icarus - Supportive Original Text: \"∞: Your other Allies cannot be destroyed or banished by your opponent's card effects.\" Updated Text: \"∞: Your other [Earthling Trait] Allies cannot be destroyed or banished by your opponent's card effects.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "∞: Your other Allies cannot be destroyed or banished by your opponent's card effects.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "∞: Your other [Earthling Trait] Allies cannot be destroyed or banished by your opponent's card effects.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Vengeance",
+  "cards": [
+   {
+    "numbers": [
+     "UR142"
+    ],
+    "name": "Unleashed"
+   }
+  ],
+  "section_set": 6,
+  "raw": "UR142 Unleashed This Card Gains: \"(Banish after use.)\" (MRP: None) FanZ Updated Text: \"(You cannot win by MPPV if you use this card.) POWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way. (Banish after use.)\" (MRP: Movie Collection 3 P30 Unleashed)",
+  "mrp_raw": "None) FanZ Updated Text: \"(You cannot win by MPPV if you use this card.) POWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way. (Banish after use.)\" (MRP: Movie Collection 3 P30 Unleashed",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": "(You cannot win by MPPV if you use this card.) POWER: Search your Life Deck for a card that can attach to your MP and place it into play attached. If your MP has a card attached to it, you may advance or lower your MP 1 level. If your opponent cannot win by MPPV, destroy any number of cards attached to your MP. Lower your opponent's MP level equal to the number of cards destroyed this way. (Banish after use.)",
+  "updated_text": null,
+  "gains": "(Banish after use.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Vengeance",
+  "cards": [
+   {
+    "numbers": [
+     "P1"
+    ],
+    "name": "Black Smoothness Drill"
+   }
+  ],
+  "section_set": 6,
+  "raw": "P1 Black Smoothness Drill This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "S10",
+     "DR10"
+    ],
+    "name": "Orange Retribution Mastery"
+   }
+  ],
+  "section_set": 7,
+  "raw": "S10/DR10 Orange Retribution Mastery This Card Gains: \"(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this turn.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this turn.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "S86"
+    ],
+    "name": "Namekian Right Throw"
+   }
+  ],
+  "section_set": 7,
+  "raw": "S86 Namekian Right Throw Original Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.\" Updated Text: \"You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do, raise your anger 2 levels.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "You may shuffle a Dragon Ball you control back into its owner's Life Deck. If you do and your MP has 2 or less Traits, raise your anger 2 levels.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "S101"
+    ],
+    "name": "Saiyan Back Crash"
+   }
+  ],
+  "section_set": 7,
+  "raw": "S101 Saiyan Back Crash This Card Gains: \"ENDURANCE 0\" (NOTE: This change matches the printed text of Evolution U98 Saiyan Back Crash)",
+  "mrp_raw": null,
+  "note_raw": "This change matches the printed text of Evolution U98 Saiyan Back Crash",
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "ENDURANCE 0",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "C32"
+    ],
+    "name": "Orange Checkup Drill"
+   }
+  ],
+  "section_set": 7,
+  "raw": "C32 Orange Checkup Drill Original Text: \"(When this Drill enters play during combat, you may search your Life Deck for a Styled \"shield icon\"card and place it into your hand.)\" Panini Updated Text: \"(When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)\" FanZ Updated Text: \"(Limit 1 per deck. When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "(When this Drill enters play during combat, you may search your Life Deck for a Styled \"shield icon\"card and place it into your hand.)",
+  "panini_updated_text": "(When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)",
+  "fanz_updated_text": "(Limit 1 per deck. When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)",
+  "updated_text": null,
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "C58"
+    ],
+    "name": "Saiyan Turning Kick"
+   }
+  ],
+  "section_set": 7,
+  "raw": "C58 Saiyan Turning Kick This Card Gains: \"(Limit 2 per deck.)\" (MRP: None.)",
+  "mrp_raw": "None.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 2 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "U95"
+    ],
+    "name": "Red Scanning Drill"
+   }
+  ],
+  "section_set": 7,
+  "raw": "U95 Red Scanning Drill Original Text: \"∞: Whenever your anger is lowered, destroy the top card of your opponent's Life Deck.\" Updated Text: \"Ϟ POWER: Use when your anger is lowered. Destroy the top card of your opponent's Life Deck.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "∞: Whenever your anger is lowered, destroy the top card of your opponent's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Ϟ POWER: Use when your anger is lowered. Destroy the top card of your opponent's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "U97"
+    ],
+    "name": "Red Pummel"
+   }
+  ],
+  "section_set": 7,
+  "raw": "U97 Red Pummel Original Text: \"HIT: At the end of combat, you may lower your anger to 0. If you do, search your Life deck or discard pile for a Drill and play it.\" Updated Text: \"HIT: At the end of combat, you may set your anger to 0. If you do, search your Life deck or discard pile for a Drill and play it.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "HIT: At the end of combat, you may lower your anger to 0. If you do, search your Life deck or discard pile for a Drill and play it.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "HIT: At the end of combat, you may set your anger to 0. If you do, search your Life deck or discard pile for a Drill and play it.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "U98"
+    ],
+    "name": "Saiyan Clench"
+   }
+  ],
+  "section_set": 7,
+  "raw": "U98 Saiyan Clench This Card Gains: \"(Limit 2 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 2 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "R133"
+    ],
+    "name": "Gohan's Backlash"
+   }
+  ],
+  "section_set": 7,
+  "raw": "R133 Gohan's Backlash This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "RULING",
+  "section": "Awakening",
+  "cards": [
+   {
+    "numbers": [
+     "R135"
+    ],
+    "name": "Hercule's Dynamite Kick"
+   }
+  ],
+  "section_set": 7,
+  "raw": "R135 Hercule's Dynamite Kick: If you are taking damage and can only discard Dragon Balls and/or Hercule's Dynamite Kick, your opponent wins by Survival Victory.",
+  "ruling_text": "If you are taking damage and can only discard Dragon Balls and/or Hercule's Dynamite Kick, your opponent wins by Survival Victory.",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Celestial Tournament",
+  "cards": [
+   {
+    "numbers": [
+     "C18"
+    ],
+    "name": "Orange Meditation"
+   }
+  ],
+  "section_set": 8,
+  "raw": "C18 Orange Meditation This Card Gains: \"(Limit 2 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 2 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Celestial Tournament",
+  "cards": [
+   {
+    "numbers": [
+     "C19"
+    ],
+    "name": "Orange Bicycle Kick"
+   }
+  ],
+  "section_set": 8,
+  "raw": "C19 Orange Bicycle Kick Original Text: \"Lower a player's anger 2 levels. Rejuvenate any number of Drills you control. Search your Life Deck for X ∞ Drills and place them into play. X = the number of Drills you Rejuvenated.\" Updated Text: \"Lower a player's anger 2 levels. Rejuvenate up to 3 Drills you control. Search your Life Deck for X ∞ Styled Drills and place them into play. X = the number of Drills you Rejuvenated.\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": "Lower a player's anger 2 levels. Rejuvenate any number of Drills you control. Search your Life Deck for X ∞ Drills and place them into play. X = the number of Drills you Rejuvenated.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Lower a player's anger 2 levels. Rejuvenate up to 3 Drills you control. Search your Life Deck for X ∞ Styled Drills and place them into play. X = the number of Drills you Rejuvenated.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Celestial Tournament",
+  "cards": [
+   {
+    "numbers": [
+     "U40"
+    ],
+    "name": "King Cold - Caught Off Guard"
+   }
+  ],
+  "section_set": 8,
+  "raw": "U40 King Cold - Caught Off Guard Original Text: \"(This card is considered Named for your effects. If your MP is Frieza or Cooler, you may use this Power regardless of your MP's power stage.)\" Updated Text: \"(If your MP is Chilled, Cooler, or Frieza, this card is considered Named and you may use this Power regardless of your MP's power stage.)\" (MRP: This card is currently up to date in the Celestial Tournament card images.)",
+  "mrp_raw": "This card is currently up to date in the Celestial Tournament card images.",
+  "note_raw": null,
+  "original_text": "(This card is considered Named for your effects. If your MP is Frieza or Cooler, you may use this Power regardless of your MP's power stage.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(If your MP is Chilled, Cooler, or Frieza, this card is considered Named and you may use this Power regardless of your MP's power stage.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Celestial Tournament",
+  "cards": [
+   {
+    "numbers": [
+     "R2"
+    ],
+    "name": "Black Absorption Drill"
+   }
+  ],
+  "section_set": 8,
+  "raw": "R2 Black Absorption Drill Original Text: \"Whenever you discard, destroy, or banish cards from your opponent's Life Deck from a non-damage effect, you may place a card from either player's discard pile on top of its owner's Life Deck.\" Updated Text: \"Whenever you discard, destroy, or banish cards from your opponent's Life Deck with a non-damage effect, you may place a Styled card from either player's discard pile on top of its owner's Life Deck.\" (MRP: None.)",
+  "mrp_raw": "None.",
+  "note_raw": null,
+  "original_text": "Whenever you discard, destroy, or banish cards from your opponent's Life Deck from a non-damage effect, you may place a card from either player's discard pile on top of its owner's Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Whenever you discard, destroy, or banish cards from your opponent's Life Deck with a non-damage effect, you may place a Styled card from either player's discard pile on top of its owner's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Legends",
+  "cards": [
+   {
+    "numbers": [
+     "U4"
+    ],
+    "name": "Black Punt"
+   }
+  ],
+  "section_set": 9,
+  "raw": "U4 Black Punt Original Text: \"Attach to your MP. While attached, cards that you own are considered Styled. Banish this card when your opponent's MP advances a level.\" Updated Text: \"Attach to your MP. While attached, your attacks are considered Styled. Banish this card when your opponent's MP advances a level.\" (MRP: This card is currently up to date in the Legends card images.)",
+  "mrp_raw": "This card is currently up to date in the Legends card images.",
+  "note_raw": null,
+  "original_text": "Attach to your MP. While attached, cards that you own are considered Styled. Banish this card when your opponent's MP advances a level.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Attach to your MP. While attached, your attacks are considered Styled. Banish this card when your opponent's MP advances a level.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Legends",
+  "cards": [
+   {
+    "numbers": [
+     "R26"
+    ],
+    "name": "Saiyan Pre-Game"
+   }
+  ],
+  "section_set": 9,
+  "raw": "R26 Saiyan Pre-Game This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Legends card images.)",
+  "mrp_raw": "This card is currently up to date in the Legends card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Legends",
+  "cards": [
+   {
+    "numbers": [
+     "S61"
+    ],
+    "name": "Vegeta, The Crown Prince"
+   }
+  ],
+  "section_set": 9,
+  "raw": "S61 Vegeta, The Crown Prince This Card Gains: \"(Saiyan Mastery only.)\" (MRP: This card is currently up to date in the Legends card images.)",
+  "mrp_raw": "This card is currently up to date in the Legends card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Saiyan Mastery only.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Revelation",
+  "cards": [
+   {
+    "numbers": [
+     "R16"
+    ],
+    "name": "Namekian Ascension"
+   }
+  ],
+  "section_set": 10,
+  "raw": "R16 Namekian Ascension This Card Gains: \"(Limit 2 per deck.)\" (MRP: This card is currently up to date in the Revelation card images.)",
+  "mrp_raw": "This card is currently up to date in the Revelation card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 2 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Revelation",
+  "cards": [
+   {
+    "numbers": [
+     "U58"
+    ],
+    "name": "Bulma - Taking a Drag"
+   }
+  ],
+  "section_set": 10,
+  "raw": "U58 Bulma - Taking a Drag Original Text: \"(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage and you may play this card from your hand as an action to gain 5 stages and draw a card.)\" Updated Text: \"(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage and once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.)\" (MRP: This card is currently up to date in the Revelation card images.)",
+  "mrp_raw": "This card is currently up to date in the Revelation card images.",
+  "note_raw": null,
+  "original_text": "(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage and you may play this card from your hand as an action to gain 5 stages and draw a card.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(If your MP is Kid Trunks, Trunks, or Vegeta, you may use this Power regardless of your MP's power stage and once per combat you may play this card from your hand as an action to gain 5 stages and draw a card.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Escalation",
+  "cards": [
+   {
+    "numbers": [
+     "U16"
+    ],
+    "name": "Orange Attraction Drill"
+   }
+  ],
+  "section_set": 11,
+  "raw": "U16 Orange Attraction Drill This Card Loses: \"(Orange Combative Mastery only.)\" (MRP: This card is currently up to date in the Escalation card images.)",
+  "mrp_raw": "This card is currently up to date in the Escalation card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": null,
+  "loses": "(Orange Combative Mastery only.)",
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Escalation",
+  "cards": [
+   {
+    "numbers": [
+     "C26"
+    ],
+    "name": "Saiyan Combative Stance"
+   }
+  ],
+  "section_set": 11,
+  "raw": "C26 Saiyan Combative Stance This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Escalation card images.)",
+  "mrp_raw": "This card is currently up to date in the Escalation card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Escalation",
+  "cards": [
+   {
+    "numbers": [
+     "R43"
+    ],
+    "name": "Piccolo's Lethal Chop"
+   }
+  ],
+  "section_set": 11,
+  "raw": "R43 Piccolo's Lethal Chop This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Escalation card images.)",
+  "mrp_raw": "This card is currently up to date in the Escalation card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Escalation",
+  "cards": [
+   {
+    "numbers": [
+     "R44"
+    ],
+    "name": "Vegeta's Prideful Challenge"
+   }
+  ],
+  "section_set": 11,
+  "raw": "R44 Vegeta's Prideful Challenge This Card Gains: \"(Villains only.)\" (MRP: This card is currently up to date in the Escalation card images.)",
+  "mrp_raw": "This card is currently up to date in the Escalation card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Villains only.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Movie Collection 2",
+  "cards": [
+   {
+    "numbers": [
+     "C9"
+    ],
+    "name": "Blue Sword Rush"
+   }
+  ],
+  "section_set": 12,
+  "raw": "C9 Blue Sword Rush Original Text: \"Lower your opponent's anger 1 level. Your Styled Setups this combat gain 'Shuffle into your Life Deck after use.'\" Updated Text: \"Lower your opponent's anger 1 level. Your Styled Setups this combat that are not banished after use gain 'Shuffle into your Life Deck after use.'\" (MRP: This card is currently up to date in the Movie Collection 2 card images.)",
+  "mrp_raw": "This card is currently up to date in the Movie Collection 2 card images.",
+  "note_raw": null,
+  "original_text": "Lower your opponent's anger 1 level. Your Styled Setups this combat gain 'Shuffle into your Life Deck after use.'",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Lower your opponent's anger 1 level. Your Styled Setups this combat that are not banished after use gain 'Shuffle into your Life Deck after use.'",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Movie Collection 2",
+  "cards": [
+   {
+    "numbers": [
+     "U27"
+    ],
+    "name": "Saiyan Bear Hug"
+   }
+  ],
+  "section_set": 12,
+  "raw": "U27 - Saiyan Bear Hug This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Movie Collection 2 card images.)",
+  "mrp_raw": "This card is currently up to date in the Movie Collection 2 card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Fusion",
+  "cards": [
+   {
+    "numbers": [
+     "S60"
+    ],
+    "name": "Vegito - Dominant"
+   }
+  ],
+  "section_set": 13,
+  "raw": "S60 Vegito - Dominant This Card Gains: \"(You cannot win by MPPV.)\" (MRP: This card is currently up to date in the Fusion card images.)",
+  "mrp_raw": "This card is currently up to date in the Fusion card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(You cannot win by MPPV.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Fusion",
+  "cards": [
+   {
+    "numbers": [
+     "C21"
+    ],
+    "name": "Orange Sidestep"
+   }
+  ],
+  "section_set": 13,
+  "raw": "C21 Orange Sidestep Original Text: \"(If this card is discarded from your hand by a card effect, you may banish it instead to draw the bottom card of your discard pile.)\" Updated Text: \"(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw the bottom card of your discard pile.)'\" (MRP: This card is currently up to date in the Fusion card images.)",
+  "mrp_raw": "This card is currently up to date in the Fusion card images.",
+  "note_raw": null,
+  "original_text": "(If this card is discarded from your hand by a card effect, you may banish it instead to draw the bottom card of your discard pile.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw the bottom card of your discard pile.)'",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Fusion",
+  "cards": [
+   {
+    "numbers": [
+     "DR7"
+    ],
+    "name": "Blue Mimicry Mastery"
+   }
+  ],
+  "section_set": 13,
+  "raw": "DR7 Blue Mimicry Mastery Original Text: \"POWER: Choose up to 3 cards in your discard pile with \"copy\" or \"copied\" in the text-box and shuffle them into your Life Deck.\" Updated Text: \"POWER: Choose up to 3 cards in your discard pile with \"copy\" or \"copied\" in the text-box or parenthetical text and shuffle them into your Life Deck.\" (MRP: This card is currently up to date in the Fusion card images.)",
+  "mrp_raw": "This card is currently up to date in the Fusion card images.",
+  "note_raw": null,
+  "original_text": "POWER: Choose up to 3 cards in your discard pile with \"copy\" or \"copied\" in the text-box and shuffle them into your Life Deck.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "POWER: Choose up to 3 cards in your discard pile with \"copy\" or \"copied\" in the text-box or parenthetical text and shuffle them into your Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Fusion",
+  "cards": [
+   {
+    "numbers": [
+     "DR31"
+    ],
+    "name": "Saiyan Enhanced Mastery"
+   }
+  ],
+  "section_set": 13,
+  "raw": "DR31 Saiyan Enhanced Mastery Original Text: \"Whenever you perform a Styled attack, you may destroy the top card of each player's Life Deck. Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead.\" Updated Text: \"Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\" (MRP: This card is currently up to date in the Fusion card images.)",
+  "mrp_raw": "This card is currently up to date in the Fusion card images.",
+  "note_raw": null,
+  "original_text": "Whenever you perform a Styled attack, you may destroy the top card of each player's Life Deck. Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Showdown",
+  "cards": [
+   {
+    "numbers": [
+     "C13"
+    ],
+    "name": "Namekian Swift Guard"
+   }
+  ],
+  "section_set": 14,
+  "raw": "C13 Namekian Swift Guard This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Showdown card images.)",
+  "mrp_raw": "This card is currently up to date in the Showdown card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Showdown",
+  "cards": [
+   {
+    "numbers": [
+     "R16"
+    ],
+    "name": "Orange Provoking Drill"
+   }
+  ],
+  "section_set": 14,
+  "raw": "R16 Orange Provoking Drill This Card Gains: \"(Orange Adept Mastery only.)\" (MRP: This card is currently up to date in the Showdown card images.)",
+  "mrp_raw": "This card is currently up to date in the Showdown card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Orange Adept Mastery only.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premier: Dragon Ball Super",
+  "cards": [
+   {
+    "numbers": [
+     "DR19"
+    ],
+    "name": "Orange Aura Mastery"
+   }
+  ],
+  "section_set": 16,
+  "raw": "DR19 Orange Aura Mastery Original Text: \"Your energy attacks deal +1 life card and cost-1 stage (to a minimum of 0).\" Updated Text: \"Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (This cannot lower a cost to 0.)\" (MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)",
+  "mrp_raw": "This card is currently up to date in the Premier: Dragon Ball Super card images.",
+  "note_raw": null,
+  "original_text": "Your energy attacks deal +1 life card and cost-1 stage (to a minimum of 0).",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (This cannot lower a cost to 0.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premier: Dragon Ball Super",
+  "cards": [
+   {
+    "numbers": [
+     "R20"
+    ],
+    "name": "Orange Sidestep"
+   }
+  ],
+  "section_set": 16,
+  "raw": "R20 Orange Sidestep Original Text: \"(Once per turn, after this Drill is destroyed from play by one of your effects, you may Rejuvenate it to search your Life Deck for a Non-Styled Drill and place it into play.)\" Updated Text: \"(Once per turn, after this Drill is destroyed from play by one of your effects, you may banish it to search your Life Deck for a Non-Styled Drill and place it into play.)\" (MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)",
+  "mrp_raw": "This card is currently up to date in the Premier: Dragon Ball Super card images.",
+  "note_raw": null,
+  "original_text": "(Once per turn, after this Drill is destroyed from play by one of your effects, you may Rejuvenate it to search your Life Deck for a Non-Styled Drill and place it into play.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Once per turn, after this Drill is destroyed from play by one of your effects, you may banish it to search your Life Deck for a Non-Styled Drill and place it into play.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Premier: Dragon Ball Super",
+  "cards": [
+   {
+    "numbers": [
+     "R46"
+    ],
+    "name": "Skillful Parry"
+   }
+  ],
+  "section_set": 16,
+  "raw": "R46 Skillful Parry This Card Gains: \"(Banish after use.)\" (MRP: This card is currently up to date in the Premier: Dragon Ball Super card images.)",
+  "mrp_raw": "This card is currently up to date in the Premier: Dragon Ball Super card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Banish after use.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Universal Clash: Dragon Ball Super",
+  "cards": [
+   {
+    "numbers": [
+     "U11"
+    ],
+    "name": "Namekian Therapeutic Drill"
+   }
+  ],
+  "section_set": 17,
+  "raw": "U11 Namekian Therapeutic Drill Original Text: \"Use after a Dragon Ball is shuffled into your Life Deck by one of your effects. Draw a card.\" Updated Text: \"Use after a Dragon Ball in play is shuffled into your Life Deck by one of your effects. Draw a card.\" (MRP: This card is currently up to date in the Universal Clash: Dragon Ball Super card images.)",
+  "mrp_raw": "This card is currently up to date in the Universal Clash: Dragon Ball Super card images.",
+  "note_raw": null,
+  "original_text": "Use after a Dragon Ball is shuffled into your Life Deck by one of your effects. Draw a card.",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "Use after a Dragon Ball in play is shuffled into your Life Deck by one of your effects. Draw a card.",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Universal Clash: Dragon Ball Super",
+  "cards": [
+   {
+    "numbers": [
+     "U25"
+    ],
+    "name": "Red Distracting Shot"
+   }
+  ],
+  "section_set": 17,
+  "raw": "U25 Red Distracting Shot This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the Universal Clash: Dragon Ball Super card images.)",
+  "mrp_raw": "This card is currently up to date in the Universal Clash: Dragon Ball Super card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Organized Play Promos",
+  "cards": [
+   {
+    "numbers": [
+     "P2"
+    ],
+    "name": "Blue Stylish Pose"
+   }
+  ],
+  "section_set": "OP",
+  "raw": "P2 Blue Stylish Pose This Card Gains: \"(Limit 1 per deck.)\" (MRP: None)",
+  "mrp_raw": "None",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Organized Play Promos",
+  "cards": [
+   {
+    "numbers": [
+     "P8"
+    ],
+    "name": "Raditz - Proud"
+   }
+  ],
+  "section_set": "OP",
+  "raw": "P8 Raditz - Proud Original Text: \"(As an action, you may place this card into play from your hand to choose a Styeld card in your discard pile and Rejuvenate it.)\" Updated Text: \"(Once per combat, as an action, you may place this card into play from your hand to choose a Styled card in your discard pile and Rejuvenate it.)\" (MRP: This card is currently up to date in the OP Series OP1 card images.)",
+  "mrp_raw": "This card is currently up to date in the OP Series OP1 card images.",
+  "note_raw": null,
+  "original_text": "(As an action, you may place this card into play from your hand to choose a Styeld card in your discard pile and Rejuvenate it.)",
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": "(Once per combat, as an action, you may place this card into play from your hand to choose a Styled card in your discard pile and Rejuvenate it.)",
+  "gains": null,
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Organized Play Promos",
+  "cards": [
+   {
+    "numbers": [
+     "P19"
+    ],
+    "name": "Namekian Straining Assault"
+   }
+  ],
+  "section_set": "OP",
+  "raw": "P19 Namekian Straining Assault This Card Gains: \"(Limit 1 per deck.)\" (MRP: This card is currently up to date in the OP Series OP3 card images.)",
+  "mrp_raw": "This card is currently up to date in the OP Series OP3 card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(Limit 1 per deck.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "ERRATUM",
+  "section": "Organized Play Promos",
+  "cards": [
+   {
+    "numbers": [
+     "P25"
+    ],
+    "name": "Super Shenron, Dragon God"
+   }
+  ],
+  "section_set": "OP",
+  "raw": "P25 Super Shenron, Dragon God This Card Gains: \"(God Trait only.)\" (MRP: This card is currently up to date in the OP Series OP3 card images.)",
+  "mrp_raw": "This card is currently up to date in the OP Series OP3 card images.",
+  "note_raw": null,
+  "original_text": null,
+  "panini_updated_text": null,
+  "fanz_updated_text": null,
+  "updated_text": null,
+  "gains": "(God Trait only.)",
+  "loses": null,
+  "source": "FanZ CRD v1.15"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S2"
+    ],
+    "name": "Vegeta - Villainous"
+   },
+   {
+    "numbers": [
+     "S3"
+    ],
+    "name": "Vegeta - Empowered"
+   }
+  ],
+  "ruling_text": "These Powers only apply to attacks that raise your anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger, the modifier is not applied.",
+  "raw": "S2 Vegeta - Villainous and S3 Vegeta - Empowered: These Powers only apply to attacks that raise your anger as an immediate effect (HIT effects do not apply). If you are unable to raise your anger, the modifier is not applied.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S8"
+    ],
+    "name": "Goku, Super Saiyan"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them into play.\"",
+  "raw": "S8 Goku, Super Saiyan: Treat this card as if it reads \"Search your Life Deck, discard pile, and Banished Zone for a total of up to 5 Drills and place them into play.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S18"
+    ],
+    "name": "Frieza - Transformed"
+   }
+  ],
+  "ruling_text": "This effect is considered a copied attack.",
+  "raw": "S18 Frieza - Transformed: This effect is considered a copied attack.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S25",
+     "R145"
+    ],
+    "name": "Saiyan Empowered Mastery"
+   }
+  ],
+  "ruling_text": "Raise your anger 1 level for each Styled card that is Rejuvenated.",
+  "raw": "S25/R145 Saiyan Empowered Mastery: Raise your anger 1 level for each Styled card that is Rejuvenated.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S30",
+     "R145"
+    ],
+    "name": "Namekian Knowledge Mastery"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\"",
+  "raw": "S30/R145 Namekian Knowledge Mastery: Treat this card as if it reads \"Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S37"
+    ],
+    "name": "Black Targeting Drill"
+   }
+  ],
+  "ruling_text": "Your effects that target specific cards to be discarded are not affected by Black Targeting Drill. For example, Stare Down would discard the chosen card.",
+  "raw": "S37 Black Targeting Drill: Your effects that target specific cards to be discarded are not affected by Black Targeting Drill. For example, Stare Down would discard the chosen card.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "S65"
+    ],
+    "name": "Blue Guard"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card). Stops an energy attack.\"",
+  "raw": "S65 Blue Guard: Treat this card as if it reads \"(If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card). Stops an energy attack.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "C15"
+    ],
+    "name": "Black Corruption"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of your opponent's Life Deck.) Stops an energy attack. Raise your anger 1 level and lower your opponent's anger 2 levels.\"",
+  "raw": "C15 Black Corruption: Treat this card as if it reads \"(If this card is discarded from your hand by one of your card effects during combat, banish the top 2 cards of your opponent's Life Deck.) Stops an energy attack. Raise your anger 1 level and lower your opponent's anger 2 levels.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "C19"
+    ],
+    "name": "Black Punishment"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 4 life cards. Raise your anger 1 level. HIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the top card of his Life Deck.\"",
+  "raw": "C19 Black Punishment: Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 4 life cards. Raise your anger 1 level. HIT: Until the start of your next turn, whenever a card banishes itself after use your opponent destroys the top card of his Life Deck.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "U6"
+    ],
+    "name": "Captain Ginyu - Body Change"
+   },
+   {
+    "numbers": [
+     "U7"
+    ],
+    "name": "Captain Ginyu - Frog"
+   }
+  ],
+  "ruling_text": "These Powers only prevent \"discarding\" an Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are not prevented.",
+  "raw": "U6 Captain Ginyu - Body Change and U7 Captain Ginyu - Frog: These Powers only prevent \"discarding\" an Ally, such as using a Critical Damage effect. Effects that destroy or banish Allies are not prevented.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "U66"
+    ],
+    "name": "Blue Avoidance"
+   },
+   {
+    "numbers": [
+     "S144"
+    ],
+    "name": "Blue Swift Block"
+   }
+  ],
+  "ruling_text": "When you copy an attack, treat it as if you played an invisible copy of the card yourself. You do not receive any modifiers that the opponent applied to the attack, and AT damage is calculated from your personality's power level. If you copy an attack that stays on the table to be used again, it is not present on the table for a second use. If you copy an attack that attaches, the invisible copy does not attach.",
+  "raw": "U66 Blue Avoidance and S144 Blue Swift Block: When you copy an attack, treat it as if you played an invisible copy of the card yourself. You do not receive any modifiers that the opponent applied to the attack, and AT damage is calculated from your personality's power level. If you copy an attack that stays on the table to be used again, it is not present on the table for a second use. If you copy an attack that attaches, the invisible copy does not attach.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "U86"
+    ],
+    "name": "Namekian Flinch"
+   }
+  ],
+  "ruling_text": "Treat the final sentence of this card as if it reads \"If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.\"",
+  "raw": "U86 Namekian Flinch: Treat the final sentence of this card as if it reads \"If your MP is level 3 or higher, search your Life Deck for a Dragon Ball and place it into play.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "U144"
+    ],
+    "name": "Quickness Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it is an Instant Power (thus it may only be used once per turn).",
+  "raw": "U144 Quickness Drill: Treat this card as if it is an Instant Power (thus it may only be used once per turn).",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R124"
+    ],
+    "name": "Black Disorienting Blow"
+   }
+  ],
+  "ruling_text": "Hero/Villain only cards and Named cards are for deck construction purposes only, and may be targeted regardless of your MP's name or Alignment. You may not play Events that have a contextual timing, such as Time is a Warrior's Tool or Heroic Energy Sphere.",
+  "raw": "R124 Black Disorienting Blow: Hero/Villain only cards and Named cards are for deck construction purposes only, and may be targeted regardless of your MP's name or Alignment. You may not play Events that have a contextual timing, such as Time is a Warrior's Tool or Heroic Energy Sphere.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R125"
+    ],
+    "name": "Black Reflection"
+   }
+  ],
+  "ruling_text": "After resolving the attack, treat the targeted card as though it was played by your opponent. If it is banished after use, it will return to your opponent's Banished Zone. If it is discarded after use, it returns to your opponent's discard pile. If it would be shuffled into a Life Deck after use, shuffle it into your opponent's Life Deck. You may target any attack card, including Setups. You may not target cards that conditionally perform attacks, such as Allies.",
+  "raw": "R125 Black Reflection: After resolving the attack, treat the targeted card as though it was played by your opponent. If it is banished after use, it will return to your opponent's Banished Zone. If it is discarded after use, it returns to your opponent's discard pile. If it would be shuffled into a Life Deck after use, shuffle it into your opponent's Life Deck. You may target any attack card, including Setups. You may not target cards that conditionally perform attacks, such as Allies.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R126",
+     "P16"
+    ],
+    "name": "Black Scout Maneuver"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Banish after use.) POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent's Life Deck for all copies of that card and banish them.\"",
+  "raw": "R126/P16 Black Scout Maneuver: Treat this card as if it reads \"(Banish after use.) POWER: Name a Physical Combat, Energy Combat, or Event card. Search your opponent's Life Deck for all copies of that card and banish them.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R138"
+    ],
+    "name": "Orange Searching Maneuver"
+   }
+  ],
+  "ruling_text": "Search for the drill immediately, and set it aside to be placed into play at the end of combat. If it is unable to enter play at that time, it remains outside of play (separate from the banished zone) until the game ends.",
+  "raw": "R138 Orange Searching Maneuver: Search for the drill immediately, and set it aside to be placed into play at the end of combat. If it is unable to enter play at that time, it remains outside of play (separate from the banished zone) until the game ends.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R139"
+    ],
+    "name": "Orange Uppercut"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Banish after use.) Physical attack. DAMAGE: AT +4 stages. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand.\"",
+  "raw": "R139 Orange Uppercut: Treat this card as if it reads \"(Banish after use.) Physical attack. DAMAGE: AT +4 stages. You may pay 2 power stages to search your Life Deck for a Styled Energy Combat card and place it into your hand.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "R144"
+    ],
+    "name": "Red Observation"
+   }
+  ],
+  "ruling_text": "This card has no cost to play, and may be used regardless of your MP's current power stages. If you are able to pay five or more stages for the first effect, you must. If you are unable to pay, move on to the next sentence and resolve the remaining effects normally.",
+  "raw": "R144 Red Observation: This card has no cost to play, and may be used regardless of your MP's current power stages. If you are able to pay five or more stages for the first effect, you must. If you are unable to pay, move on to the next sentence and resolve the remaining effects normally.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Premiere Set",
+  "section_set": 1,
+  "cards": [
+   {
+    "numbers": [
+     "P17"
+    ],
+    "name": "Piccolo's Special Beam Cannon"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 3 life cards. Rejuvenate 1. HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.\"",
+  "raw": "P17 Piccolo's Special Beam Cannon: Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 3 life cards. Rejuvenate 1. HIT: Name two different non-Dragon Ball cards. Search your opponent's Life Deck for 1 copy of each card and banish them.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "C40"
+    ],
+    "name": "Orange Crashing Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.\"",
+  "raw": "C40 Orange Crashing Drill: Treat this card as if it reads \"When this card is entering play during combat, your opponent destroys the top card of his Life Deck. When this card is leaving play during combat, your opponent destroys the top card of his Life Deck.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "C60"
+    ],
+    "name": "Combination Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it was both Instant Power and Continuous Power (thus it must be used whenever you enter combat). If your opponent uses the effects of this drill, it does not allow you to then choose a new drill to destroy.",
+  "raw": "C60 Combination Drill: Treat this card as if it was both Instant Power and Continuous Power (thus it must be used whenever you enter combat). If your opponent uses the effects of this drill, it does not allow you to then choose a new drill to destroy.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "U71"
+    ],
+    "name": "Trunks - Bashful"
+   }
+  ],
+  "ruling_text": "Treat this card as a Hero Ally that reads \"(You may use this power regardless of your MP's power stage.) Instant POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\"",
+  "raw": "U71 Trunks - Bashful: Treat this card as a Hero Ally that reads \"(You may use this power regardless of your MP's power stage.) Instant POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "U100"
+    ],
+    "name": "Tenshinhan's Preparation"
+   }
+  ],
+  "ruling_text": "The user of this card destroys the top 2 cards of his or her Life Deck first, then the opponent.",
+  "raw": "U100 Tenshinhan's Preparation: The user of this card destroys the top 2 cards of his or her Life Deck first, then the opponent.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "R127"
+    ],
+    "name": "Saiyan Outrage"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Banish after use.) Power: Stops a physical or energy attack. If the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached.\" (Note: this is reflected in the printing of P10 Saiyan Outrage).",
+  "raw": "R127 Saiyan Outrage: Treat this card as if it reads \"(Banish after use.) Power: Stops a physical or energy attack. If the defending personality has a higher power level than the attacking personality, then at the end of combat you may search your Life Deck for a card that can attach to your MP and place it into play attached.\" (Note: this is reflected in the printing of P10 Saiyan Outrage).",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Heroes & Villains",
+  "section_set": 2,
+  "cards": [
+   {
+    "numbers": [
+     "R131"
+    ],
+    "name": "Isolation"
+   }
+  ],
+  "ruling_text": "Treat this card is if it reads \"(Banish after use.) Instant Power: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.\"",
+  "raw": "R131 Isolation: Treat this card is if it reads \"(Banish after use.) Instant Power: Use when entering combat. Drills and Allies lose all effects until the end of combat. Allies cannot make actions nor have damage redirect to them this combat.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C2"
+    ],
+    "name": "Master Roshi - Scouted"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Heroes only.) Players cannot use effects to search a player's Life Deck.",
+  "raw": "C2 Master Roshi - Scouted: Treat this card as if it reads \"(Heroes only.) Players cannot use effects to search a player's Life Deck.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C5"
+    ],
+    "name": "Dr. Wheelo - Intelligent"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, or Setup in play and shuffle that card into its owner's Life Deck.",
+  "raw": "C5 Dr. Wheelo - Intelligent: Treat this card as if it reads \"(Villains only.) POWER: Banish \"Dr. Wheelo\" to choose an Ally, Drill, or Setup in play and shuffle that card into its owner's Life Deck.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C14"
+    ],
+    "name": "Black Flying Knee"
+   }
+  ],
+  "ruling_text": "You may name the same card twice, but two copies must be revealed.",
+  "raw": "C14 Black Flying Knee: You may name the same card twice, but two copies must be revealed.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C28"
+    ],
+    "name": "Namekian Mouth Beam"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(Banish after use.) ENDURANCE 1. Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Choose a Styled card with a shield icon in your discard pile and Rejuvenate it.\"",
+  "raw": "C28 Namekian Mouth Beam: Treat this card as if it reads \"(Banish after use.) ENDURANCE 1. Energy attack costing 2 stages. DAMAGE: 4 life cards. HIT: Choose a Styled card with a shield icon in your discard pile and Rejuvenate it.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C42"
+    ],
+    "name": "Orange Smash"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Physical attack. DAMAGE: AT +4 stages. Banish up to 3 Drills you control. At the end of combat, place those Drills into play under their owner's control from the Banished Zone.\"",
+  "raw": "C42 Orange Smash: Treat this card as if it reads \"Physical attack. DAMAGE: AT +4 stages. Banish up to 3 Drills you control. At the end of combat, place those Drills into play under their owner's control from the Banished Zone.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "C60"
+    ],
+    "name": "Lookout Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"(After this Drill enters play from your hand, Rejuvenate 1.) The first time each turn an opponent's effect would cause you to destroy or banish cards from the top of your Life Deck, reduce that amount to 0.\"",
+  "raw": "C60 Lookout Drill: Treat this card as if it reads \"(After this Drill enters play from your hand, Rejuvenate 1.) The first time each turn an opponent's effect would cause you to destroy or banish cards from the top of your Life Deck, reduce that amount to 0.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "U100"
+    ],
+    "name": "Saiyan Upward Kick"
+   }
+  ],
+  "ruling_text": "This effect also prevents your opponent from \"raising\" stages. Note that leveling up allows you to \"set\" your MP to 10 stages above zero.",
+  "raw": "U100 Saiyan Upward Kick: This effect also prevents your opponent from \"raising\" stages. Note that leveling up allows you to \"set\" your MP to 10 stages above zero.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "R139"
+    ],
+    "name": "Pulverize"
+   }
+  ],
+  "ruling_text": "You would search your Life Deck for the Physical Combat or Energy Combat attack card, reveal it, shuffle your Life Deck, and then place the chosen card on top.",
+  "raw": "R139 Pulverize: You would search your Life Deck for the Physical Combat or Energy Combat attack card, reveal it, shuffle your Life Deck, and then place the chosen card on top.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "P9"
+    ],
+    "name": "Orange Stare Down"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill, or Ally.\"",
+  "raw": "P9 Orange Stare Down: Treat this card as if it reads \"Energy attack costing 2 stages. DAMAGE: 4 life cards. Banish an opponent's Setup, Drill, or Ally.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "The Movie Collection",
+  "section_set": 3,
+  "cards": [
+   {
+    "numbers": [
+     "P4"
+    ],
+    "name": "Red Shoulder Grab"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal critical damage.",
+  "raw": "P4 Red Shoulder Grab: Treat this card as if it reads \"Physical attack. DAMAGE: AT +3 stages. Raise your anger 1 level. For the remainder of combat, all of your other attacks are considered to deal critical damage.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S81"
+    ],
+    "name": "Namek Dragon Ball 6"
+   }
+  ],
+  "ruling_text": "Treat this card type as if it reads \"Dragon Ball.\"",
+  "raw": "S81 Namek Dragon Ball 6: Treat this card type as if it reads \"Dragon Ball.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S97"
+    ],
+    "name": "Namekian Reinforced Block"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"ENDURANCE 2. Stops a physical attack. Your Dragon Balls cannot be captured this combat.\"",
+  "raw": "S97 Namekian Reinforced Block: Treat this card as if it reads \"ENDURANCE 2. Stops a physical attack. Your Dragon Balls cannot be captured this combat.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S105"
+    ],
+    "name": "Orange Calming Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it has \"ENDURANCE 1.\"",
+  "raw": "S105 Orange Calming Drill: Treat this card as if it has \"ENDURANCE 1.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S107"
+    ],
+    "name": "Orange Joint Restraint Drill"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Your physical attacks deal +2 stages of damage.\"",
+  "raw": "S107 Orange Joint Restraint Drill: Treat this card as if it reads \"Your physical attacks deal +2 stages of damage.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S109"
+    ],
+    "name": "Orange Cover Up"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"ENDURANCE 1. Stops a physical attack. Also stops a physical attack in your opponent's next action.\"",
+  "raw": "S109 Orange Cover Up: Treat this card as if it reads \"ENDURANCE 1. Stops a physical attack. Also stops a physical attack in your opponent's next action.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "S148"
+    ],
+    "name": "Red Lightning Slash"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Physical attack. DAMAGE: AT stages. Raise your anger 1 level. HIT: You may lower your anger 2 levels to destroy all of your opponent's Allies or all of his Drills.\"",
+  "raw": "S148 Red Lightning Slash: Treat this card as if it reads \"Physical attack. DAMAGE: AT stages. Raise your anger 1 level. HIT: You may lower your anger 2 levels to destroy all of your opponent's Allies or all of his Drills.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "C15"
+    ],
+    "name": "Blue Knee"
+   }
+  ],
+  "ruling_text": "Treat the Instant Power icon on this card as if it were an attack icon.",
+  "raw": "C15 Blue Knee: Treat the Instant Power icon on this card as if it were an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "C42"
+    ],
+    "name": "Red Quick Jab"
+   }
+  ],
+  "ruling_text": "Treat the Instant Power icon on this card as if it were an attack icon.",
+  "raw": "C42 Red Quick Jab: Treat the Instant Power icon on this card as if it were an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "C52"
+    ],
+    "name": "Saiyan Empowered Smash"
+   }
+  ],
+  "ruling_text": "Treat this card as if it has an attack icon.",
+  "raw": "C52 Saiyan Empowered Smash: Treat this card as if it has an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "U79"
+    ],
+    "name": "Red Forceful Strike"
+   }
+  ],
+  "ruling_text": "Treat the Instant Power icon on this card as if it were an attack icon.",
+  "raw": "U79 Red Forceful Strike: Treat the Instant Power icon on this card as if it were an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "U84"
+    ],
+    "name": "Saiyan Sword Strike"
+   }
+  ],
+  "ruling_text": "Treat this card as if it reads \"Physical attack. If your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage prevented. DAMAGE: AT +4 stages.\"",
+  "raw": "U84 Saiyan Sword Strike: Treat this card as if it reads \"Physical attack. If your opponent passed as his last action this combat, this attack cannot be stopped nor have its damage prevented. DAMAGE: AT +4 stages.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "U97"
+    ],
+    "name": "Android 17 - Beckoning"
+   }
+  ],
+  "ruling_text": "Treat this card's POWER as if it has an attack icon.",
+  "raw": "U97 Android 17 - Beckoning: Treat this card's POWER as if it has an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "R122"
+    ],
+    "name": "Saiyan Tracking Blast"
+   }
+  ],
+  "ruling_text": "Treat the Instant Power icon on this card as if it were an attack icon.",
+  "raw": "R122 Saiyan Tracking Blast: Treat the Instant Power icon on this card as if it were an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "R126"
+    ],
+    "name": "Android 18's Toss"
+   }
+  ],
+  "ruling_text": "Treat the Instant Power icon on this card as if it were an attack icon.",
+  "raw": "R126 Android 18's Toss: Treat the Instant Power icon on this card as if it were an attack icon.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "R130"
+    ],
+    "name": "Android 20's Domination"
+   }
+  ],
+  "ruling_text": "Treat this card type as if it reads \"Physical Combat.\"",
+  "raw": "R130 Android 20's Domination: Treat this card type as if it reads \"Physical Combat.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Evolution",
+  "section_set": 4,
+  "cards": [
+   {
+    "numbers": [
+     "P4"
+    ],
+    "name": "Trunks - Bashful"
+   }
+  ],
+  "ruling_text": "Treat this card as a Hero Ally that reads \"(You may use this power regardless of your MP's power stage.) INSTANT POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\"",
+  "raw": "P4 Trunks - Bashful: Treat this card as a Hero Ally that reads \"(You may use this power regardless of your MP's power stage.) INSTANT POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Perfection",
+  "section_set": 5,
+  "cards": [
+   {
+    "numbers": [
+     "U91"
+    ],
+    "name": "Orange Charge"
+   }
+  ],
+  "ruling_text": "If you fail to reveal a Styled attack, the revealed cards are shuffled into your Life Deck.",
+  "raw": "U91 Orange Charge: If you fail to reveal a Styled attack, the revealed cards are shuffled into your Life Deck.",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Perfection",
+  "section_set": 5,
+  "cards": [
+   {
+    "numbers": [
+     "R115"
+    ],
+    "name": "Overwhelming Power"
+   }
+  ],
+  "ruling_text": "Treat the final sentence of this card's parenthetical text as \"If this card is placed into your hand by a non-Mastery card effect, you may use a Critical Damage effect.\"",
+  "raw": "R115 Overwhelming Power: Treat the final sentence of this card's parenthetical text as \"If this card is placed into your hand by a non-Mastery card effect, you may use a Critical Damage effect.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Perfection",
+  "section_set": 5,
+  "cards": [
+   {
+    "numbers": [
+     "DR4"
+    ],
+    "name": "Cell - Unstoppable"
+   }
+  ],
+  "ruling_text": "Treat this card as if it also reads \"(This card's non-instant power may only be used once per game.)\"",
+  "raw": "DR4 Cell - Unstoppable: Treat this card as if it also reads \"(This card's non-instant power may only be used once per game.)\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Perfection",
+  "section_set": 5,
+  "cards": [
+   {
+    "numbers": [
+     "P13"
+    ],
+    "name": "Red City Destruction"
+   }
+  ],
+  "ruling_text": "Treat this card as an Event (and not an Energy Combat).",
+  "raw": "P13 Red City Destruction: Treat this card as an Event (and not an Energy Combat).",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Vengeance",
+  "section_set": 6,
+  "cards": [
+   {
+    "numbers": [
+     "UR142"
+    ],
+    "name": "Unleashed"
+   }
+  ],
+  "ruling_text": "Treat this card as if it also reads \"(Banish after use.)\"",
+  "raw": "UR142 Unleashed: Treat this card as if it also reads \"(Banish after use.)\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Awakening",
+  "section_set": 7,
+  "cards": [
+   {
+    "numbers": [
+     "S10",
+     "DR10"
+    ],
+    "name": "Orange Retribution Mastery"
+   }
+  ],
+  "ruling_text": "Treat this card as if it also reads \"(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this turn.)\"",
+  "raw": "S10/DR10 Orange Retribution Mastery: Treat this card as if it also reads \"(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this turn.)\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Awakening",
+  "section_set": 7,
+  "cards": [
+   {
+    "numbers": [
+     "S101"
+    ],
+    "name": "Saiyan Back Crash"
+   }
+  ],
+  "ruling_text": "Treat this card as if it has \"ENDURANCE 0.\"",
+  "raw": "S101 Saiyan Back Crash: Treat this card as if it has \"ENDURANCE 0.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Awakening",
+  "section_set": 7,
+  "cards": [
+   {
+    "numbers": [
+     "C32"
+    ],
+    "name": "Orange Checkup Drill"
+   }
+  ],
+  "ruling_text": "Treat this card's parenthetical text as if it reads \"(When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)\"",
+  "raw": "C32 Orange Checkup Drill: Treat this card's parenthetical text as if it reads \"(When this Drill enters play during combat, if it is the first time a card titled \"Orange Checkup Drill\" has entered play this combat you may search your Life Deck for a Styled \"shield icon\" card and place it into your hand.)\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Awakening",
+  "section_set": 7,
+  "cards": [
+   {
+    "numbers": [
+     "U97"
+    ],
+    "name": "Red Pummel"
+   }
+  ],
+  "ruling_text": "Treat this card's HIT effect as if it reads \"At the end of combat, you may set your anger to 0. If you do, search your Life Deck or discard pile for a drill and play it.\"",
+  "raw": "U97 Red Pummel: Treat this card's HIT effect as if it reads \"At the end of combat, you may set your anger to 0. If you do, search your Life Deck or discard pile for a drill and play it.\"",
+  "source": "Panini CRD v6.0"
+ },
+ {
+  "kind": "PANINI",
+  "section": "Awakening",
+  "section_set": 7,
+  "cards": [
+   {
+    "numbers": [
+     "R135"
+    ],
+    "name": "Hercule's Dynamite Kick"
+   }
+  ],
+  "ruling_text": "If you are taking damage and can only discard Dragon Balls and/or Hercule's Dynamite Kick, your opponent wins by Survival Victory.",
+  "raw": "R135 Hercule's Dynamite Kick: If you are taking damage and can only discard Dragon Balls and/or Hercule's Dynamite Kick, your opponent wins by Survival Victory.",
+  "source": "Panini CRD v6.0"
+ }
+]
