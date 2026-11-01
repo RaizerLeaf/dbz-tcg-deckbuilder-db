@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S50",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S50_Blue Guard.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE GUARD ) $50",
+   "conf": 77.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "0\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(vA ENERGY COMBAT\n~~ (If this card would be discarded\nfrom your hand by a card effect, you\nmay banish it instead to draw a card.)\nYW Stops an energy attack.\n(Most Recent Printing)\n© 2016 Panini America, Inc. Printed in the USA. | PANINI |\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. wd i",
+   "conf": 82.1,
+   "n_words": 58
+  }
+ }
+}

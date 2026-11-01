@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S61",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S61_Orange Offensive Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE OFFENSIVE STRIKE ) S61\nre",
+   "conf": 76.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Lz\n. A Energy attack costing 1 stage.\nSearch your Life Deck for a copy of\n“Orange Offensive Strike” and place it\ninto your hand.\nDAMAGE: 2 life cards.\n(Banish after use.)\na\n(ys Hs 2 ay le LER)",
+   "conf": 79.7,
+   "n_words": 39
+  }
+ }
+}

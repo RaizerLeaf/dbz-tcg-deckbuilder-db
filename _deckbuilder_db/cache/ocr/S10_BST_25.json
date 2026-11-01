@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_25",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/25_Orange Separating Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE SEPARATING SHOT )U25,\nee oe",
+   "conf": 58.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n,\n1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ET Xx Energy attack costing 2 stages. ome\n@: Gain 2 stages. This attack can only be\nstopped by an Energy Combat card.\n\nDAMAGE: 5 life cards.\nHIT: Your opponent cannot perform a physical\nattack in their next action this combat.\n )",
+   "conf": 89.6,
+   "n_words": 42
+  }
+ }
+}

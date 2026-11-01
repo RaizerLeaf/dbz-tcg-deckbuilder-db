@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_32",
+ "rel_path": "09_Set 9 (Legends)/Legends/32_Amphibious Exploration Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "iPHIBIOUS EXPLORATION DRILL @E)UR2",
+   "conf": 43.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ": es 4 (Limit 2 per deck. You may place this card from your hand\npg to the bottom of your Life Deck as an action to gain 2 stages.)\n3 co: Players can only play one card during the Planning Step.",
+   "conf": 87.9,
+   "n_words": 42
+  }
+ }
+}

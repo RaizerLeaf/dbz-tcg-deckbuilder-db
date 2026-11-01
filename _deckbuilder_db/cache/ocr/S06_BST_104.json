@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_104",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/104_Black Drain.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DRAIN | ) R104\na VEN) nN”.",
+   "conf": 64.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "‘(W@ae =NERGY COMBAT\nNY\n~ XA Energy attack costing 2 stages.\nDestroy the top card of your opponent's Life Deck.\nDAMAGE: 4 life cards.\nHIT: Return a Setup or Drill your opponent controls\nto its owner's hand. If you do, your opponent\ndiscards a random card from his hand.\n(es) © 2016 Panini America, Inc. Printed te the USA. | PAMIMI,",
+   "conf": 83.8,
+   "n_words": 61
+  }
+ }
+}

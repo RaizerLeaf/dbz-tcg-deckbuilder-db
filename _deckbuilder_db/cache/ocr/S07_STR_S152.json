@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S152",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S152_Red Chop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED CHOP ) sts2",
+   "conf": 55.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 0.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(U4 PHYSICAL comaaT | Eg)\nay XX Physical attack. COTY |\nRaise your anger 1 level.\nDAMAGE: 3 +X stages. X = your current anger level.\n© 2016 Panini America, Inc. Printed in the USA. | PAMIMI|\no> ©B.S./S. , T.A. LC by Fun. All Rights Reserved. ey =",
+   "conf": 78.0,
+   "n_words": 49
+  }
+ }
+}

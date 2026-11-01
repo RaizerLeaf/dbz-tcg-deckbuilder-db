@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_139",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/139_Cooler's Rebirth.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "COOLER'S REBIRTH ©) R139",
+   "conf": 69.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n4\n,\n,",
+   "conf": 17.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "leg. ENERGY COMBAT | RR\nBey . - ‘QY Sz\n(If this card is discarded from your “CUE\nhand during combat, Rejuvenate it.)\n% POWER: Use after taking damage from an\nattack. Rejuvenate 2 Styled cards from your\nBanished Zone. Place this card on top of your\nLife Deck after use.",
+   "conf": 83.3,
+   "n_words": 51
+  }
+ }
+}

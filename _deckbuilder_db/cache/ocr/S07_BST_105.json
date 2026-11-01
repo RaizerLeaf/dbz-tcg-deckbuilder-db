@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_105",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/105_Black Vehicle Toss.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK VEHICLE TOSS ) R105",
+   "conf": 91.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n37\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ty 4 PHYSICAL COMBAT\nwy X Physical attack.\nAttach to your MP. While attached, your\nattacks deal +1 stage and +1 life card of damage.\nBanish this card when more than 1 card is attached\nto your MP.\nDAMAGE: 3 life cards +3 stages.\n© 2016 avn amare, rresinne use EE EE ED",
+   "conf": 80.0,
+   "n_words": 53
+  }
+ }
+}

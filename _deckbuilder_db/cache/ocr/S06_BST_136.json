@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_136",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/136_Android 13's Impenetrable Defense.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ANDROID 13'S IMPENETRABLE DEFENSE @ 5 ) R136\nSen's ir it",
+   "conf": 55.7,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n347\n,",
+   "conf": 15.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": ". Meg. PHYSICAL COMBAT\n= (If this card is discarded or destroyed\nfrom your Life Deck, you may banish it to\nraise your anger 2 levels.)\nW Stops a physical attack.\n\nYour opponent's MP loses 5 stages. Your next successful\nattack this combat cannot have its damage prevented and\ngains “HIT: End combat at the beginning of the\nnext action this turn.”",
+   "conf": 90.8,
+   "n_words": 62
+  }
+ }
+}

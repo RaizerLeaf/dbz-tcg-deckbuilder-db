@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_PRO_P4_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P4_Red Bribe (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED BRIBE @ rs]",
+   "conf": 76.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ": i : POWER: Use the immediate effects of a Dragon\n232 Ball in play.\n= (Banish after use.)",
+   "conf": 85.8,
+   "n_words": 19
+  }
+ }
+}

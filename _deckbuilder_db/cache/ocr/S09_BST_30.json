@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_30",
+ "rel_path": "09_Set 9 (Legends)/Legends/30_Saiyan Energy Release.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY RELEASE C) U30\nA , ‘Soy .",
+   "conf": 58.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "iY, ENERGY COMBAT (=B)\nStops an energy attack.\nYour opponent skips their next\naction this combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 47
+  }
+ }
+}

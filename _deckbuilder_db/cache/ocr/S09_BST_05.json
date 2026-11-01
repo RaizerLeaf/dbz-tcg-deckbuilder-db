@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_05",
+ "rel_path": "09_Set 9 (Legends)/Legends/05_Black Trick Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK TRICK SHOT () R5\nwg = aan",
+   "conf": 75.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n2\n1,\n1,",
+   "conf": 17.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "AY ENERGY COMBAT ( rd ) I\nX% Energy attack costing 2 stages.\nLower your opponent's anger 1 level.\n\nUntil the start of your next turn, after a player\ngains anger, lower that player’s anger 1 level.\nDamage from this attack cannot be\nprevented or modified.\n\nDAMAGE: 4 life cards.\n\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 90.2,
+   "n_words": 84
+  }
+ }
+}

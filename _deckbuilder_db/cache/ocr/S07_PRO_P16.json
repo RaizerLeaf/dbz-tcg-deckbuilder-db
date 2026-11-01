@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P16",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P16_I'll Dig Your Grave!.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "I'LL DIG YOUR GRAVE! ) PIG\n———< LT ae hl CU!",
+   "conf": 58.1,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4\n7\n\n2\n\n2\n\n,",
+   "conf": 17.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "PL 4 PHYSICAL COMBAT\n_4 (You cannot win by MPPV if you\nadvance a personality level with this card.)\n& Physical attack.\nDamage from your attacks cannot be\nprevented this combat.\nDAMAGE: 6 stages.\nHIT: You may advance your MP 1 level. If you do,\nadvance your opponent's MP 1 level.",
+   "conf": 90.9,
+   "n_words": 51
+  }
+ }
+}

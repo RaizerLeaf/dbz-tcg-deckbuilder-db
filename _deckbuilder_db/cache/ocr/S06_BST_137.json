@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_137",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/137_Broly's Eraser Cannon.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BROLY'S ERASER CANNON =) R137",
+   "conf": 75.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2 ,\n,\n1",
+   "conf": 12.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "BY Energy attack.\nBanish a Setup, Drill or Ally.\nRaise your anger 1 level.\nDAMAGE: 5 stages.\nHIT: Banish a Setup, Drill or Ally.",
+   "conf": 93.0,
+   "n_words": 24
+  }
+ }
+}

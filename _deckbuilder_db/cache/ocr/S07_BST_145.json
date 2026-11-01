@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_145",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/145_The Ultimate Sacrifice.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "THE ULTIMATE SACRIFICE é )UR145)",
+   "conf": 64.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "1 eas\n(Limit 2 per deck.) Corny\nPOWER: Shuffle your Life Deck. Setups,\nDrills, and Allies lose all effects this combat.\nYou may banish a card from your hand to banish the\ntop card of your Life Deck and draw a card.\n(Banish after use.)",
+   "conf": 91.1,
+   "n_words": 45
+  }
+ }
+}

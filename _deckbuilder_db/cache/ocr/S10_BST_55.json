@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_55",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/55_Videl's Eagle Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VIDEL'S EAGLE KICK | ) R55 |\n——<—<_« $e OD pial",
+   "conf": 65.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "U (i) SA 1)\nX% Physical attack. Ome\nFor the remainder of combat, whenever\none of your effects from a Named or personality\ncard has you choose between two effects, you may\nchoose both instead. Raise your anger 1 level or\nshuffle this card into your Life Deck after use.\nDAMAGE: AT +5 stages.\n\na",
+   "conf": 87.9,
+   "n_words": 55
+  }
+ }
+}

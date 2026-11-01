@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_42",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/42_Suppressive Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SUPPRESSIVE STRIKE On\nmW VY NON LY TAN YAW . 7B",
+   "conf": 47.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4\n37\n,",
+   "conf": 8.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "© XX Physical attack.\nCard effects cannot end combat this turn.\n@ : Rejuvenate 2. Cards that stop all physical\nattacks and/or energy attacks cannot\nbe played nor used this turn.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+   "conf": 88.5,
+   "n_words": 38
+  }
+ }
+}

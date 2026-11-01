@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_20",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/20_Orange Sweeping Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE SWEEPING BLAST ) u20,",
+   "conf": 71.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,\n,\n10",
+   "conf": 1.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "jaaas ENERGY COMBAT\nI x Energy attack costing 2 stages.\nYou may Rejuvenate a Styled Drill you control.\nIf you do, your opponent cannot play\nnon-Styled cards this combat.\nDAMAGE: 5 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 88.1,
+   "n_words": 63
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_43",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/43_Torturous Volley.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TORTUROUS VOLLEY () R43",
+   "conf": 75.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "1,\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "( @) Sa\nXX 2: Energy attack.\n\nChoose a card in your discard pile and Rejuvenate it.\n@9: If you have 2 or less Traits, Remain 1.\nDAMAGE: 4 life cards.\n\n(Banish after use.)\na",
+   "conf": 81.4,
+   "n_words": 35
+  }
+ }
+}

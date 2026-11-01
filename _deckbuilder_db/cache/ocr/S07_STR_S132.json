@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S132",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S132_Black Nightmare.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK NIGHTMARE ) $132\nSS yy ~~.",
+   "conf": 60.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2 ,\n1\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "[FZ =VENT ( 1 ) I\n= POWER: Search your opponent's\nLife Deck for a Setup or Drill and banish\nit. Your MP gains 4 stages. Shuffle this card\ninto your Life Deck after use.\n© 2016 Pann Anais, Pines inne usa, EZETEETEY",
+   "conf": 79.6,
+   "n_words": 43
+  }
+ }
+}

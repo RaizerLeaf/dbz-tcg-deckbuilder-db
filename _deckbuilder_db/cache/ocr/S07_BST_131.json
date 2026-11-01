@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_131",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/131_Cell Jr.'s Surround.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CELL JR.'S SURROUND ) R131",
+   "conf": 92.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "3 POWER: Search your Life Deck\n\nfor 2 Allies with “Cell Jr.” in the title\nand place them into play at 5 stages above 0.\n(Shuffle this card into your Life Deck after use.)",
+   "conf": 94.8,
+   "n_words": 34
+  }
+ }
+}

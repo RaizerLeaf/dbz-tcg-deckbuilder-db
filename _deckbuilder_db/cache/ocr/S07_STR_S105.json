@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S105",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S105_Saiyan Energy Focus.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY FOCUS @® s105\n‘ >",
+   "conf": 62.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(4) ENERGY COMBAT\n-_ A Energy attack costing\n2 stages.\nChoose 3 non-personality/non-Mastery cards\nin play. Those cards lose all effects until the\nend of combat.\nDAMAGE: 3 life cards.\n= anini America, Inc. Printed in the MY\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 80.8,
+   "n_words": 45
+  }
+ }
+}

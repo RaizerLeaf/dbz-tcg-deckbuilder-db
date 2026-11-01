@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_41",
+ "rel_path": "09_Set 9 (Legends)/Legends/41_Tenshinhan's Solar Flare.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TENSHINHAN'S SOLAR FLARE () R41\n————oooEE————",
+   "conf": 67.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(UZ eNensy comeaT (€S9)\n(You must destroy the top card of Ome\nyour Life Deck to use this card. If this card\nis destroyed or banished from your Life Deck, Rejuvenate it.)\nXX Energy attack.\nYou may choose a non-Mastery card in play. If you do,\ncards with that title lose all effects until the end of combat.\nRaise or lower a player’s anger 1.\nDAMAGE: 3 life cards.\n(Banish after use.)\n|",
+   "conf": 88.2,
+   "n_words": 73
+  }
+ }
+}

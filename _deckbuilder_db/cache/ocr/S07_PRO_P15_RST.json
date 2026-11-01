@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P15_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P15_Heroic Dashing Punch (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC DASHING PUNCH ©@ ) P15)",
+   "conf": 74.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4\n3,\n\n,\n\n,",
+   "conf": 15.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "z, (Heroes only. Limit 2 per deck.)\nXX Physical attack.\nRaise your anger 1. Your opponent skips their next\naction this combat. For the remainder of combat,\nlife card damage from attacks is banished.\nDAMAGE: 5 stages.\n\nHIT: Your opponent cannot gain anger this combat.\n(Banish after use.)\na\nEP I PP PE I",
+   "conf": 85.1,
+   "n_words": 54
+  }
+ }
+}

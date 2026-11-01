@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_141",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/141_Allied Blitz.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ALLIED BLITZ Curia\nee el me",
+   "conf": 51.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2 4\n,\n,",
+   "conf": 24.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "OY “4 ENERGY COMBAT (GSP)\nwy X% Energy attack costing 1 stage. COT\nWhenever you perform an energy attack\nthis combat, your opponent skips his or her next\naction this combat.\nDAMAGE: 3 life cards.\nHIT: If your MP is not a Saiyan, then for the\nremainder of combat your Allies may make actions\nregardless of your MP's power stage.",
+   "conf": 88.1,
+   "n_words": 60
+  }
+ }
+}

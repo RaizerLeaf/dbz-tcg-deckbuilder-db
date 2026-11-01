@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_110",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/110_Blue Smug Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SMUG PUNCH ) R110\nfl Sei,",
+   "conf": 80.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n37\n\n,\n1,",
+   "conf": 0.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(vA PHYSICAL COMBAT\n\n= X Physical attack.\nAttach to your MP. While attached, your\n\ncard effects that raise or lower your opponent's\n\nanger have that amount increased by 1. Banish this\ncard when your opponent changes levels.\nDAMAGE: 4 life cards.\n© 2016 Panini America, Inc. Printed in the USA. | PANINI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. wd i",
+   "conf": 86.1,
+   "n_words": 64
+  }
+ }
+}

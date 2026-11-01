@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_103",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/103_Black Flashback.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FLASHBACK () R103",
+   "conf": 74.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n,\n3\n,",
+   "conf": 10.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "th 4 PHYSICAL COMBAT |\nwy X Physical attack.\nLook at your opponent's hand and choose\na non-Dragon Ball card in it. Banish that card.\n\nAt the beginning of your opponent's next action this\ncombat, return that card to its owner's hand from\nthe Banished Zone.\n\nDAMAGE: 4 life cards.\n© 2016 avn amare, rresinne use EE EE ED",
+   "conf": 81.2,
+   "n_words": 59
+  }
+ }
+}

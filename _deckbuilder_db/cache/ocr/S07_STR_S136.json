@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S136",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S136_Black Travelling Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK TRAVELLING PUNCH ) $136 |",
+   "conf": 89.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "¢ “4 PHYSICAL comBaAT(@®)\nwy XX Physical attack. Corny\nIf this attack is stopped by a Physical\nCombat or Energy Combat card, destroy the top 2\ncards of your opponent's Life Deck. If this attack is\nstopped by any other card type or by a floating effect,\nbanish the top 2 cards of your opponent's Life Deck.\nDAMAGE: 0 stages.\n© 2016 avn amare, rresinne use EE EE ED",
+   "conf": 81.6,
+   "n_words": 69
+  }
+ }
+}

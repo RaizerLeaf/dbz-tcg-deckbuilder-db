@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_42",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/42_Red Android Palm Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED ANDROID PALM BLAST @ wz",
+   "conf": 78.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(W@ae ENERGY COMBAT\nWW\n~— (If this card is destroyed from your Life\nDeck, you may use a critical damage effect.)\nEnergy attack costing 1 stage.\nDAMAGE: 1 life card.\n\nHIT: Reveal the top 3 cards of your Life Deck. You may place\n1 revealed card on the top of your discard pile. Banish the\nremaining cards.\n\n(Banish after use.)\n\n(es) © 2016 Panini America, Inc. Printed in the USA. | PAMIMI,\n\n©B65./S..TA by Fun. All Richts Reserved. Ce. =",
+   "conf": 85.7,
+   "n_words": 80
+  }
+ }
+}

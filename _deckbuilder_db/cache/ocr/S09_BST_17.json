@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_17",
+ "rel_path": "09_Set 9 (Legends)/Legends/17_Orange Memory.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE MEMORY",
+   "conf": 96.0,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "2\n5\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "“= (If your Mastery modifies stages ome\nof damage, you may discard this card\nfrom your hand during your Planning Step.\nIf you do, search your Life Deck for a\nStyled Drill and place it into play.)\nPOWER: Search your Life Deck for a Styled\nDrill and place it into play.\nOO  —————\na i cy AN a tan gi ing ie",
+   "conf": 81.0,
+   "n_words": 62
+  }
+ }
+}

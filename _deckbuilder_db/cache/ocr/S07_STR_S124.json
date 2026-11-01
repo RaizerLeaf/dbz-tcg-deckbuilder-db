@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S124",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S124_Black Command.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK COMMAND ) $124",
+   "conf": 93.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "wo =VENT I\n= (If this card is discarded from\nyour hand, you may banish it to raise\nyour anger 2 levels.)\n\nPOWER: Banish the top 5 cards of your opponent's\ndiscard pile. If less than 5 cards are banished, your\nopponent destroys the top 3 cards of his or\nher Life Deck.\n\n(Most Recent Printing)\n© 2016 Pann Anais, Pines inne usa, EZETEETEY",
+   "conf": 86.0,
+   "n_words": 64
+  }
+ }
+}

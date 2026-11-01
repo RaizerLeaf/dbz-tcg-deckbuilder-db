@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S139",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S139_Devastating Blow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEVASTATING BLOW ) $139\nFas",
+   "conf": 81.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n37",
+   "conf": 27.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "wy XX Physical attack.\nRaise your anger 1 level. Lower your\nopponent's anger 2 levels. Choose 3 cards in your\nopponent's discard pile and banish them.\nDAMAGE: AT +1 stage.",
+   "conf": 90.8,
+   "n_words": 30
+  }
+ }
+}

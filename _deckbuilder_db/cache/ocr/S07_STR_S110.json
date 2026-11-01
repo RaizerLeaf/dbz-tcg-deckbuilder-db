@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S110",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S110_Saiyan Pinpoint Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN PINPOINT BLAST >) sito\ny, ~~4",
+   "conf": 55.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "WA _=NzARcY comaat (B®)\n-_ A Energy attack costing\n2 stages.\nYou may use a critical damage effect.\nDAMAGE: 4 life cards.\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud =",
+   "conf": 81.4,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_PRO_P5_RST",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P5_Saiyan Enraged (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENRAGED () P5\nes gg —",
+   "conf": 59.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "ras al SS Vn\n\naie Bx al AC\n\n: i: POWER: Raise your anger 2 levels. Rejuvenate the bottom 2\n\na2 cards of your discard pile. If your MP’s power level is higher\n\nBE than your opponent's MP’s power level, draw a card.\n(Banish after use.)",
+   "conf": 76.6,
+   "n_words": 46
+  }
+ }
+}

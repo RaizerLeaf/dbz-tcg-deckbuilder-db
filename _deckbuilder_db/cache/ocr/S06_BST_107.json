@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_107",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/107_Blue Discharge.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE DISCHARGE R107\nft -~ _-  -/? mp eee",
+   "conf": 44.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n9\n3\n,\n,",
+   "conf": 0.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "Wage ENERGY COMBAT\nNY\n= (You cannot play this card unless you\ncontrol at least 1 Ally.)\nAEnergy attack costing 2 stages.\nRaise or lower a player's anger 2 levels.\nDAMAGE: 7 life cards.\n\n_ HIT: Rejuvenate an Ally you control to search your discard\npile for an Ally and play it.\nBanish after use.",
+   "conf": 88.3,
+   "n_words": 55
+  }
+ }
+}

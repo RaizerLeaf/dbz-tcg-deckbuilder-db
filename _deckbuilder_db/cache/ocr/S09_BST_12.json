@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_12",
+ "rel_path": "09_Set 9 (Legends)/Legends/12_Namekian Reinforced Glow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "AMEKIAN REINFORCED GLOW () C12",
+   "conf": 81.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "5 i: POWER: Destroy the top X cards of your opponent's\n: ge Life Deck. X=the number of Earth Dragon Balls you control.",
+   "conf": 81.6,
+   "n_words": 23
+  }
+ }
+}

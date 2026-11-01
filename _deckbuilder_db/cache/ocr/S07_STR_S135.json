@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S135",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S135_Black Swipe.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK SWIPE a ) |\nBLACK SWIPE 5135,\n—",
+   "conf": 61.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 53.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "WQe4) ENERGY COMBAT ( rd ) .\n_ W Stops an energy attack.\nBanish 3 cards from your opponent's\ndiscard pile.\n© 2016 Panini America, Inc. Printed in the USA.\nA © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud ct",
+   "conf": 79.2,
+   "n_words": 43
+  }
+ }
+}

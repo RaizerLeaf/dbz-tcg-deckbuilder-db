@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_12",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/12_Namekian Aggressive Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "AMEKIAN AGGRESSIVE DRILL () U12",
+   "conf": 80.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "z= 5\n5 z 3 (When this card enters play during combat, you may shuffle a\n2 ay Dragon Ball from your Banished Zone into your Life Deck.)\nas co: Your physical attacks deal + 1 stage of damage.\nPOWER: If you can win by MPPV, raise your anger 1 level. If your MP is not\n| a Saiyan, lower your opponent’s anger 2 levels and you may destroy a Setup.",
+   "conf": 87.3,
+   "n_words": 71
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S91",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S91_Namekian Concentration.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CONCENTRATION & $91 |\nSN , 7",
+   "conf": 64.4,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "as Vv | ee\n\nt hk 5\n2 % POWER: Use at the beginning of your Rejuvenation\n3 Step if you did not declare combat. Rejuvenate 4.\n\n® (Banish after use.)\n\n|",
+   "conf": 77.0,
+   "n_words": 32
+  }
+ }
+}

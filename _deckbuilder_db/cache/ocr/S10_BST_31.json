@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_31",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/31_Red Flee.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED FLEE () U31\n~~. a7?",
+   "conf": 54.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ", 5\n,\n,\n,\n\n1,\n1",
+   "conf": 7.6,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "@ ENERGY COMBAT (RSP)\nStops an energy attack. Ory\nRaise your anger 1 level.\nLower your opponent's anger 1 level.\nYour Styled energy attacks cost -1 stage\n(to a minimum of 0) this combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.6,
+   "n_words": 65
+  }
+ }
+}

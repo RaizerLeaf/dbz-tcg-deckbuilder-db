@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_25",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/25_Namekian Head Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HEAD KICK ) 025\n“<<. <~ F- 9",
+   "conf": 51.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "7 “4 PHYSICAL COMBAT ©\nwy XX Physical attack.\nIf your opponent controls more Dragon\nBalls than you, search your Life Deck for an\nEarth Dragon Ball and place it into play.\nDAMAGE: 4 +X stages. X = the number of\nDragon Balls in play.\n© 2016 ann anac,erinesinne usa EE EE ED",
+   "conf": 79.7,
+   "n_words": 53
+  }
+ }
+}

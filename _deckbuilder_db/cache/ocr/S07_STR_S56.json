@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S56",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S56_Orange Enraged Bash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENRAGED BASH ) S56 |\nry) ken i « 2A",
+   "conf": 52.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n7 4\n4\n7,\n2\n7\n7 ,",
+   "conf": 32.9,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "() 4 PHYSICAL COMBAT (2 i\nwy XX Physical attack. Corny\nYou may search your discard pile for a Drill\nand Rejuvenate it.\nDAMAGE: AT +2 stages.\nHIT: You may search your Banished Zone for a Drill\na Rejuvenate it.\n© 2016 Pana Amaia, we Primes inne usa, EEE EY",
+   "conf": 77.0,
+   "n_words": 50
+  }
+ }
+}

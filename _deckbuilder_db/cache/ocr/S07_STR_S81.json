@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S81",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S81_Namekian Downward Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DOWNWARD BLAST ) $81",
+   "conf": 88.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",,\n\n,\n\n7 ,\n2 7\n,",
+   "conf": 8.4,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "| 2 SSeS | =).\n— x Energy attack costing 1 stage. om\nYour MP gains 2 stages. Lower your\nopponent's anger 2 levels.\nDAMAGE: 2 life cards.\nHIT: You may place this card on the top or bottom\n\nof your Life Deck after use.\n\nee",
+   "conf": 85.9,
+   "n_words": 46
+  }
+ }
+}

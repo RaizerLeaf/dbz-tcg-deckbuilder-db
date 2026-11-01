@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_104",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/104_Black Strength Display.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK STRENGTH DISPLAY () R104",
+   "conf": 84.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4 , ,\n\n, 6\n2\n4\n\n,",
+   "conf": 1.5,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "2 ee\n= (If this card is discarded from\nyour hand during combat by one of your\neffects, you may banish it to discard a card\nfrom your opponent's hand.)\n\nPOWER: Banish the top 3 cards of your opponent's\ndiscard pile. Lower a player's anger 2 levels.\nShuffle this card into your Life Deck after use.\n\n= anini America, Inc. Printed in the u\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 85.2,
+   "n_words": 72
+  }
+ }
+}

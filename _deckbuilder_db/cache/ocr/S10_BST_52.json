@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_52",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/52_Supreme Kai's Telepathy.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SUPREME KAI'S TELEPATHY @& a\nARN ee Gane",
+   "conf": 53.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n2\n,",
+   "conf": 9.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(a =)i\nPOWER: End combat. “ue\nBoth players discard down to O cards\nduring the Discard Step.\n(Banish after use.)\n|",
+   "conf": 82.5,
+   "n_words": 21
+  }
+ }
+}

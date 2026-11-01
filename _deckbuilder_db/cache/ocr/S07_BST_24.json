@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_24",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/24_Namekian Eviction.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN EVICTION ) 24",
+   "conf": 74.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 17.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "LZ PHYSICAL COMBAT\na X Physical attack.\nThis attack deals +X life cards of damage.\nX = the number of Earth Dragon Balls you control.\nDAMAGE: 4 life cards.\nee",
+   "conf": 87.2,
+   "n_words": 30
+  }
+ }
+}

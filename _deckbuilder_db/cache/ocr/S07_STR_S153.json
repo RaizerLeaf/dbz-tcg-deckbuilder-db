@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S153",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S153_Red Destiny.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DESTINY €) $153",
+   "conf": 88.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "2 POWER: Raise your anger 2 levels. For the remainder\n> of combat, your opponent's attacks deal -2 stages and\n3 -2 life cards of damage.\n\n3 | (Banish after use.)",
+   "conf": 89.5,
+   "n_words": 31
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_53",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/53_Saiyan High Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN HIGH KICK C) 053\nreA4",
+   "conf": 62.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n37\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "( “4 PHYSICAL COMBAT (GSR)\nwy XX Physical attack. COTY”\nIf you have more than 4 cards in your hand,\nthis attack deals +6 life cards of damage.\nDAMAGE: 4 life cards.\n(RP) ote rei amaica ne res nn use, EEE",
+   "conf": 70.6,
+   "n_words": 41
+  }
+ }
+}

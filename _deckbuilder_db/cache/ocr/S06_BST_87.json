@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_87",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/87_Blue Hunt.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE HUNT ) U87\n2 \\ BOA —<£_ FF",
+   "conf": 54.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "1 CYS\n~~ f\n~— POWER: If you have raised your\nopponent's anger this combat, search\nyour Life Deck for a Styled attack with an\nimmediate effect that raises a player's anger\nand place it into your hand. Raise your opponent's\nanger 2 levels.\n| (Banish after use.)",
+   "conf": 87.0,
+   "n_words": 48
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_38",
+ "rel_path": "09_Set 9 (Legends)/Legends/38_Kami's Focused Beams.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KAMI'S FOCUSED BEAMS () R38",
+   "conf": 79.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "‘ee =X Energy attack costing 2 stages.\n\nChoose a damage modifier in play. It is doubled for this attack.\nSearch your Life Deck for a Styled Drill and place it into play.\nDAMAGE: 2 life cards.\n\nHIT: You may choose a non-personality/non-Mastery card\nyou control in play. If you do, your opponent gains control of\nit and choose a card in your discard pile and Rejuvenate it.\n(Banish after use.)\n|",
+   "conf": 92.6,
+   "n_words": 71
+  }
+ }
+}

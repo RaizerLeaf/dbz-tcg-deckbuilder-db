@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_08",
+ "rel_path": "09_Set 9 (Legends)/Legends/08_Blue Zinger.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ZINGER () Ug\n=",
+   "conf": 73.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4 4\n\n7\n37\n1,",
+   "conf": 23.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "NRA eyysicaL comBaT (Gy)\nXX Physical attack. Corny\nLower your opponent's anger 1 level.\nIf you have prevented damage this combat\nfrom a non-Endurance source, this attack\ndeals +5 life cards of damage.\nDAMAGE: 5 stages.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 86.1,
+   "n_words": 67
+  }
+ }
+}

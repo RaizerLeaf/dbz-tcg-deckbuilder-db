@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S142",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S142_Black Radiating Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK RADIATING DRILL 6) $142 |\nrm",
+   "conf": 71.3,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "a co: Your opponent's energy attacks cost +1 stage to\n= perform. Whenever your opponent Rejuvenates,\na banish the bottom card of his or her discard pile.\ne\n\n7 |",
+   "conf": 83.7,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_135",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/135_Android 13's S.S. Deadly Bomber.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ANDROID 13'S S.S. DEADLY BOMBER (= ) R135\nEE ~=~-(ts- i. aaa,",
+   "conf": 61.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| Meg. ENERGY COMBAT\n= XX Energy attack costing 1 stage.\nSearch your discard pile for a non-Named card\nwith “Android” in the title and place it into your hand.\nDAMAGE: 4 stages.\nHIT: Damage from your attacks cannot be\nprevented this combat.\n\n(Banish after use.)",
+   "conf": 91.4,
+   "n_words": 46
+  }
+ }
+}

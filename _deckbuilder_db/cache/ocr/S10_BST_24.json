@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_24",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/24_Orange Swerve.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE SWERVE ) U24,",
+   "conf": 61.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "‘@ PHYSICAL COMBAT _ ;\n. Stops a physical attack.\nGain 2 stages.\nYou may destroy a Drill you control.\nIf you do, this card stays in play to be used\na second time this combat.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.4,
+   "n_words": 70
+  }
+ }
+}

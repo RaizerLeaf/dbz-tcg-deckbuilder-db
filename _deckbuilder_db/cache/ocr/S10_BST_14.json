@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_14",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/14_Namekian Enlightened Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "a | Ay\n\\ 3 A LN ae",
+   "conf": 44.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n2\n4\n4\n1\n,",
+   "conf": 6.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "co: Your Styled attacks deal +1 stage of\ndamage. At the start of your Rejuvenation\nStep, you may shuffle a Dragon Ball you\ncontrol back into its owner’s Life Deck.\nPOWER: Draw a card. Discard a card from your\nhand. If you discarded a Dragon Ball, raise\nyour anger 2 levels and stops a physical\n| or energy attack in your opponent’s\n| next action this combat.",
+   "conf": 94.6,
+   "n_words": 67
+  }
+ }
+}

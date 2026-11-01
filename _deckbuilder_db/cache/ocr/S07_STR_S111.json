@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S111",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S111_Saiyan Multi-Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN MULTI-BLAST Csi",
+   "conf": 63.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(4) ENERGY COMBAT\n-_ A Energy attack costing\n2 stages.\nDAMAGE: 3 life cards.\nHIT: Draw a card.\n(Banish after use.)\n= ‘anini America, Inc. Printed in the \\\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 77.7,
+   "n_words": 36
+  }
+ }
+}

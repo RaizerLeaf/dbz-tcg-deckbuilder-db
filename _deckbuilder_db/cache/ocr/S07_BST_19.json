@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_19",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/19_Blue Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE STRIKE () C19",
+   "conf": 68.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3,\n2\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(YF PHYSICAL COMBAT\nwy XX Physical attack.\nSearch your discard pile for up to 2 Styled\nSetups and place them in your hand.\nDAMAGE: 2 life cards.\n(Banish after use.)\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 74.7,
+   "n_words": 39
+  }
+ }
+}

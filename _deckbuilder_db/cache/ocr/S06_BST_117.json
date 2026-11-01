@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_117",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/117_Orange Hug.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“ORANGE HUG R07",
+   "conf": 56.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n347",
+   "conf": 30.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| Meg. PHYSICAL COMBAT\nX& Physical attack.\nThis attack can only be stopped by a\nPhysical Combat card. Choose 3 Styled cards from\nyour opponent's discard pile and banish them.\nDAMAGE: AT +2 stages.\nHIT: Endurance cannot be used this combat.\niC) ° 2016 Pasta! America. fac. Printed ia the USA. | PARTIE |",
+   "conf": 83.6,
+   "n_words": 54
+  }
+ }
+}

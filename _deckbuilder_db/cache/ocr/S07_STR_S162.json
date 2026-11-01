@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S162",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S162_Red Power Lift.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED POWER LIFT €) st62\nam . wee wr, yA",
+   "conf": 60.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1\n1\n3\n,",
+   "conf": 13.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Yq PHYSICAL COMBAT ( 1 )\n-_ A Physical attack.\nStops the next physical attack performed\nagainst you this combat.\nDAMAGE: AT +3 stages.\n= anini America, Inc. Printed in the My\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 74.5,
+   "n_words": 39
+  }
+ }
+}

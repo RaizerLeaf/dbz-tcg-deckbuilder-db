@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_23",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/23_Namekian Discharge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DISCHARGE ) 023\nEL |): ti(‘:S",
+   "conf": 51.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3\n\n,\n,\n,",
+   "conf": 15.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "7 ENERGY COMBAT ( l ) |\n= * Energy attack costing 1 stage. om\nLower your opponent's anger X levels. X =\nthe number of Earth Dragon Balls you control.\nDAMAGE: 4 life cards.\nee",
+   "conf": 82.2,
+   "n_words": 36
+  }
+ }
+}

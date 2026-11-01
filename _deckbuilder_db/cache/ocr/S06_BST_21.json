@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_21",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/21_Blue Swat.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE SWAT () 021\na",
+   "conf": 45.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| Meg. ENERGY COMBAT\nVW Stops an energy attack.\nIf you control 1 Ally, you may destroy it\nto draw a card.\n(Banish after use.)\n[Rp) ———o7018 Paris ananca ne rmedinnneuse —§ EXE EE TY",
+   "conf": 69.9,
+   "n_words": 35
+  }
+ }
+}

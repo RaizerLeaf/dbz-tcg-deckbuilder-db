@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_71",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/71_Cell Jr. - Confident.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "LEVE",
+   "conf": 90.0,
+   "n_words": 1
+  },
+  "stages": {
+   "text": "1,100,000\n900,000\n700,000\n500,000\n\n400,000\n300,000\n200,000\n100,000\n50,000\n25,000\n0",
+   "conf": 87.0,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "A af\nat ph | 100,000\n<y | 50,000\n— 0\noo: As an action during combat, =\nyou may banish an Ally with\n“Cell Jr.” in the title from your TOEI ANIMATION\nhand to destroy the top 3 cards of eunimatien\nyour opponent's Life Deck. Your\nphysical attacks that do not have\nAT base damage deal +3 stages © 2016 Panini America, Inc.\nof damage. @RS /S.__TA LC hy Fun.",
+   "conf": 82.5,
+   "n_words": 71
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P12_RST",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P12_Namekian Targeted Strike (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN TARGETED STRIKE ) P12,\nLE",
+   "conf": 75.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "OA =NERGY COMBAT |\ni Ags\n2X Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: You may use the effect of a Dragon Ball in play.\n\nIf you do, banish this card after use.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.1,
+   "n_words": 67
+  }
+ }
+}

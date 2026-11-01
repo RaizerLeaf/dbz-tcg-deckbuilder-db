@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_33",
+ "rel_path": "09_Set 9 (Legends)/Legends/33_Bardock's Premonition.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BARDOCK'S PREMONITION () R33\nhii",
+   "conf": 66.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n2,\n1\n,",
+   "conf": 7.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Veo |\nPOWER: Reveal the top 4 cards Gree”\nof your Life Deck. _—_\nYour opponent separates those cards into 2 piles.\nPlace one pile into your hand and the other\non top of your Life Deck in any order.\nDestroy the top 2 cards of your Life Deck.\n(Banish after use.)",
+   "conf": 89.5,
+   "n_words": 52
+  }
+ }
+}

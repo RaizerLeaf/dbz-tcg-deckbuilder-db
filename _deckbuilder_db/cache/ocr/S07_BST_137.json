@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_137",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/137_Mercenary Tao's Super Dodon Wave.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "MERCENARY TAO'S SUPER DODON WAVE R137\n— €6€=6—h >»",
+   "conf": 64.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 36.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "A XX Energy attack.\nAttach to your opponent's MP. While\nattached, your opponent may discard a V card\nfrom his or her hand at the start of each turn. If he or\nshe does not, banish the top card of your opponent's\nLife Deck. Place this card on top of your Life Deck\nwhen your opponent deals critical damage.\nDAMAGE: 1 life card.",
+   "conf": 92.2,
+   "n_words": 63
+  }
+ }
+}

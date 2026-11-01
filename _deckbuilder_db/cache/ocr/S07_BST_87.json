@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_87",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/87_Blue Tracking Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE TRACKING BEAM\n= v7 —",
+   "conf": 74.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 28.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(vA ENERGY COMBAT\n_ A Energy attack costing\n3 stages.\nRaise a player's anger 2 levels.\nDAMAGE: 4 life cards.\nHIT: Rejuvenate X. X = the amount of life card\ndamage this attack dealt.\n(Banish after use.)\n= anini America, Inc. Printed in the USA. | PANINI |\n© 2018 arn aneea. ne. Pinata ous EEE TY",
+   "conf": 78.8,
+   "n_words": 57
+  }
+ }
+}

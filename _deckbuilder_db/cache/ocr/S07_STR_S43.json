@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S43",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S43_Blue Arm Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ARM BLAST ) $43\na NH",
+   "conf": 77.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "0\n,\n,",
+   "conf": 28.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "CL 4 =Nz MB.\n4 ENERGY COMBAT\nyy (You may play this card to stop a\nphysical attack instead of as an attack.)\nX Energy attack costing 2 stages.\nDAMAGE: 5 life cards.\n© 2016 Panini America, Inc. Printed in the USA. | PAMINI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. ~~ i",
+   "conf": 82.9,
+   "n_words": 56
+  }
+ }
+}

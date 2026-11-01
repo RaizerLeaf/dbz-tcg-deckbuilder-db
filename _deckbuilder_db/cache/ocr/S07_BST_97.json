@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_97",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/97_Red Pummel.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED PUMMEL () U97\nLiMa@ 4m",
+   "conf": 57.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n37",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n— % Physical attack.\nYour anger cannot be raised or\nlowered this turn.\nDAMAGE: 3 life cards.\nHIT: At the end of combat, you may set your anger\nto 0. If you do, search your Life Deck or discard pile\nfor a Drill and play it.\n= anini America, Inc. Printed in the y\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 84.5,
+   "n_words": 64
+  }
+ }
+}

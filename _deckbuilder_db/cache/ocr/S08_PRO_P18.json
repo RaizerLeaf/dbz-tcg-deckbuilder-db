@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_PRO_P18",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P18_Unleashed.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "UNLEASHED () P18\nPONE CN OV AY SS ALI” Ot |",
+   "conf": 46.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "1\n,\n2\n1\n,\n,1,",
+   "conf": 9.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "[ oS\n(You cannot win by MPPV if you\nuse this card.)\n\nPOWER: Search your Life Deck for a’card that can attach\n\nto your MP and place it into play attached. If your MP has a\ncard attached to it, you may advance omlower your MP 1 level.\n\nIf your opponent cannot win by MPPV, destroy any number\n\nof cards attached to’ your MP)\\Lower your opponent’s MP\n\nlevel:equal to the number of cards destroyed this way.\n(Banish after.use.)",
+   "conf": 81.7,
+   "n_words": 78
+  }
+ }
+}

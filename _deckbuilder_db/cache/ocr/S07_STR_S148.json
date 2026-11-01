@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S148",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S148_Red Back Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED BACK KICK sts\nNN 1",
+   "conf": 50.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n74\n3",
+   "conf": 1.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n-_ A Physical attack.\nYou may lower your anger 3 levels to stop\nall energy attacks this combat.\nDAMAGE: AT +3 stages.\n= anini America, Inc. Printed in the My\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 80.2,
+   "n_words": 40
+  }
+ }
+}

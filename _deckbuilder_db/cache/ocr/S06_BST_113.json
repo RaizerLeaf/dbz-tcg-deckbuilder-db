@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_113",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/113_Namekian Dash.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN DASH C) ad\n| _ 3",
+   "conf": 62.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n7\n4 2\n3,47\n0\n,",
+   "conf": 23.3,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "i leg. PHYSICAL COMBAT |\n= x\n. . XX Physical attack.\n\nYou may reveal a Dragon Ball from your\nhand to look at your opponent's hand.\n: DAMAGE: 5 stages.\nHIT: Search your Life Deck for a Dragon Ball and\nplace it into play.\n2",
+   "conf": 82.2,
+   "n_words": 46
+  }
+ }
+}

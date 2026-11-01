@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_31",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/31_Puzzler.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ae PFE PTE a ~All IP’ pr~te\nPUZZLER () R31\ntN |",
+   "conf": 37.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n7\n1\n10",
+   "conf": 4.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "1}\n~~ (Limit 1 per deck. You may COTS”\nbanish this card from yourhand as an =\naction to destroy the top 2 cards of each\nplayer's Life Deck.)\n\n% POWER: Use when a “when entering combat”\neffect is used. Cancel that effect. Draw a card.\n(Banish after use.)\n\n(Created by Elmer Walter, 2017 World's Qualifier)",
+   "conf": 84.1,
+   "n_words": 56
+  }
+ }
+}

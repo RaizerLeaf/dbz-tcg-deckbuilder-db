@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_120",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/120_Orange Knee Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE KNEE STRIKE R120",
+   "conf": 71.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "5\n5",
+   "conf": 35.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "() 4 PHYSICAL COMBAT (3\nwy XX Physical attack. Orn?\nThis attack can only be stopped by a\nPhysical Combat card.\nDAMAGE: AT +5 stages.\nHIT: Lower your opponent's anger 3 levels.\n© 2016 Pana Amaia, we Primes inne usa, EEE EY",
+   "conf": 75.7,
+   "n_words": 42
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_09",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/09_Blue Charging Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE CHARGING DRILL a C9 |",
+   "conf": 88.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": i: POWER: Discard a card from your hand to perform\n23 z a Styled energy attack costing 2 stages\naE 4 () and dealing 4 life cards of damage.",
+   "conf": 84.9,
+   "n_words": 30
+  }
+ }
+}

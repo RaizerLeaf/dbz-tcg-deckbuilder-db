@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_24",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/24_Namekian Airborne Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN AIRBORNE ATTACK ) C24",
+   "conf": 87.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "i Meg. PHYSICAL COMBAT |\niz S <%e '\n. XX Physical attack.\nSearch your discard pile for a non-Styled\ncard and Rejuvenate it.\nDAMAGE: AT +4 stages.\nHIT: Lower your opponent's anger 2 levels.\n2",
+   "conf": 76.5,
+   "n_words": 36
+  }
+ }
+}

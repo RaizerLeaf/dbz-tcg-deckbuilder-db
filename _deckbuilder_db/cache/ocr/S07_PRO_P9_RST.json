@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P9_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P9_Blue Slide (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SLIDE ) Po\n;",
+   "conf": 77.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "( 4 PHYSICAL COMBAT\n. Physical attack.\nBanish the top 3 cards of your opponent's\ndiscard pile.\nDAMAGE: AT +3 life cards.\nHIT: Your opponent cannot play non-Styled cards\n\nthis combat.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\n\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 91.0,
+   "n_words": 62
+  }
+ }
+}

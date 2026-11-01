@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S80",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S80_Namekian Wish.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN WISH €) $80 |",
+   "conf": 80.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a Ci, if (Limit 1 per deck.)\n\nfe) Le\nE : c a J POWER: End Combat. Choose X cards in your discard pile and\n=a i f | Rejuvenate them. X = the number of Dragon Balls in play.\ns a ‘ (Banish after use.)",
+   "conf": 75.1,
+   "n_words": 46
+  }
+ }
+}

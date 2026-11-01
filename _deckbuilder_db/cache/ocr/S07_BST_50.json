@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_50",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/50_Red Jab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED JAB () C50\nXN \\",
+   "conf": 73.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n\n0\n\n4\n3,",
+   "conf": 9.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n\n-_ A Physical attack.\n\nUse a critical damage effect. You may pay\n\n3 stages. If you do, damage from this attack\ncannot be prevented.\nDAMAGE: 3 life cards.\n\n= anini America, Inc. Printed in the y\n\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 82.6,
+   "n_words": 46
+  }
+ }
+}

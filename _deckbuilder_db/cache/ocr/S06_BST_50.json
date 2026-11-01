@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_50",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/50_Red Wallop.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED WALLOP () C50\noe oF Rn) =k",
+   "conf": 41.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "347\n,",
+   "conf": 33.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "‘(ae RHyYSICAL COMBAT\nNY\n> XA Physical attack.\nYou may lower your anger by any amount.\nYour opponent's MP loses X stages. X = the amount\nof anger you lowered.\nDAMAGE: AT +3 stages.\nHIT: Banish 3 cards from a player's discard pile.\n(es) © 2016 Panini America, Inc. Printed in the USA. | PAMIMI,\n©B65./S..TA by Fun. All Richts Reserved. Ce. =",
+   "conf": 81.3,
+   "n_words": 63
+  }
+ }
+}

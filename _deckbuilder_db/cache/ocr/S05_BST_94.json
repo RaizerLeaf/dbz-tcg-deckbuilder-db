@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_94",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/94_Red Glare.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED GLARE C) U94",
+   "conf": 71.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "- (Limit 2 per deck.)\nC POWER: Attach to your opponent's MP. While\n3 attached and whenever your opponent raises his\nB | | anger, change that amount to 1.\nis)\nz",
+   "conf": 80.0,
+   "n_words": 32
+  }
+ }
+}

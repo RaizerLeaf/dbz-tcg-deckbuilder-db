@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_PRO_P7",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P7_Black Defensive Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DEFENSIVE BURST () P7",
+   "conf": 62.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "347",
+   "conf": 65.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "W@ae SHyYsicAL comBAT\nSY\n. XA Physical attack.\nDAMAGE: 4 life cards.\nHIT: Your opponent cannot perform physical attacks\nfor the remainder of combat.\n(es) 6 2016 Panini America, Inc. Printed the USA. | PAMIMI,",
+   "conf": 75.6,
+   "n_words": 35
+  }
+ }
+}

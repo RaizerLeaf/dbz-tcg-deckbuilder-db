@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_38",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/38_Orange Left Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE LEFT BURST ) 038\nee |) Oe | —",
+   "conf": 56.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n1,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Lz\n\" A Energy attack costing\n2 stages.\nIf you have not changed levels this combat,\nraise your anger 2 levels.\nDAMAGE: 5 life cards.\nHIT: Search your Banished Zone for a\nnon-co Drill and Rejuvenate it.\n(Banish after use.)\na\n(yy 8 ie ty a LITT",
+   "conf": 80.7,
+   "n_words": 47
+  }
+ }
+}

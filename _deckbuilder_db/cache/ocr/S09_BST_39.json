@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_39",
+ "rel_path": "09_Set 9 (Legends)/Legends/39_Krillin's Kamehameha.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KRILLIN'S KAMEHAMEHA () R39",
+   "conf": 75.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n\n,\n\n,\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "Se\" = Energy attack costing 2 stages.\nRaise your anger 1 level.\nYou may destroy the top card of your Life\nDeck to destroy an opponent's Setup or Drill.\n\nThis attack does +X stages of damage. X =the\nnumber of stages your opponent's MP is above 0.\nDAMAGE: 4 life cards.\na",
+   "conf": 87.1,
+   "n_words": 52
+  }
+ }
+}

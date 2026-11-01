@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S34",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S34_Blue Conentrated Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE CONCENTRATED BLAST ) $34\n —_ ~~ a /",
+   "conf": 57.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4",
+   "conf": 25.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(V4 ENERGY COMBAT _\n_4 Energy attack costing\n2 stages.\nRaise your anger 2 levels. Lower your opponent's\nanger 1 level.\nDAMAGE: 5 life cards.\n© 2016 Panini America, Inc. Printed in the USA. | PAMIMI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. a -",
+   "conf": 82.4,
+   "n_words": 48
+  }
+ }
+}

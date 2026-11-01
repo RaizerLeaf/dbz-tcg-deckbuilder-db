@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S78",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S78_Namekian Hand Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HAND BURST\nry aawew |  # £«&/ Blo",
+   "conf": 53.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "———\n\n— A Energy attack costing\n\n3 stages.\nThis attack can only be stopped by an\nEnergy Combat card.\nDAMAGE: 5 life cards.\nHIT: Draw the bottom card of your Life Deck.\n(Banish after use.)\n\nee",
+   "conf": 90.0,
+   "n_words": 36
+  }
+ }
+}

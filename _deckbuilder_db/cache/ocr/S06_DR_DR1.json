@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_DR_DR1",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/DR1_Instant Transmission.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "INSTANT TRANSMISSION @@®) DRI\nSer. \\ 2 \\-",
+   "conf": 34.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| Meg. EVENT\n- (You may discard this card from\nyour hand during the Planning Step. If you\ndo, choose an opponent's Setup in play and gain\ncontrol of it until the end of the turn. Unless your\nMP is Goku, limit 1 per deck.)\nPOWER: Choose an opponent's Setup in play and gain\ncontrol of it until the end of the turn.\n(Banish after use.)\n(Created by Tim Batow, 2015 World Champion)",
+   "conf": 93.2,
+   "n_words": 73
+  }
+ }
+}

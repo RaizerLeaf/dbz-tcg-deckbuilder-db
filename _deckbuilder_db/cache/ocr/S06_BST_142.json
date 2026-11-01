@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_142",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/142_Unleashed (CRD).png",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "UNLEASHED = )ur142\naria: — =  - | - ea",
+   "conf": 46.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". Meg. CVENT\n= (You cannot win by MPPV if you\nuse this card.)\n\nPOWER: Search your Life Deck for a card that can\nattach to your MP and place it into play attached.\nAdvance or lower your MP up to X levels. X = the number\nof cards attached to your MP. If your opponent cannot win\nby MPPV, destroy any number of cards attached to your\nMP. Lower your opponent's MP level equal to the number\nof cards destroyed this way.",
+   "conf": 91.0,
+   "n_words": 83
+  }
+ }
+}

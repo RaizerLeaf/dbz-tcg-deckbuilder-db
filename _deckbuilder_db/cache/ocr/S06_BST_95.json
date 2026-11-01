@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_95",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/95_Red Double Blast.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED DOUBLE BLAST () U95\nln > ¢",
+   "conf": 72.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n1\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "‘WG ENERGY COMBAT \\ —d ) ji\nSM Sy, &\n~— XX Energy attack costing 1 stage. “7;1\\)\nChoose a card in your opponent's discard\npile and banish it.\nDAMAGE: 3 stages.\nHIT: This attack stays in play to be used a\nsecond time this combat.\n(es) © 2016 Panini America, Inc. Printed in the USA. | PAMIMI'|\n©86.5./S.. T.A. LC by Fun. All Richts Reserved. Ce. =",
+   "conf": 77.4,
+   "n_words": 68
+  }
+ }
+}

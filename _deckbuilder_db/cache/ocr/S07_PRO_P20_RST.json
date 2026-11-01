@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P20_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P20_Sinister Choke (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SINISTER CHOKE : ) P20\nng ns",
+   "conf": 64.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n37\n,\n7",
+   "conf": 4.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "( 4 PHYSICAL COMBAT\n. Physical attack.\nDamage from this attack cannot be prevented.\n\nThis attack cannot be stopped and its damage is\nbanished if your opponent controls a total of 7 or\nmore of the following card types: personalities,\n\nDrills, Setups, and Dragon Balls.\n\nDAMAGE: 5 life cards.\n\n(Banish after use.)\nito eases a ea:",
+   "conf": 89.0,
+   "n_words": 56
+  }
+ }
+}

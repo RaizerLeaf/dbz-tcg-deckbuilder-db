@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_90",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/90_Namekian Whack.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN WHACK ) u90",
+   "conf": 68.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n3",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "iz\n— XX Physical attack.\nAttach to your MP. While attached\nwhenever one of your effects destroys non-Dragon\nBall cards from the top of your opponent's Life Deck,\nthey are banished instead.\nDAMAGE: 7 stages.\n\n|",
+   "conf": 91.0,
+   "n_words": 36
+  }
+ }
+}

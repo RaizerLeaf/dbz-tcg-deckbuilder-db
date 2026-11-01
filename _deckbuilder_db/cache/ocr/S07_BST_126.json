@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_126",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/126_Saiyan Despair.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DESPAIR () R126\n| oars a",
+   "conf": 60.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "0\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "A (You may Rejuvenate this card\nfrom your hand as an action to gain\n4 stages.)\n\nPOWER: Your opponent's MP loses 3 stages.\nDestroy the top card of your Life Deck. Destroy the\ntop card of your opponent's Life Deck. Shuffle this\n\ncard into your Life Deck after use.\nCD © 2016 Panini America, Inc. Printed in the USA. | PAMINI|\n©B.S./S.. T.A. LC by Fun. All Rights Reserved. AAT ~",
+   "conf": 89.5,
+   "n_words": 71
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P7",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P7_Black Swirl.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SWIRL () P7\na i — i ?7 f »",
+   "conf": 47.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4 ,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| ‘Ser =NERGY COMBAT\nSs XX Energy attack costing 2 stages.\nName a card. Your opponent cannot play that\ncard for the remainder of combat.\nDAMAGE: 4 life cards\nHIT: Raise your anger 2 levels.\n(Banish after use.)\n(REF) Samteranin aneca. ne tunesnme vs ET",
+   "conf": 78.9,
+   "n_words": 45
+  }
+ }
+}

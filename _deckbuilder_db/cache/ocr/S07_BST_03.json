@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_03",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/03_Black Dispel.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DISPEL ) 63 |\naS",
+   "conf": 78.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n5\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(4) ENERGY COMBAT\n_ W Stops an energy attack.\nThe next time one of your effects requires\nyou to discard a card from your hand this combat,\nyou may reveal it instead.\n© 2016 Panini America, Inc. Printed in the USA.\nA © B.S./S. , T.A. LC by Fun. All Rights Reserved. ee i",
+   "conf": 87.3,
+   "n_words": 54
+  }
+ }
+}

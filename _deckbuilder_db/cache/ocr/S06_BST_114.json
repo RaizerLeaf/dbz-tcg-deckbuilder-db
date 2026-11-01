@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_114",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/114_Namekian Ending.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ENDING ) R114 |",
+   "conf": 81.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n2\n,",
+   "conf": 10.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "log. =VENT t=)\n. POWER: Search your Life Deck ‘“diJ\\)\nfor a Namek Dragon Ball and place it\n| into play. At the end of combat, shuffle a Dragon\nBall you control into its owner's Life Deck.\n| (Banish after use.)\n|",
+   "conf": 85.9,
+   "n_words": 42
+  }
+ }
+}

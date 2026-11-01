@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_28",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/28_Red Announcement.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ANNOUNCEMENT () U28\n_— = a oo",
+   "conf": 58.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "5 7\n2",
+   "conf": 25.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "[ =VENT ( —d )\n(If your MP has 9, this card Gs\nis considered Named.)\nGain 3 stages. Search the top 5 cards of\nyour Life Deck for a card that can perform an\nenergy attack and place it into your hand.\nPut the remaining cards on top of your\nLife Deck in any order.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 91.5,
+   "n_words": 90
+  }
+ }
+}

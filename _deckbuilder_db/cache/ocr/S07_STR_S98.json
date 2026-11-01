@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S98",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S98_Namekian Zone Pressure.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ZONE PRESSURE ) $98\nWien. 7a =z",
+   "conf": 62.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4\n0\n,\n,",
+   "conf": 7.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "——\n— XX Physical attack.\nYou may shuffle a Dragon Ball you control\nback into its owner's Life Deck. If you do,\nbanish a Setup or Drill in play.\nDAMAGE: AT +3 stages.\n|",
+   "conf": 89.8,
+   "n_words": 34
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_03",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/03_Black Possessive Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK POSSESSIVE DRILL & U3 |",
+   "conf": 87.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "ae: co: After your opponent draws 1 or more cards, you may\n28 : banish the top or bottom card of your opponent's discard pile.\n\"3s POWER: Rejuvenate 1.\n69: Choose a card in your discard pile and shuffle it into\n= your Life Deck. If that card is an Ally, you may play it instead.",
+   "conf": 89.9,
+   "n_words": 56
+  }
+ }
+}

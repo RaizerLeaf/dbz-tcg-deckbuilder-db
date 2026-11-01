@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S97",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S97_Namekian Focused Beams.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FOCUSED BEAMS\nCC  —_——=—— i ~~ —~ |",
+   "conf": 56.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "LZ\n— A Energy attack costing\n2 stages.\nIf this attack is stopped, Banish the bottom 2 cards\nof your discard pile.\nDAMAGE: 5 life cards.\nHIT: Rejuvenate 3.\n(Banish after use.)\nee",
+   "conf": 90.6,
+   "n_words": 33
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_39",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/39_Energy Toss.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ENERGY TOSS ) R39",
+   "conf": 93.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3 4,\n,\n\n,\n\n,",
+   "conf": 14.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ZT XK Energy attack costing 1 stage.\nRaise your anger 1 level.\nLower your opponent’s anger 2 levels.\n@: |f you have only 1 Trait, choose 3 cards in your\nopponent's discard pile and banish them.\nThis attack deals +2 life cards of damage.\nDAMAGE: 2 life cards.\na",
+   "conf": 87.6,
+   "n_words": 49
+  }
+ }
+}

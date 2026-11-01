@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR17",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR17_Gohan - Unlocked.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "f pm] GOHAN ( tu\nLEVEL | UNLOCKED >\n(oe Ae ee ce",
+   "conf": 50.4,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "1,100,000\n900,000\n700,000\n500,000\n300,000\n100,000\n, 50,000\n25,000\n12,500\n6,250\n\n0",
+   "conf": 64.9,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "2 6,250 |\n\\pury | a]\nj oo; Your attacks are considered Styled. (roy\nWhenever your MP would advance a level, AS J\nyou may lower your MP 1 level instead. |\nPOWER: Discard a card from your hand to )\nsearch your Life Deck for a Styled X or W |\ncard and place it into your hand. |",
+   "conf": 82.0,
+   "n_words": 60
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_03",
+ "rel_path": "09_Set 9 (Legends)/Legends/03_Black Energized Guard.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGIZED GUARD () U3",
+   "conf": 78.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3 ,\n\n,\n\n,\n,\n,\n5\n37\n,\n4",
+   "conf": 3.6,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "AY PHYSICAL COMBAT\n\n(If you have destroyed or banished\ncards from a player’s Life Deck this combat,\n\nyou may play this card to stop an\n\nenergy attack instead.)\nStops a physical attack.\nRaise or lower a player's anger 1 level.\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 92.8,
+   "n_words": 74
+  }
+ }
+}

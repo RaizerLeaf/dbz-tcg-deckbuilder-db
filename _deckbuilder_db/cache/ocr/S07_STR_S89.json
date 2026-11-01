@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S89",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S89_Namekian Regenartion.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REGENERATION. ) $89\na he ™|eSp «|",
+   "conf": 48.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(> “4 | =VENT Bn\nA POWER: Rejuvenate the top or\nbottom 4 cards of your discard pile.\n(Banish after use.)\n© 2016 ann anac,erinesinne usa EE EE ED",
+   "conf": 64.7,
+   "n_words": 29
+  }
+ }
+}

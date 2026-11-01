@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S63",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S63_Orange Truck Lift.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE TRUCK LIFT C) S63",
+   "conf": 69.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "() 4 PHYSICAL COMBAT\nwy XX Physical attack.\nSearch the top 4 cards of your discard pile\nfor a Drill and place it into play.\nDAMAGE: AT +3 stages.\n© 2016 Panini America, inc. Printed in the USA. | PANINI\no> © B.S./S. , T.A. LE by Fun. All Rights Reserved. eh -_",
+   "conf": 81.8,
+   "n_words": 53
+  }
+ }
+}

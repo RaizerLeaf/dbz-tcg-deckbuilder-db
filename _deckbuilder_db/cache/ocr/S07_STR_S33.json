@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S33",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S33_Blue Slide.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SLIDE () $33",
+   "conf": 73.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3\n4",
+   "conf": 11.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(YF PHYSICAL COMBAT\nwy XX Physical attack.\nBanish the top 3 cards of your opponent's\ndiscard pile.\nDAMAGE: AT +3 life cards.\nHIT: Your opponent cannot play non-Styled\ncards this combat.\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 76.3,
+   "n_words": 40
+  }
+ }
+}

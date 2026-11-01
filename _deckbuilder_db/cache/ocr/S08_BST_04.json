@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_04",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/04_Black Gut Crusher.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK GUT CRUSHER ) U4 |\n. , y",
+   "conf": 65.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "37\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "[=aaz PHYSICAL COMBAT\nSw (If this card is destroyed from your Life\nDeck by one of your effects, search your\nLife Deck for a Styled Drill and place it into play.)\n* Physical attack.\nIf you have destroyed cards from your Life Deck this\ncombat, damage from this attack cannot be\nprevented or modified.\nDAMAGE: 5 life cards.\nHIT: Lower your opponent's anger 2 levels.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 91.8,
+   "n_words": 95
+  }
+ }
+}

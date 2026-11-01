@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_87",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/87_Namekian Focused Ball.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FOCUSED BALL\nay Se Wi |” “ee",
+   "conf": 64.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n4\n\n,\n\n,",
+   "conf": 17.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Geo ENERGY COMBAT |\na XA Energy attack costing 2 stages.\nYou may look at the top card of your Life Deck. If\nyou do, you may place it at the bottom of your Life Deck.\nDAMAGE: 2 life cards.\nHIT: Draw the top or bottom card of your Life Deck\nor discard pile.\n(Banish after use.)\nee llt~—~—~——””—CCUON",
+   "conf": 88.4,
+   "n_words": 59
+  }
+ }
+}

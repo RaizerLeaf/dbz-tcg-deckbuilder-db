@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR6",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR6_Vegeta - Experienced.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA Pp\n: EXPERIENCED ww DR6 :\nLL nee ig a",
+   "conf": 47.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "250,000\n175,000\n100,000\n480,000\n60,000\n40,000\n20,000\n10,000",
+   "conf": 67.6,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "WI aE\nPUR a | 0\n(Damage from your non-Styled attacks can a\nonly be modified by this card's effect.) ey\noo: Your non-Styled attacks deal +2 life\ncards of damage. is\nPOWER: X Energy attack costing 1 stage. (ranma\nBanish a card from your opponent's\ndiscard pile.",
+   "conf": 82.0,
+   "n_words": 48
+  }
+ }
+}

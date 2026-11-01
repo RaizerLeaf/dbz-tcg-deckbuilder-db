@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S39",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S39_Blue Energy Overload.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY OVERLOAD ) $39",
+   "conf": 85.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "() 4 =NEAGY COMBAT\nyy (If this card is discarded from\nyour hand by a card effect, put the top\nPhysical Combat card from your discard pile\nat the bottom of your Life Deck.)\nX% Energy attack costing 2 stages.\nDAMAGE: 5 life cards.\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 82.1,
+   "n_words": 53
+  }
+ }
+}

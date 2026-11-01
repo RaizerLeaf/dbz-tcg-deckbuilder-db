@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S92",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S92_Namekian Forceful Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FORCEFUL BLOCK () $92\neye Ll Oe sea",
+   "conf": 56.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3\n\n,\n\n3\n,\n\n1,",
+   "conf": 18.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ie) PHYSICAL COMBAT\n= Stops a physical attack.\nGain 5 stages. Rejuvenate 1.\n|",
+   "conf": 78.3,
+   "n_words": 14
+  }
+ }
+}

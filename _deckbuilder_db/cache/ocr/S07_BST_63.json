@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_63",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/63_Earth Dragon Ball 3.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "EARTH DRAGON BALL 3 © 10:\nyr ~~,",
+   "conf": 65.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "=\nx\n(14 DRAGON BALL _ )\nwy Draw the bottom 3 cards of your discard pile.\nShuffle 2 cards from your hand into your Life\nDeck. Raise your anger 1 level.",
+   "conf": 86.3,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_06",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/06_Blue Off-Balanced Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "3LUE OFF-BALANCED PUNCH @ cs |",
+   "conf": 75.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ": a: POWER: X Physical attack.\na3 3 R Raise or lower a player's anger 1 level.\n“* {-) DAMAGE: 3 stages.",
+   "conf": 70.5,
+   "n_words": 22
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_PRO_P8_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P8_Saiyan Transformation Drill  (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\\IYAN TRANSFORMATION DRILL () P8\n.\\lmer ow OC CDT, CLL _ Tren —",
+   "conf": 42.0,
+   "n_words": 13
+  },
+  "lower": {
+   "text": "i : (This Drill is not discarded when you advance a level.)\nee POWER: Rejuvenate 1.\n“= % POWER: Use when entering combat. You may banish this Drill\n| to return all Drills in play to their owner’s hands.",
+   "conf": 89.9,
+   "n_words": 39
+  }
+ }
+}

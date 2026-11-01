@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_36",
+ "rel_path": "09_Set 9 (Legends)/Legends/36_Chilled's Enraged Volley.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CHILLED'S ENRAGED VOLLEY @ ) R36 |\n~~ we > ;",
+   "conf": 59.6,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "5\n\n,\n\n,\n6,\n,,\n2,\n1,",
+   "conf": 7.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "(UZ eNensy comeaT (€S¥)\nXX Energy attack costing 1 stage. NS,\nRaise your anger 1 level. Whenever your\nopponent’s MP changes levels this combat, set their power\nlevel to 0. Whenever you use a critical damage effect this combat,\nchoose a personality in play. That personality loses 1 stage.\nDAMAGE: 5 stages.\n\nHIT: This attack stays in play to be used a\nsecond time this combat.\n\n(Banish after use.)\n|",
+   "conf": 87.6,
+   "n_words": 70
+  }
+ }
+}

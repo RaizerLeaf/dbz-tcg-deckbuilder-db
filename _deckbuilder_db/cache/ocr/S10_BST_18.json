@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_18",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/18_Namekian Right Cross.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN RIGHT CROSS ) UIs.",
+   "conf": 60.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n4\n4 ,\n0\n2",
+   "conf": 16.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "@ PHYSICAL COMBAT (| @m)\n. > Physical attack. Soi Na\nAfter a card effect causes you to discard\na card from your hand this combat, gain 2 stages\nand your opponent loses 2 stages. If you have\nonly 1 Trait, you may draw a card and\ndiscard a card from your hand.\n\nDAMAGE: AT +4 stages.\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.5,
+   "n_words": 88
+  }
+ }
+}

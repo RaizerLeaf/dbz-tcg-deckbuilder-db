@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_51",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/51_Kid Trunks' Energy Burst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KID TRUNKS' ENERGY BURST @ ) R51 |\n\\V\\ ii WI nn ss at Ss",
+   "conf": 62.6,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "7\n3\n\n7\n\n,",
+   "conf": 29.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "OO) rr re 1\n* Energy attack costing 2 stages. ns”\nRaise your anger 1 level. Lower your opponent's anger\n1 level. Your opponent skips their next action this combat.\nDAMAGE: 5 life cards.\nHIT: You may discard a card from your hand to search\nyour discard pile for a Styled Energy Combat card\nand place it into your hand.\n(Banish after use.)",
+   "conf": 88.5,
+   "n_words": 63
+  }
+ }
+}

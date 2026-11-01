@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P10_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P10_Black Nightmare (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK NIGHTMARE _~ ) P10 |",
+   "conf": 65.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n4\n7\n,\n,",
+   "conf": 26.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "[( 7 ) =VENT ( i) |\nPOWER: Search your opponent’s\nLife Deck for a Setup or Drill and banish\nit. Your MP gains 4 stages. Shuffle this card into\nyour Life Deck after use.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 89.7,
+   "n_words": 66
+  }
+ }
+}

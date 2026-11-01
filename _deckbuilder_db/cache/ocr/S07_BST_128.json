@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_128",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/128_Saiyan Energy Barrage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY BARRAGE R128\na",
+   "conf": 79.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ", 2\n4 4\n,",
+   "conf": 35.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "WY) ENERGY COMBAT\n-_ A Energy attack costing\n3 stages.\nIf your opponent has dealt critical damage this\ncombat, this attack cannot be stopped.\nDAMAGE: 5 life cards.\nHIT: Your opponent cannot use critical damage\neffects this combat.\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud =",
+   "conf": 88.5,
+   "n_words": 60
+  }
+ }
+}

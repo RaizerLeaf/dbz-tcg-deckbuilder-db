@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_46",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/46_Dabura's Demonic Slash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DABURA'S DEMONIC sLAsHe R46\nrT Wm  \\//7/ q@ YN ~~",
+   "conf": 51.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n2,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "eer ao\nXX Physical attack. COT\nRaise your anger 1 level.\nLower your opponent’s anger 2 levels.\nDAMAGE: 5 stages.\nHIT: Search your Life Deck for a Styled or Named card\nwith “Sword” in the title and place it into your hand.\n(Banish after use.)",
+   "conf": 89.8,
+   "n_words": 45
+  }
+ }
+}

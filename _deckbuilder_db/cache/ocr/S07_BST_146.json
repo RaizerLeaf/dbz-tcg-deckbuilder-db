@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_146",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/146_Villainous Energy Sphere.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS ENERGY SPHERE unas",
+   "conf": 78.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "z (Villains only.)\n% POWER: Use when an Event is played.\nCancel the effects of that card. Your opponent\ndestroys the top card of his or her Life Deck.",
+   "conf": 93.0,
+   "n_words": 29
+  }
+ }
+}

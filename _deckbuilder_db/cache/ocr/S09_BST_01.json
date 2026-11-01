@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_01",
+ "rel_path": "09_Set 9 (Legends)/Legends/01_Blac Rupture Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK RUPTURE DRILL o) C1 |\nDN ee ee",
+   "conf": 59.6,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "#35 — Se SO See oe\nag: (If this card is destroyed from your Life Deck,\n28 2 you may place it into play.)\n25 co: Your Styled attacks deal +1 life card of damage.\nAt the beginning of your turn, banish the top 2 cards\n— of your opponent's discard pile.",
+   "conf": 83.4,
+   "n_words": 52
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S112",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S112_Saiyan Domination.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DOMINATION C) $112\nee i , . oe",
+   "conf": 49.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "WY) ENERGY COMBAT\n-_ A Energy attack costing\n2 stages.\nIf the personality performing this attack has a\nhigher power level than the defending personality,\nyour opponent cannot play Events this combat.\nDAMAGE: 4 life cards.\n= anini America, Inc. Printed in the MY\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 82.6,
+   "n_words": 51
+  }
+ }
+}

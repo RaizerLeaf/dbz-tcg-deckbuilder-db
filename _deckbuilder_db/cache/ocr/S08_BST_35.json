@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_35",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/35_Pikkon's Hyper Tornado.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PIKKON'S HYPER TORNADO ) R35 |",
+   "conf": 92.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(er =VENT\nLed\n~~ (If this card is in your discard pile, you\nmay banish it as an action to Rejuvenate 2.)\nPOWER: Stops a physical or\nenergy attack.\nwl fd Od Pee tf Sia,",
+   "conf": 79.2,
+   "n_words": 35
+  }
+ }
+}

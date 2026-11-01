@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_18",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/18_Blue Brush Aside.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE BRUSH ASIDE () C18",
+   "conf": 75.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "347\n7",
+   "conf": 31.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Was SaysicAL COMBAT\nNY\n= Y Stops a physical attack.\nIf you do not control an Ally, search your\ndiscard pile for an Ally and play it. If that Ally is in\nplay at the end of combat, banish it.",
+   "conf": 86.4,
+   "n_words": 40
+  }
+ }
+}

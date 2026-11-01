@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P5",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P5_Orange Fierce Attack.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE FIERCE ATTACK ) PS",
+   "conf": 75.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 2.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "CL 4 ENEAGY COMBAT (=e.\n\na XX Energy attack costing 1 stage. Foun\n\nDamage from your Styled energy attacks\n\ncannot be prevented this combat.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels. Lower your\nopponent's anger 2 levels.\n\n(EP) orate rattan. ne rites ane sn, EEC",
+   "conf": 74.7,
+   "n_words": 48
+  }
+ }
+}

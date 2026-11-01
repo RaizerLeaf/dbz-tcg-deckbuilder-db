@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_34",
+ "rel_path": "09_Set 9 (Legends)/Legends/34_Bardock's Riot Javelin.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BARDOCK'S RIOT JAVELIN © ) R34 |",
+   "conf": 84.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "43\n,\n4\n1 3\n,\n,\n2",
+   "conf": 12.2,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "etl (Limit 2 per deck.)\nXX Energy attack costing 1 stage.\nSearch your opponent's Life Deck for a non-Named\nattack and destroy it. You may perform a copy of\nthat attack for your next action this combat.\nDAMAGE: 3 life cards.\n(Banish after use.)\n|",
+   "conf": 89.7,
+   "n_words": 45
+  }
+ }
+}

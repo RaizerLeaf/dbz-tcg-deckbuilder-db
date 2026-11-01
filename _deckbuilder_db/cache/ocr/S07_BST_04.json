@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_04",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/04_Black Duck.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DUCK () C4",
+   "conf": 76.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n7\n37\n,",
+   "conf": 41.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Qye4 PHYSICAL COMBAT\n_ YW Stops a physical attack.\nName a card. Destroy the top card of your\nLife Deck. If the card you named was destroyed,\ndestroy the top 2 cards of your opponent's Life Deck.\n= anini America, Inc. Pri in the u\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 79.6,
+   "n_words": 53
+  }
+ }
+}

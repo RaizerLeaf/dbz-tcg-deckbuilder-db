@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_43",
+ "rel_path": "09_Set 9 (Legends)/Legends/43_Bardock - Oozaru.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BARDOCK\n| Bs Qu:",
+   "conf": 70.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "80,000\n60,000\n40,000\n20,000\n10,000\n7 5,000\n4,000\n1,000\n500\n\n250\n\n0",
+   "conf": 94.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "? = 1,U0U\n? 500\n, s. :\nPOWER: XX Physical attack.\nIf stopped, draw a card.\nDAMAGE: 3 stages.\nDISCLAIMER: Dragon Ball, Dragon\nBall Z, Dragon Ball GT and Dragon\nBall Super are all owned by\nFunimation, Toei Animation, Fuji T.V.\nand Akira Toriyama. This card game is\na fan-made, non-profit project created\nfor entertainment purposes only. Please",
+   "conf": 86.6,
+   "n_words": 59
+  }
+ }
+}

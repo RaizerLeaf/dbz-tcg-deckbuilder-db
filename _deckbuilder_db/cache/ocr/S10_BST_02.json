@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_02",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/02_Blac Reflex.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK REFLEX () U2",
+   "conf": 79.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ae ee oe “we a\n: i 3 (When your opponent draws a card during combat, you\n232 may banish this card from your hand to draw a card.)\n“Eg = POWER: Rejuvenate 1. Choose a card in your opponent's\nS © discard pile and banish it. Banish the top card of your\nog opponent's Life Deck.",
+   "conf": 79.6,
+   "n_words": 57
+  }
+ }
+}

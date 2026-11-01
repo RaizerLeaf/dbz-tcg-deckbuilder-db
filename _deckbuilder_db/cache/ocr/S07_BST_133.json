@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_133",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/133_Gohan's Backlash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN'S BACKLASH ) R133 |\na NS ii",
+   "conf": 64.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "VD SICAL COMSAT\n: (Limit 1 per deck.)\nXX Physical attack.\nYou may banish an Ally.\nDAMAGE: AT life cards.\nHIT: You cannot win by MPPV until the start of your\nnext turn. Advance your MP up to 2 levels. At the end\nof combat, advance or lower your MP to level 2.\n(Banish after use.)\na",
+   "conf": 88.2,
+   "n_words": 57
+  }
+ }
+}

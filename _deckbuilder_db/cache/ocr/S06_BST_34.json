@@ -1,0 +1,17 @@
+{
+ "card_id": "S06_BST_34",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/34_Orange Welcoming Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE WELCOMING DRILL a) C34 |",
+   "conf": 86.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "be _ 4 ee i\n| oo: If you can declare combat, you must do so.\nS Your attacks deal +1 stage of damage. Whenever\n3 an opponent's Setup or Drill enters play, destroy\n| the top card of your opponent's Life Deck.\n5\n| |",
+   "conf": 83.0,
+   "n_words": 46
+  }
+ }
+}

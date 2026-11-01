@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_07",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/07_Blue Resourceful Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "bom\nwe Ge",
+   "conf": 20.3,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "2\n\n7\n,\n27\n1\n,",
+   "conf": 0.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "es\nco: Your attacks deal +1 stage of damage. Your Styled\n) attacks without “anger” printed in the text-box gain\n“HIT: Raise or lower your opponent's anger 1 level.”\n* POWER: Use when your opponent’s MP changes\nlevels from one of your cards or effects. Draw a card.\n‘ POWER: Discard a Styled card from your hand to\nperform a non-Styled physical attack dealing 3 stages\nof damage. If you discarded a Setup or Drill that can\nperform an attack, you may place it into play instead.",
+   "conf": 90.4,
+   "n_words": 87
+  }
+ }
+}

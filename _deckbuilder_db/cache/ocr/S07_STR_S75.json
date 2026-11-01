@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S75",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S75_Orange Steady Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE STEADY DRILL & 7 |",
+   "conf": 75.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "2p (Use only if your opponent has not performed a\n2 P successful energy attack this combat.)\na rie) ‘v POWER: Stops an energy attack.",
+   "conf": 80.2,
+   "n_words": 25
+  }
+ }
+}

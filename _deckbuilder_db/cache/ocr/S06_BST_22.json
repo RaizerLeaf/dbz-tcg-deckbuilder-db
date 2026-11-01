@@ -1,0 +1,17 @@
+{
+ "card_id": "S06_BST_22",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/22_Namekian Impending Doom.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN IMPENDING DOOM a C22 |",
+   "conf": 86.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "ia POWER: Attach to a Dragon Ball. While attached,\n= of that Dragon Ball gains “ * POWER: Use when\n3 = entering combat. Discard a Dragon Ball from your\na hand to destroy a Setup or Drill.” Banish this card\non when a Dragon Ball is banished.\n\ni",
+   "conf": 85.8,
+   "n_words": 49
+  }
+ }
+}

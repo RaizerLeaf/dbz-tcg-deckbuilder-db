@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_139",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/139_Trunks' Knee Bash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TRUNKS' KNEE BASH ) R139\nOU ——",
+   "conf": 71.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "_4 (This card is considered to have\n“Sword” in the title for your\ncard effects.)\nXX Physical attack.\nBanish a Setup, Drill, or attached card.\nDAMAGE: AT +3 stages.\nHIT: Raise your anger 1 level.",
+   "conf": 93.4,
+   "n_words": 35
+  }
+ }
+}

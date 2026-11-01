@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_19",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/19_Namekian Halt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HALT C) C19",
+   "conf": 77.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n0\n5",
+   "conf": 7.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "@ ENERGY COMBAT (f=B)\n. Stops an energy attack. Soi Na\nIf you have discarded a card from your\nhand this combat, you may banish the top 5\ncards of your discard pile to banish the bottom\n5 cards of your opponent's discard pile.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Gragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, non-profit",
+   "conf": 87.2,
+   "n_words": 75
+  }
+ }
+}

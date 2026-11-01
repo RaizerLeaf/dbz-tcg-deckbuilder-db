@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_30",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/30_Namekian Buffer.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN BUFFER ) 630 |\nmo —\\ *'\\e",
+   "conf": 52.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4",
+   "conf": 44.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "OA ENERGY COMBAT ( 3S ) |\n— W Stops an energy attack. om\nRejuvenate 3.\n(Banish after use.)\nee\nve mf 5. /S). TA. LC by F ama! } Ee ale gp",
+   "conf": 64.1,
+   "n_words": 33
+  }
+ }
+}

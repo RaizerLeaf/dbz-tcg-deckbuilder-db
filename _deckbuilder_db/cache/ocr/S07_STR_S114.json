@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S114",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S114_Saiyan Drive By.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DRIVE BY ()sit4\n= ms a. wid SF you",
+   "conf": 46.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(UF =VENT |\nA POWER: Your opponent destroys\nthe top X cards of his or her Life Deck.\nX = your current anger level. Choose a card in\nyour discard pile and place it on top of your\nLife Deck. If that card had Endurance, choose a\ncard in your discard pile and Rejuvenate it.\nCD © 2016 Panini America, Inc. Printed in the USA. | PAMINI|\n©B.S./S.. T.A. LC by Fun. All Rights Reserved. AAT ~",
+   "conf": 88.7,
+   "n_words": 77
+  }
+ }
+}

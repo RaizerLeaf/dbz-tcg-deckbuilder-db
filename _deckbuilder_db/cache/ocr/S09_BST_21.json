@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_21",
+ "rel_path": "09_Set 9 (Legends)/Legends/21_Red Oversized Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED OVERSIZED DRILL () C21",
+   "conf": 81.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "zg: lal ; ~\n: i : (Limit 2 per deck. If this card is in your discard pile, you may\n222 banish it as an action to gain 2 stages and place a card\n-e: from your discard pile on top of your discard pile.)\nco: Your attacks deal +1 stage of damage.\n| Your opponent's attacks deal -1 stage of damage.",
+   "conf": 86.1,
+   "n_words": 63
+  }
+ }
+}

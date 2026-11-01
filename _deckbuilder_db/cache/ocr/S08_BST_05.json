@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_05",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/05_Black Constant Barrage.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK CONSTANT BARRAGE ) U5",
+   "conf": 79.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n4\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "lam= ENERGY COMBAT (GR!\n~~ XX 1: Energy attack. Ori”\nRaise your anger 1. Whenever you use a\ncritical damage effect this combat, destroy the\ntop 2 cards of your opponent's Life Deck.\nDAMAGE: 4 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 88.9,
+   "n_words": 67
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR23",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR23_Hercule - Guarded.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HERCULE +a)\nGUARDED - , DR23\nFO FR \\",
+   "conf": 46.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "10\n1 20\n25\n30\n35\n40\n50",
+   "conf": 92.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "a ad\n- 45\n’ 4 50\n\\\\ puRY mt i 0\n(Your opponent cannot use effects that a\nlower your MP 1 or more levels.) 3,\noo: Your anger cannot.be lowered by\ncritical damage effects. All attacks deal +1\nstage of damage. Your damage modifiers\nare doubled. Your Named cards cannot have\ntheir damage modified and gain “HIT: Raise\nyour anger 1 level.”",
+   "conf": 84.8,
+   "n_words": 64
+  }
+ }
+}

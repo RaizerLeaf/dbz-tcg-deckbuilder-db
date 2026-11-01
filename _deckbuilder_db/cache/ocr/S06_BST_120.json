@@ -1,0 +1,17 @@
+{
+ "card_id": "S06_BST_120",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/120_Red Sword Slicing Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED SWORD SLICING DRILL €) R120\n-_ , ——",
+   "conf": 61.2,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "(When this card enters play during combat, if it is the first\nc time a card titled “Red Sword Slicing Drill” has entered play\n= this turn then you may search your discard pile for an attack\n2 with “Sword” in the title and place it into your hand.)\n@ co: Whenever you play a card with “Sword” in the title,\n| | your opponent's MP loses 1 stage.",
+   "conf": 91.1,
+   "n_words": 69
+  }
+ }
+}

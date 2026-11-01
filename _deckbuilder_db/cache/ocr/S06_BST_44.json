@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_44",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/44_Red Departing Shot.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED DEPARTING SHOT () C44",
+   "conf": 81.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n4\n,\n,\n,\n,",
+   "conf": 13.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "‘(W@ae =NEaRGY COMBAT\nNY\n> X% Energy attack costing\n2 stages.\nWhenever a Drill leaves play this turn, destroy the\ntop card of your opponent's Life Deck.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels.\n(ey) © 2016 Pasiai America, me. Prntesin ne usa EEO\n©86.5./S.. T.A. LC by Fun. All Richts Reserved. Ce. =",
+   "conf": 77.7,
+   "n_words": 57
+  }
+ }
+}

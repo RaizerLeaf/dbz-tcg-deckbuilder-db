@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_108",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/108_Blue Elbow.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE ELBOW () R108",
+   "conf": 75.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "37\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(YF PHYSICAL COMBAT\nyy (If this card is discarded from\nyour hand during combat, you ma\nplace it on top of your Life Deck.\nX Physical attack.\nThe next time you prevent damage this combat,\ndraw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 82.1,
+   "n_words": 54
+  }
+ }
+}

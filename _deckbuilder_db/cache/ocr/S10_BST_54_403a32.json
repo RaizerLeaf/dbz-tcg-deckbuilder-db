@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_54_403a32",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/54_Videl's Determination.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VIDEL'S DETERMINATION ) R54 |",
+   "conf": 87.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "OO) aa Shi\n$ POWER: Use after you Zn”\nperform a successful physical attack. =\nYour opponent skips their next action this combat\nor banish the top 7 cards of their discard pile.\nDraw a card.\n(Banish after use.)",
+   "conf": 85.6,
+   "n_words": 39
+  }
+ }
+}

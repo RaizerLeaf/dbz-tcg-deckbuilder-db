@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_47",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/47_Gotenk's Defensive Stance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOTEN'S DEFENSIVE STANCE\nwre i i... : Ex <a",
+   "conf": 61.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n2\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "U (i) SEA =)i\nYW Stops a physical attack. Ome\nRaise your MP to its highest power stage.\nSearch your discard pile and Banished Zone for\nup to 3 Styled Drills and Rejuvenate them.\na",
+   "conf": 81.3,
+   "n_words": 35
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S38",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S38_Blue Draining Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE DRAINING BLAST ) $38\n—_ 7",
+   "conf": 70.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n2,\n41",
+   "conf": 7.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(vA ENERGY COMBAT\n\n_ A Energy attack.\n\nThe personality performing this attack may\npay any amount of stages. For every 2 stages paid,\n\nthis attack deals an additional +1\nlife card of damage.\nDAMAGE: 4 life cards.\n\n© 2016 Pann Ana, we Pineainne usa. EE EE ED",
+   "conf": 81.1,
+   "n_words": 47
+  }
+ }
+}

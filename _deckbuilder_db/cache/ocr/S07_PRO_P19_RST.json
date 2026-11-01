@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P19_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P19_Time is a Warrior's Tool (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "TIME IS A WARRIOR'S TOOL =) P19\nOO",
+   "conf": 75.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n5",
+   "conf": 6.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ef (Limit 1 per deck.)\nPOWER: Stops a physical or\nenergy attack.\nStops all of your opponent’s attacks this combat.\nPel Pe Pe",
+   "conf": 83.8,
+   "n_words": 23
+  }
+ }
+}

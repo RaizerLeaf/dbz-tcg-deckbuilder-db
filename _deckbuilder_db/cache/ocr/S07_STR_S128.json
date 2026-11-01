@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S128",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S128_Black Flying Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FLYING KICK ) $128 |\n\"/))/ -~6~—6 C/7a",
+   "conf": 64.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "21",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(7A PHYSICAL COMBAT ( 1 ) I\n— X% Physical attack. Ri\nBanish the top 3 cards of your opponent's\ndiscard pile.\nDAMAGE: AT +2 stages.\n= anini America, Inc. Printed in the u\n© 201 Pain netics, ones nn sa EEE ED",
+   "conf": 73.0,
+   "n_words": 43
+  }
+ }
+}

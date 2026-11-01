@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S65",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S65_Orange Overhead Smash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE OVERHEAD SMASH ) S65 |\nAR wy ( ww Ae",
+   "conf": 63.5,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "4\n,\n0,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "() 4 PHYSICAL COMBAT\nwy XX Physical attack.\nIf you have at least 5 Drills in play, this\nattack deals an additional +7 life cards of damage.\nDAMAGE: AT +3 stages.\nHIT: Shuffle all Drills in your discard pile into\nyour Life Deck.\n(Banish after use.)\n© 2016 Pana Amaia, we Primes inne usa, EEE EY",
+   "conf": 81.6,
+   "n_words": 56
+  }
+ }
+}

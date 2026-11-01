@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_48",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/48_Red Tilt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED TILT () C48\nGD | CE || ee | 2 eum",
+   "conf": 49.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n,\n\n4\n\n,",
+   "conf": 11.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(4% ENERGY COMBAT\n\n4 Y Stops an energy attack.\n\nThe next time one of your effects banishes\na card from your Life Deck or discard pile this\n\ncombat, draw a card.\n(Banish after use.)\n\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. vu _—I =",
+   "conf": 85.5,
+   "n_words": 57
+  }
+ }
+}

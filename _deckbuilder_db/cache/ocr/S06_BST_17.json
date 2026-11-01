@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_17",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/17_Blue Android Headbutt.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE ANDROID HEADBUTT ) ci7",
+   "conf": 67.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Oa SHYSICAL COMBAT\nWY\n= XA Physical attack.\nRaise or lower a player's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: If your opponent advanced a personality level\nwith this card, set an MP's power level to 0.",
+   "conf": 85.1,
+   "n_words": 38
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_21",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/21_Red Panic.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED PANIC C) C21",
+   "conf": 87.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "5 z 3 (If this card is banished from your Life Deck or discard pile by one of\n223 your effects and you have not searched your Life Deck this turn, search your\nas a Life Deck or Banished Zone for a Dragon Ball and place it into play.)\n* POWER: Search your Life Deck, discard pile, or Banished\nZone for a Drill and play it.\n| (Banish after use.)",
+   "conf": 89.3,
+   "n_words": 70
+  }
+ }
+}

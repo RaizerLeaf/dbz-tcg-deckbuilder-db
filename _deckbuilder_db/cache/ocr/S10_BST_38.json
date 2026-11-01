@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_38",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/38_Android Efficiency Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\\NDROID EFFICIENCY DRILL a R38 |\nree — o_O as",
+   "conf": 55.5,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "FF 3 oe\n\n4 co: Your energy attacks that deal life card damage after\n_ modifiers deal a minimum of 5 life cards of damage.\n: @: If you have 2 or less Traits, you may destroy the top X\n| cards of your Life Deck instead of paying the stage cost\nF — of an attack. X=the stage cost of that attack.",
+   "conf": 84.8,
+   "n_words": 63
+  }
+ }
+}

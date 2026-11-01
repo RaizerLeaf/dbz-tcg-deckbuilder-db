@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_44",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/44_Android 18's Destructo Disk.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ANDROID 18'S DESTRUCTO DISK @) R44\nheey fh —= EE",
+   "conf": 56.9,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n9\n,\n\n,\n\n,",
+   "conf": 8.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "© 2X Energy attack costing 2 stages.\nThis attack cannot be stopped.\nIf damage from this attack is prevented,\ndraw a card.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+   "conf": 91.9,
+   "n_words": 29
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_122",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/122_Red Clock.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED CLOCK €) r122\nb> za",
+   "conf": 54.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n2\n\n,\n37",
+   "conf": 29.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n\n-_ A Physical attack.\n\nIf you have played a card with “Sword” in\nthe title this combat, use a critical damage effect.\n\nDAMAGE: AT +3 stages.\nHIT: Raise your anger 1 level.\n\n= anini America, Inc. Printed in the y\n\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 83.6,
+   "n_words": 50
+  }
+ }
+}

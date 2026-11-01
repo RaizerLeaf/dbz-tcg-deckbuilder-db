@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P2",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P2_Saiyan Skull Jab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SKULL JAB ) P2-\nLetdl te baw be",
+   "conf": 54.4,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "CY 4 PHYSICAL COMBAT\n4 XX Physical attack.\nSearch your discard pile for a Styled Event\nand Rejuvenate it.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck.\n{te",
+   "conf": 87.2,
+   "n_words": 32
+  }
+ }
+}

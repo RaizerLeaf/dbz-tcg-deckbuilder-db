@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_130",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/130_Cell Jr.'s Swarm.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CELL JR.'S SWARM : ) R130\nPy ae , We",
+   "conf": 51.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "3\n37",
+   "conf": 32.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "wy X Physical attack.\nDAMAGE: 1 life card.\n\nHIT: You may banish any number of Hero Allies and/\nor Allies with “Cell Jr.” in the title in play. Your\nopponent destroys the top X cards of his or her Life\nDeck, X = the number of Allies banished this way.\n(Banish after use.)",
+   "conf": 94.0,
+   "n_words": 53
+  }
+ }
+}

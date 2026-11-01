@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_19",
+ "rel_path": "09_Set 9 (Legends)/Legends/19_Orange Lasso.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE LASSO C) U19\nee a",
+   "conf": 39.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n3\n10,",
+   "conf": 25.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "NI euYsicAL _comBaAT | = |\n%* Physical attack. Corny\nYou may draw a card. If you do, your\nopponent draws a card.\nDAMAGE: AT +4 stages.\nHIT: Your Styled physical attacks deal +1 stage\nof damage this combat.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.6,
+   "n_words": 70
+  }
+ }
+}

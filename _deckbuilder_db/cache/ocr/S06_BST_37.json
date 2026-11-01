@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_37",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/37_Orange Fierce Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ORANGE FIERCE ATTACK C) C37\nQs NO ee.",
+   "conf": 63.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "ENERGY COMBAT \\ —d |\nAS /\n~— XX Energy attack costing 1 stage. Ome\nDamage from your Styled energy attacks\ncannot be prevented this combat.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels. Lower your\nopponent's anger 2 levels.\n= JC J. can “ . Fea weer to 3",
+   "conf": 75.0,
+   "n_words": 52
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P17_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P17_Stomach Crusher (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "STOMACH CRUSHER () P17\n|.) ag 2” XN eee",
+   "conf": 52.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n37 2\n4",
+   "conf": 2.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "yA PHYSICAL COMBAT (@=B)\n, % Physical attack. Ome\nCards that end combat cannot be played\nnor used this turn. Players cannot use Setups this\ncombat unless they have performed a Styled attack\nfrom their hand during combat.\nDAMAGE: AT +4 stages.\n\na",
+   "conf": 81.8,
+   "n_words": 43
+  }
+ }
+}

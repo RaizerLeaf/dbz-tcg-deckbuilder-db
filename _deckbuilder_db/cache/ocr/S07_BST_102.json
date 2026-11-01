@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_102",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/102_Black Annihilation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ANNIHILATION () R102",
+   "conf": 75.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 20.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Qe4 ENERGY COMBAT ( rd ) I\n_— (If this card is destroyed from your\nLife Deck by one of your effects, you may\nRejuvenate it and the bottom card of your discard pile.)\nA Energy attack costing 2 stages.\nBanish 3 cards from your opponent's discard pile.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 1 level.\n© 2016 Panini America, Inc. Printed in the USA.\nA © B.S./S. , T.A. LC by Fun. All Rights Reserved. ee i",
+   "conf": 87.7,
+   "n_words": 80
+  }
+ }
+}

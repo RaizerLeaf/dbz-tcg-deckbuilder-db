@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S106",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S106_Saiyan Energy Outburst.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY OUTBURST C) $106\na: lO Beet AtlltCil",
+   "conf": 55.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", ,\n3\n,",
+   "conf": 4.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(4) ENERGY COMBAT\n-_ A Energy attack.\nYour opponent's effects cannot discard\ncards from your hand this combat.\nDAMAGE: 6 life cards.\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud =",
+   "conf": 84.9,
+   "n_words": 44
+  }
+ }
+}

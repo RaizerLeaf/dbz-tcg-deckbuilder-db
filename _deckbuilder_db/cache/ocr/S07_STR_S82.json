@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S82",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S82_Namekian Aerial Knee.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN AERIAL KNEE ) $82",
+   "conf": 86.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n3\n,\n,",
+   "conf": 14.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "7 PHYSICAL COMBAT\n— XX Physical attack.\nIf you control a Saiyan Personality, gain X\nstages and Rejuvenate X. X = Your MP's level.\nDAMAGE: AT +3 stages.\n|",
+   "conf": 86.0,
+   "n_words": 29
+  }
+ }
+}

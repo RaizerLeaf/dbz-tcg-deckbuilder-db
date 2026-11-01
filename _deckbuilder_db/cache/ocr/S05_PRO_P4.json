@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_PRO_P4",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P4_Visiting the Past (Frozen).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ". Xe \\ doe\nVISITING THE PAST a P4 |",
+   "conf": 61.5,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "' | \\ (Limit 2 per deck.)\n\n[re % POWER: Use when entering combat. Search your\nI discard pile for a card and place it into your hand.\n= If you have more than 3 cards in your hand, place a\nI card from your hand at the bottom of your Life Deck.",
+   "conf": 88.4,
+   "n_words": 53
+  }
+ }
+}

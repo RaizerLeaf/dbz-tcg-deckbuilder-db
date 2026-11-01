@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_95",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/95_Red Infuriated Attack.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED INFURIATED ATTACK €) U95\nP <4 ae “a  ——",
+   "conf": 61.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "3,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(A@@S PHYSICAL COMBAT\nYi Ke y\n- (If this card is banished from your\ndiscard pile during combat, your next\nsuccessful attack combat cannot have its\ndamage prevented.)\nPhysical attack.\nDamage from this attack is banished.\nDAMAGE: 3 +X life cards. X = your MP’s current level.\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 81.6,
+   "n_words": 53
+  }
+ }
+}

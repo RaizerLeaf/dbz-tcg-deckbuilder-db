@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_31",
+ "rel_path": "09_Set 9 (Legends)/Legends/31_Ocular Pat Down.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "OCULAR PAT DOWN Co\nNee, a Ln Te es |",
+   "conf": 49.8,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "a rm 1 |\n\nL\n\n; (Limit 2 per deck. If this card is banished for Endurance and your opponent\n\ncannot win by MPPV, you may lower your opponent’s MP 1 level.)\nPOWER: Your opponent reveals their hand. Choose up to 7 cards\n\nbh in your opponent's discard pile and banish them. Your opponent\n\n©) chooses up to 7 cards in your discard pile and banishes them.\n\n4 (Banish after use.)",
+   "conf": 85.7,
+   "n_words": 71
+  }
+ }
+}

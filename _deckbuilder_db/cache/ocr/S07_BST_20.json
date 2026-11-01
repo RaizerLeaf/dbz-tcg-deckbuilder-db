@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_20",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/20_Blue Sweep.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SWEEP ) c20°",
+   "conf": 69.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(V4 ENERGY COMBAT\nyy (If this card is discarded from\nyour hand during combat, your MP\ngains 4 stages.)\n‘Y POWER: Stops an energy attack.\nThe next time one of your effects prevents damage\nthis combat, gain 4 stages.\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 79.9,
+   "n_words": 48
+  }
+ }
+}

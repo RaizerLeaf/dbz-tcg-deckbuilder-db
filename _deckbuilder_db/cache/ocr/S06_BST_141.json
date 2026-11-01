@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_141",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/141_Surprise Attack.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "al — i ‘in g i, ore | g las.\n| SURPRISE ATTACK om\nee ee. Ava. +",
+   "conf": 42.6,
+   "n_words": 18
+  },
+  "stages": {
+   "text": "4 42\n2\n\n,\n\n2\n\n,",
+   "conf": 29.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": ". Neg PHYSICAL COMBAT\nay (Players cannot search for “Surprise\nAttack” with this card’s effect.)\nX Physical attack.\nSearch your opponent's Life Deck for\n2 non-Styled/non-Dragon Ball cards and banish them.\nYour opponent searches your Life Deck for\n2 non-Styled/non-Dragon Ball cards and banishes them.\nDAMAGE: 4 life cards.\nHIT: Banish the top 4 cards of your opponent's discard pile.",
+   "conf": 91.7,
+   "n_words": 60
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_91",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/91_Orange Charge (Frozen).png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE CHARGE ) U91 |\n|. Jj”. ~“aa",
+   "conf": 59.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ", ,",
+   "conf": 49.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| ee PHYSICAL COMBAT\nSe .\n‘SA XX Physical attack.\nDAMAGE: 1 stage.\nHIT: Reveal cards from the top of your Life Deck until\nyou reveal a Styled attack. Place that attack into your\nhand and all other revealed cards at the bottom of your\nLife Deck in any order. Your next attack this combat\n| deals +X stages of damage. X = the number of cards\nrevealed this way, to a maximum of 10. |\n(RF) e016 rant anaes ne riadiane vse ETT",
+   "conf": 84.5,
+   "n_words": 84
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S155",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S155_Red Duck.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DUCK | @ 155:\na S- 4",
+   "conf": 58.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 3.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(YA PHYSICAL COMBAT ( —d le\n— YW Stops a physical attack.\nRejuvenate X. X = your current anger level.\n© 2016 Panini America, Inc. Printed in the USA.\ne& © B.S./S. , T.A. LC by Fun. All Rights Reserved. vu _—I =",
+   "conf": 77.0,
+   "n_words": 43
+  }
+ }
+}

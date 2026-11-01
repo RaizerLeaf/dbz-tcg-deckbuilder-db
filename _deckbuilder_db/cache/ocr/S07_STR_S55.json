@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S55",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S55_Orange Upward Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE UPWARD STRIKE ) S55\n— OS ee ee",
+   "conf": 61.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 4.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "i | a\n. X Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: 4 stages.\nHIT: Lower your opponent's anger X levels.\nX = the number of Drills you control.\na",
+   "conf": 83.4,
+   "n_words": 32
+  }
+ }
+}

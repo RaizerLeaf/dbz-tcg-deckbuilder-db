@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_PR1",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/PR1_Frieza's Arrogance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "FRIEZA'S ARROGANCE\n| “Sam |, J | Vr 7\\%",
+   "conf": 47.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(eS 1\nS$  timit 2 per deck. If this card is Ome\nRejuvenated during combat, search your\nLife Deck for an Ally and play it.)\n‘W POWER: Stops a physical or\nenergy attack.\nYou may Rejuvenate a Named card in your\ndiscard pile or Banished Zone.\na",
+   "conf": 84.1,
+   "n_words": 47
+  }
+ }
+}

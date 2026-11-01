@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_41",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/41_Devilish Sword Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DEVILISH SWORD STRIKE é ) R41 |\nBee eS, sl Oesi=*=éié‘jN :",
+   "conf": 63.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "4\n347\n,",
+   "conf": 1.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "U (i) SEA 1)\nX% Physical attack. Ome\nLower your opponent’s anger 2 levels.\nG9: You may discard a card from your hand to draw\na card. If you discarded a card with “Sword” in\nthe title, your opponent’s MP loses 4 stages.\nDAMAGE: 5 stages.\n\na",
+   "conf": 85.5,
+   "n_words": 47
+  }
+ }
+}

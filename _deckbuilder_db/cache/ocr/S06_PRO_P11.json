@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_PRO_P11",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P11_Blue Barrier.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE BARRIER : ) Pit\n—",
+   "conf": 67.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n47\n7,\n,",
+   "conf": 13.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Wee =NERGY COMBAT\nNY |\n> Stops an energy attack.\nDestroy an Ally.",
+   "conf": 79.5,
+   "n_words": 13
+  }
+ }
+}

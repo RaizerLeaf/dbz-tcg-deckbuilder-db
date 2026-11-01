@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR15",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR15_Namekian Radiant Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "coe x\ni: \\% |\n7 a i =\n\\\n_ ..",
+   "conf": 52.7,
+   "n_words": 12
+  },
+  "stages": {
+   "text": ",\n4\n\n3\n\n, ,\n\n,\n\n,",
+   "conf": 10.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "oo: Whenever an Earth Dragon Ball you\nown enters play during combat, raise\nyour anger 1 level. While 3 or more Earth\nDragon Balls you own are in play, your =|\nattacks deal +2 life cards of damage.\nPOWER: If less than 3 Dragon Balls you\nown are in play, search your Life Deck for\n: a Dragon Ball and place it into play. .\nBy",
+   "conf": 90.4,
+   "n_words": 66
+  }
+ }
+}

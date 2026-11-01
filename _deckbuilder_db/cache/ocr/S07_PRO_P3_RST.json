@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P3_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P3_Stare Down (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "STARE DOWN () P3\nwi / ~~“ \\ a",
+   "conf": 60.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 21.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ef (Villains only.)\nPOWER: Look at your opponent's hand and\nchoose a card. Your opponent discards that card.\nenter *ent 002465\" 2%6;",
+   "conf": 71.3,
+   "n_words": 22
+  }
+ }
+}

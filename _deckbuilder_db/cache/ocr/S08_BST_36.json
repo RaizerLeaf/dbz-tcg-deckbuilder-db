@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_36",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/36_Pikkon's Thunder Flash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "PIKKON'S THUNDER FLASH EG\nLl lO",
+   "conf": 70.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "35\n\n, ,\n1\n,",
+   "conf": 7.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "[ sane) ENERGY COMBAT\nSA (If this card is Rejuvenated during\ncombat, raise your anger 1 and lower your\nopponent's anger 1.)\nXX 1: Energy attack.\nRaise your anger 1. Rejuvenate 1. Banish a card\nfrom your opponent's discard pile. If that card was an\nEvent, search your opponent’s Life Deck for a\ncopy of that card and banish it.\n\nDAMAGE: 6 life cards.\n\nee)\n\nfa ee SE Po a",
+   "conf": 83.2,
+   "n_words": 70
+  }
+ }
+}

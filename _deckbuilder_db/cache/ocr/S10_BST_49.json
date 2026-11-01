@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_49",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/49_Hercule's Championship Belt.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "; eo date\nRCULE'S CHAMPIONSHIP BELT  ) R49\n\\ _—  @ rl.) lL lee nS 2",
+   "conf": 42.7,
+   "n_words": 16
+  },
+  "lower": {
+   "text": "(Your opponent cannot destroy or banish this card from play.\nYou may only have one “Hercule’s Championship Belt” attached.)\nPOWER: Attach to your MP. Search your Life Deck for an Ally and play it. For the\nremainder of combat, that Ally may use its Power regardless of your MP’s power\nstage. While attached, once per turn as an action you may discard a card from\n' fa hand to search your Life Deck for a Named card and place it into your hand.",
+   "conf": 93.4,
+   "n_words": 83
+  }
+ }
+}

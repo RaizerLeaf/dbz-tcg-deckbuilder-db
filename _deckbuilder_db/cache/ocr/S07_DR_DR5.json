@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR5",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR5_Blue Resolute Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\\ !\nae 5\n> hel 2 ~",
+   "conf": 36.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "7 oo: Your attacks deal +1 life card |\n. of damage.\nos POWER: Discard a Styled card from\n. your hand to draw a card and prevent\n: 4 stages and 4 life cards of damage\n: from your opponent's next attack\nA this combat.\nMASTERY a\n44 [PARINI\n\\ g _ /, © 2016 Panini America, Inc. Printed in the USA. TOE! ANIMATION",
+   "conf": 77.2,
+   "n_words": 65
+  }
+ }
+}

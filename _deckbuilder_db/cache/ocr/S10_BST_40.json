@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_40",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/40_Focused Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "FOCUSED BLAST fe ) R40 |",
+   "conf": 53.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4,\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "© (While attached to a Drill or Dragon Ball,\nif a card effect would cause that card to leave\nplay, you may banish this card instead.)\n2X Energy attack costing 2 stages.\nRejuvenate 1.\n@: Attach to a Drill or Dragon Ball in play.\nDAMAGE: 4 life cards.",
+   "conf": 93.4,
+   "n_words": 48
+  }
+ }
+}

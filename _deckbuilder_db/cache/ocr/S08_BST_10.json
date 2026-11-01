@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_10",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/10_Blue Quick Shot.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE QUICK SHOT a\ni",
+   "conf": 78.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "44\n1,",
+   "conf": 8.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "j=a_ae ENERGY COMBAT\n» — > 2\nI x Energy attack costing 2 stages.\nLower your opponent's anger 1 level.\nYou may discard a card from your hand to draw\na card. If you discarded an Ally, you may\nplace it into play instead.\nDAMAGE: 4 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-mada, non-profit",
+   "conf": 88.7,
+   "n_words": 81
+  }
+ }
+}

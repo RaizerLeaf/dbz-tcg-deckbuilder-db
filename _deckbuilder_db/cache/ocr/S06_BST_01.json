@@ -1,0 +1,17 @@
+{
+ "card_id": "S06_BST_01",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/01_Black Android Programming.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "“ACK ANDROID PROGRAMMING () C1",
+   "conf": 62.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(If this card is destroyed from your Life Deck by one of your\nS effects, you may place it into play.)\n3 POWER: Attach to your MP. While attached, your effects that\n% banish cards from the top of your opponent's Life Deck or\ne discard pile have that amount increased by 1. Banish this card\n| | when your opponent deals critical damage.",
+   "conf": 91.0,
+   "n_words": 64
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S10_BST_10",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/10_Blue Pacing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE PACING DRILL & 10)",
+   "conf": 74.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "#33 N\\\\ Sr\n\n: fH co: @: If you have 2 or less Traits, your opponent cannot\n\n32 use effects that lower your MP 1 or more levels.\n\n\"Bg POWER: Perform a Styled physical attack dealing 1 stage\n| of damage. Damage from this attack cannot be modified.",
+   "conf": 84.8,
+   "n_words": 48
+  }
+ }
+}

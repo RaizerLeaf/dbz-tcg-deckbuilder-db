@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_16",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/16_Orange Assistance Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ASSISTANCE DRILL () C16",
+   "conf": 80.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "#3 ae \" a “\\\\\\\nect \\ _ | Te TF\n: if co: Attacks performed by your Allies deal +1 life\nB8 z card of damage. If an Ally you control would be\nEe banished by an opponent's effect, shuffle it\n\n| into its owner's Life Deck instead.",
+   "conf": 72.2,
+   "n_words": 49
+  }
+ }
+}

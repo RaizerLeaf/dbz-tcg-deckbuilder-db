@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_80",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/80_Black Confident Shot.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK CONFIDENT SHOT @ ) U80\nDe Sie eee eee ee ae\n! Bm Arar *’ar |",
+   "conf": 40.4,
+   "n_words": 17
+  },
+  "stages": {
+   "text": ",\n,\n\n4\n,\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "(Ags =ENEAGY COMBAT\nWy\n= X% Energy attack costing 2 stages.\nDamage from this attack cannot be redirected.\nYour damage modifiers on this attack are doubled.\nDAMAGE: 2 life cards and 2 stages.\nHIT: If your opponent's MP's power level is 0, you may\nsearch your Life Deck for a Named attack card and\nplace it into your hand.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 82.7,
+   "n_words": 66
+  }
+ }
+}

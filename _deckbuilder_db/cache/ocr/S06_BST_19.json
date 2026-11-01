@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_19",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/19_Blue Flying Kick.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE FLYING KICK ) C19 |\n“FF Gav «aoa w",
+   "conf": 59.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "3 4",
+   "conf": 22.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| M@ae =HyYsicAL COMBAT \\ —d )\nWY |\n~ XA Physical attack.\nThis attack deals +1 stage of damage for\neach Drill in play.\nDAMAGE: AT +4 stages.\nHIT: Your opponent cannot use effects to advance\n\n| or lower 1 or more MP levels this turn.",
+   "conf": 83.3,
+   "n_words": 47
+  }
+ }
+}

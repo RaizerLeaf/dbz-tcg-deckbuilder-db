@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR19",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR19_Gohan - Undeniable.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ya GOHAN\nfeta UNDENIABLE —\nraat N if H \\ WY f tty, if # [4 : ~~ Fr mf rf Ur Or Or!",
+   "conf": 46.0,
+   "n_words": 24
+  },
+  "stages": {
+   "text": "2,800,000\n2,000,000\n1,200,000\n900,000\n600,000\n300,000\n200,000\n100,000\n50,000,\n25,000\n\n0",
+   "conf": 72.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "—, . C4 50,000,\n~ FY 25.000\n\\puR <2 0\nco: Your attacks are considered Styled. a\nYour physical attacks can only be stopped |. 3,\nby Physical Combat cards. Your energy \\\nattacks can only be stopped by Energy Som\nCombat cards. C, {PANINI\nPOWER: The next attack you perform this 1% 4\ncombat has its power stage cost reduced to oe\n0 and its damage cannot be prevented.",
+   "conf": 76.8,
+   "n_words": 70
+  }
+ }
+}

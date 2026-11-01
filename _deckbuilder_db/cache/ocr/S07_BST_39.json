@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_39",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/39_Orange Aid.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE AID ) 39\n,",
+   "conf": 58.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 6.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "‘Y 4 EVENT\n_ Ae may only have one “Orange\nAid” attached.)\nPOWER: Attach to your MP. While attached, when\nentering combat you may draw a card. If you do,\nyour opponent draws a card. Banish this card when\nyour opponent deals critical damage.\n© 2016 Pana Amaia, we Primes inne usa, EEE EY",
+   "conf": 79.7,
+   "n_words": 54
+  }
+ }
+}

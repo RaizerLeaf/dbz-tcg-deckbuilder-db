@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P9",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P9_Red Trailing Blast (CRD).png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED TRAILING BLAST C) pg\npap  »§,§ ai #r_>",
+   "conf": 55.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "9",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(A245, ENERGY COMBAT ( = )-\n— A Energy attack costing 1 stage CaO\nAttach to your MP. While attached when\nyour MP changes levels, return this card to\nyour hand.\nDAMAGE: 3 life cards.\n(EP) camterait anni ne iecinneuse ETT",
+   "conf": 75.6,
+   "n_words": 41
+  }
+ }
+}

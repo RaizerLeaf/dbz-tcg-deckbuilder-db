@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_29",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/29_Namekian Robotic Destruction.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN ROBOTIC DESTRUCTION C) C29 |\n| PT, a |",
+   "conf": 67.8,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n347\n3",
+   "conf": 26.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "leg. PHYSICAL COMBAT |\n| ay XX Physical attack. |\n| You may shuffle a Dragon Ball you control\n\n| into its owner's Life Deck. If you do, banish 3 cards\nfrom your opponent's discard pile.\n\nDAMAGE: AT +3 stages.\n\n| HIT: Search your Life Deck for 2 cards and banish\nthem. If you do, Rejuvenate 2.\n\n2",
+   "conf": 87.3,
+   "n_words": 58
+  }
+ }
+}

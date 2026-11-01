@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_02",
+ "rel_path": "09_Set 9 (Legends)/Legends/02_Black Interrogation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK INTERROGATION > ) C2 |\nUl — |",
+   "conf": 66.9,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "3",
+   "conf": 56.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(AY ) =VENT ( 1 } ) |\nPOWER: Discard a card at a\nrandom from your opponent's hand.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 85.5,
+   "n_words": 53
+  }
+ }
+}

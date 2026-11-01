@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_02",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/02_Black Breaker.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK BREAKER ) c2-\nami ayy —",
+   "conf": 53.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "41\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(U7 PHYSICAL COMBAT\n= X% Physical attack.\nYour Styled attacks deal +1 stage and +1\nlife card of damage until the end of your next turn.\nDAMAGE: 4 stages.\nHIT: Banish the bottom 3 cards of your\nopponent's discard pile.\n= anini America, Inc. Printed in the u\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 79.9,
+   "n_words": 56
+  }
+ }
+}

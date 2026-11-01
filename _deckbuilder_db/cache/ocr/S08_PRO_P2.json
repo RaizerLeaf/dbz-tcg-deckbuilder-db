@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_PRO_P2",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P2_Gohan - Strikes Back.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOHAN\n(= STRIKES BACK y Pe\n~~. Se moe ot EO UT GAANNM NAN",
+   "conf": 44.2,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "1,000,000\n800,000\n600,000\n500,000\n400,000\n\n200,000\n50,000\n30,000\n15,000\n\n9,000\n\n0",
+   "conf": 86.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "+ \" ig 9,000\na a Wo ed _ . ws sat -_ a\nY, 4 : . ae * _— 0\nco: Your opponent's attacks deal -1 life card of damage. i Ds\nPOWER: > Physical attack. woe.\nLower your opponent’s anger 2 levels. ae\nIf your opponent has used a non-co personality Power [ies\n\\. this turn, damage from this attack cannot be prevented. , @aamaE\n| DAMAGE: 6 life cards. ae\nVF , —— af",
+   "conf": 62.5,
+   "n_words": 78
+  }
+ }
+}

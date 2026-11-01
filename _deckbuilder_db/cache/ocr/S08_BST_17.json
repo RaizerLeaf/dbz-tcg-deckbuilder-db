@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_17",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/17_Orange Juke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE JUKE\n4 Y .",
+   "conf": 79.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n3,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "“== EVENT\n~~ 9 POWER: Stops a physical or\nenergy attack.\nSearch your discard pile for a Styled Drill and\nRejuvenate it. If you control less than 3 Drills,\nyou may place it into play instead.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 88.3,
+   "n_words": 69
+  }
+ }
+}

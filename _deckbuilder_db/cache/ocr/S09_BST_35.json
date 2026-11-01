@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_35",
+ "rel_path": "09_Set 9 (Legends)/Legends/35_Chilled Prescience.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CHILLED'S PRESCIENCE () R35\nee ~",
+   "conf": 63.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n6\n\n,\n\n,",
+   "conf": 17.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "EVENT DD\n(After performing a successful Ome\n\nattack, you may discard this card from\n\nyour hand to draw a card. If you do, that attack\nis considered to deal critical damage.)\nPOWER: Rejuvenate 3. Choose a personality in play.\nThat personality loses 3 stages.\n\n|",
+   "conf": 89.9,
+   "n_words": 45
+  }
+ }
+}

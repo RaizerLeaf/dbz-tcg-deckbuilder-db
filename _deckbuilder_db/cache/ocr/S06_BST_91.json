@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_91",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/91_Namekian Salvo.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN SALVO C) U9\n| quar mc & ee",
+   "conf": 52.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n0,\n,\n2,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "eg. ENERGY COMBAT [QED |\n\n_ BY (This attack costs -1 stage for each COR wey :\nDragon Ball in play, to a minimum of 0.)\n\nX% Energy attack costing 5 stages.\n\nLower your opponent's anger 2 levels.\n\n| DAMAGE: 7 life cards.\n\n: HIT: Use a critical damage effect.\n\n(Banish after use.)",
+   "conf": 84.2,
+   "n_words": 53
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S71",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S71_Orange Energy Gathering.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY GATHERING a S71 |",
+   "conf": 86.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "2 POWER: Your MP gains 7 stages. Rejuvenate 2.\n5\n\n3\n\n2\n\ns |",
+   "conf": 86.8,
+   "n_words": 14
+  }
+ }
+}

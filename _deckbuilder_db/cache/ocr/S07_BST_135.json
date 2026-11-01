@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_135",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/135_Hercule's Dynamite Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HERCULE'S DYNAMITE KICK () R135\nCe. k",
+   "conf": 70.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "2,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": ". (If this card is discarded, destroyed, and/or\nbanished from your Life Deck, place it at the\nbottom of your Life Deck.)\nXX Physical attack.\nThis attack cannot be stopped. Your MP gains 2 stages.\nDAMAGE: 1 stage.\nHIT: This attack stays in play to be used a second, third,\nand fourth time this combat.\n(Shuffle into your Life Deck after use.)\nee",
+   "conf": 93.1,
+   "n_words": 63
+  }
+ }
+}

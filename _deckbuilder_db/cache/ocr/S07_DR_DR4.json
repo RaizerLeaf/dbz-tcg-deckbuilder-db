@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR4",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR4_Goku - Selfless.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ": GOKU hry ;\nSELFLESS - , DR4\nAIX. WW) eS ereerwesre",
+   "conf": 29.9,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2,400,000\n2,000,000\n1,600,000\n1,200,000\n800,000\n400,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+   "conf": 73.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "V2 ala ih  aEELKTT\nSAV |] 25,000 |\nPUR —, Gz\nco: Your attacks deal +2 life cards of f2Sn,\ndamage and your opponent's attacks deal Nw,\n-2 life cards of damage.\nPOWER: Search your Life Deck, discard |\npile, or Banished Zone for a Styled card and\nplace it into your hand.",
+   "conf": 82.1,
+   "n_words": 53
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_18",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/18_Orange Meditation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE MEDITATION C) C18",
+   "conf": 68.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,\n0,",
+   "conf": 11.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(Se =)i\nA (Limit 2 per deck. As an action, Ome\nyou may discard this card from your\nhand to perform a Styled energy attack costing\n2 stages and dealing 5 life cards of damage.)\n* POWER: Use when a player would raise their\nanger level. Change that amount to 0. Both\nplayers set their anger level to 0.\n(Banish after use.)\n )\nee a a a a a",
+   "conf": 84.9,
+   "n_words": 69
+  }
+ }
+}

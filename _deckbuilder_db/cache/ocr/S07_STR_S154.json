@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S154",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S154_Red Double Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DOUBLE STRIKE €) $154",
+   "conf": 81.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n\n4 2\n8\n\n37",
+   "conf": 31.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n-_ A Physical attack.\nRaise your anger 1 level. This attack stays\nin play to be used a second time this combat.\nDAMAGE: AT stages.\n= anini America, Inc. Printed in the My\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 81.2,
+   "n_words": 43
+  }
+ }
+}

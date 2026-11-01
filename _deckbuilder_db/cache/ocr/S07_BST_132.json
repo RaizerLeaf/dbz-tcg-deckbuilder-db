@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_132",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/132_Cell's Provocation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "CELL'S PROVOCATION ) R132\n—— LN a,",
+   "conf": 61.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "z (If this card is Rejuvenated during\ncombat, destroy the top X cards of your\nopponent's Life Deck. X = the number of Allies\nyou control with “Cell Jr.” in the title.)\nPOWER: Return an Ally in play to its owner's hand.\nIf that Ally had “Cell Jr.” in the title, destroy the top 3\ncards of your opponent's Life Deck.",
+   "conf": 93.8,
+   "n_words": 61
+  }
+ }
+}

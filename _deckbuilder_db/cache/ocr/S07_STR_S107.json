@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S107",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S107_Saiyan Palm Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN PALM BLOCK $107",
+   "conf": 90.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n387",
+   "conf": 5.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n- YW Stops a physical attack.\nIf your MP has a lower power level than\nthe attacking personality, your power level is\nconsidered to be 1,000,000 this combat.\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud =",
+   "conf": 86.6,
+   "n_words": 53
+  }
+ }
+}

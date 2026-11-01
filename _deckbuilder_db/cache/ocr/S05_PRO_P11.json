@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P11",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P11_Saiyan Domination.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN DOMINATION C) Pil\n‘ae eam \\ || 7 \\ /7 / a",
+   "conf": 58.2,
+   "n_words": 13
+  },
+  "stages": {
+   "text": ",\n\n,\n,,\n\n,\n\n,\n\n4\n,\n,",
+   "conf": 0.0,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "(ASS ENERGY COMBAT\nA eg!\neA\nXX Energy attack costing 2 stages.\nIf the personality performing this attack has a\n\nhigher power level than the defending personality,\n\nyour opponent cannot play Events this combat.\nDAMAGE: 4 life cards.\n(Ec roetnnic we rinecinne us ETT",
+   "conf": 76.2,
+   "n_words": 44
+  }
+ }
+}

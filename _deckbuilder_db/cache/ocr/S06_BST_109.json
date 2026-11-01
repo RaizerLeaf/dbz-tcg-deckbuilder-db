@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_109",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/109_Blue Return Fire.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE RETURN FIRE : ) R109 |\naT aa <\\.",
+   "conf": 61.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ", ,\n,\n, ,\n,",
+   "conf": 0.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Gas ENERGY COMBAT\noO\nSIS\nX Energy attack costing 2 stages.\nRaise a player's anger 2 levels. If your\nopponent advanced a personality level with this card,\ndamage from your attacks cannot be prevented this turn.\nDAMAGE: 5 life cards.\n_ HIT: Whenever one of your effects causes your opponent\n_ to gain anger this combat, you may raise your anger 1 level.",
+   "conf": 88.9,
+   "n_words": 63
+  }
+ }
+}

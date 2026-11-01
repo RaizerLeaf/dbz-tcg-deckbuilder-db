@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S146",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S146_Black Declaration.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK DECLARATION () $146\n- a CY Gees ot | ——",
+   "conf": 50.9,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "oe Z \\ es\n\non (If this card is discarded from your hand during\n\n= 2 | combat, place it into play.)\n\nme POWER: Choose an Ally, Drill, Setup or Dragon Ball in\nSt play and shuffle that card into its owner's Life Deck.",
+   "conf": 86.6,
+   "n_words": 44
+  }
+ }
+}

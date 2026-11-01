@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_136",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/136_Hercule's Grand Entrance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HERCULE'S GRAND ENTRANCE () R136\nYt SS hn! eat ta",
+   "conf": 52.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n0",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "—eEE\n. % POWER: Use after your\nopponent performs an attack. Search\nyour Life Deck or discard pile for an Ally and\nplace it into play at 5 stages above 0. Until the end\nof combat, that Ally may make actions regardless of\nyour MP's power stage.\na",
+   "conf": 88.9,
+   "n_words": 48
+  }
+ }
+}

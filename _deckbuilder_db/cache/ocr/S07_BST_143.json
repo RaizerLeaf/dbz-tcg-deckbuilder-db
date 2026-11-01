@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_143",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/143_Fluury of Blows.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "FLURRY OF BLOWS unas\nwa -  C",
+   "conf": 56.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "0,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": ". (Whenever your opponent performs\nan attack that cannot be stopped, you may\nbanish this card from your hand. If you do, that\nattack deals no damage and your opponent banishes the\ntop 3 cards of his or her Life Deck.)\nA Energy attack costing 2 stages.\n\nYou may banish a card from your hand. If you do, damage\nfrom this attack is banished and cannot be prevented.\nDAMAGE: 5 life cards.\neS",
+   "conf": 93.2,
+   "n_words": 73
+  }
+ }
+}

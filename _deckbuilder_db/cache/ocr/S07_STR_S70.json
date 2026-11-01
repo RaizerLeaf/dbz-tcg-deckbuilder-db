@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S70",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S70_Orange Stare Down.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE STARE DOWN\nAV ~/) — _f Ue",
+   "conf": 65.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n5",
+   "conf": 17.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Lz\n— A Energy attack costing\n2 stages.\n\nBanish an opponent's Setup, Drill or Ally.\nDAMAGE: 4 life cards.\na\nTC a eg a |",
+   "conf": 75.0,
+   "n_words": 25
+  }
+ }
+}

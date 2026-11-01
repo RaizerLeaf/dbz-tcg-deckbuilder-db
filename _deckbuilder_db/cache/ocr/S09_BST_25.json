@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_25",
+ "rel_path": "09_Set 9 (Legends)/Legends/25_Red Team Fire.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED TEAM FIRE () C25\n» CO",
+   "conf": 75.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n92,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "NY ENERGY COMBAT\nXX Energy attack costing 1 stage.\nDestroy a Setup.\nDamage from this attack cannot be modified.\nDAMAGE: 5 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.5,
+   "n_words": 57
+  }
+ }
+}

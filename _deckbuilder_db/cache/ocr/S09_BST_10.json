@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_10",
+ "rel_path": "09_Set 9 (Legends)/Legends/10_Blue Seeking Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE SEEKING BLAST () R10\nAi Ws 1) ee",
+   "conf": 68.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "NR =eNeasy comBat (EJ)\nXX Energy attack costing 2 stages. ry”\nLower your opponent's anger 1 level.\nDAMAGE: 4 life cards.\nHIT: Search your Life Deck for a Styled\nDrill and play it.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-mada, non-profit",
+   "conf": 87.6,
+   "n_words": 67
+  }
+ }
+}

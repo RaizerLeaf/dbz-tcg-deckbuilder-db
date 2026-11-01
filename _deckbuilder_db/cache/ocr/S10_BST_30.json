@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_30",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/30_Red Onslaught.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ONSLAUGHT () R30\na wae 3",
+   "conf": 66.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "[ ENERGY COMBAT\nXX Energy attack costing 2 stages.\nRaise your anger 1 level.\n@: This attack stays in play to be used\na second time this combat.\nDAMAGE: 3 life cards.\nHIT: Choose a card in your discard pile and\nRejuvenate it.\n(Banish after use.)\n\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.2,
+   "n_words": 77
+  }
+ }
+}

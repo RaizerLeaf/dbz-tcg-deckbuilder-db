@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P6",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P6_Namekian Double Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN DOUBLE STRIKE () P6\na =",
+   "conf": 73.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Aes PHYSICAL COMBAT (@m®) |\nG 4\n— X% Energy attack costing SOTTTRS\n2 stages.\nYou may shuffle a Dragon Ball you control back\ninto its owner's Life Deck. If you do, you may use a\ncritical damage effect.\nDAMAGE: 5 life cards.",
+   "conf": 82.1,
+   "n_words": 43
+  }
+ }
+}

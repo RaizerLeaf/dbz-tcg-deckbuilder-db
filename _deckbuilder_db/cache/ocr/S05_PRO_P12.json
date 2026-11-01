@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P12",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P12_Namekian Targeted Strike.png",
+ "scale": 7.5,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN TARGETED STRIKE @™) P12.\ni",
+   "conf": 52.0,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n30,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ICY ENEAGY COMBAT —\n4\nY X Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: You may use the effect of a Dragon Ball in play.\nNM you do, banish this card after use.\n(Ey) 9 oh eee eee",
+   "conf": 72.2,
+   "n_words": 41
+  }
+ }
+}

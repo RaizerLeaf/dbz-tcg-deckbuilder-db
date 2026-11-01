@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_06",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/06_Black Fist Catch.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK FIST CATCH ) ce\nin \\a of \\\\ & aN oom",
+   "conf": 59.0,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2",
+   "conf": 17.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "F Me, ‘gy\nN\\ehiee ~HYSICAL COMBAT\nWw\n- W Stops a physical attack.\nChoose 3 cards in your opponent's discard\npile. Your opponent Rejuvenates those cards. Your\nopponent chooses 3 cards in your discard pile.\nRejuvenate those cards.\n(Banish after use.)\n(es) 6 2016 Panini America, Inc. Printed the USA. | PAMIMI,",
+   "conf": 80.0,
+   "n_words": 52
+  }
+ }
+}

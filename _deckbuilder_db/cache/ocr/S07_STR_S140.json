@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S140",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S140_Black Hair Trap.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK HAIR TRAP ) $140 |\nShu | -V* iam te’ 7",
+   "conf": 52.2,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "37",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Qe4 PHYSICAL COMBAT\n= X% Physical attack.\nDAMAGE: 3 +X stages. X = the number\nof different card types in your opponent's\nBanished Zone.\n(Banish after use.)\n= anini America, Inc. Printed in the u\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 75.6,
+   "n_words": 43
+  }
+ }
+}

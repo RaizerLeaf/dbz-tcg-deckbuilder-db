@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_86",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/86_Black Liberation.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK LIBERATION ) U8",
+   "conf": 70.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Oe VENT\nWw\n> % POWER: Use when a Setup or\nDrill in play is destroyed from a card\neffect. Place that card in play\nunder your control.\n(Banish after use.)\n(es) © 2016 Panini America, Inc. Printed the USA. | PAMIMI |",
+   "conf": 81.8,
+   "n_words": 43
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR8",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR8_Vegeta - Energized.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "Kas y VEGETA DRS\nLEVEL rat >",
+   "conf": 54.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1,500,000\n1,200,000\n300,000\n600,000\n300,000\n150,000\n, 100,000\n50,000\n25,000\n12,500\n\n0",
+   "conf": 63.0,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "Ss Yt \\\\\npur ye _\\ az)\n| we you reach this level during combat, =\nyour opponent must pass for his or her next\naction this combat.)\nco: The first time each combat one of\n\nyour non-Styled attack cards is stopped,\n\nit stays in play to be used a second time\n\nthis combat. Your non-Styled attacks deal\n\n+3 life cards of damage.",
+   "conf": 85.7,
+   "n_words": 63
+  }
+ }
+}

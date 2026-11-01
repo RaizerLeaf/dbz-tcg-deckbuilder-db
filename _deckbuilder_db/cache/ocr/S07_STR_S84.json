@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S84",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S84_Namekian Silencing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SILENCING ) sad\nTe — |",
+   "conf": 65.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "26\n,",
+   "conf": 19.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Lz\n~—— (If this card is Rejuvenated, your\nDragon Balls cannot be captured this combat.)\nPOWER: Your opponent may not play\nEvents this combat.\nee",
+   "conf": 84.4,
+   "n_words": 25
+  }
+ }
+}

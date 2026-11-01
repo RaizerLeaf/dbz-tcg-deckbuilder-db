@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_13",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/13_Blue Brace.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE BRACE () 013",
+   "conf": 69.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(4 ENERGY COMBAT\n= W Stops an energy attack.\nSearch your discard pile for a Styled Setup\nand play it.\n© 2016 Panini America, Inc. Printed in the USA. | PANINI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. a Reed i",
+   "conf": 83.0,
+   "n_words": 44
+  }
+ }
+}

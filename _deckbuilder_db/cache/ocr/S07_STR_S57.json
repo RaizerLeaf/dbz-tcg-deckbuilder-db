@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S57",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S57_Orange Excavation.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE EXCAVATION C) S57",
+   "conf": 58.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "0",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "‘Y 4 EVENT\nSe power: Rejuvenate 3 Drills from\nyour discard pile. Draw the bottom card\nof your discard pile.\n(Banish after use.)\n© 2016 Panini America, inc. Printed in the USA. | PANINI\no> © B.S./S. , T.A. LE by Fun. All Rights Reserved. eh -_",
+   "conf": 79.4,
+   "n_words": 47
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S74",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S74_Orange Hiding Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE HIDING DRILL & $74 |",
+   "conf": 80.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "2 if co: Your opponent's attacks deal -2 life\n3 c g i cards of damage.\n\n= | BI. :\n\n“a6",
+   "conf": 62.7,
+   "n_words": 21
+  }
+ }
+}

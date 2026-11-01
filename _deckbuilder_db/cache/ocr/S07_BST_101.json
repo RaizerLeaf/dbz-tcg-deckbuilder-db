@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_BST_101",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/101_Black Memories.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK MEMORIES C) R101 |\nnn ae | ee a eT ee ON 7",
+   "conf": 41.4,
+   "n_words": 14
+  },
+  "lower": {
+   "text": "gs ~ PN ON FQ\n2% Nunn Y \\ yO! \\. aw a\naa (If your opponent has more than 1 card in his or her hand when this\nCc . =\n5 card is discarded from your hand, your opponent chooses a card\n3 from his or her hand and places it on top of his or her Life Deck.)\n= POWER: Banish a Setup or Drill you control. Search your\n5 opponent's Life Deck for a Setup or Drill and place it into\nplay under your control.",
+   "conf": 83.8,
+   "n_words": 89
+  }
+ }
+}

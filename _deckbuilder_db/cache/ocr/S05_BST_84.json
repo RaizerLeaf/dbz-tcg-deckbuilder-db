@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_84",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/84_Blue Challenging Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE CHALLENGING STRIKE @) U84\nTV eee",
+   "conf": 61.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n,\n347\n\n1,",
+   "conf": 16.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(Age PHYSICAL COMBAT\nSSS\n; X Physical attack.\nUntil the end of your next turn, your effects\nthat destroy cards from the top of your opponent's\nLife Deck are increased by 1.\nDAMAGE: 1 life card.\nHIT: You may place a Setup from your hand into play.",
+   "conf": 90.9,
+   "n_words": 47
+  }
+ }
+}

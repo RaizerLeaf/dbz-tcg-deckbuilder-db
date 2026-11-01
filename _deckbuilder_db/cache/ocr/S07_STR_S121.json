@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S121",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S121_Saiyan Light Jab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN LIGHT JAB C) sia\naw ff",
+   "conf": 66.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 0.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT ( — le\na XX Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Shuffle this card back into your Life Deck.\n© 201 Pain Anes. rinatin ous — EEE TD",
+   "conf": 66.3,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_28",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/28_Namekian Protective Posture.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "| NAMEKIAN PROTECTIVE POSTURE C) C28 |\n| el QQ |",
+   "conf": 67.0,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "| leg. =NERGY COMBAT\nzz S <%e :\n. VW Stops an energy attack.\nRejuvenate this card after use.",
+   "conf": 59.5,
+   "n_words": 19
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P14",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P14_Orange Uppercut.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE UPPERCUT ) P14\n| a) ee re",
+   "conf": 59.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "37",
+   "conf": 5.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Mi vé y\n- (Limit 1 per deck.)\nX~% Physical attack.\nYou may pay 2 power stages to search your\nLife Deck for a Styled Energy Combat card and\nplace it into your hand.\nDAMAGE: AT +4 stages.\n(Banish after use.)\nCRESS. i883} © Ea",
+   "conf": 81.8,
+   "n_words": 45
+  }
+ }
+}

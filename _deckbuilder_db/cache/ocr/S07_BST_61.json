@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_61",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/61_Earth Dragon Ball 1.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "EARTH DRAGON BALL 1 © U61\nbud ah",
+   "conf": 88.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "\\—\n(17 DRAGON BALL _ )\nwy oo: All attacks deal +1 life card of damage.\nWhen this Dragon Ball is captured, its\ncontroller may shuffle it into its owner's\nLife Deck.",
+   "conf": 87.6,
+   "n_words": 32
+  }
+ }
+}

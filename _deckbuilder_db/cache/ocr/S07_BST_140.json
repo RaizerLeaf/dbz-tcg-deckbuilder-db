@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_140",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/140_Vegeta's Final Flash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "VEGETA'S FINAL FLASH ) R140 |\na. <<), vo) o  — 2",
+   "conf": 50.4,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2\n5",
+   "conf": 19.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "LZ\n. x Energy attack costing\nstages.\nThis attack can only be stopped by an Energy\nCombat card. Raise your anger 2 levels. Players can\nonly attack or pass in their actions this combat.\nDAMAGE: 4 life cards.\nHIT: You may lower your MP 1 level. If you do, your\nopponent discards a random card from his or her hand.\n(Banish after use.)\nee",
+   "conf": 90.1,
+   "n_words": 64
+  }
+ }
+}

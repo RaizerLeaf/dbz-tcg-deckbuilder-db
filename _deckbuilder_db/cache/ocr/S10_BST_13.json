@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_13",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/13_Blue Terror.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE TERROR () R13\na NN\\\\ \\ SR",
+   "conf": 50.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| (Hy ENERGY COMBAT\n(Limit 1 per deck.)\nX Energy attack costing 2 stages.\n@: Search your Life Deck for a non-Dragon\nBall card and place it into your hand.\nDAMAGE: 3 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 92.4,
+   "n_words": 68
+  }
+ }
+}

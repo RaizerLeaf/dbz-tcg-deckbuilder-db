@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S96",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S96_Namekian Finger Lasers.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FINGER LASERS ) S96",
+   "conf": 87.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "TT\n— A Energy attack costing 1 stage.\nRearrange the top X cards of your discard\npile. X = your PUR +1.\nDAMAGE: 3 life cards.\nHIT: Draw the top card of your discard pile.\n(Banish after use.)\nee",
+   "conf": 90.7,
+   "n_words": 39
+  }
+ }
+}

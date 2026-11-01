@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S32",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S32_Blue Head Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD KICK () $32\n7 ee ee",
+   "conf": 58.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "25\n,\n47",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "{ 4 PHYSICAL, COMBAT (GSR)\nay XX Physical attack. COTY”\nDraw a card.\nDAMAGE: AT +2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 70.3,
+   "n_words": 36
+  }
+ }
+}

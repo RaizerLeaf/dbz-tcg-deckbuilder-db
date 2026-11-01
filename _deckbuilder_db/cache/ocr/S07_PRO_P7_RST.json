@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P7_RST",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P7_Blue Head Kick (Restored).png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD KICK () P7\n2. ana a",
+   "conf": 60.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 9.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(GA) PHYSICAL COMBAT \\ —4 | I\nXX Physical attack. aK\nDraw a card.\nDAMAGE: AT +2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 85.5,
+   "n_words": 59
+  }
+ }
+}

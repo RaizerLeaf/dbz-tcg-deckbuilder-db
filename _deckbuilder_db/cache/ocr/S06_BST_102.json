@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_102",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/102_Black Dispersion.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLACK DISPERSION ) R102\nmas wJflin a wee",
+   "conf": 58.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "‘Wa =NERGY COMBAT\nWwW\n\n~ XA Energy attack costing 4 stages.\n\nDAMAGE: 5 life cards.\nHIT: If you have gained stages this combat,\nsearch your opponent's Life Deck for a\n\nStyled Setup and play it.\n\n(es) 6 2016 Panini America, Inc. Printed the USA. | PAMIMI,",
+   "conf": 80.4,
+   "n_words": 46
+  }
+ }
+}

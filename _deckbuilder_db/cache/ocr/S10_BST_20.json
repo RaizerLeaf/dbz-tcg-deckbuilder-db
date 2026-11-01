@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_20",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/20_Orange Combative Mastery.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "V4 a j\ni AN y~ SS |",
+   "conf": 25.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n20\n1\n,",
+   "conf": 19.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| \\ ==, TT,\n\nco: Your opponent's attacks deal -1 stage of )\n\ndamage. Your Styled energy attacks gain\n\n“HIT: Prevent 3 stages and 3 life cards of |\ndamage from your opponent’s attacks\n| in their next action this combat.”\n\nPOWER: Gain 2 stages. Choose a card in your\n\n| discard pile and Rejuvenate it. If that card is a\nStyled Drill, you may place it into play instead.",
+   "conf": 89.7,
+   "n_words": 70
+  }
+ }
+}

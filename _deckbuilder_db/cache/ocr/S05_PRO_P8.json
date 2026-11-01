@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P8",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P8_Blue Slash.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE SLASH ) PB\neT",
+   "conf": 65.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| er PHYSICAL COMBAT § 1 ; 7\nLT XX Physical attack. Dour\nLower your opponent's anger 1 level.\nDAMAGE: 1 life card.\nHIT: Your opponent destroys the top X cards of his\nLife Deck. X = 6 — his current anger level.\n(REF) amie rani anec.ne tones vse ET",
+   "conf": 73.3,
+   "n_words": 50
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_49",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/49_Red Determination.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED DETERMINATION @ ws",
+   "conf": 80.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "9 4\n7\n\n,\n,",
+   "conf": 20.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT ( —d )\n- YW Stops a physical attack.\nIf your opponent's MP has lost stages from\none of your effects this combat, raise your\nanger 2 levels.\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. vu _—I =",
+   "conf": 81.8,
+   "n_words": 54
+  }
+ }
+}

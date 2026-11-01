@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P1",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P1_Confrontation.jpg",
+ "scale": 7.5,
+ "regions": {
+  "header": {
+   "text": "CONFRONTATION ) PI\n>.",
+   "conf": 51.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "27 -  @venr ©\nPOWER | and\nch ard\ney, [pamrms)",
+   "conf": 49.1,
+   "n_words": 11
+  }
+ }
+}

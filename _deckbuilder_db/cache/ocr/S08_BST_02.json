@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_02",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/02_Black Absorption Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ABSORPTION DRILL a R2 |",
+   "conf": 87.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "He bay a. |\n5 2 3 (Limit 1 per deck. If this card is destroyed from your Life Deck, choose 2 cards\na2 2 in your opponent's discard pile, banish them and gain 2 stages. If this card is\n238 discarded from your hand, Rejuvenate the bottom 2 cards of your discard pile.)\nag : .\nco: Whenever you discard, destroy, or banish cards from your\nopponent's Life Deck from a non-damage effect, you may place a\nStyled card from either player’s discard pile on top of its owner’s Life Deck.",
+   "conf": 87.1,
+   "n_words": 92
+  }
+ }
+}

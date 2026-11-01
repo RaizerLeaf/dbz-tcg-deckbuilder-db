@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_BST_32",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/32_Orange Checkup Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE CHECKUP DRILL ( C32",
+   "conf": 79.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a (Limit 1 per deck. When this Drill enters play during combat, if it is the first\n5 time a card titled “Orange Checkup Drill” has entered play this combat you\n2 may search your Life Deck for a Styled Y card and place it into your hand.)\n3 co: Your attacks deal +1 stage.\n\n= | % POWER: Use at the end of combat. Rejuvenate 2.",
+   "conf": 91.1,
+   "n_words": 67
+  }
+ }
+}

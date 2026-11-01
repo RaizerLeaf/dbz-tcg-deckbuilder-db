@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S138",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S138_Black Unstable Punch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "\"BLACK UNSTABLE PUNCH | UNSTABLE PUNCH (@@) $138\n~~ Ser ee",
+   "conf": 57.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "37\n3\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(Qe4 PHYSICAL COMBAT\n\n= X% Physical attack.\n\nReveal your hand. This attack deals +3 life\ncards of damage for each Named card revealed.\n\nDAMAGE: AT +1 life card.\n(Banish after use.)\n\n= anini America, Inc. Printed in the y\n\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 78.0,
+   "n_words": 47
+  }
+ }
+}

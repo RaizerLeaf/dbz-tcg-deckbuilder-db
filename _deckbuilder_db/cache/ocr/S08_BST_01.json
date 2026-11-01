@@ -1,0 +1,17 @@
+{
+ "card_id": "S08_BST_01",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/01_Black Face Off.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FACE OFF a C1 |",
+   "conf": 88.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "523 (If this card is destroyed from your Life Deck or\nee discarded from your hand, gain 5 stages.)\n\"3s * POWER: Use when entering combat. Allies and Events\ncannot be played and lose all effects this combat.\nRaise your anger 1 level.",
+   "conf": 90.8,
+   "n_words": 43
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S44",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S44_Blue Face Crunch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE FACE CRUNCH () $44\npea",
+   "conf": 62.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(V4 PHYSICAL COMBAT __\nay XX Physical attack.\nGain 3 stages. Look at your opponent's hand.\nDAMAGE: AT +5 stages.\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 66.3,
+   "n_words": 29
+  }
+ }
+}

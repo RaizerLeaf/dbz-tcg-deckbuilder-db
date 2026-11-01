@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_75",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/75_Mercenary Tao - Shielded.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "Ai) MERCENARY TAO U75\nLEVEL | SHIELDED",
+   "conf": 77.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "487\n\n467\n447\n\n427\n\n407\n387\n367\n347\n\n327\n\n307\n0",
+   "conf": 95.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "Sy ; 34/\n) 327\n@| 2 =\n)\noo: Whenever you perform an a\nattack, banish the top card of your\nopponent's Life Deck. TOEI ANIMATION\nPOWER: Look at your opponent's FUNIMAtIeN\nhand and choose non-Dragon Ball\ncard in it. Banish that card. erie",
+   "conf": 79.2,
+   "n_words": 45
+  }
+ }
+}

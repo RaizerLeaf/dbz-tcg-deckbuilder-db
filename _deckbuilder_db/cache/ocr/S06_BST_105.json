@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_105",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/105_Blue Blanketing Blasts.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE BLANKETING BLASTS¢ ) R105 |\nTC —— os",
+   "conf": 55.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "all =NERGY COMBAT \\ —d )\nA Energy attack costing 3 stages.\nPlace a card from your discard pile on top of\n\nyour Life Deck.\n\nDAMAGE: 6 life cards.\n\nHIT: Choose 3 cards in your opponent's discard pile\n\nand banish them.\n\n| (Banish after use.)\n\n(eR) ez Paina, ne. ean vsa: ) EEE TA)",
+   "conf": 79.1,
+   "n_words": 54
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_25",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/25_Namekian Arm Shield.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ARM SHIELD ¢ ) C25\n| eee\"",
+   "conf": 60.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "i Meg. PHYSICAL COMBAT |\niz S <%e '\n. W Stops a physical attack.\n\nIf you have no cards in your hand, your\nopponent's attacks deal -2 stages of\ndamage this combat.\n2",
+   "conf": 73.6,
+   "n_words": 34
+  }
+ }
+}

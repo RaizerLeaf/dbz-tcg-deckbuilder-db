@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_134",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/134_Goku's Search.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOKU'S SEARCH ) R134\n-_—Ap, | iD |",
+   "conf": 60.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 43.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "z (Limit 2 per deck.)\n\nPOWER: Search your Life Deck for an Ally,\nDrill, or Dragon Ball and place it into play.\nYour MP gains 5 stages. Search your discard pile\nfor 2 cards and Rejuvenate them.\n(Banish after use.)",
+   "conf": 93.5,
+   "n_words": 40
+  }
+ }
+}

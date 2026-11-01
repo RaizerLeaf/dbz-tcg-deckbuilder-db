@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_16",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/16_Namekian Ascension.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ASCENSION C) R16",
+   "conf": 76.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n\n4\n,\n,",
+   "conf": 21.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Se (Limit 2 per deck. As an action, you\nmay discard this card from your hand to perform\na Styled physical attack dealing 4 stages of damage.)\n\n% POWER: Use after a card effect causes you to\ndiscard a card from your hand. Draw 2 cards.\n(Banish after use.)\nee",
+   "conf": 91.5,
+   "n_words": 50
+  }
+ }
+}

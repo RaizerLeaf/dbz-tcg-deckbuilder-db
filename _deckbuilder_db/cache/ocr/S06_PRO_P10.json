@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_PRO_P10",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Promos)/P10_Red Energy Blast.jpeg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED ENERGY BLAST () P10\nNL",
+   "conf": 76.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "‘((@ae ENERGY COMBAT\nNY\n_ A Energy attack costing\n2 stages.\nRaise your anger 1 level. Banish a Drill or Ally.\nDAMAGE: 4 life cards.\n(ey) © 2016 Panini America, inc. Printed in the USA. | PAMIRMI|\n©8.S./S. . T.A. LC by Fun. All Richts Reserved. ‘ene Sod a",
+   "conf": 78.0,
+   "n_words": 49
+  }
+ }
+}

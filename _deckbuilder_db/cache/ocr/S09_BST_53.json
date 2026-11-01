@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_53",
+ "rel_path": "09_Set 9 (Legends)/Legends/53_Chilled - Space Pirate.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "Sy CHILLED\nlee SPACE PIRATE C) $53\nV7,",
+   "conf": 60.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ", 200,000\n180,000\n160,000\n150,000\n100,000\n50,000\n25,000\n20,000\n15,000\n10,000\n\n0",
+   "conf": 79.3,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "\\* _ =< 2U,UUU\n=~ 15,000\nfe 10,000\nco: Your attacks deal their life card\ndamage as stages of damage instead.\nYour attacks deal +1 stage of damage.\nPOWER: XX Physical attack.\nRejuvenate 1. This attack is\nconsidered to deal critical damage. ma eeen iia\nBall Super are all owned\nDAMAGE: 5 stages. ee\nHIT: Raise your anger 1 level. faccatdaea verse echt hase",
+   "conf": 79.9,
+   "n_words": 64
+  }
+ }
+}

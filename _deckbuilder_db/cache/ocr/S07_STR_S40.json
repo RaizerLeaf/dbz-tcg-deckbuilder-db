@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S40",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S40_Blue Head Knock.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD KNOCK ) $40 |",
+   "conf": 80.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7\n0",
+   "conf": 6.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(74 PHYSICAL COMBAT \\ rd | :\n= X Physical Attack. Ri\nLower your opponent's anger to 0.\nDAMAGE: 5 life cards.\n© 2016 Panini America, Inc. Printed in the USA. | PANINI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. a Reed i",
+   "conf": 75.6,
+   "n_words": 46
+  }
+ }
+}

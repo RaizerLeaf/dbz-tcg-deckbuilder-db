@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_114",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/114_Namekian Surge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SURGE () R114\nae {",
+   "conf": 65.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4\n\n,\n,",
+   "conf": 10.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| 2 SSeS =)\n—— ® Energy attack costing 1 stage. om\nSearch your Life Deck for an Earth Dragon\nBall and place it into play. At the end of combat,\nshuffle a Dragon Ball you control into its owner's\nLife Deck.\nDAMAGE: 5 life cards.\n(Banish after use.)\n\n|",
+   "conf": 85.8,
+   "n_words": 50
+  }
+ }
+}

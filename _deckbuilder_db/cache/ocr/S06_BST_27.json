@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_27",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/27_Namekian Multi-Opponent Combat.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN MULTI-OPPONENT COMBAT ) C27",
+   "conf": 81.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n,\n7\n,",
+   "conf": 28.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "log. PHYSICAL COMBAT |\n= S <%e :\n. X Physical attack.\nThe next time you draw a card this\ncombat, use a critical damage effect.\nDAMAGE: AT +3 stages.\nHIT: Destroy a Drill.\n2",
+   "conf": 80.6,
+   "n_words": 35
+  }
+ }
+}

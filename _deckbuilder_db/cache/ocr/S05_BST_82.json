@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_82",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/82_Black Sharp kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SHARP KICK () U82\nMBq & . NY CE aati",
+   "conf": 45.7,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "8 7 ,\n37\n\n,\n,",
+   "conf": 15.5,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Ags PHYSICAL COMBAT\nWy\nX Physical attack.\nDAMAGE: AT +2 life cards.\n\nHIT: You may destroy an opponent's Setup or Drill.\nChoose a Setup or Drill in your opponent's discard pile\nand place it into play under your opponent's control.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 81.2,
+   "n_words": 47
+  }
+ }
+}

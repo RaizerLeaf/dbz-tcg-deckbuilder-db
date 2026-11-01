@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_PRO_P9",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament (Promos)/P9_Pikkon - Hero of the West.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "— — =e Y=\nSO) PIKKON >9S\n\\ HERO OF THE WEST oa 3 )\nLEVEL [oo a\n—— g OL, y*\nON SS PRC’ al nNN NNN",
+   "conf": 49.0,
+   "n_words": 28
+  },
+  "stages": {
+   "text": "1,000,000\n800,000\n600,000\n400,000\n\n5 200,000\n100,000\n15,000\n\n9,000\n, 3,000\n1,500",
+   "conf": 87.1,
+   "n_words": 12
+  },
+  "lower": {
+   "text": "( \"le \\V Sra nner\n/\\% usbA WS 32000\n\nSP FN ee\n\\Ss5 . 1,500\n\nJN \\ hee pee\n\n- fe \\ G2 =\n\n)) *% POWER: Use when an Event is played as an action. a\n\n= Banish the top card of your Life Deck to cancel the Ses:\n\nSF effects of that card. ge\n\nPOWER: > Energy attack. eee\n\nSearch your discard pile for a card and Rejuvenate it. g 9\n\ntl —d DAMAGE: 1 life card. es",
+   "conf": 64.5,
+   "n_words": 80
+  }
+ }
+}

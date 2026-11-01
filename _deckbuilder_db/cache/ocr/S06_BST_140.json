@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_140",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/140_Cooler's Supernova.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "COOLER'S SUPERNOVA (@) R140.\n————~—~—~—”:C",
+   "conf": 46.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| Meg. ENERGY COMBAT\n(If this card is in your discard\npile, you may Rejuvenate it when\nentering combat to destroy a Setup or Drill.)\nXX Energy attack costing 3 stages.\nDamage from this attack cannot be prevented.\nRaise your anger 2 levels.\nDAMAGE: 6 life cards.\n. i x, oe , oe Vis +e Pp =",
+   "conf": 81.8,
+   "n_words": 57
+  }
+ }
+}

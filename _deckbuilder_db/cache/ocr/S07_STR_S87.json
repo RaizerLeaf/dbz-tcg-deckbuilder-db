@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S87",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S87_Namekian Flinch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FLINCH\n— ae",
+   "conf": 69.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(YF PHYSICAL COMBAT\nwy (If this card is Rejuvenated,\nsearch your discard pile for an Ally and place\nit into play.)\nVW Stops a physical attack.\n\nYou may shuffle a Dragon Ball in play into its owner's\nLife Deck. If your MP is level 3 or higher, search your\nLife Deck for a Dragon Ball and place it into play.\n(Most Recent Printing)\n© 2016 ann anac,erinesinne usa EE EE ED",
+   "conf": 84.9,
+   "n_words": 71
+  }
+ }
+}

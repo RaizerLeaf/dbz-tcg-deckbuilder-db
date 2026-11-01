@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S133",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S133_Black Request.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK REQUEST —_—-~- ) $133 |",
+   "conf": 60.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7 5\n7\n4",
+   "conf": 60.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "WA EVENT\n\n= POWER: Look at the top 3 cards\n\nof your opponent's Life Deck and place\nthem back in any order. If your next action is a\n\nStyled attack, it stays in play to be used a\nsecond time this combat.\n(Banish after use.)\n\n= anini America, Inc. Printed in the u\n\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 83.5,
+   "n_words": 61
+  }
+ }
+}

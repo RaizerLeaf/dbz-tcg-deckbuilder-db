@@ -1,0 +1,17 @@
+{
+ "card_id": "S06_BST_16",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/16_Blue Waiting Drill.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE WAITING DRILL © cis |\nLn eore Seee 0C :",
+   "conf": 48.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| oo: Whenever you Rejuvenate an Ally, destroy the\nS top 2 cards of your opponent's Life Deck.\na : g ~y Whenever you play an Ally, Rejuvenate 1.\n{-)",
+   "conf": 78.7,
+   "n_words": 30
+  }
+ }
+}

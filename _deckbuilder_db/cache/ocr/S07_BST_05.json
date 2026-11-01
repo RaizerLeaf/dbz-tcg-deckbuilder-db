@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_05",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/05_Black Energy Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY BEAM () C5",
+   "conf": 78.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2",
+   "conf": 96.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "() 4 =NEAGY COMBAT\n4 XX Energy attack costing 2\nstages.\nBanish the top 10 cards of your discard pile.\nDAMAGE: 4 life cards.\nHIT: Banish the top 10 cards of your\nopponent's discard pile.\n© 2016 avn amare, rresinne use EE EE ED",
+   "conf": 77.3,
+   "n_words": 44
+  }
+ }
+}

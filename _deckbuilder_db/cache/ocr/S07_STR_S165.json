@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S165",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S165_Red Smash.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED SMASH C) $165\nNGG \\ | \\ | Ww",
+   "conf": 60.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "7,\n37\n1",
+   "conf": 3.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\na XX Physical attack.\nRaise your anger 1 level. Look at the top\n3 cards of your discard pile and banish\nany amount of them.\nDAMAGE: 3 stages.\nHIT: Banish any amount of cards from your discard pile.\n(Banish after use.)\n= anini America, Inc. Printed in the My\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 83.9,
+   "n_words": 59
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_99",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/99_Saiyan Parry.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN PARRY () U99\n7 di.",
+   "conf": 54.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2\n5",
+   "conf": 44.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n- YW Stops a physical attack.\nIf your MP’s level is higher than your\nopponent's MP's level, this card stays in play to be\nused a second time this combat.\n(Banish after use.)\n\n© 2016 Panini America, Inc. Printed in the USA.\ne © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud =",
+   "conf": 85.0,
+   "n_words": 58
+  }
+ }
+}

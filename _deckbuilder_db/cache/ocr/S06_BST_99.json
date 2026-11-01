@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_99",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/99_Point-Blank Volley.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "POINT-BLANK VOLLEY “ ) ugg",
+   "conf": 55.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "49\n\n,\n, 0\n,\n1,",
+   "conf": 6.0,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "| Neg ENERGY COMBAT (Be\n| BS this card is banished for Endurance, ORS :\nyou may place it into your hand.) 7\nXX Energy attack costing 3 stages.\nif your opponent's anger level is 0, raise your anger 1 level.\nLower your opponent's anger 1 level. If your opponent's\nanger level is 0, raise your anger 1 level.\nDAMAGE: 3 life cards.\n(Banish after use.)",
+   "conf": 85.9,
+   "n_words": 66
+  }
+ }
+}

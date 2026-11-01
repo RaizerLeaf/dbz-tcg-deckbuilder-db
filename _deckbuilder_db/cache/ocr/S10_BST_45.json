@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_45",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/45_Dabura's Spit.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "DABURA'S SPIT () R45",
+   "conf": 78.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(eS)\n(This card is considered to have ans\n“Sword” in the title for your card effects.\nWhen this card is discarded or destroyed from\nyour Life Deck, you may banish an Ally in play.)\nXX Physical attack.\nDAMAGE: 2 life cards.\nHIT: Destroy an opponent's Setup, Drill, Ally,\nor attached card in play.",
+   "conf": 89.1,
+   "n_words": 53
+  }
+ }
+}

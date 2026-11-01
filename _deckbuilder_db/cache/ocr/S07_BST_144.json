@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_144",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/144_Heroic Energy Sphere.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "HEROIC ENERGY SPHERE )UR144\neve eee ee",
+   "conf": 56.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n,\n\n21,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "z (Heroes only.)\n% POWER: Use when an Event is played.\nCancel the effects of that card. Rejuvenate 1.",
+   "conf": 91.5,
+   "n_words": 19
+  }
+ }
+}

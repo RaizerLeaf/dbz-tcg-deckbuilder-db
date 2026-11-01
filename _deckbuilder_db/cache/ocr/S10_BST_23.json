@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_23",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/23_Orange Spine Kick.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE SPINE KICK\nee",
+   "conf": 77.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7 ,\n,",
+   "conf": 16.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "@ XX Physical attack.\nRaise your anger 1 level. Destroy an Ally in play.\nDAMAGE: 4 stages.\n@: HIT: Your opponent must pass in their next\naction this combat.\n )",
+   "conf": 89.3,
+   "n_words": 30
+  }
+ }
+}

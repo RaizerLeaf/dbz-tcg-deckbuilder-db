@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P13",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P13_Quick Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "QUICK BLAST ) P13",
+   "conf": 75.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n,\n2,",
+   "conf": 15.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "; (Heroes only.)\nA Energy attack costing 1 stage.\n\nAttach to your MP. While attached, Y cards\nplayed from the hand are banished after use. While\nattached at the end of combat, you may shuffle this\n\ncard into your Life Deck. Destroy this card when\nyour opponent deals critical damage.\nDAMAGE: 4 life cards or 4 EES",
+   "conf": 91.3,
+   "n_words": 57
+  }
+ }
+}

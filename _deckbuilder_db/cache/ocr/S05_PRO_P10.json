@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_PRO_P10",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Promos)/P10_Orange Destruction.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE DESTRUCTION ) P10\nss",
+   "conf": 74.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "g POWER: Your opponent destroys top X\ncards of his Life Deck. X = 1+ the number\nof Drills you have in play.\n|",
+   "conf": 89.0,
+   "n_words": 24
+  }
+ }
+}

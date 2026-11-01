@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR21",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR21_Hercule - Champion.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "f NI HERCULE @ vei\nFara] CHAMPION Py",
+   "conf": 38.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1 25\n30\n35\n40\n45\n\n50\n\n0",
+   "conf": 92.8,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "a =\nPUR\n(Your Life Deck cannot include cards that perform =\nenergy attacks.) ( es )\noo: Your attacks deal +100 stages of damage. .\"\nYour attacks cannot have their damage modified .\nby your effects.\nPOWER: Physical attack.\nYour MP gains 5 stages. Search your Life Deck ait\nfor “Hercule's Dynamite Kick\" and place it into\nyour hand.",
+   "conf": 85.0,
+   "n_words": 60
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_BST_01",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/01_Black Protective Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK PROTECTIVE DRILL a C1 |\nee ee Nl ee —",
+   "conf": 58.6,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "ap (This Drill is not discarded when changing levels.)\n= c POWER: Reveal your hand. If you do, look at\nme your opponent's hand and the top card of a\nSt player's Life Deck.",
+   "conf": 86.7,
+   "n_words": 34
+  }
+ }
+}

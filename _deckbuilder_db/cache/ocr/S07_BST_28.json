@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_28",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/28_Namekian Wallop.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN WALLOP C) C28\n4 DB \\w RV",
+   "conf": 53.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n347",
+   "conf": 33.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "\\\n= X Physical attack.\nSearch your Life Deck for an Earth Dragon\nBall and place it into play under\nyour opponent's control.\nDAMAGE: 5 stages.\nHIT: Whenever you Rejuvenate this combat, destroy\nthe top card of your opponent's Life deck.\nee",
+   "conf": 88.8,
+   "n_words": 42
+  }
+ }
+}

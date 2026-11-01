@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S93",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S93_Namekian Knee Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN KNEE BLOCK ) $93\nSS CAL) Wea) . SAA)",
+   "conf": 66.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "6\n,",
+   "conf": 26.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "7% PHYSICAL COMBAT ( —d ) |\n= (If this card is Rejuvenated, raise om\nyour anger 1 level.)\nW Stops a physical attack.\nee",
+   "conf": 75.4,
+   "n_words": 25
+  }
+ }
+}

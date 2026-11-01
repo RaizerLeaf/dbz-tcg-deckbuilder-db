@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR2",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR2_Goku - Determined.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ": GOKU a ;\nDETERMINED \\ g/ DR2\n- ~yPY hia —",
+   "conf": 35.3,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "1,250,000\n1,000,000\n750,000\n500,000\n250,000\n100,000\n80,000\n60,000\n40,000\n20,000\n\n0",
+   "conf": 73.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "< 40,000\n3 20,000\n\\puRy 7\nco: Your attacks deal +1 life card of damage (em,\nand your opponent's attacks deal -1 life card Nw\nof damage.\nPOWER: Draw the bottom card of your\ndiscard pile. You may discard a card from\nyour hand to use a critical damage effect. LN\nOf «is\n“ 1s",
+   "conf": 85.0,
+   "n_words": 55
+  }
+ }
+}

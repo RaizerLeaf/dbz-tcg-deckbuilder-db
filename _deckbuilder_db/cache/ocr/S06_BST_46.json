@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_46",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/46_Red Ejection.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED EJECTION () C46\ny —_~ 2h Cae",
+   "conf": 54.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "82\n\n,,\n,\n\n347\n\n,\n\n,",
+   "conf": 14.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(ae SayYsicAL ComMBAT\nNY\n(If this attack is performed from\nyour discard pile, destroy the top X\ncards of your opponent's Life Deck.\nX = the number of Dragon Balls you control.)\nX Physical attack.\nDAMAGE: AT +X life cards.\nX = the number of Dragon Balls in play.\n(es) © 2016 Panini America, Inc. Printed in the USA. | PAMIMI,\n©B65./S..TA by Fun. All Richts Reserved. Ce. =",
+   "conf": 84.3,
+   "n_words": 69
+  }
+ }
+}

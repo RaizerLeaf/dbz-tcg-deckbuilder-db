@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_25",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/25_Red Enhanced Beam.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED ENHANCED BEAM () U25\n” | Geen ees f",
+   "conf": 50.5,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 16.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "lam= ENERGY COMBAT (GR!\n~~ (If this card is banished from CORKS”\nyour Life Deck, gain2 stages and\nyour opponent’s MP loses 2 stages.)\n2X Energy attack costing 2 stages.\nRaise your anger 1 level.\nDamage from this attack is banished.\nDAMAGE: 6 life cards.\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Tosi Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 88.6,
+   "n_words": 76
+  }
+ }
+}

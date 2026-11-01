@@ -1,0 +1,22 @@
+{
+ "card_id": "S09_BST_42B",
+ "rel_path": "09_Set 9 (Legends)/Legends/42B_Yamcha's Spirit Ball.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "YAMCHA'S SPIRIT BALL () R42",
+   "conf": 79.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "9\n,\n,\n2\n,",
+   "conf": 13.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "2X Energy attack costing 1 stage.\n\nThis attack stays in play to be used a second\nand third time this combat.\nDAMAGE: 3 life cards.\n\nHIT: Lower your opponent's anger 1 level.\n(Banish after use.)",
+   "conf": 92.1,
+   "n_words": 35
+  }
+ }
+}

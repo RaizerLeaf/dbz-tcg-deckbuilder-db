@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_34",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/34_King Kai's Joy Ride.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "KING KAI'S JOY RIDE) R34\n1). UU",
+   "conf": 60.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n2\n448995551\n\n2\n,\n,\n,\n\n4",
+   "conf": 11.5,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "1\n~~ (When this card is discarded or COT”\n\ndestroyed from your Life Deck, your =\n\nopponent reveals their hand.)\nPOWER: Search your Life Deck or discard pile for\na non-co Ally and place it into play. Search your\nBanished Zone for an Ally with “Bubbles” or\n“Gregory” in the title and Rejuvenate it.\nYour opponent skips their next action this combat.",
+   "conf": 91.3,
+   "n_words": 62
+  }
+ }
+}

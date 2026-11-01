@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_113",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/113_Namekian Inheritance.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN INHERITANCE ) R113\nQO OC \\ “Min ~",
+   "conf": 55.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "LZ\n~—— POWER: Choose an Earth Dragon\nBall you control and use its immediate\neffects. Your opponent gains control of\nthat Dragon Ball.\n(Banish after use.)\n|",
+   "conf": 89.9,
+   "n_words": 27
+  }
+ }
+}

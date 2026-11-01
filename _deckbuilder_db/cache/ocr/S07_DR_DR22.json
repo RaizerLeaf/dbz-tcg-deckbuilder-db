@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_DR_DR22",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/DR22_Hercule - Posing.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": ": HERCULE x +) ;\nPOSING Ss / DR22",
+   "conf": 51.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "5\n\n10\n15\n\n20\n\n25\n, 30\n7 35\n40\n\n45\n\n50\n\n0",
+   "conf": 80.8,
+   "n_words": 13
+  },
+  "lower": {
+   "text": ": 45\nTT! Ze PO\nco: Your Named cards cannot have their a\ndamage modified by your effects. Rwy\nYour opponent's attacks deal -3 stages and\n-3 life cards of damage. You cannot use the\neffects of oo Drills.\nPOWER: X Physical attack.\nSearch your Life Deck for \"Hercule's Dynamite =~“\nKick\" and place it into your hand.",
+   "conf": 84.4,
+   "n_words": 58
+  }
+ }
+}

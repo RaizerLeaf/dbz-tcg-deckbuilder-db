@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S77",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S77_Stare Down.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "I 35 [fF Foe Sima ee PY [Pte\nom DOWN () S77 |\nA | (sz",
+   "conf": 41.2,
+   "n_words": 16
+  },
+  "stages": {
+   "text": ",\n, ,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "z (Villains only.)\nPOWER: Look at your opponent's hand and\nchoose a card. Your opponent discards that card.",
+   "conf": 91.3,
+   "n_words": 18
+  }
+ }
+}

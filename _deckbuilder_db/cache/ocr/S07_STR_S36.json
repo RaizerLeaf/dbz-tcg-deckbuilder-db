@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S36",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S36_Blue Overcharge.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE OVERCHARGE ) $36",
+   "conf": 81.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n1,",
+   "conf": 14.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(V4 =VENT oe\n_4 ‘y POWER: Prevent 3 life cards\nand 3 stages of damage from an attack.\nDraw a card.\n© 2016 Panini America, Inc. Printed in the USA. | PAMINI|\noe ©B.S./S. , T.A. LC by Fun. All Rights Reserved. ~~ i",
+   "conf": 79.7,
+   "n_words": 44
+  }
+ }
+}

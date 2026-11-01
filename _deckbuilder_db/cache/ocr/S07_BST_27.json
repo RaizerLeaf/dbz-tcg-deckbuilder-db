@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_27",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/27_Namekian Training Ball.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN TRAINING BALL\nee a el",
+   "conf": 61.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "74 1\n,",
+   "conf": 21.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "() 4 =NEAGY COMBAT\n_ a Energy attack costing 1 stage.\nIf you control more than 1 Earth Dragon\nBall, this attack deals +3 life cards of damage and\ndamage from this attack cannot be prevented.\nDAMAGE: 3 life cards.\n© 2016 ann anac,erinesinne usa EE EE ED",
+   "conf": 81.8,
+   "n_words": 48
+  }
+ }
+}

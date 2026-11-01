@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_90",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/90_Namekian Face Off.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FACE OFF ) vg0 |\nim ise? | it VW) ven",
+   "conf": 55.3,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "5\n7 4\n4\n1\n,\n\n347",
+   "conf": 12.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "i Meg. PHYSICAL COMBAT .\niz S <%e '\n. X Physical attack.\nDragon Balls cannot be captured nor\nplayed this combat.\nDAMAGE: 3 stages.\nHIT: Search your Life Deck for a Drill and\nplace it into play.\n2",
+   "conf": 77.1,
+   "n_words": 39
+  }
+ }
+}

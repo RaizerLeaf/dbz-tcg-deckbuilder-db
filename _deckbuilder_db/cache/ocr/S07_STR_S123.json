@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_STR_S123",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S123_Saiyan Unleashing Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN UNLEASHING DRILL () $123",
+   "conf": 81.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "® Lae / _\n:\n5 : your physical attacks deal +1 life card of damage.",
+   "conf": 66.2,
+   "n_words": 16
+  }
+ }
+}

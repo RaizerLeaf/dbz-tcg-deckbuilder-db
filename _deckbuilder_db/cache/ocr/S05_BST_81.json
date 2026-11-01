@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_81",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/81_Black Grounding Bash.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK GROUNDING BASH @) U81 |\nWen) ww / i",
+   "conf": 59.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 3.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(ASS PHYSICAL COMBAT\n\nWey\n\n' X Physical attack.\n\nReveal the top card of your opponent's\nLife Deck. If the revealed card was a Setup or Drill,\nyou may place it into play under your control.\nDAMAGE: 1 life card.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 79.6,
+   "n_words": 46
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S143",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S143_Black Strike.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK STRIKE | a ) $143 |\n| CUNO OS",
+   "conf": 58.7,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1\n,\n,\n347\n2,",
+   "conf": 22.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "() 4 PHYSICAL COMBAT\nwy XX Physical attack.\nChoose a random card from your\nopponent's hand. Your opponent shuffles that card\ninto his or her Life Deck and draws a card.\nDAMAGE: AT +4 stages.\n© 2016 avn amare, rresinne use EE EE ED",
+   "conf": 77.0,
+   "n_words": 44
+  }
+ }
+}

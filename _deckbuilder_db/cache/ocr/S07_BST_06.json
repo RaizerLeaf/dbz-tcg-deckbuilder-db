@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_06",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/06_Black Flinch.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FLINCH () C6\nFF t~‘* ea",
+   "conf": 55.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n2",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "QA) ENERGY COMBAT ( 2 ) I\n— W Stops an energy attack.\nYour next Styled attack this combat deals\n+4 life cards of damage.\n© 2016 Panini America, Inc. Printed in the USA.\nA © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud ct",
+   "conf": 82.6,
+   "n_words": 47
+  }
+ }
+}

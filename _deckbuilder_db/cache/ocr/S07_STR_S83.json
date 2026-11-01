@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S83",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S83_Namekian Hybrid Defense.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HYBRID DEFENSE ) $83\n1X. | O——__ 7",
+   "conf": 55.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n4\n1",
+   "conf": 6.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "Lz\n~—— @ POWER: Stops a physical or\nenergy attack.\nChoose X cards in your discard pile and\nRejuvenate them. X = your MP’s level.\nee",
+   "conf": 83.7,
+   "n_words": 26
+  }
+ }
+}

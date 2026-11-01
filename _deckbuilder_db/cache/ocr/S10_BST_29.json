@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_29",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/29_Red Sword Maneuver.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED SWORD MANEUVER Cas\n— Real mae a",
+   "conf": 55.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n37,\n,\n24",
+   "conf": 2.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "[ PHYSICAL COMBAT\nXX Physical attack costing 1 stage.\nYou may banish a Drill you control to\nsearch your Life Deck for a Styled Drill and\nplace it into play.\nDAMAGE: 5 life cards.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game is a fan-made, non-profit",
+   "conf": 93.9,
+   "n_words": 68
+  }
+ }
+}

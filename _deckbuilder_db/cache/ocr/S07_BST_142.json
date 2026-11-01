@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_142",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/142_Assisted Kamehameha.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ASSISTED KAMEHAMEHA € )uR142\nRSS ——,  » Eee) Zid",
+   "conf": 45.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n4,\n\n,\n4\n,",
+   "conf": 15.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ay X Energy attack costing 2 stages.\nif your MP is a Saiyan, this attack cannot\nbe stopped and its damage cannot be prevented.\nDAMAGE: 4 life cards.\n(Banish after use.)",
+   "conf": 93.0,
+   "n_words": 31
+  }
+ }
+}

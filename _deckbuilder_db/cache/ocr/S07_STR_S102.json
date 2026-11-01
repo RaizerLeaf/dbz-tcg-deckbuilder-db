@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S102",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S102_Saiyan Skull Jab.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SKULL JAB C) $102",
+   "conf": 80.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(V4 PHYSICAL COMBAT |\nwy XX Physical attack.\nSearch your discard pile for a Styled Event\nand Rejuvenate it.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck.\nCD © 2016 Panini America, Inc. Printed in the USA. | PAMINI|\n©B.S./S.. T.A. LC by Fun. All Rights Reserved. AAT ~",
+   "conf": 84.0,
+   "n_words": 53
+  }
+ }
+}

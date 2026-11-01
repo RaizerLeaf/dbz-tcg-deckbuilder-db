@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_72",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/72_Cooler - Overlord.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "ai COOLER\nLEVEL OVERLORD",
+   "conf": 57.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2,200,000\n1,900,000\n1,600,000\n\n1,300,000\n\n1,000,000\n\n700,000\n\n400,000\n\n100,000\n\n50,000\n\n25,000\n\n0",
+   "conf": 72.2,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "| NY > 100,000\nmoe 50,000\n@ a2 . =.\n™ 0\nYou may only use this card's a\nnon-co power once per game.) Re\noo: Whenever a player gains meee\n| anger, Rejuvenate 1. FUNIMAT@N\n| POWER: Lower your MP 1 level to | PAMINI|\n| Rejuvenate 7 and end combat. aaa keane",
+   "conf": 73.8,
+   "n_words": 54
+  }
+ }
+}

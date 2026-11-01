@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_88",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/88_Blue Skid.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "BLUE SKID\na oN 4 4 Nw oe",
+   "conf": 57.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n347",
+   "conf": 35.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Ose SHyYsicAL COMBAT\nNY\n= XA Physical attack.\nAt the end of combat, you may reveal the\nbottom card of your Life Deck. If the revealed card\nis an Ally, you may play it.\nDAMAGE: 4 life cards.",
+   "conf": 88.8,
+   "n_words": 38
+  }
+ }
+}

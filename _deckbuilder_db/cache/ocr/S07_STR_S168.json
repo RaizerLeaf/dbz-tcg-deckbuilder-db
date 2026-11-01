@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S168",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S168_Red Tandem Blast.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "RED TANDEM BLAST @ sis8\nso=a2=em~A sk lel",
+   "conf": 49.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "1\n,\n2,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "4A ENERGY COMBAT\n~~ XK Energy attack costing 1 stage.\nYou may lower your anger 2 levels or\nlower your MP 1 level. If you do either of them, your\nopponent cannot play non-Styled cards this combat.\nDAMAGE: 4 life cards.\n= anini America, Inc. Printed in the y\n© 201 Fain ners, Ponesinne usa EERE",
+   "conf": 84.4,
+   "n_words": 56
+  }
+ }
+}

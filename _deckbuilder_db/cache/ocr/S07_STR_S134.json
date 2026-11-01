@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S134",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S134_Black Side Thrust.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK SIDE THRUST ) $134\nam) 6 60 eee it",
+   "conf": 59.4,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n37",
+   "conf": 15.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT\n= X% Physical attack.\nName a non-Dragon Ball card. Search your\nopponent's Life Deck for 1 copy of that card\nand discard it.\nDAMAGE: AT +3 stages.\n= anini America, Inc. Printed in the u\n© 2016 Fant anor, we. ineaio use ELXEET",
+   "conf": 77.5,
+   "n_words": 46
+  }
+ }
+}

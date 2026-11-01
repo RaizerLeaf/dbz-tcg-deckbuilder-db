@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_48",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/48_Goten's Rock Throw.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "GOTEN'S ROCK THROW ‘\na | °",
+   "conf": 59.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "3\n4\n347 1\n,\n4",
+   "conf": 14.3,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "OO) a 1\nXX Physical attack. COT\nFor the remainder of combat, you\n\nmay banish a Styled Drill you control and\n\ndestroy the top 2 cards of your Life Deck as\n\nan action to perform a non-Styled physical\n\nattack dealing AT +3 stages of damage.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+   "conf": 88.0,
+   "n_words": 52
+  }
+ }
+}

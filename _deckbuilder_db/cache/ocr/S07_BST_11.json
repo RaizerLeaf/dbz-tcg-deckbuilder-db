@@ -1,0 +1,17 @@
+{
+ "card_id": "S07_BST_11",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/11_Blue Rebuke.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE REBUKE © C11 |",
+   "conf": 80.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "ad vw\na> a\n2 (You may only have one “Blue Rebuke” attached.)\n= POWER: Attach to your MP. While attached when your\n» opponent changes levels, you may banish this card to\ne | search your Life Deck for a Styled card and place it\ninto your hand.",
+   "conf": 88.0,
+   "n_words": 49
+  }
+ }
+}

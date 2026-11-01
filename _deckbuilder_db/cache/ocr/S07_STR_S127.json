@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S127",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S127_Black Finger Block.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK FINGER BLOCK $127\nere’ 2 2h oie",
+   "conf": 60.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4 7\n71",
+   "conf": 19.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(4 PHYSICAL COMBAT 1 } .\n_ YW Stops a physical attack.\nYour MP gains 3 stages.\n© 2016 Panini America, Inc. Printed in the USA.\nA © B.S./S. , T.A. LC by Fun. All Rights Reserved. Ud ct",
+   "conf": 80.5,
+   "n_words": 39
+  }
+ }
+}

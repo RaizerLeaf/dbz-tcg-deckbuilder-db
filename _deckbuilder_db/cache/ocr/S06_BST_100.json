@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_100",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/100_Villainous Power Ball.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS POWER BALL =) v100'\neT CO",
+   "conf": 56.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "0\n,\n,\n,\n4",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| Meg. ENERGY COMBAT\n(Villains only. Limit 2 per deck.)\nX Energy attack costing 2 stages.\n\nLower your opponent's anger 2 levels. Prevent 4 stages\nof damage from your opponent's attacks this combat.\nDAMAGE: 4 life cards.\n\n(Banish after use.)",
+   "conf": 91.7,
+   "n_words": 40
+  }
+ }
+}

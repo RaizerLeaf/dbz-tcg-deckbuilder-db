@@ -1,0 +1,22 @@
+{
+ "card_id": "S08_BST_03",
+ "rel_path": "08_Set 8 (Celestial Tournament)/Celestial Tournament/03_Black Restoration.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLACK RESTORATION () C3\nAW ait -_rwiy /‘e FF |",
+   "conf": 55.5,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n2\n1\n5",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(er EVENT\n“a” POWER: Choose up to 3 Styled cards\nin your discard pile and shuffle them into your Life\nDeck. Choose 3 Styled cards in your opponent’s\ndiscard pile and banish them.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama. This card game isa fan-made, non-profit",
+   "conf": 93.2,
+   "n_words": 66
+  }
+ }
+}

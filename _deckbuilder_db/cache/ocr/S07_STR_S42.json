@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_STR_S42",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Starter & DR)/S42_Blue Fear.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE FEAR () S42\n/ai\\",
+   "conf": 57.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n1,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "th F =VENT ee\nyy (If this card is discarded from\nyour hand by a card effect, raise your\nanger 2 levels. Banish after use.)\nPOWER: Use a critical damage effect.\nYou may discard a card from your hand.\nIf you do, draw a card.\n© 2016 Pann Aneria ne. eines inthe sa EEE",
+   "conf": 80.0,
+   "n_words": 54
+  }
+ }
+}

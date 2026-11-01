@@ -1,0 +1,22 @@
+{
+ "card_id": "S10_BST_11",
+ "rel_path": "10_Set 10 (Revelation)/Revelation/11_Blue Excitement.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "BLUE EXCITEMENT () U11\na = |<< =IF 4",
+   "conf": 50.0,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "i =VENT 3S ) i\n(You may banish this card from RN\nyour hand to prevent 3 life cards\nand 3 stages of damage from an attack.)\nPOWER: Choose a Styled Setup in your discard\npile and play it.\n(Banish after use.)\nDISCLAIMER: Dragon Ball, Dragon Ball Z, Dragon Ball GT and Dragon Ball Super are all owned by\nFunimation, Toei Animation, Fuji T.V.and Akira Toriyama, This card game is a fan-made, Non-profit",
+   "conf": 90.6,
+   "n_words": 73
+  }
+ }
+}

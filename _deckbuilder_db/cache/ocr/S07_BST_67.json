@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_BST_67",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Booster)/67_Earth Dragon Ball 7.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "EARTH DRAGON BALL 7 U67",
+   "conf": 95.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1 12,",
+   "conf": 16.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "7) __DAAGON BALL\n| (Once per game, you may play this card from |\nyour hand as an action to end combat.)\nco: Once per turn as an action, you may\nplace a Dragon Ball from your hand into play.",
+   "conf": 89.3,
+   "n_words": 40
+  }
+ }
+}

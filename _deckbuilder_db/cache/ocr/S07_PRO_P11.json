@@ -1,0 +1,22 @@
+{
+ "card_id": "S07_PRO_P11",
+ "rel_path": "07_Set 7 (Awakening)/Awakening (Promos)/P11_Villainous Energy Beam.png",
+ "scale": 7.5,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS ENERGY BEAM ) Pit\nCC! _",
+   "conf": 52.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ENEAGY COMBAT |B\na .\nA toe Y\n“~ ‘-emret",
+   "conf": 41.3,
+   "n_words": 10
+  }
+ }
+}

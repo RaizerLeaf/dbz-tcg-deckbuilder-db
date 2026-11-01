@@ -1,0 +1,22 @@
+{
+ "card_id": "S06_BST_49",
+ "rel_path": "06_Set 6 (Vengence)/Vengence (Booster)/49_Red Training Burst.jpg",
+ "scale": 3.23,
+ "regions": {
+  "header": {
+   "text": "RED TRAINING BURST () C49\na wx 3 Y° \\ . gitar 2",
+   "conf": 55.6,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "7\n,\n,",
+   "conf": 20.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "| Meg. ENERGY COMBAT\nXX Energy attack costing 2 stages.\nRearrange the top 5 cards of your discard pile.\nDAMAGE: 4 life cards.\nHIT: Your opponent skips his next action this combat.\n(Banish after use.)\nEF) 270 Pm amenca ne Poa anteuse — EXE EE EY",
+   "conf": 75.0,
+   "n_words": 46
+  }
+ }
+}

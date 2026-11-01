@@ -1,0 +1,17 @@
+{
+ "card_id": "S09_BST_16",
+ "rel_path": "09_Set 9 (Legends)/Legends/16_Orange Bottle Drill.png",
+ "scale": 1.99,
+ "regions": {
+  "header": {
+   "text": "ORANGE BOTTLE DRILL a C16)",
+   "conf": 79.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": ": ii co: Your physical attacks deal + 1 stage of damage.\neS : POWER: Rejuvenate this Drill to perform a non-Styled\nFE physical attack dealing 3 stages of damage.",
+   "conf": 83.7,
+   "n_words": 30
+  }
+ }
+}
