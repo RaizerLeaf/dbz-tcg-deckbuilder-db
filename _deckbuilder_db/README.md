@@ -28,5 +28,12 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 - Open questions for the owner: how MP vs Ally is decided for Personality cards (same
   printed layout); how to treat Trait cards (`T_` files); meaning of the `DR` prefix; era
   label for the PZP and OP folders (printed by FanZ, currently `era = FanZ`).
+- Layout findings so far: Masteries are the landscape images (385). MPs and Allies share one
+  printed "Personality" layout (Level, 11 stages, PUR, alignment) with no MP/Ally label; the
+  PZP `MPs`/`Allies` subfolders are ground truth for the role. FanZ personalities show small
+  lettered Trait badges just above the text box (e.g. E = Earthling, S = Saiyan, M = Majin).
+  The printed card number carries a rarity letter (C19, U23, R127, S44, P10). Some images
+  have a "(CRD)" stamp below the card: the owner's annotation, not card text. PanZ images
+  for Sets 1-6 are mostly ~465 px wide; still readable by eye, so OCR upscales them 3x.
 - Filename oddities to report in QA: duplicate numbers `S02 06` (Raditz / Tenshinhan),
   `S10 54` (two cards), `PZP P43` (two Piccolos); typos such as `S01_Vegeta - Price of Saiyans`.
