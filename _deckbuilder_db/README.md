@@ -68,7 +68,8 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 3. Trait badge R = Android: confirmed.
 4. `DR` cards are normal cards: DR is a rarity tier for alternate artwork (`rarity = DR`,
    card_id and `collection = dr` unchanged; their folders mix DR with starter cards).
-   `T_` Trait cards (reference cards listing who has each Trait): decision pending.
+   `T_` Trait cards (7 files) are not playable cards: no records in `cards.json`. Their
+   character lists are transcribed only to cross-check Trait data (Phase 4/5).
 5. PZP and OP folders: `era = FanZ`.
 6. Printed rarity S = starter-deck card. Cards with a printed S number that are filed in a
    booster folder (S14 S43-S52) get `collection = starter`; the card_id is unchanged.
