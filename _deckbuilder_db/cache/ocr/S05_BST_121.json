@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_121",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/121_Blue Head Charge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD CHARGE ) R121",
+   "conf": 88.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4\n55\n3,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Age PHYSICAL COMBAT\nsh SS % Physical attack.\nYou may destroy a Styled Setup you control.\nIf you do, search your discard pile for a Styled Setup\nand place it into play.\nDAMAGE: 5 stages.\nHIT: If one of your opponent's card effects modified the\ndamage of this attack, draw a card.\n(Banish after use.)",
+   "conf": 91.7,
+   "n_words": 55
+  }
+ }
+}

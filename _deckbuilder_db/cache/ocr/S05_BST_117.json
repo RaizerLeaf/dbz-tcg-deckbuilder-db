@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_117",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/117_Black Choke.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK CHOKE | — g ) R117.",
+   "conf": 62.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n4,\n37\n2,\n,",
+   "conf": 34.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(Ags PHYSICAL COMBAT\nWy\nX Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: 3 stages +AT life cards.\nHIT: The next time one of your effects destroys\ncards from the top of an opponent's Life Deck this\ncombat, you may increase that amount by 2.\n\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 83.2,
+   "n_words": 53
+  }
+ }
+}

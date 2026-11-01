@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S69",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S69_Blue Betrayal.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE BETRAYAL () $69\nee. Sy",
+   "conf": 60.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "2",
+   "conf": 42.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "So PHYSICAL COMaAT ( aR\n* Physical attack. a\nBanish an opponent's Setup, Drill,\nor Ally in play.\nDAMAGE: AT stages.\n(ey) © 2015 Panini America, tac. Printed in the USA. PAMINY",
+   "conf": 76.4,
+   "n_words": 32
+  }
+ }
+}

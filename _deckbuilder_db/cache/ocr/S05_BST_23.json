@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_23",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/23_Blue Slide.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE SLIDE C) C23",
+   "conf": 66.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n347",
+   "conf": 64.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ee PHYSICAL COMBAT\nXX Physical attack.\nBanish the top 3 cards of your opponent's\ndiscard pile.\nDAMAGE: AT +3 life cards.\n\nHIT: Your opponent cannot play non-Styled cards\nthis combat.\n\n(RP) ears ran amines ne romeoinne usa ETT",
+   "conf": 76.8,
+   "n_words": 38
+  }
+ }
+}

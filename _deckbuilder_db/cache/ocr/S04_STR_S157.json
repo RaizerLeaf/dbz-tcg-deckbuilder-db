@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S157",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S157_Saiyan Hand Swipe.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "GATVAN FAND SWIPE () $157",
+   "conf": 54.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n2\n4\n,\n,",
+   "conf": 17.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "= ae a\n\\ | ) PHYSICAL COMBAT fR~A|\nSTDIN Stops an energy attack.\n\nThe next attack you perform this combat deals\n+3 life cards of damage.\niC) © 2015 Panini America, inc. Printed in the USA. | PAMIMI |",
+   "conf": 76.5,
+   "n_words": 40
+  }
+ }
+}

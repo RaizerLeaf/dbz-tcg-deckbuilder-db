@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S32",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S32_Confrontation.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "CONFRONTATION () $32\n, if Lil. :",
+   "conf": 47.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n1",
+   "conf": 28.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Heroes only.)\nPOWER: Look at your opponent's hand and choose\na card. Your opponent shuffles that card into\nhis Life Deck.\n© © 2015 Panini America, Inc. Printed in the USA. (ramus)",
+   "conf": 90.9,
+   "n_words": 32
+  }
+ }
+}

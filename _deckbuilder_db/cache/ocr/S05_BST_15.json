@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_15",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/15_Blue Vision.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE VISION () C15",
+   "conf": 72.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "ae\n(Villains only.)\ne POWER: Shuffle an Ally you control into its owner's\ng Life Deck to search your Life Deck or discard pile\nz | | for an Ally and play it.\n0\nz",
+   "conf": 84.3,
+   "n_words": 35
+  }
+ }
+}

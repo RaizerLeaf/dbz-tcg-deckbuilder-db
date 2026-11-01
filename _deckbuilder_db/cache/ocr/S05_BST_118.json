@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_118",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/118_Black Double Team.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK DOUBLE TEAM > R118",
+   "conf": 70.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n7\n2\n,\n,",
+   "conf": 1.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(2S PHYSICAL COMBAT ( 1 )\nWy\n(If this card is destroyed from om\nyour Life Deck by one of your effects,\nyou may place it into your hand.)\nAPhysical attack.\n\nIf your opponent has no cards in his hand, damage\nfrom this attack cannot be prevented.\nDAMAGE: 5 life cards.\n\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 78.5,
+   "n_words": 58
+  }
+ }
+}

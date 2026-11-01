@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S38",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S38_Blac Upward Dodge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK UPWARD DODGE ) 338\n1 2 ape! 2. Se a etl\n| Ses a",
+   "conf": 56.7,
+   "n_words": 15
+  },
+  "stages": {
+   "text": "3\n, ,",
+   "conf": 6.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (R7R}\nwv Stops a physical attack. |\nYour next attack deals +4 life cards of damage\nthis combat.\nSS © 2015 Panini America, inc. Printed in the USA. [PAMIMI |",
+   "conf": 78.0,
+   "n_words": 32
+  }
+ }
+}

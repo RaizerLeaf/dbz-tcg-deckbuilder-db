@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S59",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S59_Black Swipe.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SWIPE () $59\nf lh xl\"",
+   "conf": 64.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(aoe) =SNeRGY COMBAT (R=R)\nwv Stops an energy attack. CTT”\nBanish 3 cards from your opponent's\ndiscard pile.\nSS © 2015 Panini America, inc. Printed in the USA. [PANINI",
+   "conf": 71.0,
+   "n_words": 29
+  }
+ }
+}

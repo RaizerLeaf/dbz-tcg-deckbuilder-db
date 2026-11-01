@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S147",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S147_Red Lifting Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED LIFTING KICK @ sia7\nEr",
+   "conf": 65.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n,\n3,",
+   "conf": 8.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT (RR)\n* Physical attack.\nYou may lower your anger 1 level to have this\nattack deal +6 stages instead of +3.\nDAMAGE: AT +3 stages.",
+   "conf": 90.5,
+   "n_words": 27
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S71",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S71_Blue Defensive Effect.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE DEFENSIVE EFFECT\n— int int - i awry",
+   "conf": 62.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n4\n1,\n,",
+   "conf": 30.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "—VOENT\nPOWER: Lower your opponent's anger 1 level.\nYour opponent cannot raise his anger this combat.\n(Banish after use.)\n\nDe \\ ja.\n{ R_R (s)\n\n— Couns\nA ee PAIR",
+   "conf": 70.0,
+   "n_words": 30
+  }
+ }
+}

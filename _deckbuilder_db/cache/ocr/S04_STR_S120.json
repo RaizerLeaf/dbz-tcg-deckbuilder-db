@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S120",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S120_Orange Power Point.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE POWER POINT ) si20\n———————< CO",
+   "conf": 63.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Se ESSE ahaa Sh\n* Energy attack costing 2 stages Oe”\nDAMAGE: 6 life cards.\nHIT: Search your Life Deck for a Styled Drill and\nplace it into play.\ney) |",
+   "conf": 80.6,
+   "n_words": 31
+  }
+ }
+}

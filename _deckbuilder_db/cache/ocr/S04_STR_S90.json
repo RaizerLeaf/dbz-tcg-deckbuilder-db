@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S90",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S90_Namekian Forceful Block.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FORCEFUL BLOCK () $90\nee ee ee",
+   "conf": 58.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,\n1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R_R)\nv Stops a physical attack.\nGain 5 stages. Rejuvenate 1.\ni eedenteenentnenREENIententeeEEEEnEteeieenell\n©",
+   "conf": 70.8,
+   "n_words": 16
+  }
+ }
+}

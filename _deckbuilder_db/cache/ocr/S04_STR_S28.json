@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S28",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S28_Android 18 - Effective.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "| 3 ANDROID 18 ++ '\nEFFECTIVE 2 828",
+   "conf": 64.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,050,000\n950,000\n850,000\n750,000\n500,000\n250,000\n100,000\n50,000\n25,000\n10,000\n\n0",
+   "conf": 60.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "25,000\n, 10,000\n\\ GR_R 0\nLIE ( & ;\n4 pf\nco; While your MP’s power level is over 1, ey)\nyour opponent's physical attacks cannot tone asiOn\nhave their damage modified. FUNIMATION\nPOWER: x Energy attack.\nDAMAGE: 0 life cards. PANINI)\nHIT: Look at the top 6 cards of your Life\nDeck and place them back in any order.\nDraw a card.",
+   "conf": 80.8,
+   "n_words": 64
+  }
+ }
+}

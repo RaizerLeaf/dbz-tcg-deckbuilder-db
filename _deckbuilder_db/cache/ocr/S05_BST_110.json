@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_110",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/110_Trunks' Slam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "TRUNKS' SLAM ©) R110",
+   "conf": 82.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "3\n347",
+   "conf": 43.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "= (This card is considered Styled.)\nXX Physical attack.\nRaise your anger 1 level. If you stopped an attack\non your opponent's last action this combat, your\nopponent passes for his next action this combat.\nDAMAGE: AT +3 stages.\n(Banish after use.)",
+   "conf": 92.7,
+   "n_words": 42
+  }
+ }
+}

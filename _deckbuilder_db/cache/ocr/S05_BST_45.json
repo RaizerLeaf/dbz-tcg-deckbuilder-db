@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_45",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/45_Red Cannon.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": ": R FD CA NNO . =)\na ry T7) y 7 = ’ Ty |",
+   "conf": 41.1,
+   "n_words": 16
+  },
+  "stages": {
+   "text": "7\n,\n1\n\n,",
+   "conf": 8.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(425, ENERGY COMBAT\n\\’ A (If you control 3 or more Drills, you may\nbanish this card from your hand to stop a\nphysical or energy attack.)\nX Energy attack costing 2 stages.\nYou may destroy a Drill you control to banish a\nSetup or Drill.\nDAMAGE: 4 +X life cards. X = the number of\nDrills you control.\n\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 84.8,
+   "n_words": 65
+  }
+ }
+}

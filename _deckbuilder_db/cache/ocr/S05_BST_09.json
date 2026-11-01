@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_09",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/09_Black Energy Bubble.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY BUBBLE ) co",
+   "conf": 88.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 23.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Ags, ENERGY COMBAT\nWy\nA Energy attack costing 1 stage.\nRaise your anger 1 level. If this attack is\nstopped, your opponent discards a random card\nfrom his hand.\nDAMAGE: 3 life cards.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 79.2,
+   "n_words": 40
+  }
+ }
+}

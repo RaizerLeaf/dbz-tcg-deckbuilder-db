@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S100",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S100_Namekian Sudden Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SUDDEN BLAST () $100\nST",
+   "conf": 66.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,\n,\n2",
+   "conf": 1.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "* Energy attack costing 2 stages.\nDAMAGE: 5 life cards.\nHIT: Choose 4 cards in your discard pile.\nBanish 2 of those cards and shuffle the\nremaining into your Life Deck.\na eatente Rane RIESE\n©",
+   "conf": 83.8,
+   "n_words": 36
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S57",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S57_Black Stop.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK STOP Ku\neC",
+   "conf": 73.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,\n4\n,\n,",
+   "conf": 17.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT f/R~R}\nwv Stops a physical attack. |\nRaise your anger 1 level. Your opponent plays\nwith his hand revealed until the start of your\nnext turn.\nSS © 2015 Panini America, inc. Printed in the USA. [PANINI",
+   "conf": 81.0,
+   "n_words": 39
+  }
+ }
+}

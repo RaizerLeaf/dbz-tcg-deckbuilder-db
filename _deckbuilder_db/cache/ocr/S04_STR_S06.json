@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S06",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S06_Goku - Relaxed.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "GOKU * *\nBiss @s",
+   "conf": 38.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "120,000\n95,000\n70,000\n45,000\n20,000\n15,000\n10,000\n5,000\n1,000\n\n500\n\n0",
+   "conf": 62.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "- a et i -—i eS YS\nWS 1,000\na || | 500\nipa “ 0\nPOWER: x Physical attack.\nYou may return an Ally you control to its TOE! ANIMATION\nowner's hand. FUNIMATION\nDAMAGE: 2 life cards.\nHIT: At the end of combat, you may search\nyour Life Deck for an Ally and place it on top\nof your Life Deck.",
+   "conf": 82.1,
+   "n_words": 62
+  }
+ }
+}

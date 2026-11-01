@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S101",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S101_Namekian Zone Pressure.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ZONE PRESSURE () $101\n| umes",
+   "conf": 71.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4 5\n7\n,",
+   "conf": 39.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @R_ RI}\n* Physical attack.\nYou may shuffle a Dragon Ball you control\nback into its owner's Life Deck. If you do, banish\na Setup or Drill in play.\nDAMAGE: AT +3 stages.\nrr\n©",
+   "conf": 87.9,
+   "n_words": 37
+  }
+ }
+}

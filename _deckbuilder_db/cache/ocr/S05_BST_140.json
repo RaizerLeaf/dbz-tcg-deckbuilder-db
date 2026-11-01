@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_140",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/140_Saiyan Overhead Flare.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN OVERHEAD FLARE > p10\nip Ae...",
+   "conf": 67.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,\n,\n\n,",
+   "conf": 14.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Aes, ENERGY COMBAT\n\nMi vé y j\n\n- X% Energy attack costing 2 stages.\n\nRaise your anger 1 level. Dragon Balls lose\n\nall effects for the remainder of combat.\nDAMAGE: 5 life cards.\n(Banish after use.)\n\n(EF) caste rait aman ne incase = ET",
+   "conf": 72.6,
+   "n_words": 44
+  }
+ }
+}

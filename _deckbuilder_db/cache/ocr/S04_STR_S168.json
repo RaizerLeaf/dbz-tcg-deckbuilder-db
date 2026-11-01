@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S168",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S168_Saiyan Multi-Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN MULTI-BLAST () $168\n~ Hy @ ant",
+   "conf": 66.9,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "fa-rR) =EN=eAGY COMBAT\n* Energy attack costing 2 stages.\nDAMAGE: 3 life cards.\nHIT: Draw a card.\n(Banish after use.)",
+   "conf": 84.7,
+   "n_words": 20
+  }
+ }
+}

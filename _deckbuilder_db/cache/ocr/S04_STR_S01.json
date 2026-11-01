@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S01",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S01_Trunks - Returned.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "aim TRUNKS , Wy\nLEVEL RETURNED N j\nOs en ey ee @@& #™ a a.",
+   "conf": 49.1,
+   "n_words": 16
+  },
+  "stages": {
+   "text": "110,000\n90,000\n70,000\n50,000\n30,000\n10,000\n8,000\n6,000\n4,000\n\n2,000\n\n0",
+   "conf": 63.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "hoy 4,000\nSy TP],\nye i 2,000\n— \\ R_ Ri 0\nPOWER: x Physical attack.\ney\nIf this attack is stopped, your opponent skips rost aumATion\nhis next action this combat. FUNIMATION\nDAMAGE: AT +1 stage.",
+   "conf": 77.6,
+   "n_words": 37
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S36",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S36_Black Fist Lock.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK FIST LOCK ) $36\n13 22 Ge! 2. a en\nA ee ns be \\ es",
+   "conf": 48.2,
+   "n_words": 17
+  },
+  "stages": {
+   "text": ",\n3",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Sp PHYSICAL COMBAT ( RR\nOS” *« Physical attack. il\nDAMAGE: AT +4 stages.\n\nfo ,\n; AZ ® 2015 Panini America, Inc. Pritted in the USA. PANINI",
+   "conf": 65.1,
+   "n_words": 28
+  }
+ }
+}

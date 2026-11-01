@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_03",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/03_Vicious Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "VICIOUS STRIKE » C3 |",
+   "conf": 68.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "4",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "= X Physical attack. Moun\nEffects that Rejuvenate cards cannot be used\nthis combat.\nDAMAGE: AT +2 stages.\nHIT: You may lower your MP 1 level. If you do, lower\nyour opponent's MP 1 level at the end of combat.\n(Banish after use.)",
+   "conf": 91.8,
+   "n_words": 43
+  }
+ }
+}

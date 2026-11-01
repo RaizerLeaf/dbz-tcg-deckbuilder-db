@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S76",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S76_Blue Narrow Escape.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE NARROW ESCAPE () $76\nry - Wy > — a ;",
+   "conf": 55.8,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "3\n\n4\n,2\n,",
+   "conf": 9.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "RR ENERGY COMBAT | R&D\n> | g &\nw Stops an energy attack. ZT\nChoose 2 Energy Combat cards in your discard\npile and place them on top of your Life Deck.\n(Banish after use.)\nLEP) rorsrsantanuiea ue rinetinmeusn «EEE",
+   "conf": 68.4,
+   "n_words": 41
+  }
+ }
+}

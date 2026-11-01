@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S92",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S92_Namekian Maximum Will.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN MAXIMUM WILL © ») S92.\na waa pw — °° fF",
+   "conf": 54.0,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2\n2\n2\n,\n,",
+   "conf": 12.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "RR} ENERGY COMBAT \\ — yy\n* Energy attack costing 2 stages”\nYou may destroy up to 2 cards from the top of\nyour Life Deck. For each card destroyed, lower your\nopponent's anger 2 levels.\nDAMAGE: 6 life cards.\na eatente Rane RIESE\n©",
+   "conf": 77.2,
+   "n_words": 45
+  }
+ }
+}

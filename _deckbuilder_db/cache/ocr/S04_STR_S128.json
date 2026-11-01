@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S128",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S128_Orange Truck LIft.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE TRUCK LIFT ) $128 |\nEO aC",
+   "conf": 76.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "3\n2\n4\n,\n,",
+   "conf": 16.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R_R)\n* Physical attack.\nSearch the top 4 cards of your discard pile for\na Drill and place it into play.\nDAMAGE: AT +3 stages.\n(ey) |",
+   "conf": 88.9,
+   "n_words": 29
+  }
+ }
+}

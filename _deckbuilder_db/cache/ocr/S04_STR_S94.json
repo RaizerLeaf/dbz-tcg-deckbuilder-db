@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S94",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S94_Namekian Onslaught.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ONSLAUGHT 4) ) $94 |\n1 «",
+   "conf": 56.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "RR} H=NERGY COMBAT\n* Energy attack costing 1 stage.\nRejuvenate 1. If you control 2 or more Dragon\nBalls, this attack stays in play to be used a second\ntime this combat.\nDAMAGE: 4 life cards.\na\n©",
+   "conf": 87.7,
+   "n_words": 38
+  }
+ }
+}

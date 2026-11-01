@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_12",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/12_Black Nightmare.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK NIGHTMARE C) C12\ni oN",
+   "conf": 62.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "3\n,",
+   "conf": 0.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "aes =VENT \\ 1 I\nWey\nPOWER: Search your opponent's om\nLife Deck for a Setup or Drill and banish\nit. Your MP gains 4 stages. Shuffle this card into\nyour Life Deck after use.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 77.0,
+   "n_words": 42
+  }
+ }
+}

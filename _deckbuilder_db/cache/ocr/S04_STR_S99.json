@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S99",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S99_Namekian Side Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN SIDE KICK () $99\n| . ns i, |",
+   "conf": 64.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n1\n2,\n\n,",
+   "conf": 15.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @R_ RAR}\n* Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT +2 life cards.\n\nHIT: Draw the top card of your discard pile.\n(Banish after use.)\nrr\n\n©",
+   "conf": 86.0,
+   "n_words": 32
+  }
+ }
+}

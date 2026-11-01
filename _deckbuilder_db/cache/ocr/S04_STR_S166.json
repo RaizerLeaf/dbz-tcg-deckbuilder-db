@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S166",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S166_Saiyan Left Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN LEFT KICK ¢ ) s166\n: B,",
+   "conf": 44.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| \\ 1 ) PHYSICAL COMBAT fR-R}\nCOTS * Physical attack.\nRaise your anger 1 level.\nDAMAGE: AT +4 life cards.\niC) © 2015 Panini America, tnc. Printed in the USA. | PAMIMI |",
+   "conf": 78.9,
+   "n_words": 34
+  }
+ }
+}

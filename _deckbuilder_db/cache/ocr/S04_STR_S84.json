@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S84",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S84_Namekian Chin Grab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CHIN GRAB . ») S84",
+   "conf": 73.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "7",
+   "conf": 85.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R_R}\n* Physical attack.\nRejuvenate 1.\nDAMAGE: AT +3 stages.\nHIT: Rejuvenate 1.\nrr\n©",
+   "conf": 82.5,
+   "n_words": 17
+  }
+ }
+}

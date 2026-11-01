@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S175",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S175_Saiyan Swat.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "“SAIYAN SWAT | () $175\na AD",
+   "conf": 63.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ", 2\n,\n,",
+   "conf": 9.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "fra-R) =EN=AGY COMBAT\nv Stops an energy attack.\nSearch your discard pile for a card with\nEndurance and place it on top of your Life Deck.",
+   "conf": 84.7,
+   "n_words": 26
+  }
+ }
+}

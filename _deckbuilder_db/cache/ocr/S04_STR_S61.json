@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_STR_S61",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S61_Blue Blockade.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "fat =-> . B",
+   "conf": 68.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "——| ~ = = w POWER: Stops a physical or energy attack.\n—P a =\n= | «Sl\nci es J e =f\nof\n98",
+   "conf": 49.5,
+   "n_words": 25
+  }
+ }
+}

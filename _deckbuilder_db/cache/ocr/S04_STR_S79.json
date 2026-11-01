@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S79",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S79_Blue Safeguard.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE SAFEGUARD () $79\na ell",
+   "conf": 55.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n\n,\n,\n\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "i) PHYSICAL COMBAT fr-A} |\nORY ow Stops a physical attack.\nIf your opponent's anger level is 0, raise your\nanger 2 levels.\n|\nLy ’ |\nGEAR A ee rane)",
+   "conf": 68.5,
+   "n_words": 31
+  }
+ }
+}

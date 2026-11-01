@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_20",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/20_Blue Head Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD KICK ) 620°",
+   "conf": 79.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(GQ PHYSICAL COMBAT ( ed a\n\nWey\n\n: X Physical attack. COTS\n\nDraw a card.\nDAMAGE: AT +2 life cards.\nHIT: Your opponent draws a card.\n(Banish after use.)\n\n(Ry) csr Patni ie itesn nek | ETT",
+   "conf": 65.2,
+   "n_words": 37
+  }
+ }
+}

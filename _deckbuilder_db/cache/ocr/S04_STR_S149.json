@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S149",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S149_Red Power Lift.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED POWER LIFT () $145\nYr ow Ys Vr aw",
+   "conf": 54.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n,\n, ,",
+   "conf": 20.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "\\' 1 ) PHYSICAL COMBAT R-R}\nCOTS” * Physical attack.\nStops the next physical attack performed\nagainst you this combat.\nDAMAGE: AT +3 stages.",
+   "conf": 82.5,
+   "n_words": 24
+  }
+ }
+}

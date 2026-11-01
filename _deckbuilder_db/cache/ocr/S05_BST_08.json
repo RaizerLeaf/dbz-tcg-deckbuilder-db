@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_08",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/08_Black Easy Block.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK EASY BLOCK C) C8",
+   "conf": 72.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n40\n,\n,\n,",
+   "conf": 9.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(AQ PHYSICAL COMBAT ( - I\nWey\nW Stops a physical attack. om\nLower your opponent's anger 1 level. All of\nyour attacks are considered Styled this combat.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 68.2,
+   "n_words": 35
+  }
+ }
+}

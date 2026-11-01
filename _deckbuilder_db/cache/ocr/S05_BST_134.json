@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_134",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/134_Red Back Bash.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED BACK BASH > ri34\n~~ ~ ARAN eg",
+   "conf": 52.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n2\n2\n37\n,\n,",
+   "conf": 13.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "er PHYSICAL COMBAT\nLT (Use only if you have performed at least\ntwo other Styled physical attacks this combat.\nThis attack cannot have its damage modified.)\nX& Physical attack.\nThis attack stays in play to be used a second\ntime this combat.\nDAMAGE: 5 stages.\n(Banish after use.)\npo rn ee\nNes J © 2016 Panim Amenca, tne Poatec tne usa. PE",
+   "conf": 80.7,
+   "n_words": 62
+  }
+ }
+}

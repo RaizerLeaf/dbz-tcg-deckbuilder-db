@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S98",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S98_Namekian Right Throw (CRD).png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN RIGHT THROW () $98\n| ~ |",
+   "conf": 79.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n0,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "\\ = ) PHYSICAL COMBAT (an)\nom * Physical attack.\nYou may shuffle a Dragon Ball you control\nback into its owner's Life Deck. If you do, raise\nyour anger 2 levels.\nDAMAGE: AT +3 stages.\nrr\n©",
+   "conf": 85.8,
+   "n_words": 38
+  }
+ }
+}

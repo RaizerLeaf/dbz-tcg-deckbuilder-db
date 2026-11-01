@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S108",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S108_Orange Confidence.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE CONFIDENCE ) 108\n: gt Wee ae f",
+   "conf": 54.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "\\ 1 ) PHYSICAL COMBAT @R_R)\nOme Stops a physical attack.\nRaise your anger 1 level. Your AT damage is\nconsidered to be 4 for your Styled attacks\nthis combat.\ney) |",
+   "conf": 87.1,
+   "n_words": 32
+  }
+ }
+}

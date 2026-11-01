@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_STR_S103",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S103_Orange Energy Gathering.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "pam\n6 =",
+   "conf": 46.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "POWER: Your MP gains 7 stages. Rejuvenate 2.\n—_\n2. eS\n|",
+   "conf": 68.9,
+   "n_words": 12
+  }
+ }
+}

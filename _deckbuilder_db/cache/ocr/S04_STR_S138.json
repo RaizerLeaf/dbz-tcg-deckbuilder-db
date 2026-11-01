@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S138",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S138_Red Energy Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED ENERGY BLAST @® sis8\n_~a —",
+   "conf": 71.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "fa-ek) =EN=AGY COMBAT\n* Energy attack costing 2 stages.\nRaise your anger 1 level. Banish a Drill or Ally.\nDAMAGE: 4 life cards.",
+   "conf": 86.6,
+   "n_words": 23
+  }
+ }
+}

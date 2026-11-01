@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S96",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S96_Namekian Regeneration.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN REGENERATION ©€© ») S96\nYi Se",
+   "conf": 53.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n,\n4",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "POWER: Rejuvenate the top or bottom 4 cards of\nyour discard pile.\n(Banish after use.)\n©",
+   "conf": 94.5,
+   "n_words": 16
+  }
+ }
+}

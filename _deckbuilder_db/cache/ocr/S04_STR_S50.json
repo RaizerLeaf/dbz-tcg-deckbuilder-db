@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S50",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S50_Black Interceptor Barrage.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK INTERCEPTOR BARRAGE () $50",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7",
+   "conf": 24.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(eee) =SNeRGY COMBAT (eR)\n* Energy attack costing 2 stages “TTS”\nDAMAGE: 4 life cards and 4 stages.\nHIT: Banish 3 cards from a discard pile.\nSS © 2015 Panini America, inc. Printed in the USA. [PANINI",
+   "conf": 77.6,
+   "n_words": 37
+  }
+ }
+}

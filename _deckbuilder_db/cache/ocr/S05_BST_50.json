@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_50",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/50_Red Sword Stab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED SWORD STAB C) C50\nTa \\ \\N",
+   "conf": 57.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n2\n4\n7 4\n,\n,",
+   "conf": 13.1,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "(@@S PHYSICAL COMBAT ( 3 )-\nYi Xe y\n= X Physical attack. om\nRaise your anger 1 level.\nDAMAGE: AT +4 stages.\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 61.0,
+   "n_words": 29
+  }
+ }
+}

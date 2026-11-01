@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_11",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/11_Black Haunting.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK HAUNTING ——— @) Cll.\n/ i ey",
+   "conf": 50.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(Age =VENT ( 1 )\nWy\n* POWER: Use after destroying om\na non-Styled card from your opponent's\nLife Deck. Rejuvenate 2. Your opponent cannot\nplay nor use non-Styled cards this turn.\n(Banish after use.)\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 73.4,
+   "n_words": 42
+  }
+ }
+}

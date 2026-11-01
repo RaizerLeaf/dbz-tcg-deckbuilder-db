@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S141",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S141_Red Face Break.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED FACE BREAK sia",
+   "conf": 72.0,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "2\n\n5\n4\n4,",
+   "conf": 37.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT fR-R)\n* Physical attack.\nRaise your anger 1 level. You may discard a\ncard from your hand. If you do, draw a card.\nDAMAGE: AT +4 stages.\n(Banish after use.)",
+   "conf": 91.2,
+   "n_words": 32
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S170",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S170_Saiyan Prelude.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "_SAIYAN PRELUDE $170\n|e",
+   "conf": 81.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 14.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "= Ve\nPOWER: Your MP gains 5 stages. Your next attack\nthis combat deals +5 stages of damage.\n(Banish after use.)\nRR)\n© 2015 Panini America, inc. Printed in the USA. | PAMIMI |",
+   "conf": 80.4,
+   "n_words": 34
+  }
+ }
+}

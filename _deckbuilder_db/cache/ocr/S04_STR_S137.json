@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S137",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S137_Red Double Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED DOUBLE STRIKE @ s137",
+   "conf": 83.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n, ,\n1,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT R-A}\n* Physical attack.\nRaise your anger 1 level. This attack stays in\nplay to be used a second time this combat.\nDAMAGE: AT stages.",
+   "conf": 90.9,
+   "n_words": 27
+  }
+ }
+}

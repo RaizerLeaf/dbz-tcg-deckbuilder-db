@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S153",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S153_Red Slide.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED SLIDE () $153\na’ 4",
+   "conf": 62.2,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 28.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "1 ) PHYSICAL COMBAT §R_R}\nCOTS” * Physical attack.\nRaise your anger 1 level. Your Drills are not\ndiscarded when changing levels this combat.\nDAMAGE: AT +4 stages.",
+   "conf": 87.5,
+   "n_words": 28
+  }
+ }
+}

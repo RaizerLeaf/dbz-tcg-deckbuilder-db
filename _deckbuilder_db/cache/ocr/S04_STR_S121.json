@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S121",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S121_Orange Precise Shot.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE PRECISE SHOT ) $121)\nae",
+   "conf": 80.8,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1\n,\n2",
+   "conf": 18.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(CSS Eau = )\n* Energy attack costing 1 stage CU\nDAMAGE: 3 life cards.\nHIT: Search your opponent's Life Deck for a card\nand discard it. Raise your anger 1 level.\ney) |",
+   "conf": 80.9,
+   "n_words": 34
+  }
+ }
+}

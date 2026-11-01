@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_16",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/16_Blue Guarding Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE GUARDING DRILL @ cs ) C16",
+   "conf": 81.0,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "7 (As an action, you may banish this card from your hand to perform\na a non-Styled physical attack dealing AT stages of damage.)\ng oo; Whenever you perform an attack that was not played from\nx your hand, your opponent's MP loses 1 stage.\n2 |\n2",
+   "conf": 87.4,
+   "n_words": 48
+  }
+ }
+}

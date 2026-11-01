@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S03",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S03_Trunks - Defiant.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "TRUNKS * * $3\nes @s\n=, ty /\\ X\\ es aE SCO SEE",
+   "conf": 35.1,
+   "n_words": 14
+  },
+  "stages": {
+   "text": "1,000,000\n900,000\n800,000\n600,000\n400,000\n200,000\n100,000\n50,000\n25,000\n12,500\n\n0",
+   "conf": 54.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "has iene 2) patna”\neo) NJ\nSe 25,000\ngg ~ \\a 12,500\n( > S 0\nPOWER: Place a card from your hand on the\ntop or bottom of your Life Deck to choose an Sain\nattack card from your discard pile and place eatin\nit into your hand. Your opponent skips his\nnext action this combat.",
+   "conf": 79.1,
+   "n_words": 57
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S119",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S119_Orange Palm Blasts.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE PALM BLASTS ») S119\nEE",
+   "conf": 70.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "RR} H=NERGY COMBAT\n* Energy attack costing 2 stages.\nYour opponent cannot perform an energy attack\nin his next action this combat.\nDAMAGE: 4 life cards.\n(Most Recent Printing)\ney)",
+   "conf": 88.1,
+   "n_words": 30
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_14",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/14_Black Unstable Punch.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK UNSTABLE PUNCH C) C14\nlf SS WG...) 2 ne” 4",
+   "conf": 51.0,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "7\n,",
+   "conf": 33.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Ags PHYSICAL COMBAT\nWey\n' X Physical attack.\nReveal your hand. This attack deals +3 life\ncards of damage for each Named card revealed.\nDAMAGE: AT +1 life card.\n(Banish after use.)\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 76.4,
+   "n_words": 39
+  }
+ }
+}

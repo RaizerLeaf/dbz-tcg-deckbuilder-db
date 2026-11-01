@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S113",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S113_Orange Eruption.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE ERUPTION ) S113\n\\ j / ’",
+   "conf": 67.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 32.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "RR} H=NERGY COMBAT\n* Energy attack costing 1 stage.\nRaise your anger 2 levels. Lower your\nopponent's anger 2 levels.\nDAMAGE: 2 life cards.\n(Banish after use.)\ney,",
+   "conf": 87.8,
+   "n_words": 28
+  }
+ }
+}

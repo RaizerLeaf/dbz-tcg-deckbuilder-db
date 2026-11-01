@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_136",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/136_Red Powerful Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED POWERFUL STRIKE >) R136\nen? wae’. \\\\ sf)",
+   "conf": 59.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "2\n,\n37\n2,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(@@S PHYSICAL COMBAT\nYi Ke y\n_ X Physical attack.\nIf you have performed an attack from your\ndiscard pile this combat, raise your anger 2 levels.\nDAMAGE: 4 stages.\nHIT: If your MP is a Hero, your next Styled attack\nthis combat gains “Raise your anger 1 level.”\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 82.0,
+   "n_words": 55
+  }
+ }
+}

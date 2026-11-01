@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_56",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/56_Saiyan Flip.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN FLIP €) C56\noe CA Ne levee",
+   "conf": 60.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n4\n\n,\n,\n,",
+   "conf": 8.8,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(@@S PHYSICAL COMBAT ( 1\n_ (This card's Endurance is Ore\nconsidered to be 4 for your card effects.)\nStops a physical attack.\nAttach to your MP. While attached, AT damage is\nconsidered to be 4 for all physical attacks.\n(EF) caste rait aman ne incase = ET",
+   "conf": 75.6,
+   "n_words": 48
+  }
+ }
+}

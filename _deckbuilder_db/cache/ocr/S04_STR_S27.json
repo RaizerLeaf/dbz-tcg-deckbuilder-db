@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S27",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S27_Android 18 - Threatening.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "y=] ANDROID 18 *\nWat THREATENING 2 S27",
+   "conf": 49.6,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "750,000\n550,000\n350,000\n250,000\n150,000\n50,000\n25,000\n10,000\n5,000\n\n1,000\n\n0",
+   "conf": 72.4,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "9,000\n> 1,000\n\\N ( R_R 0\nPLIE \\' .\n#4 4\noo: While your MP's power level is over ey\n50,000, your opponent's physical attacks ro ANMAATION\ncannot have their damage modified. cunmaarion\nYour attacks deal +1 life card of damage.\n| PARENT |",
+   "conf": 76.3,
+   "n_words": 45
+  }
+ }
+}

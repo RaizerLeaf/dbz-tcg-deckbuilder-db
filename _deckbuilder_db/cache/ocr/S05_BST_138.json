@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_138",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/138_Saiyan Charged Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN CHARGED KICK > R138\n~ — °°",
+   "conf": 66.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "7\n7\n,",
+   "conf": 15.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(@25, ENERGY COMBAT\nYi Ke y\n- X% Energy attack costing 3 stages.\nYou may discard a card from your hand to\ndraw a card.\nDAMAGE: 5 life cards.\nHIT: If this attack dealt five or more stages of\ndamage, draw a card.\n(Banish after use.)\n(EF) caste rait aman ne incase = ET",
+   "conf": 77.3,
+   "n_words": 54
+  }
+ }
+}

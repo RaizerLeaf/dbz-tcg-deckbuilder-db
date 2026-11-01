@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S124",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S124_Orange Refocus.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE REFOCUS ES) $124.",
+   "conf": 63.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n4\n,\n,\n,",
+   "conf": 12.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "\\ 1 ) PHYSICAL COMBAT @R_ RI}\nOme Stops a physical attack.\nRaise your anger 1 level. You may search your\ndiscard pile for a Drill and place it into play.\nCr",
+   "conf": 86.2,
+   "n_words": 32
+  }
+ }
+}

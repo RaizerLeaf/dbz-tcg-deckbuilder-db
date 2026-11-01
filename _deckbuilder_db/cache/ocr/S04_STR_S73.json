@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S73",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S73_Blue Encircled Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE ENCIRCLED STRIKE () $73\nPP | / a 1%¢ =~ @ |.",
+   "conf": 55.1,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "85\n,\n, ,\n4\n,",
+   "conf": 4.2,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "| >HYSICAL COMBAT rer} |\n* Physical attack.\nDAMAGE: 3 life cards.\nHIT: Banish the top 5 cards of your opponent's\ndiscard pile.\n\n|\n\n) | |\nGAS eR em rane)",
+   "conf": 76.4,
+   "n_words": 31
+  }
+ }
+}

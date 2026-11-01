@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_103",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/103_Yamcha's Expert Assistance.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "(AMCHA'S EXPERT ASSISTANCE 2) R103 |\nTT CO a ee ——",
+   "conf": 50.1,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "- | (If your MP’s power level is 0, you may play this card\n; from your hand as an action.)\nPOWER: Draw a card. Your opponent passes for his\n; next two actions this combat.\n“ | (Banish after use.)",
+   "conf": 84.1,
+   "n_words": 41
+  }
+ }
+}

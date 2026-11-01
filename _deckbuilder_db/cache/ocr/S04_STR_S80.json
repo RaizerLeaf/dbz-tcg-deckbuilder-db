@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S80",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S80_Blue Wrist Block.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE WRIST BLOCK ) $80 |\n— >» . ow",
+   "conf": 75.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT fravR ~\n( a,\nvw Stops a physical attack.\nDestroy one of your opponent's\nSetups or Drills.\nLEP) rorsrsantanuiea ue rinetinmeusn «EEE",
+   "conf": 67.4,
+   "n_words": 24
+  }
+ }
+}

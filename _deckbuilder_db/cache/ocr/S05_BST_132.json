@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_132",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/132_Red Channel Surfing Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED CHANNEL SURFING DRILL 6) R132\nel",
+   "conf": 80.1,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "co: Drills in your Life Deck without Endurance\nz gain “Endurance 3.”\ng POWER: Discard a Drill from your hand to destroy\n2 the top 3 cards of your opponent's Life Deck. If you\n2 discarded a Styled card, draw a card.",
+   "conf": 91.9,
+   "n_words": 42
+  }
+ }
+}

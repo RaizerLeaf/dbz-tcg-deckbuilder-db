@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_PRO_P7",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Promos)/P7_Black Scout Maneuver.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "a os Oe a\nBLACK SCOUT MANEUVER () P7",
+   "conf": 56.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "—VONT\nPOWER: Name a Physical Combat, Energy Combat,\nor Event card. Search your opponent's Life Deck\nfor all copies of that card and banish them.\n(Banish after use.)\n(Most Recent Printing)\n\npp\n\n( R_R\nwe\n\n; ey) © 2015 Panin: America, Inc. Printed in the USA. PaMInt |",
+   "conf": 83.0,
+   "n_words": 48
+  }
+ }
+}

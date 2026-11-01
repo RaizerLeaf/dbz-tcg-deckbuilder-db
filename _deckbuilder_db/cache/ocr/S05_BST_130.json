@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_130",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/130_Orange Overflowing Burst.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE OVERFLOWING BURST @) R130.\nae",
+   "conf": 63.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "1,",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "cy ENERGY COMBAT\n\nUwe .\n\nA X Energy attack costing 1 stage.\nPrevent all damage from the next non-Styled\nattack your opponent performs this combat.\n\nDAMAGE: 4 life cards.\nHIT: Your opponent's non-Styled attacks deal\n| -2 life cards of damage this combat.\n(RF) e016 rant anaes ne riadiane vse ETT",
+   "conf": 78.3,
+   "n_words": 51
+  }
+ }
+}

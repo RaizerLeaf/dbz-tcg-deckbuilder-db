@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_28",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/28_Namekian Backflip.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN BACKFLIP ) 628",
+   "conf": 77.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n,\n,\n\n7\n37\n,\n,\n4",
+   "conf": 5.2,
+   "n_words": 8
+  },
+  "lower": {
+   "text": "ee PHYSICAL COMBAT\nVW Stops a physical attack.\nLower your opponents anger 1 level. You\nmay reveal the bottom card of your Life Deck. If\nthe revealed card was non-Styled, use a critical\ndamage effect.\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 81.0,
+   "n_words": 43
+  }
+ }
+}

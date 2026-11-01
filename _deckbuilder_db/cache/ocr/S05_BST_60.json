@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_60",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/60_Saiyan Skull Jab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SKULL JAB () C60",
+   "conf": 76.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n3,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "ee PHYSICAL COMBAT\nXX Physical attack.\nSearch your discard pile for a Styled Event\nand Rejuvenate it.\nDAMAGE: 3 life cards.\nHIT: Shuffle this card into your Life Deck.\n(RF emte ron anna ne pies meus ET",
+   "conf": 76.1,
+   "n_words": 37
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_122",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/122_Blue Restraint.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE RESTRAINT () R122",
+   "conf": 71.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "4\n4\n4\n,\n5,\n2,",
+   "conf": 13.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "(Age =VENT\nWY\n=~ POWER: You may search your Life Deck\nfor up to 3 Allies and banish them. Destroy\nthe top X cards of your opponent's Life Deck.\nX = the number of Allies in your Banished Zone.\n(Banish after use.)",
+   "conf": 91.4,
+   "n_words": 42
+  }
+ }
+}

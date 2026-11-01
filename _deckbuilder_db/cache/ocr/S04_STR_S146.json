@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S146",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S146_Red Jump Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED JUMP KICK ©) sis\neee a",
+   "conf": 60.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1",
+   "conf": 42.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT fR-A}\n* Physical attack.\nDAMAGE: AT +2 stages.\nHIT: Lower both players’ MPs one\npersonality level.\n(Banish after use.)",
+   "conf": 89.2,
+   "n_words": 21
+  }
+ }
+}

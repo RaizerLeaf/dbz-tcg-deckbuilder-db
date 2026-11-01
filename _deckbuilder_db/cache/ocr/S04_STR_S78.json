@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S78",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S78_Blue Round Throw.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE ROUND THROW",
+   "conf": 96.0,
+   "n_words": 3
+  },
+  "stages": {
+   "text": ",\n2\n,\n7",
+   "conf": 0.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT R\n( ®@,\n(You may play this card to stop an\nenergy attack instead of as an attack.)\n*« Physical attack.\nLower your opponent's anger 1 level.\nDAMAGE: AT +5 stages.\n\nLEP) rorsrsantanuiea ue rinetinmeusn «EEE",
+   "conf": 79.7,
+   "n_words": 38
+  }
+ }
+}

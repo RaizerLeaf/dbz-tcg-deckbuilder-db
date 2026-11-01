@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S127",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S127_Orange Stare Down.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE STARE DOWN $127\nViz -/) of peor",
+   "conf": 62.5,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "2\n3\n,\n,",
+   "conf": 25.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "* Energy attack costing 2 stages.\nBanish an opponent's Setup, Drill or Ally.\nDAMAGE: 4 life cards.\nCor",
+   "conf": 90.5,
+   "n_words": 18
+  }
+ }
+}

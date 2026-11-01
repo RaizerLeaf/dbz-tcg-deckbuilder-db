@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S44",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S44_Black Enraged Assault.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ENRAGED ASSAULT () $44",
+   "conf": 83.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "| \\ l ) >HYSICAL COMBAT fra_R}\nCOTS * Physical attack. |\nDAMAGE: 3 stages +3 life cards.\n\nHIT: Choose a card in your opponent's Banished\nZone. Search your opponent's Life Deck for all\ncopies of that card and banish them.\n\nSS © 2015 Panini America, tnc. Printed in the USA. [PAMIMI |",
+   "conf": 84.3,
+   "n_words": 53
+  }
+ }
+}

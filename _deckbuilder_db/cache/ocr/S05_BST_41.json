@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_41",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/41_Orange Planned Block.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE PLANNED BLOCK C) C41\n4",
+   "conf": 69.3,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n7\n,\n7 7",
+   "conf": 11.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "| ee PHYSICAL COMBAT\niy :\nSe 'Y Stops a physical attack.\nIf you do not control a Drill, search your Life\nDeck for a Driil and play it.\n(RF) e016 rant anaes ne riadiane vse ETT",
+   "conf": 69.4,
+   "n_words": 37
+  }
+ }
+}

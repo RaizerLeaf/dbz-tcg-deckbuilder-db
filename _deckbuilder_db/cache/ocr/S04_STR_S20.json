@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S20",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S20_Orange Adept Mastery.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "rr a\n>” 2 =\na + p\nek — ‘",
+   "conf": 21.0,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n,\n1",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "oo: Your attacks deal +1 stage of damage.\nAfter your MP advances a level, search your\ndiscard pile for a Drill and Rejuvenate it.\n$ POWER: Use after performing a successful\nStyled attack. That attack gains “HIT: If you\ncontrol 2 or less Drills, search your Life Deck for\na Styled oo Drill and place it into play.”\nMASTERY\n(2 PANINI (ey)\nQ 7 © 2015 Panini America, Inc. Pristed inthe USA. TOC ANIMATION",
+   "conf": 83.5,
+   "n_words": 74
+  }
+ }
+}

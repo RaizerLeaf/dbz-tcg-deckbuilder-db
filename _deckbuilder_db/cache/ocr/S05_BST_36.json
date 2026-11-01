@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_36",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/36_Orange Observing Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE OBSERVING DRILL () C36",
+   "conf": 75.6,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "z = hoe : .\nco: While your MP is level 3 or lower, players cannot\n3 Rejuvenate. Banish this Drill whenever one of your\ng other Styled Drills leaves play.\n3 |\n3\n2 | | |",
+   "conf": 77.1,
+   "n_words": 38
+  }
+ }
+}

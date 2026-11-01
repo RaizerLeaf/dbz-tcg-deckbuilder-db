@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S123",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S123_Orange Rage.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE RAGE ) $123 |\nFI Pints",
+   "conf": 70.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7,\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(<q) aS ea 1)\n* Energy attack costing 2 stages\nRaise your anger 2 levels.\nDAMAGE: 5 life cards.\nCr",
+   "conf": 73.0,
+   "n_words": 20
+  }
+ }
+}

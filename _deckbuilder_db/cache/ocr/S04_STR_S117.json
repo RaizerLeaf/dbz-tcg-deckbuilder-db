@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S117",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S117_Orange Launcher.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE LAUNCHER _ $117",
+   "conf": 71.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n3\n\n4\n,",
+   "conf": 14.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "\\ 1) PHYSICAL COMBAT (ren)\nome * Physical attack.\nYou may use a critical damage effect.\nDAMAGE: 3 life cards.\ney) |",
+   "conf": 77.0,
+   "n_words": 22
+  }
+ }
+}

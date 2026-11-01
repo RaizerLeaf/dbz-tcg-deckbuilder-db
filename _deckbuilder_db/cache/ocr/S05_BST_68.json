@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_68",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/68_Yamcha - Happy.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "GA YAMCHA\nLEVEL HAPPY () U68\nTT VV Wii",
+   "conf": 53.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "250,000\n230,000\n210,000\n190,000\n170,000\n150,000\n130,000\n110,000\n90,000\n70,000",
+   "conf": 76.8,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "| og are 110,000\n£4\ni Ze] 90,000\n\\. rT —/? 70,000\n0\noo: Your attacks cost -3 stages (to _\na minimum of 0) and deal +3 life (ey)\ncards of damage. FOEL ANIMATION\nPOWER: X Energy attack. rumen\nDAMAGE: 4 life cards. bee",
+   "conf": 71.3,
+   "n_words": 45
+  }
+ }
+}

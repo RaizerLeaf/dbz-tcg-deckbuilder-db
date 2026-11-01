@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_128",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/128_Orange Hoping Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE HOPING DRILL () R128",
+   "conf": 77.4,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "as\nco: Your attacks deal +1 stage of damage. Whenever\n3 you play a card with “Sword” in the title, destroy the\ng top card of your opponent's Life Deck.\n3 |\nQ\n2 | | |",
+   "conf": 84.7,
+   "n_words": 37
+  }
+ }
+}

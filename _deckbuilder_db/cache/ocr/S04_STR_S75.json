@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S75",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S75_Blue Head Knock.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE HEAD KNOCK )\n——————————————————",
+   "conf": 57.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n7\n0,",
+   "conf": 34.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(J PHYSICAL COMBAT (Ron\nSoup * Physical Attack. es\nLower your opponent's anger to 0.\nDAMAGE: 5 life cards.\nLEP) rorsraantanuiea ue rinwainmeusn —- EEE",
+   "conf": 62.2,
+   "n_words": 25
+  }
+ }
+}

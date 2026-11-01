@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S81",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S81_Namek Dragon Ball 6.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ea,\nNAMEK DRAGON BALL 6 €) $81",
+   "conf": 81.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ", 4\n,",
+   "conf": 20.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i (inal\ncf DRAGON BALL .\n| oo Your MP’s PUR is +3. Your opponent's\nattacks deal -2 stages of damage.\nSP mam = |",
+   "conf": 70.4,
+   "n_words": 25
+  }
+ }
+}

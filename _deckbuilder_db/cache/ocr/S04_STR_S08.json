@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S08",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S08_Goku - Calm.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "GOKU t * $9\nFE] co J\nSSS) a",
+   "conf": 45.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,100,000\n1,000,000\n900,000\n800,000\n700,000\n600,000\n300,000\n150,000\n75,000\n37,500\n\n0",
+   "conf": 57.5,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "f | eee\n| & \\_ 75,000\n= \\ a » ~ Ad 3 7 7] 5 8) 0\n— ( R . R| 2 0\nPOWER: x Energy attack.\nYou may search your Life Deck or discard TOEI ANIMATION\npile for an Ally and play it. That Ally can FUNIMATION\nmake actions regardless of your MP’s power\nstage this combat.\nDAMAGE: 6 life cards.\nHIT: If your next attack this combat is",
+   "conf": 81.2,
+   "n_words": 73
+  }
+ }
+}

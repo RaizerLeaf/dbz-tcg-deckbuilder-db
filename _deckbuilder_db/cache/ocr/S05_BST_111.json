@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_111",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/111_Aggressive Sword Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "_ if 1 do™\nAGGRESSIVE SWORD DRILL r R111 |",
+   "conf": 58.3,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "j P : co: Your Named attacks cannot have their damage prevented.\n* POWER: Use when entering combat. If you have not searched\n— «(| your Life Deck this turn, search your Life Deck for a card with\n“Sword” in the title and place it into your hand.",
+   "conf": 89.2,
+   "n_words": 48
+  }
+ }
+}

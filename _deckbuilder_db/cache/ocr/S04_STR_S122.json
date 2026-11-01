@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S122",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S122_Orange Quick Dodge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE QUICK DODGE ) $122 |\naie eae -—:,",
+   "conf": 63.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n,\n\n1,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @R_ AR}\nv Stops a physical attack.\nGain 5 stages. Prevent 1 stage of damage from\nall of your opponent's attacks this combat.\nCor",
+   "conf": 84.3,
+   "n_words": 26
+  }
+ }
+}

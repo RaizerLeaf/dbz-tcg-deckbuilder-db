@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S15",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S15_Namekian Restored Mastery (Frozen).png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "> oN ah.",
+   "conf": 54.7,
+   "n_words": 3
+  },
+  "stages": {
+   "text": "2\n,\n0\n,\n,",
+   "conf": 16.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "> * POWER: Use at the end of the turn. Reveal\nthe bottom card of your Life Deck. If that card\n\n‘ is Styled or a Dragon Ball, you may place it into\n\nyour hand. If you do, place a card from your hand\n\n; on the top or bottom of your Life Deck.\nPOWER: Raise your anger 2 levels. You may\n\nN discard a Dragon Ball or Styled card from your\n\ny hand to shuffle your Life Deck and draw a card.\n\n\\\n\n2 ey)",
+   "conf": 90.0,
+   "n_words": 86
+  }
+ }
+}

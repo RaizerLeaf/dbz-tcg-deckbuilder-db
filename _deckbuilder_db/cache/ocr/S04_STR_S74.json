@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S74",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S74_Blue Fist Catch.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE FIST CATCH () 3/4",
+   "conf": 73.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n,\n1,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(=) PHYSICAL COMBAT (2 A\nYoun w Stops a physical attack. ll\nLower your opponent's anger 1 level.\n\nLEP) rorsraantanuiea ue rinwainmeusn —- EEE",
+   "conf": 58.7,
+   "n_words": 24
+  }
+ }
+}

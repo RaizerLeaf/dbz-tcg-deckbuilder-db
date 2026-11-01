@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S86",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S86_Namekian Crushing Slam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CRUSHING SLAM © ») S86\nlh an »",
+   "conf": 68.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "6\n4\n,",
+   "conf": 6.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i — ) PHYSICAL COMBAT (R-R|\nom * Physical attack.\nShuffle the top 2 cards from your discard pile\ninto your Life Deck.\nDAMAGE: AT +3 stages.\n(Banish after use.)\ni eedenteenentnenREENIententeeEEEEnEteeieenell\n©",
+   "conf": 78.1,
+   "n_words": 33
+  }
+ }
+}

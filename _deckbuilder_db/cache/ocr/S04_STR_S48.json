@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S48",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S48_Black Hair Trap.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK HAIR TRAP () $48\nlf Ww f/f -~ * Dieamdéanit we 4 Oe",
+   "conf": 53.7,
+   "n_words": 14
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "| PHYSICAL COMBAT (R_R}\n* Physical attack. |\nDAMAGE: 3 +X stages. X = the number of\ndifferent card types in your opponent's\nBanished Zone.\n(Banish after use.)\nSS © 2015 Panini America, inc. Printed in the USA. [PANINI",
+   "conf": 82.8,
+   "n_words": 39
+  }
+ }
+}

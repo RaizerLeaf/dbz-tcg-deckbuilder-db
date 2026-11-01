@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_31",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/31_Namekian Heel Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN HEEL KICK ) 631 |",
+   "conf": 75.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n4",
+   "conf": 40.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(use. PHYSICAL COMBAT (@=3)-\n= XX Physical attack. Sour\nGain 5 stages.\nDAMAGE: 4 life cards.\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 60.0,
+   "n_words": 24
+  }
+ }
+}

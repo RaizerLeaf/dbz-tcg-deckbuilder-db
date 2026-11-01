@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S39",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S39_Black Blinding Burst.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK BLINDING BURST () $39\nA << aa, «ll fl y |",
+   "conf": 63.8,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2\n7\n21,",
+   "conf": 32.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(ae) SN=eRGY COMBAT (@=e)\n* Energy attack costing 2 stages “TTS”\nRaise your anger 1 level.\nDAMAGE: 5 life cards.\nSS © 2015 Panini America, inc. Printed in the USA. [PANINI",
+   "conf": 72.5,
+   "n_words": 31
+  }
+ }
+}

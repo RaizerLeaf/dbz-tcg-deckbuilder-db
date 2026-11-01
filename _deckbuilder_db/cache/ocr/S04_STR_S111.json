@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S111",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S111_Orange Energy Absorption.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY ABSORPTION @ =) S111\nie agit",
+   "conf": 55.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 22.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Qa Eeua\\ 1\nw Stops an energy attack. om\nGain 5 stages. Raise your anger 1 level.\n(Banish after use.)\nCr",
+   "conf": 76.5,
+   "n_words": 21
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S109",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S109_Orange Cover Up.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE COVER UP ) $109 |\na — —— oe a",
+   "conf": 60.3,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",\n,\n1",
+   "conf": 17.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i 1) PHYSICAL COMBAT (ren)\nome Stops a physical attack.\nAlso stops a physical attack in your\nopponent's next action.\n(ey) |",
+   "conf": 75.6,
+   "n_words": 22
+  }
+ }
+}

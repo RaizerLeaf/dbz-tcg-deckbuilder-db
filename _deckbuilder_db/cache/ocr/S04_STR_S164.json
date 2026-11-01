@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S164",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S164_Saiyan Gut Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN GUT KICK ¢) si64\npec: GAO .. ..Cl- fete",
+   "conf": 44.6,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n4\n,",
+   "conf": 14.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R-A}\n* Physical attack.\nYour opponent skips his next action\nthis combat.\nDAMAGE: AT +4 stages.",
+   "conf": 89.2,
+   "n_words": 18
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S13",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S13_Piccolo - Ferocious.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "PICCOLO Pye.\n1 FEROCIOUS od S13 ;",
+   "conf": 51.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "1,025,000\n925,000\n825,000\n7725,000\n625,000\n425,000\n325,000\n225,000\n125,000\n25,000\n\n0",
+   "conf": 44.1,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "125,000\nPOWER: x Physical attack. Cc)\nDAMAGE: 7 stages.\nHIT: You may return a Dragon Ball you\ncontrol to its owner's hand. If you do,\ncapture a Dragon Ball.\n\n© 2015 Panini America, Inc.\n\nPrinted im the USA.\n©B.S./S. , T.A. LC by FUN.",
+   "conf": 90.4,
+   "n_words": 44
+  }
+ }
+}

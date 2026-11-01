@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S43",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S43_Black Energy Web.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ENERGY WEB ) $43\n—— tis CO —« 9",
+   "conf": 55.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4\n2\n,",
+   "conf": 28.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ReR ENERGY COMBAT\n\\ >)\nx Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Your opponent cannot perform energy attacks\nfor the remainder of combat.\n; ey) ® 2015 Panini America, Inc. Prittted in the USA. PANINI",
+   "conf": 82.2,
+   "n_words": 39
+  }
+ }
+}

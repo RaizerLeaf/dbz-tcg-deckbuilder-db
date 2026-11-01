@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_48",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/48_Red Inferno.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED INFERNO C) C48",
+   "conf": 40.2,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Awe =\n- (You may only have one\n“Red Inferno” attached.)\n\nPOWER: Draw a card. Attach to your MP. While\nattached, whenever one of your card effects\nbanishes or reveals a card from your hand you may\nuse a Critical damage effect. Banish this card when\nyour opponent deals critical damage.\n\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 84.2,
+   "n_words": 57
+  }
+ }
+}

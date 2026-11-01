@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_100",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/100_Saiyan Sword Skill (CRD).png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SWORD SKILL > vio0\nJAA wees.",
+   "conf": 69.6,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,",
+   "conf": 17.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "5 EVENT\n\npS (Limit 1 per deck.)\nPOWER: Draw a card. If that card has “Sword” in\n\nthe title, you may reveal it. If you do, your opponent's\n\nMP loses 5 stages. Attach to your MP. While\nattached, your attacks gain “HIT: Your opponent\nskips their next action this combat.” Banish this\ncard when you deal critical damage.\n\\ ei Par",
+   "conf": 89.2,
+   "n_words": 61
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_02",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/02_Debilitating Volley.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "DEBILITATING VOLLEY » (2 |\n3! Re a . \\w wert wr\" y",
+   "conf": 49.6,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "4\n2\n,\n\n,\n,\n1,",
+   "conf": 14.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "Se (This card is considered Styled.)\nEnergy attack costing 1 stage.\nLower your opponent's anger 1 level.\nDAMAGE: 3 stages +3 life cards.",
+   "conf": 91.7,
+   "n_words": 23
+  }
+ }
+}

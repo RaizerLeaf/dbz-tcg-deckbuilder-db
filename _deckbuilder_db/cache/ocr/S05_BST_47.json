@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_47",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/47_Red Chest Pierce.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED CHEST PIERCE €) 047",
+   "conf": 82.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "1\n0",
+   "conf": 19.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(A@@S PHYSICAL COMBAT\npS: XX Physical attack.\nYou may banish up to 3 cards from your\ndiscard pile.\nDAMAGE: 4 stages.\nHIT: Banish all non-Styled cards in your opponent's\ndiscard pile and then banish all non-Styled cards in\nyour discard pile.\n(Banish after use.)\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 81.8,
+   "n_words": 50
+  }
+ }
+}

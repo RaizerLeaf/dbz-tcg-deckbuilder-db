@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_51",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/51_Red Tandem Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED TANDEM BLAST 2) 051\n——__—A.",
+   "conf": 67.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n2\n3\n2\n,",
+   "conf": 5.2,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "up ENERGY COMBAT\nA X Energy attack costing 1 stage.\nYou may lower your anger 2 levels or lower\nyour MP 1 level. if you do either of them, your\nopponent cannot play non-Styled cards this combat.\nDAMAGE: 4 life cards.\nee\npF 2016 Porm Amenca. eo Pantesie we usa EEE",
+   "conf": 79.4,
+   "n_words": 51
+  }
+ }
+}

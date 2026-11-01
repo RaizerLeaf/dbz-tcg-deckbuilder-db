@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S12",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S12_Piccolo - Anticipating.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "PICCOLO Pye.\nae Si2\nANTICIPATING £\n~~ ea",
+   "conf": 54.2,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "775,000\n,575,000\n375,000\n175,000\n75,000\n50,000\n25,000\n10,000\n5,000\n1,000\n\n0",
+   "conf": 71.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "= 5,000\n( a1 —_—_—_—X—\"_—a___\na a a\nPOWER: x Physical attack. Cc\nAt the end of combat, you may search your\nLife Deck for a Styled card and place it on\nthe top or bottom of your Life Deck.\nDAMAGE: AT +4 stages.\n© 2015 Panini America, Inc.\nPrinted im the USA.\n©BS./S. , TA. LC by FUN.",
+   "conf": 85.9,
+   "n_words": 59
+  }
+ }
+}

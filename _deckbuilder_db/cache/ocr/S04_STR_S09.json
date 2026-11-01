@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S09",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S09_Goku - Dashing.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "fs GOKU « * ;\n[+ DASHING 2 39",
+   "conf": 41.2,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "1,850,000\n1,750,000\n1,650,000\n1,400,000\n1,150,000\n900,000\n650,000\n400,000\n150,000\n75,000\n\n0",
+   "conf": 52.1,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "—~ Slr J / Ss q Ne s ES es SS\nOe 9 iN t / 150,000\n~ A y\n\nZz nf 75,000\nafc :\n\nPOWER: Search your Life Deck, discard pile,\n\nor Banished Zone for an Ally and place it Sain\ninto play at its highest power stage. Choose eatin\none of your Allies in play. For the remainder\nof combat, that Ally may make actions\nregardless of your MP’s power stage and\nattacks performed by that Ally deal +4 life\ncards of damage.",
+   "conf": 75.9,
+   "n_words": 85
+  }
+ }
+}

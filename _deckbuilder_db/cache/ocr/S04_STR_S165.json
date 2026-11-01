@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S165",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S165_Saiyan Headbutt.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN HEADBUTT () $165\norm \\). Sw he. BS",
+   "conf": 54.1,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n, ,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT §R-R}\n* Physical attack.\nDAMAGE: 4 stages +4 stages for each copy\nof Saiyan Headbutt in your discard pile and\nBanished Zone.",
+   "conf": 90.5,
+   "n_words": 24
+  }
+ }
+}

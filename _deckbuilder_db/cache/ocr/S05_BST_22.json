@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_22",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/22_Blue Overcharge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE OVERCHARGE — @) 6:22.",
+   "conf": 63.2,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n7\n3\n,",
+   "conf": 19.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Age EVENT\nWY\n, w POWER: Prevent 3 life cards and 3\nstages of damage from an attack.\nDraw a card.\n(Ry) csr Patni ie itesn nek | ETT",
+   "conf": 65.6,
+   "n_words": 29
+  }
+ }
+}

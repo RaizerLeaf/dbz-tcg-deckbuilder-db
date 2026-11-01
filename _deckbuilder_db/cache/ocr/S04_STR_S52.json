@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S52",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S52_Black Lightning Storm.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK LIGHTNING STORM ) $62\n_ .tCS~N”~C~NtCO”SCN",
+   "conf": 62.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 25.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "ReR ENERGY COMBAT\n\\ ;\nll x Energy attack costing 2 stages.\nDAMAGE: 6 life cards.\nHIT: Your opponent plays with his hand revealed\nuntil the start of your next turn.\n; Ley ® 2015 Panini America, Inc. Printed in the USA. PANINI |",
+   "conf": 82.5,
+   "n_words": 44
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_124",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/124_Namekian Back Smash.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN BACK SMASH ) R124\nesi) | Ll Cs SS",
+   "conf": 53.5,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "4 1,\n\n4\n\n4\n347\n,\n,",
+   "conf": 34.1,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "i Agr PHYSICAL COMBAT\nXX Physical attack.\n\nAttach to your MP. While attached, your\nNamed cards are considered Styled for your effects.\nDAMAGE: AT +4 stages.\n\nHIT: Your MP gains 3 stages.\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 79.8,
+   "n_words": 40
+  }
+ }
+}

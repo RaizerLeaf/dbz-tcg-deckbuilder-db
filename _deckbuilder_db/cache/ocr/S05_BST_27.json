@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_27",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/27_Namekian Back Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN BACK KICK () C27\nOO {",
+   "conf": 57.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "ee PHYSICAL COMBAT\nXX Physical attack.\n\nThe next Styled physical attack you perform\nthis combat gains “HIT: You may use a critical\ndamage effect.” The next non-Styled physical attack\nyou perform this combat gains “HIT: You may use a\ncritical damage effect.”\n\nDAMAGE: 4 stages\n\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 84.2,
+   "n_words": 53
+  }
+ }
+}

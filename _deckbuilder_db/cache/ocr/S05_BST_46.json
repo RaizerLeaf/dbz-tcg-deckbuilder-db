@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_46",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/46_Red Capture.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED CAPTURE C) C46",
+   "conf": 65.8,
+   "n_words": 4
+  },
+  "stages": {
+   "text": ",\n37\n,\n10,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Aga PHYSICAL COMBAT\nYi Xe y\n- W Stops a physical attack.\nYour next attack this combat deals +X\nstages of damage. X = the number of cards in your\nBanished Zone, to a maximum of 10.\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 76.4,
+   "n_words": 43
+  }
+ }
+}

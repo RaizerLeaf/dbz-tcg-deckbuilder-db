@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_STR_S132",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S132_Red Tactical Drill.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "| aot\n-N 28\npe, 2A",
+   "conf": 44.8,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "co: Your opponent's effects cannot lower\nyour anger.\n: iva,\n; @\nZz",
+   "conf": 63.8,
+   "n_words": 13
+  }
+ }
+}

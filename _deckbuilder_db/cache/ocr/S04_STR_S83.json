@@ -1,0 +1,17 @@
+{
+ "card_id": "S04_STR_S83",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S83_Namekian Fusion.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "2h hz",
+   "conf": 35.5,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "POWER: Raise your MP to its highest power stage.\nDraw a card and reveal it to your opponent.\n| If that card is Styled, Rejuvenate 2.\n@ (Banish after use.)",
+   "conf": 93.9,
+   "n_words": 30
+  }
+ }
+}

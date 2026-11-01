@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S77",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S77_Blue Reprimand.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE REPRIMAND\nyon ———e",
+   "conf": 61.5,
+   "n_words": 4
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "—VONT\nPOWER: Return a Setup, Drill, or Dragon Ball in\nplay to its owner's hand.\nNo a\n(= (=)\n4\nA ee PAIR",
+   "conf": 69.5,
+   "n_words": 23
+  }
+ }
+}

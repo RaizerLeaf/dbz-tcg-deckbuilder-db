@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S173",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S173_Saiyan Scouting.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN SCOUTING () $173\nlO,",
+   "conf": 72.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "2\n0\n\n7\n\n8",
+   "conf": 27.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "= VN,\n\nPOWER: Choose up to two cards from your discard\npile and place them on the top of your Life Deck.\n(Banish after use.)\n\nR . R| (4)\n© 2015 Panini America, inc. Printed in the USA. [PANINI |",
+   "conf": 82.0,
+   "n_words": 40
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S139",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S139_Red Energ Outburst.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED ENERGY OUTBURST @® s139\nOe ee VN",
+   "conf": 60.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "4\n4\n,\n\n,\n,",
+   "conf": 0.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "(e-a)) ENERGY COMBAT ;\n* Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: If you have dealt critical damage this combat,\nraise your anger 2 levels.",
+   "conf": 86.7,
+   "n_words": 28
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "card_id": "S05_BST_05",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/05_Black Analysis.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ANALYSIS a C5 |\ni",
+   "conf": 68.7,
+   "n_words": 6
+  },
+  "lower": {
+   "text": "POWER: If you have destroyed cards from your\nz opponent's Life Deck this combat, destroy the\nzZ top 2 cards of your opponent's Life Deck. Your\n3 opponent draws a card. Place a Setup in play\n: | | on top of its owner's Life Deck.",
+   "conf": 89.7,
+   "n_words": 46
+  }
+ }
+}

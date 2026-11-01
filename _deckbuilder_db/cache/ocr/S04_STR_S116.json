@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S116",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S116_Orange Inspection.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE INSPECTION Ee) S116\na r\\ewhiiin aaa:",
+   "conf": 49.4,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "6",
+   "conf": 52.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "POWER: Destroy an opponent's Setup or Drill\nto draw a card.\n(Banish after use.)\ney",
+   "conf": 92.0,
+   "n_words": 15
+  }
+ }
+}

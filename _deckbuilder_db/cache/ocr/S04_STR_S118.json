@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S118",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S118_Orange Offensive Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE OFFENSIVE STRIKE @®) S118",
+   "conf": 75.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n0\n0,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "* Energy attack costing 1 stage.\nSearch your Life Deck for a copy of “Orange\nOffensive Strike” and place it into your hand.\nDAMAGE: 2 life cards.\n(Banish after use.)\ney",
+   "conf": 93.5,
+   "n_words": 31
+  }
+ }
+}

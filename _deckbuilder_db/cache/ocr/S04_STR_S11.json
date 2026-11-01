@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S11",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S11_Piccolo - Composed.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "PICCOLO \" KOT\nCOMPOSED od",
+   "conf": 51.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "104,000\n96,000\n48,000\n\n24,000\n6,000",
+   "conf": 96.0,
+   "n_words": 5
+  },
+  "lower": {
+   "text": "a re\nM we, sy, B\n(SFR azz\n\\ J ,\nUR \\\nco: Whenever you gain stages from a card C)\neffect, raise your anger 1 level. Whenever —\nyou Rejuvenate during combat, raise your\nanger 1 level.\n© 2015 Panini America, inc.\nPrinted im the USA.\n©B.S./S. , T.A. LC by FUN.",
+   "conf": 74.0,
+   "n_words": 54
+  }
+ }
+}

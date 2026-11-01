@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S142",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S142_Red Freezing Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED FREEZING BEAM 142\naw",
+   "conf": 70.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(reek) =EN=RGY COMBAT \\ L yy\n* Energy attack costing 2 stages <Q TW”\nYou may raise your anger 1 level. Search your\ndiscard pile or Banished Zone for a Drill and place\nit into play.\nDAMAGE: AT +2 stages.\n(Banish after use.)",
+   "conf": 86.0,
+   "n_words": 43
+  }
+ }
+}

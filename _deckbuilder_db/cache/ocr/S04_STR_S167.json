@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S167",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S167_Saiyan Light Jab.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN LIGHT JAB $167\nsb, YY ~*~",
+   "conf": 66.3,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7\n2",
+   "conf": 27.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "— ) PHYSICAL COMBAT §R-Al\nCOTS * Physical attack.\nDAMAGE: AT +4 stages.\nHIT: Shuffle this card back into your Life Deck.\niC) © 2015 Panini America, inc. Printed in the USA. | PAMIMI |",
+   "conf": 79.9,
+   "n_words": 35
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_108",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/108_Cell's Style.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "CELL'S STYLE » ) R108\n> \\ oa »",
+   "conf": 71.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "7\n,\n\n,\n3",
+   "conf": 18.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "g POWER: Search your opponent's Life\nDeck for a Named attack and play it. If you\nfailed to play a Named attack, destroy the top 3\ncards of your opponent's Life Deck and shuffle this\ncard into your Life Deck after use.\nOey) Oa s E Bone F Be Se @ (Es",
+   "conf": 79.5,
+   "n_words": 52
+  }
+ }
+}

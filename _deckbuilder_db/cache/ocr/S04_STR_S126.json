@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S126",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S126_Orange Saving Kick.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE SAVING KICK SW\n=a << \" a ne",
+   "conf": 49.8,
+   "n_words": 9
+  },
+  "stages": {
+   "text": "4\n,\n7\n,\n, ,\n2,",
+   "conf": 7.9,
+   "n_words": 7
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @R_R)\n* Physical attack.\nLower your opponent's anger 2 levels.\nDAMAGE: AT stages.\nHIT: Your opponent cannot gain anger\nthis combat.\n(ey) |",
+   "conf": 87.5,
+   "n_words": 25
+  }
+ }
+}

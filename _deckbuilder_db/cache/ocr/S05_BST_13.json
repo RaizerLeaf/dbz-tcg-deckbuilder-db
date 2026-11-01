@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_13",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/13_Black Sidestep.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SIDESTEP C) C13\nnrre-”—D— ae! ae —,",
+   "conf": 45.4,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Ags, ENERGY COMBAT\nWey\nW Stops an energy attack.\nIf your opponent controls 2 or more Dragon\nBalls, you may capture a Dragon Ball.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 73.8,
+   "n_words": 31
+  }
+ }
+}

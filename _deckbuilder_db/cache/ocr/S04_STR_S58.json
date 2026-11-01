@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S58",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S58_Black Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK STRIKE | ) $58",
+   "conf": 86.8,
+   "n_words": 5
+  },
+  "stages": {
+   "text": ",\n7\n4\n, ,\n4 4\n,\n,",
+   "conf": 12.7,
+   "n_words": 9
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT R R 7\n( ®@,\nx Physical attack.\nChoose a random card from your opponent's\nhand. Your opponent shuffles that card into his\nLife Deck and draws a card.\nDAMAGE: AT +4 stages.\n\n; ey) ® 2015 Panini America, Inc. Printed in the USA. PANINI |",
+   "conf": 84.8,
+   "n_words": 48
+  }
+ }
+}

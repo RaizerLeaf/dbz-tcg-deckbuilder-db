@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_102",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/102_Master Roshi's Back Strike.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "MASTER ROSHI'S BACK STRIKE @ ) R102\nmd VinbgGes Zn ea Bow vw",
+   "conf": 51.1,
+   "n_words": 13
+  },
+  "stages": {
+   "text": "7",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "4 (Limit 2 per deck.)\nX Physical attack.\nYou may search your Life Deck for a card and place it\ninto your hand.\nDAMAGE: AT +1 stage.\nHIT: Gain 10 stages.\n(Banish after use.)",
+   "conf": 92.2,
+   "n_words": 34
+  }
+ }
+}

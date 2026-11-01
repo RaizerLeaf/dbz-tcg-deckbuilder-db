@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S66",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S66_Blue Face Crunch.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE FACE CRUNCH ) S66 |\nYD",
+   "conf": 80.7,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n\n,\n1,\n\n,",
+   "conf": 12.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ">HYSICAL COMBAT rer} |\n* Physical attack.\nGain 3 stages. Look at your opponent's hand.\nDAMAGE: AT +5 stages.\n|\nLy ; |\nGAS eR em rane)",
+   "conf": 74.0,
+   "n_words": 27
+  }
+ }
+}

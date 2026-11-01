@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S152",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S152_Red Shattering Leap.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED SHATTERING LEAP @ s12\nll a >",
+   "conf": 63.1,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",\n,\n,\n\n2",
+   "conf": 4.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "I PHYSICAL COMBAT §R-A}\n* Physical attack costing 1stage. —\nDAMAGE: AT +4 stages.\nHIT: This attack stays in play to be used a second\ntime this combat.",
+   "conf": 84.2,
+   "n_words": 28
+  }
+ }
+}

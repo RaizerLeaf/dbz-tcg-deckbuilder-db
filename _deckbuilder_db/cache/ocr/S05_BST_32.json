@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_32",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/32_Namekian Resistance.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN RESISTANCE ) 632 |\n> if ~~ aT oe",
+   "conf": 49.0,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "7\n,\n\n2\n,",
+   "conf": 3.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(aes EN=EAGY COMBAT |\n: Stops an energy attack.\nYou may use the immediate effects of a\nDragon Ball in play. If you do, your opponent may\nuse the immediate effects of a Dragon Ball in play.\nWd\n(Ry) oie thon te iain isk! ETT",
+   "conf": 81.1,
+   "n_words": 45
+  }
+ }
+}

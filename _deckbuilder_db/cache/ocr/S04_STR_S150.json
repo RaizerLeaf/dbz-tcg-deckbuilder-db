@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S150",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S150_Red Power Punch.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED POWER PUNCH ) $150\nRif * le",
+   "conf": 68.8,
+   "n_words": 8
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "\\ = ) PHYSICAL COMBAT §r-R}\nCOTS” * Physical attack.\nDAMAGE: AT +3 stages.\nHIT: Search your Life Deck for a Styled Drill and\nplace it into play.",
+   "conf": 87.4,
+   "n_words": 28
+  }
+ }
+}

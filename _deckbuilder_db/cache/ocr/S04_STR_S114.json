@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S114",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S114_Orange Excavation.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "pan eae, Oe, en mNNN Va iy. M,\nORANGE EXCAVATION () $114",
+   "conf": 40.5,
+   "n_words": 12
+  },
+  "stages": {
+   "text": "2\n,\n,",
+   "conf": 13.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "POWER: Rejuvenate 3 Drills from your discard pile.\nDraw the bottom card of your discard pile.\n(Banish after use.)\ney)",
+   "conf": 93.8,
+   "n_words": 20
+  }
+ }
+}

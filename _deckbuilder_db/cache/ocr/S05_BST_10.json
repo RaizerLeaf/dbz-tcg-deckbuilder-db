@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_10",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/10_Black Enraged Outburst.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK ENRAGED ouTeurst¢ ) C10\naus i iiwewmvemeer | «",
+   "conf": 55.2,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "(Age, ENERGY COMBAT\n\nWy\n\nX Energy attack costing 2 stages.\n\nIf your anger level is 2 or lower, raise your\nanger 2 levels.\nDAMAGE: 4 life cards.\n\nHIT: Switch anger levels with your opponent.\n\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 78.2,
+   "n_words": 41
+  }
+ }
+}

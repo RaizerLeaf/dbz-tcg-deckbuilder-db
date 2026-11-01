@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S134",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S134_Red Blazing Aura.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED BLAZING AURA @® sis4\nja yr Xi?) © =z",
+   "conf": 54.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "= Ve,\n\nPOWER: Raise your anger 1 level. For the\nremainder of combat, your opponent's attacks deal\n-3 stages and -3 life cards of damage.\n(Banish after use.)\n\nRR}",
+   "conf": 85.4,
+   "n_words": 29
+  }
+ }
+}

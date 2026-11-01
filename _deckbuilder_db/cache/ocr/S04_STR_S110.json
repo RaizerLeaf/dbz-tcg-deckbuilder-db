@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S110",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S110_Orange Distracting Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE DISTRACTING BEAM @=) S110\nWY OS) “Qa FR OSE",
+   "conf": 60.8,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n5 ,\n\n,\n12\n4 42\n\n52\n4\n,",
+   "conf": 7.2,
+   "n_words": 10
+  },
+  "lower": {
+   "text": "* Energy attack costing 2 stages.\nChoose a Styled card in your discard pile and\nplace it on top of your Life Deck.\nDAMAGE: 5 life cards.\n(Banish after use.)\ney)",
+   "conf": 93.1,
+   "n_words": 31
+  }
+ }
+}

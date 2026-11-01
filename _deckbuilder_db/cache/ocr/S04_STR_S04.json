@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S04",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S04_Trunks - Overpowering.png",
+ "scale": 1.49,
+ "regions": {
+  "header": {
+   "text": "ya TRUNKS ,\nNaya OVERPOWERING N f\nOP a Re\n. ~_-. 7 Oks — 4a eee ee ae a.",
+   "conf": 43.1,
+   "n_words": 20
+  },
+  "stages": {
+   "text": "1,700,000\n1,600,000\n1,500,000\n1,400,000\n1,300,000\n1,200,000\n1,100,000\n1,000,000\n500,000\n250,000\n\n0",
+   "conf": 50.8,
+   "n_words": 11
+  },
+  "lower": {
+   "text": "a 500,000\n| jesse I ma\n#f \\ 250,000\nR_ RI\n. gy ~_\nco: Your attacks deal +5 stages of damage.\nery\nTOETANTMATION\nFuNIMATION",
+   "conf": 57.6,
+   "n_words": 25
+  }
+ }
+}

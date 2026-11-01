@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S136",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S136_Red Burning Stance.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED BURNING STANCE 5136\nar. wm",
+   "conf": 64.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "05",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT 7\nx Physical attack. =\nRaise your anger 1 level.\nDAMAGE: AT stages.\nHIT: Banish a Setup or Drill.",
+   "conf": 87.1,
+   "n_words": 21
+  }
+ }
+}

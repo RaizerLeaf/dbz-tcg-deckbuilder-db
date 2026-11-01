@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_07",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/07_Black Destructive Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK DESTRUCTIVE BeAM¢ ) C7\n. quanta: 9 x",
+   "conf": 47.7,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ", 2\n,\n,",
+   "conf": 3.2,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Ags =ENEAGY COMBAT\nWy\nA Energy attack costing 1 stage.\nRaise your anger 1 level. You may choose\na Setup, Drill, or Ally in play and banish it. At the\nend of combat, place that card into play under its\nowner's control from the Banished Zone.\nDAMAGE: 3 life cards.\n(EP) csr raetoni we inetnn uta ETE",
+   "conf": 83.8,
+   "n_words": 57
+  }
+ }
+}

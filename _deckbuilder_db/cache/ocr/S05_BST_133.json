@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_133",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/133_Red Aerial Assault.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED AERIAL ASSAULT C) R133\nKX“ Sf Jf Gn e223",
+   "conf": 62.3,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "2\n3\n1",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i Agr PHYSICAL COMBAT\naf X Physical attack.\nThe next time you reveal a card from your\nhand this combat, you may raise your anger\n2 levels.\nDAMAGE: AT +3 stages.\nHIT: Damage from your attacks cannot be prevented\nthis combat.\nre\n\npF 2016 Porm Amenca. eo Pantesie we usa EEE",
+   "conf": 79.6,
+   "n_words": 51
+  }
+ }
+}

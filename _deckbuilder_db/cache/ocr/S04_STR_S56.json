@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S56",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S56_Black Speedy Dodge.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLACK SPEEDY DODGE ) $56\n” 4 yy =",
+   "conf": 71.3,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(aoe) ENERGY COMBAT\nv Stops an energy attack.\nYou may discard a card from your hand. If you\ndo, your opponent discards a card from his hand.\nSS © 2015 Panini America, inc. Printed in the USA. [PAMIMI |",
+   "conf": 83.1,
+   "n_words": 39
+  }
+ }
+}

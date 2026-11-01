@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S143",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S143_Red Frenzied Blasts.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED FRENZIED BLASTS 143\nys php 6, gS SP Wap",
+   "conf": 56.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": ",\n,\n,",
+   "conf": 0.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(roa) ENERGY COMBAT\n* Energy attack costing 2 stages.\nDAMAGE: 4 life cards.\nHIT: Raise your anger 2 levels.",
+   "conf": 86.4,
+   "n_words": 19
+  }
+ }
+}

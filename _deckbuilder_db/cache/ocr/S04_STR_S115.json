@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S115",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S115_Orange Extension.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "Y Newt:",
+   "conf": 59.5,
+   "n_words": 2
+  },
+  "stages": {
+   "text": "4\n,\n,",
+   "conf": 13.7,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT @R_R)\n* Physical attack.\nIf you have performed another physical\nattack from your hand this combat, search your\nLife Deck for a Styled Drill and play it.\nDAMAGE: AT +2 stages.\n(Banish after use.)\ney)",
+   "conf": 91.0,
+   "n_words": 37
+  }
+ }
+}

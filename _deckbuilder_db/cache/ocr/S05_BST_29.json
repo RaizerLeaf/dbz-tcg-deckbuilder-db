@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_29",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/29_Namekian Chest Explosion.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN CHEST EXPLOSION () C29",
+   "conf": 78.0,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "5\n\n7\n,\n,",
+   "conf": 17.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| ‘Sep ENERGY COMBAT\nNS.\nA XX Energy attack costing 2 stages.\nSearch your Life Deck or discard pile for a\nSaiyan Ally and play it.\nDAMAGE: 5 +X life cards. X = the number of\nSaiyan personalities in play.\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 79.6,
+   "n_words": 48
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S140",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S140_Red Energy Shield.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED ENERGY SHIELD ¢) s1a0\nre, ee ee",
+   "conf": 57.0,
+   "n_words": 8
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "Q@a-R) ENERGY COMBAT”\nwv Stops an energy attack.\nRaise a personality to their highest\npower stage.\n(Banish after use.)",
+   "conf": 81.9,
+   "n_words": 19
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_135",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/135_Red Downward Burst.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED DOWNWARD BURST >) R135\na | — 0 a a",
+   "conf": 53.8,
+   "n_words": 11
+  },
+  "stages": {
+   "text": ",",
+   "conf": 0.0,
+   "n_words": 1
+  },
+  "lower": {
+   "text": "(@@5 ENEAGY COMBAT\n\nYi Ke y\n\n- X% Energy attack costing 2 stages.\nRaise your anger 1 level. You may lower\nyour anger 3 levels to search your discard pile or\nBanished Zone for a card that can attach to an MP\nand place it into play attached.\nDAMAGE: 5 life cards.\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 82.3,
+   "n_words": 58
+  }
+ }
+}

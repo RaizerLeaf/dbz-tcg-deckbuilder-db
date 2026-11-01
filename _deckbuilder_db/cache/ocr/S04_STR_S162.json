@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S162",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S162_Saiyan Evasion.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN EVASION ) $162.\nTXT ST SERRE S.A ASSES WR UY OR £3 te LW\n— ra",
+   "conf": 44.3,
+   "n_words": 17
+  },
+  "stages": {
+   "text": "4\n,\n\n,\n,",
+   "conf": 3.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "PHYSICAL COMBAT fR-A}\nwv Stops a physical attack.\nSearch your discard pile for a card with\nEndurance and Rejuvenate it.",
+   "conf": 87.2,
+   "n_words": 20
+  }
+ }
+}

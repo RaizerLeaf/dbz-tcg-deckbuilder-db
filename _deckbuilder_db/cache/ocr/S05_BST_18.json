@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_18",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/18_Blue Concentrated Blast.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE CONCENTRATED BLAST &) C18 |",
+   "conf": 67.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": "4\n5\n\n,\n\n1",
+   "conf": 13.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| er ENERGY COMBAT\n4 XX Energy attack costing 2 stages.\nRaise your anger 2 levels. Lower your\nopponent's anger 1 level.\nDAMAGE: 5 life cards.\n(RP) ears ran amines ne romeoinne usa ETT",
+   "conf": 71.5,
+   "n_words": 34
+  }
+ }
+}

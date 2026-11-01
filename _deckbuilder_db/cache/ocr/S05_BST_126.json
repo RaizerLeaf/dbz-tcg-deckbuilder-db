@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_126",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/126_Namekian Face Crush.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN FACE CRUSH ) R126.\n—e \\",
+   "conf": 66.9,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "7 ,\n347",
+   "conf": 27.0,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "i ‘gy PHYSICAL COMBAT\nXX Physical attack.\nReveal your hand.\nDAMAGE: 4 +X stages. X = the number of Dragon\nBalls you revealed.\nHIT: If your opponent prevented damage from this\nattack, draw a card.\n(Banish after use.)\n(Rep) e016 Panis amancs ne resin use, EET",
+   "conf": 81.3,
+   "n_words": 46
+  }
+ }
+}

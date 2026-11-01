@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S72",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S72_Blue Defensive Stance.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE DEFENSIVE STANCE () $72",
+   "conf": 80.6,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "8\n,2\n1,",
+   "conf": 23.3,
+   "n_words": 3
+  },
+  "lower": {
+   "text": "(« R ENERGY COmMaAT [Be\n4 g &\nw Stops an energy attack. ZT\nRaise or lower a player's anger 1 level.\n(ey) © 2015 Panini America, tac. Prieted in the USA. PAIN |",
+   "conf": 66.4,
+   "n_words": 34
+  }
+ }
+}

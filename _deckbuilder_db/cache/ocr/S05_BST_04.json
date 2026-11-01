@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_04",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/04_Villainous Energy Beam.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "VILLAINOUS ENERGY BEAM @)) C4\nitn ys",
+   "conf": 46.1,
+   "n_words": 7
+  },
+  "stages": {
+   "text": ",\n0\n,\n\n3,",
+   "conf": 5.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": ", 1 3\nLT (Villains only.) Moun\nEnergy attack costing 3 stages.\nLower your opponent's anger 3 levels.\nDamage from this attack is banished.\nDAMAGE: 6 life cards.\n(Banish after use.)",
+   "conf": 85.5,
+   "n_words": 31
+  }
+ }
+}

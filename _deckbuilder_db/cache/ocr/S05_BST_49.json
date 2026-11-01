@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_49",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/49_Red Interference.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "RED INTERFERENCE C) C49\nen a —_",
+   "conf": 59.0,
+   "n_words": 7
+  },
+  "stages": {
+   "text": "4\n,\n,\n,",
+   "conf": 14.5,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(@@5 ENEAGY COMBAT\nYi x y\n- W Stops an energy attack.\nYou may search your Banished Zone for a Styled\nattack and place it on the top of your discard pile.\n(Banish after use.)\n(EF) camterait amin ne iecinneuse ETT",
+   "conf": 76.2,
+   "n_words": 41
+  }
+ }
+}

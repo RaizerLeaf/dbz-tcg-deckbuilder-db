@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_42",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/42_Orange Tank Barrage.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE TANK BARRAGE (©) C42.",
+   "conf": 67.4,
+   "n_words": 5
+  },
+  "stages": {
+   "text": "7\n\n347\n,\n0,",
+   "conf": 5.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "| er PHYSICAL COMBAT\nXX Physical attack.\nLower your opponent's anger 1 level. You\nmay destroy 2 Drills you control. If you do, this\nattack cannot be stopped nor have its damage\nprevented.\n7 DAMAGE: AT +3 life cards.\n(RF) e016 rant anaes ne riadiane vse ETT",
+   "conf": 80.5,
+   "n_words": 47
+  }
+ }
+}

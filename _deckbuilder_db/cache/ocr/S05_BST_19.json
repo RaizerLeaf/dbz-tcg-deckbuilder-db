@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_19",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/19_Blue Energy Shield.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE ENERGY SHIELD ) 19\na",
+   "conf": 68.5,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n0,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "Gy ENERGY COMBAT\nWe\nWY Stops an energy attack.\nYou may set your MP’s power level to 0.\nYour Allies cannot be discarded by critical damage\neffects this combat.\n(RP) ears ran amines ne romeoinne usa ETT",
+   "conf": 74.3,
+   "n_words": 37
+  }
+ }
+}

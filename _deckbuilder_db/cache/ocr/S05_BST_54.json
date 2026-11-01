@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_54",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/54_Saiyan Energy Aura.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "SAIYAN ENERGY AURA €) C54\n-~ sty \\ \\| 4a",
+   "conf": 63.1,
+   "n_words": 10
+  },
+  "stages": {
+   "text": "1,\n,\n,\n,",
+   "conf": 6.8,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "(Ges ENERGY COMBAT ( Ol\n_ (If this is revealed from your Orne\nhand during combat, you may raise your\nanger 1 level.)\nW Stops an energy attack.\nYou may reveal a Styled card from your hand. If you\ndo, your opponent's personalities lose 2 stages.\n(EF) caste rait aman ne incase = ET",
+   "conf": 76.6,
+   "n_words": 54
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_38",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/38_Orange Energy Deflection.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "ORANGE ENERGY DEFLECTION @© ) C38\nye ey |",
+   "conf": 65.6,
+   "n_words": 9
+  },
+  "stages": {
+   "text": ",\n\n,\n\n2,\n,",
+   "conf": 0.0,
+   "n_words": 4
+  },
+  "lower": {
+   "text": "Aes, =NEAGY COMBAT\nYi Ke y\n- W Stops an energy attack.\nLower your opponent's anger 2 levels.\nIf your opponent's attack was a non-Styled attack,\nRejuvenate 2.\nRSS OOOO",
+   "conf": 80.5,
+   "n_words": 30
+  }
+ }
+}

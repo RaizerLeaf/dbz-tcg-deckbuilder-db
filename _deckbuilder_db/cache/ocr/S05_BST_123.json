@@ -1,0 +1,22 @@
+{
+ "card_id": "S05_BST_123",
+ "rel_path": "05_Set 5 (Perfection)/Perfection (Booster)/123_Blue Toss.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "BLUE TOSS >) R123\n~j \\ RO nN a oN @",
+   "conf": 48.9,
+   "n_words": 11
+  },
+  "stages": {
+   "text": "",
+   "conf": 0.0,
+   "n_words": 0
+  },
+  "lower": {
+   "text": "(Age PHYSICAL COMBAT\nSSS\n; X Physical attack.\nYour next attack this combat has its power\nstage cost reduced to 0.\nDAMAGE: AT +4 stages.\nHIT: Choose an Ally in play and place it at the\nbottom of its owner's Life Deck.",
+   "conf": 89.9,
+   "n_words": 42
+  }
+ }
+}

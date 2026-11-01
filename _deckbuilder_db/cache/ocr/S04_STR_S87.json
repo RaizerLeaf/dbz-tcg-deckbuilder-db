@@ -1,0 +1,22 @@
+{
+ "card_id": "S04_STR_S87",
+ "rel_path": "04_Set 4 (Evolution)/Evolution (Starter)/S87_Namekian Energy Guard.png",
+ "scale": 3.39,
+ "regions": {
+  "header": {
+   "text": "NAMEKIAN ENERGY GUARD\nmm fm ie:",
+   "conf": 59.7,
+   "n_words": 6
+  },
+  "stages": {
+   "text": ",\n,",
+   "conf": 0.0,
+   "n_words": 2
+  },
+  "lower": {
+   "text": "v Stops an energy attack.\nShuffle the top and bottom cards of your\ndiscard pile into your Life Deck.\ni eedenteenentnenREENIententeeEEEEnEteeieenell\n©",
+   "conf": 82.5,
+   "n_words": 22
+  }
+ }
+}
