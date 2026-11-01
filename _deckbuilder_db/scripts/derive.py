@@ -87,8 +87,8 @@ def derive(rec):
     restrictions, deck_rules = derive_restrictions(text)
 
     num = v.get("num") or ""
-    rm = re.match(r"^(?:BONUS |PREVIEW )?(UR|C|U|R|S|P)\d", num)
-    rarity = rm[1] if rm else None          # printed letter code; S = starter deck (see README)
+    rm = re.match(r"^(?:BONUS |PREVIEW )?(UR|DR|C|U|R|S|P)\d", num)
+    rarity = rm[1] if rm else None          # printed code; S = starter deck, DR = alternate-art tier
 
     # --- checks against the filename and the layout rules ---------------------------
     fname_issues = []

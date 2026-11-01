@@ -26,7 +26,7 @@ images in this repository. Original images are never modified; all output goes i
 Vision text conventions: icons are written `[Attack] [Defense] [Continuous] [Instant]
 [Desperation]`; inline Trait icons as `[Trait:Earthling]`; FanZ Endurance badges as a leading
 `ENDURANCE N.` line; FanZ line breaks as `\n`. `rarity` is the printed letter code (C, U, R,
-UR, S, P); S means a starter-deck card.
+UR, S, P, DR); S means a starter-deck card, DR an alternate-art card.
 
 Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 
@@ -66,7 +66,9 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 1. MP vs Ally: decided by the printed edge label (`ALLY` = Ally; `HERO`/`VILLAIN` = MP).
 2. FanZ Masteries are portrait and FanZ Setups/Drills landscape: expected.
 3. Trait badge R = Android: confirmed.
-4. `T_` Trait cards and `DR` cards: examples shown to the owner; decision pending.
+4. `DR` cards are normal cards: DR is a rarity tier for alternate artwork (`rarity = DR`,
+   card_id and `collection = dr` unchanged; their folders mix DR with starter cards).
+   `T_` Trait cards (reference cards listing who has each Trait): decision pending.
 5. PZP and OP folders: `era = FanZ`.
 6. Printed rarity S = starter-deck card. Cards with a printed S number that are filed in a
    booster folder (S14 S43-S52) get `collection = starter`; the card_id is unchanged.
