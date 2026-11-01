@@ -28,6 +28,8 @@ images in this repository. Original images are never modified; all output goes i
 8. `python mps.py` (Phase 4): adds `traits_effective` / `traits_source` to MP and Ally records and writes `mps.json` and
    `masteries.json` (`work/crd/PHASE4_REPORT.md`)
 
+9. `python qa.py` (Phase 5): consistency checks, adds `qa_flags` to the records and writes `qa_report.md`
+
 ## Output files (current)
 - `cards.json`, `cards.csv`: one record per image (3,106). Fields are those in BRIEF.md plus: `stage_cost`,
   `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`
@@ -37,6 +39,7 @@ images in this repository. Original images are never modified; all output goes i
   `traits` = Traits printed on the card; `traits_effective` adds the CRD's retroactive Traits for PanZ printings.
 - `mps.json`: MP groups (name + alignment) with every printing of Levels 1-4 and Trait availability per level.
 - `masteries.json`: every Mastery printing grouped by name, with the cards restricted to it.
+- `qa_report.md`: counts per set, sample re-read result, checks, needs_review list, unmatched CRD entries.
 - `crd_general.md`: the CRD's core rules and general rulings (text).
 
 Vision text conventions: icons are written `[Attack] [Defense] [Continuous] [Instant]
@@ -52,7 +55,8 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 - Phase 2 done: all 3,106 playable images read, ingested and derived. Draft `cards.json` /
   `cards.csv` in this folder; report in `work/full/PHASE2_REPORT.md` (28 cards need review).
 - Phase 3 done: errata, rulings, MRP, Frozen List and Gold Title Reprints attached (`work/crd/PHASE3_REPORT.md`, `crd_general.md`).
-- Next: Phase 4 (MP index), Phase 5 (verification).
+- Phase 4 done: `mps.json`, `masteries.json`.
+- Phase 5 done: `qa_report.md` (checks, 5% visual re-read: 0 errors in 159 cards, needs_review list, unmatched CRD entries).
 
 ## Layout findings
 - PanZ Personalities print `ALLY` on the right edge for Allies and `HERO`/`VILLAIN` for MPs;
