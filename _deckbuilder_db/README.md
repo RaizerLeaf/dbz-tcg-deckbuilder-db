@@ -26,7 +26,7 @@ images in this repository. Original images are never modified; all output goes i
 Vision text conventions: icons are written `[Attack] [Defense] [Continuous] [Instant]
 [Desperation]`; inline Trait icons as `[Trait:Earthling]`; FanZ Endurance badges as a leading
 `ENDURANCE N.` line; FanZ line breaks as `\n`. `rarity` is the printed letter code (C, U, R,
-UR, S, P), not interpreted.
+UR, S, P); S means a starter-deck card.
 
 Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 
@@ -62,5 +62,19 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
   (S14 P14 Buu) and FanZ portrait Masteries; full-card 2-up sheets worked better for
   high-res FanZ cards.
 
-## Open questions for the owner
-See `work/pilot/PILOT_REPORT.md` (section "Open questions").
+## Owner decisions (2026-11-01, answers to the pilot questions)
+1. MP vs Ally: decided by the printed edge label (`ALLY` = Ally; `HERO`/`VILLAIN` = MP).
+2. FanZ Masteries are portrait and FanZ Setups/Drills landscape: expected.
+3. Trait badge R = Android: confirmed.
+4. `T_` Trait cards and `DR` cards: examples shown to the owner; decision pending.
+5. PZP and OP folders: `era = FanZ`.
+6. Printed rarity S = starter-deck card. Cards with a printed S number that are filed in a
+   booster folder (S14 S43-S52) get `collection = starter`; the card_id is unchanged.
+7. "(SDCC)" stays in the subtitle when it is printed on the card (PZP P19).
+8. Piccolo - Fused is a normal Piccolo for MP grouping (not a fused MP).
+9. Named = possessive title ("Goku's ...", "Trunks' ...") or text saying the card is
+   "considered Named".
+10. Style = first word of the title if it is Black/Blue/Namekian/Orange/Red/Saiyan, else
+    Freestyle ("Namek Dragon Ball" is Freestyle); personalities have no style.
+11. PanZ Ally alignment comes from the text box: "(Heroes only.)" = Hero,
+    "(Villains only.)" = Villain.

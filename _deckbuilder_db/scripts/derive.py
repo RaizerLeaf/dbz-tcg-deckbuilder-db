@@ -88,7 +88,7 @@ def derive(rec):
 
     num = v.get("num") or ""
     rm = re.match(r"^(?:BONUS |PREVIEW )?(UR|C|U|R|S|P)\d", num)
-    rarity = rm[1] if rm else None          # printed letter code, not interpreted (see README)
+    rarity = rm[1] if rm else None          # printed letter code; S = starter deck (see README)
 
     # --- checks against the filename and the layout rules ---------------------------
     fname_issues = []
@@ -109,6 +109,24 @@ def derive(rec):
                        f"{inv['card_number']}")
     st = v.get("stages")
     notes = [v["note"]] if v.get("note") else []
+
+    # PanZ Allies print no alignment on the edge; it is in the text box (owner, 2026-11-01).
+    align = v.get("align")
+    if align is None and ctype == "Ally":
+        found = {"Heroes": "Hero", "Villains": "Villain"}
+        hits = [found[r] for r in restrictions if r in found]
+        if len(hits) == 1:
+            align = hits[0]
+            notes.append("alignment taken from the text box")
+        else:
+            reasons.append("Ally without a printed alignment")
+
+    # Printed S = starter deck card (owner, 2026-11-01), even when filed with the boosters.
+    collection = inv["collection"]
+    if rarity == "S" and collection == "booster":
+        collection = "starter"
+        notes.append("printed S number but filed in the booster folder; collection set to "
+                     "starter")
     if ctype in PERSONALITY:
         if not st or len(st) != 11 or v.get("pur") is None:
             reasons.append("personality without 11 stages or PUR")
@@ -118,12 +136,12 @@ def derive(rec):
     return {
         "card_id": inv["card_id"], "set_number": inv["set_number"],
         "set_name": inv["set_name"], "era": inv["era"],
-        "source_folder": inv["source_folder"], "collection": inv["collection"],
+        "source_folder": inv["source_folder"], "collection": collection,
         "card_number": num, "filename": inv["filename"],
         "filename_flags": inv["filename_flags"], "card_name": name,
         "subtitle": v.get("sub"), "card_type": ctype, "style": style,
         "is_named": is_named, "named_character": named,
-        "alignment": v.get("align"), "rarity": rarity,
+        "alignment": align, "rarity": rarity,
         "level": v.get("lvl"), "power_stages": st, "pur": v.get("pur"),
         "traits": v.get("traits") or [], "icons": icons + [f"Trait:{t}" for t in traits_inline],
         "keywords": kw, "stage_cost": int(cost[1]) if cost else None,

@@ -64,7 +64,7 @@ Filename issues (card is clear; the file name is wrong):
 
 Nothing in the pilot is `needs_review`: no card was unreadable.
 
-## Open questions
+## Open questions (answered 2026-11-01; decisions are in the README)
 1. MP vs Ally: I used the printed edge label (`ALLY` vs `HERO`/`VILLAIN`). OK to use this
    for every set?
 2. `T_` Trait cards and the `DR` prefix (not in the pilot): what are they, and should they

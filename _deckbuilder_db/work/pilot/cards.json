@@ -13304,7 +13304,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Hero",
   "rarity": "C",
   "level": 1,
   "power_stages": [
@@ -13345,7 +13345,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_09",
@@ -13363,7 +13363,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Hero",
   "rarity": "C",
   "level": 1,
   "power_stages": [
@@ -13404,7 +13404,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_10",
@@ -13422,7 +13422,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Villain",
   "rarity": "C",
   "level": 1,
   "power_stages": [
@@ -13463,7 +13463,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_100",
@@ -13941,7 +13941,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Villain",
   "rarity": "C",
   "level": 1,
   "power_stages": [
@@ -13982,7 +13982,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_110",
@@ -14452,7 +14452,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Villain",
   "rarity": "C",
   "level": 1,
   "power_stages": [
@@ -14493,7 +14493,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_120",
@@ -19145,7 +19145,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Hero",
   "rarity": "U",
   "level": 1,
   "power_stages": [
@@ -19186,7 +19186,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_69",
@@ -19204,7 +19204,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Hero",
   "rarity": "U",
   "level": 1,
   "power_stages": [
@@ -19245,7 +19245,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY; printed name CHICHI (one word), filename says 'Chi Chi'"
+  "notes": "right edge reads ALLY; printed name CHICHI (one word), filename says 'Chi Chi' | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_70",
@@ -19263,7 +19263,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Hero",
   "rarity": "U",
   "level": 1,
   "power_stages": [
@@ -19304,7 +19304,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_71",
@@ -19322,7 +19322,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Villain",
   "rarity": "U",
   "level": 1,
   "power_stages": [
@@ -19363,7 +19363,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_72",
@@ -19381,7 +19381,7 @@
   "style": null,
   "is_named": false,
   "named_character": null,
-  "alignment": null,
+  "alignment": "Villain",
   "rarity": "U",
   "level": 1,
   "power_stages": [
@@ -19422,7 +19422,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads ALLY"
+  "notes": "right edge reads ALLY | alignment taken from the text box"
  },
  {
   "card_id": "S01_BST_73",
@@ -30875,7 +30875,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S43",
   "filename": "43_Buu - Wild Card.png",
   "filename_flags": [],
@@ -30926,7 +30926,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'VILLAIN' only (no ALLY) -> Main Personality; 'S' rarity letter in a booster set"
+  "notes": "right edge reads 'VILLAIN' only (no ALLY) -> Main Personality; 'S' rarity letter in a booster set | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_44",
@@ -30934,7 +30934,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S44",
   "filename": "44_Buu - Crazed.png",
   "filename_flags": [],
@@ -30986,7 +30986,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'VILLAIN' -> Main Personality"
+  "notes": "right edge reads 'VILLAIN' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_45",
@@ -30994,7 +30994,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S45",
   "filename": "45_Buu - Destructive.png",
   "filename_flags": [],
@@ -31049,7 +31049,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'VILLAIN' -> Main Personality"
+  "notes": "right edge reads 'VILLAIN' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_46",
@@ -31057,7 +31057,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S46",
   "filename": "46_Buu - Unhinged.png",
   "filename_flags": [],
@@ -31111,7 +31111,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'VILLAIN' -> Main Personality"
+  "notes": "right edge reads 'VILLAIN' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_47",
@@ -31119,7 +31119,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S47",
   "filename": "47_Buu - Ready to Fight.png",
   "filename_flags": [],
@@ -31173,7 +31173,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality"
+  "notes": "right edge reads 'HERO' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_48",
@@ -31181,7 +31181,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S48",
   "filename": "48_Buu - Cultiating Mass.png",
   "filename_flags": [],
@@ -31233,7 +31233,7 @@
   "filename_issue": "subtitle differs from filename: 'Cultivating Mass' vs 'Cultiating Mass'",
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality; filename typo 'Cultiating'"
+  "notes": "right edge reads 'HERO' -> Main Personality; filename typo 'Cultiating' | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_49",
@@ -31241,7 +31241,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S49",
   "filename": "49_Buu - Devastated.png",
   "filename_flags": [],
@@ -31293,7 +31293,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality"
+  "notes": "right edge reads 'HERO' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_50",
@@ -31301,7 +31301,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S50",
   "filename": "50_Buu - Pissed.png",
   "filename_flags": [],
@@ -31355,7 +31355,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality"
+  "notes": "right edge reads 'HERO' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_51",
@@ -31363,7 +31363,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S51",
   "filename": "51_Goku - Super Saiyan 3.png",
   "filename_flags": [],
@@ -31418,7 +31418,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality. Trait badges E (Capsule Corp) = Earthling, S (green) = Saiyan"
+  "notes": "right edge reads 'HERO' -> Main Personality. Trait badges E (Capsule Corp) = Earthling, S (green) = Saiyan | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_BST_52",
@@ -31426,7 +31426,7 @@
   "set_name": "Showdown",
   "era": "FanZ",
   "source_folder": "14_Set 14 (Showdown)/Showdown",
-  "collection": "booster",
+  "collection": "starter",
   "card_number": "S52",
   "filename": "52_Tenshinhan - Heroic.png",
   "filename_flags": [],
@@ -31478,7 +31478,7 @@
   "filename_issue": null,
   "needs_review": false,
   "review_reason": null,
-  "notes": "right edge reads 'HERO' -> Main Personality"
+  "notes": "right edge reads 'HERO' -> Main Personality | printed S number but filed in the booster folder; collection set to starter"
  },
  {
   "card_id": "S14_PRO_P1",
