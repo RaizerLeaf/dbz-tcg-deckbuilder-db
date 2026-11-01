@@ -19,9 +19,25 @@ images in this repository. Original images are never modified; all output goes i
    `work/sheets/<set>/` (git-ignored, regenerable)
 4. Vision transcriptions are appended to `work/vision/*.jsonl` (format in `ingest.py`)
 5. `python ingest.py`: merges inventory + OCR + vision -> `cache/<card_id>.json`
-6. `python derive.py --sets S01,S14,PZP --out work/pilot`: brief-schema records plus derived
-   fields (style, named, icons, keywords, limits, restrictions, filename checks) and an
-   OCR-vs-vision comparison -> `<out>/cards.json`, `cards.csv`, `ocr_compare.json`
+6. `python derive.py --sets S01,...,S19,PZP,OP1,...,OP6 --out work/full`: brief-schema records plus
+   derived fields (style, named, icons, keywords, limits, restrictions, filename checks) and an
+   OCR-vs-vision comparison -> `work/full/cards.json`, `cards.csv`, `ocr_compare.json`
+7. `python crd_parse.py` then `python crd.py` (Phase 3): parses the CRD text (`work/crd/fanz.txt`, `panz.txt`
+   from `pdftotext -layout`) and writes the final `cards.json` / `cards.csv` with errata, rulings, MRP, Frozen List and
+   Gold Title Reprint data (`work/crd/PHASE3_REPORT.md`, manual resolutions in `work/crd/overrides.json`)
+8. `python mps.py` (Phase 4): adds `traits_effective` / `traits_source` to MP and Ally records and writes `mps.json` and
+   `masteries.json` (`work/crd/PHASE4_REPORT.md`)
+
+## Output files (current)
+- `cards.json`, `cards.csv`: one record per image (3,106). Fields are those in BRIEF.md plus: `stage_cost`,
+  `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`
+  (null / printing_current / text_current_derived), `card_type_current`, `crd_entries` (structured CRD entries),
+  `frozen_listed_printing`, `frozen_filename_flag`, `gold_title_note`, `traits_effective`, `traits_source`.
+  `text_as_printed` is what the image shows; `text_current` is the text after errata (null when the card has no erratum).
+  `traits` = Traits printed on the card; `traits_effective` adds the CRD's retroactive Traits for PanZ printings.
+- `mps.json`: MP groups (name + alignment) with every printing of Levels 1-4 and Trait availability per level.
+- `masteries.json`: every Mastery printing grouped by name, with the cards restricted to it.
+- `crd_general.md`: the CRD's core rules and general rulings (text).
 
 Vision text conventions: icons are written `[Attack] [Defense] [Continuous] [Instant]
 [Desperation]`; inline Trait icons as `[Trait:Earthling]`; FanZ Endurance badges as a leading

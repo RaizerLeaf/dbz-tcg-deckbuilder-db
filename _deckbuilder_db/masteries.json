@@ -1,0 +1,1871 @@
+{
+ "_meta": {
+  "styles": [
+   "Black",
+   "Blue",
+   "Namekian",
+   "Orange",
+   "Red",
+   "Saiyan"
+  ],
+  "note": "cards_restricted_to_this_mastery lists cards whose '(X Mastery only.)' text names this Mastery exactly; style_wide_restrictions lists cards restricted to a Mastery name that is not a card (e.g. 'Saiyan Mastery').",
+  "style_wide_restrictions": {
+   "Saiyan Mastery": [
+    "S09_BST_61"
+   ]
+  },
+  "mastery_printings": 74,
+  "masteries": 42
+ },
+ "masteries": [
+  {
+   "name": "Black Conflict Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR25",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR25",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks that deal at least 4 life cards of damage are considered to deal critical damage.\nPOWER: Discard a card from your hand. If that card was Styled, your MP gains 6 stages or you may raise or lower a player's anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P18",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P18",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your attacks that deal at least 4 life cards of damage are considered to deal critical damage.\nPOWER: Discard a card from your hand. If that card was Styled, your MP gains 6 stages or you may raise or lower a player's anger 1.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Black Devious Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_122",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R122",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 power stage and +1 life card of damage. POWER: Discard a card from your hand to banish the bottom 2 cards of your opponent's discard pile. If you discarded a Styled card, your opponent discards a card from his hand.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    },
+    {
+     "card_id": "S01_STR_S28",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S28",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 power stage and +1 life card of damage. POWER: Discard a card from your hand to banish the bottom 2 cards of your opponent's discard pile. If you discarded a Styled card, your opponent discards a card from his hand.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Black Manipulative Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_01",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR1",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your Styled attacks deal +1 life card of damage.\n[Defense] POWER: Reveal a Styled attack card from your hand and play it to prevent all damage from an attack instead of as an attack.\nPOWER: Destroy the top card of your Life Deck to gain 2 stages and banish the top or bottom 2 cards of your opponent's discard pile.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P5",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P5",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Styled attacks deal +1 life card.\n[Defense] POWER: Reveal a Styled attack card from your hand and play it to prevent all damage from an attack instead of as an attack.\nPOWER: Destroy the top card of your Life Deck to gain 2 stages and banish the top or bottom 2 cards of your opponent's discard pile.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_06"
+   ]
+  },
+  {
+   "name": "Black Meditative Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_01",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR1",
+     "rarity": "DR",
+     "text_as_printed": "(Your Setups gain \"Banish after use.\")\n[Instant] POWER: Use at the end of combat. Choose a Setup in your discard pile and Rejuvenate it.\nPOWER: Destroy a Setup you control to search your Life Deck for two different non-Limited Styled Setups and play them.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [
+      "Banish after use"
+     ],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Black Mischievous Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_01",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR1",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Whenever your opponent draws 1 or more cards during combat, destroy the top card of your opponent's Life Deck and you may raise a player's anger 1 level.\nPOWER: Banish the top card of your opponent's discard pile. Discard a card at random from your opponent's hand. Your opponent's next attack this combat gains \"Draw a card.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P12",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P12",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever your opponent draws 1 or more cards during combat, destroy the top card of your opponent's Life Deck and you may raise a player's anger 1.\nPOWER: Banish the top card of your opponent's discard pile. Discard a card at random from your opponent's hand. Your opponent's next attack this combat gains \"Draw a card.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Black Ominous Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_01",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR1",
+     "rarity": "DR",
+     "text_as_printed": "(You cannot win by MPPV.)\n[Continuous]: Your Styled attacks deal +1 stage and +1 life card.\n[Instant] POWER: Use when one of your effects discards the last card in your opponent's hand. Advance or lower your MP 1 level.\nPOWER: Banish the top 2 cards of your opponent's discard pile. The next time one of your Styled effects discards a card from your opponent's hand during combat, the card is chosen at random.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_05"
+   ]
+  },
+  {
+   "name": "Black Perceptive Mastery",
+   "style": "Black",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S04_STR_S30",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S30",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Your Styled attacks gain \"HIT: Destroy an opponent's Setup or Drill.\"\nPOWER: Destroy the top card of your Life Deck to destroy the top card of your opponent's Life Deck. If your opponent destroyed a Physical Combat or Energy Combat card, your MP gains 4 stages. Otherwise, raise a player's anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P19",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P19",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Styled attacks gain \"HIT: Destroy an opponent's Setup or Drill.\"\nPOWER: Destroy the top card of your Life Deck to destroy the top card of your opponent's Life Deck. If your opponent destroyed a Physical Combat or Energy Combat card, your MP gains 4 stages. Otherwise, raise a player's anger 1.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S18_BST_03"
+   ]
+  },
+  {
+   "name": "Blue Mimicry Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_07",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR7",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your opponent cannot use Endurance on your copied attacks.\n[Instant] POWER: Use after performing a successful copied attack. Destroy the top 2 cards of your Life Deck to draw a card.\nPOWER: Shuffle up to 3 cards with \"copy\" or \"copied\" in the text-box or parenthetical text from your discard pile into your Life Deck.",
+     "text_current": "[Continuous]: Your opponent cannot use Endurance on your copied attacks.\n[Instant] POWER: Use after performing a successful copied attack. Destroy the top 2 cards of your Life Deck to draw a card.\nPOWER: Shuffle up to 3 cards with \"copy\" or \"copied\" in the text-box or parenthetical text from your discard pile into your Life Deck.",
+     "errata_status": "printing_current",
+     "is_mrp": true,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P6",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P6",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your opponent cannot use Endurance on your copied attacks.\n[Instant] POWER: Use after performing a successful copied attack. Destroy the top 2 cards of your Life Deck to draw a card.\nPOWER: Shuffle up to 3 cards with \"copy\" or \"copied\" in the text-box or parenthetical text from your discard pile into your Life Deck.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Blue Preventive Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_07",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR7",
+     "rarity": "DR",
+     "text_as_printed": "[Defense] POWER: Use only on the first attack your opponent performs in combat. Prevent all damage from this attack. You may discard a card from your hand to make this attack deal no damage.\nPOWER: Lower a player's anger 1. The next time one of your opponent's effects would raise their anger this combat, change that amount to 0.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_10"
+   ]
+  },
+  {
+   "name": "Blue Protective Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_127",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R127",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: Your opponent needs 6 anger to advance a personality level.\n[Defense] POWER: You may discard a Physical Combat card from your hand to stop an energy attack or an Energy Combat card to stop a physical attack. If you discarded a Blue card, you may raise or lower a player's anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S01_STR_S29",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S29",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Your opponent needs 6 anger to advance a personality level.\n[Defense] POWER: You may discard a Physical Combat card from your hand to stop an energy attack or an Energy Combat card to stop a physical attack. If you discarded a Blue card, you may raise or lower a player's anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S13_PRO_P17",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P17",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your opponent needs 6 anger to advance a personality level.\n[Defense] POWER: You may discard a Physical Combat card from your hand to stop an energy attack or an Energy Combat card to stop a physical attack. If you discarded a Blue card, you may raise or lower a player's anger 1.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Blue Resolute Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR5",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR5",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 life card of damage.\nPOWER: Discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P20",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P20",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 life card.\nPOWER: Discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Blue Resourceful Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_07",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR7",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 stage of damage. Your Styled attacks without \"anger\" printed in the text-box gain \"HIT: Raise or lower your opponent's anger 1 level.\"\n[Instant] POWER: Use when your opponent's MP changes levels from one of your cards or effects. Draw a card.\nPOWER: Discard a Styled card from your hand to perform a non-Styled physical attack dealing 3 stages of damage. If you discarded a Setup or Drill that can perform an attack, you may place it into play instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P13",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P13",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 stage. Your Styled attacks without \"anger\" printed in the text-box gain \"HIT: Raise or lower your opponent's anger 1.\"\n[Instant] POWER: Use when your opponent's MP changes levels from one of your cards or effects. Draw a card.\nPOWER: Discard a Styled card from your hand to perform a non-Styled physical attack dealing 3 stages of damage. If you discarded a Setup or Drill that can perform an attack, you may place it into play instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Blue Tag Team Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S04_STR_S10",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S10",
+     "rarity": "S",
+     "text_as_printed": "(At the start of your opponent's first turn, search your Life Deck for an Ally and place it into play at 3 power stages above 0.)\n[Continuous]: While you control 1 Ally, it cannot be discarded by critical damage effects.\n[Instant] POWER: Use at the end of combat. Choose an Ally in your Banished Zone and Rejuvenate it.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P21",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P21",
+     "rarity": "P",
+     "text_as_printed": "(At the start of your opponent's first turn, search your Life Deck for an Ally and place it into play at 3 power stages above 0.)\n[Continuous]: While you control 1 Ally, it cannot be discarded by critical damage effects.\n[Instant] POWER: Use at the end of combat. Choose an Ally in your Banished Zone and Rejuvenate it.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Blue Unity Mastery",
+   "style": "Blue",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_07",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR7",
+     "rarity": "DR",
+     "text_as_printed": "[Instant] POWER: Use after performing a successful Styled attack. That attack gains \"HIT: If you control 2 or less Allies, search your Life Deck for a non-[Continuous] Ally and play it.\"\nPOWER: Choose an Ally you control. That Ally can make actions regardless of your MP's power stage this combat. Your opponent skips their next action this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S17_BST_08",
+    "S17_BST_10"
+   ]
+  },
+  {
+   "name": "Namekian Empowered Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_13",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR13",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your energy attacks deal +1 life card.\n[Instant] POWER: Use when entering combat. Draw the bottom card of your discard pile. Discard a card from your hand.\nPOWER: The next energy attack you perform this combat costs -2 stages (to a minimum of 0). Raise your anger 2.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Namekian Enlightened Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_14",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR14",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your Styled attacks deal +1 stage of damage. At the start of your Rejuvenation Step, you may shuffle a Dragon Ball you control back into its owner's Life Deck.\nPOWER: Draw a card. Discard a card from your hand. If you discarded a Dragon Ball, raise your anger 2 levels and stops a physical or energy attack in your opponent's next action this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P14",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P14",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Styled attacks deal +1 stage. At the start of your Rejuvenation Step, you may shuffle a Dragon Ball you control back into its owner's Life Deck.\nPOWER: Draw a card. Discard a card from your hand. If you discarded a Dragon Ball, raise your anger 2 and stops a physical or energy attack in your opponent's next action this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S18_BST_13"
+   ]
+  },
+  {
+   "name": "Namekian Imposing Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_13",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR13",
+     "rarity": "DR",
+     "text_as_printed": "[Instant] POWER: Use when you would Rejuvenate a Styled [Attack] card during combat. You may place it into your hand instead.\nPOWER: Shuffle the top and bottom cards of your discard pile into your Life Deck.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P7",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P7",
+     "rarity": "P",
+     "text_as_printed": "[Instant] POWER: Use when you would Rejuvenate a Styled [Attack] card during combat. You may place it into your hand instead.\nPOWER: Shuffle the top and bottom cards of your discard pile into your Life Deck.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Namekian Knowledge Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_131",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R131",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "text_current": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "errata_status": "text_current_derived",
+     "is_mrp": false,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "CRD"
+     ]
+    },
+    {
+     "card_id": "S01_STR_S30",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S30",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Whenever you Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. Whenever a Dragon Ball enters play, your opponent destroys the top card of his Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "text_current": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "errata_status": "text_current_derived",
+     "is_mrp": false,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "CRD"
+     ]
+    },
+    {
+     "card_id": "S04_PRO_P1",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "promo",
+     "card_number": "P1",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\n(Most Recent Printing)",
+     "text_current": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.\n(Most Recent Printing)",
+     "errata_status": "printing_current",
+     "is_mrp": true,
+     "frozen": true,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S13_PRO_P18",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P18",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "text_current": "[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.",
+     "errata_status": "printing_current",
+     "is_mrp": false,
+     "frozen": true,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Namekian Radiant Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR15",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR15",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Whenever an Earth Dragon Ball you own enters play during combat, raise your anger 1 level. While 3 or more Earth Dragon Balls you own are in play, your attacks deal +2 life cards of damage.\nPOWER: If less than 3 Dragon Balls you own are in play, search your Life Deck for a Dragon Ball and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P22",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P22",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever an Earth Dragon Ball you own enters play during combat, raise your anger 1. While 3 or more Earth Dragon Balls you own are in play, your attacks deal +2 life cards.\nPOWER: If less than 3 Dragon Balls you own are in play, search your Life Deck for a Dragon Ball and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S18_BST_15"
+   ]
+  },
+  {
+   "name": "Namekian Refined Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_13",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR13",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Attacks performed by your MP deal +1 life card. Whenever a Drill you own enters play during combat, gain 2 stages.\n[Instant] POWER: Use when you would Rejuvenate any number of cards during combat. Banish them instead to search your Life Deck for a Styled or Named Drill and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_15"
+   ]
+  },
+  {
+   "name": "Namekian Restored Mastery",
+   "style": "Namekian",
+   "style_requirement": "MP needs the Namekian Trait on all four chosen levels (FanZ); PanZ: MP on the Namekian heritage list",
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S04_STR_S15",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S15",
+     "rarity": "S",
+     "text_as_printed": "[Instant] POWER: Use at the end of the turn. Reveal the bottom card of your Life Deck. If that card is Styled or a Dragon Ball, you may place it into your hand. If you do, place a card from your hand on the top or bottom of your Life Deck.\nPOWER: Raise your anger 2 levels. You may discard a Dragon Ball or Styled card from your hand to shuffle your Life Deck and draw a card.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Orange Adaptive Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_136",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R136",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card of damage. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S01_STR_S26",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S26",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card of damage. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S13_PRO_P19",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P19",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Drills are not discarded when you advance or lower a personality level. Your energy attacks deal +1 life card. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Orange Adept Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S04_STR_S20",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S20",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 stage of damage. After your MP advances a level, search your discard pile for a Drill and Rejuvenate it.\n[Instant] POWER: Use after performing a successful Styled attack. That attack gains \"HIT: If you control 2 or less Drills, search your Life Deck for a Styled [Continuous] Drill and place it into play.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P23",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P23",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 stage. After your MP advances a level, search your discard pile for a Drill and Rejuvenate it.\n[Instant] POWER: Use after performing a successful Styled attack. That attack gains \"HIT: If you control 2 or less Drills, search your Life Deck for a Styled [Continuous] Drill and place it into play.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S04_BST_111",
+    "S14_BST_16"
+   ]
+  },
+  {
+   "name": "Orange Aura Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_19",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR19",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0).\n[Instant] POWER: Use when entering combat. Destroy a Drill you control to search your Life Deck for a Styled Drill and place it into play.",
+     "text_current": "[Continuous]: Your energy attacks deal +1 life card. Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0).\n[Instant] POWER: Use when entering combat. Destroy a Drill you control to search your Life Deck for a Styled Drill and place it into play.",
+     "errata_status": "printing_current",
+     "is_mrp": true,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Orange Combative Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_20",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR20",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your opponent's attacks deal -1 stage of damage. Your Styled energy attacks gain \"HIT: Prevent 3 stages and 3 life cards of damage from your opponent's attacks in their next action this combat.\"\nPOWER: Gain 2 stages. Choose a card in your discard pile and Rejuvenate it. If that card is a Styled Drill, you may place it into play instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P15",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P15",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your opponent's attacks deal -1 stage. Your Styled energy attacks gain \"HIT: Prevent 3 stages and 3 life cards of damage from your opponent's attacks in their next action this combat.\"\nPOWER: Gain 2 stages. Choose a card in your discard pile and Rejuvenate it. If that card is a Styled Drill, you may place it into play instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S18_BST_20"
+   ]
+  },
+  {
+   "name": "Orange Cunning Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_19",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR19",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 life card. Whenever a Drill you own would be discarded due to your MP changing levels, you may Rejuvenate it instead.\n[Instant] POWER: Use when you would use a critical damage effect during combat. Search your Life Deck for a Styled Drill and place it into play instead.\nPOWER: Rejuvenate a Drill from your discard pile.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_21"
+   ]
+  },
+  {
+   "name": "Orange Energetic Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_19",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR19",
+     "rarity": "DR",
+     "text_as_printed": "(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Instant] POWER: Use after performing a successful attack. Gain 3 stages and raise your anger 1 level.\nPOWER: Discard a card from your hand to perform a Styled energy attack dealing 4 life cards of damage. If you discarded a Styled card, raise or lower a player's anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P8",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P8",
+     "rarity": "P",
+     "text_as_printed": "(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Instant] POWER: Use after performing a successful attack. Gain 3 stages and raise your anger 1.\nPOWER: Discard a card from your hand to perform a Styled energy attack dealing 4 life cards of damage. If you discarded a Styled card, raise or lower a player's anger 1.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "OP6_OP_P58"
+   ]
+  },
+  {
+   "name": "Orange Retribution Mastery",
+   "style": "Orange",
+   "style_requirement": null,
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR10",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR10",
+     "rarity": "DR",
+     "text_as_printed": "(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Continuous]: Whenever your MP changes levels, you may shuffle all Drills you control into their owner's Life Deck.\nPOWER: The next Styled attack you perform this combat has its power stage cost reduced to 0. Raise your anger up to 2 levels. If your MP has changed levels this combat, search your Life Deck for a Styled Drill and place it into play.",
+     "text_current": "(You cannot activate the Power of a Drill with the same name as a Drill you have already activated this turn.)\n(At the start of your opponent's first turn, search your Life Deck for a Styled non-[Continuous] Drill and place it into play.)\n[Continuous]: Whenever your MP changes levels, you may shuffle all Drills you control into their owner's Life Deck.\nPOWER: The next Styled attack you perform this combat has its power stage cost reduced to 0. Raise your anger up to 2 levels. If your MP has changed levels this combat, search your Life Deck for a Styled Drill and place it into play.",
+     "errata_status": "text_current_derived",
+     "is_mrp": false,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Amplified Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_26",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR26",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0). Whenever a Drill you control leaves play, Rejuvenate 1.\n[Instant] POWER: Use when your MP changes levels. Choose a Drill you control. It cannot be discarded or destroyed this turn.\nPOWER: Raise or lower a player's anger 1 level. Gain X stages and your next Styled attack this combat deals +X life cards of damage. X = your current anger level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P16",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P16",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Styled energy attacks cost -1 stage (this effect cannot lower a cost to 0). Whenever a Drill you control leaves play, Rejuvenate 1.\n[Instant] POWER: Use when your MP changes levels. Choose a Drill you control. It cannot be discarded or destroyed this turn.\nPOWER: Raise or lower a player's anger 1. Gain X stages and your next Styled attack this combat deals +X life cards. X = your current anger level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Ascension Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR30",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR30",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Whenever you use a critical damage effect, gain 2 stages. At the end of each combat, you may raise your anger 1 level.\nPOWER: Banish the top card of your Life Deck to raise your anger 1 level. If you banished a Styled card, your opponent skips his or her next action this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P24",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P24",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever you use a critical damage effect, gain 2 stages. At the end of each combat, you may raise your anger 1.\nPOWER: Banish the top card of your Life Deck to raise your anger 1. If you banished a Styled card, your opponent skips their next action this combat.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Commanding Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_25",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR25",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your Styled energy attacks deal +1 life card of damage. After one of your attacks lowers your anger, raise your anger 1 level.\n[Instant] POWER: Use when an MP changes levels from one of your Styled cards or effects. Use a critical damage effect.\nPOWER: Discard a card from your hand. If you do, Rejuvenate the bottom card of your discard pile. If that card is an attack, you may play it instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P9",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P9",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Your Styled energy attacks deal +1 life card. After one of your attacks lowers your anger, raise your anger 1.\n[Instant] POWER: Use when an MP changes levels from one of your Styled cards or effects. Use a critical damage effect.\nPOWER: Discard a card from your hand. If you do, Rejuvenate the bottom card of your discard pile. If that card is an attack, you may play it instead.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Enraged Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_140",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R140",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: Whenever you use a critical damage effect, raise your anger 1 level. Whenever you advance a personality level, draw a card and then discard a card from your hand. Whenever you lower a personality level, you may draw a card.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    },
+    {
+     "card_id": "S01_STR_S27",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S27",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: Whenever you use a critical damage effect, raise your anger 1 level. Whenever you advance a personality level, draw a card and then discard a card from your hand. Whenever you lower a personality level, you may draw a card.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Primal Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_25",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR25",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks cost -1 stage (this effect cannot lower a cost to 0).\n[Instant] POWER: Use when you would use a critical damage effect during your action. Raise your anger 2 instead.\nPOWER: Gain 1 + X stages. X = your current anger level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Red Relentless Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_25",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR25",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your Styled attacks deal +1 stage.\n[Instant] POWER: Use when you perform an attack. Banish the top card of your Life Deck to make that attack Focused. If you banished a Styled card, raise your anger 1.\nPOWER: Lower your anger by any amount. Rejuvenate X. X = the amount of anger you lowered.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [
+      "Focused"
+     ],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "OP5_OP_P46",
+    "S17_BST_24",
+    "S18_BST_22",
+    "S18_BST_23"
+   ]
+  },
+  {
+   "name": "Red Ruthless Mastery",
+   "style": "Red",
+   "style_requirement": null,
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S04_STR_S25",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S25",
+     "rarity": "S",
+     "text_as_printed": "[Instant] POWER: Use when entering combat. Banish the top card of your discard pile. If you banished a Styled card, your Styled physical attacks this combat deal +2 stages of damage and gain \"HIT: Lower your opponent's anger 1 level.\"\nPOWER: Reveal a Styled card from your hand and place it at the bottom of your Life Deck. If you do and the top card of your discard pile is an attack card, you may play it.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P25",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P25",
+     "rarity": "P",
+     "text_as_printed": "[Instant] POWER: Use when entering combat. Banish the top card of your discard pile. If you banished a Styled card, your Styled physical attacks this combat deal +2 stages and gain \"HIT: Lower your opponent's anger 1.\"\nPOWER: Reveal a Styled card from your hand and place it at the bottom of your Life Deck. If you do and the top card of your discard pile is an attack card, you may play it.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Saiyan Defiant Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S16_BST_31",
+     "set_number": 16,
+     "set_name": "Super Premier",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR31",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Your attacks deal +1 life card.\n[Defense] POWER: Prevent all damage from an attack if you have 1 or less cards in your hand. Raise or lower a player's anger 1.\nPOWER: Discard 2 cards from your hand to search your Life Deck for a Styled [Warning] card and place it into your hand.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "OP5_OP_P47",
+    "OP6_OP_P60",
+    "S17_BST_26",
+    "S18_BST_27"
+   ]
+  },
+  {
+   "name": "Saiyan Dynamic Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S07_DR_DR20",
+     "set_number": 7,
+     "set_name": "Awakening",
+     "era": "PanZ",
+     "collection": "dr",
+     "card_number": "DR20",
+     "rarity": "DR",
+     "text_as_printed": "(You may begin the game on Level 2.)\n[Continuous]: You need 6 anger to advance a personality level. Your Styled attacks without \"anger\" printed in the text-box gain \"Raise your anger 1 level.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P26",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P26",
+     "rarity": "P",
+     "text_as_printed": "(You may begin the game on Level 2.)\n[Continuous]: You need 6 anger to advance a personality level. Your Styled attacks without \"anger\" printed in the text-box gain \"Raise your anger 1.\"",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S18_BST_26"
+   ]
+  },
+  {
+   "name": "Saiyan Empowered Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": true,
+   "printings": [
+    {
+     "card_id": "S01_BST_145",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "booster",
+     "card_number": "R145",
+     "rarity": "R",
+     "text_as_printed": "[Continuous]: You cannot win by MPPV. Your Saiyan Style attacks gain \"Raise your anger 1 level. HIT: Gain 3 power stages.\" Whenever you Rejuvenate a Saiyan Style card, raise your anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    },
+    {
+     "card_id": "S01_STR_S25",
+     "set_number": 1,
+     "set_name": "Premiere",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S25",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: You cannot win by MPPV. Your Saiyan Style attacks gain \"Raise your anger 1 level. HIT: Gain 3 power stages.\" Whenever you Rejuvenate a Saiyan Style card, raise your anger 1 level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": true,
+     "frozen_listed_printing": true,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": [
+      "Frozen"
+     ]
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Saiyan Enhanced Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S13_BST_31",
+     "set_number": 13,
+     "set_name": "Fusion",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR31",
+     "rarity": "DR",
+     "text_as_printed": "[Continuous]: Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\nPOWER: Choose up to 2 Styled [Attack] and/or [Defense] cards in your discard pile and Rejuvenate them. You may raise a player's anger 1.",
+     "text_current": "[Continuous]: Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\nPOWER: Choose up to 2 Styled [Attack] and/or [Defense] cards in your discard pile and Rejuvenate them. You may raise a player's anger 1.",
+     "errata_status": "printing_current",
+     "is_mrp": true,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S17_PRO_P10",
+     "set_number": 17,
+     "set_name": "Universal Clash",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P10",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\nPOWER: Choose up to 2 Styled [Attack] and/or [Defense] cards in your discard pile and Rejuvenate them. You may raise a player's anger 1.",
+     "text_current": "[Continuous]: Whenever one of your Styled effects destroys non-Dragon Ball cards from your opponent's Life Deck, you may banish them instead. Twice per combat, when you perform a Styled attack, you may destroy the top card of each player's Life Deck.\nPOWER: Choose up to 2 Styled [Attack] and/or [Defense] cards in your discard pile and Rejuvenate them. You may raise a player's anger 1.",
+     "errata_status": "printing_current",
+     "is_mrp": false,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Saiyan Oppressive Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S10_BST_32",
+     "set_number": 10,
+     "set_name": "Revelation",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR32",
+     "rarity": "DR",
+     "text_as_printed": "(You cannot win by MPPV.)\n[Continuous]: Your first Styled attack each combat gains \"Your opponent skips their next action this combat.\" Whenever your opponent skips an action, gain 2 stages or raise your anger 1 level.\n[Instant] POWER: Use when entering combat. Draw a card. Discard a card from your hand.\nPOWER: If the top card of your discard pile is Styled, your opponent loses 2 stages and Rejuvenate the bottom card of your discard pile.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S15_PRO_P17",
+     "set_number": 15,
+     "set_name": "Movie Collection 3",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P17",
+     "rarity": "P",
+     "text_as_printed": "(You cannot win by MPPV.)\n[Continuous]: Your first Styled attack each combat gains \"Your opponent skips their next action this combat.\" Whenever your opponent skips an action, gain 2 stages or raise your anger 1.\n[Instant] POWER: Use when entering combat. Draw a card. Discard a card from your hand.\nPOWER: If the top card of your discard pile is Styled, your opponent loses 2 stages and Rejuvenate the bottom card of your discard pile.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Saiyan Rampaging Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S04_STR_S05",
+     "set_number": 4,
+     "set_name": "Evolution",
+     "era": "PanZ",
+     "collection": "starter",
+     "card_number": "S5",
+     "rarity": "S",
+     "text_as_printed": "[Continuous]: You need 1 less anger to advance a personality level (to a minimum of 4). Your Styled attacks gain \"HIT: You may raise your anger 1 level.\"\nPOWER: Discard a Styled card with Endurance from your hand to perform a non-Styled physical attack dealing 1 +X stages of damage. X = the amount of Endurance on the discarded card.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    },
+    {
+     "card_id": "S14_PRO_P27",
+     "set_number": 14,
+     "set_name": "Showdown",
+     "era": "FanZ",
+     "collection": "promo",
+     "card_number": "P27",
+     "rarity": "P",
+     "text_as_printed": "[Continuous]: You need 1 less anger to advance a personality level (to a minimum of 4). Your Styled attacks gain \"HIT: You may raise your anger 1.\"\nPOWER: Discard a Styled card with Endurance from your hand to perform a non-Styled physical attack dealing 1 + X stages. X = the amount of Endurance on the discarded card.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": []
+  },
+  {
+   "name": "Saiyan Surging Mastery",
+   "style": "Saiyan",
+   "style_requirement": "MP needs the Saiyan Trait on all four chosen levels (FanZ); PanZ: MP on the Saiyan heritage list",
+   "frozen": false,
+   "printings": [
+    {
+     "card_id": "S19_BST_31",
+     "set_number": 19,
+     "set_name": "Judgement",
+     "era": "FanZ",
+     "collection": "booster",
+     "card_number": "DR31",
+     "rarity": "DR",
+     "text_as_printed": "(You cannot win by MPPV.)\n[Continuous]: Your Styled attacks gain \"Raise your anger 1.\" At the start of the Discard Step, if your MP advanced a level this turn, lower your MP 1 level.\n[Instant] POWER: Use when an effect lowers your MP 1 or more levels. Draw a card.\nPOWER: Your next attack this combat deals +X life cards. X = your MP's level.",
+     "text_current": null,
+     "errata_status": null,
+     "is_mrp": null,
+     "frozen": false,
+     "frozen_listed_printing": false,
+     "limit_per_deck": null,
+     "keywords": [],
+     "needs_review": false,
+     "filename_flags": []
+    }
+   ],
+   "cards_restricted_to_this_mastery": [
+    "S19_BST_33",
+    "S19_BST_35"
+   ]
+  }
+ ]
+}
