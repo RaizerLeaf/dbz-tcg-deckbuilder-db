@@ -31,7 +31,7 @@ other people) build decks.
 - Commit and push to `main` after each batch of database changes. Other chats work here too: `git fetch` first, re-run the tests after every merge, and regenerate `docs/` if card text changed.
 
 ## Data
-- `_deckbuilder_db/cards.json` (3,090 records, 5 MB; query it with Python, do not read it whole), `mps.json` (MP groups by level),
+- `_deckbuilder_db/cards.json` (3,089 records, 5 MB; query it with Python, do not read it whole), `mps.json` (MP groups by level),
   `masteries.json`, `excluded_cards.json`.
 - Use `text_current` when present (errata applied, latest print wins, PanZ-era wording), otherwise `text_as_printed`. `card_type_current` overrides `card_type`.
 - Owner rulings are in `work/owner_rulings.json` and applied by `scripts/owner.py`. Do not re-ask settled rulings.

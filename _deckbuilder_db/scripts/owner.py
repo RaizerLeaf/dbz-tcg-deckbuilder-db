@@ -7,6 +7,8 @@
 - restored_is_newer_ruling: clear needs_review, record the ruling.
 - exclude_never_released: promos that never came out (S04 P9 Blue Guard, S04 P10 Namekian Mouth Beam; the image is an 'Image N/A'
   placeholder). They are removed from cards.json/csv and listed in excluded_cards.json with the printing to use instead.
+- exclude_misprint_use_original: a scan that differs from the card that was actually printed (S05 P4 Visiting the Past: the repo image lacks '(Banish after use.)',
+  the retail card has it). Removed from cards.json/csv and listed in excluded_cards.json; the original printing is the record to use.
 - exclude_use_restored_instead: the 'NEVER OFFICIALLY RELEASED' overlay cards are removed from cards.json/csv and listed
   in excluded_cards.json (their '(Restored)' copy is the record to use).
 New fields: owner_ruling (text), errata_status 'owner_correction' for icon/type fixes.
@@ -91,6 +93,14 @@ def main():
         ex.append({"card_id": cid, "filename": c["filename"], "source_folder": c["source_folder"], "use_instead": rep,
                    "reason": "Never released: the CRD names this promo as a most recent printing, but the owner (2026-11-02) says it never came "
                              "out. The image is an 'Image N/A' placeholder. Use the original printing instead."})
+    for cid, rep in R.get("exclude_misprint_use_original", {}).items():
+        if cid.startswith("_"):
+            continue
+        c = by.pop(cid)
+        assert rep in by, rep
+        ex.append({"card_id": cid, "filename": c["filename"], "source_folder": c["source_folder"], "use_instead": rep,
+                   "reason": "The scan is not the card that was printed: the retail card has '(Banish after use.)' under the rules text and this image does not. "
+                             "Owner (2026-11-02, from a photo of the retail card): ignore this version and do not use the promo; use the original printing instead."})
     out = [c for c in cards if c["card_id"] in by]
     save_json(DB / "excluded_cards.json", ex)
     save_json(DB / "cards.json", out)
