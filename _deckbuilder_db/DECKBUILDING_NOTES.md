@@ -62,4 +62,4 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - Set prefixes: none = Set 1, `HV` 2, `MC` 3, `EV` 4, `PF` 5, `VG` 6, `AW` 7.
 - Optional MP printings field: `_<L1>_<L2>_<L3>_<L4>`, one printing per level.
 - **(unverified)** Set 7 deck-reveal cards appear as `S<n>` where `cards.json` numbers them `DR<n>` (e.g. `AW-S10` = `DR10`).
-- **(unverified)** A name containing a period (Dr. Wheelo) is written `Dr%2E%20Wheelo`; the app may expect another form.
+- A name containing a period (Dr. Wheelo) written as `Dr%2E%20Wheelo` imported without error and all 60 cards loaded (owner-confirmed). Whether the app picked the right MP and Mastery from that code is not yet confirmed.
