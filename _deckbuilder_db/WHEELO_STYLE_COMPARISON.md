@@ -84,3 +84,6 @@ Against the friend's Red Piccolo ("redder Pic 1.0") it won 36/50 (72%), every wi
 - Wheelo's Revival and the L1 Power are modelled; "raise a player's anger" choices follow the simulator's own-anger assumption.
 - **(unverified)** that Wheelo's L1 Power (set your anger to 3) can be used every turn at Level 1 alongside Ascension's Power; the simulator allows it. If the owner rules otherwise, the deck is slower.
 - **(unverified)** the roster win rate is the model's opinion under identical simple AI, no calibration against real games.
+
+## Owner feedback
+- 2026-11-02: the owner played `decks/wheelo_red_ascension.txt`: it is fast, and it reaches Level 2 in the first combat almost always. That agrees with the simulator (Level 2 in the first turn in the logs read). No win/loss results from real games yet; record them here.
