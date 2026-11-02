@@ -34,7 +34,7 @@ FanZ-era notation is kept (e.g. "[Sword Icon]" -> `[Attack]`, "Ϟ POWER" -> `[In
 - **Printed label.** Real Set 1-7 images that print "(Most Recent Printing)" (13 cards) are `is_mrp` true, and their wording is copied to the older printings' `text_current`. This fixed Black Scout Maneuver
   (CRD text has a typo; P7 prints the right wording), Black Command and Orange Palm Blasts (no CRD entry) and Namekian Flinch. Unflagged before: S04 P7, S07 S50, S04 S119, S07 S124.
 - **S04 P9 (Blue Guard) and P10 (Namekian Mouth Beam) never came out** (owner, 2026-11-02). Their records were 'Image N/A' placeholders with text copied from Set 1; they are now excluded by `owner.py`
-  (`exclude_never_released`, listed in `excluded_cards.json`). The CRD's MRP pointers to them are stale: Blue Guard's real MRP is Awakening S50; Namekian Mouth Beam has no Set 1-7 MRP image, so its `text_current` is the CRD wording.
+  (`exclude_never_released`, listed in `excluded_cards.json`). The CRD's MRP pointers to them are stale: Blue Guard's real MRP is Awakening S50; Namekian Mouth Beam has no Set 1-7 MRP image; its `text_current` ("Styled card with a shield icon") is the wording in both the FanZ CRD erratum and the Panini CRD C28 ruling. The Set 3 image (shown by the owner 2026-11-02) prints the original "Styled block".
 - Result: 173 cards with errata (124 `printing_current`, 49 `text_current_derived`), 56 `is_mrp` true. 14 records changed, then the 2 placeholders removed (3,090 records; diffed before and after).
 
 ## is_mrp
