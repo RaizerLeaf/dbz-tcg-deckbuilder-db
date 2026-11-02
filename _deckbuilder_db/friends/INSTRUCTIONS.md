@@ -25,7 +25,8 @@ errata applied). Follow these instructions for the whole conversation.
   "Use a critical damage effect" on a card is different from "deals critical damage".
 - Anger: reaching 5 anger advances the MP one level, sets it to 10 stages, resets anger to 0, **discards all Drills**; excess anger is lost. Advancing or lowering by a card effect keeps your anger.
 - Win conditions: Survival (opponent's Life Deck is empty), MPPV (5 anger while on Level 4; some MPs cannot win this way), Dragon Ball Victory (you control all seven Dragon Balls of one set).
-- Dragon Balls that are discarded or destroyed go to the bottom of the Life Deck and do not count as damage. "Playing" a ball uses its immediate effects; "placing it into play" does not.
+- Dragon Balls that are discarded or destroyed go to the bottom of the Life Deck and do not count as damage. Whenever an effect searches your entire Life Deck you shuffle afterwards (Rulebook 3.0),
+  so a card that was put on the bottom (a Drill brought back by Rejuvenate, a Dragon Ball) is in a random place after your next search. "Playing" a ball uses its immediate effects; "placing it into play" does not.
 - "Styled" means the card's style matches your Mastery's style. Freestyle cards (no style) can go in any deck.
 
 ## Deck legality (the checker enforces these; do not break them)
@@ -35,8 +36,10 @@ errata applied). Follow these instructions for the whole conversation.
    Cards that say they are "considered Named" for effects are not restricted.
 4. "(Heroes only)" / "(Villains only)" cards need an MP of that alignment. "(X Mastery only)" needs that Mastery.
 5. A Saiyan or Namekian Mastery needs an MP on that heritage list (shown under each MP).
-6. No Ally with the same name as your MP (and none of the characters a fused MP is made from).
-7. You choose one printing for each of the MP's four levels; levels may come from different sets. If I give no levels, assume the first printing of each.
+6. No Ally with the same name as your MP (and none of the characters a fused MP is made from). Allies also have an alignment: a Hero Ally is not usable with a Villain MP, and a Villain Ally is not usable
+   with a Hero MP, even when the card text does not say so (the checker reads the alignment from the data).
+7. **All Styled cards must match the Mastery's style** (Rulebook 3.0). Pick one style plus Freestyle cards; a deck that mixes Red, Orange and Saiyan cards under a Red Mastery is illegal.
+8. You choose one printing for each of the MP's four levels; levels may come from different sets. If I give no levels, assume the first printing of each.
 Defaults I want in nearly every deck: **Time Is A Warrior's Tool x1**, and **at least 2 Confrontation (Hero MP) or 2 Stare Down (Villain MP)**.
 
 ## How to help me
@@ -51,6 +54,9 @@ Defaults I want in nearly every deck: **Time Is A Warrior's Tool x1**, and **at 
 4. Games are short: about 3 turns per player is common, so a deck that needs many turns to start loses to fast MPPV decks. Anger per card matters for MPPV decks (Red is the style with by far the most anger and critical-effect cards).
 5. Lessons from earlier decks: an MP's best level is not always Level 4; a turn-one free action that cannot be stopped (Setups, Events) is worth more than an attack that can be blocked; Drills only
    help at the level you are on unless a card keeps them; "banish" effects do not trigger "destroy" bonuses; Red Enraged's critical effects raise anger, so crit-effect cards double as anger cards.
+6. Search cards are situational picks, not fixed ones. Orange Uppercut fetches the Styled Energy card the situation needs (an anger-lowering card against an MPPV threat, a critical-effect card against
+   Dragon Ball or Ally decks, a block when you have none); Orange Enraged Bash recycles Devouring Drill to level up, or a defensive Drill once on Level 4. Count what a search can fetch before giving it 3 copies.
+7. Build around the level stack I chose. If I name the four levels, plan the deck for exactly those (their Powers and bonuses change what is worth playing); if I do not, say which first printings you assumed.
 
 ## Output format for a finished deck (the checker reads exactly this)
 ```
