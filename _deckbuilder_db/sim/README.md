@@ -9,7 +9,7 @@ The simulator only supports PanZ-era cards (Sets 1-7, Panini rulings, Frozen lis
 system, the FanZ legality rules and the Frozen list, and behaviors for FanZ MPs and Masteries. Nothing in the engine assumes FanZ rules yet.
 
 ## Quick start (run from `_deckbuilder_db/`)
-**Reporting rule:** every time a deck is simulated against the top-25 roster (`playtest`, `roster add`, `roster rebuild`), the answer must include a per-opponent results table and, if positions changed, the updated top-25 list (see `DECKBUILDING_NOTES.md`, step 6 of "Playtesting a deck in the simulator").
+**Reporting rule:** every time a deck is simulated against the top-25 roster (`playtest`, `roster add`, `roster rebuild`), the answer must include a per-opponent results table (each opponent labelled with its current roster rank, e.g. `#22 Black Krillin`) and, if positions changed, the updated top-25 list (see `DECKBUILDING_NOTES.md`, step 6 of "Playtesting a deck in the simulator").
 
 ```
 python -m sim run  sim/decks/wheelo_black_v2.txt sim/decks/piccolo_red_friend.txt -n 1000   # win rates, alternating who goes first
