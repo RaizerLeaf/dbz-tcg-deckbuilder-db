@@ -71,7 +71,7 @@ Orange Nudge | Energy Combat | [Defense] Stops an energy attack. Destroy one of 
 Orange Offensive Strike | Energy Combat | (Banish after use.) [Attack] Energy attack costing 1 stage. DAMAGE: 2 life cards. Search your Life Deck for a copy of "Orange Offensive Strike" and place it into your hand.
 Orange Overflowing Burst | Energy Combat | [Attack] Energy attack costing 1 stage. Prevent all damage from the next non-Styled attack your opponent performs this combat. DAMAGE: 4 life cards. HIT: Your opponent's non-Styled attacks deal -2 life cards of damage this combat.
 Orange Paired Blast | Energy Combat | ENDURANCE 2. [Attack] Energy attack costing 2 stages. Banish a Drill. If you banished a Drill that was under your control, this attack cannot have its damage prevented. DAMAGE: 3 life cards.
-Orange Palm Blasts | Energy Combat | [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards. Your opponent cannot perform an energy attack in his next action.
+Orange Palm Blasts | Energy Combat | [Attack] Energy attack costing 2 stages. Your opponent cannot perform an energy attack in his next action this combat. DAMAGE: 4 life cards.
 Orange Power Point | Energy Combat | ENDURANCE 3. [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. HIT: Search your Life Deck for a Styled Drill and place it into play.
 Orange Precise Shot | Energy Combat | ENDURANCE 2. [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards. HIT: Search your opponent's Life Deck for a card and discard it. Raise your anger 1 level.
 Orange Rage | Energy Combat | ENDURANCE 1. [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. Raise your anger 2 levels.

@@ -36,7 +36,7 @@ Blue Flight | Energy Combat | [Defense] Stops an energy attack. You may banish a
 Blue Flinch | Energy Combat | [Defense] Stops an energy attack. You may discard a Styled card from your hand. If you do, each player draws a card.
 Blue Floating Beam | Energy Combat | (Banish after use.) [Attack] Energy attack costing 2 stages. DAMAGE: 6 life cards. Raise your anger 1 level. You may raise your opponent's anger 1 level. If your opponent's anger level is 4 or higher, this attack cannot be stopped.
 Blue Glare | Energy Combat | [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards. You may discard a card from hand. If you do, stop your opponent's next physical attack this combat.
-Blue Guard | Energy Combat | (If this card is discarded from your hand by a personality or Mastery effect, you may banish it instead to draw a card.) [Defense] Stops an energy attack.
+Blue Guard | Energy Combat | (If this card would be discarded from your hand by a card effect, you may banish it instead to draw a card.) [Defense] Stops an energy attack.
 Blue Hand Blast | Energy Combat | [Attack] Energy attack costing 3 stages. DAMAGE: 5 life cards. Raise your anger 2 levels. HIT: Raise or lower your opponent's anger 2 levels.
 Blue Ki Ball | Energy Combat | ENDURANCE 1. [Attack] Energy attack costing 1 stage. Raise or lower a player's anger 1 level. You may shuffle a card from your hand into your Life Deck to draw a card. DAMAGE: 3 life cards. (Banish after use.)
 Blue Left Blast | Energy Combat | [Attack] Energy attack costing 3 stages. The next time damage is prevented this combat, draw a card. DAMAGE: 4 life cards. HIT: Raise or lower a player's anger 2 levels. (Banish after use.)
