@@ -86,4 +86,10 @@ Against the friend's Red Piccolo ("redder Pic 1.0") it won 36/50 (72%), every wi
 - **(unverified)** the roster win rate is the model's opinion under identical simple AI, no calibration against real games.
 
 ## Owner feedback
-- 2026-11-02: the owner played `decks/wheelo_red_ascension.txt`: it is fast, and it reaches Level 2 in the first combat almost always. That agrees with the simulator (Level 2 in the first turn in the logs read). No win/loss results from real games yet; record them here.
+- 2026-11-02: the owner played `decks/wheelo_red_ascension.txt`: it is fast, and it reaches Level 2 in the first combat almost always. That agrees with the simulator (Level 2 in the first turn in the logs read). 
+## Real-game results (owner)
+| Opponent | Games | Result | Simulator said |
+|---|---|---|---|
+| redder Pic 1.0 (friend's Red Piccolo) | 2 | won 2, lost 0 | 36/50 (72%) |
+
+Two games say little (the simulator's own 72% would give 2-0 about half the time); keep adding rows as more games are played.
