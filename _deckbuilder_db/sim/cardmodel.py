@@ -72,13 +72,15 @@ class Card:
         self.stage_flat = 0
         self.life = 0
         self.life_at = False
-        m = re.match(r'\s*AT ?\+ ?(\d+) stages', s)
+        m = re.match(r'\s*AT ?\+ ?(\d+) stages?', s)           # "AT +1 stage" (Wall Breaker) is singular
         if m: self.at = int(m[1])
         elif re.match(r'\s*AT stages', s): self.at = 0
         m = re.match(r'\s*(\d+) stages', s)
         if m: self.stage_flat = int(m[1])
         m = re.match(r'\s*(\d+) life cards?', s)
         if m: self.life = int(m[1])
+        m = re.match(r'\s*(\d+) ?\+ ?X life cards', s)
+        if m: self.life = int(m[1])          # "4 + X life cards" (Namekian Dragon Blast): the X part is added in behaviors.life_adjust
         m = re.match(r'\s*AT ?\+ ?(\d+) life cards', s)
         if m: self.life_at, self.life = True, int(m[1])
         if re.match(r'\s*3 stages \+AT life', s): self.stage_flat, self.life_at, self.life = 3, True, 0
