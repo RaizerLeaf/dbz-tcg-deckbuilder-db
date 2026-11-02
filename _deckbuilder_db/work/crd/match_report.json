@@ -49,6 +49,10 @@
    "shows updated wording"
   ],
   [
+   "S07_STR_S50",
+   "shows updated wording"
+  ],
+  [
    "S04_STR_S35",
    "shows updated wording"
   ],
@@ -343,6 +347,60 @@
   [
    "S18_PRO_P7",
    "shows updated wording"
+  ]
+ ],
+ "mrp_label": [
+  [
+   "S04_PRO_P6",
+   "is_mrp set from the printed label"
+  ],
+  [
+   "S04_PRO_P7",
+   "labelled printing, no CRD entry"
+  ],
+  [
+   "S04_PRO_P7",
+   "is_mrp set from the printed label"
+  ],
+  [
+   "S01_BST_126",
+   "text_current copied from S04_PRO_P7"
+  ],
+  [
+   "S01_PRO_P16",
+   "text_current copied from S04_PRO_P7"
+  ],
+  [
+   "S04_STR_S119",
+   "labelled printing, no CRD entry"
+  ],
+  [
+   "S04_STR_S119",
+   "is_mrp set from the printed label"
+  ],
+  [
+   "S01_STR_S57",
+   "text_current copied from S04_STR_S119"
+  ],
+  [
+   "S07_STR_S124",
+   "labelled printing, no CRD entry"
+  ],
+  [
+   "S07_STR_S124",
+   "is_mrp set from the printed label"
+  ],
+  [
+   "S01_STR_S45",
+   "text_current copied from S07_STR_S124"
+  ],
+  [
+   "S07_STR_S87",
+   "is_mrp set from the printed label"
+  ],
+  [
+   "S01_BST_86",
+   "text_current copied from S07_STR_S87"
   ]
  ]
 }

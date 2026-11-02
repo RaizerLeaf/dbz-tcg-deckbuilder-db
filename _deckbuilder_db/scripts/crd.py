@@ -181,7 +181,7 @@ def apply_override(cur, ov):
 
 def apply_erratum(cur, e, card):
     """Return (new_text, status, detail). Status strings are stable (used in the report)."""
-    final = e.get("fanz_updated_text") or e.get("updated_text") or e.get("panini_updated_text")
+    final = e.get("_final") or e.get("fanz_updated_text") or e.get("updated_text") or e.get("panini_updated_text")
     orig = e.get("original_text")
     gains, loses = e.get("gains"), e.get("loses")
     # card-type errata
@@ -224,7 +224,7 @@ def apply_erratum(cur, e, card):
         new = (cur[:sp[0]] + cur[sp[1]:]).replace("  ", " ").strip(" \n")
         return new, "text_current_derived", {"how": "line removed"}
     if final:
-        if contains(cur, final):
+        if contains(cur, final) or (e.get("fanz_updated_text") and contains(cur, e["fanz_updated_text"])):
             return cur, "printing_current", {}
         # printing may show the intermediate Panini wording
         pu = e.get("panini_updated_text")
@@ -249,6 +249,20 @@ def main():
         c["_attached"] = []  # structured entries
         c["_mrp"] = None
         c["_status"] = []
+
+    # --- which wording is "current" for the PanZ era ----------------------------------------------
+    # An entry can carry a Panini/Updated wording and a later "FanZ Updated Text". Use the FanZ wording only when a
+    # Set 1-7 printing actually shows it (the latest PanZ-era print wins). Otherwise the earlier wording is the PanZ one
+    # (e.g. Blue Guard: Set 7 S50 prints "would be discarded ... by a card effect", not the FanZ "personality or Mastery").
+    panz_cards = [c for c in cards if c.get("set_number") and c["set_number"] <= 7]
+    for e in entries:
+        if e["kind"] == "ERRATUM" and e.get("fanz_updated_text") and not e.get("gains"):
+            base = e.get("updated_text") or e.get("panini_updated_text")
+            no_icon = lambda t: re.sub(r"\[(?:Attack|Defense|Continuous|Instant)\]\s*", "", t or "")
+            if base and not any(contains(c["text_as_printed"] or "", e["fanz_updated_text"])
+                                or contains(no_icon(c["text_as_printed"]), no_icon(e["fanz_updated_text"]))
+                                for c in panz_cards):
+                e["_final"] = base
 
     unmatched, match_log = [], []
 
@@ -307,6 +321,8 @@ def main():
                       "loses", "mrp_raw", "note_raw"):
                 if e.get(k):
                     rec[k] = e[k]
+            if e.get("_final"):
+                rec["panz_wording_used"] = e["_final"]
             rec["status"] = status
             if detail:
                 rec["detail"] = detail
@@ -348,12 +364,13 @@ def main():
         for c in cards:
             if c["card_id"] in listed or norm_name(full_name(c)) != target or c["card_type"] != ref["card_type"]:
                 continue
-            final = e.get("fanz_updated_text") or e.get("updated_text") or e.get("panini_updated_text")
+            final = e.get("_final") or e.get("fanz_updated_text") or e.get("updated_text") or e.get("panini_updated_text")
             probe = e.get("original_text") or e.get("gains") or final
             if "CARD TYPE" in " ".join(x for x in (e.get("original_text"), final, e.get("gains")) if x):
                 continue
             cur = c.get("_cur", c["text_as_printed"])
-            if final and contains(cur, final) or (e.get("gains") and contains(cur, conv_crd(e["gains"]))):
+            if final and contains(cur, final) or (e.get("gains") and contains(cur, conv_crd(e["gains"]))) \
+                    or (e.get("fanz_updated_text") and contains(cur, e["fanz_updated_text"])):
                 record(c, e, "name_propagation", [], "printing_current", None, listed=False)
                 c["_status"].append("printing_current")
                 prop_log.append((c["card_id"], "shows updated wording"))
@@ -489,6 +506,8 @@ def main():
                     bits.append(f"Gains: \"{r['gains']}\"")
                 if r.get("loses"):
                     bits.append(f"Loses: \"{r['loses']}\"")
+                if r.get("panz_wording_used"):
+                    bits.append("PanZ-era wording used (no Set 1-7 printing shows the FanZ wording)")
                 if r.get("mrp_raw"):
                     bits.append(f"MRP: {r['mrp_raw']}")
                 if r.get("note_raw"):
@@ -507,6 +526,54 @@ def main():
             + ("" if r["listed_for_this_printing"] else " (same card name; this printing not listed separately)")
             for r in rls) or None
         c["crd_entries"] = c["_attached"]
+
+    # --- "(Most Recent Printing)" printed on a real Set 1-7 image --------------------------------
+    # The latest print wins: a card image that prints this label is the MRP, whether or not the CRD lists the card, and
+    # its wording is the current text of the older printings of the same card (Black Command and Orange Palm Blasts have
+    # no CRD entry at all; Black Scout Maneuver's CRD text has a typo that the Evolution P7 image does not).
+    label_re = re.compile(r"[ \t]*\n?[ \t]*\(Most Recent Printing\)[ \t]*", re.I)
+
+    def strip_label(t):
+        return label_re.sub("", t or "").strip()
+
+    def word_bag(t):
+        return sorted(re.findall(r"[a-z0-9]+", strip_label(t).lower().replace("\u221e", "continuous")))
+
+    def tkey(c):
+        return (norm_name(full_name(c)), c.get("card_type_current") or c["card_type"], c.get("level"))
+
+    label_log = []
+    for L in [c for c in cards if c.get("set_number") and c["set_number"] <= 7 and "_RST" not in c["card_id"]
+              and label_re.search(c["text_as_printed"] or "")]:
+        if L["errata_status"] is None:
+            L["errata_status"] = "printing_current"
+            L["text_current"] = L["text_as_printed"]
+            L["errata_note"] = ("This image prints '(Most Recent Printing)'; no CRD erratum lists this card. "
+                                "text_current of the older printings copies this wording.")
+            L["crd_entries"].append({"source": "Card image", "kind": "MRP_LABEL", "match": "mrp_label",
+                                     "listed_for_this_printing": True, "status": "printing_current",
+                                     "crd_heading": f"{L['card_number']} {L['card_name']}", "crd_section": L["set_name"]})
+            label_log.append((L["card_id"], "labelled printing, no CRD entry"))
+        if not L["is_mrp"]:
+            label_log.append((L["card_id"], "is_mrp set from the printed label"))
+        L["is_mrp"] = True
+        for S in cards:
+            if S is L or "_RST" in S["card_id"] or not S.get("set_number") or S["set_number"] > 7 or tkey(S) != tkey(L):
+                continue
+            if word_bag(S["text_current"] or S["text_as_printed"]) == word_bag(L["text_as_printed"]):
+                continue
+            new = strip_label(L["text_as_printed"])
+            S["text_current"] = new
+            S["errata_status"] = "text_current_derived" if new != S["text_as_printed"] else "printing_current"
+            if S["is_mrp"] is None:
+                S["is_mrp"] = False
+            S["errata_note"] = ((S["errata_note"] + "\n") if S["errata_note"] else "") + \
+                f"text_current copied from {L['card_id']}, which prints '(Most Recent Printing)'."
+            S["crd_entries"].append({"source": "Card image", "kind": "MRP_LABEL", "match": "mrp_label",
+                                     "listed_for_this_printing": False, "status": S["errata_status"],
+                                     "updated_text": new, "mrp_printing": L["card_id"],
+                                     "crd_heading": f"{S['card_number']} {S['card_name']}", "crd_section": S["set_name"]})
+            label_log.append((S["card_id"], f"text_current copied from {L['card_id']}"))
 
     # --- Frozen list ---------------------------------------------------------------------------
     frozen_report = []
@@ -576,12 +643,13 @@ def main():
                         for k, v in c.items()})
     save_json(CRD / "unmatched.json", unmatched)
     save_json(CRD / "match_report.json", {"frozen_problems": frozen_report, "mrp_unresolved": mrp_unresolved,
-                                          "name_propagation": prop_log})
+                                          "name_propagation": prop_log, "mrp_label": label_log})
     n_err = sum(1 for c in cards if c["errata_status"])
     from collections import Counter
     print("cards with errata:", n_err, dict(Counter(c["errata_status"] for c in cards if c["errata_status"])))
     print("cards with ruling:", sum(1 for c in cards if c["ruling_note"]), "| frozen:", sum(c["frozen"] for c in cards),
           "| gold:", Counter(c["gold_title_reprint"] for c in cards), "| mrp True:", sum(1 for c in cards if c["is_mrp"]))
+    print("MRP-label changes:", len(label_log))
     print("unmatched CRD entries:", len(unmatched), "| unresolved MRP refs:", len(mrp_unresolved))
     return 0
 

@@ -45,7 +45,9 @@ BY_ID = {c['card_id']: c for c in CARDS}
 
 
 def text(c):
-    return c.get('text_current') or c['text_as_printed'] or ''
+    """Current rules text (errata applied), without the printed '(Most Recent Printing)' label."""
+    t = c.get('text_current') or c['text_as_printed'] or ''
+    return re.sub(r'[ \t]*\n?[ \t]*\(Most Recent Printing\)[ \t]*', '', t).strip()
 
 
 def ctype(c):

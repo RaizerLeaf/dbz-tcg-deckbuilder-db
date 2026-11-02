@@ -27,6 +27,14 @@ word for word; each is in `work/crd/overrides.json` with the reason (derived onl
 FanZ-era notation is kept (e.g. "[Sword Icon]" -> `[Attack]`, "Ϟ POWER" -> `[Instant] POWER`, "(God Trait only.)" -> `([Trait:God] only.)`).
 `limit_per_deck`, `restrictions`, `deck_rules`, `icons`, `keywords` are re-derived from the current text (8 cards change their Limit).
 
+## Update 2026-11-02: latest print wins
+- **PanZ wording.** 4 CRD entries carry a Panini/Updated wording plus a later "FanZ Updated Text" (Blue Guard, Orange Uppercut, Unleashed, Orange Checkup Drill). The FanZ wording is used
+  only when a Set 1-7 printing shows it (Uppercut S05 P14 and Checkup Drill S07 C32 print "Limit 1 per deck"; Unleashed is a "Gains" entry). Blue Guard is not shown anywhere in Sets 1-7 with the FanZ
+  wording, and Set 7 S50 prints "would be discarded ... by a card effect", so that is its `text_current`.
+- **Printed label.** Real Set 1-7 images that print "(Most Recent Printing)" (13 cards) are `is_mrp` true, and their wording is copied to the older printings' `text_current`. This fixed Black Scout Maneuver
+  (CRD text has a typo; P7 prints the right wording), Black Command and Orange Palm Blasts (no CRD entry) and Namekian Flinch. Unflagged before: S04 P7, S07 S50, S04 S119, S07 S124.
+- Result: 173 cards with errata (124 `printing_current`, 49 `text_current_derived`), 56 `is_mrp` true. 14 records changed (diffed before and after).
+
 ## is_mrp
 True = this printing is named by the CRD as the most recent (corrected) printing, or the entry says "currently up to date in the X
 card images", or "this change matches the printed text of ...". False = card has errata but this printing is not the MRP

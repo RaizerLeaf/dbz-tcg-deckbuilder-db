@@ -9,6 +9,7 @@ other people) build decks.
 - `_deckbuilder_db/DECKBUILDING_NOTES.md` - **deck-building rules, legality checklist, method for comparing styles, deck code format, lessons
   from past decks.** Read it before suggesting or editing any deck.
 - `_deckbuilder_db/README.md` - how the database was built, field meanings, pipeline order.
+- **Starting a deck: follow "Start here: workflow for a new deck" at the top of `DECKBUILDING_NOTES.md`.**
 - `_deckbuilder_db/STRATEGY_KNOWLEDGE.md` - **verified rules (anger, damage, Dragon Balls, "play" vs "place into play"), what makes a fast MPPV deck, the anger
   numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
 - Deck codes: use `scripts/deckcode.py` (encode / decode / check). It is on `main`.
@@ -24,7 +25,7 @@ other people) build decks.
 ## Data
 - `_deckbuilder_db/cards.json` (3,092 records, 5 MB; query it with Python, do not read it whole), `mps.json` (MP groups by level),
   `masteries.json`, `excluded_cards.json`.
-- Use `text_current` when present (CRD errata applied), otherwise `text_as_printed`. `card_type_current` overrides `card_type`.
+- Use `text_current` when present (errata applied, latest print wins, PanZ-era wording), otherwise `text_as_printed`. `card_type_current` overrides `card_type`.
 - Owner rulings are in `work/owner_rulings.json` and applied by `scripts/owner.py`. Do not re-ask settled rulings.
 - `is_named` / `named_character` mark Named cards (possessive titles); see `NOT_NAMES` in `scripts/derive.py` for the exceptions.
 

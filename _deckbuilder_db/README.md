@@ -24,7 +24,10 @@ images in this repository. Original images are never modified; all output goes i
    OCR-vs-vision comparison -> `work/full/cards.json`, `cards.csv`, `ocr_compare.json`
 7. `python crd_parse.py` then `python crd.py` (Phase 3): parses the CRD text (`work/crd/fanz.txt`, `panz.txt`
    from `pdftotext -layout`) and writes the final `cards.json` / `cards.csv` with errata, rulings, MRP, Frozen List and
-   Gold Title Reprint data (`work/crd/PHASE3_REPORT.md`, manual resolutions in `work/crd/overrides.json`)
+   Gold Title Reprint data (`work/crd/PHASE3_REPORT.md`, manual resolutions in `work/crd/overrides.json`). Two rules decide the current text (2026-11-02):
+   (a) where an entry has both a Panini/Updated wording and a later "FanZ Updated Text", the FanZ wording is used only if a Set 1-7 printing shows it,
+   otherwise the PanZ-era wording is used (Blue Guard); (b) a real Set 1-7 image that prints "(Most Recent Printing)" is the MRP (`is_mrp` true), and its wording
+   becomes `text_current` of the older printings of the same card, even when the CRD does not list the card (Black Command, Orange Palm Blasts)
 8. `python owner.py`: applies the owner's answers to the flagged cards (`work/owner_rulings.json`): type/icon rulings, copies for the two placeholder
    images, and removal of the 14 'NEVER OFFICIALLY RELEASED' S07 promos (listed in `excluded_cards.json`). Run after `crd.py`, before `mps.py`.
 9. `python mps.py` (Phase 4): adds `traits_effective` / `traits_source` to MP and Ally records and writes `mps.json` and
@@ -37,10 +40,11 @@ Deck codes: `scripts/deckcode.py` encodes, decodes and legality-checks the owner
 ## Output files (current)
 - `cards.json`, `cards.csv`: one record per image except the 14 excluded overlay promos (3,092 records; see `excluded_cards.json`). Fields are those in BRIEF.md plus: `stage_cost`,
   `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`
-  (null / printing_current / text_current_derived), `card_type_current`, `crd_entries` (structured CRD entries),
+  (null / printing_current / text_current_derived), `card_type_current`, `crd_entries` (structured CRD entries; `kind` is ERRATUM, RULING, or MRP_LABEL for text taken from a card image that prints "(Most Recent Printing)"),
   `frozen_listed_printing`, `frozen_filename_flag`, `gold_title_note`, `traits_effective`, `traits_source`, `owner_ruling`, `qa_flags`. `errata_status` can also be `owner_correction`.
   `card_type_current`, when set, overrides `card_type` (e.g. S04 BST_110 prints Event but is an Energy Combat).
-  `text_as_printed` is what the image shows; `text_current` is the text after errata (null when the card has no erratum).
+  `text_as_printed` is what the image shows; `text_current` is the text after errata (null when the card has no erratum). The latest print wins: use `text_current`, never an
+  older printing's printed text. `is_mrp` true = the most recent printing. `S04_PRO_P9` / `P10` have no image (placeholders): their text is copied from the Set 1 card, so do not treat them as a source.
   `traits` = Traits printed on the card; `traits_effective` adds the CRD's retroactive Traits for PanZ printings.
 - `mps.json`: MP groups (name + alignment) with every printing of Levels 1-4 and Trait availability per level.
 - `masteries.json`: every Mastery printing grouped by name, with the cards restricted to it.

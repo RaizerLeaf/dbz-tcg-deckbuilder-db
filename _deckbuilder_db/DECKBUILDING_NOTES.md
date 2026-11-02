@@ -3,10 +3,25 @@
 Lessons from deck-building sessions with the owner. They sit on top of `cards.json`, `mps.json` and
 `masteries.json`. Anything marked **(unverified)** is my inference and has not been confirmed by the owner or the app.
 
+## Start here: workflow for a new deck
+1. Read `CLAUDE.md` (hard rules and defaults), this file, and `STRATEGY_KNOWLEDGE.md` (verified rules, mistakes to avoid). Settled owner rulings are not re-asked.
+2. Pin down the request: the MP (name + alignment), any Mastery or style the owner wants, and the matchup it must beat. Assume the working assumptions below unless told otherwise.
+3. Look the MP up in `mps.json` (`mp_key` is `name|alignment`): the legal Set 1-7 printings per level, `panz_heritage` (Saiyan/Namekian Masteries), `cannot_include_allies_named`.
+   A level with one printing has no choice. Use `work/crd/panz.txt` / `rulebook.txt` / `crd_general.md` for rules; never guess card text.
+4. Build the legal pool from `cards.json` with Python (do not read it whole): `set_number` 1-7, no `_RST` ids, not the other alignment (`restrictions`), no other character's Named cards,
+   text from `text_current` (via `deckcode.text`). There is one record per printing, so group by `card_name`. Search the text for what the MP rewards, e.g.
+   `cd _deckbuilder_db/scripts && python3 -c "import deckcode as dc, re; [print(dc.card_code(c), c['card_name'], '|', dc.text(c)) for c in dc.CARDS if c['set_number'] and c['set_number']<=7 and '_RST' not in c['card_id'] and re.search(r'destroy.*Life Deck', dc.text(c))]"`.
+5. Compare styles with "How to compare styles" below and give 2-3 ranked options, unless the owner asked for one style.
+6. Build to the defaults (60 cards, limits, Time Is A Warrior's Tool x1, Confrontation/Stare Down x2).
+7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
+8. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
 - Rulings: PanZ-era text (Panini CRD only). The Frozen list is ignored.
-- **Errata applies** (owner-confirmed): play every card with its current text (`text_current` when present, e.g. Namekian Knowledge Mastery, Blue Guard, Namek Dragon Ball 7), not the printed text.
+- **Errata applies, and the latest print wins** (owner-confirmed): play every card with its current text (`text_current` when present, e.g. Namekian Knowledge Mastery, Blue Guard,
+  Namek Dragon Ball 7, Black Command), not the printed text. The most recent printing is often a later set or a promo (Evolution P1, P3, P7), and a card image that prints
+  "(Most Recent Printing)" shows the current wording even where the CRD is silent. PanZ-era wording is used: Blue Guard is "would be discarded ... by a card effect", not the FanZ wording.
   Only Sets 1-7 are used; the repo also holds FanZ (Set 8+), OP and PZP cards, which are out of scope unless the owner says otherwise.
 - No Traits. Saiyan / Namekian Masteries use the Rulebook 3.0 heritage lists (`mps.json` -> `panz_heritage`).
 - 60-card Life Deck plus 1 Mastery. Max 3 copies of a card name. A card's printed `limit_per_deck` is lower and wins
