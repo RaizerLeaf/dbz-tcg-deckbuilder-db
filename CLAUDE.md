@@ -12,6 +12,8 @@ other people) build decks.
 - **Starting a deck: follow "Start here: workflow for a new deck" at the top of `DECKBUILDING_NOTES.md`.**
 - `_deckbuilder_db/STRATEGY_KNOWLEDGE.md` - **verified rules (anger, damage, Dragon Balls, "play" vs "place into play"), what makes a fast MPPV deck, the anger
   numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
+- Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). PanZ (Sets 1-7) only; FanZ simulation is a later TODO.
+  Always run `coverage` and quote its limits with any result.
 - Deck codes: use `scripts/deckcode.py` (encode / decode / check). It is on `main`.
   Never retype a deck code by hand: generate it with the script and write it to a file.
 
