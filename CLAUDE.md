@@ -11,6 +11,7 @@ other people) build decks.
 - `_deckbuilder_db/README.md` - how the database was built, field meanings, pipeline order.
 - `_deckbuilder_db/STRATEGY_KNOWLEDGE.md` - **verified rules (anger, damage, Dragon Balls, "play" vs "place into play"), what makes a fast MPPV deck, the anger
   numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
+- Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). Always run `coverage` and quote its limits with any result.
 - Deck codes: use `scripts/deckcode.py` (encode / decode / check). It was written on branch `claude/lucid-wright-aczurz`; use it from there until it is merged into `main`.
   Never retype a deck code by hand: generate it with the script and write it to a file.
 
