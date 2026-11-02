@@ -44,6 +44,11 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - A card effect printed before the DAMAGE line (e.g. "Use a critical damage effect") happens immediately, before the block or the damage.
 - Dragon Ball Victory is possible with your own Dragon Balls of one set.
 - You draw 3 at the start of your turn and the defender draws 3 when combat is declared. Hand size is 1 or 0 after the Discard Step.
+- Blue Protective Mastery ("needs 6 anger to advance a personality level") only affects levelling. MPPV is still 5 anger on Level 4.
+- "Your opponent destroys the top X cards of his Life Deck" from your card counts as "one of your effects destroys cards from the top of your
+  opponent's Life Deck" (Wheelo L3/L4, Cell Jr. AW-U76, Blue Challenging Strike). Read literally; some early-set wording is odd, check those case by case.
+- "Deals critical damage" is not the same as "uses a critical damage effect". Wall Breaker (and similar "banish when ... deals critical damage") only
+  leaves when the opponent actually deals critical damage, not when a card just lets them use a critical damage effect.
 
 ## MP-specific notes
 - **Lord Slug**: Red Enraged works (guaranteed critical effects raise anger, so Levels 3-4 arrive fast). Named: Lord Slug's Fist Slam,
@@ -57,8 +62,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   (lowering anger already at 0 makes them destroy their top card), Blue Slash (HIT: they destroy 6 minus their anger), Blue Head Knock (anger to 0), and
   Wheelo L2 mills 1 per stop, which Protective's Power and Blue's stops feed. Black keeps its mill and can add anti-anger cards instead (Black Choke, Impediment,
   Easy Block, Corruption, Extreme Blast). Wheelo has no MPPV engine past L1 (L1 sets anger to 3; L2-L4 give none) and tiny power levels, so a "faster MPPV"
-  build is not recommended. **(unverified)** Protective's 6 anger does not change MPPV (5 anger on L4) by literal reading; "your opponent destroys" cards
-  (Slash, Biting Drill, Wheelo L2) may not count as "one of your effects destroys" for Wheelo L3/L4 and Cell Jr. (AW-U76) bonuses.
+  build is not recommended. Protective, "your opponent destroys" and Wall Breaker rulings: see Mechanics confirmed by the owner.
 - **Trunks**: owner's Orange Drill deck uses Orange Retribution Mastery (changing levels shuffles Drills back, its Power refetches Drills). Frenzied (Level 2)
   gives a critical effect per Named card.
 
