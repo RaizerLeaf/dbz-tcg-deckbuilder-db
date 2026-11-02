@@ -55,3 +55,18 @@ V5 84.2 / 50.8 / 91.2 / 99.0 / 99.6 / 99.0 / 96.3 (88.6); **V6 91.8 / 72.0 / 96.
 - Both pass `deckcode.py check` (no errors or warnings), re-encode identically, 60 cards. Neither is confirmed in the app yet.
 - Numbers above for V6 / V6 lite were measured before merging the other chats' simulator changes (roster, Allies, ...). Re-run on the merged `main` (3,000 games, same seed) vs Piccolo: V6 89.4%, V6 lite 84.6%
   (about 2 points lower; the ranking is unchanged). Quote the newer figures if they are re-measured.
+
+## Orange Trunks V7 (`decks/trunks_orange_v7.txt`): re-tuned on the corrected friend deck (2026-11-02)
+Why: the owner's real game (`playlogs/`) showed the friend plays **Composed** and waits to declare combat. The benchmark was fixed (the friend deck now plays Composed; the new opt-in `--patient-b` policy makes him declare combat only on
+Level 4 with 4+ anger) and V6 was re-tuned against it. Same levels as V6: Protective (L1) / Swordmaster (L2) / Energy Charged (L3) / Overwhelming (L4).
+Optimizer: 4 independent runs from V6 (200 swaps each); fitness = 35% patient Composed Piccolo, 15% default-AI Composed Piccolo, 20% Red Trunks draft, 15% Raditz Orange, 15% Goku Red. All four runs improved (69.1 -> 76-78);
+the run used for V7 scored best on fresh games.
+Fresh-seed check, 1,500 games per matchup, win % for the Trunks deck (V6 -> V7): patient Composed Piccolo 56.5 -> 63.4; default-AI Composed Piccolo 86.1 -> 88.0; Red Trunks 66.3 -> 73.5; Raditz Orange 74.7 -> 79.7; Goku Red 77.6 -> 80.1;
+Cell Jr. Red Ascension 82.5 -> 88.7; Vegeta Pinnacle 83.8 -> 87.7; Garlic 96.3 -> 97.2; Nappa 87.9 -> 92.1; mean of those nine 79.1 -> 83.4.
+Roster playtest (40 games per opponent): V7 89%, V6 87%; V7 beat V6 26/40. Roster round robin: **V7 rank 1 (90.1%), V6 88.3%**. Worst roster matchups for V7: V6 (65%), Cell Jr. Black Perceptive (70%), Goku Red and Red Trunks (75%).
+What changed from V6: Orange Devouring Drill 2 -> 0 (no level-skip left), Orange Collision 2 -> 3, Orange Electricity 1 -> 0, Orange Immense Blast 2 -> 1, Orange Leaping Punch 1 -> 0; added Android Headbutt, Orange Encouragement, Orange Energy Evasion, Sobering Hammer.
+All four runs cut Devouring Drill (to 0 or 1) and three added a third Hoping Drill.
+Caveats the simulator cannot see: the deck now has only 5 Drills (Aggressive Sword, Burning Aura, 2 Hoping, Intimidating), so Orange Overhead Smash (needs 5 Drills in play) is dead and Retribution's start-of-game search can only fetch Burning Aura; Sobering Hammer's
+Ally search has no target (no Allies) and its HIT stops effects that advance a personality for a turn (affects the owner too); Vicious Strike stops Rejuvenate effects that combat. The V7 side plays with the default AI (declares combat every turn); a human who waits, as the
+owner can, is not what was measured. In the one simulated patient-Piccolo log read, V7 stayed on Level 1-2 until turn 6-8 and lost to Fused/MPPV on turn 10, like the real game.
+Not imported into the app yet.
