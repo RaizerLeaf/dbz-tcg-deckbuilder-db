@@ -183,7 +183,7 @@ class Player:
             self.log(f'  *** {self.label} Life Deck is empty')
         return done
 
-    def take_life(self, n, ignore_end=False):
+    def take_life(self, n, ignore_end=False, how='damage'):
         removed, guard = 0, 0
         while n > 0 and self.deck and guard < 300:
             guard += 1
@@ -201,19 +201,19 @@ class Player:
                 n -= c.endurance
                 self.endure_count += 1
             else:
-                self.lose_card(c, 'damage')
+                self.lose_card(c, how)
         if not self.deck:
             self.lost = True
             self.log(f'  *** {self.label} Life Deck is empty')
         return removed
 
-    def take_stages(self, d):
+    def take_stages(self, d, how='damage'):
         if d <= 0:
             return 0
         self.stage -= d
         if self.stage < 0:
             left, self.stage = -self.stage, 0
-            return self.take_life(left)
+            return self.take_life(left, how=how)
         return 0
 
     def lose_stages(self, n, floor0=False):
@@ -293,6 +293,9 @@ class Player:
         if d > 0:
             for b in self.behaviors():
                 b.on_advance(self)
+            if self.opp is not None:
+                for b in self.opp.behaviors():
+                    b.on_opp_advance(self.opp, self)       # Broly: 'after your opponent's MP advances a level'
         self.log(f'  [{self.label} -> L{self.level} {self.lv.name}]')
 
     def crit_effect(self):
@@ -451,8 +454,9 @@ class Player:
         if ally is not None:
             self.cb['ally_kiss'].discard(ally.name)
         self.cb['next_unprev'] = False
-        removed = opp.take_stages(ds) if ds else 0
-        removed += opp.take_life(life, ignore_end=ign) if life else 0
+        how = 'banish' if any(b.banish_damage(self, c) for b in self.behaviors()) else 'damage'       # Broly Level 4: the damage is banished
+        removed = opp.take_stages(ds, how) if ds else 0
+        removed += opp.take_life(life, ignore_end=ign, how=how) if life else 0
         self.log(f'  {self.label}: {c.name} -> {ds} stage, {life} life ({removed} removed) | {opp.label} stage {opp.stage} deck {len(opp.deck)}')
         for x in [x for x in opp.hand if B.CARD_EXTRA.get(x.name, {}).get('on_damaged')]:
             if removed:

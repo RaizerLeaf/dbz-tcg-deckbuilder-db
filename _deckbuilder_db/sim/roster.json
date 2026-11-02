@@ -1,22 +1,22 @@
 {
  "max": 25,
  "games_per_pair": 30,
- "sim_hash": "438e4998ab1c",
+ "sim_hash": "2c0766154917",
  "decks": [
   {
    "file": "decks/trunks_orange_v6.txt",
    "name": "Orange Trunks V6",
    "mp": "Trunks",
    "mastery": "Orange Retribution Mastery",
-   "win_pct": 90.1,
-   "avg_turn_of_wins": 4.7
+   "win_pct": 88.7,
+   "avg_turn_of_wins": 4.8
   },
   {
    "file": "decks/raditz_orange.txt",
    "name": "Raditz orange",
    "mp": "Raditz",
    "mastery": "Orange Retribution Mastery",
-   "win_pct": 78.3,
+   "win_pct": 78.8,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -24,7 +24,7 @@
    "name": "Red Trunks Draft",
    "mp": "Trunks",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 77.5,
+   "win_pct": 78.4,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -32,7 +32,7 @@
    "name": "Vegeta Pinnacle Red",
    "mp": "Vegeta",
    "mastery": "Red Ascension Mastery",
-   "win_pct": 66.9,
+   "win_pct": 68.5,
    "avg_turn_of_wins": 6.2
   },
   {
@@ -40,31 +40,39 @@
    "name": "Cell Jr. Red Ascension",
    "mp": "Cell Jr.",
    "mastery": "Red Ascension Mastery",
-   "win_pct": 66.0,
+   "win_pct": 67.6,
    "avg_turn_of_wins": 6.0
   },
   {
-   "file": "decks/cell_jr_blue_tag_team.txt",
-   "name": "Cell Jr. Blue Tag Team",
-   "mp": "Cell Jr.",
-   "mastery": "Blue Tag Team Mastery",
-   "win_pct": 63.7,
-   "avg_turn_of_wins": 5.9
+   "file": "decks/broly_saiyan.txt",
+   "name": "Broly",
+   "mp": "Broly",
+   "mastery": "Saiyan Dynamic Mastery",
+   "win_pct": 67.3,
+   "avg_turn_of_wins": 6.2
   },
   {
    "file": "decks/goku_saiyan_rampaging.txt",
    "name": "Goku Saiyan Rampaging",
    "mp": "Goku",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 63.3,
+   "win_pct": 64.3,
    "avg_turn_of_wins": 6.2
+  },
+  {
+   "file": "decks/cell_jr_blue_tag_team.txt",
+   "name": "Cell Jr. Blue Tag Team",
+   "mp": "Cell Jr.",
+   "mastery": "Blue Tag Team Mastery",
+   "win_pct": 64.0,
+   "avg_turn_of_wins": 5.9
   },
   {
    "file": "decks/goku_red_enraged.txt",
    "name": "Goku Red Enraged",
    "mp": "Goku",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 62.1,
+   "win_pct": 62.3,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -72,15 +80,15 @@
    "name": "Cell Jr. Black Perceptive",
    "mp": "Cell Jr.",
    "mastery": "Black Perceptive Mastery",
-   "win_pct": 54.5,
-   "avg_turn_of_wins": 6.2
+   "win_pct": 55.9,
+   "avg_turn_of_wins": 6.3
   },
   {
    "file": "decks/goku_blue_tag_team.txt",
    "name": "Goku Blue Tag Team",
    "mp": "Goku",
    "mastery": "Blue Tag Team Mastery",
-   "win_pct": 53.7,
+   "win_pct": 54.3,
    "avg_turn_of_wins": 6.5
   },
   {
@@ -88,7 +96,7 @@
    "name": "Nail Red Enraged",
    "mp": "Nail",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 50.5,
+   "win_pct": 51.6,
    "avg_turn_of_wins": 6.0
   },
   {
@@ -104,55 +112,55 @@
    "name": "Wheelo Blue Lockdown",
    "mp": "Dr. Wheelo",
    "mastery": "Blue Protective Mastery",
-   "win_pct": 46.8,
+   "win_pct": 47.7,
    "avg_turn_of_wins": 7.5
-  },
-  {
-   "file": "sim/decks/piccolo_red_friend.txt",
-   "name": "redder Pic 1.0",
-   "mp": "Piccolo",
-   "mastery": "Red Enraged Mastery",
-   "win_pct": 44.8,
-   "avg_turn_of_wins": 5.8
   },
   {
    "file": "sim/decks/garlic_red.txt",
    "name": "Red Garlic Jr",
    "mp": "Garlic Jr.",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 44.5,
+   "win_pct": 45.1,
    "avg_turn_of_wins": 5.9
+  },
+  {
+   "file": "sim/decks/piccolo_red_friend.txt",
+   "name": "redder Pic 1.0",
+   "mp": "Piccolo",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 44.7,
+   "avg_turn_of_wins": 5.8
   },
   {
    "file": "decks/vegeta_awakening_saiyan_dynamic.txt",
    "name": "Vegeta AW Saiyan Dynamic",
    "mp": "Vegeta",
    "mastery": "Saiyan Dynamic Mastery",
-   "win_pct": 43.9,
+   "win_pct": 44.1,
    "avg_turn_of_wins": 7.0
-  },
-  {
-   "file": "decks/lord_slug_namekian_knowledge.txt",
-   "name": "Lord Slug Namekian Knowledge",
-   "mp": "Lord Slug",
-   "mastery": "Namekian Knowledge Mastery",
-   "win_pct": 40.5,
-   "avg_turn_of_wins": 7.9
   },
   {
    "file": "decks/raditz_red.txt",
    "name": "Raditz red",
    "mp": "Raditz",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 40.0,
+   "win_pct": 40.7,
    "avg_turn_of_wins": 6.2
+  },
+  {
+   "file": "decks/lord_slug_namekian_knowledge.txt",
+   "name": "Lord Slug Namekian Knowledge",
+   "mp": "Lord Slug",
+   "mastery": "Namekian Knowledge Mastery",
+   "win_pct": 40.7,
+   "avg_turn_of_wins": 7.9
   },
   {
    "file": "decks/nail_namekian_knowledge.txt",
    "name": "Nail Namekian Knowledge",
    "mp": "Nail",
    "mastery": "Namekian Knowledge Mastery",
-   "win_pct": 38.4,
+   "win_pct": 39.3,
    "avg_turn_of_wins": 7.9
   },
   {
@@ -160,7 +168,7 @@
    "name": "Raditz saiyan",
    "mp": "Raditz",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 35.3,
+   "win_pct": 35.9,
    "avg_turn_of_wins": 6.8
   },
   {
@@ -168,7 +176,7 @@
    "name": "Raditz adaptive",
    "mp": "Raditz",
    "mastery": "Orange Adaptive Mastery",
-   "win_pct": 34.5,
+   "win_pct": 35.1,
    "avg_turn_of_wins": 7.5
   },
   {
@@ -184,7 +192,7 @@
    "name": "WHEELO MILL V2",
    "mp": "Dr. Wheelo",
    "mastery": "Black Devious Mastery",
-   "win_pct": 21.2,
+   "win_pct": 21.6,
    "avg_turn_of_wins": 7.4
   },
   {
@@ -194,17 +202,18 @@
    "mastery": "Black Devious Mastery",
    "win_pct": 19.7,
    "avg_turn_of_wins": 7.8
-  },
+  }
+ ],
+ "retired": [
   {
    "file": "decks/lord_slug_red_namek.txt",
    "name": "RED SLUG V4 NAMEK",
    "mp": "Lord Slug",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 12.7,
+   "win_pct": 12.8,
    "avg_turn_of_wins": 8.2
   }
  ],
- "retired": [],
  "superseded": [
   {
    "file": "sim/decks/trunks_orange_v3.txt",
@@ -254,13 +263,397 @@
  ],
  "skipped_unmodelled": [],
  "pairs": {
+  "decks/broly_saiyan.txt|decks/cell_jr_black_perceptive.txt": {
+   "h": [
+    "e53a680482",
+    "5c999d7e8b"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    15,
+    15
+   ],
+   "t": [
+    99,
+    103
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/cell_jr_blue_tag_team.txt": {
+   "h": [
+    "e53a680482",
+    "e1f1146a5b"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    17,
+    13
+   ],
+   "t": [
+    98,
+    76
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/cell_jr_red_ascension.txt": {
+   "h": [
+    "e53a680482",
+    "a6b04fd35d"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    12,
+    18
+   ],
+   "t": [
+    75,
+    108
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/goku_blue_tag_team.txt": {
+   "h": [
+    "e53a680482",
+    "410f500d12"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    19,
+    11
+   ],
+   "t": [
+    110,
+    71
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/goku_red_enraged.txt": {
+   "h": [
+    "e53a680482",
+    "2b2dfea4aa"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    21,
+    9
+   ],
+   "t": [
+    121,
+    48
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/goku_saiyan_rampaging.txt": {
+   "h": [
+    "e53a680482",
+    "a52c9a31d7"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    15,
+    15
+   ],
+   "t": [
+    96,
+    97
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/lord_slug_namekian_knowledge.txt": {
+   "h": [
+    "e53a680482",
+    "420107414a"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    25,
+    5
+   ],
+   "t": [
+    176,
+    47
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/nail_namekian_knowledge.txt": {
+   "h": [
+    "e53a680482",
+    "63aaa721b1"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    21,
+    9
+   ],
+   "t": [
+    143,
+    70
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/nail_red_enraged.txt": {
+   "h": [
+    "e53a680482",
+    "da187bbf45"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    16,
+    14
+   ],
+   "t": [
+    98,
+    79
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/nappa_saiyan_clench.txt": {
+   "h": [
+    "e53a680482",
+    "7ae220f0c2"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    21,
+    9
+   ],
+   "t": [
+    135,
+    65
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/raditz_adaptive.txt": {
+   "h": [
+    "e53a680482",
+    "057f058c86"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    26,
+    4
+   ],
+   "t": [
+    169,
+    29
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/raditz_orange.txt": {
+   "h": [
+    "e53a680482",
+    "23e9cc5d47"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    12,
+    18
+   ],
+   "t": [
+    65,
+    95
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/raditz_red.txt": {
+   "h": [
+    "e53a680482",
+    "ed50befd24"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    24,
+    6
+   ],
+   "t": [
+    140,
+    31
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/raditz_saiyan.txt": {
+   "h": [
+    "e53a680482",
+    "2526cf2553"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    23,
+    7
+   ],
+   "t": [
+    136,
+    39
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/trunks_orange_v6.txt": {
+   "h": [
+    "e53a680482",
+    "ab835ad41a"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    14,
+    16
+   ],
+   "t": [
+    80,
+    99
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/vegeta_awakening_saiyan_dynamic.txt": {
+   "h": [
+    "e53a680482",
+    "80580565be"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    24,
+    6
+   ],
+   "t": [
+    151,
+    41
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/vegeta_pinnacle_red_ascension.txt": {
+   "h": [
+    "e53a680482",
+    "5ecd644b75"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    15,
+    15
+   ],
+   "t": [
+    86,
+    92
+   ]
+  },
+  "decks/broly_saiyan.txt|decks/wheelo_blue_lockdown.txt": {
+   "h": [
+    "e53a680482",
+    "9ed854e7da"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    20,
+    10
+   ],
+   "t": [
+    142,
+    69
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/garlic_red.txt": {
+   "h": [
+    "e53a680482",
+    "46467ee6e3"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    24,
+    6
+   ],
+   "t": [
+    127,
+    31
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/krillin_black.txt": {
+   "h": [
+    "e53a680482",
+    "db709b174e"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    30,
+    0
+   ],
+   "t": [
+    200,
+    0
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/nail_black_v2.txt": {
+   "h": [
+    "e53a680482",
+    "f1ba9aae64"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    28,
+    2
+   ],
+   "t": [
+    187,
+    17
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/piccolo_red_friend.txt": {
+   "h": [
+    "e53a680482",
+    "7e5a6f4258"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    24,
+    6
+   ],
+   "t": [
+    115,
+    29
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/trunks_red_draft.txt": {
+   "h": [
+    "e53a680482",
+    "e650a95306"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    3,
+    27
+   ],
+   "t": [
+    21,
+    131
+   ]
+  },
+  "decks/broly_saiyan.txt|sim/decks/wheelo_black_v2.txt": {
+   "h": [
+    "e53a680482",
+    "7538bbaa6b"
+   ],
+   "g": 30,
+   "sh": "2c0766154917",
+   "w": [
+    27,
+    3
+   ],
+   "t": [
+    178,
+    24
+   ]
+  },
   "decks/cell_jr_black_perceptive.txt|decks/cell_jr_blue_tag_team.txt": {
    "h": [
     "5c999d7e8b",
     "e1f1146a5b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -276,7 +669,7 @@
     "a6b04fd35d"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     7,
     23
@@ -292,7 +685,7 @@
     "410f500d12"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -308,7 +701,7 @@
     "2b2dfea4aa"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -324,7 +717,7 @@
     "a52c9a31d7"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -340,7 +733,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -350,29 +743,13 @@
     105
    ]
   },
-  "decks/cell_jr_black_perceptive.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "5c999d7e8b",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    27,
-    3
-   ],
-   "t": [
-    191,
-    25
-   ]
-  },
   "decks/cell_jr_black_perceptive.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "5c999d7e8b",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -388,7 +765,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -404,7 +781,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -420,7 +797,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -436,7 +813,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -452,7 +829,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -468,7 +845,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -484,7 +861,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     3,
     27
@@ -500,7 +877,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -516,7 +893,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     7,
     23
@@ -532,7 +909,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -548,7 +925,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -564,7 +941,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -580,7 +957,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -596,7 +973,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -612,7 +989,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -628,7 +1005,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -644,7 +1021,7 @@
     "a6b04fd35d"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -660,7 +1037,7 @@
     "410f500d12"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -676,7 +1053,7 @@
     "2b2dfea4aa"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -692,7 +1069,7 @@
     "a52c9a31d7"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     21,
     9
@@ -708,7 +1085,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -718,29 +1095,13 @@
     87
    ]
   },
-  "decks/cell_jr_blue_tag_team.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "e1f1146a5b",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    27,
-    3
-   ],
-   "t": [
-    162,
-    19
-   ]
-  },
   "decks/cell_jr_blue_tag_team.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "e1f1146a5b",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -756,7 +1117,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -772,7 +1133,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -788,7 +1149,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -804,7 +1165,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -820,7 +1181,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -836,7 +1197,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -852,7 +1213,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     2,
     28
@@ -868,7 +1229,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -884,7 +1245,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -900,7 +1261,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -916,7 +1277,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -932,7 +1293,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -948,7 +1309,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -964,7 +1325,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     21,
     9
@@ -980,7 +1341,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     7,
     23
@@ -996,7 +1357,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -1012,7 +1373,7 @@
     "410f500d12"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -1028,7 +1389,7 @@
     "2b2dfea4aa"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -1044,7 +1405,7 @@
     "a52c9a31d7"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     13,
     17
@@ -1060,7 +1421,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -1070,29 +1431,13 @@
     28
    ]
   },
-  "decks/cell_jr_red_ascension.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "a6b04fd35d",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    30,
-    0
-   ],
-   "t": [
-    171,
-    0
-   ]
-  },
   "decks/cell_jr_red_ascension.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "a6b04fd35d",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -1108,7 +1453,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -1124,7 +1469,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -1140,7 +1485,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -1156,7 +1501,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -1172,7 +1517,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -1188,7 +1533,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -1204,7 +1549,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -1220,7 +1565,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -1236,7 +1581,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -1252,7 +1597,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -1268,7 +1613,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -1284,7 +1629,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -1300,7 +1645,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -1316,7 +1661,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -1332,7 +1677,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -1348,7 +1693,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -1364,7 +1709,7 @@
     "2b2dfea4aa"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -1380,7 +1725,7 @@
     "a52c9a31d7"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -1396,7 +1741,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -1406,29 +1751,13 @@
     79
    ]
   },
-  "decks/goku_blue_tag_team.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "410f500d12",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    26,
-    4
-   ],
-   "t": [
-    144,
-    25
-   ]
-  },
   "decks/goku_blue_tag_team.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "410f500d12",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -1444,7 +1773,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -1460,7 +1789,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -1476,7 +1805,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -1492,7 +1821,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -1508,7 +1837,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -1524,7 +1853,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -1540,7 +1869,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -1556,7 +1885,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     13,
     17
@@ -1572,7 +1901,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -1588,7 +1917,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -1604,7 +1933,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -1620,7 +1949,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -1636,7 +1965,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -1652,7 +1981,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -1668,7 +1997,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -1684,7 +2013,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     21,
     9
@@ -1700,7 +2029,7 @@
     "a52c9a31d7"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -1716,7 +2045,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -1726,29 +2055,13 @@
     18
    ]
   },
-  "decks/goku_red_enraged.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "2b2dfea4aa",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    29,
-    1
-   ],
-   "t": [
-    137,
-    8
-   ]
-  },
   "decks/goku_red_enraged.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "2b2dfea4aa",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -1764,7 +2077,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -1780,7 +2093,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -1796,7 +2109,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -1812,7 +2125,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -1828,7 +2141,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -1844,7 +2157,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -1860,7 +2173,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -1876,7 +2189,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -1892,7 +2205,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -1908,7 +2221,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -1924,7 +2237,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -1940,7 +2253,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -1956,7 +2269,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -1972,7 +2285,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -1988,7 +2301,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -2004,7 +2317,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -2020,7 +2333,7 @@
     "420107414a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -2030,29 +2343,13 @@
     8
    ]
   },
-  "decks/goku_saiyan_rampaging.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "a52c9a31d7",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    30,
-    0
-   ],
-   "t": [
-    165,
-    0
-   ]
-  },
   "decks/goku_saiyan_rampaging.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "a52c9a31d7",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -2068,7 +2365,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -2084,7 +2381,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -2100,7 +2397,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -2116,7 +2413,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -2132,7 +2429,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -2148,7 +2445,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -2164,7 +2461,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -2180,7 +2477,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -2196,7 +2493,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     13,
     17
@@ -2212,7 +2509,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -2228,7 +2525,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -2244,7 +2541,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -2260,7 +2557,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -2276,7 +2573,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -2292,7 +2589,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -2308,7 +2605,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -2318,29 +2615,13 @@
     39
    ]
   },
-  "decks/lord_slug_namekian_knowledge.txt|decks/lord_slug_red_namek.txt": {
-   "h": [
-    "420107414a",
-    "cf49f5e6d7"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    25,
-    5
-   ],
-   "t": [
-    201,
-    45
-   ]
-  },
   "decks/lord_slug_namekian_knowledge.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "420107414a",
     "63aaa721b1"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -2356,7 +2637,7 @@
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -2372,7 +2653,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -2388,7 +2669,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -2404,7 +2685,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -2420,7 +2701,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -2436,7 +2717,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -2452,7 +2733,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -2468,7 +2749,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -2484,7 +2765,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     3,
     27
@@ -2500,7 +2781,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -2516,7 +2797,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     7,
     23
@@ -2532,7 +2813,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -2548,7 +2829,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -2564,7 +2845,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -2580,7 +2861,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     2,
     28
@@ -2596,7 +2877,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -2606,285 +2887,13 @@
     43
    ]
   },
-  "decks/lord_slug_red_namek.txt|decks/nail_namekian_knowledge.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "63aaa721b1"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    3,
-    27
-   ],
-   "t": [
-    27,
-    224
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/nail_red_enraged.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "da187bbf45"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    1,
-    29
-   ],
-   "t": [
-    7,
-    163
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/nappa_saiyan_clench.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7ae220f0c2"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    5,
-    25
-   ],
-   "t": [
-    43,
-    205
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/raditz_adaptive.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "057f058c86"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    3,
-    27
-   ],
-   "t": [
-    24,
-    212
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/raditz_orange.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "23e9cc5d47"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    163
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/raditz_red.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "ed50befd24"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    5,
-    25
-   ],
-   "t": [
-    40,
-    155
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/raditz_saiyan.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "2526cf2553"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    2,
-    28
-   ],
-   "t": [
-    19,
-    216
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/trunks_orange_v6.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "ab835ad41a"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    133
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/vegeta_awakening_saiyan_dynamic.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "80580565be"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    2,
-    28
-   ],
-   "t": [
-    16,
-    207
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/vegeta_pinnacle_red_ascension.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "5ecd644b75"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    179
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/wheelo_blue_lockdown.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "9ed854e7da"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    11,
-    19
-   ],
-   "t": [
-    93,
-    158
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/garlic_red.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "46467ee6e3"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    2,
-    28
-   ],
-   "t": [
-    13,
-    158
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/krillin_black.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "db709b174e"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    15,
-    15
-   ],
-   "t": [
-    125,
-    122
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/nail_black_v2.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "f1ba9aae64"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    13,
-    17
-   ],
-   "t": [
-    117,
-    150
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/piccolo_red_friend.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7e5a6f4258"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    6,
-    24
-   ],
-   "t": [
-    41,
-    155
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/trunks_red_draft.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "e650a95306"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    140
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/wheelo_black_v2.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7538bbaa6b"
-   ],
-   "g": 30,
-   "sh": "438e4998ab1c",
-   "w": [
-    11,
-    19
-   ],
-   "t": [
-    89,
-    158
-   ]
-  },
   "decks/nail_namekian_knowledge.txt|decks/nail_red_enraged.txt": {
    "h": [
     "63aaa721b1",
     "da187bbf45"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -2900,7 +2909,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -2916,7 +2925,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -2932,7 +2941,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -2948,7 +2957,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -2964,7 +2973,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -2980,7 +2989,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -2996,7 +3005,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -3012,7 +3021,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -3028,7 +3037,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -3044,7 +3053,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -3060,7 +3069,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -3076,7 +3085,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -3092,7 +3101,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -3108,7 +3117,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -3124,7 +3133,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -3140,7 +3149,7 @@
     "7ae220f0c2"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -3156,7 +3165,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -3172,7 +3181,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -3188,7 +3197,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -3204,7 +3213,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -3220,7 +3229,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -3236,7 +3245,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -3252,7 +3261,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -3268,7 +3277,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -3284,7 +3293,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -3300,7 +3309,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -3316,7 +3325,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -3332,7 +3341,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -3348,7 +3357,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -3364,7 +3373,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -3380,7 +3389,7 @@
     "057f058c86"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -3396,7 +3405,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     2,
     28
@@ -3412,7 +3421,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -3428,7 +3437,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -3444,7 +3453,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -3460,7 +3469,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -3476,7 +3485,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -3492,7 +3501,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -3508,7 +3517,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     17,
     13
@@ -3524,7 +3533,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -3540,7 +3549,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -3556,7 +3565,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -3572,7 +3581,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -3588,7 +3597,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -3604,7 +3613,7 @@
     "23e9cc5d47"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -3620,7 +3629,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -3636,7 +3645,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -3652,7 +3661,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     0,
     30
@@ -3668,7 +3677,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -3684,7 +3693,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -3700,7 +3709,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     3,
     27
@@ -3716,7 +3725,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -3732,7 +3741,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     21,
     9
@@ -3748,7 +3757,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -3764,7 +3773,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -3780,7 +3789,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     2,
     28
@@ -3796,7 +3805,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -3812,7 +3821,7 @@
     "ed50befd24"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -3828,7 +3837,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -3844,7 +3853,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -3860,7 +3869,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -3876,7 +3885,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     13,
     17
@@ -3892,7 +3901,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -3908,7 +3917,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -3924,7 +3933,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -3940,7 +3949,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -3956,7 +3965,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -3972,7 +3981,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -3988,7 +3997,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -4004,7 +4013,7 @@
     "2526cf2553"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -4020,7 +4029,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -4036,7 +4045,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -4052,7 +4061,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4068,7 +4077,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -4084,7 +4093,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     8,
     22
@@ -4100,7 +4109,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -4116,7 +4125,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     25,
     5
@@ -4132,7 +4141,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -4148,7 +4157,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4164,7 +4173,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -4180,7 +4189,7 @@
     "ab835ad41a"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     0,
     30
@@ -4196,7 +4205,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -4212,7 +4221,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -4228,7 +4237,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     1,
     29
@@ -4244,7 +4253,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -4260,7 +4269,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -4276,7 +4285,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -4292,7 +4301,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     15,
     15
@@ -4308,7 +4317,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4324,7 +4333,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -4340,7 +4349,7 @@
     "80580565be"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -4356,7 +4365,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     26,
     4
@@ -4372,7 +4381,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -4388,7 +4397,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     29,
     1
@@ -4404,7 +4413,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -4420,7 +4429,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -4436,7 +4445,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -4452,7 +4461,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -4468,7 +4477,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -4484,7 +4493,7 @@
     "5ecd644b75"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -4500,7 +4509,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -4516,7 +4525,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     16,
     14
@@ -4532,7 +4541,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     18,
     12
@@ -4548,7 +4557,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     23,
     7
@@ -4564,7 +4573,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -4580,7 +4589,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -4596,7 +4605,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     21,
     9
@@ -4612,7 +4621,7 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -4628,7 +4637,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     24,
     6
@@ -4644,7 +4653,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -4660,7 +4669,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
@@ -4676,7 +4685,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -4692,7 +4701,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4708,7 +4717,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -4724,7 +4733,7 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     28,
     2
@@ -4740,7 +4749,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -4756,7 +4765,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     10,
     20
@@ -4772,7 +4781,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -4788,7 +4797,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -4804,7 +4813,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     12,
     18
@@ -4820,7 +4829,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     11,
     19
@@ -4836,7 +4845,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     22,
     8
@@ -4852,7 +4861,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     20,
     10
@@ -4868,7 +4877,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     4,
     26
@@ -4884,7 +4893,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     19,
     11
@@ -4900,7 +4909,7 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     9,
     21
@@ -4916,7 +4925,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     7,
     23
@@ -4932,7 +4941,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4948,7 +4957,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -4964,7 +4973,7 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     6,
     24
@@ -4980,7 +4989,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     0,
     30
@@ -4996,7 +5005,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     14,
     16
@@ -5012,7 +5021,7 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     5,
     25
@@ -5028,7 +5037,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     30,
     0
@@ -5044,7 +5053,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "438e4998ab1c",
+   "sh": "2c0766154917",
    "w": [
     27,
     3
