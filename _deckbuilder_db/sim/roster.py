@@ -5,8 +5,11 @@
     python -m sim roster rebuild              re-rank every deck in decks/ and sim/decks/ from scratch
     python -m sim playtest decks/x.txt [-n 20]   play a deck against every roster deck (20 games each by default, 50 at most)
 
-Ranking = win rate over a round robin of the roster plus the candidate (30 games per pair, fixed seeds, first player alternating), so the same
-inputs always give the same ranking. Pair results are cached in roster.json (keyed by the decks' codes and a hash of the simulator and card data),
+Only ONE version of a deck counts: a deck's family is its MP + Mastery (Orange Trunks V3/V4/V5 are one family). Only the best-ranked version of
+each family stays on the roster; the others are listed as `superseded`. Decks of the same family do not play each other in the ranking.
+
+Ranking = win rate over a round robin of the roster plus the candidate against decks of OTHER families (30 games per pair, fixed seeds, first player
+alternating), so the same inputs always give the same ranking. Pair results are cached in roster.json (keyed by the decks' codes and a hash of the simulator and card data),
 so `add` only plays the new deck against the existing roster; if the simulator or card data changed, everything is re-ranked. It is the simulator's
 opinion, not a measure of real strength. roster.json is regenerable (`roster rebuild`); if two chats change it at once, resolve the conflict by re-running it.
 """
@@ -48,6 +51,12 @@ def unmodelled(spec):
     if spec.mastery_name not in B.MASTERY_BEH:
         out.append(f'Mastery {spec.mastery_name}')
     return out
+
+
+def family(spec):
+    """Versions of one deck share a family: same MP (and alignment) and same Mastery."""
+    align = records_by_id()[spec.level_ids[0]].get('alignment') or ''
+    return f'{spec.mp_name} ({align}) + {spec.mastery_name}'
 
 
 def sim_hash():
@@ -100,8 +109,11 @@ def evaluate(entries, games=ROUND_ROBIN_GAMES, cache=None, sh=None):
     sh = sh or sim_hash()
     wins, played, tsum = collections.Counter(), collections.Counter(), collections.Counter()
     ordered = sorted(entries, key=lambda e: e[0])
+    fam = {k: family(sp) for k, sp in entries}
     for i, (ka, sa) in enumerate(ordered):
         for kb, sb in ordered[i + 1:]:
+            if fam[ka] == fam[kb]:
+                continue                     # versions of the same deck do not play each other
             e = _pair(ka, sa, kb, sb, games, cache, sh)
             wins[ka] += e['w'][0]; wins[kb] += e['w'][1]
             tsum[ka] += e['t'][0]; tsum[kb] += e['t'][1]
@@ -115,13 +127,24 @@ def _entry(key, spec, ev):
 
 
 def rank_and_cut(entries, games, cache, sh):
-    """Evaluate, rank by win rate (ties by file name), keep the top MAX_ROSTER. Returns (kept, dropped, evals)."""
+    """Evaluate, rank by win rate (ties: the later file name wins), keep the best version of each family, then the top MAX_ROSTER.
+    Returns (kept, dropped, superseded, evals)."""
     ev = evaluate(entries, games, cache, sh)
     specs = dict(entries)
-    order = sorted(ev, key=lambda k: (-ev[k]['pct'], k))
-    kept = [_entry(k, specs[k], ev[k]) for k in order[:MAX_ROSTER]]
-    dropped = [_entry(k, specs[k], ev[k]) for k in order[MAX_ROSTER:]]
-    return kept, dropped, ev
+    order = sorted(sorted(ev, reverse=True), key=lambda k: -ev[k]['pct'])          # stable: ties keep descending file-name order
+    best, superseded = {}, []
+    for k in order:
+        f = family(specs[k])
+        if f in best:
+            e = _entry(k, specs[k], ev[k])
+            e['superseded_by'] = best[f]
+            superseded.append(e)
+        else:
+            best[f] = k
+    candidates = [k for k in order if best[family(specs[k])] == k]
+    kept = [_entry(k, specs[k], ev[k]) for k in candidates[:MAX_ROSTER]]
+    dropped = [_entry(k, specs[k], ev[k]) for k in candidates[MAX_ROSTER:]]
+    return kept, dropped, superseded, ev
 
 
 def _prune(cache, keep_files):
@@ -139,8 +162,8 @@ def rebuild(games=ROUND_ROBIN_GAMES):
         else:
             entries.append((f, spec))
     cache, sh = {}, sim_hash()
-    kept, dropped, _ = rank_and_cut(entries, games, cache, sh)
-    r = {'max': MAX_ROSTER, 'games_per_pair': games, 'sim_hash': sh, 'decks': kept, 'retired': dropped, 'skipped_unmodelled': skipped,
+    kept, dropped, superseded, _ = rank_and_cut(entries, games, cache, sh)
+    r = {'max': MAX_ROSTER, 'games_per_pair': games, 'sim_hash': sh, 'decks': kept, 'retired': dropped, 'superseded': superseded, 'skipped_unmodelled': skipped,
          'pairs': _prune(cache, {d['file'] for d in kept})}
     write(r)
     return r
@@ -160,16 +183,28 @@ def add(path, games=ROUND_ROBIN_GAMES):
     cache = {} if stale else dict(r.get('pairs', {}))
     entries = [(d['file'], load(str(DB / d['file']))) for d in r['decks'] if d['file'] != key and (DB / d['file']).exists()]
     entries.append((key, spec))
-    kept, dropped, ev = rank_and_cut(entries, games, cache, sh)
+    kept, dropped, superseded, ev = rank_and_cut(entries, games, cache, sh)
     kept_files = [d['file'] for d in kept]
+    sup_files = {d['file']: d for d in superseded}
     evicted = [d for d in dropped if d['file'] != key]
-    status = 'added' if key in kept_files else 'not added'
+    if key in kept_files:
+        status = 'added'
+    elif key in sup_files:
+        status = 'not added (a better version is on the roster)'
+    else:
+        status = 'not added'
+    replaced = [d['file'] for d in superseded if d.get('superseded_by') == key]
     retired = [d for d in r.get('retired', []) if d['file'] not in kept_files and d['file'] != key] + dropped
+    old_sup = [d for d in r.get('superseded', []) if d['file'] not in kept_files and d['file'] not in sup_files and d['file'] != key]
+    fam_best = {family(sp): k for k, sp in entries if k in kept_files}
+    for d in old_sup:                       # point older versions at the version that is on the roster now
+        if (DB / d['file']).exists():
+            d['superseded_by'] = fam_best.get(family(load(str(DB / d['file']))), d.get('superseded_by'))
     r.update({'max': MAX_ROSTER, 'games_per_pair': games, 'sim_hash': sh, 'decks': kept, 'retired': list({d['file']: d for d in retired}.values()),
-              'pairs': _prune(cache, set(kept_files))})
+              'superseded': old_sup + superseded, 'pairs': _prune(cache, set(kept_files))})
     write(r)
     return {'status': status, 'rank': (kept_files.index(key) + 1) if key in kept_files else None, 'win_pct': ev[key]['pct'], 'evicted': evicted,
-            'roster_size': len(kept), 're_ranked_everything': stale}
+            'replaced': replaced, 'family': family(spec), 'roster_size': len(kept), 're_ranked_everything': stale}
 
 
 def playtest(path, n=PLAYTEST_DEFAULT, allow_unmodelled=False):

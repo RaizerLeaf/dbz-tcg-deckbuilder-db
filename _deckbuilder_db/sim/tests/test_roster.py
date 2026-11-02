@@ -23,6 +23,23 @@ class Roster(unittest.TestCase):
     def modelled(self):
         return [f for f in ALL if not R.unmodelled(load(str(DB / f)))]
 
+    def one_per_family(self):
+        seen, out = set(), []
+        for f in self.modelled():
+            fam = R.family(load(str(DB / f)))
+            if fam not in seen:
+                seen.add(fam)
+                out.append(f)
+        return out
+
+    def versions_of_one_deck(self):
+        by = {}
+        for f in self.modelled():
+            by.setdefault(R.family(load(str(DB / f))), []).append(f)
+        fam = [v for v in by.values() if len(v) >= 2]
+        self.assertTrue(fam, 'the repository should contain two versions of the same deck (Orange Trunks)')
+        return fam[0]
+
     def test_unmodelled_decks_are_refused(self):
         orig = R.unmodelled
         R.unmodelled = lambda spec: ['L1 Made Up Level']           # pretend the simulator lacks a level
@@ -34,7 +51,7 @@ class Roster(unittest.TestCase):
         self.assertEqual(R.read()['decks'], [])
 
     def test_roster_never_exceeds_its_cap_and_evicts_the_lowest(self):
-        files = self.modelled()
+        files = self.one_per_family()
         cap, orig = 5, R.MAX_ROSTER
         R.MAX_ROSTER = cap                                          # a small cap so the test does not need 26 decks
         try:
@@ -60,7 +77,7 @@ class Roster(unittest.TestCase):
         self.assertEqual(R.evaluate(entries, games=3), R.evaluate(entries, games=3))
 
     def test_cached_pairs_are_reused_and_invalidated(self):
-        files = self.modelled()[:3]
+        files = self.one_per_family()[:3]
         for f in files:
             R.add(f, games=2)
         r = R.read()
@@ -73,6 +90,27 @@ class Roster(unittest.TestCase):
         R.write(r2)
         self.assertTrue(R.add(files[0], games=2)['re_ranked_everything'])
 
+    def test_only_one_version_of_a_deck_counts(self):
+        versions = self.versions_of_one_deck()
+        other = [f for f in self.one_per_family() if R.family(load(str(DB / f))) != R.family(load(str(DB / versions[0])))][:2]
+        for f in other + versions:                                   # every version is added in turn
+            R.add(f, games=4)
+        r = R.read()
+        on_roster = [d['file'] for d in r['decks'] if d['file'] in versions]
+        self.assertEqual(len(on_roster), 1, 'exactly one version of the deck stays on the roster')
+        older = [d for d in r['superseded'] if d['file'] in versions]
+        self.assertEqual(len(older), len(versions) - 1)
+        self.assertTrue(all(d['superseded_by'] == on_roster[0] for d in older))
+        best = max(r['decks'] + older, key=lambda d: d['win_pct'] if d['file'] in versions else -1)
+        self.assertEqual(best['file'], on_roster[0], 'the kept version is the best-ranked one')
+
+    def test_versions_of_the_same_deck_do_not_play_each_other_in_the_ranking(self):
+        versions = self.versions_of_one_deck()
+        entries = [(f, load(str(DB / f))) for f in versions]
+        cache = {}
+        R.evaluate(entries, games=2, cache=cache)
+        self.assertEqual(cache, {}, 'no pair is played between versions of one deck')
+
     def test_cap_default_is_25(self):
         self.assertEqual(R.MAX_ROSTER, 25)
 
@@ -81,7 +119,7 @@ class Roster(unittest.TestCase):
             R.playtest(self.modelled()[0], n=R.PLAYTEST_MAX + 1)
 
     def test_playtest_plays_every_roster_deck_but_itself(self):
-        files = self.modelled()[:4]
+        files = self.one_per_family()[:4]
         for f in files:
             R.add(f, games=2)
         res = R.playtest(files[0], n=2)

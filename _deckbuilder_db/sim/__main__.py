@@ -5,7 +5,7 @@
   game A B [--seed 1] [--first a|b]                         one game with the full play log
   coverage CODE                                             which parts of the deck the simulator models
   playtest DECK [-n 20]                                     play a deck against every roster deck (20 games each, 50 at most): for deck building
-  roster [add FILE | rebuild]                               the test-deck roster (best 25 decks); `add` ranks a finished deck into it
+  roster [add FILE | rebuild]                               the test-deck roster (best 25 decks, one version per MP + Mastery); `add` ranks a finished deck into it
 A and B are deck codes or paths to decks/*.txt files.
 """
 import argparse
@@ -135,6 +135,8 @@ def cmd_roster(args):
             raise SystemExit('roster add refused: ' + out['reason'])
         print(f"{args.file}: {out['status']}" + (f" at rank {out['rank']} of {out['roster_size']}" if out['rank'] else '') + f" (win rate {out['win_pct']}% in the round robin)"
               + ('  [the simulator or card data changed: everyone was re-ranked]' if out['re_ranked_everything'] else ''))
+        for f in out['replaced']:
+            print(f"  replaces an older version of the same deck ({out['family']}): {f}")
         for d in out['evicted']:
             print(f"  retired from the roster: {d['file']} ({d['win_pct']}%)")
         r = R.read()
@@ -146,6 +148,8 @@ def cmd_roster(args):
         print(f"  {i:>2}. {d['win_pct']:>5}%  turn {t:>5}  {d['file']:<36} {d['mp']} / {d['mastery']}")
     for d in r.get('retired', []):
         print(f"  retired: {d['win_pct']:>5}%  {d['file']}")
+    for d in r.get('superseded', []):
+        print(f"  older version (same MP + Mastery): {d['win_pct']:>5}%  {d['file']}  <- replaced by {d['superseded_by']}")
     for d in r.get('skipped_unmodelled', []):
         print(f"  not rankable (NOT MODELLED): {d['file']}: {', '.join(d['unmodelled'])}")
 

@@ -26,7 +26,7 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
    (recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
    starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
    code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
-3. **Play it against the test-deck roster:** `python -m sim playtest decks/<name>.txt`. It plays your deck against every deck on the roster (**up to 25 decks**, 20 games each by default; a game takes about 10 ms, so a full playtest takes about 3 seconds and the 50-game cap about 6;
+3. **Play it against the test-deck roster:** `python -m sim playtest decks/<name>.txt`. It plays your deck against every deck on the roster (**up to 25 decks, one version per MP + Mastery**, 20 games each by default; a game takes about 10 ms, so a full playtest takes about 3 seconds and the 50-game cap about 6;
    the command refuses more than 50 games per opponent). It prints a win rate per opponent and how each game ended, and the command to read a play log of your worst matchup (`python -m sim game A B --seed 1`):
    read 2-3 logs. Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses. For a specific matchup the owner named, also
    `python -m sim game <your deck> <their deck>`. **Do not run hundreds or thousands of games for deck building**: large `python -m sim run A B -n 1000` batches are for matchup testing when the owner asks.
@@ -34,20 +34,20 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
 4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
    unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
 5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt` and `sim/roster.json`. The command
-   ranks the deck against the current roster (round robin, fixed seeds): if it is in the top 25 by win rate it joins and, once the roster is full, the lowest-ranked deck is retired; if it does not make the top 25 it is not added. It only plays the new deck against the roster (pair results are cached), so it takes well under a second.
+   ranks the deck against the current roster (round robin, fixed seeds): if it is in the top 25 by win rate it joins and, once the roster is full, the lowest-ranked deck is retired; if it does not make the top 25 it is not added. If an older version of the same deck (same MP + Mastery) is on the roster, the better of the two stays and the other is listed as superseded. It only plays the new deck against the roster (pair results are cached), so it takes well under a second.
    It refuses a deck whose MP levels or Mastery are NOT MODELLED (do step 2 first). Say in your answer whether the deck joined the roster.
 
 ### The test-deck roster
 `sim/roster.json` holds **at most 25 decks** (the cap is `MAX_ROSTER` in `sim/roster.py`; games are fast enough to test against many decks); `python -m sim roster` shows it. Rule: a new finished deck is played against the roster in a round robin (30 games per pair, fixed seeds, first player
-alternating); decks are ranked by win rate, the top 25 stay and the rest are retired (`retired` in the file; the deck files stay in the repository and can still be used with `sim game`/`sim run`).
+alternating); decks are ranked by win rate, the top 25 stay and the rest are retired. **Only one version of a deck counts**: a deck's family is its MP + Mastery (Orange Trunks V3/V4/V5 are one deck); only the best-ranked version of each family stays, the older ones are listed as `superseded` in the file, and versions of one family do not play each other in the ranking. A new version replaces its predecessor only if it ranks higher (`retired` in the file; the deck files stay in the repository and can still be used with `sim game`/`sim run`).
 `python -m sim roster rebuild` re-ranks every deck in `decks/` and `sim/decks/` from scratch (use it to resolve a merge conflict in `roster.json`). Decks with NOT MODELLED parts are not rankable.
 Things to know:
-- The ranking is the **model's** win rate, not real strength (the model may overrate the Orange Trunks decks), and it measures decks against each other only.
-- Because the roster keeps the highest winners it drifts toward strong, fast decks and can contain near-duplicates (three versions of Orange Trunks at the start). Once the roster is full, slow decks get
-  retired first. If you need a slow or specific opponent, use it directly with `sim game` / `sim run`.
-- Snapshot when it was created (12 decks, so nothing is retired yet): Orange Trunks V5/V3/V4 (79-82%), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
-  Garlic Jr. (37%), Krillin (31%), Wheelo Black (30%), Wheelo Blue (29%), Lord Slug (8%). Check `python -m sim roster` for the current list. Once more than 25 decks exist, the lowest-ranked ones
-  retire, and slow decks like Lord Slug go first.
+- The ranking is the **model's** win rate, not real strength (the model may overrate the Orange Trunks decks), and it measures decks against each other only. A win rate is relative to the decks on the
+  roster at that moment, so the numbers shift a little whenever the roster changes.
+- Because the roster keeps the highest winners it drifts toward strong, fast decks. Once the roster is full, slow decks get retired first. Two truly different strategies with the same MP and Mastery
+  count as versions of one deck (the roster keeps the better one); use `sim game` / `sim run` to test against the other directly. If you need a slow or specific opponent, use it directly with `sim game` / `sim run`.
+- Snapshot when it was created (10 decks): Orange Trunks V5 (89%; V3 and V4 superseded), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
+  Garlic Jr. (37%), Krillin (31%), Wheelo Black (30%), Wheelo Blue (29%), Lord Slug (8%). Check `python -m sim roster` for the current list.
 - Every deck on the roster must be fully modelled: `roster add` refuses a deck with NOT MODELLED MP levels or Mastery. The first roster build skipped Nappa for that reason, so Nappa's four levels,
   the stage-drain effects ("your opponent loses N stages", including "to a minimum of 0") and Saiyan Clench were added to the simulator; the remaining gaps for that deck are listed by `coverage`
   (Allies, second-use attacks, Saiyan Dive's banish).

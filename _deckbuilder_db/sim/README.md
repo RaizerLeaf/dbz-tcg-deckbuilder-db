@@ -33,7 +33,7 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   `@mp(name, subtitle)` / `@mastery(name)`. Drills and Dragon Balls that stay in play use `@passive(card name)`. One-off card effects go in `CARD_EXTRA`.
 - `loader.py` - deck code -> `Spec` (60 card ids, MP level printings, Mastery). With no printings field it picks the earliest Sets 1-7 printing of each level.
 - `decks/` - sample decks used for regression runs.
-- `roster.py`, `roster.json` - the test-deck roster: at most 25 decks, ranked by round-robin win rate; a new deck that ranks in the top 25 joins and the lowest is retired. Pair results are cached in `roster.json`, so `roster add` takes well under a second and `playtest` at the 50-game cap takes seconds (see the docstring).
+- `roster.py`, `roster.json` - the test-deck roster: at most 25 decks, **one version per MP + Mastery**, ranked by round-robin win rate; a new deck that ranks in the top 25 joins and the lowest is retired. Pair results are cached in `roster.json`, so `roster add` takes well under a second and `playtest` at the 50-game cap takes seconds (see the docstring).
 
 ## What is modelled
 - MP levels: Trunks (Dashing, Protective, Frenzied, Swordmaster, Defiant, Energy Charged, Bold, Overpowering, Overwhelming), Piccolo (Stoic, Composed, Combat Stance,
