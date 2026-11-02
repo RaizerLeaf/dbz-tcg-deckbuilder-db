@@ -270,8 +270,31 @@ OUTLIERS_EXTRA = [
  # (character, alignment, level, card_id, score, short name, why it is listed)
  ("Krillin", "Hero", 1, "S01_PRO_P4", 7, "SDCC promo wording", "Same attack as the starter's Ready but without 'raise your anger 2 levels'"),
 ]
-TIERS = [("S", 7.5), ("A", 6.75), ("B", 6.0), ("C", 5.25), ("D", 0)]
+TIERS = [("S", 7.75), ("A", 7.0), ("B", 6.25), ("C", 5.5), ("D", 0)]
 NAMES = {1: "Premiere", 2: "Heroes & Villains", 3: "Movie Collection", 4: "Evolution", 5: "Perfection", 6: "Vengeance", 7: "Awakening"}
+
+
+# Owner's review (2026-11-02): an MP level with an active Power is stronger than one that is purely passive. The hand-scored base values
+# above are kept; every level whose printed text has a Power (an [Attack], [Defense] or POWER: line, reminder text in brackets ignored)
+# gets ACTIVE_BONUS added, capped at 10. Set ACTIVE_BONUS = 0 to switch it off.
+ACTIVE_BONUS = 0.5
+BASE = {}
+
+
+def has_power(cid):
+    t = CARDS[cid]["text_current"] or CARDS[cid]["text_as_printed"] or ""
+    t = re.sub(r"\([^)]*\)", "", t)
+    return bool(re.search(r"POWER:|\[Attack\]|\[Defense\]", t))
+
+
+def _eff(cid, sc):
+    BASE[cid] = sc
+    return min(10, sc + ACTIVE_BONUS) if has_power(cid) else sc
+
+
+STACKS = [(ch, label, al, st, [(cid, _eff(cid, sc), note) for cid, sc, note in lv]) for ch, label, al, st, lv in STACKS]
+ALTS = [(ch, al, lvl, cid, _eff(cid, sc), why) for ch, al, lvl, cid, sc, why in ALTS]
+OUTLIERS_EXTRA = [(ch, al, lvl, cid, _eff(cid, sc), nm, why) for ch, al, lvl, cid, sc, nm, why in OUTLIERS_EXTRA]
 
 
 def check():
@@ -370,7 +393,8 @@ def main():
     w("- **Scope:** every Main Personality in Sets 1-7. A **stack** is one set's printed Levels 1-4 (Goku Premiere, Goku Evolution and Goku Awakening are three stacks). 39 stacks, 30 characters. Single odd levels from boosters and promos are listed separately as **outliers** (Part 2).")
     w("- **Ranked on abilities only.** Power stages, PUR and rarity are ignored (e.g. Goku Super Saiyan God and Golden Frieza have enormous printed power stages; none of that is counted). Deck support is not counted either; see Part 5.")
     w("- **Scoring:** each level gets a hand-assigned 1-10 score from its text. 10 = changes the game each turn; 7-8 = clearly strong (big flat life-card bonus, unstoppable / unpreventable, repeatable defense or tutor); 5-6 = solid but conditional; 1-4 = filler, a drawback, or needs outside support. These are my judgements, not a simulation, so treat gaps under about 0.5 as ties.")
-    w("- **Stack score** = mean of its four level scores. **Tiers:** S = 7.5+, A = 6.75-7.49, B = 6.0-6.74, C = 5.25-5.99, D = under 5.25.")
+    w("- **Stack score** = mean of its four level scores. **Tiers:** S = 7.75+, A = 7.0-7.74, B = 6.25-6.99, C = 5.5-6.24, D = under 5.5.")
+    w("- **Active Power consideration:** from the owner's review, an MP level with an active Power (an Attack, a Defense, or a POWER you choose to use) is stronger than a purely passive [Continuous] one. I kept the hand-scored base values and add " + f"{ACTIVE_BONUS:g}" + " to every level whose text has a Power ('base' and the bonus are shown in Part 6). That is a small nudge, not a rebuild; Piccolo Premiere Level 1 (an attack with Rejuvenate) beating Piccolo Evolution Level 1 (a passive anger trigger) was the model case. It lifts mixed and active-heavy stacks by up to " + f"{ACTIVE_BONUS:g}" + " and leaves passive-only stacks (Trunks Premiere, most of Garlic Jr., Hercule's passives) where they were; the tier cut-offs moved up 0.25 to match. The Mastery list is not adjusted.")
     w("- **Characters** (Part 3): the rules let you mix printings of the same name and alignment level by level, so a character's score is the mean of the best printing at each level, outliers included. Hero and Villain Vegeta cannot mix.")
     w("- **Not in scope:** Set 8+ (FanZ); the OP series (OP1-OP6 are FanZ-era: Nail Warrior, Goku Confident, the Raditz OP4 stack, Dende); and the 'PanZ MP & Ally Promos' (`PZP_*`) reprints, which the repo skips by default. Some PZP cards carry rewritten text (Android 16 L1-3, Captain Ginyu L1-2, Cell Jr. L3, Dr. Wheelo L3, Turles L3, Mercenary Tao L1 differ the most from the Set 1-7 printings); those are not rated.")
     w("")
@@ -459,19 +483,23 @@ def main():
     s1 = sum(by_set[1]) / len(by_set[1]); s7 = sum(by_set[7]) / len(by_set[7])
     w("**What this shows (judgement, small sample, hand-scored):**")
     w(f"- Power creep is real but modest and uneven: mean stack score {s1:.2f} (Set 1) to {s7:.2f} (Set 7), with dips at Sets 2 and 4. Set 1 already had 4-7 life-card attacks (Piccolo, Krillin, Captain Ginyu).")
-    w("- The top moved up most: the best two stacks are Set 7 deck-reveal Hero Vegeta and Goku, built on flat +2/+3 life-card bonuses to every attack, plus 'cannot be stopped' for Vegeta. Vegeta's bonuses only apply to non-Styled attacks. Nothing before Set 5 scores above 7.75.")
-    w("- The floor rose: every Set 7 stack scores 6.0 or more except Hercule (5.5, a joke MP), while Sets 1, 2 and 4 hold 4.75-5.5 stacks.")
+    top2 = stack_rows[:2]
+    pre5 = max(sum(x[1] for x in s_[4]) / 4 for s_ in STACKS if s_[3] < 5)
+    mins = {st: min((sum(x[1] for x in s_[4]) / 4, s_[0]) for s_ in STACKS if s_[3] == st) for st in range(1, 8)}
+    w(f"- The top moved up most: the two best stacks are {top2[0]['ch']} ({short(top2[0]['label'])}, {top2[0]['mean']:.2f}) and {top2[1]['ch']} ({short(top2[1]['label'])}, {top2[1]['mean']:.2f}), built on flat +2/+3 life-card bonuses to every attack; Vegeta's bonuses only apply to non-Styled attacks and add 'cannot be stopped'. The best stack printed before Set 5 scores {pre5:.2f}.")
+    w("- The floor: the weakest stack in each set is " + "; ".join(f"Set {st} {mins[st][1]} {mins[st][0]:.2f}" for st in range(1, 8)) + ".")
     w("- Same-character comparisons are mixed: Goku, Trunks and Hero Vegeta improve a lot by Set 7; Piccolo and Gohan were at their best in Set 1.")
-    w("- In the text: life-card bonuses and unstoppable wording become common in Set 7, and the Level 4 average rises from 6.4 to 7.4.")
+    w("- In the text: life-card bonuses and unstoppable wording become common in Set 7, and the Level 4 average goes from " + f"{sum(lvl_by_set[(1, 4)]) / len(lvl_by_set[(1, 4)]):.1f} (Set 1) to {sum(lvl_by_set[(7, 4)]) / len(lvl_by_set[(7, 4)]):.1f} (Set 7).")
     w("")
+    sm = {d["ch"]: d["mean"] for d in stack_rows}
     w("## Part 5: What these scores do not capture")
     w("")
     w("The scores judge each card's text on its own. Several low-scoring MPs are built around something outside the MP card (a deck package, or a matchup). The notes below are the owner's reading, checked against the card text where possible. They are **hypotheses, not tested, and they are not in the scores**.")
     w("")
-    w("- **Nappa (Set 2, 5.00).** Owner: designed to stage-lock an opponent and deal with Allies, e.g. against Ginyu remove the Allies and drain stages (possibly to mill), and energy decks have a hard time against him. Text check: L1 destroys an opposing Ally, L2 makes opp's personalities lose 1-2 stages whenever you attack, L3's hit banishes a Drill or Ally, L4 makes damage unpreventable once the opponent is at 0. Many Set 1-7 energy attacks print a stage cost (Goku L1 and L3 cost 2, Piccolo L1 costs 1, Krillin costs 2-3, Turles L2 costs 2), so draining stages should hurt energy decks. That is consistent with the text but untested. Owner also sees **Broly** (opp loses 5/7/7 stages on every advance; L4 banishes Setups, Drills and Allies) and **Android 17** (destroys an Ally at L2, unpreventable energy attack with the Van at L3) as better versions of the same job. The scores agree on the order: Broly 6.50, Android 17 6.00, Nappa 5.00.")
-    w("- **Android 17's Van (Set 4, now 6.00, was 5.50).** Literal text of the Setup: 'POWER: Banish 2 Allies. If you control no Allies, you may search your Life Deck, discard pile, or Banished Zone for an Ally with \"Android\" in the title and place it into play. (Banish after use.)' The MP is built around it: L1 fetches the Van, L2's hit refetches it from the discard pile or Banished Zone, L3 makes the energy attack unpreventable while it is in play, and L4 scales with Allies in the opponent's Banished Zone and refetches the Van from the Banished Zone every combat. After reading it I raised L2 and L4 from 5 to 6. I did **not** verify how it resolves if you control fewer than two Allies, or whether it can banish the opponent's Allies (the text does not say whose), so the loop itself is not scored higher.")
-    w("- **Raditz (Set 2, 5.00).** Owner: Setups and Drills are very strong depending on deck design, so a Raditz built around them could beat another MP using the same cards, though newer MPs may simply hit too hard for it to matter. Text check: L2 mills a card (and raises anger in combat) whenever a Setup or Drill enters play, L4 Rejuvenates a card on each one and fetches a Setup/Drill after a critical effect. The payoff depends on the Setup/Drill package, which is not scored.")
-    w("- **Lord Slug (Set 3, 4.75).** Owner: gives non-Namekian styles Rejuvenate access; Red Slug could win by Dragon Ball victory off Red's critical effects, or Rejuvenate strongly. Text check: L1 raises anger and refetches a ball, L2 Rejuvenates 2 on hit, L4 fetches a ball. Also untested; the repo notes already say the Red Enraged Dragon Ball deck for him is good.")
+    w("- **Nappa (Set 2, NAPPA).** Owner: designed to stage-lock an opponent and deal with Allies, e.g. against Ginyu remove the Allies and drain stages (possibly to mill), and energy decks have a hard time against him. Text check: L1 destroys an opposing Ally, L2 makes opp's personalities lose 1-2 stages whenever you attack, L3's hit banishes a Drill or Ally, L4 makes damage unpreventable once the opponent is at 0. Many Set 1-7 energy attacks print a stage cost (Goku L1 and L3 cost 2, Piccolo L1 costs 1, Krillin costs 2-3, Turles L2 costs 2), so draining stages should hurt energy decks. That is consistent with the text but untested. Owner also sees **Broly** (opp loses 5/7/7 stages on every advance; L4 banishes Setups, Drills and Allies) and **Android 17** (destroys an Ally at L2, unpreventable energy attack with the Van at L3) as better versions of the same job. The scores agree on the order: Broly BROLY, Android 17 A17, Nappa NAPPA.".replace("BROLY", f"{sm['Broly']:.2f}").replace("A17", f"{sm['Android 17']:.2f}").replace("NAPPA", f"{sm['Nappa']:.2f}"))
+    w("- **Android 17's Van (Set 4, stack score A17).** Literal text of the Setup: 'POWER: Banish 2 Allies. If you control no Allies, you may search your Life Deck, discard pile, or Banished Zone for an Ally with \"Android\" in the title and place it into play. (Banish after use.)' The MP is built around it: L1 fetches the Van, L2's hit refetches it from the discard pile or Banished Zone, L3 makes the energy attack unpreventable while it is in play, and L4 scales with Allies in the opponent's Banished Zone and refetches the Van from the Banished Zone every combat. After reading it I raised the base scores of L2 and L4 from 5 to 6. I did **not** verify how it resolves if you control fewer than two Allies, or whether it can banish the opponent's Allies (the text does not say whose), so the loop itself is not scored higher.")
+    w("- **Raditz (Set 2, RADITZ).** Owner: Setups and Drills are very strong depending on deck design, so a Raditz built around them could beat another MP using the same cards, though newer MPs may simply hit too hard for it to matter. Text check: L2 mills a card (and raises anger in combat) whenever a Setup or Drill enters play, L4 Rejuvenates a card on each one and fetches a Setup/Drill after a critical effect. The payoff depends on the Setup/Drill package, which is not scored.")
+    w("- **Lord Slug (Set 3, SLUG).** Owner: gives non-Namekian styles Rejuvenate access; Red Slug could win by Dragon Ball victory off Red's critical effects, or Rejuvenate strongly. Text check: L1 raises anger and refetches a ball, L2 Rejuvenates 2 on hit, L4 fetches a ball. Also untested; the repo notes already say the Red Enraged Dragon Ball deck for him is good.")
     w("- Owner's conclusion: because the list scores isolated cards and MP abilities, Nappa, Raditz and Slug staying in Tier D (as characters) makes sense. A 'with deck support' score would need deck data or simulation, not card reading.")
     w("")
     w("## Part 6: Level-by-level notes per stack")
@@ -479,21 +507,24 @@ def main():
     for d in sorted(stack_rows, key=lambda d: (d["ch"], d["st"], d["al"])):
         w(f"### {d['ch']}, {short(d['label'])} ({d['mean']:.2f}, Tier {tier_of(d['mean'])})")
         for i, (cid, sc, note) in enumerate(d["lv"], 1):
-            w(f"- L{i} `{cid}` **{sc}**: {note}")
+            w(f"- L{i} `{cid}` **{sc:g}** (base {BASE[cid]:g}, " + ("+" + f"{ACTIVE_BONUS:g}" + " Power" if has_power(cid) else "passive only") + f"): {note}")
         w("")
     w("### Outlier cards")
     for ch, al, lvl, cid, sc, nm, why in sorted(outs, key=lambda o: (o[0], o[2])):
         r = CARDS[cid]
-        w(f"- {ch} L{lvl} `{cid}` ({r['subtitle']}) **{sc}**: {why}")
+        w(f"- {ch} L{lvl} `{cid}` ({r['subtitle']}) **{sc:g}** (base {BASE[cid]:g}{', +' + format(ACTIVE_BONUS, 'g') + ' Power' if has_power(cid) else ', passive only'}): {why}")
     w("")
     w("## Notes and caveats")
-    w("- **Hercule** (owner ruling 2026-11-02): L1 prints '+100 stages of damage' then 'Your attacks cannot have their damage modified by your effects'. In that order the second sentence cancels the first, so the +100 is gag text and L1 is scored 3. See `DECKBUILDING_NOTES.md`.")
-    w("- **Krillin L1** has two printings: the Set 1 starter adds 'raise your anger 2 levels', the Set 1 promo (the SDCC-style promo, `S01_PRO_P4`) does not. Both are legal to mix; the starter is scored 8, the promo 7.")
-    w("- **Frieza Golden** damage is `AT life cards`, which depends on the Attack Table result; scored 7 for that reason.")
+    w("- **Hercule** (owner ruling 2026-11-02): L1 prints '+100 stages of damage' then 'Your attacks cannot have their damage modified by your effects'. In that order the second sentence cancels the first, so the +100 is gag text and L1 has a base score of 3 (3.5 with the Power bonus). See `DECKBUILDING_NOTES.md`.")
+    w("- **Krillin L1** has two printings: the Set 1 starter adds 'raise your anger 2 levels', the Set 1 promo (the SDCC-style promo, `S01_PRO_P4`) does not. Both are legal to mix; the starter has a base score of 8, the promo 7.")
+    w("- **Frieza Golden** damage is `AT life cards`, which depends on the Attack Table result; base-scored 7 for that reason.")
     w("- **Garlic Jr. Level 4** has a printed drawback (opp's attacks +3 life cards) and is scored for the whole text.")
     w("- **Krillin Level 3** (9 minus cards in opp's hand) is strongest with hand disruption, since the defender draws 3 when combat is declared.")
     w("- Set 7 deck-reveal Goku, Vegeta and Trunks scores assume the deck can use the Styled / non-Styled split those cards care about.")
-    open(ROOT / "MP_TIER_LIST.md", "w").write("\n".join(w_) + "\n")
+    text = "\n".join(w_) + "\n"
+    for tok, key in (("RADITZ", "Raditz"), ("SLUG", "Lord Slug"), ("A17", "Android 17"), ("NAPPA", "Nappa")):
+        text = text.replace(tok, f"{sm[key]:.2f}")
+    open(ROOT / "MP_TIER_LIST.md", "w").write(text)
     print("wrote MP_TIER_LIST.md", len(w_), "lines; stacks", len(STACKS), "characters", len(char_rows))
     for d in stack_rows:
         print(f"{d['mean']:.2f} {tier_of(d['mean'])} {d['ch']} {d['label']}")
