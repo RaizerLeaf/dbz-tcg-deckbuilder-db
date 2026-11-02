@@ -32,6 +32,9 @@ M = [
  ("S07_DR_DR30", 8, "Critical effects give stages; free anger 1 at the end of every combat; banish a card for another anger and maybe an opp skip"),
  ("S07_DR_DR5", 8.5, "ALL attacks +1 life card; discard a Styled card to draw and prevent 4 stages and 4 life cards of the next attack"),
 ]
+# On the FanZ CRD v1.15 Frozen List page, only these two entries carry the light-blue "Panini additions" highlight (checked by looking at the PDF page image;
+# the text extraction cannot see it). The other frozen Masteries are unhighlighted, i.e. on the list through the fan-run continuation.
+PANINI_HIGHLIGHT = {"Black Devious Mastery", "Red Enraged Mastery"}
 TIERS = [("S", 8.5), ("A", 7.5), ("B", 7.0), ("C", 0)]
 
 
@@ -98,7 +101,7 @@ def main():
             w("| # | Mastery | Style | Set | Score | Frozen | What it does |")
             w("|---|---|---|---|---|---|---|")
         n += 1
-        w(f"| {n} | **{d['name'].replace(' Mastery','')}** `{d['id']}` | {d['style']} | {d['st']} | **{d['score']:g}** | {'**Frozen**' if d['frozen'] else 'no'} | {d['note']} |")
+        w(f"| {n} | **{d['name'].replace(' Mastery','')}** `{d['id']}` | {d['style']} | {d['st']} | **{d['score']:g}** | {('**Frozen** (Panini-marked)' if d['name'] in PANINI_HIGHLIGHT else '**Frozen** (FanZ-added)') if d['frozen'] else 'no'} | {d['note']} |")
     w("")
     w("## By stack")
     w("")
@@ -116,14 +119,18 @@ def main():
     w("")
     w("## Are the frozen Masteries the best ones?")
     w("")
-    w(f"Mostly, but not entirely. {len(frozen)} of the 18 are frozen: all six from Set 1, Namekian Restored (Set 4) and Orange Retribution (Set 7). None of the {len(fz_new)} Masteries FanZ added is frozen.")
+    w(f"Mostly, but not entirely. {len(frozen)} of the 18 are frozen: all six from Set 1 (only Devious and Enraged were Panini's own freezes, see below), Namekian Restored (Set 4) and Orange Retribution (Set 7). None of the {len(fz_new)} Masteries FanZ added is frozen.")
     w("")
     w(f"- **Average score:** frozen {mean([x['score'] for x in frozen]):.2f} vs not frozen {mean([x['score'] for x in unfrozen]):.2f}.")
     sa = [x for x in rows if tier_of(x['score']) in ('S', 'A')]
     w(f"- **Top of the list:** the two best-scoring (Black Devious, Red Enraged) are both frozen. Of the {len(sa)} Masteries in Tiers S and A, {sum(x['frozen'] for x in sa)} are frozen; the two that are not are " + " and ".join(x['name'].replace(' Mastery','') for x in sa if not x['frozen']) + ".")
-    w("- **Frozen but only mid-ranked:** " + ", ".join(f"{x['name'].replace(' Mastery','')} ({x['score']:g})" for x in frozen if tier_of(x['score']) == 'C') + ". On their own text these are narrow (Namekian Rejuvenation anger; a Saiyan Mastery that gives up MPPV). Set 1 being frozen in full looks like a set-wide decision more than a card-by-card power ranking, but that is my inference; the CRD gives no reason.")
+    w("- **Frozen but only mid-ranked:** " + ", ".join(f"{x['name'].replace(' Mastery','')} ({x['score']:g})" for x in frozen if tier_of(x['score']) == 'C') + ". On their own text these are narrow (Namekian Rejuvenation anger; a Saiyan Mastery that gives up MPPV). By the highlighting, those two were added to the list by FanZ, not Panini; the CRD gives no reason for any entry.")
     w("- **Strong and not frozen:** " + ", ".join(f"{x['name'].replace(' Mastery','')} ({x['score']:g})" for x in unfrozen if tier_of(x['score']) in ('S','A')) + " (the notes call Red Ascension the non-frozen alternative to Red Enraged).")
     w(f"- **FanZ reprints:** {len(rows) - len(never)} of the 18 got a FanZ promo reprint. The {len(never)} that never did are " + ", ".join(x['name'].replace(' Mastery','') for x in rows if not x['reprint_sets']) + (", all frozen." if all(x['frozen'] for x in rows if not x['reprint_sets']) else ".") + " Blue Protective, Namekian Knowledge and Orange Adaptive were reprinted as Set 13 promos; the Frozen List names only their Premiere printings (by card number), and the CRD does not say whether the promo printings are legal, so that is unverified.")
+    pan = [x for x in rows if x["name"] in PANINI_HIGHLIGHT]
+    fzf = [x for x in frozen if x["name"] not in PANINI_HIGHLIGHT]
+    w(f"- **Who froze them:** on the CRD's Frozen List page, Panini's own entries are marked in light blue, and only Black Devious and Red Enraged are marked. The other six frozen Masteries are unmarked, which I read as FanZ additions. The two Panini-marked ones are the two top-scoring Masteries ({mean([x['score'] for x in pan]):.1f}); the six FanZ-added average {mean([x['score'] for x in fzf]):.2f}. (From the highlighting on the PDF page; the Panini Final CRD itself prints no Frozen List, only the Legacy Thawing Bonus below.)")
+    w("- **Orange:** the list names Orange Adaptive and Orange Retribution only. Orange Adept (Set 4) is not on it, and neither are the four new FanZ Orange Masteries, so on these sources not every Orange Mastery is frozen. If you know of a PanZ-era source that freezes Orange Adept, I have not seen it and have not changed anything.")
     w("- **Legacy Thawing Bonus:** the CRD's (defunct for FanZ) rule lets listed MPs use frozen Black Devious or Red Enraged in non-FanZ events; it names only those two Masteries.")
     w("")
     w("## FanZ Masteries")
