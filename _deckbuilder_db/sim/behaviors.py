@@ -663,6 +663,88 @@ class KrillinL4(Behavior):
         return False
 
 
+# =================================================================================================================
+# Vegeta (Hero): Evolution levels (Styled) and Awakening levels (non-Styled). Added for the Hero Vegeta deck comparison.
+# =================================================================================================================
+def nonstyled(p, c):
+    """A non-Styled attack: any attack that is not of the player's Mastery style (Freestyle cards, Mastery/MP Powers)."""
+    return bool(c.is_atk) and c.style != p.styled()
+
+
+VG_EXPERIENCED = synthetic('Experienced', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 1 life card.')
+VG_ON_THE_MOVE = synthetic('On the Move', 'POWER: [Attack] Physical attack. DAMAGE: 4 life cards.')
+
+
+class _VegetaPower(Behavior):
+    card, key = None, ''
+    def has_power(self, p): return p.stage >= self.card.cost
+
+    def power(self, p, opp):
+        if p.stage >= self.card.cost and once_turn(p, self.key):
+            return p.attack(opp, power=self.card)
+        return False
+
+
+@mp('Vegeta', 'Experienced')
+class VegetaAW1(_VegetaPower):
+    """L1: non-Styled attacks +2 life cards (and nothing else may modify them - not modelled). Power: 1-stage energy attack, 1 life card."""
+    card, key = VG_EXPERIENCED, 'vg1'
+    def life_bonus(self, p, card, opp): return 2 if nonstyled(p, card) else 0
+
+
+@mp('Vegeta', 'Imposing')
+class VegetaAW2(Behavior):
+    """L2: non-Styled attacks +1 life card, damage cannot be prevented. Power: raise anger 1, gain 3 stages."""
+    def life_bonus(self, p, card, opp): return 1 if nonstyled(p, card) else 0
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'vg2'):
+            p.raise_anger(1)
+            p.gain_stages(3)
+            return True
+        return False
+
+
+@mp('Vegeta', 'Energized')
+class VegetaAW3(Behavior):
+    """L3: non-Styled attacks +3 life cards; the first stopped non-Styled attack each combat is used a second time (pays its cost again)."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) else 0
+
+    def on_stopped(self, p, opp, card):
+        if nonstyled(p, card) and card.card_id.split(':')[0] != 'synthetic' and once(p, 'vg3_second') and p.stage >= card.cost:
+            p.attack(opp, power=card)
+
+
+@mp('Vegeta', 'Pinnacle of Power')
+class VegetaAW4(Behavior):
+    """L4: non-Styled attacks cannot be stopped and deal +3 life cards."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) else 0
+    def unstoppable(self, p, card): return nonstyled(p, card)
+
+
+@mp('Vegeta', 'Calculating')
+@mp('Vegeta', 'Super Saiyan')
+class VegetaEvoPassive(Behavior):
+    """Evolution L1/L3: converts Styled life-card damage into stage damage (or back); not modelled (a choice, not extra damage)."""
+
+
+@mp('Vegeta', 'On the Move')
+class VegetaEvo2(_VegetaPower):
+    """L2: Power: physical attack, 4 life cards (no cost)."""
+    card, key = VG_ON_THE_MOVE, 'vg2e'
+
+
+@mp('Vegeta', 'Elite')
+class VegetaEvo4(Behavior):
+    """L4: the first Styled physical attack each combat cannot be stopped. (The energy HIT search is not modelled.)"""
+    def unstoppable(self, p, card):
+        if card.is_atk and card.phys and card.style == p.styled() and 'vg4_first' not in p.tf:
+            p.tf['vg4_first'] = True
+            return True
+        return False
+
+
 def life_adjust(p, opp, c):
     """Cross-card adjustments applied to life damage: Krillin's 9 - X, Earth Dragon Ball 1 (all attacks +1)."""
     adj = 0

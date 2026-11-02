@@ -127,6 +127,17 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
 
+- **Vegeta (Hero)** (Saiyan heritage; Hero levels from Evolution = Styled, Awakening = non-Styled): Awakening *Experienced / Imposing / Energized / Pinnacle of Power* give non-Styled (Freestyle) attacks
+  +2 / +1 (and no prevention) / +3 (and a second use of the first stopped one) / +3 and **cannot be stopped**. Evolution *Calculating / On the Move / Super Saiyan / Elite* reward Styled attacks (life cards <-> stage damage;
+  Elite: first Styled physical cannot be stopped). Named: Vegeta's Galick Gun (x3, 6 life cards for 2 stages, unpreventable, two critical effects), Destruction Blast, Final Flash, Vegeta's Anger. Experienced's
+  parenthesis says non-Styled damage can only be modified by Experienced itself (Level 1 only; the simulator ignores this).
+  Style comparison (sim, 800 games per opponent, 8 reference decks, average win rate; see `sim/README.md` for limits): **Awakening Freestyle + Red Ascension 71.5%** (`decks/vegeta_pinnacle_red_ascension.txt`),
+  Evolution Styled Red + Red Ascension 64.0%, Awakening Freestyle + Saiyan Dynamic 51.3%; also tried: Evolution Saiyan Dynamic 47.2%, Awakening + Red Enraged 46% (300 games), Evolution Saiyan Rampaging 40.7%,
+  Awakening + Black Conflict 24% (400 games, too slow to level). Red Ascension beat Red Enraged because its free +1 anger a turn (end of combat) plus Power levels the MP faster. The model does not count the
+  Evolution stage-conversion, so the Evolution Red result is a floor.
+  **(unverified)** Whether "+N life cards" applies to a stage-only attack (Devastating Blow, "AT +1 stage"); the deck does not depend on it. Overpowering Attack finds no Ally in this deck (no Allies in it).
+  Quick Blast and Surprise Attack were left out on purpose (Quick Blast banishes your own Defense cards while attached; Surprise Attack lets the opponent banish 2 of your non-Styled cards).
+
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
 | File | MP / style / Mastery | Status |
@@ -144,6 +155,9 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+| `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); simulated (Vegeta levels added to `sim/behaviors.py`); **not imported in the app yet** |
+| `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
+| `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the

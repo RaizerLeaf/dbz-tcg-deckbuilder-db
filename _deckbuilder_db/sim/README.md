@@ -34,7 +34,7 @@ Always run `coverage` for both decks and quote its warnings next to the result.
 
 ## What is modelled
 - MP levels: Trunks (Dashing, Protective, Frenzied, Swordmaster, Defiant, Energy Charged, Bold, Overpowering, Overwhelming), Piccolo (Stoic, Composed, Combat Stance,
-  Unleashed, Fused), Dr. Wheelo (all four), Garlic Jr. (all four), Lord Slug (all four), Krillin (all four), Nail (all four).
+  Unleashed, Fused), Dr. Wheelo (all four), Garlic Jr. (all four), Lord Slug (all four), Krillin (all four), Nail (all four), Vegeta Hero (Awakening levels fully; Evolution levels only partly: the Styled life-card/stage conversion and Elite's energy HIT are not modelled).
 - Masteries: Red Enraged, Red Ascension, Black Devious, Black Conflict, Blue Protective (opponent needs 6 anger to level; its Defense Power is simplified), Saiyan Rampaging (its Power is not modelled), Saiyan Dynamic, Orange Retribution. New and only regression-checked, not rule-tested.
 - Drills / balls: Orange Hoping, Intimidating, Hiding, Aura, Captivity, Devouring, Burning Aura, Steady; Aggressive Sword Drill; Namek Dragon Balls 1, 3, 5, 6, 7; Earth 1-5.
 - About 60 cards with extra effects (see `CARD_EXTRA`), notably Wheelo's destroy package, Red anger/critical Setups and Events, Weighted Clothing, Sacrifice, Restraint.
