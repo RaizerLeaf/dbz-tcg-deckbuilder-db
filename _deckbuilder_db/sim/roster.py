@@ -1,27 +1,29 @@
-"""The test-deck roster: at most 10 decks that new decks are playtested against.
+"""The test-deck roster: the best decks built so far, which new decks are playtested against (at most MAX_ROSTER, 25 at first).
 
     python -m sim roster                      show the roster (and the retired decks)
-    python -m sim roster add decks/x.txt      evaluate a finished deck; it joins if it ranks in the top 10, and the lowest-ranked deck is retired
+    python -m sim roster add decks/x.txt      rank a finished deck against the roster; it joins if it is in the top MAX_ROSTER and the lowest-ranked deck is retired
     python -m sim roster rebuild              re-rank every deck in decks/ and sim/decks/ from scratch
     python -m sim playtest decks/x.txt [-n 20]   play a deck against every roster deck (20 games each by default, 50 at most)
 
-Ranking = win rate over a round robin of the roster plus the candidate (30 games per pair, fixed seeds, first player alternating),
-so the same inputs always give the same ranking. It is the simulator's opinion, not a measure of real strength. `roster.json` is
-regenerable (`roster rebuild`); if two chats change it at once, resolve the conflict by re-running `roster rebuild`.
+Ranking = win rate over a round robin of the roster plus the candidate (30 games per pair, fixed seeds, first player alternating), so the same
+inputs always give the same ranking. Pair results are cached in roster.json (keyed by the decks' codes and a hash of the simulator and card data),
+so `add` only plays the new deck against the existing roster; if the simulator or card data changed, everything is re-ranked. It is the simulator's
+opinion, not a measure of real strength. roster.json is regenerable (`roster rebuild`); if two chats change it at once, resolve the conflict by re-running it.
 """
 import collections
-import itertools
+import hashlib
 import json
 from pathlib import Path
 
 from . import behaviors as B
 from .engine import Game
-from .loader import load
+from .loader import load, read_code
 from .cardmodel import records_by_id
 
-DB = Path(__file__).resolve().parent.parent
-ROSTER_FILE = Path(__file__).resolve().parent / 'roster.json'
-MAX_ROSTER = 10
+SIM = Path(__file__).resolve().parent
+DB = SIM.parent
+ROSTER_FILE = SIM / 'roster.json'
+MAX_ROSTER = 25
 ROUND_ROBIN_GAMES = 30
 PLAYTEST_DEFAULT, PLAYTEST_MAX = 20, 50
 DECK_DIRS = ('decks', 'sim/decks')
@@ -48,48 +50,82 @@ def unmodelled(spec):
     return out
 
 
+def sim_hash():
+    """Changes whenever the simulator code or the card data changes: cached results are then stale."""
+    h = hashlib.sha1()
+    for f in ('engine.py', 'behaviors.py', 'cardmodel.py', 'loader.py'):
+        h.update((SIM / f).read_bytes())
+    h.update((DB / 'cards.json').read_bytes())
+    return h.hexdigest()[:12]
+
+
+def deck_hash(key):
+    return hashlib.sha1(read_code(str(DB / key)).encode()).hexdigest()[:10]
+
+
 def read():
     if ROSTER_FILE.exists():
         return json.loads(ROSTER_FILE.read_text(encoding='utf-8'))
-    return {'max': MAX_ROSTER, 'games_per_pair': ROUND_ROBIN_GAMES, 'decks': [], 'retired': []}
+    return {'max': MAX_ROSTER, 'games_per_pair': ROUND_ROBIN_GAMES, 'decks': [], 'retired': [], 'pairs': {}}
 
 
 def write(r):
     ROSTER_FILE.write_text(json.dumps(r, indent=1, ensure_ascii=False) + '\n', encoding='utf-8')
 
 
-def evaluate(entries, games=ROUND_ROBIN_GAMES, seed=1000):
-    """entries: [(key, spec)] -> {key: {'wins','games','pct','win_turns'}} from a round robin."""
-    stat = {k: collections.Counter() for k, _ in entries}
-    turns = {k: [] for k, _ in entries}
-    for (ka, sa), (kb, sb) in itertools.combinations(entries, 2):
-        for i in range(games):
-            g = Game(sa, sb, seed=seed + i, first=i % 2)
-            r = g.run()
-            stat[ka]['games'] += 1
-            stat[kb]['games'] += 1
-            if r.winner == 'draw':
-                continue
-            w = ka if r.winner == g.players[0].label else kb
-            stat[w]['wins'] += 1
-            turns[w].append(r.turns)
-    return {k: {'wins': stat[k]['wins'], 'games': stat[k]['games'],
-                'pct': round(100 * stat[k]['wins'] / max(1, stat[k]['games']), 1),
-                'win_turns': round(sum(turns[k]) / len(turns[k]), 1) if turns[k] else None} for k, _ in entries}
+def _pair(ka, sa, kb, sb, games, cache, sh):
+    """Results of ka vs kb (ka < kb), from the cache when it is still valid. -> {'w': [wa, wb], 't': [turns_a, turns_b]}"""
+    key = f'{ka}|{kb}'
+    ha, hb = deck_hash(ka), deck_hash(kb)
+    e = cache.get(key)
+    if e and e['h'] == [ha, hb] and e['g'] == games and e['sh'] == sh:
+        return e
+    w, t = [0, 0], [0, 0]
+    for i in range(games):
+        g = Game(sa, sb, seed=1000 + i, first=i % 2)
+        r = g.run()
+        if r.winner == 'draw':
+            continue
+        idx = 0 if r.winner == g.players[0].label else 1
+        w[idx] += 1
+        t[idx] += r.turns
+    e = {'h': [ha, hb], 'g': games, 'sh': sh, 'w': w, 't': t}
+    cache[key] = e
+    return e
+
+
+def evaluate(entries, games=ROUND_ROBIN_GAMES, cache=None, sh=None):
+    """entries: [(key, spec)] -> {key: {'wins','games','pct','win_turns'}} from a round robin (pair results cached in `cache`)."""
+    cache = {} if cache is None else cache
+    sh = sh or sim_hash()
+    wins, played, tsum = collections.Counter(), collections.Counter(), collections.Counter()
+    ordered = sorted(entries, key=lambda e: e[0])
+    for i, (ka, sa) in enumerate(ordered):
+        for kb, sb in ordered[i + 1:]:
+            e = _pair(ka, sa, kb, sb, games, cache, sh)
+            wins[ka] += e['w'][0]; wins[kb] += e['w'][1]
+            tsum[ka] += e['t'][0]; tsum[kb] += e['t'][1]
+            played[ka] += games; played[kb] += games
+    return {k: {'wins': wins[k], 'games': played[k], 'pct': round(100 * wins[k] / max(1, played[k]), 1),
+                'win_turns': round(tsum[k] / wins[k], 1) if wins[k] else None} for k, _ in entries}
 
 
 def _entry(key, spec, ev):
     return {'file': key, 'name': spec.name, 'mp': spec.mp_name, 'mastery': spec.mastery_name, 'win_pct': ev['pct'], 'avg_turn_of_wins': ev['win_turns']}
 
 
-def rank_and_cut(entries, games):
+def rank_and_cut(entries, games, cache, sh):
     """Evaluate, rank by win rate (ties by file name), keep the top MAX_ROSTER. Returns (kept, dropped, evals)."""
-    ev = evaluate(entries, games)
+    ev = evaluate(entries, games, cache, sh)
     specs = dict(entries)
     order = sorted(ev, key=lambda k: (-ev[k]['pct'], k))
     kept = [_entry(k, specs[k], ev[k]) for k in order[:MAX_ROSTER]]
     dropped = [_entry(k, specs[k], ev[k]) for k in order[MAX_ROSTER:]]
     return kept, dropped, ev
+
+
+def _prune(cache, keep_files):
+    return {k: v for k, v in cache.items() if all(f in keep_files for f in k.split('|'))}
 
 
 def rebuild(games=ROUND_ROBIN_GAMES):
@@ -102,14 +138,16 @@ def rebuild(games=ROUND_ROBIN_GAMES):
             skipped.append({'file': f, 'unmodelled': bad})
         else:
             entries.append((f, spec))
-    kept, dropped, _ = rank_and_cut(entries, games)
-    r = {'max': MAX_ROSTER, 'games_per_pair': games, 'decks': kept, 'retired': dropped, 'skipped_unmodelled': skipped}
+    cache, sh = {}, sim_hash()
+    kept, dropped, _ = rank_and_cut(entries, games, cache, sh)
+    r = {'max': MAX_ROSTER, 'games_per_pair': games, 'sim_hash': sh, 'decks': kept, 'retired': dropped, 'skipped_unmodelled': skipped,
+         'pairs': _prune(cache, {d['file'] for d in kept})}
     write(r)
     return r
 
 
 def add(path, games=ROUND_ROBIN_GAMES):
-    """Evaluate a finished deck against the roster. Returns a dict describing what happened."""
+    """Rank a finished deck against the roster. Returns a dict describing what happened."""
     key = rel(path)
     spec = load(str(DB / key))
     bad = unmodelled(spec)
@@ -117,20 +155,21 @@ def add(path, games=ROUND_ROBIN_GAMES):
         return {'status': 'refused', 'reason': 'these parts are NOT MODELLED, so the deck cannot be ranked fairly: ' + ', '.join(bad)
                 + '. Add them to sim/behaviors.py first (sim/README.md, "Adding things").'}
     r = read()
-    current = [d['file'] for d in r['decks']]
-    entries = [(f, load(str(DB / f))) for f in current if f != key and (DB / f).exists()]
+    sh = sim_hash()
+    stale = r.get('sim_hash') != sh or r.get('games_per_pair') != games
+    cache = {} if stale else dict(r.get('pairs', {}))
+    entries = [(d['file'], load(str(DB / d['file']))) for d in r['decks'] if d['file'] != key and (DB / d['file']).exists()]
     entries.append((key, spec))
-    kept, dropped, ev = rank_and_cut(entries, games)
+    kept, dropped, ev = rank_and_cut(entries, games, cache, sh)
     kept_files = [d['file'] for d in kept]
     evicted = [d for d in dropped if d['file'] != key]
     status = 'added' if key in kept_files else 'not added'
-    r['decks'] = kept
-    r['retired'] = [d for d in r.get('retired', []) if d['file'] not in kept_files and d['file'] != key] + dropped
-    r['retired'] = list({d['file']: d for d in r['retired']}.values())
-    r['games_per_pair'] = games
+    retired = [d for d in r.get('retired', []) if d['file'] not in kept_files and d['file'] != key] + dropped
+    r.update({'max': MAX_ROSTER, 'games_per_pair': games, 'sim_hash': sh, 'decks': kept, 'retired': list({d['file']: d for d in retired}.values()),
+              'pairs': _prune(cache, set(kept_files))})
     write(r)
     return {'status': status, 'rank': (kept_files.index(key) + 1) if key in kept_files else None, 'win_pct': ev[key]['pct'], 'evicted': evicted,
-            'roster_size': len(kept)}
+            'roster_size': len(kept), 're_ranked_everything': stale}
 
 
 def playtest(path, n=PLAYTEST_DEFAULT, allow_unmodelled=False):

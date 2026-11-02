@@ -173,6 +173,58 @@ class Scope(unittest.TestCase):
             dc.card_code(fan)
 
 
+class StageDrain(unittest.TestCase):
+    """Nappa's deck: 'your opponent loses N stages' effects and his four levels."""
+    def nappa(self, level=1):
+        n = spec('N', 'Nappa', ['Rested', 'Smirking', 'Overconfident', 'Enraged'], 'Saiyan Rampaging Mastery', 'Saiyan Wrist Block')
+        g, a, b = game(n)
+        a.level = level
+        return g, a, b
+
+    def test_parser_reads_unconditional_stage_loss(self):
+        c = Card(RECS[cid('Saiyan Wrist Block')])
+        self.assertEqual((c.opp_lose, c.opp_lose_floor), (3, False))
+        c = Card(RECS[cid('Saiyan Lightning Dodge')])
+        self.assertEqual((c.opp_lose, c.opp_lose_floor), (4, True))
+        self.assertEqual(Card(RECS[cid('Saiyan Charged Fist')]).opp_lose, 0)        # conditional: handled in behaviors
+
+    def test_stage_loss_overflows_to_life_cards_unless_it_says_minimum_of_zero(self):
+        g, a, b = self.nappa()
+        b.deck = [Card(RECS[cid('Saiyan Wrist Block')]) for _ in range(40)]      # no Endurance, so the overflow count is exact
+        b.stage = 2
+        n0 = len(b.deck)
+        b.lose_stages(5)
+        self.assertEqual((b.stage, n0 - len(b.deck)), (0, 3))
+        b.stage = 2
+        n0 = len(b.deck)
+        b.lose_stages(5, floor0=True)
+        self.assertEqual((b.stage, n0 - len(b.deck)), (0, 0))
+
+    def test_smirking_drains_one_stage_per_attack_or_two_after_changing_levels(self):
+        g, a, b = self.nappa(level=2)
+        b.stage = 8
+        a.attack(b, power=B.SWORDMASTER)                           # any attack triggers it
+        self.assertLessEqual(b.stage, 7)
+
+    def test_enraged_damage_cannot_be_prevented_only_while_the_opponent_is_at_zero(self):
+        g, a, b = self.nappa(level=4)
+        beh = B.mp_behavior('Nappa', 'Enraged')
+        b.stage = 0
+        self.assertTrue(beh.unprevented(a, None, b))
+        b.stage = 3
+        self.assertFalse(beh.unprevented(a, None, b))
+        self.assertEqual(beh.stage_bonus(a, None, b), 4)
+
+    def test_saiyan_clench_doubles_non_at_stage_damage_once(self):
+        g, a, b = self.nappa()
+        clench = Card(RECS[cid('Saiyan Clench')])
+        a.attached.append(clench)
+        scale = 1
+        for beh in a.behaviors():
+            scale *= beh.stage_scale(a, Card(RECS[cid('Saiyan Uppercut')]), b)
+        self.assertEqual(scale, 2)
+
+
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):
         a = spec('A', 'Piccolo', ['Stoic', 'Combat Stance', 'Unleashed', 'Fused'], 'Red Enraged Mastery', 'Red Energy Blast')

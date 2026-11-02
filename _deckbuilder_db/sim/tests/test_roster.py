@@ -24,21 +24,28 @@ class Roster(unittest.TestCase):
         return [f for f in ALL if not R.unmodelled(load(str(DB / f)))]
 
     def test_unmodelled_decks_are_refused(self):
-        bad = [f for f in ALL if R.unmodelled(load(str(DB / f)))]
-        if not bad:
-            self.skipTest('every deck is modelled')
-        out = R.add(bad[0], games=2)
+        orig = R.unmodelled
+        R.unmodelled = lambda spec: ['L1 Made Up Level']           # pretend the simulator lacks a level
+        try:
+            out = R.add(ALL[0], games=2)
+        finally:
+            R.unmodelled = orig
         self.assertEqual(out['status'], 'refused')
         self.assertEqual(R.read()['decks'], [])
 
-    def test_roster_never_exceeds_ten_and_evicts_the_lowest(self):
+    def test_roster_never_exceeds_its_cap_and_evicts_the_lowest(self):
         files = self.modelled()
-        self.assertGreaterEqual(len(files), 11, 'the repository should have at least 11 modelled decks for this test')
-        for f in files:
-            R.add(f, games=2)
-            self.assertLessEqual(len(R.read()['decks']), R.MAX_ROSTER)
-        r = R.read()
-        self.assertEqual(len(r['decks']), R.MAX_ROSTER)
+        cap, orig = 5, R.MAX_ROSTER
+        R.MAX_ROSTER = cap                                          # a small cap so the test does not need 26 decks
+        try:
+            self.assertGreater(len(files), cap)
+            for f in files:
+                R.add(f, games=2)
+                self.assertLessEqual(len(R.read()['decks']), cap)
+            r = R.read()
+        finally:
+            R.MAX_ROSTER = orig
+        self.assertEqual(len(r['decks']), cap)
         self.assertTrue(r['retired'])
         lowest_kept = min(d['win_pct'] for d in r['decks'])
         for d in r['retired']:
@@ -51,6 +58,23 @@ class Roster(unittest.TestCase):
         files = self.modelled()[:4]
         entries = [(f, load(str(DB / f))) for f in files]
         self.assertEqual(R.evaluate(entries, games=3), R.evaluate(entries, games=3))
+
+    def test_cached_pairs_are_reused_and_invalidated(self):
+        files = self.modelled()[:3]
+        for f in files:
+            R.add(f, games=2)
+        r = R.read()
+        self.assertTrue(r['pairs'])
+        out = R.add(files[0], games=2)                           # nothing changed: no re-ranking, same pairs
+        self.assertFalse(out['re_ranked_everything'])
+        r2 = R.read()
+        self.assertEqual(r['pairs'], r2['pairs'])
+        r2['sim_hash'] = 'stale'
+        R.write(r2)
+        self.assertTrue(R.add(files[0], games=2)['re_ranked_everything'])
+
+    def test_cap_default_is_25(self):
+        self.assertEqual(R.MAX_ROSTER, 25)
 
     def test_playtest_is_capped(self):
         with self.assertRaises(ValueError):

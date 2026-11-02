@@ -14,7 +14,7 @@ python -m sim run  sim/decks/wheelo_black_v2.txt sim/decks/piccolo_red_friend.tx
 python -m sim bo3  sim/decks/trunks_red_draft.txt sim/decks/trunks_orange_v4.txt --no-mppv-b   # best of 3 with the play log
 python -m sim game A B --seed 7 --first b                                                     # one game with the play log
 python -m sim coverage sim/decks/nail_black_v2.txt                                            # what the model does NOT cover for this deck
-python -m sim playtest decks/<name>.txt                                                       # deck building: play a deck against the 10-deck roster (20 games each, 50 max)
+python -m sim playtest decks/<name>.txt                                                       # deck building: play a deck against the test-deck roster (up to 25 decks; 20 games each, 50 max; seconds)
 python -m sim roster [add decks/<name>.txt | rebuild]                                         # the top-10 test-deck roster (sim/roster.json); `add` ranks a finished deck into it
 python -m unittest discover -s sim/tests -t .                                                 # rule tests
 ```
@@ -33,7 +33,7 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   `@mp(name, subtitle)` / `@mastery(name)`. Drills and Dragon Balls that stay in play use `@passive(card name)`. One-off card effects go in `CARD_EXTRA`.
 - `loader.py` - deck code -> `Spec` (60 card ids, MP level printings, Mastery). With no printings field it picks the earliest Sets 1-7 printing of each level.
 - `decks/` - sample decks used for regression runs.
-- `roster.py`, `roster.json` - the test-deck roster: at most 10 decks, ranked by round-robin win rate; a new deck that ranks in the top 10 joins and the lowest is retired (see the docstring).
+- `roster.py`, `roster.json` - the test-deck roster: at most 25 decks, ranked by round-robin win rate; a new deck that ranks in the top 25 joins and the lowest is retired. Pair results are cached in `roster.json`, so `roster add` takes well under a second and `playtest` at the 50-game cap takes seconds (see the docstring).
 
 ## What is modelled
 - MP levels: Trunks (Dashing, Protective, Frenzied, Swordmaster, Defiant, Energy Charged, Bold, Overpowering, Overwhelming), Piccolo (Stoic, Composed, Combat Stance,

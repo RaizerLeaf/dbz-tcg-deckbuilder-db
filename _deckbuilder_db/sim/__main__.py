@@ -5,7 +5,7 @@
   game A B [--seed 1] [--first a|b]                         one game with the full play log
   coverage CODE                                             which parts of the deck the simulator models
   playtest DECK [-n 20]                                     play a deck against every roster deck (20 games each, 50 at most): for deck building
-  roster [add FILE | rebuild]                               the test-deck roster (top 10 decks); `add` ranks a finished deck into it
+  roster [add FILE | rebuild]                               the test-deck roster (best 25 decks); `add` ranks a finished deck into it
 A and B are deck codes or paths to decks/*.txt files.
 """
 import argparse
@@ -133,7 +133,8 @@ def cmd_roster(args):
         out = R.add(args.file)
         if out['status'] == 'refused':
             raise SystemExit('roster add refused: ' + out['reason'])
-        print(f"{args.file}: {out['status']}" + (f" at rank {out['rank']} of {out['roster_size']}" if out['rank'] else '') + f" (win rate {out['win_pct']}% in the round robin)")
+        print(f"{args.file}: {out['status']}" + (f" at rank {out['rank']} of {out['roster_size']}" if out['rank'] else '') + f" (win rate {out['win_pct']}% in the round robin)"
+              + ('  [the simulator or card data changed: everyone was re-ranked]' if out['re_ranked_everything'] else ''))
         for d in out['evicted']:
             print(f"  retired from the roster: {d['file']} ({d['win_pct']}%)")
         r = R.read()

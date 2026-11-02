@@ -43,7 +43,7 @@ Every deck should include Time Is A Warrior's Tool x1 and at least 2 Confrontati
 
 Before giving a deck: decode and re-encode its code, then check copy counts, printed limits, Named cards, Heroes/Villains-only text, and the
 60-card count with a script. **Then playtest it in the simulator** (`DECKBUILDING_NOTES.md`, "Playtesting a deck in the simulator": coverage first, add any missing MP/Mastery/card behaviors,
-`python -m sim playtest <deck>` against the 10-deck roster, read a few play logs, no big batches), then `python -m sim roster add <deck>` so it can be tested against. Do not present a deck you have not checked and playtested.
+`python -m sim playtest <deck>` against the test-deck roster (up to 25 decks), read a few play logs, no big batches), then `python -m sim roster add <deck>` so it can be tested against. Do not present a deck you have not checked and playtested.
 
 ## Re-running the pipeline
 Run from `_deckbuilder_db/scripts` in this order: `derive.py --sets S01,...,S19,PZP,OP1,...,OP6 --out work/full`, `crd_parse.py`,
