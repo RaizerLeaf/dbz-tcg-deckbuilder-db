@@ -17,7 +17,7 @@ L1 Aged (PUR 3) / L2 Successful (PUR 4) / L3 Renewed (PUR 5) / L4 Huge (PUR 6, t
    - Every Namek ball that enters play destroys the top card of the opponent's Life Deck (a free mill on top of L1's anger), and with exactly one ball in play it cannot be captured. Namek Dragon Ball 1 also protects the others and gives +1 life card to your attacks.
    - Namekian has about 15 ball-search cards (Dragon Radar, Dragon Clan, Disturbance, Planned Attack, Dash, Ending, Growth, ...), so L1's "ball enters" anger and a Dragon Ball Victory attempt are both live.
    - Namekian also has the anger-denial cards a slow deck needs against MPPV (Airborne Attack, Downward Blast, Counter Blast, Side Kick) and Freestyle Villain tools (Wall Breaker, Villainous Energy Beam / Power Ball).
-2. **Red + Red Enraged Mastery.** Built as a draft: `sim/decks/lord_slug_red_namek.txt` (the earlier `lord_slug_red_v3.txt` with the seven Earth balls swapped for the Namek set, as the notes advise).
+2. **Red + Red Enraged Mastery.** Built by another chat as `decks/lord_slug_red_namek.txt` (Red Slug V4 Namek: the earlier `sim/decks/lord_slug_red_v3.txt` with the Earth balls swapped for the Namek set). In the roster playtest below, the Namekian deck beats it 47 games out of 50.
    - Red has the rejuvenation-adjacent cards the owner pointed out: Red Right Blast (draws on the next Rejuvenate; from the discard pile it lowers anger 2), Red Hurl (anger +1, HIT Rejuvenate 2), Red Blaze (anger +1, Rejuvenate 2, critical effect), Red Duck (Rejuvenate X = anger), Red Emergency.
    - Red has by far the most anger (54 cards) and critical-effect cards (18), and Enraged turns each critical effect into anger +1. Slug only needs 15 anger to reach L4, so most of that engine is wasted, except that anger at L4 resets the MP to its highest stage. Critical effects can capture balls.
    - Weakness: almost no ball search (Radar and Fist Slam only), no anger denial, and Knowledge's mill and ball protection are missing.
@@ -30,25 +30,40 @@ Code in `decks/lord_slug_namekian_knowledge.txt` (generated with `deckcode.py`, 
 - Defaults: Time Is A Warrior's Tool x1, Stare Down x2 (Villain MP).
 - Named: Lord Slug's Fist Slam x3, Lord Slug's Regeneration x2.
 - Dragon Balls: the seven Namek Dragon Balls.
-- Ball access: Dragon Radar, Namekian Dragon Clan, Namekian Disturbance, Namekian Planned Attack x2, Namekian Dash x2, Namekian Growth, Namekian Ending.
+- Ball access: Dragon Radar, Namekian Dragon Clan, Namekian Disturbance, Namekian Planned Attack x2, Namekian Dash x2, Namekian Growth.
 - Rejuvenate attacks: Chin Grab x3, Onslaught x3, Dragon Blast x3, Focused Beams x2, Overhead Blast x2, Sudden Blast, Airborne Attack x2, High Knee x2; finishers Optic Blast, Villainous Energy Beam.
-- Defence / recovery: Forceful Block x3, Hybrid Defense x2, Buffer, Protective Posture, Namekian Regeneration x2, Namekian Fusion, Namekian Concentration, Namekian Overtime x2.
-- Tech: Wall Breaker x2 (opponent cannot gain anger), Korin (Rejuvenate 1 after taking life-card damage).
+- Defence / recovery: Forceful Block x3, Hybrid Defense x2, Buffer, Protective Posture, Namekian Regeneration x2, Namekian Fusion, Namekian Overtime x2; Namekian Downward Blast x3 (lowers the opponent's anger 2).
+- Tech: Wall Breaker x2 (opponent cannot gain anger). Korin, Namekian Ending and Namekian Concentration were cut after the first draft: the simulator does not play Allies, Ending's end-of-combat shuffle was not worth modelling, and Concentration only works on turns without combat.
 
-## Simulator result (rough signal only)
-`sim/behaviors.py` got an **approximate** Namekian Knowledge Mastery (anger +1 per in-combat `rejuv`, Namek ball entering mills 1, a single ball is protected). It does **not** model Knowledge's "shuffles into your Life Deck" trigger, ball-search cards (Dragon Radar, Dragon Clan, Planned Attack, Dash, Disturbance, Ending), Wall Breaker, Dragon Blast's Rejuvenate, Korin or the Regeneration level change; coverage is 71% for the Namekian deck and 77% for the Red one. Win % for the Slug deck, 500 games each:
+## Simulator playtest (rough signal only; `python -m sim playtest decks/lord_slug_namekian_knowledge.txt -n 50`, 50 games per opponent)
+Coverage: **97% modelled**. Not modelled: Namek Dragon Ball 2's optional level lowering, Downward Blast's "place this card on the top or bottom of your Life Deck", Focused Beams' "if stopped, banish the bottom 2 cards", Villainous Energy Beam's "damage is banished" (the cards still leave the Life Deck), Lord Slug's Regeneration's "use after taking damage / advance or lower" (the AI plays it proactively for the Rejuvenate 4), Dash's "reveal a ball to look at the hand", Growth's Level 3+ Styled-card search, Allies. "Hand-coded" in `coverage` means custom code exists, not that every sentence is handled.
 
-| vs | Namekian Knowledge | Red Enraged (Namek balls) |
+| Opponent (roster) | Slug wins / 50 | How games ended |
 |---|---|---|
-| friend's Red Piccolo | 1.8 | 11.2 |
-| Wheelo (Black mill) | 19.8 | 10.8 |
-| Nail (Black mill) | 21.0 | 10.6 |
-| Garlic Jr. (Red) | 3.2 | 4.6 |
+| Orange Trunks V5 | 6 | lost to MPPV 11, to Survival 33; won DBV 3, Survival 3 |
+| Red Trunks draft | 6 | lost to MPPV 40, Survival 4; won DBV 1, Survival 5 |
+| Nappa Saiyan Clench | 24 | lost to Survival 26; won DBV 7, Survival 17 |
+| friend's Red Piccolo | 21 | lost to MPPV 29; won DBV 4, Survival 17 |
+| Red Garlic Jr. | 23 | lost to MPPV 27; won DBV 4, Survival 19 |
+| Nail Black | 47 | lost to Survival 3; won DBV 4, Survival 43 |
+| Wheelo Black mill | 41 | lost to Survival 9; won DBV 7, Survival 34 |
+| Wheelo Blue lockdown | 46 | lost to Survival 4; won DBV 4, Survival 42 |
+| Black Krillin | 40 | lost to Survival 10; won DBV 6, Survival 34 |
+| Red Slug V4 Namek | 47 | lost DBV 2, Survival 1; won DBV 20, Survival 27 |
 
-Reading: in the model both Slug decks are slow and lose to fast MPPV decks (Piccolo wins on turn 3 of its own turns); Namekian does better against slow decks. The numbers understate Namekian because its ball search and anger denial are not modelled. Treat the ranking as card-based reasoning, not a simulated result.
+Overall 60% over 500 games (+/- about 14 points per opponent at 50 games). It joined the roster at rank 3 of 11 (61.7% in the round robin).
+Reading: the deck is a slow grinder. It beats the mill and slower decks, trades evenly with Nappa, Piccolo and Garlic (Wall Breaker, Downward Blast and the Survival route let it race), and loses to the fastest decks (both Trunks decks, which MPPV or out-damage it by turn 4-5). Dragon Ball Victory fires in 4-7 games per opponent; most wins are Survival. Logs read: Wall Breaker holds Piccolo on Level 1 for several turns; Knowledge takes Slug to Level 3 by turn 4-5 (Nappa log); Dragon Blast hits for 9 life cards with three balls out; Optic Blast captured a ball for a Dragon Ball Victory.
+
+What was added to the simulator for this deck (`sim/behaviors.py`, `cardmodel.py`, `engine.py`, covered by `SlugNamekian` tests in `sim/tests/test_rules.py`):
+- Namekian Knowledge Mastery (anger on in-combat Rejuvenate, Namek ball entering mills 1, one ball cannot be captured).
+- Lord Slug Level 3: the first in-combat Rejuvenate each combat is doubled (new hook `rejuv_amount`). Previously Level 3 only gave +2 stages.
+- **Engine/parser fixes that affect every deck:** "HIT: Rejuvenate N" is now applied (it was ignored, so Slug's own Level 2 Power and many cards never Rejuvenated); in-combat Rejuvenate triggers fire only if a card actually moved; "AT +1 stage" (singular) and "4 + X life cards" are parsed (Wall Breaker and Namekian Dragon Blast dealt no damage before).
+- Cards: Dragon Radar, Dragon Clan, Disturbance, Planned Attack, Dash, Growth (ball search/play; "play" uses the ball's immediate effects, "place into play" does not; no second ball of the same name), Dragon Blast, Overhead Blast, Hybrid Defense, Regeneration, Airborne Attack, Protective Posture, Sudden Blast (shuffle counted as one Knowledge trigger), Onslaught (second use at once with 2+ balls), Fusion, Overtime, Namek Dragon Ball 4, Optic Blast, Wall Breaker.
+- Regression decks before/after: Wheelo V2 vs Piccolo 15.9% -> 15.9%; Red Trunks vs Orange V4 (Orange MPPV off) 59.1% -> 60.4%; Red Slug V4 vs Piccolo 10.2% -> 11.8% (HIT Rejuvenate now applies).
 
 ## Unverified / open
 - Does Knowledge's anger trigger once per effect or once per card? (Assumed once per effect; Slug L3's doubling changes the amount, not the number of triggers.)
 - Does the Namek ball "cannot be captured" clause of Knowledge apply when a second ball arrives? (Text: "While you control 1 Dragon Ball".)
 - Which Namek Dragon Ball 6 text is current (two wordings exist; the deck uses `U63` either way).
+- Unverified simulator assumptions (marked in the code): Slug L3 doubling also applies to card-by-card Rejuvenate (Airborne Attack) but not to Sudden Blast's shuffle; Onslaught's second use is taken immediately; a second Wall Breaker adds nothing.
 - The app has not loaded this code yet; the explicit MP printings field and the plain MP name are confirmed by earlier imports (Nappa, Wheelo).

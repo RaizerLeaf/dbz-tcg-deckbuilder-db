@@ -20,6 +20,7 @@ class Behavior:
     def on_crit_damage(self, p, opp): pass
     def on_advance(self, p): pass
     def on_rejuvenate(self, p): pass
+    def rejuv_amount(self, p, n): return n                 # in-combat Rejuvenate amount before it is applied (Lord Slug Level 3 doubles the first one)
     def on_gain_stages(self, p, n): pass
     def on_card_discarded(self, p): pass
     def on_play(self, p, opp, card): pass
@@ -148,8 +149,10 @@ class RedEnraged(Behavior):
 
 @mastery('Namekian Knowledge Mastery')
 class NamekianKnowledge(Behavior):
-    """Approximation: +1 anger for each in-combat Rejuvenate effect; each Namek ball entering mills 1; a single ball cannot be captured.
-    NOT modelled: 'shuffles cards into your Life Deck' also raising anger (only Rejuvenate is hooked)."""
+    """[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level.
+    After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.
+    Modelled: +1 anger per in-combat Rejuvenate effect (`on_rejuvenate`, once per effect, not per card; UNVERIFIED), the Sudden Blast shuffle counts as one trigger, a Namek ball entering mills 1
+    (also when it enters through Planning or a search; captured balls do not count), one ball cannot be captured."""
     def on_rejuvenate(self, p): p.raise_anger(1)
 
     def on_ball_entered(self, p):
@@ -657,6 +660,11 @@ class SlugL2(Behavior):
 class SlugL3(Behavior):
     def stage_bonus(self, p, card, opp): return 2
 
+    def rejuv_amount(self, p, n):
+        # "The first time during combat one of your effects shuffles or Rejuvenates cards from your discard pile into your Life Deck, double that amount."
+        # Only Rejuvenate is doubled here; the shuffle half of the text (Namekian Sudden Blast) is not. UNVERIFIED: whether a card-by-card pick (Airborne Attack) is doubled too (modelled as yes).
+        return 2 * n if once(p, 'slug3_double') else n
+
 
 @mp('Lord Slug', 'Huge')
 class SlugL4(Behavior):
@@ -727,6 +735,8 @@ def life_adjust(p, opp, c):
     adj = 0
     if c.name == 'Ready For Battle':
         adj -= len(opp.hand)
+    if c.name == 'Namekian Dragon Blast':          # DAMAGE: 4 + X life cards, X = Dragon Balls in play (anyone's)
+        adj += len(p.balls) + len(opp.balls)
     if (c.life or c.life_at) and any(b.name == 'Earth Dragon Ball 1' for b in p.balls + opp.balls):
         adj += 1
     return adj
@@ -926,6 +936,190 @@ _x('Black Running Guard', defend=lambda p, atk, x, c: p.destroy_opp(2) if c.styl
 _x('Black Flinch', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Black Upward Dodge', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Villainous Visage', on_damaged=lambda p, atk, x, removed: (p.hand.remove(x), p.banished.append(x), p.destroy_opp(2 * removed)))
+
+# ---- Namekian / Lord Slug cards (Dragon Ball search, Rejuvenate X, Wall Breaker, ...) ------------------------------------------
+BALL_ORDER = [1, 6, 5, 3, 7, 2, 4]          # which ball a search takes first (the AI picks the best one it can)
+
+
+def _ball_no(c): return int(c.name.rsplit(' ', 1)[1])
+
+
+def _ball_candidates(p, namek_only=False, max_no=None):
+    """Dragon Balls in p's Life Deck that may enter play: no ball with the same name already in play under p (rule of the game)."""
+    names = {b.name for b in p.balls}
+    out = [c for c in p.deck if c.ctype == 'Dragon Ball' and c.name not in names]
+    if namek_only:
+        out = [c for c in out if c.name.startswith('Namek Dragon Ball')]
+    if max_no is not None:
+        out = [c for c in out if _ball_no(c) <= max_no]
+    return out
+
+
+def _put_ball(p, o, c, play):
+    """Put ball c (already removed from its zone) into play. play=True: it was *played*, so its immediate effects are used; play=False: *placed into play*, no immediate effects."""
+    p.balls.append(c)
+    if play:
+        ex = CARD_EXTRA.get(c.name, {})
+        if ex.get('immediate'):
+            ex['immediate'](p, o, c)
+    for b in p.behaviors():
+        b.on_ball_entered(p)
+    p.check_dbv()
+
+
+def _fetch_ball(p, o, play, namek_only=False, max_no=None, count=1):
+    """Search the Life Deck for Dragon Ball(s) and play (immediate effects) or place them into play. Returns how many entered."""
+    n = 0
+    for _ in range(count):
+        cands = _ball_candidates(p, namek_only, max_no)
+        if not cands:
+            break
+        c = min(cands, key=lambda x: BALL_ORDER.index(_ball_no(x)) if _ball_no(x) in BALL_ORDER else 9)
+        p.deck.remove(c)
+        p.rng.shuffle(p.deck)
+        _put_ball(p, o, c, play)
+        n += 1
+    return n
+
+
+def _balls_in_play(p, o): return len(p.balls) + len(o.balls)
+
+
+# "Search ... for a Dragon Ball and play it" (the text says *play*: immediate effects are used)
+_x('Dragon Radar', use=lambda p, o, c: _fetch_ball(p, o, True), can_use=lambda p, o, c: bool(_ball_candidates(p)))
+_x('Namekian Dragon Clan', use=lambda p, o, c: _fetch_ball(p, o, True, count=2 if p.level == 4 else 1), can_use=lambda p, o, c: bool(_ball_candidates(p)))
+_x('Namekian Disturbance', use=lambda p, o, c: _fetch_ball(p, o, True, namek_only=True, max_no=p.level),
+   can_use=lambda p, o, c: bool(_ball_candidates(p, True, p.level)))
+# HIT: "search ... for a Dragon Ball and place it into play" (no immediate effects)
+_x('Namekian Planned Attack', hit=lambda p, o, c, r: _fetch_ball(p, o, False))
+_x('Namekian Dash', hit=lambda p, o, c, r: _fetch_ball(p, o, False))     # the optional "reveal a ball to look at the opponent's hand" is not modelled (no hidden information)
+
+
+def _growth(p, o, c):
+    """Namekian Growth: play a Dragon Ball from your hand, or Rejuvenate 4 (the Level 3+ 'search for a Styled card instead' option is not modelled)."""
+    names = {b.name for b in p.balls}
+    ball = next((x for x in p.hand if x.ctype == 'Dragon Ball' and x.name not in names), None)
+    if ball is not None:
+        p.hand.remove(ball)
+        _put_ball(p, o, ball, True)
+    else:
+        p.rejuv(4)
+
+
+_x('Namekian Growth', use=_growth, can_use=lambda p, o, c: len(p.discard) >= 3 or any(x.ctype == 'Dragon Ball' and x.name not in {b.name for b in p.balls} for x in p.hand))
+
+
+# Rejuvenate X / Rejuvenate from the discard pile
+_x('Namekian Dragon Blast', hit=lambda p, o, c, r: p.rejuv(_balls_in_play(p, o)))          # HIT: Rejuvenate X, X = Dragon Balls in play (anyone's)
+_x('Namekian Overhead Blast', hit=lambda p, o, c, r: p.rejuv(p.level))                      # HIT: Rejuvenate X, X = your MP's level
+_x('Namekian Hybrid Defense', defend=lambda p, atk, x, c: p.rejuv(p.level))                 # Choose X cards in your discard pile and Rejuvenate them, X = your MP's level
+_x('Namekian Regeneration', use=lambda p, o, c: p.rejuv(4), can_use=lambda p, o, c: len(p.discard) >= 3)   # top or bottom 4 (the model takes the top 4)
+_x("Lord Slug's Regeneration", can_use=lambda p, o, c: len(p.discard) >= 3)                 # the AI plays it proactively; "use after taking damage" and "may advance or lower 1 level" are not modelled
+_x('Namekian Airborne Attack', immediate=lambda p, o, c: p.rejuv(1, pred=lambda x: x.style != p.styled()))   # search the discard pile for a non-Styled card and Rejuvenate it
+
+
+def _protective_posture(p, atk, x, c):
+    """Rejuvenate this card after use: it goes back to the bottom of the Life Deck instead of the discard pile."""
+    x.keep = True
+    p.deck.append(x)
+    for b in p.behaviors():
+        b.on_rejuvenate(p)
+
+
+_x('Namekian Protective Posture', defend=_protective_posture)
+
+
+def _sudden_blast(p, o, c, removed):
+    """HIT: choose 4 cards in your discard pile, banish 2, shuffle the rest into your Life Deck (counts as one 'shuffles cards into your Life Deck' trigger; the Slug L3 doubling is not applied to it)."""
+    pick = [p.discard.pop() for _ in range(min(4, len(p.discard)))]
+    p.banished.extend(pick[:2])
+    p.deck.extend(pick[2:])
+    p.rng.shuffle(p.deck)
+    if pick[2:]:
+        for b in p.behaviors():
+            b.on_rejuvenate(p)
+
+
+_x('Namekian Sudden Blast', hit=_sudden_blast)
+
+
+def _second_use(p, o, c, removed):
+    """Namekian Onslaught: with 2 or more Dragon Balls the attack stays in play and is used a second time this combat (the model uses it again at once)."""
+    if len(p.balls) >= 2 and once(p, 'onslaught2'):
+        p.attack(o, power=c)
+
+
+_x('Namekian Onslaught', hit=_second_use)
+
+
+def _fusion(p, o, c):
+    p.gain_stages(10)
+    p.draw(1)
+    if p.hand and p.hand[-1].style == p.styled():
+        p.rejuv(2)
+
+
+_x('Namekian Fusion', use=_fusion, can_use=lambda p, o, c: p.stage <= 6)
+
+
+def _overtime(p, o, c):
+    """Rejuvenate 1 (parsed), destroy X cards from the opponent's Life Deck (X = Dragon Balls you control), search for a Styled Energy Combat card."""
+    p.destroy_opp(len(p.balls))
+    fetch_from_deck(p, lambda x: x.style == p.styled() and x.ctype == 'Energy Combat')
+
+
+_x('Namekian Overtime', use=_overtime)
+
+
+def _namek4(p, o, c):
+    for _ in range(2):                       # destroy up to 2 Setups or Drills (the model destroys the opponent's)
+        if o.drills:
+            o.discard.append(o.drills.pop())
+        elif o.setups:
+            o.discard.append(o.setups.pop())
+
+
+_x('Namek Dragon Ball 4', immediate=_namek4)
+
+
+def _optic_blast(p, o, c, removed):
+    """HIT: capture a Dragon Ball (not if its owner's effect protects it); a captured Namek ball destroys the top 3 cards of the opponent's Life Deck, an Earth ball draws a card."""
+    if o.balls and not any(b.protect_balls(o) for b in o.behaviors()):
+        ball = o.balls.pop()
+        p.balls.append(ball)
+        p.check_dbv()
+        if ball.name.startswith('Namek'):
+            p.destroy_opp(3, noamp=True)
+        else:
+            p.draw(1)
+
+
+_x('Optic Blast', hit=_optic_blast)
+
+
+class _WallBreaker(Behavior):
+    """Wall Breaker attached to this player's MP: this player cannot gain anger; the card is banished when this player deals critical damage."""
+    def anger_modify(self, p, n, in_combat): return 0
+
+    def on_crit_damage(self, p, opp):
+        for c in [x for x in p.attached if x.name == 'Wall Breaker']:
+            p.attached.remove(c)
+            opp.banished.append(c)
+
+
+CARD_PASSIVE['Wall Breaker'] = _WallBreaker()
+
+
+def _wall_breaker(p, o, c):
+    if not any(x.name == 'Wall Breaker' for x in o.attached):        # a second copy would change nothing (unverified how copies stack)
+        o.attached.append(c)
+        c.keep = True
+
+
+_x('Wall Breaker', immediate=_wall_breaker)
+# Villainous Energy Beam: "damage from this attack is banished" is not modelled (the cards leave the Life Deck either way; only the opponent's discard pile differs).
+# Korin and every other Ally: Allies are not simulated.
+
 
 # ---- Saiyan stage-drain cards (Nappa's deck) ---------------------------------------------------------------------
 def _attach(p, o, c):
