@@ -41,7 +41,9 @@ Coverage: **97% modelled**. Not modelled: Namek Dragon Ball 2's optional level l
 | Opponent (roster) | Slug wins / 50 | How games ended |
 |---|---|---|
 | Orange Trunks V5 | 6 | lost to MPPV 11, to Survival 33; won DBV 3, Survival 3 |
-| Red Trunks draft | 6 | lost to MPPV 40, Survival 4; won DBV 1, Survival 5 |
+| Red Trunks draft | 6 | lost to MPPV 39, Survival 5; won DBV 1, Survival 5 |
+| Vegeta Pinnacle Red Ascension | 8 | lost to MPPV 36, Survival 6; won DBV 6, Survival 2 |
+| Vegeta Awakening Saiyan Dynamic | 29 | lost to Survival 21; won DBV 5, Survival 24 |
 | Nappa Saiyan Clench | 24 | lost to Survival 26; won DBV 7, Survival 17 |
 | friend's Red Piccolo | 21 | lost to MPPV 29; won DBV 4, Survival 17 |
 | Red Garlic Jr. | 23 | lost to MPPV 27; won DBV 4, Survival 19 |
@@ -49,9 +51,9 @@ Coverage: **97% modelled**. Not modelled: Namek Dragon Ball 2's optional level l
 | Wheelo Black mill | 41 | lost to Survival 9; won DBV 7, Survival 34 |
 | Wheelo Blue lockdown | 46 | lost to Survival 4; won DBV 4, Survival 42 |
 | Black Krillin | 40 | lost to Survival 10; won DBV 6, Survival 34 |
-| Red Slug V4 Namek | 47 | lost DBV 2, Survival 1; won DBV 20, Survival 27 |
+| Red Slug V4 Namek | 46 | lost DBV 3, Survival 1; won DBV 21, Survival 25 |
 
-Overall 60% over 500 games (+/- about 14 points per opponent at 50 games). It joined the roster at rank 3 of 11 (61.7% in the round robin).
+Overall 56% over 600 games (+/- about 14 points per opponent at 50 games; table after merging the Vegeta decks that another chat added to the roster). It joined the roster at rank 3 of 11 (61.7%); after the Vegeta decks arrived and `roster rebuild` it is rank 6 of 13 (52.3%).
 Reading: the deck is a slow grinder. It beats the mill and slower decks, trades evenly with Nappa, Piccolo and Garlic (Wall Breaker, Downward Blast and the Survival route let it race), and loses to the fastest decks (both Trunks decks, which MPPV or out-damage it by turn 4-5). Dragon Ball Victory fires in 4-7 games per opponent; most wins are Survival. Logs read: Wall Breaker holds Piccolo on Level 1 for several turns; Knowledge takes Slug to Level 3 by turn 4-5 (Nappa log); Dragon Blast hits for 9 life cards with three balls out; Optic Blast captured a ball for a Dragon Ball Victory.
 
 What was added to the simulator for this deck (`sim/behaviors.py`, `cardmodel.py`, `engine.py`, covered by `SlugNamekian` tests in `sim/tests/test_rules.py`):
