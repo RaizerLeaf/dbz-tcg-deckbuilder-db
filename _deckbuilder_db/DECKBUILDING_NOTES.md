@@ -66,6 +66,15 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   L1 gives a critical effect and 2 anger the next time any card is discarded from a hand this combat. Named: Krillin's Solar Flare, Krillin's Destructo Disk (cannot be stopped or prevented).
   Black has 14 hand-disruption cards; Black Devious Mastery makes the opponent discard each turn and turns 4-life-card attacks into critical hits.
 
+- **Nappa** (Villain, Saiyan heritage, only Set 2 printings are legal: Rested, Smirking, Overconfident, Enraged): a stage-damage MP. Stages lost or taken at
+  power level 0 come off the Life Deck (Rulebook 3.0), and L4 makes your attacks unpreventable while the opponent's MP is at 0, so drive their MP to 0
+  first. L2 drains 1 stage per attack you perform (2, from all their personalities, if you changed levels this combat). The opponent picks which personality
+  loses the stages and can redirect damage to Allies, so L1/L3 Ally removal matters. Named: Nappa's Energized Charge (opponent's MP changes levels -> power 0),
+  Nappa's Confidence. Vegeta Ally (Set 2) gives physical attacks +2 stages with Nappa. Saiyan Clench (Limit 2, Villains only) doubles power stage damage of
+  non-AT attacks, and Nappa's L4 top power (24,000) meets its 500,000 cap. First deck: Saiyan Rampaging (4 anger to level; its Power turns an Endurance card
+  into a 1+X stage attack). **(unverified)** Saiyan Dive's "Endurance considered 10" counts for Rampaging's X; Clench doubles before or after +stage modifiers;
+  Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
+
 ## Deck code format (from the owner's web app)
 `D1.<name>.<MP name>.<Mastery>[.<MP printings>].<card>.<card>...`
 - Names are URL-encoded (`%20`). Cards are `<set prefix>-<card number>`, `*N` for N copies, sorted as plain text.
