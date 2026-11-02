@@ -32,6 +32,47 @@ M = [
  ("S07_DR_DR30", 8, "Critical effects give stages; free anger 1 at the end of every combat; banish a card for another anger and maybe an opp skip"),
  ("S07_DR_DR5", 8.5, "ALL attacks +1 life card; discard a Styled card to draw and prevent 4 stages and 4 life cards of the next attack"),
 ]
+
+# (what it does in plain words, why it earned its tier)
+DESC = {
+ "S01_BST_122": ("Every attack you make gets +1 stage and +1 life card of damage, always. Its Power: discard a card to banish the bottom 2 cards of your opponent's discard pile, and if the discarded card was Styled your opponent also discards a card from hand.",
+   "Unconditional. It works on every attack from the first turn, in any deck, with nothing to set up, and a flat life-card bonus is the same kind of effect that puts the Set 7 Goku and Vegeta MPs at the top of the MP list. The Power adds hand and discard-pile pressure on top. It is not a 10 because it does nothing for levelling speed or defense."),
+ "S01_BST_140": ("Every time you use a critical damage effect you raise your anger 1 level. When you advance you draw a card then discard a card; when you lower you may draw a card.",
+   "It turns the critical effects Red already produces into levelling progress (a level costs 5 anger), and the draw/discard on level changes smooths your hand every time you move. It has no other conditions. Not a 10 because it only pays off when you get critical effects, so it is a speed engine rather than a flat bonus."),
+ "S07_DR_DR5": ("Every attack you make deals +1 life card. Its Power: discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards of damage from your opponent's next attack this combat.",
+   "It is the only Mastery that has an always-on damage bonus and a real defense in the same card. The bonus is smaller than Devious (life card only, no stage) and the defense costs a card and covers one attack, which is why it sits just under the two Premiere cards at 8.5."),
+ "S01_BST_127": ("Your opponent needs 6 anger to advance a personality level. Defense Power: discard a Physical Combat card to stop an energy attack, or an Energy Combat card to stop a physical attack; if the discarded card was Blue you may raise or lower a player's anger 1 level.",
+   "Two defensive jobs in one card: it slows the opponent's levelling by an anger point, and it gives a repeatable stop that works with cards a deck would not normally use for that attack type. It adds no damage, so it ranks below the damage Masteries. It only affects levelling: per the owner's ruling, MPPV at Level 4 is still 5 anger."),
+ "S07_DR_DR30": ("When you use a critical damage effect you gain 2 stages. At the end of every combat you may raise your anger 1 level. Power: banish the top card of your Life Deck to raise your anger 1 level; if it was Styled your opponent skips their next action this combat.",
+   "Free anger at the end of each combat plus a second anger power, with or without critical hits, so it levels you steadily without needing anything to go right. It is the non-frozen alternative to Red Enraged. It sits below Enraged because Enraged's +1 per critical effect is bigger in a deck full of them, and below the damage Masteries because it adds no damage or defense; the Power also costs a Life Deck card."),
+ "S04_STR_S15": ("Instant at the end of the turn: reveal the bottom card of your Life Deck and if it is Styled or a Dragon Ball you may take it (then put a card from hand on the top or bottom). Power: raise your anger 2 levels; you may discard a Dragon Ball or Styled card to shuffle your Life Deck and draw a card.",
+   "Anger 2 from a single Power is the biggest single anger raise among the Sets 1-7 Masteries (only Orange Retribution matches it), and the end-of-turn pick-up adds card selection. It is held at 7.5 because it adds no damage or defense and leans on Styled cards and Dragon Balls in your hand."),
+ "S01_BST_136": ("Your Drills are not discarded when you advance or lower. Your energy attacks deal +1 life card. At the end of any combat in which you used a critical damage effect, search your discard pile for a Styled Drill and place it into play.",
+   "It removes the main cost of an Orange Drill deck (Drills are discarded when you advance), and gives energy attacks a flat life-card bonus. The bonus is energy attacks only and the Drill recovery needs a critical effect, and the whole card is only great in a Drill deck, so it stays at 7.5."),
+ "S07_DR_DR10": ("You may not activate two Drills with the same name in a turn. At the start of your opponent's first turn you fetch a Styled non-[Continuous] Drill into play. Whenever your MP changes levels you may shuffle all your Drills back. Power: your next Styled attack costs 0 stages, raise your anger up to 2 levels, and if your MP changed levels this combat fetch a Styled Drill into play.",
+   "A complete Drill engine: a free Drill, a free attack, up to 2 anger and a refetch after levelling. It has the same score as Adaptive because the power is offset by the narrowness: it only helps a Drill deck, has the same-name restriction, and does nothing for plain damage."),
+ "S07_DR_DR25": ("Any of your attacks that deals at least 4 life cards of damage is considered to deal critical damage. Power: discard a card; if it was Styled you gain 6 stages or may raise or lower a player's anger 1 level.",
+   "Big attacks become critical hits, which gives you the always-available critical effects (capture a Dragon Ball, discard an Ally, lower anger) for free. It adds no damage itself and needs 4+ life-card attackers, so it is a solid B rather than an A."),
+ "S07_DR_DR15": ("When an Earth Dragon Ball you own enters play during combat you raise your anger 1 level. While 3 or more Earth Dragon Balls you own are in play, all your attacks deal +2 life cards. Power: if fewer than 3 of your Dragon Balls are in play, fetch one.",
+   "The +2 life-card bonus is as big as anything in the S tier, and the Power fetches the balls to turn it on. The catch is the condition: it needs 3 Earth balls in play, so it takes setup and can be undone by capture or destruction. That risk keeps it at 7."),
+ "S04_STR_S05": ("You need 1 less anger to advance a personality level (minimum 4). Your Styled attacks gain 'HIT: you may raise your anger 1 level'. Power: discard a Styled card with Endurance to make a non-Styled physical attack for 1 + X stages (X = the card's Endurance).",
+   "Cheaper levels and anger on hits make it a levelling Mastery, in the same family as Restored and Ascension but a bit weaker: the anger on hit requires your attack to land and the Power is niche. It gives no damage or defense."),
+ "S04_STR_S30": ("Your Styled attacks gain 'HIT: destroy an opponent's Setup or Drill'. Power: destroy the top card of your Life Deck to destroy the top card of your opponent's; if the opponent's was a Physical or Energy Combat card you gain 4 stages, otherwise raise a player's anger 1 level.",
+   "Board disruption and a symmetric mill. The payoff depends on what happens to be on top of their deck and it spends your own Life Deck, and there is no damage, defense or levelling boost, so it is C."),
+ "S04_STR_S10": ("At the start of your opponent's first turn you fetch an Ally into play at 3 stages above 0. While you control 1 Ally it cannot be discarded by critical damage effects. At the end of combat you Rejuvenate an Ally from your Banished Zone.",
+   "A free Ally and some protection for it. Everything depends on how good the Allies in the deck are; the Mastery does nothing for your MP, so it is C."),
+ "S01_BST_131": ("Whenever your effects during combat Rejuvenate or shuffle cards into your Life Deck, raise your anger 1 level. After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball it cannot be captured by a critical damage effect.",
+   "Narrow: it only pays out if you have Rejuvenate or shuffle effects and Namek Dragon Balls, and it adds no damage or defense. It is frozen, but on its own text it is a C."),
+ "S04_STR_S20": ("Your attacks deal +1 stage. After your MP advances you search your discard pile for a Drill and Rejuvenate it. Power after a successful Styled attack: that attack gains 'HIT: if you control 2 or fewer Drills, fetch a Styled [Continuous] Drill into play'.",
+   "+1 stage is a small bonus, the Drill recovery only happens when you advance, and the fetch needs a hit and 2 or fewer Drills. It is the weakest of the three Orange Masteries. It is not frozen."),
+ "S04_STR_S25": ("When entering combat you banish the top card of your discard pile; if it was Styled, your Styled physical attacks this combat deal +2 stages and gain 'HIT: lower your opponent's anger 1 level'. Power: reveal a Styled card from hand and put it at the bottom of your Life Deck; if the top of your discard pile is an attack you may play it.",
+   "Everything depends on what is on top of your discard pile, and the bonuses are small (+2 stages, 1 anger of denial). Useful tricks, but unreliable, so C."),
+ "S07_DR_DR20": ("You may start the game on Level 2. You need 6 anger to advance. Your Styled attacks without 'anger' printed in the text box gain 'raise your anger 1 level'.",
+   "It trades a slower level cost (6 anger) for anger on most attacks and a Level 2 start, which roughly cancel out. There is no damage, defense or Power, so it adds little over the MP itself."),
+ "S01_BST_145": ("You cannot win by MPPV. Your Saiyan Style attacks gain 'Raise your anger 1 level. HIT: gain 3 stages'. Whenever you Rejuvenate a Saiyan Style card you raise your anger 1 level.",
+   "Anger and stages on every Saiyan attack, but giving up MPPV removes one of the main ways to win, and it only helps Saiyan Style cards. The drawback outweighs the speed, so it is a C even though it is frozen."),
+}
+
 # On the FanZ CRD v1.15 Frozen List page, only these two entries carry the light-blue "Panini additions" highlight (checked by looking at the PDF page image;
 # the text extraction cannot see it). The other frozen Masteries are unhighlighted, i.e. on the list through the fan-run continuation.
 PANINI_HIGHLIGHT = {"Black Devious Mastery", "Red Enraged Mastery"}
@@ -103,6 +144,24 @@ def main():
         n += 1
         w(f"| {n} | **{d['name'].replace(' Mastery','')}** `{d['id']}` | {d['style']} | {d['st']} | **{d['score']:g}** | {('**Frozen** (Panini-marked)' if d['name'] in PANINI_HIGHLIGHT else '**Frozen** (FanZ-added)') if d['frozen'] else 'no'} | {d['note']} |")
     w("")
+    w("## Why each Mastery earned its spot")
+    w("")
+    w("What puts a Mastery in a tier: **S** = a flat, unconditional damage bonus (or an anger engine with no setup) that works in any deck; **A** = strong effects that either need a specific kind of deck (Drills) or only help levelling or defense; **B** = good but conditional (a condition to meet or a smaller bonus); **C** = narrow, situational, or carries a real drawback.")
+    w("")
+    tdesc = {r["id"]: r for r in rows}
+    cur = None
+    for d in rows:
+        t = tier_of(d["score"])
+        if t != cur:
+            cur = t
+            w(f"### Tier {t}")
+            w("")
+        what, why = DESC[d["id"]]
+        fr = ("frozen, Panini-marked" if d["name"] in PANINI_HIGHLIGHT else "frozen, FanZ-added") if d["frozen"] else "not frozen"
+        w(f"**{d['name']}** (Set {d['st']}, score {d['score']:g}, {fr})")
+        w(f"- *What it does:* {what}")
+        w(f"- *Why it is here:* {why}")
+        w("")
     w("## By stack")
     w("")
     w("| Stack | Mean | Masteries (score) | Frozen |")
