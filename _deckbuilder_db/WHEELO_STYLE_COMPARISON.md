@@ -91,5 +91,6 @@ Against the friend's Red Piccolo ("redder Pic 1.0") it won 36/50 (72%), every wi
 | Opponent | Games | Result | Simulator said |
 |---|---|---|---|
 | redder Pic 1.0 (friend's Red Piccolo) | 2 | won 2, lost 0 | 36/50 (72%) |
+| Orange Trunks V6 (`decks/trunks_orange_v6.txt`, roster #1) | not stated (at least 1) | won | 17/50 (34%): the simulator's worst-matchup class, so a real win here is a good sign for the deck |
 
 Two games say little (the simulator's own 72% would give 2-0 about half the time); keep adding rows as more games are played.
