@@ -267,6 +267,8 @@ owner's three sample codes, Broly / Piccolo / Trunks, whose decoded lists matche
   MP name `Vegeta (Awakening)` and **no printings field** (the app takes the four Set 7 DR6-DR9 levels itself). Any MP name that exists as both Hero and Villain needs the qualifier for the Hero; `deckcode.check` and the friends page now reject a plain Hero name.
   `deckcode.groups_for(name, qualifier)` / `qualified_levels` resolve it; the simulator loader plays the qualifier's set when there is no printings field. **(unverified)** `Vegeta (Evolution)` (used in `decks/vegeta_evolution_red_ascension.txt`) and whether a printings field is accepted together with the qualifier.
 - **Confirmed by the Nappa import (2026-11-02):** the plain MP name `Nappa` and an explicit MP printings field (`_HV-C3_HV-C4_HV-U63_HV-U64`) are accepted.
+- **Same-name Allies are separate cards only if their SUBTITLES differ** (Vegeta Impatient `HV-U72` / Unrelenting `EV-U93`; Cell Jr. Trapped / Escaping / Unrelenting). A reprint with a redesigned layout is the same card even if the printed text reads differently:
+  the app rejected Tenshinhan's Set 4 reprint `EV-S60` ("Unknown card"); its code is the Set 1 `C9`. `deckcode.py` groups Allies by subtitle (fixed 2026-11-02); the full audit of same-name cards is in `REPRINT_AUDIT.md`.
 - **The app knows each non-MP card by one printing only: its first** (earliest set; within a set starter/DR, then booster, then promo).
   The owner's codes always use it (`S25` not `R145`, `R152` not `P8`, `S149` not `AW-S122`), and later reprints (`AW-S77` Stare Down,
   `EV-S159`, `EV-S165`, `AW-S118`, `AW-S122`) came back "Unknown card". `deckcode.py` encodes this automatically (`app_printing`).

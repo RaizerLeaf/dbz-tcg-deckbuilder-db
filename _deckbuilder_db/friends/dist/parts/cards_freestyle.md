@@ -1,4 +1,4 @@
-## Freestyle cards (218)
+## Freestyle cards (217)
 Format: name | type | [limit] | [Named character] | text. Allies, Dragon Balls and Freestyle cards have no style and can go in any deck (check "Heroes only"/"Villains only").
 Android 13 | Ally | POWER: [Attack] Energy attack costing 1 stage. You may banish one of your other Allies you control with "Android" in the title to draw a card. DAMAGE: 3 life cards.
 Android 14 | Ally | (When this card enters play, you may search your Life Deck for a card with "Android" in the title and destroy it. If you do, destroy a non-Styled Setup.) [Continuous]: If your MP has "Android" in the title, attacks performed by your MP deal +1 stage of damage for each Ally you control with "Android" in the title.
@@ -47,8 +47,7 @@ Piccolo | Ally | (Heroes only. If your MP is Gohan, you may use this power regar
 Puar | Ally | (If your MP is Yamcha, you may choose him with this power's effect.) POWER: Choose a non-[Instant]/non-[Continuous] Power of an Ally in play that isn't Puar. Use that Power.
 Recoome | Ally | (Villains only.) [Attack] POWER: Physical attack. DAMAGE: AT stages. HIT: You may have your MP pay 2 stages to draw the bottom card of your discard pile.
 Salza | Ally | (If your MP is Cooler, you may use this power regardless of your MP's power stage.) [Continuous]: Whenever you discard a card from your hand during combat, your MP gains 2 stages. POWER: If you have discarded a card from your hand this combat, draw a card.
-Tenshinhan [C9] | Ally | (Heroes only.) [Attack] POWER: Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.
-Tenshinhan [EV-S60] | Ally | POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.
+Tenshinhan | Ally | (Heroes only.) [Attack] POWER: Energy attack costing 2 stages. DAMAGE: 3 life cards. HIT: Draw a card.
 Trunks | Ally | (Heroes only.) [Instant] POWER: Use when entering combat. Look at the top card of a player's Life Deck. You may place that card at the bottom of that player's Life Deck.
 Turles | Ally | (Villains only.) [Continuous]: If your MP is a Saiyan, your Styled attacks deal +X stages of damage. X = the number of Saiyans in play.
 Turtle | Ally | [Continuous]: At the start of your turn, banish the top card of each player's discard pile. POWER: Shuffle "Turtle" into your Life Deck to draw a card.

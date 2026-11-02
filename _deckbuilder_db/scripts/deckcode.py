@@ -92,8 +92,10 @@ def _canonical_map():
     groups = collections.defaultdict(list)
     for c in CARDS:
         if c['set_number'] and c['set_number'] <= 7 and '_RST' not in c['card_id'] and ctype(c) != 'Main Personality':
-            # Allies share names with other Allies (two Vegetas), so personalities are grouped by text as well.
-            key = (c['card_name'], _norm(c['text_as_printed'] or '') if ctype(c) == 'Ally' else '')
+            # Allies share names with other Allies (two Vegetas, three Cell Jr.) and the CRD tells them apart by SUBTITLE ("same name, but different subtitles").
+            # Do not group by printed text: a reprint with a redesigned layout (Tenshinhan C9 "(Heroes only.)" vs the Set 4 reprint EV-S60) reads differently
+            # but is the same card, and the app only knows the first printing (EV-S60 came back "Unknown card").
+            key = (c['card_name'], (c.get('subtitle') or '') if ctype(c) == 'Ally' else '')
             groups[key].append(c)
     out = {}
     for prints in groups.values():
