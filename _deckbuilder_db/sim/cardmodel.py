@@ -128,6 +128,15 @@ class Card:
         self.rej_hit = int(m[1]) if m else 0          # 'HIT: Rejuvenate N' (only the plain form; conditional HIT text is not read)
         self.draw = 'Draw a card' in head
         self.banish_after = 'Banish after use' in t
+        # "This attack stays in play to be used a second time this combat." Treated as playing the card a second time from the hand (it pays its cost again
+        # and all of its text applies again; nothing else is needed to bring it back). 'always' = plain sentence, 'hit' = "HIT: This attack stays in play ...".
+        # Conditional versions ("If you control a Dragon Ball, ...") are NOT read here; they are hand-coded or left unmodelled.
+        self.second = None
+        if self.is_atk:
+            if any(x.startswith('This attack stays in play to be used a second time this combat') for x in sentences(head)):
+                self.second = 'always'
+            elif re.match(r'\s*This attack stays in play to be used a second time this combat', hit):
+                self.second = 'hit'
         self.instant_entering = 'when entering combat' in low
         self.unstoppable = any('cannot be stopped' in x and not x.startswith(('If', 'You may', 'Unless')) for x in sentences(head))
         self.unprev = any('cannot be prevented' in x and not x.startswith(('If', 'You may', 'Unless')) and 'this combat' not in x
@@ -147,6 +156,7 @@ _PARSED = [
     r"(?:opponent(?:'s MP)?|personalities|personality) loses? \d+ stages|lose \d+ stages", r'Prevent all damage from an? (?:(?:physical|energy) )?attack',
     r'Prevent \d+ life cards and \d+ stages of damage from an attack',
     r'^\(?Banish after use', r'^HIT:?$',
+    r'^(?:HIT: )?This attack stays in play to be used a second time this combat\.?$',      # plain second use (engine: Player._second_use)
 ]
 _PARSED_RE = re.compile('|'.join(_PARSED))
 

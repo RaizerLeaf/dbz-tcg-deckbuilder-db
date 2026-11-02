@@ -375,7 +375,16 @@ class Player:
         finally:
             self.cur_ally = None
 
-    def _attack(self, opp, card, power, ally):
+    def _second_use(self, opp, c, ally, hit):
+        """'This attack stays in play to be used a second time this combat' (card.second 'always' / 'hit'). The owner rules this is the same as playing the card a second
+        time from the hand: it pays its cost again (if it cannot, there is no second use), and every part of its text happens again. Nothing else is needed to bring it back.
+        A second use does not stay in play again."""
+        if c.second is None or (c.second == 'hit' and not hit) or any(q.lost or q.won for q in self.game.players):
+            return
+        self.log(f'    ({self.label}: {c.name} stays in play and is used a second time)')
+        self._attack(opp, None, c, ally, second=True)
+
+    def _attack(self, opp, card, power, ally, second=False):
         c = power or card
         cost = c.cost
         if self.cb['next_free'] and card is not None and card.style and card.style == self.styled():
@@ -418,6 +427,8 @@ class Player:
             for b in opp.behaviors():
                 b.on_stop_made(opp, self, c)
             self._finish(card, c)
+            if not second:
+                self._second_use(opp, c, ally, hit=False)
             return True
         ds, life = 0, c.life
         if c.at is not None or c.stage_flat:
@@ -483,6 +494,8 @@ class Player:
         self._finish(card, c)
         for b in self.behaviors():
             b.after_hit(self, opp, c, removed)
+        if not second:
+            self._second_use(opp, c, ally, hit=True)
         return True
 
     def _finish(self, card, c):
@@ -659,6 +672,8 @@ class Game:
             B.use_setup(p, o, s)
         for b in o.behaviors():
             b.entering_combat(o, p, True)
+        for s in [x for x in o.setups if x.instant_entering]:      # owner: an "Instant POWER: use when entering combat" Setup is used on entering the next combat you have, attacking or defending
+            B.use_setup(o, p, s)
         o.draw(3)
         passes, actor, other, guard = 0, p, o, 0
         while passes < 2 and guard < 60 and not any(q.lost or q.won for q in self.players):

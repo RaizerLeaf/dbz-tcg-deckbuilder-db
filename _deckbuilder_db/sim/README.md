@@ -48,8 +48,15 @@ Always run `coverage` for both decks and quote its warnings next to the result.
 ## Allies (added with the Goku decks)
 Modelled Allies enter at 3 stages (or as the card says), gain their PUR, act only when the MP is at most 1 stage above 0 or a card frees them (Goku Calm / Dashing, Blue Kiss, `free_for` in `ALLY_MODEL`), use their own power level and stages, and are discarded by critical effects (Blue Tag Team protects a lone Ally). Cards: Goku's Search, Heroic Plan, Overpowering Attack, Blue Battle Readiness / Taming Technique / Arrest / Discharge / Kiss / Waiting Drill / Transportation Drill / Lifting Drill, Saiyan Overhead Kick. Cards that can be played to stop an attack instead of attacking (`ALT_STOP`: Blue Arm Blast, Blue Round Throw) can now defend. See `MODELLING_GUIDE.md`, "Allies".
 
+## Second-use attacks and Instant Setups (owner rulings, 2026-11-02)
+- "This attack stays in play to be used a second time this combat" (plain, or as "HIT: ...") is read by `cardmodel.Card.second` and handled in `engine.Player._second_use`: it is treated exactly like playing the card a second
+  time from the hand (cost paid again, all text and anger/crit/HIT effects again, nothing else is needed to bring it back, and the second use does not stay in play again). If the cost cannot be paid there is no second use; the `HIT:` form needs the first use to hit.
+  Cards: Red Double Strike, Red Shattering Leap, Saiyan Elbow Drop, Saiyan Clash, Red Double Blast, Android 16's Rocket Punch, Red Back Bash (its use condition is not modelled). Conditional versions (Dragon Ball / Drill / hand conditions) are still
+  hand-coded one by one (Namekian Onslaught) or unmodelled.
+- An "[Instant] POWER: Use when entering combat" Setup in play is used on entering the next combat the player has, attacking **or defending**. Red Relaxation also draws the bottom card of the discard pile (`_draw_bottom_discard`).
+
 ## What is NOT modelled (important)
-- Allies other than the Cell Jr. Allies and those in `ALLY_MODEL` (Goku's Vegeta, Chaozu, Tenshinhan, Yamcha, Chichi, Piccolo; all others are never played), damage redirected to Allies, "stays in play for a second use" attacks, attached cards, Focused / skip-action subtleties, most Drill powers, most Dragon Ball effects beyond those above,
+- Allies other than the Cell Jr. Allies and those in `ALLY_MODEL` (Goku's Vegeta, Chaozu, Tenshinhan, Yamcha, Chichi, Piccolo; all others are never played), damage redirected to Allies, conditional "stays in play for a second use" attacks other than Namekian Onslaught, attached cards, Focused / skip-action subtleties, most Drill powers, most Dragon Ball effects beyond those above,
   Energy attacks costing less, Saiyan/Namekian-specific text, and every sentence `coverage` prints as unmodelled.
 - "Hand-coded" in `coverage` means the card has custom code, not that every sentence of it is handled.
 - AI: both sides follow one fixed priority list (powers, then Events/Setups with an effect, then the highest-value attack); they defend whenever a legal defense exists and

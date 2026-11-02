@@ -1923,6 +1923,15 @@ def _second_use(p, o, c, removed):
 _x('Namekian Onslaught', hit=_second_use)
 
 
+def _draw_bottom_discard(p, o, c):
+    """Red Relaxation: 'Draw the bottom card of your discard pile.' (the discard pile's bottom is index 0; new discards are appended on top)."""
+    if p.discard:
+        p.hand.append(p.discard.pop(0))
+
+
+_x('Red Relaxation', use=_draw_bottom_discard)
+
+
 def _fusion(p, o, c):
     p.gain_stages(10)
     p.draw(1)
