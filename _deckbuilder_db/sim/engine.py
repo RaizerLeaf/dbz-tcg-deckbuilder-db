@@ -69,7 +69,7 @@ class Player:
                        gained=False, raised=False, destroyed_nonstyled=False, destroy_bonus=0, next_destroy_bonus=0,
                        next_life=0, next_free=False, reduce_life=0, reduce_stage=0, noend=False, burning=False,
                        noevents=False, nonstyled_lock=False, ball_search=False, searched=False, armed_discard=False,
-                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False,
+                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False, attacks=0,
                        ally_free=set(), ally_life={}, ally_kiss=set(), ally_unstop=False)
 
     def log(self, msg):
@@ -120,11 +120,22 @@ class Player:
                 return
             self.hand.append(self.deck.pop(0))
 
-    def rejuv(self, n, in_combat=True):
+    def rejuv(self, n, in_combat=True, pred=None):
+        """Rejuvenate n cards: discard pile -> bottom of the Life Deck. pred picks which cards (best value first); default is the top of the discard pile.
+        In combat the amount goes through `rejuv_amount` (Lord Slug Level 3 doubling) and `on_rejuvenate` fires only if a card actually moved."""
+        if n > 0 and in_combat:
+            for b in self.behaviors():
+                n = b.rejuv_amount(self, n)
+        moved = 0
         for _ in range(n):
-            if self.discard:
-                self.deck.append(self.discard.pop())
-        if n and in_combat:
+            src = [x for x in self.discard if pred(x)] if pred else self.discard
+            if not src:
+                break
+            c = max(src, key=self.value) if pred else src[-1]
+            self.discard.remove(c)
+            self.deck.append(c)
+            moved += 1
+        if moved and in_combat:
             for b in self.behaviors():
                 b.on_rejuvenate(self)
 
@@ -356,6 +367,7 @@ class Player:
             if cost > self.stage:
                 return False
             self.stage -= cost
+        self.cb['attacks'] += 1          # attacks performed this combat (True Power: 'use only if you have not performed an attack this combat')
         if card is not None:
             self.hand.remove(card)
             self.cb['attacked_hand'] = True
@@ -439,6 +451,8 @@ class Player:
             self.crit_effect()
         if c.rej:
             self.rejuv(c.rej)
+        if c.rej_hit:
+            self.rejuv(c.rej_hit)
         if extra.get('hit'):
             extra['hit'](self, opp, c, removed)
         self._finish(card, c)
@@ -486,7 +500,10 @@ class Player:
         extra = B.CARD_EXTRA.get(x.name, {})
         if extra.get('defend'):
             extra['defend'](self, atk, x, c)
-        (self.banished if x.banish_after else self.discard).append(x)
+        if getattr(x, 'keep', False):
+            x.keep = False            # returned to the Life Deck by its own effect (Namekian Protective Posture)
+        else:
+            (self.banished if x.banish_after else self.discard).append(x)
         self.log(f'    ({self.label} defends with {x.name})')
         return True
 
@@ -501,7 +518,7 @@ class Game:
         a.opp, b.opp = b, a
         self.players = [a, b]
         self.first = first
-        self.in_combat = False
+        self.in_combat = False          # True while a combat is being resolved (used by 'enters play during combat' effects)
         for p in self.players:
             for beh in p.behaviors():
                 beh.on_game_start(p)
@@ -572,10 +589,14 @@ class Game:
             ex = B.CARD_EXTRA.get(c.name, {})
             if ex.get('enters'):
                 ex['enters'](p, o, c)
+            for b in p.behaviors():
+                b.on_enters_play(p, o, c)
         for c in [x for x in p.hand if x.ctype == 'Setup']:
             if c in p.hand:
                 p.hand.remove(c)
                 p.setups.append(c)
+                for b in p.behaviors():
+                    b.on_enters_play(p, o, c)
         pur = p.lv.pur + sum(b.pur_bonus(p) for b in p.behaviors())
         p.stage = min(10, p.stage + pur)
         for a in p.allies:                                 # Allies gain their own Power Up Rating (Rulebook 3.0, Planning Step)

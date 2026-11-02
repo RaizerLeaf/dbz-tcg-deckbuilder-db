@@ -67,6 +67,8 @@ Things to know:
 
 ## Legality checklist (run before giving any deck)
 1. 60 cards, copy limits, printed limits.
+1b. **Every Styled card must match the Mastery's style** (Rulebook 3.0: "All of your Styled cards must match the Style of your Mastery"; Freestyle cards are free). `deckcode.py check` and the page checker enforce it.
+   A Raditz draft mixed Red, Orange and Saiyan cards under Red Enraged and passed the old checker; never pick cards across styles.
 2. **Named cards must match the MP name** ("Goku's Search" cannot go in a Nail deck). Use `is_named` /
    `named_character`. Cards that are only "considered Named for your effects" (Pesky Barrage, Black Back Strike) are fine in any
    deck. "Time Is A Warrior's Tool" and "It's Over 9,000!" are not Named (`NOT_NAMES` in `derive.py`).
@@ -167,6 +169,26 @@ Things to know:
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
+- **Raditz** (Villain, Saiyan heritage, only Set 2 printings are legal: True Saiyan, Confident, Angered, Triumphant): Setups and Drills are played in the Planning Step, Setups are used in combat.
+  L1 Power: physical attack (1 life card), look at your top 2 (one to hand, one banished from your own Life Deck), raise anger 1. **L2: every Setup or Drill entering play destroys the top card of the opponent's Life Deck, and +1 anger if it enters during combat** (searched or "placed into play"; Planning-step plays give the destroy only).
+  L3: opponent discards a random card when entering combat (Instant). L4: Setup/Drill entering play Rejuvenates a card; the first critical damage effect each combat searches Life Deck or discard pile for a Setup/Drill and places it into play. Named: Raditz's Offensive Guard
+  (attach: once per combat place a Setup/Drill from hand into play), Raditz's Dirty Tactics (Limit 2, not used). The Set 2 Nappa Ally ("Setups cannot be used") is a trap in a Setup deck. Many "Events" in the Red/Saiyan pool are really Setups (Red Blaze, Red Destiny, Saiyan Enraged), so they also trigger L2 when played.
+  **Styled cards must match the Mastery** (Rulebook 3.0): Orange Celebration/Encouragement ("a Styled Drill") only find Drills of the Mastery's style, so the Drill engine is Orange only with an Orange Mastery.
+  Simulated styles (50 games per roster deck): **Orange Retribution 82%** (80% after the Vegeta deck joined the roster) (anger 2 a turn from its Power plus Drills entering play; reaches Level 4 by its second turn and wins by MPPV about turn 5), Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%
+  (the last three are within noise of each other; against the 12-deck roster that now contains Raditz Orange they measure 46% / 42% / 38%). Decks on file: `decks/raditz_orange.txt` (on the roster), `raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt`. Not modelled: Offensive Guard's "banish from hand to stop an attack", Orange Retribution's
+  shuffle-Drills-on-level-change, Rampaging's Power, Red Slide keeping Drills. **(unverified)** Saiyan Analysis Drill copies do not stack and do not lower Level 4 MPPV; Level 3's discard also fires when defending; Level 1's reveal/anger happen even if its attack is stopped.
+
+- **Vegeta (Hero)** (Saiyan heritage; Hero levels from Evolution = Styled, Awakening = non-Styled): Awakening *Experienced / Imposing / Energized / Pinnacle of Power* give non-Styled (Freestyle) attacks
+  +2 / +1 (and no prevention) / +3 (and a second use of the first stopped one) / +3 and **cannot be stopped**. Evolution *Calculating / On the Move / Super Saiyan / Elite* reward Styled attacks (life cards <-> stage damage;
+  Elite: first Styled physical cannot be stopped). Named: Vegeta's Galick Gun (x3, 6 life cards for 2 stages, unpreventable, two critical effects), Destruction Blast, Final Flash, Vegeta's Anger. Experienced's
+  parenthesis says non-Styled damage can only be modified by Experienced itself (Level 1 only; the simulator ignores this).
+  Style comparison (an early one-off run, before the roster existed: 800 games per opponent against 8 reference decks, average win rate; the Awakening/Red Ascension deck was later improved and playtested against the roster, see the deck table): **Awakening Freestyle + Red Ascension 71.5%** (`decks/vegeta_pinnacle_red_ascension.txt`),
+  Evolution Styled Red + Red Ascension 64.0%, Awakening Freestyle + Saiyan Dynamic 51.3%; also tried: Evolution Saiyan Dynamic 47.2%, Awakening + Red Enraged 46% (300 games), Evolution Saiyan Rampaging 40.7%,
+  Awakening + Black Conflict 24% (400 games, too slow to level). Red Ascension beat Red Enraged because its free +1 anger a turn (end of combat) plus Power levels the MP faster. The model does not count the
+  Evolution stage-conversion, so the Evolution Red result is a floor.
+  **(unverified)** Whether "+N life cards" applies to a stage-only attack (Devastating Blow, "AT +1 stage"); the deck does not depend on it. Overpowering Attack finds no Ally in this deck (no Allies in it).
+  Weak spots seen in the playtest: stage-damage decks (Orange Trunks) drain its Life Deck while it sits at 0-4 stages after paying stage costs (loses by Survival), and Blue Protective / Wall Breaker slow its anger. Untested idea: Wall Breaker (opponent cannot gain anger) against MPPV decks.
+  Quick Blast, Surprise Attack, Blinding Energy Move and Point-Blank Volley were left out on purpose (Blinding Energy Move ends combat and Point-Blank Volley's anger is double-counted by the parser) (Quick Blast banishes your own Defense cards while attached; Surprise Attack lets the opponent banish 2 of your non-Styled cards).
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
@@ -186,9 +208,15 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
-| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 63% over 500 playtest games (rank 6 on the roster); not imported |
-| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 65% over 500 playtest games (roster rank 4); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
-| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 70% over 500 playtest games (roster rank 3); Rampaging's Power not modelled; not imported |
+| `decks/lord_slug_namekian_knowledge.txt` | Lord Slug, Namekian, Namekian Knowledge (Namek balls) | built 2026-11-02; style comparison and playtest in `LORD_SLUG_STYLES.md`; 56% over 600 roster games (50 per opponent), roster rank 6 of 17 after the later Vegeta and Raditz decks joined; **not imported into the app yet** |
+| `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
+| `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
+| `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
+| `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
+| `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
+| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 57% over 950 playtest games (roster rank 7 of 20); not imported |
+| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 61% over 950 playtest games (roster rank 6); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
+| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 69% over 950 playtest games (roster rank 5); Rampaging's Power not modelled; not imported |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the

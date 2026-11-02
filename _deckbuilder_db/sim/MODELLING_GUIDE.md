@@ -66,7 +66,7 @@ Write each sentence on its own line and decide for each: *when* does it happen, 
 | "At the start of combat you may search your deck" | `entering_combat` (argument `defender` is True when you are being attacked) | `SlugL4` |
 | "At the end of combat ..." | `end_of_combat` | `SlugL1` |
 | "HIT: ..." on an MP attack | `after_hit(p, opp, card, removed)` | `NappaL3` |
-| A card whose single effect the parser cannot read | `_x('Card Name', immediate=/hit=/use=/defend=/on_damaged=/enters=/base_stage=/can_use=...)` | `_namek3`, Saiyan cards |
+| A card whose single effect the parser cannot read | `_x('Card Name', immediate=/hit=/use=/defend=/on_damaged=/enters=/base_stage=/can_use=/can_attack=...)` (`can_attack(p, o, card)` gates the AI playing an attack, e.g. True Power's "only if you have not performed an attack this combat" via `p.cb['attacks']`) | `_namek3`, Saiyan cards |
 | A card that stays in play and gives a continuous effect | `@passive('Card Name')` class with hooks | Namek Dragon Ball 1 and 6, `_Clench` |
 
 If the sentence matches a primitive the parser already reads (see the regexes in `cardmodel.py`), nothing is needed: `coverage` shows it as parsed.
@@ -108,11 +108,13 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `on_crit_damage(p, opp)` | you dealt critical damage (5+ life cards) | nothing |
 | `crit_threshold(p)` / `own_crit_threshold(p)` | the life-card count that counts as critical (against you / for your attacks) | number or `None` |
 | `on_advance(p)` | you advanced a level | nothing |
-| `on_rejuvenate(p)` | after you Rejuvenate | nothing |
+| `on_rejuvenate(p)` | after you Rejuvenate (only if a card actually moved) | nothing |
+| `rejuv_amount(p, n)` | an in-combat Rejuvenate of `n` cards is about to happen | new amount (chained; Lord Slug Level 3 doubles the first one each combat) |
 | `on_gain_stages(p, n)` | you gained `n` stages | nothing |
 | `on_card_discarded(p)` | one of your cards was discarded | nothing |
 | `on_play(p, opp, card)` | you perform an attack with `card` | nothing |
 | `on_drill_played(p, opp, card)` | you played a Drill | nothing |
+| `on_enters_play(p, opp, card)` | one of your Setups or Drills entered play: played in the Planning Step, or searched / placed by an effect (`enter_play(p, card)`, `fetch_from_deck(..., 'drill'/'setup')`). `p.game.in_combat` says whether it happened during combat (Raditz Level 2 and 4, Orange Torching Drill) | nothing |
 | `on_stopped(p, opp, card)` | your attack `card` was stopped | nothing |
 | `on_stop_made(p, opp, card)` | you stopped `card` | nothing |
 | `stage_bonus(p, card, opp)` / `life_bonus(p, card, opp)` | damage of your attack is computed | added |

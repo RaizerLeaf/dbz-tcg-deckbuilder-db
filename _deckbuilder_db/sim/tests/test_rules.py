@@ -394,6 +394,202 @@ class GokuLevels(unittest.TestCase):
         self.assertNotIn('Yamcha', a.cb['ally_kiss'])
 
 
+class SlugNamekian(unittest.TestCase):
+    """Lord Slug + Namekian Knowledge: HIT Rejuvenate, Level 3 doubling, Knowledge triggers, Dragon Ball search, Wall Breaker, second use."""
+    SUBS = ['Aged', 'Successful', 'Renewed', 'Huge']
+
+    def slug(self, seed=1):
+        a = spec('SLUG', 'Lord Slug', self.SUBS, 'Namekian Knowledge Mastery')
+        g, p, o = game(a, None, seed)
+        return g, p, o
+
+    def card(self, name):
+        return Card(RECS[cid(name)])
+
+    def test_parser_reads_hit_rejuvenate_separately(self):
+        c = self.card('Namekian Chin Grab')
+        self.assertEqual((c.rej, c.rej_hit), (1, 1))
+        self.assertEqual(self.card('Namekian Focused Beams').rej_hit, 3)
+
+    def test_parser_reads_singular_stage_and_four_plus_x_life_cards(self):
+        wb = self.card('Wall Breaker')                  # DAMAGE: AT +1 stage
+        self.assertEqual(wb.at, 1)
+        db = self.card('Namekian Dragon Blast')         # DAMAGE: 4 + X life cards
+        self.assertEqual(db.life, 4)
+        g, p, o = self.slug()
+        p.balls = [self.card('Namek Dragon Ball 1'), self.card('Namek Dragon Ball 3')]
+        o.balls = [self.card('Earth Dragon Ball 2')]
+        self.assertEqual(B.life_adjust(p, o, db), 3)   # X = 3 balls in play (anyone's); Earth Dragon Ball 1 is not among them
+
+    def test_unstopped_attack_applies_hit_rejuvenate(self):
+        g, p, o = self.slug()
+        p.discard = [self.card('Red Energy Blast') for _ in range(6)]
+        c = self.card('Namekian Focused Beams')       # HIT: Rejuvenate 3, costs 2 stages
+        p.hand.append(c)
+        p.stage = 8
+        self.assertTrue(p.attack(o, card=c))
+        self.assertEqual(sum(1 for x in p.discard if x.name == 'Red Energy Blast'), 3)
+
+    def test_knowledge_raises_anger_per_combat_rejuvenate_effect_only(self):
+        g, p, o = self.slug()
+        p.discard = [self.card('Red Energy Blast') for _ in range(6)]
+        p.rejuv(2)
+        self.assertEqual(p.anger, 1)
+        p.rejuv(2, in_combat=False)           # Rejuvenation Step: not "during combat"
+        self.assertEqual(p.anger, 1)
+        p.discard = []
+        p.rejuv(2)                            # nothing to Rejuvenate: no trigger
+        self.assertEqual(p.anger, 1)
+
+    def test_slug_level_three_doubles_only_the_first_rejuvenate_each_combat(self):
+        g, p, o = self.slug()
+        p.level = 3
+        p.discard = [self.card('Red Energy Blast') for _ in range(12)]
+        p.rejuv(2)
+        self.assertEqual(len(p.discard), 8)   # 2 doubled to 4
+        p.rejuv(2)
+        self.assertEqual(len(p.discard), 6)   # second effect: not doubled
+        p.reset_combat()
+        p.rejuv(1)
+        self.assertEqual(len(p.discard), 4)   # new combat: doubled again
+
+    def test_namek_ball_entering_mills_one_and_a_single_ball_is_protected(self):
+        g, p, o = self.slug()
+        before = len(o.deck)
+        p.balls = []
+        b1 = self.card('Namek Dragon Ball 1')
+        p.deck.append(b1)
+        B._fetch_ball(p, o, False)
+        self.assertEqual(len(p.balls), 1)
+        self.assertEqual(len(o.deck), before - 1)
+        self.assertTrue(any(x.protect_balls(p) for x in p.behaviors()))
+        p.balls.append(self.card('Namek Dragon Ball 3'))
+        self.assertFalse(B.mastery_behavior('Namekian Knowledge Mastery').protect_balls(p))     # with 2 balls the clause no longer applies
+
+    def test_play_uses_immediate_effects_but_place_into_play_does_not(self):
+        g, p, o = self.slug()
+        p.deck.append(self.card('Namek Dragon Ball 5'))
+        p.stage = 2
+        B._fetch_ball(p, o, False)            # "place it into play": no immediate effects
+        self.assertEqual(p.stage, 2)
+        g, p, o = self.slug()
+        p.deck.append(self.card('Namek Dragon Ball 5'))
+        p.stage = 2
+        B.CARD_EXTRA['Dragon Radar']['use'](p, o, None)    # "play it": Namek 5 gains 5 stages
+        self.assertEqual(p.stage, 7)
+
+    def test_search_never_puts_a_second_ball_with_the_same_name_into_play(self):
+        g, p, o = self.slug()
+        p.balls = [self.card('Namek Dragon Ball 5')]
+        p.deck = [self.card('Namek Dragon Ball 5')]
+        self.assertEqual(B._fetch_ball(p, o, False), 0)
+
+    def test_disturbance_respects_the_level_limit(self):
+        g, p, o = self.slug()
+        p.level = 2
+        p.deck = [self.card('Namek Dragon Ball 4'), self.card('Namek Dragon Ball 2')]
+        B.CARD_EXTRA['Namekian Disturbance']['use'](p, o, None)
+        self.assertEqual([b.name for b in p.balls], ['Namek Dragon Ball 2'])
+
+    def test_wall_breaker_blocks_anger_until_the_holder_deals_critical_damage(self):
+        g, p, o = self.slug()
+        wb = self.card('Wall Breaker')
+        B.CARD_EXTRA['Wall Breaker']['immediate'](p, o, wb)
+        o.raise_anger(2)
+        self.assertEqual(o.anger, 0)
+        for b in o.behaviors():
+            b.on_crit_damage(o, p)
+        o.raise_anger(2)
+        self.assertEqual(o.anger, 2)
+        self.assertIn(wb, p.banished)
+
+    def test_onslaught_is_used_a_second_time_with_two_balls(self):
+        g, p, o = self.slug()
+        p.balls = [self.card('Namek Dragon Ball 1'), self.card('Namek Dragon Ball 3')]
+        p.stage = 10
+        c = self.card('Namekian Onslaught')
+        p.hand.append(c)
+        before = len(o.deck) + o.stage
+        p.attack(o, card=c)
+        self.assertLess(len(o.deck) + o.stage, before - 4)        # more than one use worth of damage
+
+    def test_protective_posture_returns_to_the_life_deck_and_counts_as_a_rejuvenate(self):
+        g, p, o = self.slug()
+        x = self.card('Namekian Protective Posture')
+        p.hand.append(x)
+        o.stage = 10
+        n = len(p.deck)
+        self.assertTrue(p.defend(o, self.card('Red Energy Blast')))
+        self.assertEqual((len(p.deck), x in p.discard), (n + 1, False))
+        self.assertEqual(p.anger, 1)
+class VegetaHero(unittest.TestCase):
+    """Hero Vegeta, Awakening levels (non-Styled attacks) with Red Ascension, and the deck cards that depend on them."""
+    def vegeta(self, level=1):
+        v = spec('V', 'Vegeta', ['Experienced', 'Imposing', 'Energized', 'Pinnacle of Power'], 'Red Ascension Mastery', 'Red Energy Blast')
+        g, a, b = game(v)
+        a.level = level
+        return g, a, b
+
+    def bonus(self, a, b, name):
+        c = Card(RECS[cid(name)])
+        return sum(x.life_bonus(a, c, b) for x in a.behaviors()), c
+
+    def test_non_styled_bonus_by_level_and_styled_attacks_get_none(self):
+        for level, want in ((1, 2), (2, 1), (3, 3), (4, 3)):
+            g, a, b = self.vegeta(level)
+            self.assertEqual(self.bonus(a, b, "Vegeta's Galick Gun")[0], want, level)
+            self.assertEqual(self.bonus(a, b, 'Red Energy Blast')[0], 0, level)       # Red = the Mastery's style = Styled
+
+    def test_true_power_damage_cannot_be_modified_but_can_be_unstoppable(self):
+        g, a, b = self.vegeta(4)
+        bonus, c = self.bonus(a, b, 'True Power')
+        self.assertEqual(bonus, 0)
+        self.assertTrue(any(x.unstoppable(a, c) for x in a.behaviors()))
+
+    def test_level_4_non_styled_cannot_be_stopped_level_2_cannot_be_prevented(self):
+        g, a, b = self.vegeta(4)
+        galick, red = Card(RECS[cid("Vegeta's Galick Gun")]), Card(RECS[cid('Red Energy Blast')])
+        self.assertTrue(any(x.unstoppable(a, galick) for x in a.behaviors()))
+        self.assertFalse(any(x.unstoppable(a, red) for x in a.behaviors()))
+        g, a, b = self.vegeta(2)
+        self.assertTrue(any(x.unprevented(a, galick, b) for x in a.behaviors()))
+
+    def test_true_power_only_as_the_first_attack_of_a_combat(self):
+        g, a, b = self.vegeta(1)
+        can = B.CARD_EXTRA['True Power']['can_attack']
+        tp = Card(RECS[cid('True Power')])
+        a.reset_combat()
+        self.assertTrue(can(a, b, tp))
+        a.stage = 8
+        a.attack(b, power=B.VG_EXPERIENCED)
+        self.assertEqual(a.cb['attacks'], 1)
+        self.assertFalse(can(a, b, tp))
+
+    def test_galick_gun_gives_a_second_critical_effect_only_on_critical_damage(self):
+        g, a, b = self.vegeta(4)
+        hit = B.CARD_EXTRA["Vegeta's Galick Gun"]['hit']
+        gun = Card(RECS[cid("Vegeta's Galick Gun")])
+        a.stage = 5
+        hit(a, b, gun, 4)
+        self.assertEqual(a.stage, 5)            # 4 life cards removed: not critical, nothing extra
+        hit(a, b, gun, 9)
+        self.assertEqual(a.stage, 7)            # extra critical effect; Red Ascension gains 2 stages per critical effect
+
+    def test_assisted_kamehameha_is_unstoppable_only_for_a_saiyan_mp(self):
+        g, a, b = self.vegeta(1)
+        k = Card(RECS[cid('Assisted Kamehameha')])
+        B.CARD_EXTRA['Assisted Kamehameha']['immediate'](a, b, k)
+        self.assertTrue(k.unstoppable and k.unprev)
+        k2 = Card(RECS[cid('Assisted Kamehameha')])
+        B.CARD_EXTRA['Assisted Kamehameha']['immediate'](b, a, k2)       # Dr. Wheelo is not on the Saiyan list
+        self.assertFalse(k2.unstoppable or k2.unprev)
+
+    def test_red_despair_drill_adds_current_anger_in_life_cards(self):
+        g, a, b = self.vegeta(1)
+        a.drills.append(Card(RECS[cid('Red Despair Drill')]))
+        a.anger = 3
+        self.assertEqual(self.bonus(a, b, "Vegeta's Galick Gun")[0], 2 + 3)
+
 
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):

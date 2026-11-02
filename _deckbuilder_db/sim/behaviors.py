@@ -20,10 +20,12 @@ class Behavior:
     def on_crit_damage(self, p, opp): pass
     def on_advance(self, p): pass
     def on_rejuvenate(self, p): pass
+    def rejuv_amount(self, p, n): return n                 # in-combat Rejuvenate amount before it is applied (Lord Slug Level 3 doubles the first one)
     def on_gain_stages(self, p, n): pass
     def on_card_discarded(self, p): pass
     def on_play(self, p, opp, card): pass
     def on_drill_played(self, p, opp, card): pass
+    def on_enters_play(self, p, opp, card): pass       # one of your Setups or Drills entered play (played, searched or placed); p.game.in_combat tells when
     def on_stopped(self, p, opp, card): pass
     def on_stop_made(self, p, opp, card): pass
     def stage_bonus(self, p, card, opp): return 0
@@ -127,13 +129,25 @@ def fetch_from_deck(p, pred, to='hand'):
     if to == 'hand':
         p.hand.append(c)
     elif to == 'drill':
-        p.drills.append(c)
+        enter_play(p, c)
+    elif to == 'setup':
+        enter_play(p, c)
     elif to == 'ball':
         p.balls.append(c)
         for b in p.behaviors():
             b.on_ball_entered(p)
         p.check_dbv()
     return c
+
+
+def enter_play(p, card):
+    """A Drill or Setup enters play for `p` by an effect (search, 'place into play'). The planning-step play is in engine.py."""
+    (p.drills if card.ctype == 'Drill' else p.setups).append(card)
+    ex = CARD_EXTRA.get(card.name, {})
+    if ex.get('enters'):
+        ex['enters'](p, p.opp, card)
+    for b in p.behaviors():
+        b.on_enters_play(p, p.opp, card)
 
 
 # =================================================================================================================
@@ -148,6 +162,21 @@ class RedEnraged(Behavior):
         if p.hand:
             p.hand.sort(key=p.value)
             p.discard.append(p.hand.pop(0))
+
+
+@mastery('Namekian Knowledge Mastery')
+class NamekianKnowledge(Behavior):
+    """[Continuous]: Whenever one of your effects during combat Rejuvenates or shuffles cards into your Life Deck, raise your anger 1 level.
+    After a Namek Dragon Ball enters play under your control, destroy the top card of your opponent's Life Deck. While you control 1 Dragon Ball, it cannot be captured by a critical damage effect.
+    Modelled: +1 anger per in-combat Rejuvenate effect (`on_rejuvenate`, once per effect, not per card; UNVERIFIED), the Sudden Blast shuffle counts as one trigger, a Namek ball entering mills 1
+    (also when it enters through Planning or a search; captured balls do not count), one ball cannot be captured."""
+    def on_rejuvenate(self, p): p.raise_anger(1)
+
+    def on_ball_entered(self, p):
+        if p.balls and p.balls[-1].name.startswith('Namek Dragon Ball'):
+            p.destroy_opp(1, noamp=True)
+
+    def protect_balls(self, p): return len(p.balls) == 1
 
 
 @mastery('Black Devious Mastery')
@@ -166,6 +195,22 @@ class BlackDevious(Behavior):
                 opp.forced_discard()
             return True
         return False
+
+
+@mastery('Orange Adaptive Mastery')
+class OrangeAdaptive(Behavior):
+    """Your Drills are not discarded when you advance or lower a level. Your energy attacks deal +1 life card. At the end of any combat in which you used
+    a critical damage effect, search your discard pile for a Styled Drill and place it into play. (UNVERIFIED: the end of combat still counts as 'during combat'.)"""
+    def keep_drills(self, p, old_level): return True
+    def life_bonus(self, p, card, opp): return 1 if card.energy else 0
+    def on_crit_effect(self, p): p.cb['adaptive_crit'] = True
+
+    def end_of_combat(self, p, opp):
+        if p.cb.get('adaptive_crit'):
+            x = find_in(reversed(p.discard), lambda c: c.ctype == 'Drill' and c.style is not None and c.style == p.styled())
+            if x is not None:
+                p.discard.remove(x)
+                enter_play(p, x)
 
 
 @mastery('Orange Retribution Mastery')
@@ -229,7 +274,9 @@ class BlackConflict(Behavior):
 @mastery('Saiyan Rampaging Mastery')
 class SaiyanRampaging(Behavior):
     """1 less anger to advance (min 4). Styled attacks gain 'HIT: you may raise your anger 1 level'. (Its Power is not modelled.)"""
-    def adv_anger_delta(self, p): return -1
+    def adv_anger_delta(self, p):
+        # Saiyan Analysis Drill (also 1 less) is modelled as 'need 4'; together with this Mastery the minimum of 4 holds (UNVERIFIED how the real game combines them)
+        return 0 if any(d.name == 'Saiyan Analysis Drill' for d in p.drills) else -1
 
     def after_hit(self, p, opp, card, removed):
         if card.style and card.style == p.styled() and card.card_id.split(':')[0] != 'synthetic':
@@ -648,6 +695,11 @@ class SlugL2(Behavior):
 class SlugL3(Behavior):
     def stage_bonus(self, p, card, opp): return 2
 
+    def rejuv_amount(self, p, n):
+        # "The first time during combat one of your effects shuffles or Rejuvenates cards from your discard pile into your Life Deck, double that amount."
+        # Only Rejuvenate is doubled here; the shuffle half of the text (Namekian Sudden Blast) is not. UNVERIFIED: whether a card-by-card pick (Airborne Attack) is doubled too (modelled as yes).
+        return 2 * n if once(p, 'slug3_double') else n
+
 
 @mp('Lord Slug', 'Huge')
 class SlugL4(Behavior):
@@ -713,11 +765,101 @@ class KrillinL4(Behavior):
         return False
 
 
+# =================================================================================================================
+# Vegeta (Hero): Evolution levels (Styled) and Awakening levels (non-Styled). Added for the Hero Vegeta deck comparison.
+# =================================================================================================================
+def nonstyled(p, c):
+    """A non-Styled attack: any attack that is not of the player's Mastery style (Freestyle cards, Mastery/MP Powers)."""
+    return bool(c.is_atk) and c.style != p.styled()
+
+
+def modifiable(c):
+    """False for an attack whose text says its damage cannot be modified (True Power)."""
+    return 'cannot have its damage modified' not in c.text and 'damage cannot be modified' not in c.text
+
+
+VG_EXPERIENCED = synthetic('Experienced', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 1 life card.')
+VG_ON_THE_MOVE = synthetic('On the Move', 'POWER: [Attack] Physical attack. DAMAGE: 4 life cards.')
+
+
+class _VegetaPower(Behavior):
+    card, key = None, ''
+    def has_power(self, p): return p.stage >= self.card.cost
+
+    def power(self, p, opp):
+        if p.stage >= self.card.cost and once_turn(p, self.key):
+            return p.attack(opp, power=self.card)
+        return False
+
+
+@mp('Vegeta', 'Experienced')
+class VegetaAW1(_VegetaPower):
+    """L1: non-Styled attacks +2 life cards (and nothing else may modify them - not modelled). Power: 1-stage energy attack, 1 life card."""
+    card, key = VG_EXPERIENCED, 'vg1'
+    def life_bonus(self, p, card, opp): return 2 if nonstyled(p, card) and modifiable(card) else 0
+
+
+@mp('Vegeta', 'Imposing')
+class VegetaAW2(Behavior):
+    """L2: non-Styled attacks +1 life card, damage cannot be prevented. Power: raise anger 1, gain 3 stages."""
+    def life_bonus(self, p, card, opp): return 1 if nonstyled(p, card) and modifiable(card) else 0
+    def unprevented(self, p, card, opp): return nonstyled(p, card)
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'vg2'):
+            p.raise_anger(1)
+            p.gain_stages(3)
+            return True
+        return False
+
+
+@mp('Vegeta', 'Energized')
+class VegetaAW3(Behavior):
+    """L3: non-Styled attacks +3 life cards; the first stopped non-Styled attack each combat is used a second time (pays its cost again)."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) and modifiable(card) else 0
+
+    def on_stopped(self, p, opp, card):
+        if nonstyled(p, card) and card.card_id.split(':')[0] != 'synthetic' and once(p, 'vg3_second') and p.stage >= card.cost:
+            p.attack(opp, power=card)
+
+
+@mp('Vegeta', 'Pinnacle of Power')
+class VegetaAW4(Behavior):
+    """L4: non-Styled attacks cannot be stopped and deal +3 life cards."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) and modifiable(card) else 0
+    def unstoppable(self, p, card): return nonstyled(p, card)
+
+
+@mp('Vegeta', 'Calculating')
+@mp('Vegeta', 'Super Saiyan')
+class VegetaEvoPassive(Behavior):
+    """Evolution L1/L3: converts Styled life-card damage into stage damage (or back); not modelled (a choice, not extra damage)."""
+
+
+@mp('Vegeta', 'On the Move')
+class VegetaEvo2(_VegetaPower):
+    """L2: Power: physical attack, 4 life cards (no cost)."""
+    card, key = VG_ON_THE_MOVE, 'vg2e'
+
+
+@mp('Vegeta', 'Elite')
+class VegetaEvo4(Behavior):
+    """L4: the first Styled physical attack each combat cannot be stopped. (The energy HIT search is not modelled.)"""
+    def unstoppable(self, p, card):
+        if card.is_atk and card.phys and card.style == p.styled() and 'vg4_first' not in p.tf:
+            p.tf['vg4_first'] = True
+            return True
+        return False
+
+
 def life_adjust(p, opp, c):
     """Cross-card adjustments applied to life damage: Krillin's 9 - X, Earth Dragon Ball 1 (all attacks +1)."""
     adj = 0
     if c.name == 'Ready For Battle':
         adj -= len(opp.hand)
+    if c.name == 'Namekian Dragon Blast':          # DAMAGE: 4 + X life cards, X = Dragon Balls in play (anyone's)
+        adj += len(p.balls) + len(opp.balls)
     if (c.life or c.life_at) and any(b.name == 'Earth Dragon Ball 1' for b in p.balls + opp.balls):
         adj += 1
     return adj
@@ -976,7 +1118,7 @@ def _drill_from_discard(p):
     x = find_in(reversed(p.discard), lambda c: c.ctype == 'Drill')
     if x:
         p.discard.remove(x)
-        p.drills.append(x)
+        enter_play(p, x)
 
 
 def _overhead(p, o, c, r):
@@ -1037,6 +1179,190 @@ _x('Black Running Guard', defend=lambda p, atk, x, c: p.destroy_opp(2) if c.styl
 _x('Black Flinch', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Black Upward Dodge', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Villainous Visage', on_damaged=lambda p, atk, x, removed: (p.hand.remove(x), p.banished.append(x), p.destroy_opp(2 * removed)))
+
+# ---- Namekian / Lord Slug cards (Dragon Ball search, Rejuvenate X, Wall Breaker, ...) ------------------------------------------
+BALL_ORDER = [1, 6, 5, 3, 7, 2, 4]          # which ball a search takes first (the AI picks the best one it can)
+
+
+def _ball_no(c): return int(c.name.rsplit(' ', 1)[1])
+
+
+def _ball_candidates(p, namek_only=False, max_no=None):
+    """Dragon Balls in p's Life Deck that may enter play: no ball with the same name already in play under p (rule of the game)."""
+    names = {b.name for b in p.balls}
+    out = [c for c in p.deck if c.ctype == 'Dragon Ball' and c.name not in names]
+    if namek_only:
+        out = [c for c in out if c.name.startswith('Namek Dragon Ball')]
+    if max_no is not None:
+        out = [c for c in out if _ball_no(c) <= max_no]
+    return out
+
+
+def _put_ball(p, o, c, play):
+    """Put ball c (already removed from its zone) into play. play=True: it was *played*, so its immediate effects are used; play=False: *placed into play*, no immediate effects."""
+    p.balls.append(c)
+    if play:
+        ex = CARD_EXTRA.get(c.name, {})
+        if ex.get('immediate'):
+            ex['immediate'](p, o, c)
+    for b in p.behaviors():
+        b.on_ball_entered(p)
+    p.check_dbv()
+
+
+def _fetch_ball(p, o, play, namek_only=False, max_no=None, count=1):
+    """Search the Life Deck for Dragon Ball(s) and play (immediate effects) or place them into play. Returns how many entered."""
+    n = 0
+    for _ in range(count):
+        cands = _ball_candidates(p, namek_only, max_no)
+        if not cands:
+            break
+        c = min(cands, key=lambda x: BALL_ORDER.index(_ball_no(x)) if _ball_no(x) in BALL_ORDER else 9)
+        p.deck.remove(c)
+        p.rng.shuffle(p.deck)
+        _put_ball(p, o, c, play)
+        n += 1
+    return n
+
+
+def _balls_in_play(p, o): return len(p.balls) + len(o.balls)
+
+
+# "Search ... for a Dragon Ball and play it" (the text says *play*: immediate effects are used)
+_x('Dragon Radar', use=lambda p, o, c: _fetch_ball(p, o, True), can_use=lambda p, o, c: bool(_ball_candidates(p)))
+_x('Namekian Dragon Clan', use=lambda p, o, c: _fetch_ball(p, o, True, count=2 if p.level == 4 else 1), can_use=lambda p, o, c: bool(_ball_candidates(p)))
+_x('Namekian Disturbance', use=lambda p, o, c: _fetch_ball(p, o, True, namek_only=True, max_no=p.level),
+   can_use=lambda p, o, c: bool(_ball_candidates(p, True, p.level)))
+# HIT: "search ... for a Dragon Ball and place it into play" (no immediate effects)
+_x('Namekian Planned Attack', hit=lambda p, o, c, r: _fetch_ball(p, o, False))
+_x('Namekian Dash', hit=lambda p, o, c, r: _fetch_ball(p, o, False))     # the optional "reveal a ball to look at the opponent's hand" is not modelled (no hidden information)
+
+
+def _growth(p, o, c):
+    """Namekian Growth: play a Dragon Ball from your hand, or Rejuvenate 4 (the Level 3+ 'search for a Styled card instead' option is not modelled)."""
+    names = {b.name for b in p.balls}
+    ball = next((x for x in p.hand if x.ctype == 'Dragon Ball' and x.name not in names), None)
+    if ball is not None:
+        p.hand.remove(ball)
+        _put_ball(p, o, ball, True)
+    else:
+        p.rejuv(4)
+
+
+_x('Namekian Growth', use=_growth, can_use=lambda p, o, c: len(p.discard) >= 3 or any(x.ctype == 'Dragon Ball' and x.name not in {b.name for b in p.balls} for x in p.hand))
+
+
+# Rejuvenate X / Rejuvenate from the discard pile
+_x('Namekian Dragon Blast', hit=lambda p, o, c, r: p.rejuv(_balls_in_play(p, o)))          # HIT: Rejuvenate X, X = Dragon Balls in play (anyone's)
+_x('Namekian Overhead Blast', hit=lambda p, o, c, r: p.rejuv(p.level))                      # HIT: Rejuvenate X, X = your MP's level
+_x('Namekian Hybrid Defense', defend=lambda p, atk, x, c: p.rejuv(p.level))                 # Choose X cards in your discard pile and Rejuvenate them, X = your MP's level
+_x('Namekian Regeneration', use=lambda p, o, c: p.rejuv(4), can_use=lambda p, o, c: len(p.discard) >= 3)   # top or bottom 4 (the model takes the top 4)
+_x("Lord Slug's Regeneration", can_use=lambda p, o, c: len(p.discard) >= 3)                 # the AI plays it proactively; "use after taking damage" and "may advance or lower 1 level" are not modelled
+_x('Namekian Airborne Attack', immediate=lambda p, o, c: p.rejuv(1, pred=lambda x: x.style != p.styled()))   # search the discard pile for a non-Styled card and Rejuvenate it
+
+
+def _protective_posture(p, atk, x, c):
+    """Rejuvenate this card after use: it goes back to the bottom of the Life Deck instead of the discard pile."""
+    x.keep = True
+    p.deck.append(x)
+    for b in p.behaviors():
+        b.on_rejuvenate(p)
+
+
+_x('Namekian Protective Posture', defend=_protective_posture)
+
+
+def _sudden_blast(p, o, c, removed):
+    """HIT: choose 4 cards in your discard pile, banish 2, shuffle the rest into your Life Deck (counts as one 'shuffles cards into your Life Deck' trigger; the Slug L3 doubling is not applied to it)."""
+    pick = [p.discard.pop() for _ in range(min(4, len(p.discard)))]
+    p.banished.extend(pick[:2])
+    p.deck.extend(pick[2:])
+    p.rng.shuffle(p.deck)
+    if pick[2:]:
+        for b in p.behaviors():
+            b.on_rejuvenate(p)
+
+
+_x('Namekian Sudden Blast', hit=_sudden_blast)
+
+
+def _second_use(p, o, c, removed):
+    """Namekian Onslaught: with 2 or more Dragon Balls the attack stays in play and is used a second time this combat (the model uses it again at once)."""
+    if len(p.balls) >= 2 and once(p, 'onslaught2'):
+        p.attack(o, power=c)
+
+
+_x('Namekian Onslaught', hit=_second_use)
+
+
+def _fusion(p, o, c):
+    p.gain_stages(10)
+    p.draw(1)
+    if p.hand and p.hand[-1].style == p.styled():
+        p.rejuv(2)
+
+
+_x('Namekian Fusion', use=_fusion, can_use=lambda p, o, c: p.stage <= 6)
+
+
+def _overtime(p, o, c):
+    """Rejuvenate 1 (parsed), destroy X cards from the opponent's Life Deck (X = Dragon Balls you control), search for a Styled Energy Combat card."""
+    p.destroy_opp(len(p.balls))
+    fetch_from_deck(p, lambda x: x.style == p.styled() and x.ctype == 'Energy Combat')
+
+
+_x('Namekian Overtime', use=_overtime)
+
+
+def _namek4(p, o, c):
+    for _ in range(2):                       # destroy up to 2 Setups or Drills (the model destroys the opponent's)
+        if o.drills:
+            o.discard.append(o.drills.pop())
+        elif o.setups:
+            o.discard.append(o.setups.pop())
+
+
+_x('Namek Dragon Ball 4', immediate=_namek4)
+
+
+def _optic_blast(p, o, c, removed):
+    """HIT: capture a Dragon Ball (not if its owner's effect protects it); a captured Namek ball destroys the top 3 cards of the opponent's Life Deck, an Earth ball draws a card."""
+    if o.balls and not any(b.protect_balls(o) for b in o.behaviors()):
+        ball = o.balls.pop()
+        p.balls.append(ball)
+        p.check_dbv()
+        if ball.name.startswith('Namek'):
+            p.destroy_opp(3, noamp=True)
+        else:
+            p.draw(1)
+
+
+_x('Optic Blast', hit=_optic_blast)
+
+
+class _WallBreaker(Behavior):
+    """Wall Breaker attached to this player's MP: this player cannot gain anger; the card is banished when this player deals critical damage."""
+    def anger_modify(self, p, n, in_combat): return 0
+
+    def on_crit_damage(self, p, opp):
+        for c in [x for x in p.attached if x.name == 'Wall Breaker']:
+            p.attached.remove(c)
+            opp.banished.append(c)
+
+
+CARD_PASSIVE['Wall Breaker'] = _WallBreaker()
+
+
+def _wall_breaker(p, o, c):
+    if not any(x.name == 'Wall Breaker' for x in o.attached):        # a second copy would change nothing (unverified how copies stack)
+        o.attached.append(c)
+        c.keep = True
+
+
+_x('Wall Breaker', immediate=_wall_breaker)
+# Villainous Energy Beam: "damage from this attack is banished" is not modelled (the cards leave the Life Deck either way; only the opponent's discard pile differs).
+# Korin and every other Ally: Allies are not simulated.
+
 
 # ---- Saiyan stage-drain cards (Nappa's deck) ---------------------------------------------------------------------
 def _attach(p, o, c):
@@ -1216,7 +1542,7 @@ _x('Blue Taming Technique', use=lambda p, o, c: search_ally(p, ('deck',), 4))   
 _x("Goku's Search", use=_goku_search)
 _x('Overpowering Attack', immediate=lambda p, o, c: search_ally(p, ('deck', 'discard'), 5))
 _x('Blue Arrest', immediate=_arrest_now, hit=lambda p, o, c, r: search_ally(p, ('deck',), 3, played=True))
-_x('Blue Discharge', immediate=lambda p, o, c: p.raise_anger(2), hit=_discharge_hit, can_play=lambda p, o, c: bool(p.allies))
+_x('Blue Discharge', immediate=lambda p, o, c: p.raise_anger(2), hit=_discharge_hit, can_attack=lambda p, o, c: bool(p.allies))
 _x('Blue Kiss', use=_kiss, can_use=lambda p, o, c: best_attacker(p) is not None)
 _x('Blue Defensive Stance', defend=lambda p, atk, x, c: p.raise_anger(1))              # "raise or lower a player's anger 1": the AI raises its own
 _x('Ally Tenshinhan', hit=lambda p, o, c, r: p.draw(1))
@@ -1270,6 +1596,300 @@ class BlueTransportationDrill(Behavior):
 CARD_VALUE.update({"Dr. Wheelo's History": 6, 'Black Confinement': 5, 'Black Invitation': 4, "Dr. Wheelo's Revival": 3, 'Black Taunt': 4})
 NEVER_PLAY = {"Time Is A Warrior's Tool", 'Villainous Energy Sphere', 'Villainous Visage', "Piccolo's Weighted Clothing",
               'Heroic Energy Sphere'}
+
+
+
+# =================================================================================================================
+# Raditz (Set 2 levels). Engine: every Setup or Drill that enters play (planning, search, "place into play") feeds Level 2 and Level 4.
+# NOT MODELLED / simplified (the text-only parts): Raditz's Offensive Guard's "banish from hand to stop an attack"; Orange Crashing Drill's
+# "leaving play" trigger; Red Integration's "revealed from your hand" trigger; Raditz's Dirty Tactics.
+# =================================================================================================================
+RADITZ_L1 = synthetic('True Saiyan', 'POWER: [Attack] Physical attack. DAMAGE: 1 life card.')
+
+
+def _drill_or_setup(c): return c.ctype in ('Drill', 'Setup')
+
+
+@mp('Raditz', 'True Saiyan')
+class RaditzL1(Behavior):
+    """POWER: Physical attack, 1 life card. Reveal the top 2 cards of your Life Deck, put 1 into your hand and banish the other. Raise your anger 1 level.
+    UNVERIFIED: the reveal and the anger happen even if the attack is stopped (the printed text lists them after DAMAGE)."""
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if not once_turn(p, 'raditz1'):
+            return False
+        p.attack(opp, power=RADITZ_L1)
+        if len(p.deck) >= 2:
+            top = [p.deck.pop(0), p.deck.pop(0)]
+            top.sort(key=p.value)
+            p.banished.append(top[0])          # banished from your own Life Deck (it shortens your deck)
+            p.hand.append(top[1])
+        p.raise_anger(1)
+        return True
+
+
+@mp('Raditz', 'Confident')
+class RaditzL2(Behavior):
+    """[Continuous] Whenever one of your Setups or Drills enters play, destroy the top card of your opponent's Life Deck.
+    Whenever one of your Setups or Drills enters play during combat, raise your anger 1 level."""
+    def on_enters_play(self, p, opp, card):
+        p.destroy_opp(1)
+        p.log(f'    ({p.label}: {card.name} enters play -> Confident destroys 1' + (', +1 anger)' if p.game.in_combat else ')'))
+        if p.game.in_combat:
+            p.raise_anger(1)
+
+
+@mp('Raditz', 'Angered')
+class RaditzL3(Behavior):
+    """[Instant] POWER: Use when entering combat. Your opponent discards a random card from his hand. UNVERIFIED: used when attacking and when defending, once per turn."""
+    def entering_combat(self, p, opp, defender):
+        if opp.hand and once_turn(p, 'raditz3'):
+            c = opp.hand.pop(p.rng.randrange(len(opp.hand)))
+            opp.discard.append(c)
+            opp.note_discard(c)
+            p.log(f'  {p.label}: Angered -> {opp.label} discards {c.name} at random')
+
+
+def _rejuv_choice(p):
+    """Rejuvenate a chosen card from the discard pile (the most valuable one goes to the bottom of the Life Deck)."""
+    if p.discard:
+        c = max(p.discard, key=p.value)
+        p.discard.remove(c)
+        p.deck.append(c)
+        if p.game.in_combat:
+            for b in p.behaviors():
+                b.on_rejuvenate(p)
+
+
+@mp('Raditz', 'Triumphant')
+class RaditzL4(Behavior):
+    """[Continuous] Whenever one of your Setups or Drills enters play, choose a card in your discard pile and Rejuvenate it.
+    The first time you use a critical damage effect each combat, you may search your Life Deck or discard pile for a Setup or Drill and place it into play."""
+    def on_enters_play(self, p, opp, card):
+        p.log(f'    ({p.label}: {card.name} enters play -> Triumphant Rejuvenates a card)')
+        _rejuv_choice(p)
+
+    def on_crit_effect(self, p):
+        if not once(p, 'raditz4'):
+            return
+        for zone in (p.deck, p.discard):
+            c = find_in(zone, lambda x: x.ctype == 'Drill') or find_in(zone, lambda x: x.ctype == 'Setup')
+            if c is not None:
+                zone.remove(c)
+                if zone is p.deck:
+                    p.rng.shuffle(p.deck)
+                enter_play(p, c)
+                return
+
+
+def _attach_og(p, o, c):
+    """Raditz's Offensive Guard: attaches to the MP after the attack (UNVERIFIED: also if the attack is stopped). One copy attached at a time."""
+    if not any(x.name == "Raditz's Offensive Guard" for x in p.attached):
+        p.attached.append(c)
+        c.keep = True
+
+
+@passive("Raditz's Offensive Guard")
+class OffensiveGuard(Behavior):
+    """Attached: once per combat, as an action, place a Setup or Drill from your hand into play. Banished when you change levels (advancing is modelled)."""
+    def has_power(self, p): return any(_drill_or_setup(x) for x in p.hand)
+
+    def power(self, p, opp):
+        c = find_in(p.hand, lambda x: x.ctype == 'Drill') or find_in(p.hand, lambda x: x.ctype == 'Setup')
+        if c is None or not once(p, 'og_place'):
+            return False
+        p.hand.remove(c)
+        p.log(f'  {p.label}: Offensive Guard places {c.name} into play')
+        enter_play(p, c)
+        return True
+
+    def on_advance(self, p):
+        og = find_in(p.attached, lambda x: x.name == "Raditz's Offensive Guard")
+        if og is not None:
+            p.attached.remove(og)
+            p.banished.append(og)
+
+
+_x("Raditz's Offensive Guard", immediate=_attach_og)
+
+
+# ---- Orange Drills / Setups that put Drills into play, and Drill passives used by the Raditz decks ----------------
+def _styled_drill(p): return lambda c: c.ctype == 'Drill' and c.style is not None and c.style == p.styled()
+
+
+def _celebration(p, o, c): fetch_from_deck(p, _styled_drill(p), 'drill')
+
+
+def _encouragement(p, o, c):
+    x = find_in(reversed(p.discard), _styled_drill(p))
+    if x is not None:
+        p.discard.remove(x)
+        enter_play(p, x)
+    if p.cb['changed']:
+        fetch_from_deck(p, _styled_drill(p), 'drill')
+
+
+def _integration(p, o, c):
+    d = find_in(p.deck, lambda x: x.ctype == 'Drill')
+    if d is not None:
+        fetch_from_deck(p, lambda x: x is d, 'drill')
+    else:
+        _drill_from_discard(p)
+
+
+_x('Orange Celebration', use=_celebration, can_use=lambda p, o, c: find_in(p.deck, _styled_drill(p)) is not None)
+_x('Orange Encouragement', use=_encouragement)
+_x('Red Integration', use=_integration,
+   can_use=lambda p, o, c: find_in(p.deck, lambda x: x.ctype == 'Drill') is not None or find_in(p.discard, lambda x: x.ctype == 'Drill') is not None)
+def _freezing_beam(p, o, c):
+    x = find_in(reversed(p.discard), lambda d: d.ctype == 'Drill') or find_in(reversed(p.banished), lambda d: d.ctype == 'Drill')
+    if x is not None:
+        (p.discard if x in p.discard else p.banished).remove(x)
+        enter_play(p, x)
+
+
+_x('Red Freezing Beam', immediate=_freezing_beam)
+_x('Red Chop', base_stage=lambda p, o, c: 3 + p.anger)          # DAMAGE: 3 +X stages, X = your current anger level
+_x('Orange Refocus', defend=lambda p, atk, x, c: _drill_from_discard(p))
+_x('Orange Crashing Drill', enters=lambda p, o, c: p.destroy_opp(1) if p.game.in_combat else None)   # leaving-play trigger not modelled
+
+
+@passive('Orange Torching Drill')
+class TorchingDrill(Behavior):
+    def on_enters_play(self, p, opp, card):
+        if card.ctype == 'Drill' and p.game.in_combat:
+            p.destroy_opp(1)
+
+
+def _styled_phys(p, card): return card.phys and card.style is not None and card.style == p.styled() and card.card_id.split(':')[0] != 'synthetic'
+
+
+@passive('Orange Disaster Drill')
+class DisasterDrill(Behavior):
+    """Your Styled physical attacks deal +2 stages of damage and gain 'Raise your anger 1 level.'"""
+    def stage_bonus(self, p, card, opp): return 2 if _styled_phys(p, card) else 0
+
+    def on_play(self, p, opp, card):
+        if _styled_phys(p, card):
+            p.raise_anger(1)
+
+
+@passive('Orange Joint Restraint Drill')
+class JointRestraintDrill(Behavior):
+    def stage_bonus(self, p, card, opp): return 2 if card.phys else 0
+
+
+@passive('Orange Crying Drill')
+class CryingDrill(Behavior):
+    """POWER: Raise your anger 1 level (once per turn per Drill name: Orange Retribution's rule). The shuffle-away action is not modelled."""
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'crying'):
+            p.raise_anger(1)
+            return True
+        return False
+
+
+@passive('Saiyan Analysis Drill')
+class AnalysisDrill(Behavior):
+    """You need 1 less anger to advance a personality level. UNVERIFIED: copies do not stack (modelled as 'need 4' once) and Level 4 MPPV is unchanged."""
+    def anger_needed(self, p): return 4 if p.level < 4 else None
+
+
+@passive('Saiyan Unleashing Drill')
+class UnleashingDrill(Behavior):
+    """Your energy attacks deal +2 stages of damage and your physical attacks deal +1 life card."""
+    def stage_bonus(self, p, card, opp): return 2 if card.energy else 0
+    def life_bonus(self, p, card, opp): return 1 if card.phys else 0
+
+
+@passive('Saiyan Protection Drill')
+class ProtectionDrill(Behavior):
+    """Your opponent's attacks deal -1 stage and -1 life card of damage. (The Endurance-Rejuvenate clause is not modelled.)"""
+    def incoming_life(self, p, card, atk): return -1
+    def incoming_stage(self, p, card, atk): return -1
+
+
+@passive('Saiyan Anguish Drill')
+class AnguishDrill(Behavior):
+    """POWER: if your MP is level 2 or lower, raise your anger 1 level. (The 'opponent passed' bonus and the banish-a-Setup action are not modelled.)"""
+    def has_power(self, p): return p.level <= 2
+
+    def power(self, p, opp):
+        if p.level <= 2 and once_turn(p, 'anguish'):
+            p.raise_anger(1)
+            return True
+        return False
+# ---- Hero Vegeta deck cards (Awakening / Red Ascension shell) ----------------------------------------------------
+_SAIYAN_MPS = None
+
+
+def _is_saiyan(p):
+    """PanZ heritage list (mps.json -> panz_heritage.Saiyan); 'If your MP is a Saiyan'."""
+    global _SAIYAN_MPS
+    if _SAIYAN_MPS is None:
+        import json
+        from .cardmodel import DB
+        _SAIYAN_MPS = {g['name'] for g in json.loads((DB / 'mps.json').read_text(encoding='utf-8'))['mps'] if g['panz_heritage'].get('Saiyan')}
+    return p.mp_name in _SAIYAN_MPS
+
+
+def _kamehameha(p, o, c):
+    if _is_saiyan(p):                      # "If your MP is a Saiyan, this attack cannot be stopped and its damage cannot be prevented"
+        c.unstoppable = c.unprev = True
+
+
+def _banish_opp_discard(o, n):
+    for _ in range(min(n, len(o.discard))):
+        o.banished.append(o.discard.pop())
+
+
+def _emergency(p, o, c):
+    """Red Emergency: with 2+ anger, search the discard pile for 2 Drills, Rejuvenate one (bottom of the Life Deck) and place the other into play."""
+    if p.anger >= 2:
+        drills = [x for x in p.discard if x.ctype == 'Drill'][-2:]
+        if drills:
+            p.discard.remove(drills[-1])
+            p.drills.append(drills[-1])
+            if len(drills) > 1:
+                p.discard.remove(drills[0])
+                p.deck.append(drills[0])
+
+
+# Galick Gun: "If you deal critical damage with this attack, you may use two critical effects instead of one" -> one extra effect (threshold fixed at 5 life cards).
+_x("Vegeta's Galick Gun", hit=lambda p, o, c, removed: p.crit_effect() if removed >= 5 else None)
+_x('Assisted Kamehameha', immediate=_kamehameha)
+# True Power: "Use only if you have not performed an attack this combat. This attack cannot have its damage modified." (modifiable() keeps Vegeta's level bonuses off it)
+_x('True Power', can_attack=lambda p, o, c: p.cb['attacks'] == 0)
+_x('Android Headbutt', immediate=lambda p, o, c: p.raise_anger(1), hit=_overhead)    # "Raise or lower a player's anger 1" (raise own); HIT: discard a card for a critical effect
+_x('Devastating Blow', immediate=lambda p, o, c: _banish_opp_discard(o, 3))
+_x('Allied Blitz', immediate=lambda p, o, c: setattr(o, 'skip', o.skip + 1))          # only the opponent's next action after this attack; later energy attacks are not modelled
+_x('Red Duck', defend=lambda p, atk, x, c: p.rejuv(p.anger))                          # Rejuvenate X, X = your anger
+_x('Red Body Block', defend=lambda p, atk, x, c: p.cb.update(next_unprev=True))      # UNVERIFIED approximation: any next attack, not only non-Styled
+_x('Enhanced Reflexes', defend=lambda p, atk, x, c: p.banished.append(p.deck.pop(0)) if p.deck else None)   # "Banish the top card of your Life Deck" (the Named-attack clause is not modelled)
+_x('Red Flourish', use=lambda p, o, c: p.cb.update(crit_all=True))                    # UNVERIFIED approximation: energy attacks only in the text; the model applies it to every successful attack
+_x('Red Emergency', use=_emergency)
+
+
+@passive('Red Despair Drill')
+class DespairDrill(Behavior):
+    def life_bonus(self, p, card, opp): return p.anger if modifiable(card) else 0
+
+
+@passive('Red Intimidation Drill')
+class IntimidationDrill(Behavior):
+    def on_crit_damage(self, p, opp):
+        if once_turn(p, 'intimidation'):
+            p.draw(1)
+
+
+@passive('Red Hunting Drill')
+class HuntingDrill(Behavior):
+    def on_crit_damage(self, p, opp):
+        if once(p, 'hunting'):
+            p.destroy_opp(1)
 
 
 # ---- discarded-by-effect triggers ------------------------------------------------------------------------------
@@ -1351,7 +1971,7 @@ def choose_action(a, d):
             use_card(a, d, c)
             return True
     atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage and not (x.ctype == 'Ally' and ally_model(x))     # modelled Allies attack from play, not from the hand
-            and CARD_EXTRA.get(x.name, {}).get('can_play', lambda p, o, c: True)(a, d, x)]
+            and CARD_EXTRA.get(x.name, {}).get('can_attack', lambda p, o, c: True)(a, d, x)]
     if not atks:
         return False
     c = max(atks, key=lambda z: a.value(z) - z.cost * 0.5)
