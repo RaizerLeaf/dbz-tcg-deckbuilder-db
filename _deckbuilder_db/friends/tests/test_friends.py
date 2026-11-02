@@ -15,7 +15,11 @@ import cardnames                 # noqa: E402
 
 def deck_to_list(code):
     d = dc.decode(code)
-    lines = [f"Name: {d['name']}", f"MP: {d['mp_name']}"]
+    mp = d['mp_name']
+    g = dc.mp_group(d)
+    if g is not None and sum(1 for x in dc.MPS if x['name'] == g['name']) > 1:
+        mp += f" ({g['alignment'].capitalize()})"   # Vegeta exists as Hero and Villain; the list must say which
+    lines = [f"Name: {d['name']}", f"MP: {mp}"]
     if d['mp_levels']:
         lines.append('Levels: ' + ', '.join(dc.BY_ID[i]['subtitle'] for i in d['mp_levels']))
     lines.append(f"Mastery: {dc.BY_ID[d['mastery']]['card_name']}")

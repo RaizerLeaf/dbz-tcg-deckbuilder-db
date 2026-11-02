@@ -740,6 +740,94 @@ class KrillinL4(Behavior):
         return False
 
 
+# =================================================================================================================
+# Vegeta (Hero): Evolution levels (Styled) and Awakening levels (non-Styled). Added for the Hero Vegeta deck comparison.
+# =================================================================================================================
+def nonstyled(p, c):
+    """A non-Styled attack: any attack that is not of the player's Mastery style (Freestyle cards, Mastery/MP Powers)."""
+    return bool(c.is_atk) and c.style != p.styled()
+
+
+def modifiable(c):
+    """False for an attack whose text says its damage cannot be modified (True Power)."""
+    return 'cannot have its damage modified' not in c.text and 'damage cannot be modified' not in c.text
+
+
+VG_EXPERIENCED = synthetic('Experienced', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 1 life card.')
+VG_ON_THE_MOVE = synthetic('On the Move', 'POWER: [Attack] Physical attack. DAMAGE: 4 life cards.')
+
+
+class _VegetaPower(Behavior):
+    card, key = None, ''
+    def has_power(self, p): return p.stage >= self.card.cost
+
+    def power(self, p, opp):
+        if p.stage >= self.card.cost and once_turn(p, self.key):
+            return p.attack(opp, power=self.card)
+        return False
+
+
+@mp('Vegeta', 'Experienced')
+class VegetaAW1(_VegetaPower):
+    """L1: non-Styled attacks +2 life cards (and nothing else may modify them - not modelled). Power: 1-stage energy attack, 1 life card."""
+    card, key = VG_EXPERIENCED, 'vg1'
+    def life_bonus(self, p, card, opp): return 2 if nonstyled(p, card) and modifiable(card) else 0
+
+
+@mp('Vegeta', 'Imposing')
+class VegetaAW2(Behavior):
+    """L2: non-Styled attacks +1 life card, damage cannot be prevented. Power: raise anger 1, gain 3 stages."""
+    def life_bonus(self, p, card, opp): return 1 if nonstyled(p, card) and modifiable(card) else 0
+    def unprevented(self, p, card, opp): return nonstyled(p, card)
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'vg2'):
+            p.raise_anger(1)
+            p.gain_stages(3)
+            return True
+        return False
+
+
+@mp('Vegeta', 'Energized')
+class VegetaAW3(Behavior):
+    """L3: non-Styled attacks +3 life cards; the first stopped non-Styled attack each combat is used a second time (pays its cost again)."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) and modifiable(card) else 0
+
+    def on_stopped(self, p, opp, card):
+        if nonstyled(p, card) and card.card_id.split(':')[0] != 'synthetic' and once(p, 'vg3_second') and p.stage >= card.cost:
+            p.attack(opp, power=card)
+
+
+@mp('Vegeta', 'Pinnacle of Power')
+class VegetaAW4(Behavior):
+    """L4: non-Styled attacks cannot be stopped and deal +3 life cards."""
+    def life_bonus(self, p, card, opp): return 3 if nonstyled(p, card) and modifiable(card) else 0
+    def unstoppable(self, p, card): return nonstyled(p, card)
+
+
+@mp('Vegeta', 'Calculating')
+@mp('Vegeta', 'Super Saiyan')
+class VegetaEvoPassive(Behavior):
+    """Evolution L1/L3: converts Styled life-card damage into stage damage (or back); not modelled (a choice, not extra damage)."""
+
+
+@mp('Vegeta', 'On the Move')
+class VegetaEvo2(_VegetaPower):
+    """L2: Power: physical attack, 4 life cards (no cost)."""
+    card, key = VG_ON_THE_MOVE, 'vg2e'
+
+
+@mp('Vegeta', 'Elite')
+class VegetaEvo4(Behavior):
+    """L4: the first Styled physical attack each combat cannot be stopped. (The energy HIT search is not modelled.)"""
+    def unstoppable(self, p, card):
+        if card.is_atk and card.phys and card.style == p.styled() and 'vg4_first' not in p.tf:
+            p.tf['vg4_first'] = True
+            return True
+        return False
+
+
 def life_adjust(p, opp, c):
     """Cross-card adjustments applied to life damage: Krillin's 9 - X, Earth Dragon Ball 1 (all attacks +1)."""
     adj = 0
@@ -1209,18 +1297,60 @@ class AnguishDrill(Behavior):
             p.raise_anger(1)
             return True
         return False
+# ---- Hero Vegeta deck cards (Awakening / Red Ascension shell) ----------------------------------------------------
+_SAIYAN_MPS = None
+
+
+def _is_saiyan(p):
+    """PanZ heritage list (mps.json -> panz_heritage.Saiyan); 'If your MP is a Saiyan'."""
+    global _SAIYAN_MPS
+    if _SAIYAN_MPS is None:
+        import json
+        from .cardmodel import DB
+        _SAIYAN_MPS = {g['name'] for g in json.loads((DB / 'mps.json').read_text(encoding='utf-8'))['mps'] if g['panz_heritage'].get('Saiyan')}
+    return p.mp_name in _SAIYAN_MPS
+
+
+def _kamehameha(p, o, c):
+    if _is_saiyan(p):                      # "If your MP is a Saiyan, this attack cannot be stopped and its damage cannot be prevented"
+        c.unstoppable = c.unprev = True
+
+
+def _banish_opp_discard(o, n):
+    for _ in range(min(n, len(o.discard))):
+        o.banished.append(o.discard.pop())
+
+
+def _emergency(p, o, c):
+    """Red Emergency: with 2+ anger, search the discard pile for 2 Drills, Rejuvenate one (bottom of the Life Deck) and place the other into play."""
+    if p.anger >= 2:
+        drills = [x for x in p.discard if x.ctype == 'Drill'][-2:]
+        if drills:
+            p.discard.remove(drills[-1])
+            p.drills.append(drills[-1])
+            if len(drills) > 1:
+                p.discard.remove(drills[0])
+                p.deck.append(drills[0])
+
+
+# Galick Gun: "If you deal critical damage with this attack, you may use two critical effects instead of one" -> one extra effect (threshold fixed at 5 life cards).
+_x("Vegeta's Galick Gun", hit=lambda p, o, c, removed: p.crit_effect() if removed >= 5 else None)
+_x('Assisted Kamehameha', immediate=_kamehameha)
+# True Power: "Use only if you have not performed an attack this combat. This attack cannot have its damage modified." (modifiable() keeps Vegeta's level bonuses off it)
+_x('True Power', can_attack=lambda p, o, c: p.cb['attacks'] == 0)
+_x('Android Headbutt', immediate=lambda p, o, c: p.raise_anger(1), hit=_overhead)    # "Raise or lower a player's anger 1" (raise own); HIT: discard a card for a critical effect
+_x('Devastating Blow', immediate=lambda p, o, c: _banish_opp_discard(o, 3))
+_x('Allied Blitz', immediate=lambda p, o, c: setattr(o, 'skip', o.skip + 1))          # only the opponent's next action after this attack; later energy attacks are not modelled
+_x('Red Duck', defend=lambda p, atk, x, c: p.rejuv(p.anger))                          # Rejuvenate X, X = your anger
+_x('Red Body Block', defend=lambda p, atk, x, c: p.cb.update(next_unprev=True))      # UNVERIFIED approximation: any next attack, not only non-Styled
+_x('Enhanced Reflexes', defend=lambda p, atk, x, c: p.banished.append(p.deck.pop(0)) if p.deck else None)   # "Banish the top card of your Life Deck" (the Named-attack clause is not modelled)
+_x('Red Flourish', use=lambda p, o, c: p.cb.update(crit_all=True))                    # UNVERIFIED approximation: energy attacks only in the text; the model applies it to every successful attack
+_x('Red Emergency', use=_emergency)
 
 
 @passive('Red Despair Drill')
 class DespairDrill(Behavior):
-    def life_bonus(self, p, card, opp): return p.anger          # +X life cards, X = your anger when you perform the attack
-
-
-@passive('Red Hunting Drill')
-class HuntingDrill(Behavior):
-    def on_crit_damage(self, p, opp):
-        if once(p, 'hunting'):
-            p.destroy_opp(1, noamp=True)                        # search the opponent's Life Deck for a card and destroy it
+    def life_bonus(self, p, card, opp): return p.anger if modifiable(card) else 0
 
 
 @passive('Red Intimidation Drill')
@@ -1228,6 +1358,13 @@ class IntimidationDrill(Behavior):
     def on_crit_damage(self, p, opp):
         if once_turn(p, 'intimidation'):
             p.draw(1)
+
+
+@passive('Red Hunting Drill')
+class HuntingDrill(Behavior):
+    def on_crit_damage(self, p, opp):
+        if once(p, 'hunting'):
+            p.destroy_opp(1)
 
 
 # ---- discarded-by-effect triggers ------------------------------------------------------------------------------
@@ -1306,7 +1443,7 @@ def choose_action(a, d):
         if _usable(a, d, c):
             use_card(a, d, c)
             return True
-    atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage]
+    atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage and CARD_EXTRA.get(x.name, {}).get('can_attack', lambda p, o, c: True)(a, d, x)]
     if not atks:
         return False
     c = max(atks, key=lambda z: a.value(z) - z.cost * 0.5)
