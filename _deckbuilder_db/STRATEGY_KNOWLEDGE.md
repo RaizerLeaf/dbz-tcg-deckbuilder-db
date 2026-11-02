@@ -100,7 +100,7 @@ decks being compared; both sides follow the same simple priority list; secondary
 ## 7. Open questions
 - Does "once per turn" count the defender's turn separately for Powers?
 - Does a doubling effect like Trunks' Dashing apply to anger raised by a Mastery trigger (Red Enraged)? The simulator assumed yes.
-- What the "(Awakening)" qualifier in an MP name means to the app. Nappa and Wheelo codes use the plain MP name; whether the app accepts them for every MP is only confirmed for Wheelo ("Dr. Wheelo").
+- What the "(Awakening)" qualifier in an MP name means to the app. Plain MP names are confirmed for Nappa and Dr. Wheelo.
 - What the app plays when a code has **no MP printings field** (the friend's second Piccolo code has none; probably each level's first printing, i.e. Stoic).
 - Saiyan Clench ("your attacks that do not have AT base damage have their power stage damage doubled"): is the doubling applied before or after +stage modifiers (Level 4's +4, Vegeta's +2, Enjoyment)? Can Overpowering Aura Drill / Saiyan Body Blow
   ("a card that can attach to your MP") fetch it? Does Saiyan Dive's "Endurance is considered 10 for your card effects" count as X for Saiyan Rampaging's Power (an 11-stage attack)? How many Saiyans does Turles count under PanZ rulings?

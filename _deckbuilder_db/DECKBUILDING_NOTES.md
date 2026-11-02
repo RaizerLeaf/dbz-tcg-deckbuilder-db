@@ -141,7 +141,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 `decks/` (built in a cloud session, deck codes written by `deckcode.py`):
 | File | MP / style / Mastery | Status |
 |---|---|---|
-| `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **the final code (first-printing fix) was not reported back as imported**; the first two attempts failed (see Deck code format) |
+| `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated. Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
 
 ## Deck code format (from the owner's web app)
@@ -155,6 +155,7 @@ owner's three sample codes, Broly / Piccolo / Trunks, whose decoded lists matche
 - Set 7 DR cards are `S<n>` (`AW-S10` = Orange Retribution Mastery DR10, confirmed by the owner's Trunks code).
 - The MP printings field is optional (the Broly code and the friend's second Piccolo code have none). **(unverified)** With no field the app probably uses each level's first printing (Piccolo: Stoic `S21` at Level 1; `EV-S11` is Composed).
 - The app's MP name can carry a qualifier (`Trunks (Awakening)`); what it means is not known yet.
+- **Confirmed by the Nappa import (2026-11-02):** the plain MP name `Nappa` and an explicit MP printings field (`_HV-C3_HV-C4_HV-U63_HV-U64`) are accepted.
 - **The app knows each non-MP card by one printing only: its first** (earliest set; within a set starter/DR, then booster, then promo).
   The owner's codes always use it (`S25` not `R145`, `R152` not `P8`, `S149` not `AW-S122`), and later reprints (`AW-S77` Stare Down,
   `EV-S159`, `EV-S165`, `AW-S118`, `AW-S122`) came back "Unknown card". `deckcode.py` encodes this automatically (`app_printing`).

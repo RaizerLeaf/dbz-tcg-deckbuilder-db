@@ -70,7 +70,6 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - A win rate here is the model's opinion under identical simple play, not a prediction of how a person would do. A loss in a matchup the model calls lopsided is not evidence of a play mistake.
 
 ## Still to do (as of this session)
-- Ask the owner whether the final Nappa code (`decks/nappa_saiyan_clench.txt`) imports, and which MP name / printings the app wants; record the answer in `DECKBUILDING_NOTES.md` ("Decks on file").
 - Nappa options 2 and 3 (Saiyan Dynamic, Black Devious) and the Black-based anti-anger Wheelo option are described but not built. Simulate the Wheelo Blue deck against the friend's Red Piccolo once Allies and Blue Protective are modelled.
 - FanZ-era support in the simulator, the pack builder and the page (rulings, keywords, Traits, Frozen list). Everything built here is PanZ (Sets 1-7) only.
 - Simulator: Allies, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
