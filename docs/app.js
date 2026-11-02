@@ -133,7 +133,7 @@
   }
 
   const loaded = window.DBZ_INLINE ? Promise.resolve([window.DBZ_INLINE.cards, window.DBZ_INLINE.parts])
-    : Promise.all([fetch('data/cards.json').then((r) => r.json()), fetch('data/pack_parts.json').then((r) => r.json())]);
+    : Promise.all([fetch('data/cards.json?v=' + (window.DBZ_V || '')).then((r) => r.json()), fetch('data/pack_parts.json?v=' + (window.DBZ_V || '')).then((r) => r.json())]);
   loaded.then((r) => {
     data = r[0]; parts = r[1];
     data_ = new DBZ.Data(data);

@@ -6,6 +6,7 @@ Sources: friends/site/{index.html,app.js,core.js,style.css}; data comes from car
 so the page uses exactly the cards, codes and rules of the Python tools. `docs/` is generated output; never edit it by hand.
 GitHub Pages can only publish the repository root or /docs, which is why this one folder sits outside _deckbuilder_db/.
 """
+import hashlib
 import json
 import re
 import shutil
@@ -114,8 +115,20 @@ def main(out=None):
     parts = build_parts()
     (OUT / 'data' / 'cards.json').write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
     (OUT / 'data' / 'pack_parts.json').write_text(json.dumps(parts, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
-    for f in ('index.html', 'app.js', 'core.js', 'style.css'):
+    for f in ('app.js', 'core.js', 'style.css'):
         shutil.copyfile(HERE / 'site' / f, OUT / f)
+    # version tag on every asset URL so a new deploy is not hidden behind browser/CDN caches (the HTML itself can still be cached for ~10 minutes)
+    h = hashlib.sha1()
+    for f in ('app.js', 'core.js', 'style.css'):
+        h.update((HERE / 'site' / f).read_bytes())
+    h.update((OUT / 'data' / 'cards.json').read_bytes())
+    h.update((OUT / 'data' / 'pack_parts.json').read_bytes())
+    ver = h.hexdigest()[:8]
+    page = (HERE / 'site' / 'index.html').read_text(encoding='utf-8')
+    page = page.replace('href="style.css"', f'href="style.css?v={ver}"')
+    page = page.replace('<script src="core.js"></script>', f'<script>window.DBZ_V="{ver}";</script>\n<script src="core.js?v={ver}"></script>')
+    page = page.replace('<script src="app.js"></script>', f'<script src="app.js?v={ver}"></script>')
+    (OUT / 'index.html').write_text(page, encoding='utf-8')
     (OUT / '.nojekyll').write_text('', encoding='utf-8')
     (OUT / 'deck-helper.html').write_text(single_file(data, parts), encoding='utf-8')
     with tempfile.TemporaryDirectory() as t:
