@@ -66,7 +66,7 @@ class Player:
                        gained=False, raised=False, destroyed_nonstyled=False, destroy_bonus=0, next_destroy_bonus=0,
                        next_life=0, next_free=False, reduce_life=0, reduce_stage=0, noend=False, burning=False,
                        noevents=False, nonstyled_lock=False, ball_search=False, searched=False, armed_discard=False,
-                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False)
+                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False, rj_draw=False)
 
     def log(self, msg):
         self.game.log(msg)
@@ -104,6 +104,10 @@ class Player:
         if n and in_combat:
             for b in self.behaviors():
                 b.on_rejuvenate(self)
+            for pl in (self, self.opp):                       # Red Right Blast: the next time a player Rejuvenates this combat, its owner draws
+                if pl is not None and pl.cb.get('rj_draw'):
+                    pl.cb['rj_draw'] = False
+                    pl.draw(1)
 
     def lose_card(self, c, how):
         """A card left the top of the Life Deck. how: 'destroy' | 'damage' | 'banish'. Returns True if it counts."""
@@ -391,6 +395,8 @@ class Player:
             self.crit_effect()
         if c.rej:
             self.rejuv(c.rej)
+        if c.rej_hit:
+            self.rejuv(c.rej_hit)
         if extra.get('hit'):
             extra['hit'](self, opp, c, removed)
         self._finish(card, c)
@@ -433,6 +439,8 @@ class Player:
         if extra.get('defend'):
             extra['defend'](self, atk, x, c)
         (self.banished if x.banish_after else self.discard).append(x)
+        if extra.get('rejuv_self'):
+            self.rejuv(1)                        # "Rejuvenate this card after use": it is the top of the discard pile
         self.log(f'    ({self.label} defends with {x.name})')
         return True
 

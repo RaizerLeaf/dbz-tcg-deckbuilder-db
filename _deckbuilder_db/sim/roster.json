@@ -1,78 +1,94 @@
 {
  "max": 25,
  "games_per_pair": 30,
- "sim_hash": "cc959c552674",
+ "sim_hash": "a215a458767e",
  "decks": [
   {
    "file": "decks/trunks_orange_v5.txt",
    "name": "Orange Trunks V5",
    "mp": "Trunks",
    "mastery": "Orange Retribution Mastery",
-   "win_pct": 89.7,
-   "avg_turn_of_wins": 5.0
+   "win_pct": 88.2,
+   "avg_turn_of_wins": 5.2
   },
   {
    "file": "sim/decks/trunks_red_draft.txt",
    "name": "Red Trunks Draft",
    "mp": "Trunks",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 86.3,
-   "avg_turn_of_wins": 5.2
+   "win_pct": 87.3,
+   "avg_turn_of_wins": 5.3
+  },
+  {
+   "file": "decks/nail_red_enraged.txt",
+   "name": "Nail Red Enraged",
+   "mp": "Nail",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 64.2,
+   "avg_turn_of_wins": 6.2
   },
   {
    "file": "decks/nappa_saiyan_clench.txt",
    "name": "Nappa Saiyan Clench",
    "mp": "Nappa",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 66.3,
-   "avg_turn_of_wins": 6.8
+   "win_pct": 59.7,
+   "avg_turn_of_wins": 7.0
   },
   {
    "file": "sim/decks/piccolo_red_friend.txt",
    "name": "redder Pic 1.0",
    "mp": "Piccolo",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 59.7,
-   "avg_turn_of_wins": 6.3
+   "win_pct": 58.8,
+   "avg_turn_of_wins": 6.0
   },
   {
-   "file": "sim/decks/nail_black_v2.txt",
-   "name": "Naaaiiillv2",
+   "file": "decks/nail_namekian_knowledge.txt",
+   "name": "Nail Namekian Knowledge",
    "mp": "Nail",
-   "mastery": "Black Devious Mastery",
-   "win_pct": 49.3,
-   "avg_turn_of_wins": 7.8
+   "mastery": "Namekian Knowledge Mastery",
+   "win_pct": 51.8,
+   "avg_turn_of_wins": 8.2
   },
   {
    "file": "sim/decks/garlic_red.txt",
    "name": "Red Garlic Jr",
    "mp": "Garlic Jr.",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 48.0,
-   "avg_turn_of_wins": 6.2
+   "win_pct": 51.5,
+   "avg_turn_of_wins": 6.0
   },
   {
-   "file": "sim/decks/krillin_black.txt",
-   "name": "Black Krillin",
-   "mp": "Krillin",
+   "file": "sim/decks/nail_black_v2.txt",
+   "name": "Naaaiiillv2",
+   "mp": "Nail",
    "mastery": "Black Devious Mastery",
-   "win_pct": 41.0,
-   "avg_turn_of_wins": 7.6
+   "win_pct": 34.5,
+   "avg_turn_of_wins": 7.8
   },
   {
    "file": "sim/decks/wheelo_black_v2.txt",
    "name": "WHEELO MILL V2",
    "mp": "Dr. Wheelo",
    "mastery": "Black Devious Mastery",
-   "win_pct": 40.0,
-   "avg_turn_of_wins": 7.5
+   "win_pct": 28.8,
+   "avg_turn_of_wins": 7.7
+  },
+  {
+   "file": "sim/decks/krillin_black.txt",
+   "name": "Black Krillin",
+   "mp": "Krillin",
+   "mastery": "Black Devious Mastery",
+   "win_pct": 28.8,
+   "avg_turn_of_wins": 7.7
   },
   {
    "file": "decks/wheelo_blue_lockdown.txt",
    "name": "Wheelo Blue Lockdown",
    "mp": "Dr. Wheelo",
    "mastery": "Blue Protective Mastery",
-   "win_pct": 39.3,
+   "win_pct": 24.5,
    "avg_turn_of_wins": 8.5
   },
   {
@@ -80,8 +96,8 @@
    "name": "RED SLUG V4 NAMEK",
    "mp": "Lord Slug",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 13.3,
-   "avg_turn_of_wins": 8.4
+   "win_pct": 21.8,
+   "avg_turn_of_wins": 8.3
   }
  ],
  "retired": [],
@@ -116,13 +132,317 @@
  ],
  "skipped_unmodelled": [],
  "pairs": {
+  "decks/lord_slug_red_namek.txt|decks/nail_red_enraged.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "da187bbf45"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    0,
+    30
+   ],
+   "t": [
+    0,
+    172
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|decks/nappa_saiyan_clench.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "7ae220f0c2"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    6,
+    24
+   ],
+   "t": [
+    56,
+    187
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|decks/trunks_orange_v5.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "4e8ec2ec78"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    0,
+    30
+   ],
+   "t": [
+    0,
+    150
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|decks/wheelo_blue_lockdown.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "9ed854e7da"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    18,
+    12
+   ],
+   "t": [
+    145,
+    107
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/garlic_red.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "46467ee6e3"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    2,
+    28
+   ],
+   "t": [
+    12,
+    158
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/krillin_black.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "db709b174e"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    11,
+    19
+   ],
+   "t": [
+    93,
+    144
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/nail_black_v2.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "f1ba9aae64"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    16,
+    14
+   ],
+   "t": [
+    138,
+    123
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/piccolo_red_friend.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "7e5a6f4258"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    5,
+    25
+   ],
+   "t": [
+    33,
+    162
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/trunks_red_draft.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "e650a95306"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    0,
+    30
+   ],
+   "t": [
+    0,
+    137
+   ]
+  },
+  "decks/lord_slug_red_namek.txt|sim/decks/wheelo_black_v2.txt": {
+   "h": [
+    "cf49f5e6d7",
+    "7538bbaa6b"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    10,
+    20
+   ],
+   "t": [
+    78,
+    167
+   ]
+  },
+  "decks/nail_red_enraged.txt|decks/nappa_saiyan_clench.txt": {
+   "h": [
+    "da187bbf45",
+    "7ae220f0c2"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    17,
+    13
+   ],
+   "t": [
+    96,
+    87
+   ]
+  },
+  "decks/nail_red_enraged.txt|decks/trunks_orange_v5.txt": {
+   "h": [
+    "da187bbf45",
+    "4e8ec2ec78"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    7,
+    23
+   ],
+   "t": [
+    38,
+    108
+   ]
+  },
+  "decks/nail_red_enraged.txt|decks/wheelo_blue_lockdown.txt": {
+   "h": [
+    "da187bbf45",
+    "9ed854e7da"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    28,
+    2
+   ],
+   "t": [
+    200,
+    15
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/garlic_red.txt": {
+   "h": [
+    "da187bbf45",
+    "46467ee6e3"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    12,
+    18
+   ],
+   "t": [
+    62,
+    101
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/krillin_black.txt": {
+   "h": [
+    "da187bbf45",
+    "db709b174e"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    23,
+    7
+   ],
+   "t": [
+    156,
+    51
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/nail_black_v2.txt": {
+   "h": [
+    "da187bbf45",
+    "f1ba9aae64"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    23,
+    7
+   ],
+   "t": [
+    155,
+    53
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/piccolo_red_friend.txt": {
+   "h": [
+    "da187bbf45",
+    "7e5a6f4258"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    19,
+    11
+   ],
+   "t": [
+    100,
+    58
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/trunks_red_draft.txt": {
+   "h": [
+    "da187bbf45",
+    "e650a95306"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    4,
+    26
+   ],
+   "t": [
+    26,
+    135
+   ]
+  },
+  "decks/nail_red_enraged.txt|sim/decks/wheelo_black_v2.txt": {
+   "h": [
+    "da187bbf45",
+    "7538bbaa6b"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    23,
+    7
+   ],
+   "t": [
+    150,
+    48
+   ]
+  },
   "decks/nappa_saiyan_clench.txt|decks/trunks_orange_v5.txt": {
    "h": [
     "7ae220f0c2",
     "4e8ec2ec78"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     7,
     23
@@ -138,13 +458,13 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     29,
     1
    ],
    "t": [
-    188,
+    187,
     9
    ]
   },
@@ -154,14 +474,14 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    13,
-    17
+    17,
+    13
    ],
    "t": [
-    80,
-    105
+    106,
+    79
    ]
   },
   "decks/nappa_saiyan_clench.txt|sim/decks/krillin_black.txt": {
@@ -170,7 +490,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     27,
     3
@@ -186,14 +506,14 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     27,
     3
    ],
    "t": [
-    179,
-    24
+    191,
+    23
    ]
   },
   "decks/nappa_saiyan_clench.txt|sim/decks/piccolo_red_friend.txt": {
@@ -202,13 +522,13 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     11,
     19
    ],
    "t": [
-    68,
+    70,
     111
    ]
   },
@@ -218,14 +538,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    5,
-    25
+    4,
+    26
    ],
    "t": [
-    30,
-    128
+    25,
+    133
    ]
   },
   "decks/nappa_saiyan_clench.txt|sim/decks/wheelo_black_v2.txt": {
@@ -234,7 +554,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     25,
     5
@@ -250,14 +570,14 @@
     "9ed854e7da"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    29,
-    1
+    30,
+    0
    ],
    "t": [
-    148,
-    7
+    154,
+    0
    ]
   },
   "decks/trunks_orange_v5.txt|sim/decks/garlic_red.txt": {
@@ -266,13 +586,13 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     28,
     2
    ],
    "t": [
-    135,
+    136,
     9
    ]
   },
@@ -282,7 +602,7 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     30,
     0
@@ -298,14 +618,14 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    30,
-    0
+    28,
+    2
    ],
    "t": [
-    163,
-    0
+    155,
+    15
    ]
   },
   "decks/trunks_orange_v5.txt|sim/decks/piccolo_red_friend.txt": {
@@ -314,14 +634,14 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    27,
-    3
+    26,
+    4
    ],
    "t": [
-    118,
-    17
+    114,
+    21
    ]
   },
   "decks/trunks_orange_v5.txt|sim/decks/trunks_red_draft.txt": {
@@ -330,14 +650,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     13,
     17
    ],
    "t": [
-    65,
-    93
+    68,
+    89
    ]
   },
   "decks/trunks_orange_v5.txt|sim/decks/wheelo_black_v2.txt": {
@@ -346,7 +666,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     30,
     0
@@ -362,14 +682,14 @@
     "46467ee6e3"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    23,
-    7
+    20,
+    10
    ],
    "t": [
-    208,
-    55
+    191,
+    79
    ]
   },
   "decks/wheelo_blue_lockdown.txt|sim/decks/krillin_black.txt": {
@@ -378,14 +698,14 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    16,
-    14
+    17,
+    13
    ],
    "t": [
-    131,
-    109
+    140,
+    101
    ]
   },
   "decks/wheelo_blue_lockdown.txt|sim/decks/nail_black_v2.txt": {
@@ -394,14 +714,14 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    3,
-    27
+    2,
+    28
    ],
    "t": [
-    22,
-    195
+    16,
+    207
    ]
   },
   "decks/wheelo_blue_lockdown.txt|sim/decks/piccolo_red_friend.txt": {
@@ -410,14 +730,14 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    12,
-    18
+    10,
+    20
    ],
    "t": [
-    99,
-    138
+    83,
+    145
    ]
   },
   "decks/wheelo_blue_lockdown.txt|sim/decks/trunks_red_draft.txt": {
@@ -426,14 +746,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    5,
-    25
+    3,
+    27
    ],
    "t": [
-    43,
-    156
+    26,
+    168
    ]
   },
   "decks/wheelo_blue_lockdown.txt|sim/decks/wheelo_black_v2.txt": {
@@ -442,14 +762,14 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    11,
-    19
+    12,
+    18
    ],
    "t": [
-    76,
-    132
+    83,
+    127
    ]
   },
   "sim/decks/garlic_red.txt|sim/decks/krillin_black.txt": {
@@ -458,14 +778,14 @@
     "db709b174e"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     12,
     18
    ],
    "t": [
-    88,
-    130
+    85,
+    129
    ]
   },
   "sim/decks/garlic_red.txt|sim/decks/nail_black_v2.txt": {
@@ -474,14 +794,14 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    15,
-    15
+    18,
+    12
    ],
    "t": [
-    95,
-    105
+    107,
+    82
    ]
   },
   "sim/decks/garlic_red.txt|sim/decks/piccolo_red_friend.txt": {
@@ -490,14 +810,14 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    17,
-    13
+    20,
+    10
    ],
    "t": [
-    91,
-    69
+    106,
+    51
    ]
   },
   "sim/decks/garlic_red.txt|sim/decks/trunks_red_draft.txt": {
@@ -506,14 +826,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    1,
-    29
+    4,
+    26
    ],
    "t": [
-    7,
-    144
+    22,
+    128
    ]
   },
   "sim/decks/garlic_red.txt|sim/decks/wheelo_black_v2.txt": {
@@ -522,14 +842,14 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    16,
-    14
+    19,
+    11
    ],
    "t": [
-    97,
-    97
+    108,
+    79
    ]
   },
   "sim/decks/krillin_black.txt|sim/decks/nail_black_v2.txt": {
@@ -538,14 +858,14 @@
     "f1ba9aae64"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    7,
-    23
+    4,
+    26
    ],
    "t": [
-    56,
-    188
+    31,
+    209
    ]
   },
   "sim/decks/krillin_black.txt|sim/decks/piccolo_red_friend.txt": {
@@ -554,14 +874,14 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    10,
-    20
+    8,
+    22
    ],
    "t": [
-    70,
-    134
+    54,
+    143
    ]
   },
   "sim/decks/krillin_black.txt|sim/decks/trunks_red_draft.txt": {
@@ -570,14 +890,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    8,
-    22
+    5,
+    25
    ],
    "t": [
-    59,
-    143
+    40,
+    155
    ]
   },
   "sim/decks/krillin_black.txt|sim/decks/wheelo_black_v2.txt": {
@@ -586,7 +906,7 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     15,
     15
@@ -602,14 +922,14 @@
     "7e5a6f4258"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    10,
-    20
+    2,
+    28
    ],
    "t": [
-    74,
-    130
+    14,
+    175
    ]
   },
   "sim/decks/nail_black_v2.txt|sim/decks/trunks_red_draft.txt": {
@@ -618,14 +938,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    1,
-    29
+    0,
+    30
    ],
    "t": [
-    9,
-    151
+    0,
+    159
    ]
   },
   "sim/decks/nail_black_v2.txt|sim/decks/wheelo_black_v2.txt": {
@@ -634,14 +954,14 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    17,
-    13
+    19,
+    11
    ],
    "t": [
-    134,
-    97
+    150,
+    88
    ]
   },
   "sim/decks/piccolo_red_friend.txt|sim/decks/trunks_red_draft.txt": {
@@ -650,14 +970,14 @@
     "e650a95306"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    6,
-    24
+    5,
+    25
    ],
    "t": [
-    27,
-    114
+    23,
+    110
    ]
   },
   "sim/decks/piccolo_red_friend.txt|sim/decks/wheelo_black_v2.txt": {
@@ -666,14 +986,14 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    28,
-    2
+    30,
+    0
    ],
    "t": [
-    163,
-    12
+    168,
+    0
    ]
   },
   "sim/decks/trunks_red_draft.txt|sim/decks/wheelo_black_v2.txt": {
@@ -682,158 +1002,190 @@
     "7538bbaa6b"
    ],
    "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
-    28,
-    2
+    27,
+    3
    ],
    "t": [
-    154,
-    15
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/nappa_saiyan_clench.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7ae220f0c2"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    5,
-    25
-   ],
-   "t": [
-    45,
-    183
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/trunks_orange_v5.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "4e8ec2ec78"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    1,
-    29
-   ],
-   "t": [
-    5,
-    131
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|decks/wheelo_blue_lockdown.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "9ed854e7da"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    7,
-    23
-   ],
-   "t": [
-    57,
-    197
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/garlic_red.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "46467ee6e3"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    176
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/krillin_black.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "db709b174e"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    8,
+    142,
     22
-   ],
-   "t": [
-    67,
-    159
    ]
   },
-  "decks/lord_slug_red_namek.txt|sim/decks/nail_black_v2.txt": {
+  "decks/lord_slug_red_namek.txt|decks/nail_namekian_knowledge.txt": {
    "h": [
     "cf49f5e6d7",
-    "f1ba9aae64"
+    "63aaa721b1"
    ],
    "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    5,
-    25
-   ],
-   "t": [
-    40,
-    201
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/piccolo_red_friend.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7e5a6f4258"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    6,
-    24
-   ],
-   "t": [
-    49,
-    159
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/trunks_red_draft.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "e650a95306"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
-   "w": [
-    0,
-    30
-   ],
-   "t": [
-    0,
-    134
-   ]
-  },
-  "decks/lord_slug_red_namek.txt|sim/decks/wheelo_black_v2.txt": {
-   "h": [
-    "cf49f5e6d7",
-    "7538bbaa6b"
-   ],
-   "g": 30,
-   "sh": "cc959c552674",
+   "sh": "a215a458767e",
    "w": [
     4,
     26
    ],
    "t": [
-    39,
-    205
+    41,
+    222
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|decks/nail_red_enraged.txt": {
+   "h": [
+    "63aaa721b1",
+    "da187bbf45"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    4,
+    26
+   ],
+   "t": [
+    32,
+    163
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|decks/nappa_saiyan_clench.txt": {
+   "h": [
+    "63aaa721b1",
+    "7ae220f0c2"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    17,
+    13
+   ],
+   "t": [
+    138,
+    95
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|decks/trunks_orange_v5.txt": {
+   "h": [
+    "63aaa721b1",
+    "4e8ec2ec78"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    0,
+    30
+   ],
+   "t": [
+    0,
+    181
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|decks/wheelo_blue_lockdown.txt": {
+   "h": [
+    "63aaa721b1",
+    "9ed854e7da"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    28,
+    2
+   ],
+   "t": [
+    226,
+    17
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/garlic_red.txt": {
+   "h": [
+    "63aaa721b1",
+    "46467ee6e3"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    4,
+    26
+   ],
+   "t": [
+    32,
+    163
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/krillin_black.txt": {
+   "h": [
+    "63aaa721b1",
+    "db709b174e"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    27,
+    3
+   ],
+   "t": [
+    220,
+    30
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/nail_black_v2.txt": {
+   "h": [
+    "63aaa721b1",
+    "f1ba9aae64"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    29,
+    1
+   ],
+   "t": [
+    248,
+    11
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/piccolo_red_friend.txt": {
+   "h": [
+    "63aaa721b1",
+    "7e5a6f4258"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    10,
+    20
+   ],
+   "t": [
+    69,
+    115
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/trunks_red_draft.txt": {
+   "h": [
+    "63aaa721b1",
+    "e650a95306"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    1,
+    29
+   ],
+   "t": [
+    7,
+    157
+   ]
+  },
+  "decks/nail_namekian_knowledge.txt|sim/decks/wheelo_black_v2.txt": {
+   "h": [
+    "63aaa721b1",
+    "7538bbaa6b"
+   ],
+   "g": 30,
+   "sh": "a215a458767e",
+   "w": [
+    25,
+    5
+   ],
+   "t": [
+    205,
+    46
    ]
   }
  }

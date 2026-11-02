@@ -109,6 +109,7 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `crit_threshold(p)` / `own_crit_threshold(p)` | the life-card count that counts as critical (against you / for your attacks) | number or `None` |
 | `on_advance(p)` | you advanced a level | nothing |
 | `on_rejuvenate(p)` | after you Rejuvenate | nothing |
+| `on_shuffle_in(p)` | one of your effects shuffled cards into your Life Deck (call `shuffle_into_deck(p, cards)` from the card's hook) | nothing |
 | `on_gain_stages(p, n)` | you gained `n` stages | nothing |
 | `on_card_discarded(p)` | one of your cards was discarded | nothing |
 | `on_play(p, opp, card)` | you perform an attack with `card` | nothing |

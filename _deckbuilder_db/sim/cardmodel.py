@@ -82,6 +82,8 @@ class Card:
         m = re.match(r'\s*AT ?\+ ?(\d+) life cards', s)
         if m: self.life_at, self.life = True, int(m[1])
         if re.match(r'\s*3 stages \+AT life', s): self.stage_flat, self.life_at, self.life = 3, True, 0
+        m = re.match(r'\s*AT life cards \+(\d+) stages', s)
+        if m: self.stage_flat, self.life_at, self.life = int(m[1]), True, 0     # Red Right Blast: AT life cards +4 stages
         m = re.match(r'\s*AT ?\+ ?\d+ stages and \+(\d+) life cards', s)
         if m: self.life = int(m[1])          # e.g. Saiyan Direct Strike: AT +3 stages and +2 life cards
         m = re.search(r'DAMAGE: (\d+) - X life cards', t)
@@ -118,6 +120,8 @@ class Card:
                 self.opp_lose_floor = self.opp_lose_floor or 'minimum of 0' in sent
         m = re.search(r'Rejuvenate (\d+)', head)
         self.rej = int(m[1]) if m else 0
+        m = re.match(r'\s*Rejuvenate (\d+)', hit)
+        self.rej_hit = int(m[1]) if m else 0          # 'HIT: Rejuvenate N' (only the plain form; conditional HIT text is not read)
         self.draw = 'Draw a card' in head
         self.banish_after = 'Banish after use' in t
         self.instant_entering = 'when entering combat' in low

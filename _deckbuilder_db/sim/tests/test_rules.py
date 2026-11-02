@@ -143,7 +143,7 @@ class Anger(unittest.TestCase):
 
 
 class NamekianKnowledge(unittest.TestCase):
-    """Approximation of Namekian Knowledge (shuffles into the Life Deck are not modelled)."""
+    """Namekian Knowledge: Rejuvenate and shuffle-into-Life-Deck effects in combat give anger; Namek balls mill; balls are protected."""
     def test_rejuvenate_in_combat_raises_anger_but_not_in_the_rejuvenation_step(self):
         g, a, b = game(spec('N', 'Nail', ['Watchful', 'Protector', 'Unflinching', 'Combat Ready'], 'Namekian Knowledge Mastery'))
         a.discard.append(a.deck.pop(0))
@@ -162,6 +162,97 @@ class NamekianKnowledge(unittest.TestCase):
             beh.on_ball_entered(a)
         self.assertEqual(len(b.deck), before - 1)
         self.assertTrue(any(beh.protect_balls(a) for beh in a.behaviors()))
+
+
+class NailDeckCards(unittest.TestCase):
+    NAIL = ['Watchful', 'Protector', 'Unflinching', 'Combat Ready']
+
+    def nail(self, mastery, filler='Red Energy Blast'):
+        return game(spec('N', 'Nail', self.NAIL, mastery, filler))
+
+    def card(self, p, name):
+        return Card(RECS[cid(name)])
+
+    def test_shuffle_into_life_deck_gives_knowledge_anger_once_per_effect(self):
+        g, a, b = self.nail('Namekian Knowledge Mastery')
+        a.discard.extend([self.card(a, 'Red Energy Blast') for _ in range(3)])
+        before = len(a.deck)
+        B.CARD_EXTRA['Namekian Crushing Slam']['immediate'](a, b, None)      # shuffles the top 2 cards of the discard pile
+        self.assertEqual(len(a.deck), before + 2)
+        self.assertEqual(a.anger, 1)
+        a.discard.extend([self.card(a, 'Red Energy Blast') for _ in range(2)])
+        B.CARD_EXTRA['Namekian Energy Guard']['defend'](a, b, None, None)    # top and bottom card: one effect, one anger
+        self.assertEqual(a.anger, 2)
+
+    def test_dashing_attacking_goes_back_into_the_life_deck_on_a_hit(self):
+        g, a, b = self.nail('Namekian Knowledge Mastery')
+        c = self.card(a, "Nail's Dashing Attacking")
+        a.hand.append(c)
+        a.stage = 10
+        a.attack(b, card=c)
+        self.assertNotIn(c, a.discard)
+        self.assertIn(c, a.deck)
+        self.assertGreaterEqual(a.anger, 1)       # Knowledge: the shuffle (plus any Rejuvenate) raised anger
+
+    def test_red_duck_rejuvenates_by_anger_and_chop_scales_with_anger(self):
+        g, a, b = self.nail('Red Enraged Mastery')
+        a.discard.extend([self.card(a, 'Red Energy Blast') for _ in range(5)])
+        a.anger = 3
+        deck = len(a.deck)
+        B.CARD_EXTRA['Red Duck']['defend'](a, b, None, None)
+        self.assertEqual(len(a.deck), deck + 3)
+        a.anger = 2
+        self.assertEqual(B.CARD_EXTRA['Red Chop']['base_stage'](a, b, None), 5)
+
+    def test_red_right_blast_draws_on_the_next_rejuvenate_of_either_player(self):
+        g, a, b = self.nail('Red Enraged Mastery')
+        B.CARD_EXTRA['Red Right Blast']['immediate'](a, b, None)
+        b.discard.append(b.deck.pop(0))
+        hand = len(a.hand)
+        b.rejuv(1)                                 # the opponent Rejuvenates: Right Blast's owner draws once
+        self.assertEqual(len(a.hand), hand + 1)
+        b.discard.append(b.deck.pop(0))
+        b.rejuv(1)                                 # only the NEXT time
+        self.assertEqual(len(a.hand), hand + 1)
+
+    def test_parser_reads_hit_rejuvenate_and_at_life_cards_plus_stages(self):
+        hurl = self.card(None, 'Red Hurl')                 # HIT: Rejuvenate 2
+        self.assertEqual((hurl.rej, hurl.rej_hit), (0, 2))
+        blast = self.card(None, 'Red Right Blast')         # DAMAGE: AT life cards +4 stages
+        self.assertEqual((blast.stage_flat, blast.life_at, blast.life), (4, True, 0))
+
+    def test_hit_rejuvenate_moves_cards_from_discard_to_life_deck(self):
+        g, a, b = self.nail('Red Enraged Mastery')
+        hurl = self.card(a, 'Red Hurl')
+        a.hand.append(hurl)
+        a.stage = 10
+        a.discard.extend([self.card(a, 'Red Energy Blast') for _ in range(4)])
+        before = len(a.deck)
+        b.hand.clear()                                     # nothing to stop it with
+        a.attack(b, card=hurl)
+        self.assertEqual(len(a.deck), before + 2)
+
+    def test_protective_posture_rejuvenates_itself_after_use(self):
+        g, a, b = self.nail('Namekian Knowledge Mastery', 'Namekian Protective Posture')
+        c = next(x for x in a.deck if x.name == 'Namekian Protective Posture')
+        a.deck.remove(c)
+        a.hand.append(c)
+        atk = Card(RECS[cid('Red Energy Blast')])
+        b.hand.append(atk)
+        b.stage = 10
+        before = len(a.deck)
+        b.attack(a, card=atk)
+        self.assertNotIn(c, a.discard)
+        self.assertEqual(len(a.deck), before + 1)
+        self.assertEqual(a.anger, 1)               # the Rejuvenate raised Knowledge anger
+
+    def test_namek_balls_search_for_planned_attack_and_dragon_radar(self):
+        g, a, b = self.nail('Namekian Knowledge Mastery')
+        a.deck.append(self.card(a, 'Namek Dragon Ball 3'))
+        a.deck.append(self.card(a, 'Namek Dragon Ball 5'))
+        B.CARD_EXTRA['Namekian Planned Attack']['hit'](a, b, None, 4)
+        B.CARD_EXTRA['Dragon Radar']['use'](a, b, None)
+        self.assertEqual(sorted(x.name for x in a.balls), ['Namek Dragon Ball 3', 'Namek Dragon Ball 5'])
 
 
 class Wheelo(unittest.TestCase):

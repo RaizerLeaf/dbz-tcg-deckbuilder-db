@@ -4,7 +4,7 @@ Built 2026-11-02 at the owner's request: "a Nail deck, 3 styles ranked, Namekian
 Decks: `decks/nail_red_enraged.txt` (the pick), `decks/nail_namekian_knowledge.txt` (the runner-up). Third option: `sim/decks/nail_black_v2.txt` (built earlier).
 All codes were written by `deckcode.py`, decode and re-encode exactly, and pass `deckcode.py check` (60 cards, limits, Named, Heroes-only). Style legality
 (Red or Namekian cards plus Freestyle, nothing else) was checked by script too, because `deckcode.py check` does not test it.
-**Not yet imported by the owner**, so the codes are not confirmed to load in the app.
+**Not yet imported by the owner**, so the codes are not confirmed to load in the app. Both decks are on the test-deck roster.
 
 ## What Nail rewards (Set 2 is the only legal printing set, so there is no level choice)
 | Level | Text | What it wants |
@@ -18,7 +18,7 @@ Nail is a Namekian-heritage MP (Namekian Masteries are legal). His Named cards: 
 HIT shuffles itself into the Life Deck) and Nail's Heritage (Limit 2). Allies named Nail are not allowed.
 
 ## Ranking (best to worst)
-Simulator numbers are the toy model's opinion under identical simple play (1,000 games, first player alternates), **not** predictions. Margins under about 5 points are noise.
+The table below is the **first, head-to-head pass** (1,000 games each, before the roster existed and before the Nail cards were modelled further); the roster playtest section after it is the current evidence. Simulator numbers are the toy model's opinion under identical simple play, **not** predictions.
 | | Style / Mastery | vs friend's Red Piccolo (MPPV benchmark) | vs Black Nail | vs Namekian Nail |
 |---|---|---|---|---|
 | **1** | **Red, Red Enraged** (`nail_red_enraged`) | **64%** | 75% | 91% |
@@ -61,10 +61,36 @@ Not built or simulated (judgement only): Orange (Drills are discarded on every l
 - **Attacks that raise anger or give critical effects:** Nail's Dashing Attacking x3, Red Frenzied Blasts x3, Red Static Shot x3, Red Surrounded Beams x2, Red Hurl x2, Red Right Blast x2,
   Red Driving Knee x3, Red Shoulder Grab x3, Red Double Strike x3, Red Chop x3, Red Right Cross x2, Red Jab x2, Red Mule Kick x1.
 
-## Simulator limits to quote with these numbers (`python -m sim coverage <deck>`)
-- Red Nail: 83% of card sentences modelled. Not modelled: Red Chop's X, Red Duck's Rejuvenate X, Red Right Blast's draw, Static Shot's no-Endurance rule, Double Strike's second use, Relaxation's draw, Repel's stage loss.
-- Namekian Nail: Knowledge is only approximated (above); Allies and many Namekian ball searches are not modelled.
-- Both sides follow one simple priority list; secondary effects are mostly ignored. A matchup the model calls lopsided is not evidence of a play mistake.
+## Roster playtest (current; after merging `main`, 20 games per roster deck, first player alternates)
+Win rate of the Nail deck / how its wins and losses ended. Samples of 20 are about +/-20 points per row; the overall line is the better guide.
+| Opponent | Red Enraged Nail | Namekian Knowledge Nail |
+|---|---|---|
+| Orange Trunks V5 | 8/20 (wins by MPPV 8; loses to Survival 11) | 3/20 |
+| Red Trunks Draft | 4/20 (loses to MPPV 16) | 0/20 (loses to MPPV 20) |
+| Nappa Saiyan Clench | 11/20 (MPPV 11) | 7/20 (MPPV 3, Survival 4) |
+| Friend's Red Piccolo | 14/20 (MPPV 14) | 5/20 (MPPV 2, Survival 3) |
+| Nail Black Devious | 17/20 (MPPV 14, Survival 3) | 19/20 (MPPV 5, Survival 14) |
+| Red Garlic Jr. | 10/20 (MPPV 10) | 6/20 (MPPV 2, Survival 4) |
+| Black Krillin | 13/20 (MPPV 3, Survival 10) | 18/20 (all Survival) |
+| Wheelo Black mill | 12/20 (MPPV 10, Survival 2) | 15/20 (MPPV 3, Survival 12) |
+| Wheelo Blue Lockdown | 17/20 (MPPV 1, Survival 16) | 19/20 (all Survival) |
+| Lord Slug Red Namek | 19/20 (MPPV 19) | 17/20 (MPPV 7, Survival 10) |
+| **Overall (200 games)** | **62%** | **54%** |
+Round-robin rank on the 12-deck roster (30 games per pair): Red Enraged Nail **3rd (64%)**, Namekian Knowledge Nail **6th (52%)**, Nail Black Devious 8th (35%). Both new decks joined the roster.
+The ranking holds. Red wins by MPPV on its 5th-6th turn and loses clearly only to Red Trunks (4/20), and is about even with Orange Trunks V5 (8/20), Garlic Jr. (10/20) and Nappa (11/20); Namekian mostly wins by **Survival** (mill) around turn 8 and is the better deck against the slow mill/lock decks (Krillin, Wheelo, Black Nail), but is run over by anything that wins by MPPV before turn 7.
+
+## What I added to the simulator for these decks
+- `Namekian Knowledge Mastery`: Rejuvenate in combat raises anger 1; each effect that shuffles cards into your Life Deck raises anger 1 (new hook `on_shuffle_in` + helper `shuffle_into_deck`); a Namek Dragon Ball entering play destroys the opponent's top card; balls cannot be captured.
+- Cards: Nail's Dashing Attacking (HIT: shuffles itself into the Life Deck), Red Duck (Rejuvenate X = anger), Red Chop (3 + X stages), Red Right Blast (the next Rejuvenate by either player lets its owner draw), Red Static Shot (no Endurance), Red Repel (opponent loses 1 stage),
+  Namekian Chop (HIT anger = balls), Planned Attack and Dragon Radar (find a ball), Energy Guard, Crushing Slam, Hybrid Defense (Rejuvenate = level), Regeneration, Overtime, Protective Posture (Rejuvenates itself after use), Android Headbutt.
+- Two parser fixes that affect other decks: `HIT: Rejuvenate N` was never applied (Red Hurl, Chin Grab, Energy Toss, Focused Beams, Lord Slug's Level 1 attack and a few Saiyan cards), and `DAMAGE: AT life cards +N stages` (Red Right Blast) dealt nothing. This is why every roster deck was re-ranked.
+- 8 new rule tests in `sim/tests/test_rules.py`; the guide's hook table has the new `on_shuffle_in` row.
+
+## Simulator limits to quote (`python -m sim coverage <deck>`)
+- Red Nail: **93% modelled**. Not modelled: Red Double Strike's second use (x3), Red Jab's pay-3-stages option, Red Mule Kick, Red Relaxation's draw from the discard pile, Red Surrounded Beams' "cannot be stopped when it advances you".
+- Namekian Nail: **94% modelled**. Not modelled: Devastating Blow's banish, Namekian Cover's stage gain (needs Earth balls, so 0 here anyway), Focused Beams' banish when stopped, Onslaught's second use. Allies are not simulated.
+- Simplifications: Static Shot's no-Endurance rule is applied to all attacks of that player (every attack in the Red list is Styled, so it matches); "raise or lower a player's anger" (Android Headbutt) always raises the user's own anger; HIT: Rejuvenate is read only in the plain form.
+- Both sides follow one simple priority list; secondary effects are mostly ignored. 20 games per opponent is a rough read. A matchup the model calls lopsided is not evidence of a play mistake.
 
 ## Open questions (unverified)
 - Does Nail's Level 3 anger raise happen when no Dragon Ball is returned or placed? (Read as yes.)

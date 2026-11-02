@@ -183,8 +183,8 @@ Things to know:
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
-| `decks/nail_red_enraged.txt` | Nail, Red, Red Enraged | anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`. Not imported yet |
-| `decks/nail_namekian_knowledge.txt` | Nail, Namekian, Namekian Knowledge | Rejuvenate/Namek-ball build, second pick; slower. Not imported yet |
+| `decks/nail_red_enraged.txt` | Nail, Red, Red Enraged | anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`; on the roster (3rd of 12, 64%). Not imported yet |
+| `decks/nail_namekian_knowledge.txt` | Nail, Namekian, Namekian Knowledge | Rejuvenate/Namek-ball build, second pick; wins mostly by Survival (mill) around turn 8; on the roster (6th of 12, 52%). Not imported yet |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
 
 ## Deck code format (from the owner's web app)

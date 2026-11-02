@@ -20,6 +20,7 @@ class Behavior:
     def on_crit_damage(self, p, opp): pass
     def on_advance(self, p): pass
     def on_rejuvenate(self, p): pass
+    def on_shuffle_in(self, p): pass
     def on_gain_stages(self, p, n): pass
     def on_card_discarded(self, p): pass
     def on_play(self, p, opp, card): pass
@@ -148,9 +149,10 @@ class RedEnraged(Behavior):
 
 @mastery('Namekian Knowledge Mastery')
 class NamekianKnowledge(Behavior):
-    """Approximation. Rejuvenate effects during combat raise anger 1 (shuffling cards into the Life Deck is NOT modelled);
+    """Rejuvenate effects during combat and effects that shuffle cards into your Life Deck (shuffle_into_deck) raise anger 1;
     a Namek Dragon Ball entering play destroys the opponent's top card; Dragon Balls cannot be captured."""
     def on_rejuvenate(self, p): p.raise_anger(1)
+    def on_shuffle_in(self, p): p.raise_anger(1)     # "shuffles cards into your Life Deck", via shuffle_into_deck()
 
     def on_ball_entered(self, p):
         if p.balls and p.balls[-1].name.startswith('Namek ') and p.opp is not None:
@@ -982,6 +984,66 @@ def _revival_leaves(p, c):
 
 
 CARD_LEAVE_DECK["Dr. Wheelo's Revival"] = _revival_leaves
+
+
+# ---- Nail decks (Red Enraged / Namekian Knowledge): cards whose effects the parser cannot read ------------------------
+def shuffle_into_deck(p, cards):
+    """Cards go into the owner's Life Deck and it is shuffled: ONE 'shuffle into your Life Deck' effect (Namekian Knowledge triggers once)."""
+    cards = [c for c in cards if c is not None]
+    if not cards:
+        return
+    p.deck.extend(cards)
+    p.rng.shuffle(p.deck)
+    for b in p.behaviors():
+        b.on_shuffle_in(p)
+
+
+def _dashing_attacking_hit(p, o, c, removed):
+    c.keep = True                                   # HIT: shuffle this card into your Life Deck (it does not go to the discard pile)
+    shuffle_into_deck(p, [c])
+
+
+def _energy_guard(p, atk, x, c):                    # shuffle the top and bottom cards of your discard pile into your Life Deck
+    cards = []
+    if p.discard:
+        cards.append(p.discard.pop())
+    if p.discard:
+        cards.append(p.discard.pop(0))
+    shuffle_into_deck(p, cards)
+
+
+def _crushing_slam(p, o, c):                        # shuffle the top 2 cards of your discard pile into your Life Deck
+    shuffle_into_deck(p, [p.discard.pop() for _ in range(min(2, len(p.discard)))])
+
+
+def _find_ball(p, o, c, removed=0):
+    fetch_from_deck(p, lambda x: x.ctype == 'Dragon Ball', 'ball')
+
+
+def _overtime(p, o, c):                             # (Rejuvenate 1 is parsed) destroy X = balls you control, search a Styled Energy Combat card
+    p.destroy_opp(len(p.balls))
+    fetch_from_deck(p, lambda x: x.ctype == 'Energy Combat' and x.style == p.styled())
+
+
+# Red
+_x('Red Duck', defend=lambda p, atk, x, c: p.rejuv(p.anger) if p.anger else None)               # Rejuvenate X, X = current anger
+_x('Red Chop', base_stage=lambda p, o, c: 3 + p.anger)                                           # 3 + X stages, X = current anger (after its own +1)
+_x('Red Right Blast', immediate=lambda p, o, c: p.cb.update(rj_draw=True))                      # next Rejuvenate by either player this combat: draw 1 (engine: Player.rejuv)
+_x('Red Static Shot', immediate=lambda p, o, c: p.cb.update(noend=True))                        # UNVERIFIED simplification: applies to all my attacks, not only Styled ones
+_x('Red Repel', defend=lambda p, atk, x, c: atk.lose_stages(1))
+# Nail
+_x("Nail's Dashing Attacking", hit=_dashing_attacking_hit)
+# Namekian
+_x('Namekian Chop', hit=lambda p, o, c, r: p.raise_anger(len(p.balls)) if p.balls else None)    # HIT: raise anger X, X = Dragon Balls you control
+_x('Namekian Planned Attack', hit=_find_ball)                                                   # HIT: search for a Dragon Ball and place it into play
+_x('Dragon Radar', use=_find_ball, can_use=lambda p, o, c: any(x.ctype == 'Dragon Ball' for x in p.deck))
+_x('Namekian Energy Guard', defend=_energy_guard)
+_x('Namekian Crushing Slam', immediate=_crushing_slam)
+_x('Namekian Hybrid Defense', defend=lambda p, atk, x, c: p.rejuv(p.level))                     # Rejuvenate X cards, X = your MP's level
+_x('Namekian Regeneration', use=lambda p, o, c: p.rejuv(4), can_use=lambda p, o, c: len(p.discard) >= 2)
+_x('Namekian Protective Posture', rejuv_self=True)                                              # Rejuvenate this card after use (engine: Player.defend)
+_x('Namekian Overtime', use=_overtime)
+_x('Android Headbutt', immediate=lambda p, o, c: p.raise_anger(1))                              # "raise or lower a player's anger 1": the AI raises its own
 
 
 # =================================================================================================================
