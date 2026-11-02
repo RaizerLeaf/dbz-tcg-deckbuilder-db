@@ -90,6 +90,21 @@ def build_parts():
             'masteries': mast, 'cards': {s: bp.style_file(s, by[s]) for s in bp.STYLES}}
 
 
+def single_file(data, parts):
+    """One self-contained HTML file (no server, works from disk): css, js and data inlined."""
+    def safe(js):
+        return js.replace('</', '<\\/')
+    html = (HERE / 'site' / 'index.html').read_text(encoding='utf-8')
+    css = (HERE / 'site' / 'style.css').read_text(encoding='utf-8')
+    core = (HERE / 'site' / 'core.js').read_text(encoding='utf-8')
+    app = (HERE / 'site' / 'app.js').read_text(encoding='utf-8')
+    inline = 'window.DBZ_INLINE = ' + safe(json.dumps({'cards': data, 'parts': parts}, ensure_ascii=False, separators=(',', ':'))) + ';'
+    html = html.replace('<link rel="stylesheet" href="style.css">', '<style>\n' + css + '</style>')
+    html = html.replace('<script src="core.js"></script>', '<script>\n' + inline + '\n</script>\n<script>\n' + safe(core) + '\n</script>')
+    html = html.replace('<script src="app.js"></script>', '<script>\n' + safe(app) + '\n</script>')
+    return html
+
+
 def main(out=None):
     OUT = Path(out) if out else GLOBAL_OUT
     OUT.mkdir(parents=True, exist_ok=True)
@@ -102,6 +117,7 @@ def main(out=None):
     for f in ('index.html', 'app.js', 'core.js', 'style.css'):
         shutil.copyfile(HERE / 'site' / f, OUT / f)
     (OUT / '.nojekyll').write_text('', encoding='utf-8')
+    (OUT / 'deck-helper.html').write_text(single_file(data, parts), encoding='utf-8')
     with tempfile.TemporaryDirectory() as t:
         bp.build(outdir=t)
         shutil.copyfile(Path(t) / 'deckbuilder_pack.md', OUT / 'packs' / 'deckbuilder_pack_full.md')

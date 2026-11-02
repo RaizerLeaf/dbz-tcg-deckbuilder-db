@@ -33,7 +33,7 @@ and, usually, file uploads (limits unknown to us: check the current free-plan li
 4. Paste the list into the checker (Phase 1: `list_to_code.py`, Phase 2: the web page). Fix whatever it reports, copy the deck code into the deck-builder web app.
 
 ## Decisions needed from the owner
-- Public hosting: the owner said fine. The card **images** stay out of `docs/`.
+- Public hosting: the owner said fine, but the repository is private and Pages needs a public one (or a paid plan). So: single-file page, a separate public repo with only `docs/`, or a free static host (see README). The card **images** stay out of `docs/`.
 - Maintenance (owner unsure): regenerate with `python friends/build_site.py`; a test fails if `docs/` is stale. An optional GitHub Action could automate it (needs OK: it lives outside `_deckbuilder_db/`).
 - Is the card-pool scope PanZ (Sets 1-7) only for friends too? The builder assumes yes; FanZ is a later TODO like the simulator.
 - Do friends need to know the owner's deck-building defaults (Time Is A Warrior's Tool, 2+ Confrontation / Stare Down)? They are in the prompt now.

@@ -72,6 +72,7 @@
     $('copy-pack').addEventListener('click', (e) => copy(currentPack(), e.target));
     $('dl-pack').addEventListener('click', () => download('deckbuilder_pack' + ($('mp').value ? '_' + $('mp').value.replace(/\W+/g, '_') : '') + '.md', currentPack()));
     $('copy-starter').addEventListener('click', (e) => copy($('starter').textContent, e.target));
+    $('full-pack').addEventListener('click', () => download('deckbuilder_pack_full.md', DBZ.buildPack(parts, null, [])));
     refreshPack();
   }
 
@@ -141,11 +142,13 @@
   }
 
   tabs.forEach((t) => $('t-' + t).addEventListener('click', () => show(t)));
-  Promise.all([fetch('data/cards.json').then((r) => r.json()), fetch('data/pack_parts.json').then((r) => r.json())]).then((r) => {
+  const loaded = window.DBZ_INLINE ? Promise.resolve([window.DBZ_INLINE.cards, window.DBZ_INLINE.parts])
+    : Promise.all([fetch('data/cards.json').then((r) => r.json()), fetch('data/pack_parts.json').then((r) => r.json())]);
+  loaded.then((r) => {
     data = r[0]; parts = r[1];
     data_ = new DBZ.Data(data);
     initPack(); initCheck(); initBrowse();
   }).catch((e) => {
-    document.querySelector('main').insertBefore(el('p', { class: 'err', text: 'Could not load the card data (' + e + '). If you opened this file from disk, serve the folder with a local web server or use the hosted page.' }), document.querySelector('main').firstChild);
+    document.querySelector('main').insertBefore(el('p', { class: 'err', text: 'Could not load the card data (' + e + '). If you opened index.html from disk, use deck-helper.html instead (it works from disk) or serve the folder with a local web server.' }), document.querySelector('main').firstChild);
   });
 })();

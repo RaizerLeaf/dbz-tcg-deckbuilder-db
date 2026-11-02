@@ -70,6 +70,17 @@ class Parity(unittest.TestCase):
                 self.assertEqual(text, (Path(t) / 'deckbuilder_pack.md').read_text(encoding='utf-8'), (mp, styles))
 
 
+class SingleFile(unittest.TestCase):
+    def test_single_file_page_is_self_contained(self):
+        html = (ROOT / 'docs' / 'deck-helper.html').read_text(encoding='utf-8')
+        self.assertIn('window.DBZ_INLINE', html)
+        self.assertNotIn('src="core.js"', html)
+        self.assertNotIn('href="style.css"', html)
+        import re
+        self.assertEqual(re.findall(r'<script[^>]*\ssrc=', html), [])
+        self.assertEqual(re.findall(r'<link[^>]*\shref=', html), [])
+
+
 class Fresh(unittest.TestCase):
     def test_docs_match_the_sources(self):
         """Fails when cards.json / the site sources changed but `python friends/build_site.py` was not re-run."""
