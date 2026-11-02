@@ -35,6 +35,11 @@ Items marked **(unverified)** are inferences. Everything else is from `work/crd/
   "Considered Named for your effects" cards (Pesky Barrage, Black Back Strike) have `is_named` but no `named_character` and are legal in any deck.
 - `restrictions` holds `Heroes` / `Villains` / `<Mastery name>`; every "(Heroes only)" / "(Villains only)" card has one (checked: 0 missing).
 - Use `text_current` if present, else `text_as_printed`. Use `card_type_current` if present.
+- **Allies share names.** Two different Vegeta Allies (Set 2 "(Villains only) +2 stages with Nappa", Set 4 Goku-only), three Cell Jr. Allies, several Allies per name in the app. When grouping printings by `card_name`,
+  also compare the text, or you will merge different cards. `deckcode.py` does this (`app_printing`).
+- **Which CRD is the PanZ one?** `work/crd/panz.txt` is the Panini CRD (PanZ era, the owner's default). `fanz.txt` is the FanZ CRD: its errata can be PanZ-era (the MRP printing is in Sets 1-7),
+  or a later FanZ rewrite (an extra "FanZ Updated Text", MRP in Set 8+). Before trusting a wording as current, check that the Panini CRD or a Set 1-7 image shows it. A Panini CRD "Treat this card as if it reads" line is the PanZ-era wording.
+- **The app only knows each card by its first printing** (see section 4 and `DECKBUILDING_NOTES.md`); `scripts/deckcode.py` does this for you. Pool queries should still read `deckcode.text(c)` (current text, label stripped).
 - Evolution P9 / P10 (Blue Guard, Namekian Mouth Beam) never came out and have no records; ignore CRD MRP pointers to them.
 - The latest print wins: `text_current` already carries the most recent printing's wording (a real Set 1-7 image printing "(Most Recent Printing)" counts, even if the CRD does not list the card). Never read an older printing's printed text.
 - Re-running the pipeline: pass `--out work/full` exactly. `--out ../work/full` writes a `work/` folder outside `_deckbuilder_db/` (this happened once and was removed).
@@ -95,5 +100,9 @@ decks being compared; both sides follow the same simple priority list; secondary
 ## 7. Open questions
 - Does "once per turn" count the defender's turn separately for Powers?
 - Does a doubling effect like Trunks' Dashing apply to anger raised by a Mastery trigger (Red Enraged)? The simulator assumed yes.
-- What the "(Awakening)" qualifier in an MP name means to the app.
+- What the "(Awakening)" qualifier in an MP name means to the app. Nappa and Wheelo codes use the plain MP name; whether the app accepts them for every MP is only confirmed for Wheelo ("Dr. Wheelo").
+- What the app plays when a code has **no MP printings field** (the friend's second Piccolo code has none; probably each level's first printing, i.e. Stoic).
+- Saiyan Clench ("your attacks that do not have AT base damage have their power stage damage doubled"): is the doubling applied before or after +stage modifiers (Level 4's +4, Vegeta's +2, Enjoyment)? Can Overpowering Aura Drill / Saiyan Body Blow
+  ("a card that can attach to your MP") fetch it? Does Saiyan Dive's "Endurance is considered 10 for your card effects" count as X for Saiyan Rampaging's Power (an 11-stage attack)? How many Saiyans does Turles count under PanZ rulings?
+- Nappa Level 4 "if your opponent's MP's power level is 0, your attacks cannot have their damage prevented": is it checked once when the attack is performed or again as damage resolves? (Assumed: when performed.)
 - Simulation covers PanZ (Sets 1-7) only. FanZ-era simulation is deferred (see `sim/README.md`, Scope).

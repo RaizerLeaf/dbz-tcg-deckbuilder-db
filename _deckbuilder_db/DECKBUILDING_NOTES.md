@@ -94,6 +94,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Wheelo L2 mills 1 per stop, which Protective's Power and Blue's stops feed. Black keeps its mill and can add anti-anger cards instead (Black Choke, Impediment,
   Easy Block, Corruption, Extreme Blast). Wheelo has no MPPV engine past L1 (L1 sets anger to 3; L2-L4 give none) and tiny power levels, so a "faster MPPV"
   build is not recommended. Protective, "your opponent destroys" and Wall Breaker rulings: see Mechanics confirmed by the owner.
+  Mill numbers with the confirmed "your opponent destroys" ruling, at Level 4 (+2): Blue Slash 6 -> 8 (9 with Cell Jr. AW-U76, 10 with Blue Challenging Strike up), Blue Biting Drill 1 -> 3,
+  Dr. Wheelo's History 3 -> 5. Option 2 (keep Black's mill and add Black Choke / Impediment / Easy Block / Extreme Blast and Villainous Energy Beam / Power Ball) was described but **not built**.
 - **Trunks** (Hero; four sets of levels, mix freely): Premiere Inquisitive/Resolved/Energy Charged/Young Super Saiyan (reorder the top of a Life Deck on entering combat, Energy Charged draws);
   Evolution Returned/**Swordmaster** (free 8-stage physical attack if you have not attacked from hand)/**Defiant** (fetch a Styled or Sword attack from your discard pile, opponent skips an action)/**Overpowering** (+5 stages on every attack);
   Set 6 **Protective** (Level 1 only; Drills are not discarded when you advance from it, Sword cards Rejuvenate 1, fetches a non-Styled Drill);
@@ -122,6 +124,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   non-AT attacks, and Nappa's L4 top power (24,000) meets its 500,000 cap. First deck: Saiyan Rampaging (4 anger to level; its Power turns an Endurance card
   into a 1+X stage attack). **(unverified)** Saiyan Dive's "Endurance considered 10" counts for Rampaging's X; Clench doubles before or after +stage modifiers;
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
+  Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
+  Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
@@ -134,7 +138,11 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 | `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | Earth balls (see the Namek-set advice above); not confirmed in the app |
 | `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
 | `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
-The Nappa and Wheelo Blue decks are in `decks/` (built by another chat).
+`decks/` (built in a cloud session, deck codes written by `deckcode.py`):
+| File | MP / style / Mastery | Status |
+|---|---|---|
+| `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **the final code (first-printing fix) was not reported back as imported**; the first two attempts failed (see Deck code format) |
+| `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated. Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
