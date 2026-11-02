@@ -3,6 +3,11 @@
 A reusable simulator for matching two decks from this repository. It replaces the throw-away scripts that were rewritten for every
 matchup. **It is a coarse model, not the official rules engine.** Read "What the numbers mean" before quoting a result.
 
+## Scope: PanZ era only (Sets 1-7)
+The simulator only supports PanZ-era cards (Sets 1-7, Panini rulings, Frozen list ignored). Decks that contain FanZ cards (Sets 8+, PZP/OP promos) are rejected by
+`loader.py` with an error. **TODO (later): add FanZ simulation** - FanZ rulings and CRD errata, FanZ keywords (Foresee, Remain, Focused, Warning and similar), the Trait
+system, the FanZ legality rules and the Frozen list, and behaviors for FanZ MPs and Masteries. Nothing in the engine assumes FanZ rules yet.
+
 ## Quick start (run from `_deckbuilder_db/`)
 ```
 python -m sim run  sim/decks/wheelo_black_v2.txt sim/decks/piccolo_red_friend.txt -n 1000   # win rates, alternating who goes first
@@ -59,5 +64,5 @@ Always run `coverage` for both decks and quote its warnings next to the result.
 4. Re-run the regression decks and compare with the numbers above.
 
 ## Roadmap
-Allies; second-use attacks; Red Ascension, Blue Protective, Black Perceptive and Conflict, Saiyan Masteries; Drill powers; a smarter AI (holding cards, defending only when it
+FanZ-era support (explicitly deferred, see Scope); Allies; second-use attacks; Red Ascension, Blue Protective, Black Perceptive and Conflict, Saiyan Masteries; Drill powers; a smarter AI (holding cards, defending only when it
 matters, using Setups before combat); an optional real-game log import to calibrate the model against the owner's results.

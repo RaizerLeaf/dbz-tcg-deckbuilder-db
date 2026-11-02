@@ -161,6 +161,18 @@ class Wheelo(unittest.TestCase):
         self.assertEqual(n0 - len(b.deck), 2)
 
 
+class Scope(unittest.TestCase):
+    def test_fanz_cards_are_rejected(self):
+        from sim.loader import load
+        import sys
+        sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / 'scripts'))
+        import deckcode as dc
+        fan = next(c for c in all_records() if c.get('era') == 'FanZ' and c['set_number'] and c['set_number'] > 7)
+        self.assertGreater(fan['set_number'], 7)           # deckcode cannot even encode these, so the guard is a second line of defence
+        with self.assertRaises(ValueError):
+            dc.card_code(fan)
+
+
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):
         a = spec('A', 'Piccolo', ['Stoic', 'Combat Stance', 'Unleashed', 'Fused'], 'Red Enraged Mastery', 'Red Energy Blast')

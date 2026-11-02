@@ -96,3 +96,4 @@ decks being compared; both sides follow the same simple priority list; secondary
 - Does "once per turn" count the defender's turn separately for Powers?
 - Does a doubling effect like Trunks' Dashing apply to anger raised by a Mastery trigger (Red Enraged)? The simulator assumed yes.
 - What the "(Awakening)" qualifier in an MP name means to the app.
+- Simulation covers PanZ (Sets 1-7) only. FanZ-era simulation is deferred (see `sim/README.md`, Scope).

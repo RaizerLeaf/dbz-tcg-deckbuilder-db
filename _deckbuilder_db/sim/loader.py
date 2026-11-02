@@ -43,6 +43,10 @@ def load(arg, no_mppv=False):
         raise ValueError(f"cannot identify the MP for {d['mp_name']!r}; give an explicit printings field in the code")
     levels = d['mp_levels'] or default_levels(dc, g)
     recs = records_by_id()
+    used = list(levels) + [d['mastery']] + list(d['cards'])
+    fanz = sorted({recs[i]['card_name'] for i in used if recs[i].get('era') != 'PanZ' or not recs[i]['set_number'] or recs[i]['set_number'] > 7})
+    if fanz:
+        raise ValueError('FanZ-era cards are not supported by the simulator yet (PanZ Sets 1-7 only): ' + ', '.join(fanz))
     ids = []
     for cid, n in d['cards'].items():
         ids += [cid] * n
