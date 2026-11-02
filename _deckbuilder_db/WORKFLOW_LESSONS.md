@@ -65,6 +65,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - Hosting: private repos cannot use Pages on the free plan. The owner made the repo public (images and all) and serves `/docs` from `main`. `docs/deck-helper.html` is a one-file fallback.
 
 ## Simulator: how to use it honestly
+- Deck building uses `python -m sim playtest <deck>` (against the 10-deck roster, 50 games per opponent at most), then `python -m sim roster add <deck>`. `sim/roster.json` can conflict when two chats add decks at once: resolve by re-running `python -m sim roster rebuild`.
 - `python -m sim run A B -n 1000` for win rates, `bo3`/`game` for the play log, `coverage` for what is **not** modelled. Quote the coverage warnings with any result.
 - It reproduces the earlier numbers (Wheelo V2 vs the friend's Red Piccolo about 16% for Wheelo; Red Trunks vs Orange Trunks V4 about 61% for Red). A change that moves them needs an explanation.
 - A win rate here is the model's opinion under identical simple play, not a prediction of how a person would do. A loss in a matchup the model calls lopsided is not evidence of a play mistake.

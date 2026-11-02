@@ -1,0 +1,107 @@
+{
+ "max": 10,
+ "games_per_pair": 30,
+ "decks": [
+  {
+   "file": "decks/trunks_orange_v5.txt",
+   "name": "Orange Trunks V5",
+   "mp": "Trunks",
+   "mastery": "Orange Retribution Mastery",
+   "win_pct": 83.0,
+   "avg_turn_of_wins": 5.1
+  },
+  {
+   "file": "sim/decks/trunks_orange_v3.txt",
+   "name": "Orange Trunks V3",
+   "mp": "Trunks",
+   "mastery": "Orange Retribution Mastery",
+   "win_pct": 80.3,
+   "avg_turn_of_wins": 5.2
+  },
+  {
+   "file": "sim/decks/trunks_orange_v4.txt",
+   "name": "Orange Trunks V4",
+   "mp": "Trunks",
+   "mastery": "Orange Retribution Mastery",
+   "win_pct": 79.3,
+   "avg_turn_of_wins": 5.1
+  },
+  {
+   "file": "sim/decks/trunks_red_draft.txt",
+   "name": "Red Trunks Draft",
+   "mp": "Trunks",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 77.7,
+   "avg_turn_of_wins": 5.2
+  },
+  {
+   "file": "sim/decks/piccolo_red_friend.txt",
+   "name": "redder Pic 1.0",
+   "mp": "Piccolo",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 51.0,
+   "avg_turn_of_wins": 6.2
+  },
+  {
+   "file": "sim/decks/nail_black_v2.txt",
+   "name": "Naaaiiillv2",
+   "mp": "Nail",
+   "mastery": "Black Devious Mastery",
+   "win_pct": 36.7,
+   "avg_turn_of_wins": 7.7
+  },
+  {
+   "file": "decks/wheelo_blue_lockdown.txt",
+   "name": "Wheelo Blue Lockdown",
+   "mp": "Dr. Wheelo",
+   "mastery": "Blue Protective Mastery",
+   "win_pct": 35.7,
+   "avg_turn_of_wins": 8.3
+  },
+  {
+   "file": "sim/decks/garlic_red.txt",
+   "name": "Red Garlic Jr",
+   "mp": "Garlic Jr.",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 33.7,
+   "avg_turn_of_wins": 6.2
+  },
+  {
+   "file": "sim/decks/wheelo_black_v2.txt",
+   "name": "WHEELO MILL V2",
+   "mp": "Dr. Wheelo",
+   "mastery": "Black Devious Mastery",
+   "win_pct": 33.0,
+   "avg_turn_of_wins": 7.3
+  },
+  {
+   "file": "sim/decks/krillin_black.txt",
+   "name": "Black Krillin",
+   "mp": "Krillin",
+   "mastery": "Black Devious Mastery",
+   "win_pct": 32.7,
+   "avg_turn_of_wins": 7.5
+  }
+ ],
+ "retired": [
+  {
+   "file": "sim/decks/lord_slug_red_v3.txt",
+   "name": "RED SLUG V3",
+   "mp": "Lord Slug",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 7.0,
+   "avg_turn_of_wins": 8.2
+  }
+ ],
+ "skipped_unmodelled": [
+  {
+   "file": "decks/nappa_saiyan_clench.txt",
+   "unmodelled": [
+    "L1 Rested",
+    "L2 Smirking",
+    "L3 Overconfident",
+    "L4 Enraged"
+   ]
+  }
+ ]
+}
