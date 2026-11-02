@@ -32,6 +32,8 @@ images in this repository. Original images are never modified; all output goes i
 
 10. `python qa.py` (Phase 5): consistency checks, adds `qa_flags` to the records and writes `qa_report.md`
 
+Deck codes: `scripts/deckcode.py` encodes, decodes and legality-checks the owner's web-app deck codes (format in `DECKBUILDING_NOTES.md`).
+
 ## Output files (current)
 - `cards.json`, `cards.csv`: one record per image except the 14 excluded overlay promos (3,092 records; see `excluded_cards.json`). Fields are those in BRIEF.md plus: `stage_cost`,
   `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`

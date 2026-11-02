@@ -76,9 +76,16 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
 
 ## Deck code format (from the owner's web app)
-`D1.<name>.<MP name>.<Mastery>[.<MP printings>].<card>.<card>...`
-- Names are URL-encoded (`%20`). Cards are `<set prefix>-<card number>`, `*N` for N copies, sorted as plain text.
-- Set prefixes: none = Set 1, `HV` 2, `MC` 3, `EV` 4, `PF` 5, `VG` 6, `AW` 7.
-- Optional MP printings field: `_<L1>_<L2>_<L3>_<L4>`, one printing per level.
-- **(unverified)** Set 7 deck-reveal cards appear as `S<n>` where `cards.json` numbers them `DR<n>` (e.g. `AW-S10` = `DR10`).
+**Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
+owner's three sample codes, Broly / Piccolo / Trunks, whose decoded lists matched the app's screenshots).
+`D1.<name>.<MP name>.<Mastery>[._<L1>_<L2>_<L3>_<L4>].<card>.<card>...`
+- Names are URL-encoded (`%20`, `.` as `%2E`, `(` `)` as `%28` `%29`). Cards are `*N` for N copies, sorted as plain text.
+- Every card, the Mastery and the MP printings included, is `<set prefix>-<printed number>` **with the rarity letter**: `C58`, `HV-C137`,
+  `MC-R125`, `EV-S11`, `UR162`. Set prefixes: none = Set 1, `HV` 2, `MC` 3, `EV` 4, `PF` 5, `VG` 6, `AW` 7.
+- The Mastery is a card number, not a name (`S25` = Saiyan Empowered, `S27` = Red Enraged).
+- Set 7 DR cards are `S<n>` (`AW-S10` = Orange Retribution Mastery DR10, confirmed by the owner's Trunks code).
+- The MP printings field is optional (the Broly code has none).
+- The app's MP name can carry a qualifier (`Trunks (Awakening)`); what it means is not known yet.
+- Prefer booster/starter printings over promos (the owner's codes use `R152` for Time Is A Warrior's Tool); promo codes are untested.
+- My first Nappa code failed because it wrote the Mastery as a name and dropped the rarity letters.
 - A name containing a period (Dr. Wheelo) written as `Dr%2E%20Wheelo` imported correctly: all 60 cards, MP Dr. Wheelo and Black Devious Mastery (owner-confirmed).
