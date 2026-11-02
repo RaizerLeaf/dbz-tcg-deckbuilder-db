@@ -31,6 +31,9 @@ class Behavior:
     def incoming_life(self, p, card, atk): return 0
     def incoming_stage(self, p, card, atk): return 0
     def crit_threshold(self, p): return None
+    def own_crit_threshold(self, p): return None     # my attacks count as critical from this many life cards
+    def adv_anger_delta(self, p): return 0            # change to the anger I need to advance a level (Levels 1-3)
+    def opp_adv_anger_min(self, p): return None       # anger my opponent needs to advance a level (Levels 1-3)
     def protect_balls(self, p): return False
     def pur_bonus(self, p): return 0
     def can_mppv(self, p): return True
@@ -172,6 +175,88 @@ class OrangeRetribution(Behavior):
             p.raise_anger(2)
             if p.cb['changed']:
                 fetch_from_deck(p, lambda c: c.ctype == 'Drill' and c.style == 'Orange', 'drill')
+            return True
+        return False
+
+
+@mastery('Blue Protective Mastery')
+class BlueProtective(Behavior):
+    """Opponent needs 6 anger to advance a level (not MPPV on Level 4). Defense POWER: discard a Physical Combat card to stop an
+    energy attack or an Energy Combat card to stop a physical attack; if the discarded card was Blue, lower the opponent's anger 1."""
+    def opp_adv_anger_min(self, p): return 6
+
+    def defend_power(self, p, atk, card, kind):
+        if not ((card.at or 0) + card.stage_flat >= 2 or card.life >= 2 or card.life_at):
+            return False
+        want = 'Physical Combat' if kind == 'e' else 'Energy Combat'
+        cands = [x for x in p.hand if x.ctype == want and not x.endurance]
+        if not cands or not once_turn(p, 'blueprot'):
+            return False
+        cands.sort(key=lambda z: (z.style != 'Blue', p.value(z)))
+        x = cands[0]
+        p.hand.remove(x)
+        p.discard.append(x)
+        p.note_discard(x)
+        if x.style == 'Blue':
+            atk.lower_anger(1)
+        return True
+
+
+@mastery('Black Conflict Mastery')
+class BlackConflict(Behavior):
+    """Attacks that deal at least 4 life cards count as critical damage. POWER: discard a card; if Styled, raise anger 1 (chosen over +6 stages)."""
+    def own_crit_threshold(self, p): return 4
+    def has_power(self, p): return len(p.hand) >= 2
+
+    def power(self, p, opp):
+        if len(p.hand) >= 2 and once_turn(p, 'conflict'):
+            p.hand.sort(key=p.value)
+            h = p.hand.pop(0)
+            p.discard.append(h)
+            p.note_discard(h)
+            if h.style == 'Black':
+                p.raise_anger(1)
+            return True
+        return False
+
+
+@mastery('Saiyan Rampaging Mastery')
+class SaiyanRampaging(Behavior):
+    """1 less anger to advance (min 4). Styled attacks gain 'HIT: you may raise your anger 1 level'. (Its Power is not modelled.)"""
+    def adv_anger_delta(self, p): return -1
+
+    def after_hit(self, p, opp, card, removed):
+        if card.style and card.style == p.styled() and card.card_id.split(':')[0] != 'synthetic':
+            p.raise_anger(1)
+
+
+@mastery('Saiyan Dynamic Mastery')
+class SaiyanDynamic(Behavior):
+    """Begin on Level 2 (5 stages assumed). 6 anger to advance. Styled attacks without 'anger' printed gain 'Raise your anger 1 level'."""
+    def on_game_start(self, p):
+        p.level = 2
+
+    def adv_anger_delta(self, p): return 1
+
+    def on_play(self, p, opp, card):
+        if card.style and card.style == p.styled() and 'anger' not in card.text.lower() and card.card_id.split(':')[0] != 'synthetic':
+            p.raise_anger(1)
+
+
+@mastery('Red Ascension Mastery')
+class RedAscension(Behavior):
+    """Critical effect: gain 2 stages. End of each combat: raise anger 1. POWER: banish top card of Life Deck to raise anger 1; if Red, opponent skips next action."""
+    def on_crit_effect(self, p): p.gain_stages(2)
+    def end_of_combat(self, p, opp): p.raise_anger(1)
+    def has_power(self, p): return len(p.deck) > 20
+
+    def power(self, p, opp):
+        if p.deck and once_turn(p, 'ascension'):
+            c = p.deck.pop(0)
+            p.banished.append(c)
+            p.raise_anger(1)
+            if c.style == 'Red':
+                opp.skip += 1
             return True
         return False
 

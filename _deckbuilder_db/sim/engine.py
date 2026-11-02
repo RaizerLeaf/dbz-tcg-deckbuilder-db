@@ -178,6 +178,14 @@ class Player:
             r = b.anger_needed(self)
             if r is not None:
                 need = min(need, r)
+        if self.level < 4:      # Masteries that change the anger needed to ADVANCE a level (not for MPPV on Level 4)
+            for b in self.behaviors():
+                need = max(1, need + b.adv_anger_delta(self))
+            if self.opp is not None:
+                for b in self.opp.behaviors():
+                    r = b.opp_adv_anger_min(self.opp)
+                    if r:
+                        need = max(need, r)
         return need
 
     def raise_anger(self, n, in_combat=True):
@@ -351,6 +359,9 @@ class Player:
             if removed:
                 B.CARD_EXTRA[x.name]['on_damaged'](opp, self, x, removed)
         thr = max([5] + [t for t in (b.crit_threshold(opp) for b in opp.behaviors()) if t])
+        own = [t for t in (b.own_crit_threshold(self) for b in self.behaviors()) if t]
+        if own:
+            thr = min(thr, min(own))
         if (removed >= thr or self.cb['crit_all']) and (ds or life or c.at is not None):
             self.lockanger = False
             self.crit_effect()
