@@ -17,6 +17,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
    cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
 9. Present the deck by role, the code in a fenced block, the simulator playtest (what you ran, what was unmodelled, what you saw) and every unverified assumption; ask the owner to import it.
+   **Always include the matchup chart (owner's rule, 2026-11-02):** run `python -m sim playtest decks/<name>.txt -n 50 --table` and paste the table into the answer: **one row for every roster deck** (never only the overall number or a few matchups), with
+   the win rate, **your win condition in that matchup** (MPPV / Survival / Dragon Ball Victory, with counts) and **how you lose** (to what, with counts). Also save it in the deck's comparison file. If the owner names an opponent (e.g. the friend's Red Piccolo), call its row out.
    Save the code in `decks/`, run `python -m sim roster add decks/<name>.txt` (step 5 of the playtest section), record new owner rulings and lessons here, then commit and push to `main`.
 
 ## Playtesting a deck in the simulator (required before finalizing)
@@ -31,6 +33,7 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
    read 2-3 logs. Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses. For a specific matchup the owner named, also
    `python -m sim game <your deck> <their deck>`. **Do not run hundreds or thousands of games for deck building**: large `python -m sim run A B -n 1000` batches are for matchup testing when the owner asks.
    The roster is a spread of the decks built so far (see "The test-deck roster" below), so never rely on the friend's Piccolo deck alone: it is a very fast, niche MPPV deck.
+4a. **Show the whole matchup chart** (`playtest ... --table`, see workflow step 9): every roster deck, win rate, your win condition and how you lose. A bare "74% overall" is not enough.
 4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
    unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
 5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt` and `sim/roster.json`. The command
@@ -46,7 +49,7 @@ Things to know:
   roster at that moment, so the numbers shift a little whenever the roster changes.
 - Because the roster keeps the highest winners it drifts toward strong, fast decks. Once the roster is full, slow decks get retired first. Two truly different strategies with the same MP and Mastery
   count as versions of one deck (the roster keeps the better one); use `sim game` / `sim run` to test against the other directly. If you need a slow or specific opponent, use it directly with `sim game` / `sim run`.
-- Snapshot when it was created (10 decks): Orange Trunks V5 (89%; V3 and V4 superseded), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
+- Snapshot when it was created (10 decks; the roster has since grown to the 25-deck cap): Orange Trunks V5 (89%; V3 and V4 superseded), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
   Garlic Jr. (37%), Krillin (31%), Wheelo Black (30%), Wheelo Blue (29%), Lord Slug (8%). Check `python -m sim roster` for the current list.
 - Every deck on the roster must be fully modelled: `roster add` refuses a deck with NOT MODELLED MP levels or Mastery. The first roster build skipped Nappa for that reason, so Nappa's four levels,
   the stage-drain effects ("your opponent loses N stages", including "to a minimum of 0") and Saiyan Clench were added to the simulator; the remaining gaps for that deck are listed by `coverage`

@@ -4,7 +4,7 @@
   bo3 A B [--seed 1]                                        a best-of-3 with the full play log
   game A B [--seed 1] [--first a|b]                         one game with the full play log
   coverage CODE                                             which parts of the deck the simulator models
-  playtest DECK [-n 20]                                     play a deck against every roster deck (20 games each, 50 at most): for deck building
+  playtest DECK [-n 20] [--table]                                     play a deck against every roster deck (20 games each, 50 at most): for deck building
   roster [add FILE | rebuild]                               the test-deck roster (best 25 decks, one version per MP + Mastery); `add` ranks a finished deck into it
 A and B are deck codes or paths to decks/*.txt files.
 """
@@ -108,6 +108,23 @@ def cmd_coverage(args):
         print(f'    {n}x {name}: ' + ' | '.join(sents))
 
 
+def print_table(res):
+    """Markdown chart for the answer to the owner: every roster deck, win rate, how this deck wins, how it loses."""
+    def part(how, prefix):
+        items = sorted(((k[len(prefix):], v) for k, v in how.items() if k.startswith(prefix)), key=lambda kv: -kv[1])
+        return ', '.join(f'{k} {v}' for k, v in items) or '-'
+    print()
+    print(f"| Opponent | Wins | Win % | Avg turn of wins | My win condition | How I lose |")
+    print('|---|---|---|---|---|---|')
+    for r in res['rows']:
+        t = r['avg_turn_of_wins'] if r['avg_turn_of_wins'] is not None else '-'
+        print(f"| {r['opp_name']} | {r['wins']}/{r['games']} | {100 * r['wins'] / r['games']:.0f}% | {t} | {part(r['how'], 'wins by ')} | {part(r['how'], 'loses to ')} |")
+    tw = sum(r['wins'] for r in res['rows'])
+    tg = sum(r['games'] for r in res['rows'])
+    print(f"| **Overall** | {tw}/{tg} | {100 * tw / tg:.0f}% | | | |")
+    print()
+
+
 def cmd_playtest(args):
     try:
         res = R.playtest(args.a, args.n, args.allow_unmodelled)
@@ -126,6 +143,8 @@ def cmd_playtest(args):
     if not res['rows']:
         print('  the roster is empty or only contains this deck: run `python -m sim roster rebuild`')
         return
+    if getattr(args, 'table', False):
+        print_table(res)
     worst = min(res['rows'], key=lambda r: r['wins'])
     print(f'  overall {100 * tot_w / tot_g:.0f}% over {tot_g} games. Read a play log of the worst matchup:')
     print(f"    python -m sim game {args.a} {worst['opponent']} --seed 1")
@@ -181,6 +200,7 @@ def main():
     sp.add_argument('a')
     sp.add_argument('-n', type=int, default=R.PLAYTEST_DEFAULT)
     sp.add_argument('--allow-unmodelled', action='store_true')
+    sp.add_argument('--table', action='store_true', help='also print the matchup chart (opponent, win %%, my win condition, how I lose) as a Markdown table')
     sp.set_defaults(fn=cmd_playtest)
     sp = sub.add_parser('roster')
     sp.add_argument('action', nargs='?', default='show', choices=['show', 'add', 'rebuild'])
