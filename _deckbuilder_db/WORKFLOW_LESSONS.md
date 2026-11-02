@@ -42,6 +42,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
   and the live page cannot be fetched from the session. Say so and give exact click-by-click steps.
 - Chromium and Playwright are preinstalled: `NODE_PATH=$(npm root -g) node script.js`; `<option>` elements need `waitForSelector(..., {state:'attached'})`; look at screenshots (they show real layout problems).
   Node 22 is available for tests of browser code. Do not `pip`/`npm install` without asking.
+- `friends/tests/browser_smoke.js` is a ready-made UI check (`NODE_PATH=$(npm root -g) node friends/tests/browser_smoke.js`, from `_deckbuilder_db/`): run it after any change to `friends/site/`.
 - Serve `docs/` locally with `python3 -m http.server`; the multi-file page needs a server (it fetches JSON), `docs/deck-helper.html` works from disk.
 
 ## Generated files: keep them honest

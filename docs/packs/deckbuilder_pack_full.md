@@ -15,6 +15,9 @@ errata applied). Follow these instructions for the whole conversation.
   did not declare combat: Rejuvenate 1, i.e. move the top card of your discard pile to the bottom of your Life Deck). The defender draws 3 when combat is declared.
 - Combat: players alternate Actions (play an attack, use a Power, play an Event, activate a Setup, or pass); combat ends when both pass in a row. Responding to an attack with a defense card is not an Action.
 - Powers of an MP level, Ally or Mastery can be used once per turn.
+- Owner-confirmed rulings: a critical damage effect can only discard an **opponent's** Ally (a card effect that says "destroy an Ally" may target your own). Blue Protective Mastery ("opponent needs 6 anger")
+  only slows levelling; MPPV is still 5 anger on Level 4. "Your opponent destroys the top X cards of his Life Deck" on your card counts as your effect destroying cards, so it triggers bonuses like Dr. Wheelo's.
+  Cards play with their current (errata) text, which is what the data below shows.
 - Physical attacks usually cost nothing and use the Attack Table (AT, 0-6, from the attacker's and defender's power-level brackets). Energy attacks cost power stages. Stage damage is taken first;
   stages lost at power level 0 come off the Life Deck. Most big damage is "N life cards".
 - Endurance: when a card with Endurance is discarded as damage it can be banished to prevent that many more life cards. "Cannot be prevented" beats Endurance, not stops.

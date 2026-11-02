@@ -34,6 +34,7 @@ python friends/build_pack.py                                  # full pack -> fri
 python friends/build_pack.py --mp Trunks --styles Red Orange  # light pack for one MP and the styles worth comparing
 python friends/list_to_code.py deck.txt               # deck list from the AI -> deck code + legality check (needs scripts/deckcode.py)
 python -m unittest discover -s friends/tests -t .             # tests
+NODE_PATH=$(npm root -g) node friends/tests/browser_smoke.js  # optional: click through the real page in Chromium (Playwright)
 ```
 Run these from `_deckbuilder_db/`. Regenerate `dist/` whenever `cards.json` changes. The checker is the same legality code the owner uses (`scripts/deckcode.py`): 60 cards, copy limits, printed limits, Named cards,
 Heroes/Villains only, Mastery-only cards, Allies, Dragon Ball sets, heritage lists, plus warnings for the owner's defaults. It does **not** judge strategy.

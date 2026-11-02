@@ -20,9 +20,9 @@ and, usually, file uploads (limits unknown to us: check the current free-plan li
 | D. Simulator in the browser | Runs `sim/` through Pyodide | Matchup feedback for friends | Heavy (5 MB data + Python runtime); do last |
 
 ## Recommendation: A first, then B
-1. **Phase 1 (this branch, done in a first version):** `build_pack.py` makes the pack (instructions, rules, MPs, Masteries, cards by style) and `list_to_code.py`
+1. **Phase 1 (built):** `build_pack.py` makes the pack (instructions, rules, MPs, Masteries, cards by style) and `list_to_code.py`
    turns the AI's plain-text list into a deck code with the same legality checker the owner uses. The owner (or a friend with Claude Code) can run these today.
-2. **Phase 2 (built):** a static page under `docs/` (GitHub Pages serves only that folder, so the card images in the repo are not published). It downloads packs, searches
+2. **Phase 2 (built):** a static page under `docs/` (GitHub Pages serves only that folder, so the card images in the repo are not published). It builds the card info for a character and styles (called a "pack" in code), searches
    cards, and ports `list_to_code` + the legality checks to JavaScript so a friend can paste the AI's list and get a checked deck code without Python.
 3. **Phase 3 (optional):** simulator through Pyodide.
 
