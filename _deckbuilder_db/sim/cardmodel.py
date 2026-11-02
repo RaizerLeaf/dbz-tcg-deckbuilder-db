@@ -58,7 +58,7 @@ class Card:
         self.head, self.hit = head, hit
         m = re.search(r'ENDURANCE (\d+)', t)
         self.endurance = int(m[1]) if m else 0
-        self.is_def = '[Defense]' in t and 'Stops' in t
+        self.is_def = '[Defense]' in t and ('Stops' in t or bool(re.search(r'Prevent all damage from an? (?:physical|energy) attack', t)))
         self.is_atk = '[Attack]' in t
         low = t.lower()
         self.phys = self.is_atk and 'physical attack' in low
@@ -66,7 +66,8 @@ class Card:
         if self.is_atk and not (self.phys or self.energy):
             self.energy = self.ctype == 'Energy Combat'
             self.phys = not self.energy
-        s = head.split('DAMAGE:')[1] if 'DAMAGE:' in head else ''
+        parts_dmg = re.split(r'DAMAGE:', head, maxsplit=1, flags=re.I)
+        s = parts_dmg[1] if len(parts_dmg) > 1 else ''
         self.at = None
         self.stage_flat = 0
         self.life = 0
@@ -81,6 +82,8 @@ class Card:
         m = re.match(r'\s*AT ?\+ ?(\d+) life cards', s)
         if m: self.life_at, self.life = True, int(m[1])
         if re.match(r'\s*3 stages \+AT life', s): self.stage_flat, self.life_at, self.life = 3, True, 0
+        m = re.match(r'\s*AT ?\+ ?\d+ stages and \+(\d+) life cards', s)
+        if m: self.life = int(m[1])          # e.g. Saiyan Direct Strike: AT +3 stages and +2 life cards
         m = re.search(r'DAMAGE: (\d+) - X life cards', t)
         if m: self.life = int(m[1])          # Krillin Ready For Battle; the X part is handled in behaviors
         m = re.search(r'costing (\d+) stages?', t)
@@ -96,12 +99,23 @@ class Card:
             if 'physical' in kinds: self.stops.add('p')
             if 'energy' in kinds: self.stops.add('e')
             if not m and 'Stops an attack' in t: self.stops = {'p', 'e'}
+            m2 = re.search(r'Prevent all damage from an? (physical|energy) attack', t)
+            if m2: self.stops.add('p' if m2[1] == 'physical' else 'e')      # approximated as a stop
         m = re.search(r'(?:MP gains|[Gg]ain) (\d+) stages', head)
         self.gain = int(m[1]) if m else 0
         self.crit_now = len(re.findall(r'[Uu]se a critical damage effect', head))
         self.crit_hit = 'critical damage effect' in hit
         self.sword = 'Sword' in self.name or "considered to have \"Sword\"" in t
         self.named = bool(rec.get('is_named'))   # includes cards only 'considered Named for your effects'
+        self.opp_lose, self.opp_lose_floor = 0, False
+        for sent in sentences(head):
+            if sent.startswith(('If', 'Whenever', 'After', 'You may', '(')):
+                continue
+            m = (re.search(r"[Yy]our opponent(?:'s MP)? loses? (\d+) stages", sent) or re.search(r"[Aa]ll of your opponent's personalities lose (\d+) stages", sent)
+                 or re.search(r'That personality loses (\d+) stages', sent))
+            if m:
+                self.opp_lose += int(m[1])
+                self.opp_lose_floor = self.opp_lose_floor or 'minimum of 0' in sent
         m = re.search(r'Rejuvenate (\d+)', head)
         self.rej = int(m[1]) if m else 0
         self.draw = 'Draw a card' in head
@@ -122,6 +136,7 @@ _PARSED = [
     r'(?:Physical|Energy) [Aa]ttack', r'DAMAGE:?', r'costing \d+ stages?', r'[Rr]aise your anger',
     r"[Ll]ower your opponent's anger", r'Stops an? (?:physical|energy)', r'Stops a physical or energy',
     r'(?:MP gains|[Gg]ain) \d+ stages', r'Rejuvenate \d+', r'Draw a card', r'[Uu]se a critical damage effect',
+    r"(?:opponent(?:'s MP)?|personalities|personality) loses? \d+ stages|lose \d+ stages", r'Prevent all damage from an? (?:physical|energy) attack',
     r'^\(?Banish after use', r'^HIT:?$',
 ]
 _PARSED_RE = re.compile('|'.join(_PARSED))
