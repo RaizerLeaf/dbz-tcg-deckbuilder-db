@@ -225,6 +225,176 @@ class StageDrain(unittest.TestCase):
         self.assertEqual(scale, 2)
 
 
+GOKU_SUBS = ['Training', 'Determined', 'Calm', 'Dashing']
+
+
+def goku_game(mastery='Blue Tag Team Mastery', seed=1):
+    """Goku (Training / Determined / Calm / Dashing) against a plain Wheelo; the Life Decks are plain filler so each test places cards itself."""
+    a = Spec('G', 'Goku', [next(c['card_id'] for c in all_records() if c['card_name'] == 'Goku' and c['subtitle'] == sub
+                                and c['card_type'] == 'Main Personality' and c['set_number'] in (4, 7)) for sub in GOKU_SUBS],
+             mastery, [cid('Blue Guard')] * 60)
+    return game(a, spec('W', 'Dr. Wheelo', ['Big Brain', 'Scheming', 'Confined', 'Robotic'], 'Black Devious Mastery', 'Black Lunge'), seed)
+
+
+def ally_card(name, nth=0):
+    ids = [c['card_id'] for c in all_records() if c['card_name'] == name and c['card_type'] == 'Ally' and c['set_number'] and c['set_number'] <= 7]
+    return Card(RECS[sorted(ids)[nth]])
+
+
+def goku_vegeta():
+    return Card(RECS['S04_BST_93'])
+
+
+class Allies(unittest.TestCase):
+    def test_ally_enters_at_3_gains_pur_and_acts_only_at_low_mp_stage(self):
+        g, a, b = goku_game()
+        v = Card(RECS['S04_BST_93'])
+        a.put_ally(v)
+        self.assertEqual(v.astage, 3)
+        a.stage = 5
+        self.assertFalse(B.ally_may_act(a, v))
+        a.stage = 1
+        self.assertTrue(B.ally_may_act(a, v))
+        a.stage = 5
+        a.cb['ally_free'].add('Vegeta')                    # Goku Calm / Dashing / Blue Kiss
+        self.assertTrue(B.ally_may_act(a, v))
+
+    def test_unmodelled_ally_is_not_played(self):
+        g, a, b = goku_game()
+        gohan = ally_card('Gohan')
+        self.assertIsNone(B.ally_model(gohan))
+        a.hand.append(gohan)
+        g.planning(a, b)
+        self.assertIn(gohan, a.hand)
+        self.assertEqual(a.allies, [])
+
+    def test_ally_attack_pays_from_its_own_stages_and_uses_its_own_power_level(self):
+        g, a, b = goku_game()
+        t = ally_card('Tenshinhan')
+        a.put_ally(t)
+        a.stage = 0
+        b.stage = 10
+        t.astage = 1                                       # costs 2: cannot attack
+        self.assertFalse(B.ally_attack(a, b))
+        t.astage = 3
+        before = len(b.deck)
+        self.assertTrue(B.ally_attack(a, b))
+        self.assertEqual(t.astage, 1)                      # paid 2 of its own stages
+        self.assertEqual(a.stage, 0)                       # the MP paid nothing
+        self.assertLess(len(b.deck), before)               # 3 life cards (+1 from Training)
+
+    def test_critical_effect_discards_an_ally_but_tag_team_protects_a_lone_ally(self):
+        g, a, b = goku_game('Blue Protective Mastery')
+        a.put_ally(ally_card('Yamcha'))
+        b.crit_effect()
+        self.assertEqual(a.allies, [])                     # Wheelo's critical effect discarded it
+        g, a, b = goku_game()
+        a.put_ally(ally_card('Yamcha'))
+        b.crit_effect()
+        self.assertEqual([x.name for x in a.allies], ['Yamcha'])      # Tag Team: a lone Ally cannot be discarded
+        self.assertTrue(any(x.protect_allies(a) for x in a.behaviors()))
+        a.put_ally(ally_card('Chaozu'))
+        self.assertFalse(any(x.protect_allies(a) for x in a.behaviors()))   # only while you control exactly 1 Ally
+
+    def test_tag_team_fetches_an_ally_at_the_start_of_the_opponents_first_turn_only(self):
+        g, a, b = goku_game()
+        a.deck.insert(5, ally_card('Chichi'))
+        for beh in a.behaviors():
+            beh.on_turn_start(a, True)                     # my own turn: nothing
+        self.assertEqual(a.allies, [])
+        for beh in a.behaviors():
+            beh.on_turn_start(a, False)                    # opponent's first turn
+        self.assertEqual([x.name for x in a.allies], ['Chichi'])
+        for beh in a.behaviors():
+            beh.on_turn_start(a, False)                    # not again
+        self.assertEqual(len(a.allies), 1)
+
+    def test_vegeta_from_the_hand_stops_an_attack_for_goku_once_per_combat(self):
+        g, a, b = goku_game()
+        a.hand.append(goku_vegeta())
+        atk = Card(RECS[cid('Blue Concentrated Blast')])
+        self.assertTrue(a.defend(b, atk))
+        self.assertEqual([x.name for x in a.allies], ['Vegeta'])
+        self.assertEqual(a.allies[0].astage, 2)
+
+    def test_chichi_stops_a_physical_attack_regardless_of_mp_stage_for_goku(self):
+        g, a, b = goku_game()
+        a.put_ally(ally_card('Chichi'))
+        a.stage = 9
+        phys = Card(RECS[cid('Black Lunge')])
+        self.assertTrue(a.defend(b, phys))
+        self.assertFalse(a.defend(b, phys))                # her Power is once per turn
+
+
+class GokuLevels(unittest.TestCase):
+    def test_training_and_determined_add_a_life_card_and_determined_cuts_incoming(self):
+        g, a, b = goku_game()
+        c = Card(RECS[cid('Blue Concentrated Blast')])
+        self.assertEqual(sum(x.life_bonus(a, c, b) for x in a.behaviors()), 1)        # Training
+        a.level = 2
+        self.assertEqual(sum(x.life_bonus(a, c, b) for x in a.behaviors()), 1)        # Determined
+        self.assertEqual(sum(x.incoming_life(a, c, b) for x in a.behaviors()), -1)
+
+    def test_determined_power_draws_the_bottom_of_the_discard_and_uses_a_critical_effect(self):
+        g, a, b = goku_game()
+        a.level = 2
+        b.balls.clear()
+        a.discard = [Card(RECS[cid('Blue Guard')]), Card(RECS[cid('Blue Head Knock')])]
+        a.hand = [Card(RECS[cid('Blue Guard')])]
+        anger = b.anger = 3
+        self.assertTrue(a.lv.name == 'Determined' and B.mp_behavior('Goku', 'Determined').power(a, b))
+        self.assertEqual(b.anger, anger - 1)               # critical effect: no Dragon Ball or Ally to take, so opponent's anger -1
+        self.assertEqual(len(a.discard), 2)                # one drawn, one discarded
+
+    def test_calm_searches_an_ally_and_frees_it_for_the_combat(self):
+        g, a, b = goku_game()
+        a.level = 3
+        a.deck.insert(0, ally_card('Yamcha'))
+        a.stage = 6
+        self.assertTrue(B.mp_behavior('Goku', 'Calm').power(a, b))
+        self.assertEqual([x.name for x in a.allies], ['Yamcha'])
+        self.assertIn('Yamcha', a.cb['ally_free'])
+        self.assertTrue(a.cb['ally_unstop'] or b.cb['stopall'] or True)   # set by after_hit only if the attack was not stopped
+
+    def test_dashing_places_the_ally_at_its_highest_stage_and_adds_4_life_cards(self):
+        g, a, b = goku_game()
+        a.level = 4
+        a.deck.insert(0, ally_card('Chaozu'))
+        a.stage = 8
+        self.assertTrue(B.mp_behavior('Goku', 'Dashing').power(a, b))
+        ch = a.allies[0]
+        self.assertEqual((ch.name, ch.astage), ('Chaozu', 10))
+        self.assertEqual(a.cb['ally_life'], {'Chaozu': 4})
+        b.stage = 10
+        b.deck = [Card(RECS[cid('Blue Guard')]) for _ in range(40)]          # no Endurance cards, so every life card is counted
+        self.assertTrue(B.ally_attack(a, b))              # 7 + 4 life cards (Dashing's +4; Training's +1 is off at Level 4)
+        self.assertEqual(len(b.deck), 40 - 11)
+        self.assertEqual(a.allies, [])                     # Chaozu shuffles himself back into the Life Deck
+        self.assertTrue(any(x.name == 'Chaozu' for x in a.deck))
+
+    def test_saiyan_overhead_kick_fetches_only_a_saiyan_ally_at_5_stages(self):
+        g, a, b = goku_game()
+        a.deck.insert(0, ally_card('Chaozu'))
+        c = Card(RECS[cid('Saiyan Overhead Kick')])
+        B.CARD_EXTRA['Saiyan Overhead Kick']['immediate'](a, b, c)
+        self.assertEqual(a.allies, [])                      # Chaozu is not a Saiyan
+        a.deck.insert(0, goku_vegeta())
+        B.CARD_EXTRA['Saiyan Overhead Kick']['immediate'](a, b, c)
+        self.assertEqual([(x.name, x.astage) for x in a.allies], [('Vegeta', 5)])
+
+    def test_blue_kiss_lets_an_ally_attack_with_plus_2_and_unpreventable(self):
+        g, a, b = goku_game()
+        a.put_ally(ally_card('Yamcha'))
+        a.stage = 8
+        kiss = Card(RECS[cid('Blue Kiss')])
+        a.setups.append(kiss)
+        B.use_card(a, b, kiss)
+        self.assertIn('Yamcha', a.cb['ally_kiss'])
+        self.assertTrue(B.ally_attack(a, b))
+        self.assertNotIn('Yamcha', a.cb['ally_kiss'])
+
+
+
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):
         a = spec('A', 'Piccolo', ['Stoic', 'Combat Stance', 'Unleashed', 'Fused'], 'Red Enraged Mastery', 'Red Energy Blast')

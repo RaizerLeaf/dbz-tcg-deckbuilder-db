@@ -50,6 +50,10 @@ class Behavior:
     def power(self, p, opp): return False
     def defend_power(self, p, atk, card, kind): return False
     def after_hit(self, p, opp, card, removed): pass
+    def on_turn_start(self, p, mine): pass            # start of every turn, for both players (mine = it is p's turn)
+    def protect_allies(self, p): return False         # True = opponent's critical effects cannot discard my Allies
+    def on_ally_entered(self, p, card): pass          # one of my Allies entered play (card.played True = 'play', False = 'place into play')
+    def on_ally_rejuvenated(self, p): pass            # I Rejuvenated one of my Allies
 
 
 MP_BEH, MASTERY_BEH, CARD_PASSIVE = {}, {}, {}
@@ -719,6 +723,126 @@ def life_adjust(p, opp, c):
     return adj
 
 
+
+# =================================================================================================================
+# Allies (only the Allies listed in ALLY_MODEL are ever played; all other Allies stay inert, as before)
+# =================================================================================================================
+# Rulebook 3.0: Allies enter at 3 stages above 0, gain their own PUR in the Planning Step, act (Power / attack / defend) only when the MP is
+# at most 1 stage above 0 (or a card says otherwise), use their own Power Level on the Attack Table and pay energy costs from their own stages.
+# NOT MODELLED: damage redirected to Allies, Allies as targets of "banish a Drill or Ally" effects, Ally Continuous powers other than those listed.
+_VEGETA_ATK = synthetic('Ally Vegeta', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: AT +0 life cards.')
+_CHAOZU_ATK = synthetic('Ally Chaozu', 'POWER: [Attack] Energy attack costing 4 stages. DAMAGE: 7 life cards.')
+_TENSHIN_ATK = synthetic('Ally Tenshinhan', 'POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards.')
+_YAMCHA_ATK = synthetic('Ally Yamcha', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards.')
+# value = how much the AI wants this Ally when it can choose; attack = the Ally's POWER attack; defend = the kind of attack its POWER stops
+ALLY_MODEL = {
+    'Vegeta': dict(value=4.0, attack=_VEGETA_ATK, defend=None),                 # Set 4 Vegeta (Goku): attack AT life cards for 1 stage; hand-stop below
+    'Chaozu': dict(value=7.0, attack=_CHAOZU_ATK, defend=None, shuffle_after=True),   # UNVERIFIED timing: shuffled back right after the attack
+    'Tenshinhan': dict(value=3.5, attack=_TENSHIN_ATK, defend=None),
+    'Yamcha': dict(value=3.2, attack=_YAMCHA_ATK, defend=None),
+    'Chichi': dict(value=2.5, attack=None, defend='p', free_for=('Goku', 'Gohan', 'Goten')),
+    'Piccolo': dict(value=1.0, attack=None, defend='e', free_for=('Gohan',)),
+}
+
+
+def ally_model(card):
+    m = ALLY_MODEL.get(card.name)
+    if m is not None and card.name == 'Vegeta' and not card.text.startswith('(If your MP is Goku'):
+        return None                                   # the Villains-only Set 2 Vegeta is not modelled
+    return m
+
+
+def ally_value(a): return ALLY_MODEL[a.name]['value']
+
+
+def ally_may_act(p, a):
+    m = ALLY_MODEL[a.name]
+    return p.stage <= 1 or a.name in p.cb['ally_free'] or p.mp_name in m.get('free_for', ())
+
+
+def search_ally(p, where=('deck',), stage=3, played=False, names=None):
+    """Search the given zones for an Ally not already in play and put it into play. Returns the Ally or None."""
+    cands = []
+    for z in where:
+        for x in getattr(p, z):
+            if x.ctype == 'Ally' and ally_model(x) and not any(a.name == x.name for a in p.allies) and (names is None or x.name in names):
+                cands.append((z, x))
+
+    def score(zx):
+        m = ally_model(zx[1])
+        return m['value'] if m['attack'] is None or m['attack'].cost <= stage else 0.5
+    if not cands:
+        return None
+    z, x = max(cands, key=score)
+    getattr(p, z).remove(x)
+    if z == 'deck':
+        p.rng.shuffle(p.deck)
+    p.put_ally(x, stage, played)
+    return x
+
+
+def rejuv_ally(p, ally_card=None):
+    """Rejuvenate an Ally from the discard pile / banished zone into the Life Deck (not an Ally in play)."""
+    zone = p.discard if ally_card in p.discard else p.banished
+    if ally_card in zone:
+        zone.remove(ally_card)
+        p.deck.append(ally_card)
+        for b in p.behaviors():
+            b.on_ally_rejuvenated(p)
+
+
+def best_attacker(p):
+    """The Ally in play with an affordable attack and the highest value (None if there is none)."""
+    c = [a for a in p.allies if ALLY_MODEL[a.name]['attack'] is not None and ALLY_MODEL[a.name]['attack'].cost <= a.astage]
+    return max(c, key=ally_value) if c else None
+
+
+def ally_can_attack(p, o):
+    """At declaration time: could an Ally attack without any free-action card (MP at most 1 stage above 0)?"""
+    return p.stage <= 1 and any(a for a in p.allies if ALLY_MODEL[a.name]['attack'] is not None and f'aatk_{a.name}' not in p.tf
+                                and ALLY_MODEL[a.name]['attack'].cost <= a.astage)
+
+
+def ally_attack(p, o):
+    """One Ally attack action (each Ally's Power once per turn). Returns True if an Ally attacked."""
+    c = [a for a in p.allies if ALLY_MODEL[a.name]['attack'] is not None and f'aatk_{a.name}' not in p.tf and ally_may_act(p, a)
+         and ALLY_MODEL[a.name]['attack'].cost <= a.astage]
+    if not c:
+        return False
+    a = max(c, key=ally_value)
+    p.tf[f'aatk_{a.name}'] = True
+    m = ALLY_MODEL[a.name]
+    p.log(f'  {p.label}: Ally {a.name} attacks')
+    ok = p.attack(o, power=m['attack'], ally=a)
+    if ok and m.get('shuffle_after') and a in p.allies:
+        p.leave_play(a, 'deck')
+    return ok
+
+
+def ally_defend(p, atk, c, kind):
+    """An Ally (or Vegeta from the hand when the MP is Goku) stops an attack. Same size threshold as a hand defense."""
+    if not ((c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at):
+        return False
+    if p.mp_name == 'Goku' and 'vegeta_stop' not in p.cb['used'] and not any(a.name == 'Vegeta' for a in p.allies):
+        v = find_in(p.hand, lambda x: x.ctype == 'Ally' and ally_model(x) and x.name == 'Vegeta')
+        if v is not None:
+            p.cb['used'].add('vegeta_stop')            # once per combat
+            p.hand.remove(v)
+            p.put_ally(v, 2)                           # placed at 2 stages above 0 (the card says 'place this card into play')
+            p.log(f'    ({p.label} places Vegeta from the hand to stop it)')
+            return True
+    for a in p.allies:
+        if ALLY_MODEL[a.name]['defend'] == kind and ally_may_act(p, a) and f'adef_{a.name}' not in p.tf:
+            p.tf[f'adef_{a.name}'] = True
+            p.log(f'    ({p.label} stops it with Ally {a.name})')
+            return True
+    return False
+
+
+# Attack cards that may be played to stop an attack instead of attacking (text: "You may play this card to stop a physical attack instead of as an attack").
+ALT_STOP = {'Blue Arm Blast': 'p', 'Blue Round Throw': 'e'}
+
+
 # =================================================================================================================
 # Drills and Dragon Balls that stay in play
 # =================================================================================================================
@@ -949,6 +1073,200 @@ def _fetch_attach(p):
         p.attached.append(c)
 
 
+
+# =================================================================================================================
+# Goku (Set 7 Awakening Training / Determined, Set 4 Evolution Calm / Dashing) and Blue Tag Team
+# =================================================================================================================
+GOKU_CALM = synthetic('Goku Calm', 'POWER: [Attack] Energy attack. DAMAGE: 6 life cards.')
+
+
+@mp('Goku', 'Training')
+class GokuL1(Behavior):
+    """[Continuous]: your attacks deal +1 life card. [Instant] POWER: use when entering combat: draw a card (once per turn)."""
+    def life_bonus(self, p, card, opp): return 1
+
+    def entering_combat(self, p, opp, defender):
+        if once_turn(p, 'goku_train'):
+            p.draw(1)
+
+
+@mp('Goku', 'Determined')
+class GokuL2(Behavior):
+    """[Continuous]: your attacks +1 life card, opponent's attacks -1 life card. POWER: draw the bottom card of your discard pile; you may
+    discard a card from your hand to use a critical damage effect (the AI always does)."""
+    def life_bonus(self, p, card, opp): return 1
+    def incoming_life(self, p, card, atk): return -1
+    def has_power(self, p): return 'goku_det' not in p.tf and bool(p.discard or p.hand)
+
+    def power(self, p, opp):
+        if (p.discard or p.hand) and once_turn(p, 'goku_det'):
+            if p.discard:
+                p.hand.append(p.discard.pop(0))
+            if p.hand:
+                p.hand.sort(key=p.value)
+                h = p.hand.pop(0)
+                p.discard.append(h)
+                p.note_discard(h)
+                p.crit_effect()
+            return True
+        return False
+
+
+def _calm_search(p, o, c):
+    a = search_ally(p, ('deck', 'discard'), 3, played=True)       # "search ... for an Ally and play it"
+    if a is not None:
+        p.cb['ally_free'].add(a.name)                             # "that Ally can make actions regardless of your MP's power stage this combat"
+
+
+@mp('Goku', 'Calm')
+class GokuL3(Behavior):
+    """POWER: [Attack] energy attack, 6 life cards; search Life Deck or discard pile for an Ally and play it (it may act this combat).
+    HIT: if your next attack this combat is performed by an Ally it cannot be stopped."""
+    def has_power(self, p): return 'goku_calm' not in p.tf
+
+    def power(self, p, opp):
+        if once_turn(p, 'goku_calm'):
+            return p.attack(opp, power=GOKU_CALM)
+        return False
+
+    def after_hit(self, p, opp, card, removed):
+        if card is GOKU_CALM:
+            p.cb['ally_unstop'] = True
+
+
+@mp('Goku', 'Dashing')
+class GokuL4(Behavior):
+    """POWER: search Life Deck, discard pile or Banished Zone for an Ally and place it into play at its highest power stage. Choose one of your
+    Allies in play: for the rest of combat it may act whatever the MP's stage and its attacks deal +4 life cards."""
+    def has_power(self, p): return 'goku_dash' not in p.tf
+
+    def power(self, p, opp):
+        if not once_turn(p, 'goku_dash'):
+            return False
+        got = search_ally(p, ('deck', 'discard', 'banished'), 10)
+        pick = best_attacker(p) or (max(p.allies, key=ally_value) if p.allies else None)
+        if pick is not None:
+            p.cb['ally_free'].add(pick.name)
+            p.cb['ally_life'][pick.name] = p.cb['ally_life'].get(pick.name, 0) + 4
+        return got is not None or pick is not None
+
+
+@mastery('Blue Tag Team Mastery')
+class BlueTagTeam(Behavior):
+    """(At the start of your opponent's first turn, search your Life Deck for an Ally and place it into play at 3 stages above 0.)
+    [Continuous]: while you control 1 Ally it cannot be discarded by critical damage effects. [Instant] POWER: at the end of combat, Rejuvenate an
+    Ally from your Banished Zone (the AI does it whenever there is one)."""
+    def on_turn_start(self, p, mine):
+        if not mine and not p.gf.get('tag_team'):
+            p.gf['tag_team'] = True
+            search_ally(p, ('deck',), 3)
+
+    def protect_allies(self, p): return len(p.allies) == 1
+
+    def end_of_combat(self, p, opp):
+        x = find_in(p.banished, lambda c: c.ctype == 'Ally' and ally_model(c))
+        if x is not None:
+            rejuv_ally(p, x)
+
+
+# ---- Ally-related cards --------------------------------------------------------------------------------------------
+def _heroic_plan(p, o, c):
+    if search_ally(p, ('deck',), 3) is None:
+        fetch_from_deck(p, lambda x: x.ctype == 'Drill', 'drill')
+
+
+def _battle_readiness(p, o, c):
+    search_ally(p, ('deck',), 3)
+    search_ally(p, ('discard',), 3)
+
+
+def _goku_search(p, o, c):
+    if search_ally(p, ('deck',), 3) is None:
+        fetch_from_deck(p, lambda x: x.ctype == 'Drill', 'drill')
+    p.rejuv(2)                                                     # "Search your discard pile for 2 cards and Rejuvenate them"
+
+
+def _arrest_now(p, o, c):
+    for x in [x for x in p.discard if x.ctype == 'Ally' and ally_model(x)][:3]:
+        rejuv_ally(p, x)
+    p.rng.shuffle(p.deck)
+
+
+def _discharge_hit(p, o, c, removed):
+    x = find_in(p.discard, lambda y: y.ctype == 'Ally' and ally_model(y) and not any(a.name == y.name for a in p.allies))
+    if x is not None and p.allies:
+        a = min(p.allies, key=ally_value)
+        p.leave_play(a, 'deck')
+        for b in p.behaviors():
+            b.on_ally_rejuvenated(p)
+        p.discard.remove(x)
+        p.put_ally(x, 3, True)
+
+
+def _kiss(p, o, c):
+    a = best_attacker(p)
+    if a is not None:
+        p.cb['ally_free'].add(a.name)
+        p.cb['ally_kiss'].add(a.name)
+
+
+_x('Heroic Plan', use=_heroic_plan)
+_x('Blue Battle Readiness', use=_battle_readiness)
+_x('Blue Taming Technique', use=lambda p, o, c: search_ally(p, ('deck',), 4))         # the optional Styled-Setup discard is not modelled
+_x("Goku's Search", use=_goku_search)
+_x('Overpowering Attack', immediate=lambda p, o, c: search_ally(p, ('deck', 'discard'), 5))
+_x('Blue Arrest', immediate=_arrest_now, hit=lambda p, o, c, r: search_ally(p, ('deck',), 3, played=True))
+_x('Blue Discharge', immediate=lambda p, o, c: p.raise_anger(2), hit=_discharge_hit, can_play=lambda p, o, c: bool(p.allies))
+_x('Blue Kiss', use=_kiss, can_use=lambda p, o, c: best_attacker(p) is not None)
+_x('Blue Defensive Stance', defend=lambda p, atk, x, c: p.raise_anger(1))              # "raise or lower a player's anger 1": the AI raises its own
+_x('Ally Tenshinhan', hit=lambda p, o, c, r: p.draw(1))
+
+
+def _yamcha_hit(p, o, c, r):
+    """HIT: shuffle a Setup, Drill or Ally in play into its owner's Life Deck (the AI picks an opponent's Drill, then Setup, then Ally). UNVERIFIED target choice."""
+    for zone in (o.drills, o.setups):
+        if zone:
+            x = zone.pop()
+            o.deck.append(x)
+            o.rng.shuffle(o.deck)
+            return
+    if o.allies:
+        o.leave_play(max(o.allies, key=ally_value), 'deck')
+
+
+_x('Ally Yamcha', hit=_yamcha_hit)
+_x('Goku Calm', immediate=_calm_search)
+# Saiyan Overhead Kick: "Search your Life Deck or discard pile for a Saiyan Ally and place it into play at 5 stages above 0."
+# UNVERIFIED: only Vegeta counts as a Saiyan Ally here (Rulebook 3.0 lists Vegeta among the Saiyan personalities; Chaozu, Tenshinhan, Yamcha, Chichi, Piccolo are not on it).
+SAIYAN_ALLIES = ('Vegeta',)
+_x('Saiyan Overhead Kick', immediate=lambda p, o, c: search_ally(p, ('deck', 'discard'), 5, names=SAIYAN_ALLIES))
+
+
+@passive('Blue Lifting Drill')
+class BlueLiftingDrill(Behavior):
+    """[Continuous]: your attacks +1 life card; whenever one of your attacks is stopped, lower your opponent's anger 1."""
+    def life_bonus(self, p, card, opp): return 1
+    def on_stopped(self, p, opp, card): opp.lower_anger(1)
+
+
+@passive('Blue Waiting Drill')
+class BlueWaitingDrill(Behavior):
+    """Whenever you play an Ally, Rejuvenate 1. Whenever you Rejuvenate an Ally, destroy the top 2 cards of your opponent's Life Deck."""
+    def on_ally_entered(self, p, card):
+        if getattr(card, 'played', False):
+            p.rejuv(1)
+
+    def on_ally_rejuvenated(self, p): p.destroy_opp(2)
+
+
+@passive('Blue Transportation Drill')
+class BlueTransportationDrill(Behavior):
+    """[Instant]: when an Ally enters play under your control during combat and it is the only Ally you control, draw a card."""
+    def on_ally_entered(self, p, card):
+        if p.game.in_combat and len(p.allies) == 1:
+            p.draw(1)
+
+
 CARD_VALUE.update({"Dr. Wheelo's History": 6, 'Black Confinement': 5, 'Black Invitation': 4, "Dr. Wheelo's Revival": 3, 'Black Taunt': 4})
 NEVER_PLAY = {"Time Is A Warrior's Tool", 'Villainous Energy Sphere', 'Villainous Visage', "Piccolo's Weighted Clothing",
               'Heroic Energy Sphere'}
@@ -1018,6 +1336,8 @@ def choose_action(a, d):
     for b in a.behaviors():
         if b.power(a, d):
             return True
+    if ally_attack(a, d):
+        return True
     wc = find_in(a.discard, lambda c: c.name == "Piccolo's Weighted Clothing")
     if wc:                                   # banish from the discard pile: raise anger 2 (an action)
         a.discard.remove(wc)
@@ -1030,7 +1350,8 @@ def choose_action(a, d):
         if _usable(a, d, c):
             use_card(a, d, c)
             return True
-    atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage]
+    atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage and not (x.ctype == 'Ally' and ally_model(x))     # modelled Allies attack from play, not from the hand
+            and CARD_EXTRA.get(x.name, {}).get('can_play', lambda p, o, c: True)(a, d, x)]
     if not atks:
         return False
     c = max(atks, key=lambda z: a.value(z) - z.cost * 0.5)

@@ -120,6 +120,8 @@ Things to know:
   Namek's edge is almost all Namek 6 (+3 PUR, opponent's attacks -2 stages) and Namek 1 (+1 life card), i.e. it helps Slug *survive and hit*, not win by Dragon Balls: in 180 games each, Slug had 7 or more balls in play in only 1 game (Earth) / 13 games (Namek) and won by Dragon Ball Victory only 11 times in 500 (Namek) -
   games last about 7 turns and crit decks capture the balls. Both versions score 0/50 against Orange Trunks and Red Trunks (Garlic Jr.: Earth 5/50, Namek 0/50); Slug's real wins come from Survival against slower decks (Wheelo Blue 26-36%).
   **Model gaps that may undersell Slug:** Namek 2 (lower a personality) and Namek 4 (destroy 2 Setups/Drills) are not modelled; Earth 6 (re-Rejuvenate banished balls) and Earth 7 (play a ball from hand as an action) are not modelled and would help Earth; the Dragon Radar "search and play" and Lord Slug's Regeneration advance/lower are not modelled; the AI never protects balls on purpose. Treat Slug as the weakest roster deck against fast decks, and as a deck you play for a slow Dragon Ball plan against slower decks.
+- **Goku** (Hero; Set 7 Training/Determined/Courageous/Selfless, Set 4 Relaxed/Motivated/Calm/Dashing, Set 1 levels; mix freely): only the Set 4 levels search for Allies (Calm L3, Dashing L4, Relaxed L1 to the top of the deck). Allies act only while the MP is at most 1 stage above 0
+  unless a card frees them, so Goku taking stage damage (stage 0) turns his Allies on; Chichi works regardless for Goku, Piccolo does not (his exception is for Gohan). Three decks and the ranking are in `GOKU_STYLE_COMPARISON.md`. The sim models Training, Determined, Calm and Dashing only.
 - **Turles**: Blue stage-lock on Level 1 (AT +5 and +2 from Turles, damage cannot be prevented) is a top option. Saiyan, Red and Black are the levelling options.
   The Blue plan: stay on Level 1, play only Styled cards, use AT +5 Setups/physicals (Blue Stretch Kick, Round Throw, Lunge, Face Crunch; AT 0 still hits for 7 stages with Turles' +2),
   Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
@@ -184,9 +186,9 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
-| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku, ranked #1 of three in `GOKU_STYLE_COMPARISON.md`; not imported, not simulated (the simulator has no Goku or Allies) |
-| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | ranked #2; Red core from the friend's Piccolo deck minus Piccolo cards; not imported, not simulated |
-| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | ranked #3; not imported, not simulated |
+| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 63% over 500 playtest games (rank 6 on the roster); not imported |
+| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 65% over 500 playtest games (roster rank 4); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
+| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 70% over 500 playtest games (roster rank 3); Rampaging's Power not modelled; not imported |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the

@@ -3,7 +3,7 @@
 Built 2026-11-02 in a cloud session for the owner's request: "Goku deck using the Awakening Goku that can search for allies and also put the Vegeta hero ally into the deck;
 pick the style and mastery that works best (assumed Blue Tag Team); give 3 styles with Masteries, best to worst." Sets 1-7 only, default assumptions from `CLAUDE.md`.
 All three codes are in `decks/`, were written by `scripts/deckcode.py`, decode and re-encode exactly, and pass `deckcode.py check` with no errors or warnings.
-**None has been imported into the app, and none was simulated** (see "What is not verified").
+**All three were playtested in the simulator** (Goku's four levels, Blue Tag Team and the Ally rules were added to `sim/` for this). **None has been imported into the app.**
 
 ## Reading of the request (please correct if wrong)
 - No Set 7 (Awakening) Goku level searches for Allies. Set 7: L1 Training (+1 life card, draw when entering combat), L2 Determined (+1 life card for you, -1 for the opponent, draw the
@@ -16,22 +16,34 @@ All three codes are in `decks/`, were written by `scripts/deckcode.py`, decode a
 - "The Vegeta hero ally" = Set 4 `EV-U93` Vegeta (no alignment; "If your MP is Goku, once per combat you may place this card into play from your hand at 2 power stages above 0 to stop a physical
   or energy attack"; his Power is an energy attack costing 1 stage dealing AT life cards). The other Vegeta Ally (`HV-U72`) is Villains only. All three decks run EV-U93.
 - Ally pool used (max 1 each, none named Goku): Vegeta, Chaozu (7-life-card energy attack, shuffles itself back into the Life Deck so it can be fetched again), Tenshinhan, Yamcha, Chichi
-  (stops a physical attack; usable at any MP stage for Goku), Piccolo (stops an energy attack). Left out: Ox King (damage could then only be modified by Physical/Energy Combat cards, which would
+  (stops a physical attack; usable at any MP stage for Goku). **Piccolo was dropped after the first version**: his "regardless of MP stage" exception is for Gohan, so for Goku he can only act when Goku is at most 1 stage above 0. Left out: Ox King (damage could then only be modified by Physical/Energy Combat cards, which would
   switch off Goku's Continuous +life cards), Master Roshi (players cannot search Life Decks), Krillin Ally (destroys Drills), Bulma, Oolong, Yajirobe.
 
-## Ranking (best to worst)
-| # | Style | Mastery | Why |
-|---|---|---|---|
-| 1 | Blue | Blue Tag Team (`EV-S10`) | Only style built around Allies: 32 Blue cards mention Allies (Battle Readiness, Taming Technique, Arrest, Discharge, Kiss, Waiting Drill, Transportation Drill...). Tag Team puts an Ally into play for free at the start of the opponent's first turn (target: Vegeta), protects a lone Ally from critical discards and Rejuvenates a banished Ally at the end of combat. Weakness: Blue has the fewest anger cards (about 10 in this build), so it reaches Calm/Dashing slowly; the Ally engine therefore has to work from Level 1-2 on card searches. |
-| 2 | Red | Red Enraged (`S27`) | Fast anger: about 39 anger-raising cards in 60, a deck core copied from the friend's Red Piccolo (non-Piccolo cards only; Dragon Balls and Piccolo cards removed). Goku L2 Determined turns any discard into a critical effect, which Red Enraged converts into +1 anger every turn, so Calm (L3) and Dashing (L4) arrive early and Goku himself does the Ally fetching; MPPV is also available. Weakness: only 6 Allies and 4 search cards, and Red has no Ally support (several Red cards banish or destroy Allies; those were left out). |
-| 3 | Saiyan | Saiyan Rampaging (`EV-S5`) | Goku is on the Saiyan heritage list; Rampaging needs 1 less anger to advance (minimum 4) and Styled attacks may raise anger 1. Saiyan Overhead Kick x2 fetches a Saiyan Ally (Vegeta is on the Rulebook 3.0 Saiyan list) and the style has 18 anger cards in this build. Weakest because it has neither Blue's Ally package nor Red's speed, and Rampaging's Power is not modelled anywhere. |
+## Ranking (best to worst) - after the simulator playtest
+The first version of this note ranked Blue first from card counts alone. The playtest (50 games against each of the 10 roster decks, 500 games per deck, alternating who goes first) ranks them differently:
+| # | Style | Mastery | Playtest | Round robin (roster) | How it plays |
+|---|---|---|---|---|---|
+| 1 | Saiyan | Saiyan Rampaging (`EV-S5`) | **70%** | 76.9% (rank 3 of 13) | Reaches Level 3 in 66% of games, Level 4 in 20%. Wins almost always by Survival; loses to the two fast Trunks decks. Saiyan Overhead Kick fetches Vegeta. |
+| 2 | Red | Red Enraged (`S27`) | **65%** | 61.1% (rank 4) | Fastest levelling: Level 3 in 96% of games, Level 4 in 69%, so Calm and Dashing really fire; wins by MPPV in about half its wins. |
+| 3 | Blue | Blue Tag Team (`EV-S10`) | **63%** | 56.7% (rank 6) | Most Ally-centred (5 Allies, Goku's Search x2, Heroic Plan, Overpowering Attack, Battle Readiness x2, Blue Arrest x2, Discharge x2) but reaches Level 3 in only 15% of games, so Calm/Dashing almost never fire. Its Allies attack about 4.9 times a game, mostly because Goku sits at stage 0 after taking stage damage (that is what switches them on). |
+Differences of 2-3 points between neighbours are inside the noise of 500 games (about +/-4 points); the 7-point gap between Saiyan and Blue is borderline. Controls (same lists with the Allies and Ally searchers swapped for style cards): Red 58% instead of 65%, Saiyan 65% instead of 70%,
+so the Ally package helped in the model in both cases (Blue was not controlled cleanly). Blue Protective with the Blue list scored 57% (Tag Team 60% at that point), so Tag Team is not the weak link.
+By Ally theme alone Blue Tag Team is still the right fit (the free Ally and the 32 Blue Ally cards); if the goal is the best result in the simulator, play Saiyan, and Red if Calm/Dashing firing matters to you.
 Not chosen: Black (Black Conflict would turn Goku's +life-card attacks into critical damage, but Black has almost no Ally support: Black Dash only fetches an Ally from the opponent's deck), Orange (rewards Drills, and its Ally cards remove Allies rather than support them), Namekian (Goku is not on the Namekian list).
-Blue Resolute (`AW-S5`, +1 life card; discard a Styled card to draw and prevent 4 stages and 4 life cards) is the one Blue alternative if the free Ally is not wanted.
+
+## Deck changes the playtest caused
+- Piccolo out of all three (see above). Blue: Concentrated Blast x3 instead; Taming Technique, Blue Kiss, Blue Waiting Drill and Energy Focus x2 out for Hand Blast, Stretch Kick, Slash, Back Break x2, Eye Lasers (62.6% vs 59.8%: noise-level, kept because it also removes cards the sim only half models).
+- Red: Red Hurl for Piccolo (65.2% vs 63.0%). Saiyan: Saiyan Cheap Shot for Piccolo (69.6% vs 64.0%).
+
+## What the simulator does not cover (from `coverage`)
+- Coverage: Blue 93% of card sentences modelled, Red 89%, Saiyan 87% ("hand-coded" means custom code, not every sentence). Unmodelled examples: Blue Guard's banish-instead-of-discard, Blue Overcharge, Blue Slash's mill, Red Double Strike and Shattering Leap second uses,
+  Saiyan Triangle Beams' two critical effects, Saiyan Rampaging's Power, Saiyan Analysis Drill, Saiyan Hand Swipe.
+- Added to the simulator for this: Allies (see `sim/README.md`, "Allies"), Goku Training / Determined / Calm / Dashing, Blue Tag Team, Ally search cards, Blue Lifting / Waiting / Transportation Drills, Blue Discharge, Blue Defensive Stance, Blue Arm Blast / Round Throw as stops, Saiyan Overhead Kick.
+  Goku's other levels (Relaxed, Motivated, Courageous, Selfless, Set 1) are not modelled, so an all-Set-7 or Selfless-at-Level-4 version could not be tested.
 
 ## What is not verified
-- The simulator (`sim/`) does not model Goku's levels or Allies (`python -m sim coverage` says so), so **there is no win-rate evidence**; the ranking is reasoning from card text and counts.
-- **(unverified)** Do Goku's Continuous "your attacks deal +X life cards" apply to attacks an Ally performs? The decks work either way, but Dashing's +4 on top of them is the plan's peak.
-- **(unverified)** How the Attack Table `AT` is read for an Ally's attack (Vegeta's damage is "AT life cards").
+- **(unverified)** Do Goku's Continuous "your attacks deal +X life cards" apply to attacks an Ally performs? The simulator assumes yes.
+- **(unverified)** Timing of Chaozu shuffling himself back into the Life Deck (modelled as right after his attack); which Allies count as "Saiyan Ally" for Overhead Kick (modelled: Vegeta only); the AI's target choice for Yamcha's HIT.
 - **(unverified)** Whether the app's code for this MP must carry `(Awakening)`.
-- Allies can act only when the MP is at most 1 stage above 0 (Rulebook 3.0), except via Calm, Dashing, Blue Kiss, Tag Team's placement, or a card that says so. In Blue/Tag Team the early Allies mostly serve as stops (Vegeta from hand, Chichi, Piccolo) until Calm/Dashing.
-- Card counts of "anger cards" come from a text search ("raise your anger", "raise a player", "raise or lower") and are approximate.
+- Not modelled: damage redirected to Allies, so Allies are never used as shields; Ally Continuous powers other than the ones coded.
+- The simulator is a toy model with one simple AI for both sides: these are comparisons between lists, not predictions of real games.
