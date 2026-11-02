@@ -127,6 +127,18 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
 
+- **Cell Jr.** (Villain MP, Set 7 only, one printing per level: Taunting AW-U68, On the Move AW-U69, Oppressive AW-U70, Confident AW-U71; Saiyan and Namekian heritage both true).
+  Level 1 says "Your Life Deck may include up to 3 copies of each Ally with "Cell Jr." in the title", so the three Cell Jr. Allies (Trapped AW-U76, Escaping AW-U77, Unrelenting AW-U78) go in x3 each = 9
+  (the owner's reading; it overrides both the one-copy-per-Ally limit and "no Allies that match your MP's name"). `deckcode.py check` does not know this exception and reports four false errors on every Cell Jr. deck
+  (3x "Ally with the MP name" and "Cell Jr. x9, limit 1"); `scripts/build_cell_jr_decks.py` filters exactly those and checks the 3/3/3 split itself. The FanZ CRD says the opposite (1 copy of each, "Non-Unique"); not used here.
+  The levels are an **Ally-in-hand** engine: L1 discards a Cell Jr. Ally for an unstoppable 4-stage attack whose HIT plays any card with a [Continuous] effect from the Life Deck (Blue Waiting Drill, Blue Biting Drill, Trapped, Escaping);
+  L2 stops one attack per combat the same way and hits for 5 + the Cell Jr. personalities in your discard pile (up to 14 stages); L3 Rejuvenates an Ally from hand to stop a physical or energy attack, Rejuvenates 2 from the discard pile and fetches one to hand;
+  L4 banishes an Ally from hand as an action to destroy 3 cards (4 with Trapped) and gives non-AT physical attacks +3 stages. **Trapped** adds 1 to every "destroy the top X of your opponent's Life Deck" effect while you control any Ally.
+  Nothing in Sets 1-7 searches an Ally *to hand* except L3's HIT (Visiting the Past, Quickness Drill and Battle Pausing fetch from the discard pile), so the hand is fed by draws: P(at least one Cell Jr. Ally) in the first 3 / 6 / 9 cards is 39% / 64% / 79%.
+  **Cell's Provocation (AW-R132) is Named "Cell", not "Cell Jr."**, so it is left out of every Cell Jr. deck under the Named rule (owner has not been asked whether to allow it; it would fit the Blue and Black builds). Cell Jr.'s Swarm and Surround are Named "Cell Jr." and legal.
+  The simulator does not model any Cell Jr. level, the Mastery used or Allies (`python -m sim coverage` lists all four levels as NOT MODELLED), so the three builds were **not simulated**; the ranking is card analysis only.
+  Builds on file: `decks/cell_jr_blue_tag_team.txt` (recommended), `cell_jr_red_ascension.txt`, `cell_jr_black_perceptive.txt` (see the table below).
+
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
 | File | MP / style / Mastery | Status |
@@ -144,6 +156,13 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+
+Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; none imported or simulated yet):
+| File | MP / style / Mastery | Status |
+|---|---|---|
+| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | recommended: Waiting Drill + Rejuvenate Allies mill engine; 0.32 anger points per card, so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
+| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | fastest clock (0.92 anger points per card, Ascension adds up to 2 anger a turn); uses the Ally text least. Not imported |
+| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | mill stack (Chomp, Choke, Wilt, Taunt, Command); 0.43 anger points per card; Perceptive's Power destroys your own top card too. Not imported |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
