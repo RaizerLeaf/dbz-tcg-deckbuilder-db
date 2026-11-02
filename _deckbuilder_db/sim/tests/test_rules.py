@@ -142,6 +142,28 @@ class Anger(unittest.TestCase):
         self.assertEqual(a.anger, 1)
 
 
+class NamekianKnowledge(unittest.TestCase):
+    """Approximation of Namekian Knowledge (shuffles into the Life Deck are not modelled)."""
+    def test_rejuvenate_in_combat_raises_anger_but_not_in_the_rejuvenation_step(self):
+        g, a, b = game(spec('N', 'Nail', ['Watchful', 'Protector', 'Unflinching', 'Combat Ready'], 'Namekian Knowledge Mastery'))
+        a.discard.append(a.deck.pop(0))
+        a.rejuv(1, in_combat=True)
+        self.assertEqual(a.anger, 1)
+        a.discard.append(a.deck.pop(0))
+        a.rejuv(1, in_combat=False)
+        self.assertEqual(a.anger, 1)
+
+    def test_namek_ball_entering_play_destroys_the_top_card_and_balls_are_protected(self):
+        g, a, b = game(spec('N', 'Nail', ['Watchful', 'Protector', 'Unflinching', 'Combat Ready'], 'Namekian Knowledge Mastery'))
+        ball = Card(RECS[cid('Namek Dragon Ball 5')])
+        a.balls.append(ball)
+        before = len(b.deck)
+        for beh in a.behaviors():
+            beh.on_ball_entered(a)
+        self.assertEqual(len(b.deck), before - 1)
+        self.assertTrue(any(beh.protect_balls(a) for beh in a.behaviors()))
+
+
 class Wheelo(unittest.TestCase):
     def test_destroy_amplifiers(self):
         g, a, b = game(spec('W', 'Dr. Wheelo', ['Big Brain', 'Scheming', 'Confined', 'Robotic'], 'Black Devious Mastery', 'Black Lunge'),

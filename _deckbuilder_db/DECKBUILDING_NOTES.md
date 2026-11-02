@@ -86,7 +86,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
   whether you want to or not), "cannot be prevented" does not beat Stops, and stage damage drains the MP first (the lock works because the opponent cannot pay for energy attacks or use Allies at 0).
 - **Nail** (only one legal printing set, Set 2): Protector punishes stops. Nail's Dashing Attack (an Energy Combat card by owner ruling, physical attack in
-  text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans are the top two.
+  text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans were the top two before the 2026-11-02 comparison; that session ranked **Red Enraged > Namekian Knowledge > Black Devious** (see `NAIL_STYLE_COMPARISON.md`).
 - **Dr. Wheelo**: destroy effects get +1 at Level 3 and +2 and Rejuvenate 2 at Level 4. Banish effects do not count. Black Perceptive Mastery
   (Set 4 only) is likely a better fit than Devious. Revival triggers when discarded or destroyed from your Life Deck.
 - **Dr. Wheelo vs anger/MPPV decks**: Blue Protective (opponent needs 6 anger to advance) turns Wheelo into an anti-anger mill deck: Blue Biting Drill
@@ -143,6 +143,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
+| `decks/nail_red_enraged.txt` | Nail, Red, Red Enraged | anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`. Not imported yet |
+| `decks/nail_namekian_knowledge.txt` | Nail, Namekian, Namekian Knowledge | Rejuvenate/Namek-ball build, second pick; slower. Not imported yet |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
 
 ## Deck code format (from the owner's web app)

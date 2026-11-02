@@ -144,6 +144,19 @@ class RedEnraged(Behavior):
             p.discard.append(p.hand.pop(0))
 
 
+@mastery('Namekian Knowledge Mastery')
+class NamekianKnowledge(Behavior):
+    """Approximation. Rejuvenate effects during combat raise anger 1 (shuffling cards into the Life Deck is NOT modelled);
+    a Namek Dragon Ball entering play destroys the opponent's top card; Dragon Balls cannot be captured."""
+    def on_rejuvenate(self, p): p.raise_anger(1)
+
+    def on_ball_entered(self, p):
+        if p.balls and p.balls[-1].name.startswith('Namek ') and p.opp is not None:
+            p.opp.mill(1, 'destroy')
+
+    def protect_balls(self, p): return True
+
+
 @mastery('Black Devious Mastery')
 class BlackDevious(Behavior):
     def stage_bonus(self, p, card, opp): return 1
