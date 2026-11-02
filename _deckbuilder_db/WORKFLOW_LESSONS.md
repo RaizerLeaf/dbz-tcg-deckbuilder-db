@@ -32,6 +32,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
 | Built a card pool from the first printing and read a stale wording (Black Command, Orange Palm Blasts, Black Scout Maneuver) | the latest print wins: `text_current` carries it; a real image that prints "(Most Recent Printing)" is the MRP even when the CRD is silent |
 | The cloud session was set to push to a branch while `CLAUDE.md` says push to `main`; the owner learned this late and was surprised | when the session's branch rule and `CLAUDE.md` disagree, say so in the first reply and ask which to follow; do not quietly pick one |
 | Offered changes to a deck the owner said was for a friend | leave a friend's deck as it is unless asked; describe the change and let the owner decide |
+| Built a Raditz deck that mixed Red, Orange and Saiyan cards under a Red Mastery and presented it as checked | Rulebook 3.0: all Styled cards must match the Mastery's style. `deckcode.py check` and `friends/site/core.js` now report it (the parity test keeps them equal); when building, pick one style plus Freestyle |
 | Believed "skip their next action" stops defenses | responding to an attack is not an Action (Rulebook 3.0) |
 | Wrote simulator output paths with `../work/full` and created a stray `work/` outside `_deckbuilder_db/` | pass `--out work/full` exactly; check `git status` for untracked top-level folders |
 | Generated `docs/` went stale after another chat changed card text | `friends/tests` has a freshness test that fails until `python friends/build_site.py` is re-run |
