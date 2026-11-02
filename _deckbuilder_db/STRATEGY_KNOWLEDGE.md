@@ -49,8 +49,7 @@ Items marked **(unverified)** are inferences. Everything else is from `work/crd/
 - **Never retype a code by hand**: write it to a file with the script. (A retyped copy of one Trunks code lost a card and showed 59.)
 - **(unverified)** The qualifier in an MP name such as `Trunks (Awakening)` probably names the set of the MP group when a character has several MP sets (Premiere, Evolution,
   Awakening deck-reveal); the explicit printings field overrides which levels are used.
-- **Discrepancy to resolve:** the encoder's sample code for the friend's "redder Pic 1.0" deck has MP printings `_EV-S11_S22_S23_S24`, i.e. Level 1 = Composed (Evolution), Levels 2-4 =
-  Combat Stance, Unleashed, Fused (Premiere). The owner had said all four were Premiere (Stoic at L1). Ask the owner which is right before simulating that deck.
+- **Resolved (owner, 2026-11-02):** `EV-S11` is Piccolo Composed (Stoic is `S21`). The friend's "redder Pic 1.0" deck plays Stoic; the owner's second export of it has no printings field (same 60 cards). The earlier code with `_EV-S11_S22_S23_S24` selected Composed explicitly. What the app plays when the field is absent is not confirmed (probably the first printing of each level, i.e. Stoic).
 
 ## 5. Strategy lessons
 **How a style was chosen (use this method):** list what each level rewards and punishes, count supply of the cards that stack with the MP, list cards that cancel the MP's passives,

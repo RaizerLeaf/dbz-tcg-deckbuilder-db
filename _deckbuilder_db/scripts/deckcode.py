@@ -30,6 +30,9 @@ SAMPLE_CODES = [  # exported by the owner's app; their decoded lists matched the
     'VG-U83.VG-U97*2.VG-U98',
     'D1.redder%20Pic%201%2E0.Piccolo.S27._EV-S11_S22_S23_S24.C1.C2.C3.C46*3.C49*3.C50*3.HV-C44*2.HV-C47*3.HV-C48*3.'
     'MC-R118*2.R121.R152.S119*3.S120*3.S139*3.S148*3.S35*2.S49*3.S60*3.S69*3.S80*3.S94*2.U107*2.U119*3.U61.U62.U63',
+    # Same 60 cards as the Piccolo code above, exported without the MP printings field (the friend plays Stoic at Level 1).
+    'D1.redder%20Pic%201%2E0.Piccolo.S27.C1.C2.C3.C46*3.C49*3.C50*3.HV-C44*2.HV-C47*3.HV-C48*3.MC-R118*2.R121.R152.S119*3.'
+    'S120*3.S139*3.S148*3.S35*2.S49*3.S60*3.S69*3.S80*3.S94*2.U107*2.U119*3.U61.U62.U63',
     'D1.Orange%20Trunks%20V2.Trunks%20%28Awakening%29.AW-S10._VG-U76_EV-S2_U64_EV-S4.AW-C32.AW-C37.AW-R119*3.'
     'AW-R139*3.AW-U93.C36.C41*2.C42*2.MC-C37*2.MC-R115*3.MC-U90.PF-C39*2.PF-C42.PF-R110.PF-R111*2.PF-R113*3.'
     'PF-R128*2.PF-U93.R139.R150*2.R152.R159*3.S101.S107*3.S128.S138*2.S42.S78*2.S99.U95.UR163.VG-C39*2.VG-R115.'

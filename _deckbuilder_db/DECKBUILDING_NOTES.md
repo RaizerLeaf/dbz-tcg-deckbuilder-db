@@ -94,7 +94,7 @@ owner's three sample codes, Broly / Piccolo / Trunks, whose decoded lists matche
   `MC-R125`, `EV-S11`, `UR162`. Set prefixes: none = Set 1, `HV` 2, `MC` 3, `EV` 4, `PF` 5, `VG` 6, `AW` 7.
 - The Mastery is a card number, not a name (`S25` = Saiyan Empowered, `S27` = Red Enraged).
 - Set 7 DR cards are `S<n>` (`AW-S10` = Orange Retribution Mastery DR10, confirmed by the owner's Trunks code).
-- The MP printings field is optional (the Broly code has none).
+- The MP printings field is optional (the Broly code and the friend's second Piccolo code have none). **(unverified)** With no field the app probably uses each level's first printing (Piccolo: Stoic `S21` at Level 1; `EV-S11` is Composed).
 - The app's MP name can carry a qualifier (`Trunks (Awakening)`); what it means is not known yet.
 - **The app knows each non-MP card by one printing only: its first** (earliest set; within a set starter/DR, then booster, then promo).
   The owner's codes always use it (`S25` not `R145`, `R152` not `P8`, `S149` not `AW-S122`), and later reprints (`AW-S77` Stare Down,
