@@ -117,6 +117,7 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `on_card_discarded(p)` | one of your cards was discarded | nothing |
 | `on_play(p, opp, card)` | you perform an attack with `card` | nothing |
 | `on_drill_played(p, opp, card)` | you played a Drill | nothing |
+| `on_enters_play(p, opp, card)` | one of your Setups or Drills entered play: played in the Planning Step, or searched / placed by an effect (`enter_play(p, card)`, `fetch_from_deck(..., 'drill'/'setup')`). `p.game.in_combat` says whether it happened during combat (Raditz Level 2 and 4, Orange Torching Drill) | nothing |
 | `on_stopped(p, opp, card)` | your attack `card` was stopped | nothing |
 | `on_stop_made(p, opp, card)` | you stopped `card` | nothing |
 | `stage_bonus(p, card, opp)` / `life_bonus(p, card, opp)` | damage of your attack is computed | added |

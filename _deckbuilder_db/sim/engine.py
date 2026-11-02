@@ -478,6 +478,7 @@ class Game:
         a.opp, b.opp = b, a
         self.players = [a, b]
         self.first = first
+        self.in_combat = False          # True while a combat is being resolved (used by 'enters play during combat' effects)
         for p in self.players:
             for beh in p.behaviors():
                 beh.on_game_start(p)
@@ -541,10 +542,14 @@ class Game:
             ex = B.CARD_EXTRA.get(c.name, {})
             if ex.get('enters'):
                 ex['enters'](p, o, c)
+            for b in p.behaviors():
+                b.on_enters_play(p, o, c)
         for c in [x for x in p.hand if x.ctype == 'Setup']:
             if c in p.hand:
                 p.hand.remove(c)
                 p.setups.append(c)
+                for b in p.behaviors():
+                    b.on_enters_play(p, o, c)
         B.plan_allies(p, o)
         pur = p.lv.pur + sum(b.pur_bonus(p) for b in p.behaviors())
         p.stage = min(10, p.stage + pur)
@@ -559,6 +564,7 @@ class Game:
     def combat(self, p, o):
         p.reset_combat()
         o.reset_combat()
+        self.in_combat = True
         for b in p.behaviors():
             b.entering_combat(p, o, False)
         for s in [x for x in p.setups if x.instant_entering]:
@@ -578,3 +584,4 @@ class Game:
         for q in (p, o):
             for b in q.behaviors():
                 b.end_of_combat(q, q.opp)
+        self.in_combat = False

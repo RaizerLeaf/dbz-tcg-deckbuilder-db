@@ -67,6 +67,8 @@ Things to know:
 
 ## Legality checklist (run before giving any deck)
 1. 60 cards, copy limits, printed limits.
+1b. **Every Styled card must match the Mastery's style** (Rulebook 3.0: "All of your Styled cards must match the Style of your Mastery"; Freestyle cards are free). `deckcode.py check` and the page checker enforce it.
+   A Raditz draft mixed Red, Orange and Saiyan cards under Red Enraged and passed the old checker; never pick cards across styles.
 2. **Named cards must match the MP name** ("Goku's Search" cannot go in a Nail deck). Use `is_named` /
    `named_character`. Cards that are only "considered Named for your effects" (Pesky Barrage, Black Back Strike) are fine in any
    deck. "Time Is A Warrior's Tool" and "It's Over 9,000!" are not Named (`NOT_NAMES` in `derive.py`).
@@ -165,6 +167,14 @@ Things to know:
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
+- **Raditz** (Villain, Saiyan heritage, only Set 2 printings are legal: True Saiyan, Confident, Angered, Triumphant): Setups and Drills are played in the Planning Step, Setups are used in combat.
+  L1 Power: physical attack (1 life card), look at your top 2 (one to hand, one banished from your own Life Deck), raise anger 1. **L2: every Setup or Drill entering play destroys the top card of the opponent's Life Deck, and +1 anger if it enters during combat** (searched or "placed into play"; Planning-step plays give the destroy only).
+  L3: opponent discards a random card when entering combat (Instant). L4: Setup/Drill entering play Rejuvenates a card; the first critical damage effect each combat searches Life Deck or discard pile for a Setup/Drill and places it into play. Named: Raditz's Offensive Guard
+  (attach: once per combat place a Setup/Drill from hand into play), Raditz's Dirty Tactics (Limit 2, not used). The Set 2 Nappa Ally ("Setups cannot be used") is a trap in a Setup deck. Many "Events" in the Red/Saiyan pool are really Setups (Red Blaze, Red Destiny, Saiyan Enraged), so they also trigger L2 when played.
+  **Styled cards must match the Mastery** (Rulebook 3.0): Orange Celebration/Encouragement ("a Styled Drill") only find Drills of the Mastery's style, so the Drill engine is Orange only with an Orange Mastery.
+  Simulated styles (50 games per roster deck): **Orange Retribution 82%** (80% after the Vegeta deck joined the roster) (anger 2 a turn from its Power plus Drills entering play; reaches Level 4 by its second turn and wins by MPPV about turn 5), Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%
+  (the last three are within noise of each other; against the 12-deck roster that now contains Raditz Orange they measure 46% / 42% / 38%). Decks on file: `decks/raditz_orange.txt` (on the roster), `raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt`. Not modelled: Offensive Guard's "banish from hand to stop an attack", Orange Retribution's
+  shuffle-Drills-on-level-change, Rampaging's Power, Red Slide keeping Drills. **(unverified)** Saiyan Analysis Drill copies do not stack and do not lower Level 4 MPPV; Level 3's discard also fires when defending; Level 1's reveal/anger happen even if its attack is stopped.
 
 - **Vegeta (Hero)** (Saiyan heritage; Hero levels from Evolution = Styled, Awakening = non-Styled): Awakening *Experienced / Imposing / Energized / Pinnacle of Power* give non-Styled (Freestyle) attacks
   +2 / +1 (and no prevention) / +3 (and a second use of the first stopped one) / +3 and **cannot be stopped**. Evolution *Calculating / On the Move / Super Saiyan / Elite* reward Styled attacks (life cards <-> stage damage;
@@ -189,9 +199,9 @@ Things to know:
   **Simulated (added 2026-11-02):** the four levels, Trapped/Escaping, the Blue Tag Team and Black Perceptive Masteries, Setup attacks and Setup defenses, partial prevention (Blue Overcharge) and the Blue/Black/Red cards listed in
   `sim/behaviors.py` ("Cell Jr." section) are modelled. Not modelled: Unrelenting's attack (Allies act only when the MP is at most 1 stage above 0), Waiting Drill's "whenever you play an Ally, Rejuvenate 1", Tag Team's protection from critical
   effects, Black Pop-Up's naming gamble, Black Dash's Ally steal, Blue Challenging Strike lasting through your next turn. **(unverified)** two Trapped in play are assumed to stack; Tag Team's Ally arrives at game start instead of the opponent's first turn.
-  Result of the 50-game playtests against the 14 other roster decks (700 games each, +-4 points overall, +-14 per opponent): Red Ascension 67%, Blue Tag Team 67%, Black Perceptive 59%; round-robin rank 3 / 5 / 6 of 15.
+  Result of the 50-game playtests against the 18 other roster decks (900 games each, +-3 points overall, +-14 per opponent): Red Ascension 68%, Blue Tag Team 67%, Black Perceptive 59%; round-robin rank 4 / 6 / 7 of 19.
   Red and Blue are a tie (head to head Red 27-23); Red reaches Level 4 in about 4 of 5 games and wins by MPPV, Blue stays on Levels 1-2 and wins by Survival (Taunting every turn, Waiting Drill fetched by its HIT, Arrest/Slash mill);
-  Black is behind both. All three lose to the fast Trunks decks (Orange 22-28%, Red 22-34%).
+  Black is behind both. All three lose to the fast Trunks decks (Orange Trunks 20-28%, Red Trunks 22-34%) and to Raditz Orange (Red Ascension 20%).
   Builds on file: `decks/cell_jr_red_ascension.txt`, `cell_jr_blue_tag_team.txt`, `cell_jr_black_perceptive.txt` (see the table below).
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
@@ -212,6 +222,8 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+| `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
+| `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
 | `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
 | `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
 | `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
@@ -219,9 +231,9 @@ Things to know:
 Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; simulated, none imported into the app yet; all three are on the roster):
 | File | MP / style / Mastery | Status |
 |---|---|---|
-| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (67% over 700 playtest games, round-robin rank 3): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
-| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 5): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
-| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 59% (round-robin rank 6): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
+| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (68% over 900 playtest games, round-robin rank 4): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
+| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 6): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
+| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 59% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
