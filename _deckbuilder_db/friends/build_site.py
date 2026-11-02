@@ -42,7 +42,7 @@ def build_data():
         if t == 'Main Personality':
             continue
         rec = {'id': cid, 'name': c['card_name'], 'disp': cardnames.DISPLAY.get(cid, c['card_name']), 'type': t, 'style': c['style'] or 'Freestyle',
-               'text': re.sub(r'\s+', ' ', dc.text(c)).strip(), 'restr': list(c['restrictions']), 'code': dc.card_code(c), 'set': c['set_number']}
+               'text': re.sub(r'\s+', ' ', dc.text(c)).strip(), 'restr': list(c['restrictions']), 'align': c.get('alignment') if t == 'Ally' else None, 'code': dc.card_code(c), 'set': c['set_number']}
         if t == 'Mastery':
             rec['style'] = c['style']
             masteries.append(rec)

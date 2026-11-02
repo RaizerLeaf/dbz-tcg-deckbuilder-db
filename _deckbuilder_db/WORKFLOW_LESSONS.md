@@ -36,6 +36,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
 | Believed "skip their next action" stops defenses | responding to an attack is not an Action (Rulebook 3.0) |
 | Wrote simulator output paths with `../work/full` and created a stray `work/` outside `_deckbuilder_db/` | pass `--out work/full` exactly; check `git status` for untracked top-level folders |
 | Generated `docs/` went stale after another chat changed card text | `friends/tests` has a freshness test that fails until `python friends/build_site.py` is re-run |
+| Put Korin (a Hero Ally) in a Lord Slug (Villain) deck; the checker only looked at "(Heroes only)" text, and Hero Allies carry no such text | `deckcode.check` and `friends/site/core.js` now compare an Ally's `alignment` with the MP's; read the card edge / `alignment` field, not just the text box |
 | Told the owner to enable GitHub Pages although the repo was private | Pages is not available for private repos on the free plan; check visibility first |
 
 ## Tool, git and sandbox gotchas

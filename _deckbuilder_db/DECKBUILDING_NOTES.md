@@ -73,7 +73,8 @@ Things to know:
    `named_character`. Cards that are only "considered Named for your effects" (Pesky Barrage, Black Back Strike) are fine in any
    deck. "Time Is A Warrior's Tool" and "It's Over 9,000!" are not Named (`NOT_NAMES` in `derive.py`).
 3. "(Heroes only)" / "(Villains only)" must match the MP's alignment. Hero decks use Confrontation, Villain decks use Stare Down.
-4. No Ally with the MP's name (and, for fused MPs, none of the characters it fuses).
+4. **Allies must match the MP's alignment** (owner, 2026-11-02): a Hero Ally (card edge reads 'HERO ALLY', `alignment` Hero, e.g. Korin, Maron, Mr. Popo) cannot be in a Villain deck, and a Villain Ally cannot be in a Hero deck, even when the text has no "(Heroes only)" line. `deckcode.py check` and the friends' page now reject it.
+   No Ally with the MP's name (and, for fused MPs, none of the characters it fuses).
 5. The MP must have all four levels. A deck may mix printings from different sets.
 
 ## Defaults the owner wants in (nearly) every deck

@@ -195,6 +195,8 @@ def check(deck):
                 err.append(f'{nm}: {r} only')
         if c['is_named'] and c['named_character'] and c['named_character'] != mp:  # 'considered Named' cards have none
             err.append(f"{nm}: Named {c['named_character']}, MP is {mp}")
+        if ctype(c) == 'Ally' and c.get('alignment') in ('Hero', 'Villain') and c['alignment'] != align:
+            err.append(f"{nm}: {c['alignment']} Ally in a {align} deck")     # owner ruling 2026-11-02: Hero Allies are not usable with a Villain MP (and the reverse)
         if ctype(c) == 'Ally' and nm in (g['cannot_include_allies_named'] or []):
             err.append(f'{nm}: Ally with the MP name')
     for nm, n in names.items():

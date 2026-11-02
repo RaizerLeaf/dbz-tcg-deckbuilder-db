@@ -91,5 +91,16 @@ class ListToCode(unittest.TestCase):
         self.assertIn('Mastery', l2c.convert('MP: Nail\nMastery: Nope Mastery')[1][0])
 
 
+class AllyAlignment(unittest.TestCase):
+    def test_hero_ally_is_rejected_in_a_villain_deck(self):      # owner, 2026-11-02: Korin (Hero Ally) cannot be played with Lord Slug (Villain)
+        d = dc.decode((ROOT / 'decks' / 'lord_slug_namekian_knowledge.txt').read_text().strip())
+        self.assertEqual(dc.check(d)[0], [])
+        korin = next(c['card_id'] for c in dc.CARDS if c['card_name'] == 'Korin' and c['set_number'] == 4)
+        d['cards'][next(iter(d['cards']))] -= 1
+        d['cards'][korin] += 1
+        errors = dc.check(d)[0]
+        self.assertIn('Korin: Hero Ally in a Villain deck', errors)
+
+
 if __name__ == '__main__':
     unittest.main()
