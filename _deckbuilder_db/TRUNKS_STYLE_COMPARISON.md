@@ -53,3 +53,5 @@ V5 84.2 / 50.8 / 91.2 / 99.0 / 99.6 / 99.0 / 96.3 (88.6); **V6 91.8 / 72.0 / 96.
   Orange Burning Aura Drill can be fetched by Retribution's start-of-game search (the other Drills are Continuous); the tuning opponents are fixed decks, so anger-lowering is over-rewarded against them.
 - `decks/trunks_orange_v6_lite.txt`: V5 plus Shoulder Slam (and -Hiding Drill, -1 Truck Lift, +1 Refocus). vs Piccolo 86.5% (MPPV off 74.4%), vs Red Trunks 52.0% (off 39.7%). MPPV is about 35-40% of its wins.
 - Both pass `deckcode.py check` (no errors or warnings), re-encode identically, 60 cards. Neither is confirmed in the app yet.
+- Numbers above for V6 / V6 lite were measured before merging the other chats' simulator changes (roster, Allies, ...). Re-run on the merged `main` (3,000 games, same seed) vs Piccolo: V6 89.4%, V6 lite 84.6%
+  (about 2 points lower; the ranking is unchanged). Quote the newer figures if they are re-measured.
