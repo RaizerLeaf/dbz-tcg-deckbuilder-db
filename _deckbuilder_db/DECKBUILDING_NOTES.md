@@ -137,6 +137,7 @@ Things to know:
   Wheelo L2 mills 1 per stop, which Protective's Power and Blue's stops feed. Black keeps its mill and can add anti-anger cards instead (Black Choke, Impediment,
   Easy Block, Corruption, Extreme Blast). Wheelo has no MPPV engine past L1 (L1 sets anger to 3; L2-L4 give none) and tiny power levels, so a "faster MPPV"
   build is not recommended. Protective, "your opponent destroys" and Wall Breaker rulings: see Mechanics confirmed by the owner.
+  **2026-11-02 update:** the MPPV route does work for Wheelo. L1's Power sets anger to 3 and L2's +2 life cards turns 3-life-card Red attacks into critical hits. Red Ascension reached 74% in the simulator (Blue Protective 46%, Black Perceptive 45%, Red Enraged 47%, Black Devious 21%); full comparison and deck in `WHEELO_STYLE_COMPARISON.md`.
   Mill numbers with the confirmed "your opponent destroys" ruling, at Level 4 (+2): Blue Slash 6 -> 8 (9 with Cell Jr. AW-U76, 10 with Blue Challenging Strike up), Blue Biting Drill 1 -> 3,
   Dr. Wheelo's History 3 -> 5. Option 2 (keep Black's mill and add Black Choke / Impediment / Easy Block / Extreme Blast and Villainous Energy Beam / Power Ball) was described but **not built**.
 - **Trunks** (Hero; four sets of levels, mix freely): Premiere Inquisitive/Resolved/Energy Charged/Young Super Saiyan (reorder the top of a Life Deck on entering combat, Energy Charged draws);
@@ -233,6 +234,7 @@ Things to know:
 | `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
 | `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
 | `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
+| `decks/wheelo_red_ascension.txt` | Dr. Wheelo, Red, Red Ascension (Set 3 levels) | built 2026-11-02; MPPV race deck, 74% over 1,250 playtest games, **roster rank 4 of 25**; check clean (60 cards); comparison builds `wheelo_red_ascension_v1`, `wheelo_red_enraged`, `wheelo_black_perceptive`, `wheelo_black_conflict` (not on the roster); **not imported in the app yet** |
 | `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 59% over 1,100 playtest games (roster rank 10 of 23); not imported |
 | `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 57% over 1,100 playtest games (roster rank 8); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
 | `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 64% over 1,100 playtest games (roster rank 6); Rampaging's Power not modelled; not imported |
