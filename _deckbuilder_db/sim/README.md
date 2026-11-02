@@ -14,6 +14,8 @@ python -m sim run  sim/decks/wheelo_black_v2.txt sim/decks/piccolo_red_friend.tx
 python -m sim bo3  sim/decks/trunks_red_draft.txt sim/decks/trunks_orange_v4.txt --no-mppv-b   # best of 3 with the play log
 python -m sim game A B --seed 7 --first b                                                     # one game with the play log
 python -m sim coverage sim/decks/nail_black_v2.txt                                            # what the model does NOT cover for this deck
+python -m sim playtest decks/<name>.txt                                                       # deck building: play a deck against the test-deck roster (up to 25 decks; 20 games each, 50 max; seconds)
+python -m sim roster [add decks/<name>.txt | rebuild]                                         # the test-deck roster (up to 25 decks) (sim/roster.json); `add` ranks a finished deck into it
 python -m unittest discover -s sim/tests -t .                                                 # rule tests
 ```
 A and B are deck codes (in quotes) or paths to `.txt` files holding one code. Deck codes are decoded with `scripts/deckcode.py`
@@ -31,6 +33,7 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   `@mp(name, subtitle)` / `@mastery(name)`. Drills and Dragon Balls that stay in play use `@passive(card name)`. One-off card effects go in `CARD_EXTRA`.
 - `loader.py` - deck code -> `Spec` (60 card ids, MP level printings, Mastery). With no printings field it picks the earliest Sets 1-7 printing of each level.
 - `decks/` - sample decks used for regression runs.
+- `roster.py`, `roster.json` - the test-deck roster: at most 25 decks, **one version per MP + Mastery**, ranked by round-robin win rate; a new deck that ranks in the top 25 joins and the lowest is retired. Pair results are cached in `roster.json`, so `roster add` takes well under a second and `playtest` at the 50-game cap takes seconds (see the docstring).
 
 ## What is modelled
 - MP levels: Trunks (Dashing, Protective, Frenzied, Swordmaster, Defiant, Energy Charged, Bold, Overpowering, Overwhelming), Piccolo (Stoic, Composed, Combat Stance,
@@ -57,6 +60,29 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   They match the earlier one-off scripts, so a change that moves these needs an explanation.
 
 ## Adding things
+**New to the simulator? Read `MODELLING_GUIDE.md` first** (this folder): a step-by-step walk from "coverage says NOT MODELLED" to a tested addition, with the hook reference table and a worked example (Nappa).
+`tests/test_docs.py` fails if a hook is added to `Behavior` without being explained in the guide.
+Deck building **requires** a simulator playtest (`DECKBUILDING_NOTES.md`, "Playtesting a deck in the simulator"), so adding a missing MP, Mastery or card is a normal part of building a deck, not an extra.
+Minimal examples (all in `behaviors.py`; read the neighbouring classes for the full hook list):
+```python
+@mp('Some MP', 'Level subtitle')              # subtitle exactly as in cards.json / mps.json
+class SomeMpL3(Behavior):
+    def stage_bonus(self, p, card, opp): return 3            # "Your attacks deal +3 stages of damage"
+    def life_bonus(self, p, card, opp): return 1             # "... +1 life card"
+    def has_power(self, p): return True                      # lets the AI declare combat to use it
+    def power(self, p, opp):                                 # a POWER: once per turn
+        if once_turn(p, 'some_mp_l3'):
+            p.raise_anger(1)                                 # or p.attack(opp, power=SOME_SYNTHETIC_ATTACK), p.draw(1), p.rejuv(2), ...
+            return True
+        return False
+
+@mastery('Some Mastery')
+class SomeMastery(Behavior):
+    def on_crit_effect(self, p): p.raise_anger(1)            # "Whenever you use a critical damage effect, raise your anger 1"
+
+_x('Some Card', hit=lambda p, o, c, removed: o.mill(2))      # a card effect the parser cannot read (immediate / hit / use / defend / on_damaged)
+```
+Use `synthetic('Name', 'POWER: [Attack] ...')` for an MP power that is an attack. Then `python -m sim coverage <deck>` should show the level as modelled.
 1. Run `python -m sim coverage <deck>`; fix the NOT MODELLED lines that matter for the matchup first.
 2. New MP level: add a `@mp('Name', 'Level subtitle')` class in `behaviors.py` with the hooks it needs (`power`, `stage_bonus`, `entering_combat`, ...).
    Mastery: `@mastery('Full Mastery Name')`. Card: an entry in `CARD_EXTRA` (`immediate`, `hit`, `use`, `defend`, `on_damaged`) or `@passive`.
