@@ -72,17 +72,54 @@ def _index():
 
 INDEX = _index()
 
+# The app knows a non-MP card only by ONE printing: the earliest set, and within a set starter/DR before booster before
+# promo. Evidence: the owner's codes always use that printing (S25 not R145, R152 not P8, S149 not EV-S158/AW-S122), and
+# the later printings AW-S118, AW-S122, AW-S77, EV-S159, EV-S165 came back "Unknown card". MP levels are chosen per
+# printing (EV-S11, VG-U76), so they are not canonicalised.
+_ORDER = {'starter': 0, 'dr': 0, 'booster': 1, 'promo': 2}
+
+
+def _norm(s):
+    return re.sub(r'[^a-z0-9]', '', s.lower())
+
+
+def _canonical_map():
+    groups = collections.defaultdict(list)
+    for c in CARDS:
+        if c['set_number'] and c['set_number'] <= 7 and '_RST' not in c['card_id'] and ctype(c) != 'Main Personality':
+            # Allies share names with other Allies (two Vegetas), so personalities are grouped by text as well.
+            key = (c['card_name'], _norm(c['text_as_printed'] or '') if ctype(c) == 'Ally' else '')
+            groups[key].append(c)
+    out = {}
+    for prints in groups.values():
+        first = min(prints, key=lambda c: (c['set_number'], _ORDER.get(c['collection'], 3), c['card_id']))
+        for c in prints:
+            out[c['card_id']] = first['card_id']
+    return out
+
+
+CANONICAL = _canonical_map()
+
+
+def app_printing(card_id):
+    """The printing the app knows this card by."""
+    return CANONICAL.get(card_id, card_id)
+
 
 def quote(s):
     return urllib.parse.quote(s, safe='').replace('.', '%2E')
 
 
 def encode(name, mp_name, mastery_id, cards, mp_levels=None):
-    """cards: {card_id: copies}; mp_levels: optional [L1, L2, L3, L4] card_ids."""
-    parts = ['D1', quote(name), quote(mp_name), card_code(BY_ID[mastery_id])]
+    """cards: {card_id: copies}; mp_levels: optional [L1, L2, L3, L4] card_ids.
+    Cards and the Mastery are written as the printing the app knows (see app_printing)."""
+    parts = ['D1', quote(name), quote(mp_name), card_code(BY_ID[app_printing(mastery_id)])]
     if mp_levels:
         parts.append('_' + '_'.join(card_code(BY_ID[i]) for i in mp_levels))
-    toks = [card_code(BY_ID[i]) + (f'*{n}' if n > 1 else '') for i, n in cards.items()]
+    merged = collections.Counter()
+    for i, n in cards.items():
+        merged[app_printing(i)] += n
+    toks = [card_code(BY_ID[i]) + (f'*{n}' if n > 1 else '') for i, n in merged.items()]
     return '.'.join(parts + sorted(toks))
 
 
@@ -164,6 +201,10 @@ def check(deck):
     dbsets = {nm.split(' Dragon Ball')[0] for nm in names if ' Dragon Ball ' in nm}
     if len(dbsets) > 1:
         err.append(f'more than one Dragon Ball set: {sorted(dbsets)}')
+    for i in list(deck['cards']) + [deck['mastery']]:
+        if app_printing(i) != i:
+            warn.append(f"{BY_ID[i]['card_name']}: the app may not know {card_code(BY_ID[i])}, "
+                        f"use {card_code(BY_ID[app_printing(i)])}")
     if names["Time Is A Warrior's Tool"] != 1:
         warn.append("Time Is A Warrior's Tool is not x1")
     want = 'Confrontation' if align == 'Hero' else 'Stare Down'
@@ -189,6 +230,8 @@ def test():
         d = decode(code)
         again = encode(d['name'], d['mp_name'], d['mastery'], d['cards'], d['mp_levels'])
         assert again == code, f'round trip failed:\n{code}\n{again}'
+        off = [i for i in list(d['cards']) + [d['mastery']] if app_printing(i) != i]
+        assert not off, f'sample code uses a non-first printing: {off}'
         err, warn = check(d)
         print(f"ok  {d['name']}: {sum(d['cards'].values())} cards, errors {err or 'none'}, warnings {warn or 'none'}")
 

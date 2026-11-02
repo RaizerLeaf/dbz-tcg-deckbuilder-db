@@ -86,6 +86,10 @@ owner's three sample codes, Broly / Piccolo / Trunks, whose decoded lists matche
 - Set 7 DR cards are `S<n>` (`AW-S10` = Orange Retribution Mastery DR10, confirmed by the owner's Trunks code).
 - The MP printings field is optional (the Broly code has none).
 - The app's MP name can carry a qualifier (`Trunks (Awakening)`); what it means is not known yet.
-- Prefer booster/starter printings over promos (the owner's codes use `R152` for Time Is A Warrior's Tool); promo codes are untested.
-- My first Nappa code failed because it wrote the Mastery as a name and dropped the rarity letters.
+- **The app knows each non-MP card by one printing only: its first** (earliest set; within a set starter/DR, then booster, then promo).
+  The owner's codes always use it (`S25` not `R145`, `R152` not `P8`, `S149` not `AW-S122`), and later reprints (`AW-S77` Stare Down,
+  `EV-S159`, `EV-S165`, `AW-S118`, `AW-S122`) came back "Unknown card". `deckcode.py` encodes this automatically (`app_printing`).
+  MP levels can be any printing.
+- Never retype a code by hand: write it to `decks/<name>.txt` with the script and paste from there. (The second Nappa code got an extra
+  `PF-R129`, Orange Ki Ball, from hand-copying.)
 - A name containing a period (Dr. Wheelo) written as `Dr%2E%20Wheelo` imported correctly: all 60 cards, MP Dr. Wheelo and Black Devious Mastery (owner-confirmed).
