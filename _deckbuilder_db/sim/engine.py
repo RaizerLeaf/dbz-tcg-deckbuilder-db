@@ -50,7 +50,7 @@ class Player:
         rng.shuffle(self.deck)
         self.level, self.stage, self.anger = 1, 5, 0
         self.hand, self.discard, self.banished = [], [], []
-        self.balls, self.drills, self.setups = [], [], []
+        self.balls, self.drills, self.setups, self.attached = [], [], [], []
         self.skip = 0
         self.won = self.lost = False
         self.win_reason = None
@@ -66,7 +66,7 @@ class Player:
                        gained=False, raised=False, destroyed_nonstyled=False, destroy_bonus=0, next_destroy_bonus=0,
                        next_life=0, next_free=False, reduce_life=0, reduce_stage=0, noend=False, burning=False,
                        noevents=False, nonstyled_lock=False, ball_search=False, searched=False, armed_discard=False,
-                       sword_played=False, next_unprev=False)
+                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False)
 
     def log(self, msg):
         self.game.log(msg)
@@ -77,7 +77,7 @@ class Player:
 
     def behaviors(self):
         out = [B.mp_behavior(self.mp_name, self.lv.name), B.mastery_behavior(self.mastery)]
-        for c in self.drills + self.balls + self.setups:
+        for c in self.drills + self.balls + self.setups + self.attached:
             b = B.CARD_PASSIVE.get(c.name)
             if b:
                 out.append(b)
@@ -165,6 +165,15 @@ class Player:
             return self.take_life(left)
         return 0
 
+    def lose_stages(self, n, floor0=False):
+        """This MP loses n stages. At power level 0 the rest comes off the Life Deck (Rulebook 3.0) unless the card says 'to a minimum of 0'."""
+        if n <= 0:
+            return 0
+        if floor0:
+            self.stage = max(0, self.stage - n)
+            return 0
+        return self.take_stages(n)
+
     def gain_stages(self, n):
         self.cb['gained'] = True
         self.stage = min(10, self.stage + n)
@@ -224,6 +233,8 @@ class Player:
             return
         self.stage = 10 if d > 0 else 5
         self.cb['changed'] = True
+        if self.opp is not None and self.opp.cb['set0_on_change']:      # Nappa's Energized Charge
+            self.stage = 0
         keep = any(b.keep_drills(self, old) for b in B.behaviors_of_level(self, old))
         if not keep:
             self.discard.extend(self.drills)
@@ -318,6 +329,8 @@ class Player:
         opp.lower_anger(c.anger_opp)
         if c.gain:
             self.gain_stages(c.gain)
+        if c.opp_lose:
+            opp.lose_stages(c.opp_lose, c.opp_lose_floor)
         if extra.get('immediate'):
             extra['immediate'](self, opp, c)
         unstop = c.unstoppable or any(b.unstoppable(self, c) for b in self.behaviors())
@@ -333,6 +346,11 @@ class Player:
         ds, life = 0, c.life
         if c.at is not None or c.stage_flat:
             ds = (self.at_value(opp) + c.at) if c.at is not None else c.stage_flat
+        if extra.get('base_stage'):
+            ds = extra['base_stage'](self, opp, c)
+        if ds and c.at is None:
+            for b in self.behaviors():
+                ds *= b.stage_scale(self, c, opp)
         if c.life_at:
             life = self.at_value(opp) + c.life
         life = max(0, life + B.life_adjust(self, opp, c))
@@ -350,7 +368,7 @@ class Player:
         life = max(0, life - opp.cb['reduce_life']) if life else 0
         ds = max(0, ds - opp.cb['reduce_stage']) if ds else 0
         opp.endure_count = 0
-        ign = c.unprev or self.cb['next_unprev']
+        ign = c.unprev or self.cb['next_unprev'] or self.cb['unprev_all'] or any(b.unprevented(self, c, opp) for b in self.behaviors())
         self.cb['next_unprev'] = False
         removed = opp.take_stages(ds) if ds else 0
         removed += opp.take_life(life, ignore_end=ign) if life else 0
@@ -381,6 +399,9 @@ class Player:
         return True
 
     def _finish(self, card, c):
+        if card is not None and getattr(card, 'keep', False):
+            card.keep = False            # attached to the MP / returned to the Life Deck by its own effect
+            return
         if card is not None:
             (self.banished if c.banish_after else self.discard).append(card)
 
@@ -402,6 +423,8 @@ class Player:
         self.hand.remove(x)
         self.raise_anger(x.anger_self)
         atk.lower_anger(x.anger_opp)
+        if x.opp_lose:
+            atk.lose_stages(x.opp_lose, x.opp_lose_floor)
         if x.gain:
             self.gain_stages(x.gain)
         if x.rej:
