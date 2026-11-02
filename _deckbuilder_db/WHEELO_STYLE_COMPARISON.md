@@ -92,5 +92,7 @@ Against the friend's Red Piccolo ("redder Pic 1.0") it won 36/50 (72%), every wi
 |---|---|---|---|
 | redder Pic 1.0 (friend's Red Piccolo) | 2 | won 2, lost 0 | 36/50 (72%) |
 | Orange Trunks V6 (`decks/trunks_orange_v6.txt`, roster #1) | not stated (at least 1) | won | 17/50 (34%): the simulator's worst-matchup class, so a real win here is a good sign for the deck |
+| A Saiyan Broly deck (owner's opponent's list, not on the roster) | not stated (at least 1) | won by MPPV | no simulator data (Broly is not modelled) |
+| A Saiyan Turles deck (not on the roster) | not stated (at least 1) | won by MPPV | no simulator data (Turles is not modelled) |
 
-Two games say little (the simulator's own 72% would give 2-0 about half the time); keep adding rows as more games are played.
+Small samples say little (the simulator's own 72% against Red Piccolo would give a 2-0 start about half the time); every real game so far is a win, and no loss has been reported yet, so the weak spots are still untested. Keep adding rows, losses especially.
