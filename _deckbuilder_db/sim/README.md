@@ -61,7 +61,10 @@ Modelled Allies enter at 3 stages (or as the card says), gain their PUR, act onl
 ## What the numbers mean
 - A win rate is the model's opinion for these two lists under identical simple play. Use it to see which side is faster and why (read a few `game` logs), not as a prediction.
 - Games are short (about 3 turns per player). Decks that need 4+ turns to start their engine lose most games against MPPV decks, in the model and (per the owner) in practice.
-- Regression numbers when this was written: Wheelo V2 vs the friend's Red Piccolo: Wheelo 16% (1,500 games). Red Trunks draft vs Orange Trunks V4 with Orange MPPV off: Red 61%.
+- Regression numbers when this was written: Wheelo V2 vs the friend's Red Piccolo: Wheelo 16% (1,500 games, Piccolo on Stoic). Red Trunks draft vs Orange Trunks V4 with Orange MPPV off: Red 61%.
+  **Updated 2026-11-02:** the friend's deck now plays his real Level 1, **Composed** (his exported code with the printings field; the real game log showed Composed): Wheelo V2 vs the friend now 14.3%.
+  Red Trunks draft vs Orange V4 (Orange MPPV off) now 64.3% (1,500 games, seed 1): it drifted from 61% after other chats' simulator changes were merged; the Uppercut / Enraged Bash modelling is not the cause (64.1% without it).
+- `--patient-a` / `--patient-b` (run, bo3, game): an opt-in policy where that side declares combat only on Level 4 with 4 or more anger, like the friend did in the owner's real game (`playlogs/`). Default behaviour is unchanged. Against a patient Composed Piccolo, games last about 7 turns instead of 4-5.
   They match the earlier one-off scripts, so a change that moves these needs an explanation.
 
 ## Adding things

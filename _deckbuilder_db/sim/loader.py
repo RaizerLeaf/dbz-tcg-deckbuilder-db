@@ -39,7 +39,7 @@ def default_levels(dc, group, qualifier=None):
     return out
 
 
-def load(arg, no_mppv=False):
+def load(arg, no_mppv=False, patient=False):
     dc = _deckcode()
     d = dc.decode(read_code(arg))
     g = dc.mp_group(d)
@@ -54,4 +54,4 @@ def load(arg, no_mppv=False):
     ids = []
     for cid, n in d['cards'].items():
         ids += [cid] * n
-    return Spec(d['name'], g['name'], levels, recs[d['mastery']]['card_name'], ids, no_mppv)
+    return Spec(d['name'], g['name'], levels, recs[d['mastery']]['card_name'], ids, no_mppv, patient)

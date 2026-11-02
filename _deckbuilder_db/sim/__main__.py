@@ -23,7 +23,7 @@ def play(a, b, seed, first):
 
 
 def cmd_run(args):
-    a, b = load(args.a, args.no_mppv_a), load(args.b, args.no_mppv_b)
+    a, b = load(args.a, args.no_mppv_a, args.patient_a), load(args.b, args.no_mppv_b, args.patient_b)
     res = collections.Counter()
     how = collections.Counter()
     byfirst = collections.Counter()
@@ -45,7 +45,7 @@ def cmd_run(args):
 
 
 def cmd_game(args):
-    a, b = load(args.a, args.no_mppv_a), load(args.b, args.no_mppv_b)
+    a, b = load(args.a, args.no_mppv_a, args.patient_a), load(args.b, args.no_mppv_b, args.patient_b)
     first = 0 if args.first == 'a' else 1
     r, g = play(a, b, args.seed, first)
     print('\n'.join(r.logs))
@@ -53,7 +53,7 @@ def cmd_game(args):
 
 
 def cmd_bo3(args):
-    a, b = load(args.a, args.no_mppv_a), load(args.b, args.no_mppv_b)
+    a, b = load(args.a, args.no_mppv_a, args.patient_a), load(args.b, args.no_mppv_b, args.patient_b)
     score = {0: 0, 1: 0}
     first, g_no = 0, 0
     while max(score.values()) < 2 and g_no < 3:
@@ -171,6 +171,8 @@ def main():
             sp.add_argument('b')
             sp.add_argument('--no-mppv-a', action='store_true')
             sp.add_argument('--no-mppv-b', action='store_true')
+            sp.add_argument('--patient-a', action='store_true')
+            sp.add_argument('--patient-b', action='store_true')
             sp.add_argument('--seed', type=int, default=1)
         if name == 'run':
             sp.add_argument('-n', type=int, default=1000)

@@ -29,10 +29,11 @@ class Level:
 class Spec:
     """Everything needed to build one player. Built by loader.py from a deck code."""
 
-    def __init__(self, name, mp_name, level_ids, mastery_name, card_ids, no_mppv=False):
+    def __init__(self, name, mp_name, level_ids, mastery_name, card_ids, no_mppv=False, patient=False):
         self.name, self.mp_name, self.level_ids, self.mastery_name = name, mp_name, level_ids, mastery_name
         self.card_ids = card_ids          # list of card_id, one entry per copy (60)
         self.no_mppv = no_mppv
+        self.patient = patient            # optional policy: only declare combat on Level 4 with 4+ anger (the friend's real play, see playlogs/)
 
 
 class Result:
@@ -643,6 +644,8 @@ class Game:
             a.astage = min(10, a.astage + (a.rec.get('pur') or 0))
 
     def wants_combat(self, p, o):
+        if p.spec.patient:      # opt-in (--patient-a/-b): build up, let the opponent attack, declare combat only to finish
+            return p.level == 4 and p.anger >= 4
         if any(x.is_atk and x.cost <= p.stage for x in p.hand):
             return True
         if p.setups or any(b.has_power(p) for b in p.behaviors()) or B.ally_can_attack(p, o):
