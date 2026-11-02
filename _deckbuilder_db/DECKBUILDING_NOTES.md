@@ -53,6 +53,12 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans are the top two.
 - **Dr. Wheelo**: destroy effects get +1 at Level 3 and +2 and Rejuvenate 2 at Level 4. Banish effects do not count. Black Perceptive Mastery
   (Set 4 only) is likely a better fit than Devious. Revival triggers when discarded or destroyed from your Life Deck.
+- **Dr. Wheelo vs anger/MPPV decks**: Blue Protective (opponent needs 6 anger to advance) turns Wheelo into an anti-anger mill deck: Blue Biting Drill
+  (lowering anger already at 0 makes them destroy their top card), Blue Slash (HIT: they destroy 6 minus their anger), Blue Head Knock (anger to 0), and
+  Wheelo L2 mills 1 per stop, which Protective's Power and Blue's stops feed. Black keeps its mill and can add anti-anger cards instead (Black Choke, Impediment,
+  Easy Block, Corruption, Extreme Blast). Wheelo has no MPPV engine past L1 (L1 sets anger to 3; L2-L4 give none) and tiny power levels, so a "faster MPPV"
+  build is not recommended. **(unverified)** Protective's 6 anger does not change MPPV (5 anger on L4) by literal reading; "your opponent destroys" cards
+  (Slash, Biting Drill, Wheelo L2) may not count as "one of your effects destroys" for Wheelo L3/L4 and Cell Jr. (AW-U76) bonuses.
 - **Trunks**: owner's Orange Drill deck uses Orange Retribution Mastery (changing levels shuffles Drills back, its Power refetches Drills). Frenzied (Level 2)
   gives a critical effect per Named card.
 
