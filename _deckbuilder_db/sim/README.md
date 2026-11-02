@@ -57,6 +57,27 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   They match the earlier one-off scripts, so a change that moves these needs an explanation.
 
 ## Adding things
+Deck building **requires** a simulator playtest (`DECKBUILDING_NOTES.md`, "Playtesting a deck in the simulator"), so adding a missing MP, Mastery or card is a normal part of building a deck, not an extra.
+Minimal examples (all in `behaviors.py`; read the neighbouring classes for the full hook list):
+```python
+@mp('Some MP', 'Level subtitle')              # subtitle exactly as in cards.json / mps.json
+class SomeMpL3(Behavior):
+    def stage_bonus(self, p, card, opp): return 3            # "Your attacks deal +3 stages of damage"
+    def life_bonus(self, p, card, opp): return 1             # "... +1 life card"
+    def has_power(self, p): return True                      # lets the AI declare combat to use it
+    def power(self, p, opp):                                 # a POWER: once per turn
+        if once_turn(p, 'some_mp_l3'):
+            p.raise_anger(1)                                 # or p.attack(opp, power=SOME_SYNTHETIC_ATTACK), p.draw(1), p.rejuv(2), ...
+            return True
+        return False
+
+@mastery('Some Mastery')
+class SomeMastery(Behavior):
+    def on_crit_effect(self, p): p.raise_anger(1)            # "Whenever you use a critical damage effect, raise your anger 1"
+
+_x('Some Card', hit=lambda p, o, c, removed: o.mill(2))      # a card effect the parser cannot read (immediate / hit / use / defend / on_damaged)
+```
+Use `synthetic('Name', 'POWER: [Attack] ...')` for an MP power that is an attack. Then `python -m sim coverage <deck>` should show the level as modelled.
 1. Run `python -m sim coverage <deck>`; fix the NOT MODELLED lines that matter for the matchup first.
 2. New MP level: add a `@mp('Name', 'Level subtitle')` class in `behaviors.py` with the hooks it needs (`power`, `stage_bonus`, `entering_combat`, ...).
    Mastery: `@mastery('Full Mastery Name')`. Card: an entry in `CARD_EXTRA` (`immediate`, `hit`, `use`, `defend`, `on_damaged`) or `@passive`.

@@ -14,8 +14,22 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 5. Compare styles with "How to compare styles" below and give 2-3 ranked options, unless the owner asked for one style.
 6. Build to the defaults (60 cards, limits, Time Is A Warrior's Tool x1, Confrontation/Stare Down x2).
 7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
-8. Optionally test it against another deck with the simulator (`sim/README.md`: `python -m sim coverage <deck>` first, then `python -m sim run A B`); it is a toy model, not a rules engine.
+8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
+   cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
 9. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+
+## Playtesting a deck in the simulator (required before finalizing)
+Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/README.md`), but it is the only thing that executes the cards, so every deck gets played before it is presented.
+1. **Coverage first:** `python -m sim coverage decks/<name>.txt` (or `sim/decks/`). It lists the MP levels and the Mastery that are **NOT MODELLED** and the card sentences it ignores.
+2. **"The simulator does not have this character" is not a reason to skip.** Add the missing MP levels, the Mastery and the cards your plan depends on to `sim/behaviors.py` from the card text
+   (recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
+   starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
+   code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
+3. **Play it, a little:** `python -m sim game <your deck> <opponent> --seed N` and read 2-3 play logs against a benchmark opponent (for example `sim/decks/piccolo_red_friend.txt` as a fast MPPV deck
+   and one slower deck or the matchup the owner named). Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses.
+   A `python -m sim run` of **20-50 games** is fine as a sanity check. **Do not run hundreds or thousands of games for deck building**: large `run` batches are for matchup testing when the owner asks.
+4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
+   unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
 
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
