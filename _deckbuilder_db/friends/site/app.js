@@ -26,57 +26,48 @@
     document.body.appendChild(a); a.click(); document.body.removeChild(a);
   }
 
-  // ---- tabs ---------------------------------------------------------------------------------------------------
-  const tabs = ['pack', 'check', 'browse'];
-  function show(which) {
-    tabs.forEach((t) => {
-      $('t-' + t).setAttribute('aria-selected', String(t === which));
-      $('p-' + t).hidden = t !== which;
-    });
-  }
-
-  // ---- pack tab -----------------------------------------------------------------------------------------------
+  // ---- steps 1-3: pick MP and styles, then copy / download the card info -----------------------------------------
   function selectedStyles() { return Array.from(document.querySelectorAll('#styles input:checked')).map((i) => i.value); }
-  function currentPack() {
+  function currentInfo() {
     const mp = $('mp').value;
-    const styles = selectedStyles();
-    const all = styles.length === 6;
-    return DBZ.buildPack(parts, mp || null, all && !mp ? [] : styles);
+    return DBZ.buildPack(parts, mp && mp !== '*' ? mp : null, selectedStyles());
   }
-  function refreshPack() {
-    const text = currentPack();
+  function refresh() {
+    const mp = $('mp').value, styles = selectedStyles();
+    const ready = !!mp && styles.length > 0;
+    $('s3').hidden = !ready;
+    $('need').hidden = ready;
+    $('need').textContent = !mp ? 'Finish step 1 first: pick a Main Personality.' : 'Finish step 2 first: pick at least one style.';
+    if (!ready) return;
+    const text = currentInfo();
     const tokens = Math.floor(text.length / 4);
-    const mp = $('mp').value;
-    $('size').textContent = 'About ' + tokens.toLocaleString() + ' tokens (' + Math.round(text.length / 1024) + ' KB)' +
-      (tokens > 45000 ? '. That may be too big for a free chat: pick one MP and 2 or 3 styles.' : '.');
-    $('starter').textContent = 'Follow the instructions at the top of the attached file. I want to build a deck for ' + (mp || '[tell me which MP]') +
-      '. Compare 2 or 3 styles first, then build the 60-card list in the format the file asks for.';
+    $('size').textContent = 'Size: about ' + tokens.toLocaleString() + ' tokens (' + Math.round(text.length / 1024) + ' KB).' +
+      (tokens > 45000 ? ' That is probably too big for a free chat: pick fewer styles or one specific character.' : '');
+    $('starter').textContent = "Follow the instructions at the top of the card info I gave you. I want to build a deck for " + (mp === '*' ? '[tell me which character]' : mp) +
+      ". Compare 2 or 3 styles first, then build the 60-card list in the format the instructions ask for.";
   }
-  function initPack() {
+  function initPick() {
     const sel = $('mp');
-    sel.appendChild(el('option', { value: '', text: 'All MPs (full pack)' }));
+    sel.appendChild(el('option', { value: '', text: 'Choose a Main Personality...' }));
     const seen = {};
     data.mps.forEach((g) => { if (!seen[g.name]) { seen[g.name] = true; sel.appendChild(el('option', { value: g.name, text: g.name })); } });
+    sel.appendChild(el('option', { value: '*', text: 'Not sure yet (include every character: larger file)' }));
     ['Black', 'Blue', 'Namekian', 'Orange', 'Red', 'Saiyan'].forEach((s) => {
-      const cb = el('input', { type: 'checkbox', value: s, checked: 'checked' });
-      cb.addEventListener('change', refreshPack);
+      const cb = el('input', { type: 'checkbox', value: s });
+      cb.addEventListener('change', refresh);
       $('styles').appendChild(el('label', {}, [cb, s]));
     });
-    sel.addEventListener('change', () => {
-      if (sel.value) { document.querySelectorAll('#styles input').forEach((i) => { i.checked = false; }); }   // light pack: user picks styles
-      else document.querySelectorAll('#styles input').forEach((i) => { i.checked = true; });
-      refreshPack();
-    });
-    $('all-styles').addEventListener('click', () => { document.querySelectorAll('#styles input').forEach((i) => { i.checked = true; }); refreshPack(); });
-    $('no-styles').addEventListener('click', () => { document.querySelectorAll('#styles input').forEach((i) => { i.checked = false; }); refreshPack(); });
-    $('copy-pack').addEventListener('click', (e) => copy(currentPack(), e.target));
-    $('dl-pack').addEventListener('click', () => download('deckbuilder_pack' + ($('mp').value ? '_' + $('mp').value.replace(/\W+/g, '_') : '') + '.md', currentPack()));
+    sel.addEventListener('change', refresh);
+    $('all-styles').addEventListener('click', () => { document.querySelectorAll('#styles input').forEach((i) => { i.checked = true; }); refresh(); });
+    $('no-styles').addEventListener('click', () => { document.querySelectorAll('#styles input').forEach((i) => { i.checked = false; }); refresh(); });
+    $('copy-info').addEventListener('click', (e) => copy(currentInfo(), e.target));
+    $('dl-info').addEventListener('click', () => download('dbz_card_info' + ($('mp').value && $('mp').value !== '*' ? '_' + $('mp').value.replace(/\W+/g, '_') : '') + '.md', currentInfo()));
     $('copy-starter').addEventListener('click', (e) => copy($('starter').textContent, e.target));
-    $('full-pack').addEventListener('click', () => download('deckbuilder_pack_full.md', DBZ.buildPack(parts, null, [])));
-    refreshPack();
+    $('full-pack').addEventListener('click', (e) => { e.preventDefault(); download('dbz_card_info_everything.md', DBZ.buildPack(parts, null, [])); });
+    refresh();
   }
 
-  // ---- check tab ----------------------------------------------------------------------------------------------
+  // ---- step 4: check the deck ----------------------------------------------------------------------------------------------
   function listItems(items, cls) {
     return el('ul', {}, items.map((t) => el('li', { class: cls, text: t })));
   }
@@ -99,7 +90,7 @@
       out.appendChild(box);
     }
     if (errors.length) out.appendChild(el('div', { class: 'box' }, [el('h3', { text: 'Errors' }), listItems(errors, 'err')]));
-    if (chk.warnings.length) out.appendChild(el('div', { class: 'box' }, [el('h3', { text: 'Warnings (the owner\'s deck-building defaults)' }), listItems(chk.warnings, 'warn')]));
+    if (chk.warnings.length) out.appendChild(el('div', { class: 'box' }, [el('h3', { text: 'Suggestions (not rule errors)' }), listItems(chk.warnings, 'warn')]));
     const rows = Object.keys(deck.cards).map((id) => data_.cards[id]).sort((a, b) => (a.type < b.type ? -1 : a.type > b.type ? 1 : a.name < b.name ? -1 : 1));
     out.appendChild(el('div', { class: 'box' }, [el('h3', { text: 'Cards' }), el('ul', {}, rows.map((c) => el('li', { text: deck.cards[c.id] + ' x ' + c.disp + ' (' + c.type + ')' })))]));
     if (deck.mpLevels) out.appendChild(el('div', { class: 'box' }, [el('h3', { text: 'MP levels' }), el('ul', {}, deck.mpLevels.map((c, i) => el('li', { text: 'L' + (i + 1) + ' ' + data_.mpPrint[c].p.sub + ' (' + c + ')' })))]));
@@ -141,13 +132,12 @@
     draw();
   }
 
-  tabs.forEach((t) => $('t-' + t).addEventListener('click', () => show(t)));
   const loaded = window.DBZ_INLINE ? Promise.resolve([window.DBZ_INLINE.cards, window.DBZ_INLINE.parts])
     : Promise.all([fetch('data/cards.json').then((r) => r.json()), fetch('data/pack_parts.json').then((r) => r.json())]);
   loaded.then((r) => {
     data = r[0]; parts = r[1];
     data_ = new DBZ.Data(data);
-    initPack(); initCheck(); initBrowse();
+    initPick(); initCheck(); initBrowse();
   }).catch((e) => {
     document.querySelector('main').insertBefore(el('p', { class: 'err', text: 'Could not load the card data (' + e + '). If you opened index.html from disk, use deck-helper.html instead (it works from disk) or serve the folder with a local web server.' }), document.querySelector('main').firstChild);
   });

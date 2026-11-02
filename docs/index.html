@@ -4,75 +4,77 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>DBZ TCG Deck Helper</title>
-<meta name="description" content="Build a Dragon Ball Z TCG deck (PanZ era, Sets 1-7) with any free chat AI: get a card pack, then check the deck it builds.">
+<meta name="description" content="Build a Dragon Ball Z TCG deck (PanZ era, Sets 1-7) with any free chat AI, then check the deck it builds.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
   <h1>DBZ TCG Deck Helper</h1>
-  <p>PanZ era (Sets 1&ndash;7). No AI is built into this page: you bring your own free chat AI (Claude, Gemini, ChatGPT) and this page gives it the cards, then checks what it builds.</p>
+  <p>Build a Dragon Ball Z TCG deck (PanZ era, Sets 1&ndash;7) with a free chat AI such as Claude, ChatGPT or Gemini. This page has no AI of its own. It gives your AI the real card info, then checks the deck it builds for rule mistakes.</p>
 </header>
 
-<nav role="tablist" aria-label="Steps">
-  <button role="tab" id="t-pack" aria-selected="true" aria-controls="p-pack">1. Get a card pack</button>
-  <button role="tab" id="t-check" aria-selected="false" aria-controls="p-check">2. Check a deck</button>
-  <button role="tab" id="t-browse" aria-selected="false" aria-controls="p-browse">Browse cards</button>
-</nav>
-
 <main>
-<section id="p-pack" role="tabpanel" aria-labelledby="t-pack">
-  <ol class="steps">
-    <li>Pick the Main Personality (MP) you want to build around, and the styles worth comparing. Fewer styles make a smaller file.</li>
-    <li>Download or copy the pack. Start a <strong>new chat</strong> with your AI, upload the file (or paste it) and send the starter message below.</li>
-    <li>The AI compares styles, then builds a list. Copy that list into <strong>2. Check a deck</strong> to catch rule mistakes and get the deck code.</li>
-  </ol>
-  <div class="row">
-    <label>Main Personality
-      <select id="mp"></select>
-    </label>
-  </div>
-  <fieldset>
-    <legend>Styles to include (Freestyle cards are always included)</legend>
+  <section class="step" aria-labelledby="h1">
+    <h2 id="h1"><span class="n">1</span> Pick your Main Personality</h2>
+    <p>The character your deck is built around.</p>
+    <label class="sr-only" for="mp">Main Personality</label>
+    <select id="mp"></select>
+  </section>
+
+  <section class="step" aria-labelledby="h2">
+    <h2 id="h2"><span class="n">2</span> Pick the styles to compare</h2>
+    <p>Styles are the colours of cards. Pick 2 or 3 that you want your AI to weigh up (not sure? pick a few). Fewer styles make a smaller file, and free chats can only take so much.</p>
     <div id="styles" class="checks"></div>
-    <div class="row"><button type="button" id="all-styles">All styles</button> <button type="button" id="no-styles">None</button></div>
-  </fieldset>
-  <p id="size" class="note"></p>
-  <div class="row">
-    <button type="button" id="copy-pack" class="primary">Copy pack</button>
-    <button type="button" id="dl-pack" class="primary">Download pack (.md)</button>
-    <button type="button" id="full-pack">Download the full pack</button>
-  </div>
-  <p><strong>Starter message to send with the file:</strong></p>
-  <pre id="starter"></pre>
-  <button type="button" id="copy-starter">Copy starter message</button>
-  <p class="note">Free plans can limit file size, number of uploads, messages or context. If your AI refuses the file, pick fewer styles. The AI can still misjudge strategy or miscount cards: that is what step 2 is for.</p>
-</section>
+    <div class="row"><button type="button" id="all-styles">Select all</button> <button type="button" id="no-styles">Clear</button></div>
+  </section>
 
-<section id="p-check" role="tabpanel" aria-labelledby="t-check" hidden>
-  <p>Paste the deck list the AI gave you (format: <code>MP:</code>, <code>Mastery:</code>, optional <code>Levels:</code>, then lines like <code>3 Red Hurl</code>). Or paste an existing deck code to see what is in it.</p>
-  <label>Deck list
-    <textarea id="list" rows="14" spellcheck="false" placeholder="Name: My deck&#10;MP: Piccolo&#10;Mastery: Red Enraged Mastery&#10;3 Red Hurl&#10;..."></textarea>
-  </label>
-  <div class="row">
-    <button type="button" id="do-check" class="primary">Check list and make deck code</button>
-    <button type="button" id="do-decode">Decode a deck code instead</button>
-  </div>
-  <div id="result" aria-live="polite"></div>
-</section>
+  <section class="step" aria-labelledby="h3">
+    <h2 id="h3"><span class="n">3</span> Give the card info to your AI</h2>
+    <p id="need" class="note">Finish steps 1 and 2 first.</p>
+    <div id="s3" hidden>
+      <ol class="how">
+        <li>Open a <strong>new chat</strong> with your AI.</li>
+        <li>Paste the card info with the button below (or download it as a file and attach it to the chat).</li>
+        <li>Then send this message:</li>
+      </ol>
+      <div class="row">
+        <button type="button" id="copy-info" class="primary">Copy card info</button>
+        <button type="button" id="dl-info">Download as a file</button>
+        <button type="button" id="copy-starter">Copy the message</button>
+      </div>
+      <pre id="starter"></pre>
+      <p id="size" class="note"></p>
+      <p class="note">If your AI says the text is too long, go back to step 2 and pick fewer styles. Your AI will then read the card info and suggest styles and a deck. When it gives you a final list, come back here for step 4.</p>
+    </div>
+  </section>
 
-<section id="p-browse" role="tabpanel" aria-labelledby="t-browse" hidden>
-  <div class="row">
-    <label>Search <input id="q" type="search" placeholder="name or text, e.g. critical damage"></label>
-    <label>Style <select id="bstyle"><option value="">All</option></select></label>
-    <label>Type <select id="btype"><option value="">All</option></select></label>
-  </div>
-  <p id="bcount" class="note"></p>
-  <div id="cards"></div>
-</section>
+  <section class="step" aria-labelledby="h4">
+    <h2 id="h4"><span class="n">4</span> Check the deck your AI built</h2>
+    <p>Paste its final deck list here. This checks the rules (60 cards, copy limits, character-only cards and so on) and gives you the deck code to type into the deck builder app.</p>
+    <label class="sr-only" for="list">Deck list</label>
+    <textarea id="list" rows="12" spellcheck="false" placeholder="Name: My deck&#10;MP: Piccolo&#10;Mastery: Red Enraged Mastery&#10;3 Red Hurl&#10;..."></textarea>
+    <div class="row">
+      <button type="button" id="do-check" class="primary">Check my deck</button>
+      <button type="button" id="do-decode" class="link">I already have a deck code: show what is in it</button>
+    </div>
+    <div id="result" aria-live="polite"></div>
+  </section>
+
+  <details class="more">
+    <summary>Look up cards (optional)</summary>
+    <div class="row">
+      <label>Search <input id="q" type="search" placeholder="name or text, e.g. critical damage"></label>
+      <label>Style <select id="bstyle"><option value="">All</option></select></label>
+      <label>Type <select id="btype"><option value="">All</option></select></label>
+    </div>
+    <p id="bcount" class="note"></p>
+    <div id="cards"></div>
+  </details>
 </main>
 
 <footer>
-  <p>Unofficial fan tool. Card text belongs to its owners. Not affiliated with Panini, Bandai or Toei. Scope: PanZ era (Sets 1&ndash;7), current (errata) text, one printing per card name. FanZ sets are not included yet.</p>
+  <p>Unofficial fan tool. Card text belongs to its owners. Not affiliated with Panini, Bandai or Toei. Covers PanZ era (Sets 1&ndash;7) with current (errata) card text, one printing per card name. FanZ sets are not included yet.</p>
+  <p><a id="full-pack" href="#">Download the card info for every character and style</a> (very large; most free chats cannot take it).</p>
 </footer>
 <script src="core.js"></script>
 <script src="app.js"></script>
