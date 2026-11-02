@@ -51,5 +51,5 @@ Not chosen: Black (Black Conflict would turn Goku's +life-card attacks into crit
 ## Update: Tenshinhan code fixed (the app rejected `EV-S60`)
 The owner's app answered "Unknown card EV-S60" (Tenshinhan, Set 4 starter). It is a reprint of Set 1 `C9`, and the app only knows a card by its first printing, so all three decks now use `C9`
 (same card for the simulator and the rules: "Heroes only" is fine for Goku). `deckcode.py check` did not catch it because it groups Allies by printed text and `C9` and `EV-S60` differ only by the
-"(Heroes only.)" line. Vegeta `EV-U93` is a different card from the Villains-only `HV-U72` and loaded fine. Re-run after the roster grew to 25 decks (round robin): Red Enraged 65.3%, Saiyan Rampaging 63.1%,
-Blue Tag Team 55.4%, so Red and Saiyan are now a tie within the noise; Blue stays third.
+"(Heroes only.)" line. Vegeta `EV-U93` is a different card from the Villains-only `HV-U72` and loaded fine. Re-run after the roster grew to 25 decks (round robin, after the final rebuild): Saiyan Rampaging 59.0%, Red Enraged 58.9%,
+Blue Tag Team 52.2%, so Red and Saiyan are a tie within the noise; Blue stays third.
