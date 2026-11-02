@@ -101,7 +101,8 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 7. "(SDCC)" stays in the subtitle when it is printed on the card (PZP P19).
 8. Piccolo - Fused is a normal Piccolo for MP grouping (not a fused MP).
 9. Named = possessive title ("Goku's ...", "Trunks' ...") or text saying the card is
-   "considered Named".
+   "considered Named". Exceptions (possessive but not a character): "It's Over 9,000!" and
+   "Time Is A Warrior's Tool" (usable in any deck), listed in `NOT_NAMES` in `derive.py`.
 10. Style = first word of the title if it is Black/Blue/Namekian/Orange/Red/Saiyan, else
     Freestyle ("Namek Dragon Ball" is Freestyle); personalities have no style.
 11. PanZ Ally alignment comes from the text box: "(Heroes only.)" = Hero,

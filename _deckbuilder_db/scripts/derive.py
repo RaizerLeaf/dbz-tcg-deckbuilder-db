@@ -21,7 +21,7 @@ STYLES = ("Black", "Blue", "Namekian", "Orange", "Red", "Saiyan")
 PERSONALITY = ("Main Personality", "Ally", "Personality")
 ICONS = ("Attack", "Defense", "Continuous", "Instant", "Desperation")
 KEYWORDS = ("Focused", "Unstoppable", "Unpreventable", "Unmodifiable")
-NOT_NAMES = {"It"}                      # "It's Over 9,000!" is not a Named card
+NOT_NAMES = {"It", "Time Is A Warrior", "Time Is a Warrior"}   # "It's Over 9,000!" and "Time Is A Warrior's Tool" are not Named cards (not character names)
 
 FIELDS = ["card_id", "set_number", "set_name", "era", "source_folder", "collection",
           "card_number", "filename", "filename_flags", "card_name", "subtitle", "card_type",
