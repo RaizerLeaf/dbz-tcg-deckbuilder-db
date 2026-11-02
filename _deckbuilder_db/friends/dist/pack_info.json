@@ -1,0 +1,27 @@
+{
+  "scope": "FULL pack: every MP and every style.",
+  "mps": 31,
+  "masteries": 18,
+  "cards": {
+    "Black": 139,
+    "Blue": 139,
+    "Namekian": 137,
+    "Orange": 138,
+    "Red": 139,
+    "Saiyan": 141,
+    "Freestyle": 218
+  },
+  "tokens_est": {
+    "whole pack": 70640,
+    "mps.md": 11075,
+    "masteries.md": 1569,
+    "cards_black.md": 7683,
+    "cards_blue.md": 7021,
+    "cards_namekian.md": 7293,
+    "cards_orange.md": 6627,
+    "cards_red.md": 7352,
+    "cards_saiyan.md": 7506,
+    "cards_freestyle.md": 12740,
+    "instructions": 1759
+  }
+}

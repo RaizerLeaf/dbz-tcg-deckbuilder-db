@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DBZ TCG Deck Helper</title>
+<meta name="description" content="Build a Dragon Ball Z TCG deck (PanZ era, Sets 1-7) with any free chat AI, then check the deck it builds.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>DBZ TCG Deck Helper</h1>
+  <p>Build a Dragon Ball Z TCG deck (PanZ era, Sets 1&ndash;7) with a free chat AI such as Claude, ChatGPT or Gemini. This page has no AI of its own. It gives your AI the real card info, then checks the deck it builds for rule mistakes.</p>
+</header>
+
+<main>
+  <section class="step" aria-labelledby="h1">
+    <h2 id="h1"><span class="n">1</span> Pick your Main Personality</h2>
+    <p>The character your deck is built around.</p>
+    <label class="sr-only" for="mp">Main Personality</label>
+    <select id="mp"></select>
+  </section>
+
+  <section class="step" aria-labelledby="h2">
+    <h2 id="h2"><span class="n">2</span> Pick the styles to compare</h2>
+    <p>Styles are the colours of cards. Pick 2 or 3 that you want your AI to weigh up (not sure? pick a few). Fewer styles make a smaller file, and free chats can only take so much.</p>
+    <div id="styles" class="checks"></div>
+    <div class="row"><button type="button" id="all-styles">Select all</button> <button type="button" id="no-styles">Clear</button></div>
+  </section>
+
+  <section class="step" aria-labelledby="h3">
+    <h2 id="h3"><span class="n">3</span> Give the card info to your AI</h2>
+    <p id="need" class="note">Finish steps 1 and 2 first.</p>
+    <div id="s3" hidden>
+      <ol class="how">
+        <li>Open a <strong>new chat</strong> with your AI.</li>
+        <li>Paste the card info with the button below (or download it as a file and attach it to the chat).</li>
+        <li>Then send this message:</li>
+      </ol>
+      <div class="row">
+        <button type="button" id="copy-info" class="primary">Copy card info</button>
+        <button type="button" id="dl-info">Download as a file</button>
+        <button type="button" id="copy-starter">Copy the message</button>
+      </div>
+      <pre id="starter"></pre>
+      <p id="size" class="note"></p>
+      <p class="note">If your AI says the text is too long, go back to step 2 and pick fewer styles. Your AI will then read the card info and suggest styles and a deck. When it gives you a final list, come back here for step 4.</p>
+    </div>
+  </section>
+
+  <section class="step" aria-labelledby="h4">
+    <h2 id="h4"><span class="n">4</span> Check the deck your AI built</h2>
+    <p>Paste its final deck list here. This checks the rules (60 cards, copy limits, character-only cards and so on) and gives you the deck code to type into the deck builder app.</p>
+    <label class="sr-only" for="list">Deck list</label>
+    <textarea id="list" rows="12" spellcheck="false" placeholder="Name: My deck&#10;MP: Piccolo&#10;Mastery: Red Enraged Mastery&#10;3 Red Hurl&#10;..."></textarea>
+    <div class="row">
+      <button type="button" id="do-check" class="primary">Check my deck</button>
+      <button type="button" id="do-decode" class="link">I already have a deck code: show what is in it</button>
+    </div>
+    <div id="result" aria-live="polite"></div>
+  </section>
+
+  <details class="more">
+    <summary>Look up cards (optional)</summary>
+    <div class="row">
+      <label>Search <input id="q" type="search" placeholder="name or text, e.g. critical damage"></label>
+      <label>Style <select id="bstyle"><option value="">All</option></select></label>
+      <label>Type <select id="btype"><option value="">All</option></select></label>
+    </div>
+    <p id="bcount" class="note"></p>
+    <div id="cards"></div>
+  </details>
+</main>
+
+<footer>
+  <p>Unofficial fan tool. Card text belongs to its owners. Not affiliated with Panini, Bandai or Toei. Covers PanZ era (Sets 1&ndash;7) with current (errata) card text, one printing per card name. FanZ sets are not included yet.</p>
+  <p><a id="full-pack" href="#">Download the card info for every character and style</a> (very large; most free chats cannot take it).</p>
+</footer>
+<script src="core.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
