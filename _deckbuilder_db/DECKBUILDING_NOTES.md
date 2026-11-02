@@ -72,6 +72,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - Blue Protective Mastery ("needs 6 anger to advance a personality level") only affects levelling. MPPV is still 5 anger on Level 4.
 - "Your opponent destroys the top X cards of his Life Deck" from your card counts as "one of your effects destroys cards from the top of your
   opponent's Life Deck" (Wheelo L3/L4, Cell Jr. AW-U76, Blue Challenging Strike). Read literally; some early-set wording is odd, check those case by case.
+- Hercule Level 1 (Champion, Awakening deck reveal): "Your attacks deal +100 stages of damage. Your attacks cannot have their damage modified by your effects." Order matters: the second sentence cancels the first, so the +100 does nothing (gag/flavour text). Do not count it as damage.
 - "Deals critical damage" is not the same as "uses a critical damage effect". Wall Breaker (and similar "banish when ... deals critical damage") only
   leaves when the opponent actually deals critical damage, not when a card just lets them use a critical damage effect.
 

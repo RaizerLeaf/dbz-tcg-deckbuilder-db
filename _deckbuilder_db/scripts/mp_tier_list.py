@@ -116,7 +116,7 @@ STACKS = [
    ("S07_DR_DR3", 8, "ALL attacks +2 life cards; attack AT +2; draw from discard"),
    ("S07_DR_DR4", 9, "Your attacks +2 / opp's -2 life cards; tutor a Styled card every turn")]),
  ("Hercule", "Set 7 Awakening Deck Reveal", "Hero", 7, [
-   ("S07_DR_DR21", 8, "*Literal text: attacks +100 stages of damage (no energy attacks in deck)"),
+   ("S07_DR_DR21", 3, "Owner ruling: the +100 stages is nullified by the next sentence (own attacks cannot be modified by your effects), so it is gag text; left with a 1-stage attack, +5 stages, Dynamite Kick fetch, and no energy attacks in deck"),
    ("S07_DR_DR22", 7, "Opp's attacks -3 stages and -3 life cards; no Continuous Drills"),
    ("S07_DR_DR23", 6, "Opp cannot lower you; damage modifiers doubled; Named cards raise anger on hit"),
    ("S07_DR_DR24", 6, "Your attacks +2 life cards; Named cards mill opp and lower both anger")]),
@@ -368,13 +368,13 @@ def main():
     w("**What this shows (judgement, small sample, hand-scored):**")
     w(f"- Power creep exists but is modest and uneven: mean stack score goes {s1:.2f} (Set 1) to {s7:.2f} (Set 7), with dips at Set 2 and Set 4 and no steady climb. Set 1 was not weak; its text already had 4-7 life-card attacks (Piccolo, Krillin, Captain Ginyu).")
     w("- The **top** moved up the most: the two best stacks in the game are Set 7 Deck Reveal Vegeta (Hero) and Goku, built on flat bonuses to every attack (+2 to +3 life cards) plus 'cannot be stopped'; the catch is that Vegeta's bonuses only apply to non-Styled attacks and Goku's are spread across draw/tutor effects. Nothing printed before Set 5 scores above 7.75.")
-    w("- The **floor** rose too: every Set 7 stack scores 6.0 or more, while Sets 1, 2 and 4 contain 4.75-5.5 stacks (Trunks, Nappa, Raditz, Nail, Vegeta Hero Set 4, Frieza, the Android 17 starter).")
+    w("- The **floor** rose too: every Set 7 stack scores 6.0 or more except Hercule (5.5, a joke MP), while Sets 1, 2 and 4 contain 4.75-5.5 stacks (Trunks, Nappa, Raditz, Nail, Vegeta Hero Set 4, Frieza, the Android 17 starter).")
     w("- Same-character comparisons are mixed, not one-way: Goku, Trunks and Hero Vegeta get clearly better by Set 7 (Hero Vegeta +3.5 from Set 4, Trunks +2.25 from Set 1), but Piccolo and Gohan were already at their best in Set 1 and later stacks are weaker.")
     w("- Where it shows most in the text: life-card damage bonuses and unstoppable text become common in Set 7 (see the counts above), and the Level 4 average rises from 6.4 to 7.4.")
     w("")
     w("## Per-character detail")
     w("")
-    w("`*` = stat caveat or rules question, see the notes at the bottom.")
+    w("Notes at the bottom explain the caveats.")
     w("")
     for d in result:
         w(f"### {d['ch']} - {tier_of(d['mean'])} ({d['mean']:.2f})")
@@ -395,7 +395,7 @@ def main():
                 w(f"- (Other alignment, not mixable: {s[1]}, stack mean {m:.2f})")
         w("")
     w("## Notes and caveats")
-    w("- **Hercule\\*:** Level 1 literally says his attacks deal +100 stages of damage. If that works as printed it is a one-hit threat, but whether it interacts with his own 'cannot be modified by your effects' line, and what happens to stages lost past 0 power, is not settled in the notes here (it is **not** verified). He is scored 8 on that level and 6-7 elsewhere; if the literal reading is wrong he drops about half a tier.")
+    w("- **Hercule:** owner ruling (2026-11-02): Level 1 prints '+100 stages of damage' and then 'Your attacks cannot have their damage modified by your effects'. Read in that order, the second sentence cancels the first, so the +100 is gag/flavour text and does nothing. He is scored on what is left (Level 1 = 3). I first scored it as a literal +100 and had him in Tier A; that was wrong.")
     w("- **Frieza Golden (Set 3 promo)** damage is `AT life cards`, which depends on the Attack Table result and is scored 7 rather than higher for that reason.")
     w("- **Android 16, Garlic Jr. Level 4** have printed drawbacks / symmetric effects; they are scored for the whole text, not the upside.")
     w("- **Krillin Level 3** (9 minus cards in opp's hand) is strong only if the opponent's hand is small; the notes say the defender draws 3 on entering combat, so it needs hand disruption.")
