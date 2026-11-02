@@ -14,7 +14,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 5. Compare styles with "How to compare styles" below and give 2-3 ranked options, unless the owner asked for one style.
 6. Build to the defaults (60 cards, limits, Time Is A Warrior's Tool x1, Confrontation/Stare Down x2).
 7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
-8. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+8. Optionally test it against another deck with the simulator (`sim/README.md`: `python -m sim coverage <deck>` first, then `python -m sim run A B`); it is a toy model, not a rules engine.
+9. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
 
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
