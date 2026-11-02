@@ -33,7 +33,9 @@ FanZ-era notation is kept (e.g. "[Sword Icon]" -> `[Attack]`, "Ϟ POWER" -> `[In
   wording, and Set 7 S50 prints "would be discarded ... by a card effect", so that is its `text_current`.
 - **Printed label.** Real Set 1-7 images that print "(Most Recent Printing)" (13 cards) are `is_mrp` true, and their wording is copied to the older printings' `text_current`. This fixed Black Scout Maneuver
   (CRD text has a typo; P7 prints the right wording), Black Command and Orange Palm Blasts (no CRD entry) and Namekian Flinch. Unflagged before: S04 P7, S07 S50, S04 S119, S07 S124.
-- Result: 173 cards with errata (124 `printing_current`, 49 `text_current_derived`), 56 `is_mrp` true. 14 records changed (diffed before and after).
+- **S04 P9 (Blue Guard) and P10 (Namekian Mouth Beam) never came out** (owner, 2026-11-02). Their records were 'Image N/A' placeholders with text copied from Set 1; they are now excluded by `owner.py`
+  (`exclude_never_released`, listed in `excluded_cards.json`). The CRD's MRP pointers to them are stale: Blue Guard's real MRP is Awakening S50; Namekian Mouth Beam has no Set 1-7 MRP image, so its `text_current` is the CRD wording.
+- Result: 173 cards with errata (124 `printing_current`, 49 `text_current_derived`), 56 `is_mrp` true. 14 records changed, then the 2 placeholders removed (3,090 records; diffed before and after).
 
 ## is_mrp
 True = this printing is named by the CRD as the most recent (corrected) printing, or the entry says "currently up to date in the X
@@ -49,7 +51,7 @@ card images", or "this change matches the printed text of ...". False = card has
 ## Problems to look at (also for the QA report)
 - Unmatched CRD entries (2): Evolution P4 Trunks - Bashful (FanZ and Panini CRD). No such image is in the folders; the updated
   PanZ MP & Ally promo `PZP_AL_P169` and H&V U71 show the corrected text.
-- MRP pointer with no image (1): S8 Goku - Super Saiyan -> "Evolution P11" (no S04 P11 image; S04 P9/P10 are placeholders).
+- MRP pointer with no image (1): S8 Goku - Super Saiyan -> "Evolution P11" (no S04 P11 image; S04 P9/P10 never came out and were excluded, see below).
 - CRD numbers that do not match the printings (matched by name instead): U6/U7 Captain Ginyu (printed U66/U67), U144 Quickness Drill
   (printed U114), S30/R145 Namekian Knowledge Mastery (Panini CRD says R145; printed R131), U66 Blue Avoidance (only the starter copy is S66),
   C19 Orange Bicycle Kick (printed R19, Set 8), R20 "Orange Sidestep" in Set 16 (the card is Orange Redacted Drill, matched by number).

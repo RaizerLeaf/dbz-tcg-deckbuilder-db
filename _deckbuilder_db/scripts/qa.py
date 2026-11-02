@@ -172,7 +172,7 @@ def main():
     A("The 28 cards flagged after Phase 2 were answered by the owner on 2026-11-02 (`work/owner_rulings.json`, applied by `scripts/owner.py`): "
       "7 cards keep their printed type although the text does not match (S02 BST_136, S03 BST_116, S05 PRO_P6, S08 BST_19, S10 BST_46, S12 PRO_P21, S19 BST_54); "
       "S04 BST_110 is an Energy Combat (`card_type_current`), S04 BST_22/24/35 have a wrong printed icon (`text_current` is corrected); "
-      "S04 PRO_P9/P10 (placeholder images) copy the text of S01 STR_S65 and S03 BST_28; S06 PRO_P1_RST keeps its '(Limit 1 per deck.)'; "
+      "S04 PRO_P9/P10 (placeholder images) never came out and are excluded (use S01 STR_S65 and S03 BST_28); S06 PRO_P1_RST keeps its '(Limit 1 per deck.)'; "
       "the 14 'NEVER OFFICIALLY RELEASED' S07 promos are excluded and their Restored copies are used. Each card has the decision in `owner_ruling`.\n")
     A("Excluded cards (`excluded_cards.json`; image kept, no record): " + ", ".join(f"{e['card_id']} -> {e['use_instead']}" for e in excl) + "\n")
     for c in nr:
@@ -184,13 +184,13 @@ def main():
     A("\nMatched by name because the CRD number does not match the printing, or CRD pointers to images not in the folders:")
     A("- U6/U7 Captain Ginyu (printed U66/U67 in Set 1); U144 Quickness Drill (printed U114); Panini CRD S30/R145 Namekian Knowledge Mastery (printed R131); "
       "U66 Blue Avoidance (only the starter copy S66 exists); C19 Orange Bicycle Kick (printed R19, Set 8); R20 \"Orange Sidestep\" under Set 16 (the card is Orange Redacted Drill).")
-    A("- MRP pointers with no image: S8 Goku - Super Saiyan -> \"Evolution P11\" (S04 P9 and P10 are placeholders; no P11).")
+    A("- MRP pointers with no image: S8 Goku - Super Saiyan -> \"Evolution P11\" (S04 P9 and P10 never came out and are excluded; no P11).")
     A("- Frozen List printings not found: Orange Adaptive Mastery \"Premiere S29\", Red Tactical Drill \"Evolution S167\", Orange Retribution Mastery \"Awakening S10\".")
     A("")
     A("## 8. Known limits\n")
     A("- `text_current` is derived from the CRD erratum text; where a CRD 'This Card Gains' line goes on the corrected card is not stated.")
-    A("- S04 PRO_P9 and PRO_P10 are 'Image N/A' placeholders; their text is copied from the original printings on the owner's instruction (`vision_confidence: copied`).")
-    A("- The 14 excluded S07 overlay promos have no records; do not search for them.")
+    A("- S04 PRO_P9 (Blue Guard) and PRO_P10 (Namekian Mouth Beam) never came out (owner, 2026-11-02): no records. The CRD's MRP pointers to them are to cards that do not exist.")
+    A("- The 14 excluded S07 overlay promos and the 2 never-released S04 promos have no records; do not search for them.")
     A("- The black warning-triangle icon (`[Warning]`, Set 16+) has no explanation on the cards or in the CRD.")
     A("- Trait icons were identified by zooming each inline icon, but a few small icons in the early FanZ sets were read by colour.")
     open(DB / "qa_report.md", "w", encoding="utf-8").write("\n".join(L) + "\n")

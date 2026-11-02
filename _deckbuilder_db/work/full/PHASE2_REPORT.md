@@ -43,7 +43,7 @@ Era: PanZ 1,651, FanZ 1,455.
 - Printed card-type oddities (check against the CRD): S02 BST_136, S03 BST_116, S04 BST_22, BST_24, BST_35,
   BST_110, S05 PRO_P6, S08 BST_19, S10 BST_46, S12 PRO_P21, S19 BST_54.
 - (Restored) fan re-creation: S06 PRO_P1_RST.
-- Placeholder images ("Image N/A", no card to read): S04 PRO_P9, S04 PRO_P10.
+- Placeholder images ("Image N/A", no card to read): S04 PRO_P9, S04 PRO_P10 (later excluded: the promos never came out).
 - "Never officially released" overlay, text copied from the reprinted card: S07 PRO_P1, P3, P7-P12, P14,
   P15, P17-P20.
 - Cleared during this run after zooming: S10 BST_39 (Earthling), S11 BST_32 (God).

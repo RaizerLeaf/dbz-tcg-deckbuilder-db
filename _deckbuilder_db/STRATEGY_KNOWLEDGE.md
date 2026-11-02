@@ -35,6 +35,7 @@ Items marked **(unverified)** are inferences. Everything else is from `work/crd/
   "Considered Named for your effects" cards (Pesky Barrage, Black Back Strike) have `is_named` but no `named_character` and are legal in any deck.
 - `restrictions` holds `Heroes` / `Villains` / `<Mastery name>`; every "(Heroes only)" / "(Villains only)" card has one (checked: 0 missing).
 - Use `text_current` if present, else `text_as_printed`. Use `card_type_current` if present.
+- Evolution P9 / P10 (Blue Guard, Namekian Mouth Beam) never came out and have no records; ignore CRD MRP pointers to them.
 - The latest print wins: `text_current` already carries the most recent printing's wording (a real Set 1-7 image printing "(Most Recent Printing)" counts, even if the CRD does not list the card). Never read an older printing's printed text.
 - Re-running the pipeline: pass `--out work/full` exactly. `--out ../work/full` writes a `work/` folder outside `_deckbuilder_db/` (this happened once and was removed).
 - Check `limit_per_deck` for every card: Orange Uppercut (Limit 1) was wrongly given x2 once.

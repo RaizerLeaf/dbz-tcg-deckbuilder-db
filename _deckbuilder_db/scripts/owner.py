@@ -5,6 +5,8 @@
 - icon_error: text_current gets the corrected icon; text_as_printed stays as printed.
 - placeholder_copy_from_original: the image is 'Image N/A'; text/type etc. are copied from the named original printing.
 - restored_is_newer_ruling: clear needs_review, record the ruling.
+- exclude_never_released: promos that never came out (S04 P9 Blue Guard, S04 P10 Namekian Mouth Beam; the image is an 'Image N/A'
+  placeholder). They are removed from cards.json/csv and listed in excluded_cards.json with the printing to use instead.
 - exclude_use_restored_instead: the 'NEVER OFFICIALLY RELEASED' overlay cards are removed from cards.json/csv and listed
   in excluded_cards.json (their '(Restored)' copy is the record to use).
 New fields: owner_ruling (text), errata_status 'owner_correction' for icon/type fixes.
@@ -81,6 +83,14 @@ def main():
         ex.append({"card_id": cid, "filename": c["filename"], "source_folder": c["source_folder"], "use_instead": rep,
                    "reason": "Image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Owner (2026-11-02): ignore these "
                              "and use the Restored versions instead."})
+    for cid, rep in R.get("exclude_never_released", {}).items():
+        if cid.startswith("_"):
+            continue
+        c = by.pop(cid)
+        assert rep in by, rep
+        ex.append({"card_id": cid, "filename": c["filename"], "source_folder": c["source_folder"], "use_instead": rep,
+                   "reason": "Never released: the CRD names this promo as a most recent printing, but the owner (2026-11-02) says it never came "
+                             "out. The image is an 'Image N/A' placeholder. Use the original printing instead."})
     out = [c for c in cards if c["card_id"] in by]
     save_json(DB / "excluded_cards.json", ex)
     save_json(DB / "cards.json", out)

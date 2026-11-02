@@ -62,6 +62,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - A card effect printed before the DAMAGE line (e.g. "Use a critical damage effect") happens immediately, before the block or the damage.
 - Dragon Ball Victory is possible with your own Dragon Balls of one set.
 - You draw 3 at the start of your turn and the defender draws 3 when combat is declared. Hand size is 1 or 0 after the Discard Step.
+- Evolution promos P9 (Blue Guard) and P10 (Namekian Mouth Beam) never came out. The CRD's MRP pointers to them are stale; Blue Guard's real MRP is Awakening S50, and Namekian Mouth Beam has no Set 1-7 MRP image.
 - Blue Protective Mastery ("needs 6 anger to advance a personality level") only affects levelling. MPPV is still 5 anger on Level 4.
 - "Your opponent destroys the top X cards of his Life Deck" from your card counts as "one of your effects destroys cards from the top of your
   opponent's Life Deck" (Wheelo L3/L4, Cell Jr. AW-U76, Blue Challenging Strike). Read literally; some early-set wording is odd, check those case by case.

@@ -96,5 +96,19 @@
   "source_folder": "07_Set 7 (Awakening)/Awakening (Promos)",
   "use_instead": "S07_PRO_P20_RST",
   "reason": "Image is overlaid with 'NEVER OFFICIALLY RELEASED' and most text is hidden. Owner (2026-11-02): ignore these and use the Restored versions instead."
+ },
+ {
+  "card_id": "S04_PRO_P9",
+  "filename": "P9_Blue Guard.png",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "use_instead": "S01_STR_S65",
+  "reason": "Never released: the CRD names this promo as a most recent printing, but the owner (2026-11-02) says it never came out. The image is an 'Image N/A' placeholder. Use the original printing instead."
+ },
+ {
+  "card_id": "S04_PRO_P10",
+  "filename": "P10_Namekian Mouth Beam.png",
+  "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
+  "use_instead": "S03_BST_28",
+  "reason": "Never released: the CRD names this promo as a most recent printing, but the owner (2026-11-02) says it never came out. The image is an 'Image N/A' placeholder. Use the original printing instead."
  }
 ]

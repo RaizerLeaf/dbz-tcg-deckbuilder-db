@@ -10,26 +10,53 @@
   "S05_PRO_P6": "It stays as an Physical Combat card"
  },
  "type_error": {
-  "S04_BST_110": {"owner_words": "its an error this should not be an event", "card_type_current": "Energy Combat",
-                  "basis": "text is word for word the same as S04 R118 Red Rage (Energy Combat)"}
+  "S04_BST_110": {
+   "owner_words": "its an error this should not be an event",
+   "card_type_current": "Energy Combat",
+   "basis": "text is word for word the same as S04 R118 Red Rage (Energy Combat)"
+  }
  },
  "icon_error": {
-  "S04_BST_22": {"owner_words": "its an error it should have the block icon", "from": "[Attack] Stops an energy attack.", "to": "[Defense] Stops an energy attack."},
-  "S04_BST_24": {"owner_words": "its an error this should have the sword icon", "from": "[Defense] Physical attack.", "to": "[Attack] Physical attack."},
-  "S04_BST_35": {"owner_words": "its an error this should have the sword icon", "from": "[Defense] Physical attack.", "to": "[Attack] Physical attack."}
+  "S04_BST_22": {
+   "owner_words": "its an error it should have the block icon",
+   "from": "[Attack] Stops an energy attack.",
+   "to": "[Defense] Stops an energy attack."
+  },
+  "S04_BST_24": {
+   "owner_words": "its an error this should have the sword icon",
+   "from": "[Defense] Physical attack.",
+   "to": "[Attack] Physical attack."
+  },
+  "S04_BST_35": {
+   "owner_words": "its an error this should have the sword icon",
+   "from": "[Defense] Physical attack.",
+   "to": "[Attack] Physical attack."
+  }
  },
- "placeholder_copy_from_original": {
-  "S04_PRO_P9": {"owner_words": "This is a promo version find the original version of the card with the same name and it should have the same text", "source": "S01_STR_S65"},
-  "S04_PRO_P10": {"owner_words": "This is a promo version find the original version of the card with the same name and it should have the same text", "source": "S03_BST_28"}
- },
+ "placeholder_copy_from_original": {},
  "restored_is_newer_ruling": {
   "S06_PRO_P1_RST": "this is the newer ruling. The old card didn't have limit 1 per deck, but the rules state it should function like that going forward so the new version has it"
  },
  "exclude_use_restored_instead": {
   "_owner_words": "the remaining promos just ignore the cards with the \"NEVER OFFICIALLY RELESAED\" text and use the Restored versions instead",
-  "S07_PRO_P1": "S07_PRO_P1_RST", "S07_PRO_P3": "S07_PRO_P3_RST", "S07_PRO_P7": "S07_PRO_P7_RST", "S07_PRO_P8": "S07_PRO_P8_RST",
-  "S07_PRO_P9": "S07_PRO_P9_RST", "S07_PRO_P10": "S07_PRO_P10_RST", "S07_PRO_P11": "S07_PRO_P11_RST", "S07_PRO_P12": "S07_PRO_P12_RST",
-  "S07_PRO_P14": "S07_PRO_P14_RST", "S07_PRO_P15": "S07_PRO_P15_RST", "S07_PRO_P17": "S07_PRO_P17_RST", "S07_PRO_P18": "S07_PRO_P18_RST",
-  "S07_PRO_P19": "S07_PRO_P19_RST", "S07_PRO_P20": "S07_PRO_P20_RST"
+  "S07_PRO_P1": "S07_PRO_P1_RST",
+  "S07_PRO_P3": "S07_PRO_P3_RST",
+  "S07_PRO_P7": "S07_PRO_P7_RST",
+  "S07_PRO_P8": "S07_PRO_P8_RST",
+  "S07_PRO_P9": "S07_PRO_P9_RST",
+  "S07_PRO_P10": "S07_PRO_P10_RST",
+  "S07_PRO_P11": "S07_PRO_P11_RST",
+  "S07_PRO_P12": "S07_PRO_P12_RST",
+  "S07_PRO_P14": "S07_PRO_P14_RST",
+  "S07_PRO_P15": "S07_PRO_P15_RST",
+  "S07_PRO_P17": "S07_PRO_P17_RST",
+  "S07_PRO_P18": "S07_PRO_P18_RST",
+  "S07_PRO_P19": "S07_PRO_P19_RST",
+  "S07_PRO_P20": "S07_PRO_P20_RST"
+ },
+ "exclude_never_released": {
+  "_owner_words": "both those promos never came out (Evolution P9 Blue Guard and P10 Namekian Mouth Beam). Replaces the earlier placeholder_copy_from_original answer ('This is a promo version find the original version of the card with the same name and it should have the same text').",
+  "S04_PRO_P9": "S01_STR_S65",
+  "S04_PRO_P10": "S03_BST_28"
  }
 }
