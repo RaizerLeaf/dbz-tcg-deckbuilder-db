@@ -1,6 +1,6 @@
 """Build the files a friend gives to a chat AI so it can help build a deck (PanZ Sets 1-7 only).
 
-    python friends/build_pack.py                         full pack -> friends/dist/ (all MPs, all styles)
+    python friends/build_pack.py                         full pack -> friends/dist/   (run from _deckbuilder_db/) (all MPs, all styles)
     python friends/build_pack.py --mp Trunks --styles Red Orange   lighter pack for one MP and the styles worth comparing
 
 Outputs (in friends/dist/):
@@ -16,14 +16,14 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-DB = ROOT / '_deckbuilder_db'
+HERE = Path(__file__).resolve().parent
+DB = HERE.parent          # _deckbuilder_db/
+ROOT = DB.parent
 sys.path.insert(0, str(DB / 'scripts'))
 import deckcode as dc  # noqa: E402
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+sys.path.insert(0, str(HERE))
 import cardnames  # noqa: E402
 
-HERE = Path(__file__).resolve().parent
 STYLES = ['Black', 'Blue', 'Namekian', 'Orange', 'Red', 'Saiyan', 'Freestyle']
 
 

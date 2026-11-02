@@ -13,6 +13,8 @@ other people) build decks.
   numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
 - Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). PanZ (Sets 1-7) only; FanZ simulation is a later TODO.
   Always run `coverage` and quote its limits with any result.
+- Friends without Claude Code: `_deckbuilder_db/friends/` (pack builder, list checker, static page source). `docs/` at the repo root is the generated page, rebuilt with
+  `python friends/build_site.py`; never edit it by hand. See `friends/README.md`.
 - Deck codes: use `scripts/deckcode.py` (encode / decode / check). It is on `main`.
   Never retype a deck code by hand: generate it with the script and write it to a file.
 

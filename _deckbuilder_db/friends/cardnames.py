@@ -7,7 +7,7 @@ import re
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / '_deckbuilder_db' / 'scripts'))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / 'scripts'))
 import deckcode as dc  # noqa: E402
 
 

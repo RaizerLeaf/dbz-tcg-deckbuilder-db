@@ -1,12 +1,12 @@
-"""Tests for the friend-access tools. Run from the repo root:  python -m unittest discover -s friends/tests -t ."""
+"""Tests for the friend-access tools. Run from _deckbuilder_db/:  python -m unittest discover -s friends/tests -t ."""
 import re
 import sys
 import unittest
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent.parent
+ROOT = Path(__file__).resolve().parent.parent.parent      # _deckbuilder_db/
 sys.path.insert(0, str(ROOT / 'friends'))
-sys.path.insert(0, str(ROOT / '_deckbuilder_db' / 'scripts'))
+sys.path.insert(0, str(ROOT / 'scripts'))
 import build_pack as bp          # noqa: E402
 import list_to_code as l2c       # noqa: E402
 import deckcode as dc            # noqa: E402
@@ -26,7 +26,7 @@ def deck_to_list(code):
 
 def sample_codes():
     out = []
-    for folder in ('_deckbuilder_db/sim/decks', '_deckbuilder_db/decks'):
+    for folder in ('sim/decks', 'decks'):
         for f in sorted((ROOT / folder).glob('*.txt')):
             out.append((f.name, f.read_text(encoding='utf-8').strip().splitlines()[0]))
     return out

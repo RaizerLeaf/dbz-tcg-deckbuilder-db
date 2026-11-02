@@ -18,8 +18,8 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT / '_deckbuilder_db' / 'scripts'))
+DB = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(DB / 'scripts'))
 import deckcode as dc  # noqa: E402
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import cardnames  # noqa: E402

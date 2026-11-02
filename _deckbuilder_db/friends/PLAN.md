@@ -22,7 +22,7 @@ and, usually, file uploads (limits unknown to us: check the current free-plan li
 ## Recommendation: A first, then B
 1. **Phase 1 (this branch, done in a first version):** `build_pack.py` makes the pack (instructions, rules, MPs, Masteries, cards by style) and `list_to_code.py`
    turns the AI's plain-text list into a deck code with the same legality checker the owner uses. The owner (or a friend with Claude Code) can run these today.
-2. **Phase 2:** a static page under `docs/` (GitHub Pages serves only that folder, so the card images in the repo are not published). It downloads packs, searches
+2. **Phase 2 (built):** a static page under `docs/` (GitHub Pages serves only that folder, so the card images in the repo are not published). It downloads packs, searches
    cards, and ports `list_to_code` + the legality checks to JavaScript so a friend can paste the AI's list and get a checked deck code without Python.
 3. **Phase 3 (optional):** simulator through Pyodide.
 
@@ -33,8 +33,8 @@ and, usually, file uploads (limits unknown to us: check the current free-plan li
 4. Paste the list into the checker (Phase 1: `list_to_code.py`, Phase 2: the web page). Fix whatever it reports, copy the deck code into the deck-builder web app.
 
 ## Decisions needed from the owner
-- Is the repository public, and is it fine to publish card text on a public page? (The card **images** stay out of `docs/`.) The text is Panini/Bandai material.
-- Who maintains the pack when `cards.json` changes? (`python friends/build_pack.py` regenerates everything.)
+- Public hosting: the owner said fine. The card **images** stay out of `docs/`.
+- Maintenance (owner unsure): regenerate with `python friends/build_site.py`; a test fails if `docs/` is stale. An optional GitHub Action could automate it (needs OK: it lives outside `_deckbuilder_db/`).
 - Is the card-pool scope PanZ (Sets 1-7) only for friends too? The builder assumes yes; FanZ is a later TODO like the simulator.
 - Do friends need to know the owner's deck-building defaults (Time Is A Warrior's Tool, 2+ Confrontation / Stare Down)? They are in the prompt now.
 
