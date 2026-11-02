@@ -56,6 +56,12 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 7. Mention costs: your own anger raisers force a level-up at 5 anger, Drills are discarded when you change level (unless a card says
    otherwise), the number of turns before the engine is online.
 8. Give 2-3 options ranked most to least recommended, each with style, Mastery and reasons.
+9. **Choose the level printings deliberately.** Levels may come from different sets and can change a deck completely (Trunks has four sets of levels). Ask which levels the deck will really
+   spend time on: games last about 3 turns per player, so a Level 3/4 payoff only counts if the deck reaches it. Drills vanish when you advance (only a few levels keep them), so levels
+   3-4 must work without them.
+10. **MPPV decks: count anger.** Anger points per card, cards that raise anger or give a critical effect without attacking (they cannot be stopped), anger gained when defending, and cards
+   that trigger when discarded by an effect. Red has by far the most (numbers in `STRATEGY_KNOWLEDGE.md`, section 5). **Skip-the-levels decks** (no MPPV) need a reliable level-skip
+   (Orange Devouring Drill) instead of anger. Do not rely on "name a card" gambles (Trunks' Sword Stance is only about 19-28% even with a top-of-deck setup).
 
 ## Mechanics confirmed by the owner
 - A critical damage effect can only discard an **opponent's** Ally. A card effect saying "destroy an Ally" may target your own.
@@ -72,7 +78,13 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 ## MP-specific notes
 - **Lord Slug**: Red Enraged works (guaranteed critical effects raise anger, so Levels 3-4 arrive fast). Named: Lord Slug's Fist Slam,
   Lord Slug's Regeneration (Limit 2). Win with Dragon Ball Victory.
+  Lord Slug **cannot win by MPPV**, so Dragon Ball Victory (or Survival) is his only route, and an opponent's critical effects can capture his balls. Use the **Namek** set with
+  Namek Dragon Ball 1 ("your other Dragon Balls cannot be captured", +1 life card on your attacks), not Earth (Earth Dragon Ball 1 has no protection). A Red critical-effect shell fits
+  Piccolo better than Slug (Combat Stance and Unleashed feed critical effects and balls; Piccolo can also MPPV).
 - **Turles**: Blue stage-lock on Level 1 (AT +5 and +2 from Turles, damage cannot be prevented) is a top option. Saiyan, Red and Black are the levelling options.
+  The Blue plan: stay on Level 1, play only Styled cards, use AT +5 Setups/physicals (Blue Stretch Kick, Round Throw, Lunge, Face Crunch; AT 0 still hits for 7 stages with Turles' +2),
+  Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
+  whether you want to or not), "cannot be prevented" does not beat Stops, and stage damage drains the MP first (the lock works because the opponent cannot pay for energy attacks or use Allies at 0).
 - **Nail** (only one legal printing set, Set 2): Protector punishes stops. Nail's Dashing Attack (an Energy Combat card by owner ruling, physical attack in
   text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans are the top two.
 - **Dr. Wheelo**: destroy effects get +1 at Level 3 and +2 and Rejuvenate 2 at Level 4. Banish effects do not count. Black Perceptive Mastery
@@ -82,8 +94,15 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Wheelo L2 mills 1 per stop, which Protective's Power and Blue's stops feed. Black keeps its mill and can add anti-anger cards instead (Black Choke, Impediment,
   Easy Block, Corruption, Extreme Blast). Wheelo has no MPPV engine past L1 (L1 sets anger to 3; L2-L4 give none) and tiny power levels, so a "faster MPPV"
   build is not recommended. Protective, "your opponent destroys" and Wall Breaker rulings: see Mechanics confirmed by the owner.
-- **Trunks**: owner's Orange Drill deck uses Orange Retribution Mastery (changing levels shuffles Drills back, its Power refetches Drills). Frenzied (Level 2)
-  gives a critical effect per Named card.
+- **Trunks** (Hero; four sets of levels, mix freely): Premiere Inquisitive/Resolved/Energy Charged/Young Super Saiyan (reorder the top of a Life Deck on entering combat, Energy Charged draws);
+  Evolution Returned/**Swordmaster** (free 8-stage physical attack if you have not attacked from hand)/**Defiant** (fetch a Styled or Sword attack from your discard pile, opponent skips an action)/**Overpowering** (+5 stages on every attack);
+  Set 6 **Protective** (Level 1 only; Drills are not discarded when you advance from it, Sword cards Rejuvenate 1, fetches a non-Styled Drill);
+  Awakening deck-reveal **Dashing** (doubles anger you raise in combat)/**Frenzied** (critical effect per Named card, free stop of a physical attack)/Bold/**Overwhelming** (Sword attacks cannot be stopped and raise anger 1; Power +2 anger).
+  Named: Trunks' Sword Slash, Knee Bash (counts as "Sword"), Slam (considered Styled), Sword Stance (cannot MPPV); Aggressive Sword Drill and Dashing Sword Attack are Freestyle "Sword" cards.
+  Owner's Orange Drill deck uses Orange Retribution Mastery (changing levels shuffles Drills back, its Power refetches Drills, Power also raises anger up to 2 a turn).
+  Two worked answers: **Orange, no MPPV, with level-skips (Orange Devouring Drill)**: Protective, Swordmaster, Defiant, Overpowering. **Red, MPPV**: Dashing, Frenzied, Energy Charged (or Defiant), Overwhelming;
+  at Level 4 one turn can reach 5 anger (Retribution/Enraged raises, Overwhelming Power +2, one Sword attack +1) and Red Enraged turns every critical effect into +1 anger. Orange has 25 anger cards
+  (33 points) to Red's 54 (77), so Orange is the weaker MPPV style for this stack.
 
 - **Piccolo (friend's Red deck, all Premiere levels: Stoic, Combat Stance, Unleashed, Fused)**: about 1 anger point per card. Combat Stance gives a critical effect every turn, Unleashed
   (+2 life cards, ball search on critical damage) turns 4-life-card attacks into critical hits, and Piccolo's Weighted Clothing (banish from discard: raise anger 2) is an
@@ -103,6 +122,19 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   non-AT attacks, and Nappa's L4 top power (24,000) meets its 500,000 cap. First deck: Saiyan Rampaging (4 anger to level; its Power turns an Endurance card
   into a 1+X stage attack). **(unverified)** Saiyan Dive's "Endurance considered 10" counts for Rampaging's X; Clench doubles before or after +stage modifiers;
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
+
+## Decks on file (codes are in the files; decode with `deckcode.py`)
+`decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
+| File | MP / style / Mastery | Status |
+|---|---|---|
+| `sim/decks/wheelo_black_v2.txt` | Dr. Wheelo, Black, Black Devious | imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator |
+| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; used as the speed benchmark for MPPV |
+| `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
+| `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
+| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | Earth balls (see the Namek-set advice above); not confirmed in the app |
+| `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
+| `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
+The Nappa and Wheelo Blue decks are in `decks/` (built by another chat).
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
