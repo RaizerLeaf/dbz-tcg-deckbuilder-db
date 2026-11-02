@@ -25,16 +25,19 @@ images in this repository. Original images are never modified; all output goes i
 7. `python crd_parse.py` then `python crd.py` (Phase 3): parses the CRD text (`work/crd/fanz.txt`, `panz.txt`
    from `pdftotext -layout`) and writes the final `cards.json` / `cards.csv` with errata, rulings, MRP, Frozen List and
    Gold Title Reprint data (`work/crd/PHASE3_REPORT.md`, manual resolutions in `work/crd/overrides.json`)
-8. `python mps.py` (Phase 4): adds `traits_effective` / `traits_source` to MP and Ally records and writes `mps.json` and
+8. `python owner.py`: applies the owner's answers to the flagged cards (`work/owner_rulings.json`): type/icon rulings, copies for the two placeholder
+   images, and removal of the 14 'NEVER OFFICIALLY RELEASED' S07 promos (listed in `excluded_cards.json`). Run after `crd.py`, before `mps.py`.
+9. `python mps.py` (Phase 4): adds `traits_effective` / `traits_source` to MP and Ally records and writes `mps.json` and
    `masteries.json` (`work/crd/PHASE4_REPORT.md`)
 
-9. `python qa.py` (Phase 5): consistency checks, adds `qa_flags` to the records and writes `qa_report.md`
+10. `python qa.py` (Phase 5): consistency checks, adds `qa_flags` to the records and writes `qa_report.md`
 
 ## Output files (current)
-- `cards.json`, `cards.csv`: one record per image (3,106). Fields are those in BRIEF.md plus: `stage_cost`,
+- `cards.json`, `cards.csv`: one record per image except the 14 excluded overlay promos (3,092 records; see `excluded_cards.json`). Fields are those in BRIEF.md plus: `stage_cost`,
   `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`
   (null / printing_current / text_current_derived), `card_type_current`, `crd_entries` (structured CRD entries),
-  `frozen_listed_printing`, `frozen_filename_flag`, `gold_title_note`, `traits_effective`, `traits_source`.
+  `frozen_listed_printing`, `frozen_filename_flag`, `gold_title_note`, `traits_effective`, `traits_source`, `owner_ruling`, `qa_flags`. `errata_status` can also be `owner_correction`.
+  `card_type_current`, when set, overrides `card_type` (e.g. S04 BST_110 prints Event but is an Energy Combat).
   `text_as_printed` is what the image shows; `text_current` is the text after errata (null when the card has no erratum).
   `traits` = Traits printed on the card; `traits_effective` adds the CRD's retroactive Traits for PanZ printings.
 - `mps.json`: MP groups (name + alignment) with every printing of Levels 1-4 and Trait availability per level.
@@ -53,10 +56,10 @@ Set codes: `S01`..`S19`, `OP1`..`OP6`, `PZP` (PanZ MP & Ally Promos).
 - Phase 0 done: 3,113 images inventoried.
 - Phase 1 pilot done and approved (`work/pilot/PILOT_REPORT.md`).
 - Phase 2 done: all 3,106 playable images read, ingested and derived. Draft `cards.json` /
-  `cards.csv` in this folder; report in `work/full/PHASE2_REPORT.md` (28 cards need review).
+  `cards.csv` in this folder; report in `work/full/PHASE2_REPORT.md` (28 cards needed review; all resolved by the owner on 2026-11-02, so `needs_review` is now false everywhere).
 - Phase 3 done: errata, rulings, MRP, Frozen List and Gold Title Reprints attached (`work/crd/PHASE3_REPORT.md`, `crd_general.md`).
 - Phase 4 done: `mps.json`, `masteries.json`.
-- Phase 5 done: `qa_report.md` (checks, 5% visual re-read: 0 errors in 159 cards, needs_review list, unmatched CRD entries).
+- Phase 5 done: `qa_report.md` (checks, 5% visual re-read: 0 errors in 159 cards, owner decisions, unmatched CRD entries).
 
 ## Layout findings
 - PanZ Personalities print `ALLY` on the right edge for Allies and `HERO`/`VILLAIN` for MPs;
