@@ -32,6 +32,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
 | Built a card pool from the first printing and read a stale wording (Black Command, Orange Palm Blasts, Black Scout Maneuver) | the latest print wins: `text_current` carries it; a real image that prints "(Most Recent Printing)" is the MRP even when the CRD is silent |
 | The cloud session was set to push to a branch while `CLAUDE.md` says push to `main`; the owner learned this late and was surprised | when the session's branch rule and `CLAUDE.md` disagree, say so in the first reply and ask which to follow; do not quietly pick one |
 | Offered changes to a deck the owner said was for a friend | leave a friend's deck as it is unless asked; describe the change and let the owner decide |
+| Built a Raditz deck that mixed Red, Orange and Saiyan cards under a Red Mastery and presented it as checked | Rulebook 3.0: all Styled cards must match the Mastery's style. `deckcode.py check` and `friends/site/core.js` now report it (the parity test keeps them equal); when building, pick one style plus Freestyle |
 | Believed "skip their next action" stops defenses | responding to an attack is not an Action (Rulebook 3.0) |
 | Wrote simulator output paths with `../work/full` and created a stray `work/` outside `_deckbuilder_db/` | pass `--out work/full` exactly; check `git status` for untracked top-level folders |
 | Generated `docs/` went stale after another chat changed card text | `friends/tests` has a freshness test that fails until `python friends/build_site.py` is re-run |
@@ -65,6 +66,8 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - Hosting: private repos cannot use Pages on the free plan. The owner made the repo public (images and all) and serves `/docs` from `main`. `docs/deck-helper.html` is a one-file fallback.
 
 ## Simulator: how to use it honestly
+- Deck building uses `python -m sim playtest <deck>` (against the test-deck roster of up to 25 decks, 50 games per opponent at most), then `python -m sim roster add <deck>`. `sim/roster.json` can conflict when two chats add decks at once: resolve by re-running `python -m sim roster rebuild`.
+- A missing MP level, Mastery or card is modelled by the deck builder, not skipped: follow `sim/MODELLING_GUIDE.md` (steps, hook table, worked example). A test keeps the guide in sync with `Behavior`.
 - `python -m sim run A B -n 1000` for win rates, `bo3`/`game` for the play log, `coverage` for what is **not** modelled. Quote the coverage warnings with any result.
 - It reproduces the earlier numbers (Wheelo V2 vs the friend's Red Piccolo about 16% for Wheelo; Red Trunks vs Orange Trunks V4 about 61% for Red). A change that moves them needs an explanation.
 - A win rate here is the model's opinion under identical simple play, not a prediction of how a person would do. A loss in a matchup the model calls lopsided is not evidence of a play mistake.
@@ -72,6 +75,6 @@ tool and sandbox gotchas, and how the generated files stay correct.
 ## Still to do (as of this session)
 - Nappa options 2 and 3 (Saiyan Dynamic, Black Devious) and the Black-based anti-anger Wheelo option are described but not built. Simulate the Wheelo Blue deck against the friend's Red Piccolo once Allies and Blue Protective are modelled.
 - FanZ-era support in the simulator, the pack builder and the page (rulings, keywords, Traits, Frozen list). Everything built here is PanZ (Sets 1-7) only.
-- Simulator: Allies, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
+- Simulator: Allies other than the Cell Jr. ones, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
 - Optional: a GitHub Action that rebuilds `docs/` automatically (needs the owner's OK: it lives in `.github/`); a browser version of the simulator (Pyodide).
 - Open rules questions are listed at the end of `STRATEGY_KNOWLEDGE.md` and marked **(unverified)** in the notes. Ask the owner before relying on them.

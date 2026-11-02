@@ -14,8 +14,43 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 5. Compare styles with "How to compare styles" below and give 2-3 ranked options, unless the owner asked for one style.
 6. Build to the defaults (60 cards, limits, Time Is A Warrior's Tool x1, Confrontation/Stare Down x2).
 7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
-8. Optionally test it against another deck with the simulator (`sim/README.md`: `python -m sim coverage <deck>` first, then `python -m sim run A B`); it is a toy model, not a rules engine.
-9. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
+   cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
+9. Present the deck by role, the code in a fenced block, the simulator playtest (what you ran, what was unmodelled, what you saw) and every unverified assumption; ask the owner to import it.
+   Save the code in `decks/`, run `python -m sim roster add decks/<name>.txt` (step 5 of the playtest section), record new owner rulings and lessons here, then commit and push to `main`.
+
+## Playtesting a deck in the simulator (required before finalizing)
+Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/README.md`), but it is the only thing that executes the cards, so every deck gets played before it is presented.
+1. **Coverage first:** `python -m sim coverage decks/<name>.txt` (or `sim/decks/`). It lists the MP levels and the Mastery that are **NOT MODELLED** and the card sentences it ignores.
+2. **"The simulator does not have this character" is not a reason to skip.** Add the missing MP levels, the Mastery and the cards your plan depends on to `sim/behaviors.py` from the card text
+   (**step-by-step guide for someone who has never opened the simulator: `sim/MODELLING_GUIDE.md`**; short recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
+   starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
+   code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
+3. **Play it against the test-deck roster:** `python -m sim playtest decks/<name>.txt`. It plays your deck against every deck on the roster (**up to 25 decks, one version per MP + Mastery**, 20 games each by default; a game takes about 10 ms, so a full playtest takes about 3 seconds and the 50-game cap about 6;
+   the command refuses more than 50 games per opponent). It prints a win rate per opponent and how each game ended, and the command to read a play log of your worst matchup (`python -m sim game A B --seed 1`):
+   read 2-3 logs. Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses. For a specific matchup the owner named, also
+   `python -m sim game <your deck> <their deck>`. **Do not run hundreds or thousands of games for deck building**: large `python -m sim run A B -n 1000` batches are for matchup testing when the owner asks.
+   The roster is a spread of the decks built so far (see "The test-deck roster" below), so never rely on the friend's Piccolo deck alone: it is a very fast, niche MPPV deck.
+4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
+   unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
+5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt` and `sim/roster.json`. The command
+   ranks the deck against the current roster (round robin, fixed seeds): if it is in the top 25 by win rate it joins and, once the roster is full, the lowest-ranked deck is retired; if it does not make the top 25 it is not added. If an older version of the same deck (same MP + Mastery) is on the roster, the better of the two stays and the other is listed as superseded. It only plays the new deck against the roster (pair results are cached), so it takes well under a second.
+   It refuses a deck whose MP levels or Mastery are NOT MODELLED (do step 2 first). Say in your answer whether the deck joined the roster.
+
+### The test-deck roster
+`sim/roster.json` holds **at most 25 decks** (the cap is `MAX_ROSTER` in `sim/roster.py`; games are fast enough to test against many decks); `python -m sim roster` shows it. Rule: a new finished deck is played against the roster in a round robin (30 games per pair, fixed seeds, first player
+alternating); decks are ranked by win rate, the top 25 stay and the rest are retired. **Only one version of a deck counts**: a deck's family is its MP + Mastery (Orange Trunks V3/V4/V5 are one deck); only the best-ranked version of each family stays, the older ones are listed as `superseded` in the file, and versions of one family do not play each other in the ranking. A new version replaces its predecessor only if it ranks higher (`retired` in the file; the deck files stay in the repository and can still be used with `sim game`/`sim run`).
+`python -m sim roster rebuild` re-ranks every deck in `decks/` and `sim/decks/` from scratch (use it to resolve a merge conflict in `roster.json`). Decks with NOT MODELLED parts are not rankable.
+Things to know:
+- The ranking is the **model's** win rate, not real strength (the model may overrate the Orange Trunks decks), and it measures decks against each other only. A win rate is relative to the decks on the
+  roster at that moment, so the numbers shift a little whenever the roster changes.
+- Because the roster keeps the highest winners it drifts toward strong, fast decks. Once the roster is full, slow decks get retired first. Two truly different strategies with the same MP and Mastery
+  count as versions of one deck (the roster keeps the better one); use `sim game` / `sim run` to test against the other directly. If you need a slow or specific opponent, use it directly with `sim game` / `sim run`.
+- Snapshot when it was created (10 decks): Orange Trunks V5 (89%; V3 and V4 superseded), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
+  Garlic Jr. (37%), Krillin (31%), Wheelo Black (30%), Wheelo Blue (29%), Lord Slug (8%). Check `python -m sim roster` for the current list.
+- Every deck on the roster must be fully modelled: `roster add` refuses a deck with NOT MODELLED MP levels or Mastery. The first roster build skipped Nappa for that reason, so Nappa's four levels,
+  the stage-drain effects ("your opponent loses N stages", including "to a minimum of 0") and Saiyan Clench were added to the simulator; the remaining gaps for that deck are listed by `coverage`
+  (Allies, second-use attacks, Saiyan Dive's banish).
 
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
@@ -32,6 +67,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 
 ## Legality checklist (run before giving any deck)
 1. 60 cards, copy limits, printed limits.
+1b. **Every Styled card must match the Mastery's style** (Rulebook 3.0: "All of your Styled cards must match the Style of your Mastery"; Freestyle cards are free). `deckcode.py check` and the page checker enforce it.
+   A Raditz draft mixed Red, Orange and Saiyan cards under Red Enraged and passed the old checker; never pick cards across styles.
 2. **Named cards must match the MP name** ("Goku's Search" cannot go in a Nail deck). Use `is_named` /
    `named_character`. Cards that are only "considered Named for your effects" (Pesky Barrage, Black Back Strike) are fine in any
    deck. "Time Is A Warrior's Tool" and "It's Over 9,000!" are not Named (`NOT_NAMES` in `derive.py`).
@@ -81,12 +118,18 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Lord Slug **cannot win by MPPV**, so Dragon Ball Victory (or Survival) is his only route, and an opponent's critical effects can capture his balls. Use the **Namek** set with
   Namek Dragon Ball 1 ("your other Dragon Balls cannot be captured", +1 life card on your attacks), not Earth (Earth Dragon Ball 1 has no protection). A Red critical-effect shell fits
   Piccolo better than Slug (Combat Stance and Unleashed feed critical effects and balls; Piccolo can also MPPV).
+  **Simulator test (Earth V3 vs Namek V4, same 60 cards apart from the seven balls, 450 games against the 9 other roster decks, 500 head-to-head):** Namek 9.8% vs Earth 10.0% overall (a tie within noise); head-to-head Namek 59% / Earth 41%.
+  Namek's edge is almost all Namek 6 (+3 PUR, opponent's attacks -2 stages) and Namek 1 (+1 life card), i.e. it helps Slug *survive and hit*, not win by Dragon Balls: in 180 games each, Slug had 7 or more balls in play in only 1 game (Earth) / 13 games (Namek) and won by Dragon Ball Victory only 11 times in 500 (Namek) -
+  games last about 7 turns and crit decks capture the balls. Both versions score 0/50 against Orange Trunks and Red Trunks (Garlic Jr.: Earth 5/50, Namek 0/50); Slug's real wins come from Survival against slower decks (Wheelo Blue 26-36%).
+  **Model gaps that may undersell Slug:** Namek 2 (lower a personality) and Namek 4 (destroy 2 Setups/Drills) are not modelled; Earth 6 (re-Rejuvenate banished balls) and Earth 7 (play a ball from hand as an action) are not modelled and would help Earth; the Dragon Radar "search and play" and Lord Slug's Regeneration advance/lower are not modelled; the AI never protects balls on purpose. Treat Slug as the weakest roster deck against fast decks, and as a deck you play for a slow Dragon Ball plan against slower decks.
+- **Goku** (Hero; Set 7 Training/Determined/Courageous/Selfless, Set 4 Relaxed/Motivated/Calm/Dashing, Set 1 levels; mix freely): only the Set 4 levels search for Allies (Calm L3, Dashing L4, Relaxed L1 to the top of the deck). Allies act only while the MP is at most 1 stage above 0
+  unless a card frees them, so Goku taking stage damage (stage 0) turns his Allies on; Chichi works regardless for Goku, Piccolo does not (his exception is for Gohan). Three decks and the ranking are in `GOKU_STYLE_COMPARISON.md`. The sim models Training, Determined, Calm and Dashing only.
 - **Turles**: Blue stage-lock on Level 1 (AT +5 and +2 from Turles, damage cannot be prevented) is a top option. Saiyan, Red and Black are the levelling options.
   The Blue plan: stay on Level 1, play only Styled cards, use AT +5 Setups/physicals (Blue Stretch Kick, Round Throw, Lunge, Face Crunch; AT 0 still hits for 7 stages with Turles' +2),
   Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
   whether you want to or not), "cannot be prevented" does not beat Stops, and stage damage drains the MP first (the lock works because the opponent cannot pay for energy attacks or use Allies at 0).
 - **Nail** (only one legal printing set, Set 2): Protector punishes stops. Nail's Dashing Attack (an Energy Combat card by owner ruling, physical attack in
-  text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans are the top two.
+  text) always gives a critical effect. Combat Ready's HIT can use any player's Dragon Ball. Black mill and Namekian ball plans were the top two before the 2026-11-02 comparison; that session ranked **Red Enraged > Namekian Knowledge > Black Devious** (see `NAIL_STYLE_COMPARISON.md`).
 - **Dr. Wheelo**: destroy effects get +1 at Level 3 and +2 and Rejuvenate 2 at Level 4. Banish effects do not count. Black Perceptive Mastery
   (Set 4 only) is likely a better fit than Devious. Revival triggers when discarded or destroyed from your Life Deck.
 - **Dr. Wheelo vs anger/MPPV decks**: Blue Protective (opponent needs 6 anger to advance) turns Wheelo into an anti-anger mill deck: Blue Biting Drill
@@ -126,25 +169,80 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Overpowering Aura Drill / Body Blow can fetch Clench; how many "Saiyans in play" Turles Ally counts under PanZ rulings.
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
+- **Raditz** (Villain, Saiyan heritage, only Set 2 printings are legal: True Saiyan, Confident, Angered, Triumphant): Setups and Drills are played in the Planning Step, Setups are used in combat.
+  L1 Power: physical attack (1 life card), look at your top 2 (one to hand, one banished from your own Life Deck), raise anger 1. **L2: every Setup or Drill entering play destroys the top card of the opponent's Life Deck, and +1 anger if it enters during combat** (searched or "placed into play"; Planning-step plays give the destroy only).
+  L3: opponent discards a random card when entering combat (Instant). L4: Setup/Drill entering play Rejuvenates a card; the first critical damage effect each combat searches Life Deck or discard pile for a Setup/Drill and places it into play. Named: Raditz's Offensive Guard
+  (attach: once per combat place a Setup/Drill from hand into play), Raditz's Dirty Tactics (Limit 2, not used). The Set 2 Nappa Ally ("Setups cannot be used") is a trap in a Setup deck. Many "Events" in the Red/Saiyan pool are really Setups (Red Blaze, Red Destiny, Saiyan Enraged), so they also trigger L2 when played.
+  **Styled cards must match the Mastery** (Rulebook 3.0): Orange Celebration/Encouragement ("a Styled Drill") only find Drills of the Mastery's style, so the Drill engine is Orange only with an Orange Mastery.
+  Simulated styles (50 games per roster deck): **Orange Retribution 82%** (80% after the Vegeta deck joined the roster) (anger 2 a turn from its Power plus Drills entering play; reaches Level 4 by its second turn and wins by MPPV about turn 5), Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%
+  (the last three are within noise of each other; against the 12-deck roster that now contains Raditz Orange they measure 46% / 42% / 38%). Decks on file: `decks/raditz_orange.txt` (on the roster), `raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt`. Not modelled: Offensive Guard's "banish from hand to stop an attack", Orange Retribution's
+  shuffle-Drills-on-level-change, Rampaging's Power, Red Slide keeping Drills. **(unverified)** Saiyan Analysis Drill copies do not stack and do not lower Level 4 MPPV; Level 3's discard also fires when defending; Level 1's reveal/anger happen even if its attack is stopped.
+
+- **Vegeta (Hero)** (Saiyan heritage; Hero levels from Evolution = Styled, Awakening = non-Styled): Awakening *Experienced / Imposing / Energized / Pinnacle of Power* give non-Styled (Freestyle) attacks
+  +2 / +1 (and no prevention) / +3 (and a second use of the first stopped one) / +3 and **cannot be stopped**. Evolution *Calculating / On the Move / Super Saiyan / Elite* reward Styled attacks (life cards <-> stage damage;
+  Elite: first Styled physical cannot be stopped). Named: Vegeta's Galick Gun (x3, 6 life cards for 2 stages, unpreventable, two critical effects), Destruction Blast, Final Flash, Vegeta's Anger. Experienced's
+  parenthesis says non-Styled damage can only be modified by Experienced itself (Level 1 only; the simulator ignores this).
+  Style comparison (an early one-off run, before the roster existed: 800 games per opponent against 8 reference decks, average win rate; the Awakening/Red Ascension deck was later improved and playtested against the roster, see the deck table): **Awakening Freestyle + Red Ascension 71.5%** (`decks/vegeta_pinnacle_red_ascension.txt`),
+  Evolution Styled Red + Red Ascension 64.0%, Awakening Freestyle + Saiyan Dynamic 51.3%; also tried: Evolution Saiyan Dynamic 47.2%, Awakening + Red Enraged 46% (300 games), Evolution Saiyan Rampaging 40.7%,
+  Awakening + Black Conflict 24% (400 games, too slow to level). Red Ascension beat Red Enraged because its free +1 anger a turn (end of combat) plus Power levels the MP faster. The model does not count the
+  Evolution stage-conversion, so the Evolution Red result is a floor.
+  **(unverified)** Whether "+N life cards" applies to a stage-only attack (Devastating Blow, "AT +1 stage"); the deck does not depend on it. Overpowering Attack finds no Ally in this deck (no Allies in it).
+  Weak spots seen in the playtest: stage-damage decks (Orange Trunks) drain its Life Deck while it sits at 0-4 stages after paying stage costs (loses by Survival), and Blue Protective / Wall Breaker slow its anger. Untested idea: Wall Breaker (opponent cannot gain anger) against MPPV decks.
+  Quick Blast, Surprise Attack, Blinding Energy Move and Point-Blank Volley were left out on purpose (Blinding Energy Move ends combat and Point-Blank Volley's anger is double-counted by the parser) (Quick Blast banishes your own Defense cards while attached; Surprise Attack lets the opponent banish 2 of your non-Styled cards).
+- **Cell Jr.** (Villain MP, Set 7 only, one printing per level: Taunting AW-U68, On the Move AW-U69, Oppressive AW-U70, Confident AW-U71; Saiyan and Namekian heritage both true).
+  Level 1 says "Your Life Deck may include up to 3 copies of each Ally with "Cell Jr." in the title", so the three Cell Jr. Allies (Trapped AW-U76, Escaping AW-U77, Unrelenting AW-U78) go in x3 each = 9
+  (the owner's reading; it overrides both the one-copy-per-Ally limit and "no Allies that match your MP's name"). `deckcode.py check` does not know this exception and reports four false errors on every Cell Jr. deck
+  (3x "Ally with the MP name" and "Cell Jr. x9, limit 1"); `scripts/build_cell_jr_decks.py` filters exactly those and checks the 3/3/3 split itself. The FanZ CRD says the opposite (1 copy of each, "Non-Unique"); not used here.
+  The levels are an **Ally-in-hand** engine: L1 discards a Cell Jr. Ally for an unstoppable 4-stage attack whose HIT plays any card with a [Continuous] effect from the Life Deck (Blue Waiting Drill, Blue Biting Drill, Trapped, Escaping);
+  L2 stops one attack per combat the same way and hits for 5 + the Cell Jr. personalities in your discard pile (up to 14 stages); L3 Rejuvenates an Ally from hand to stop a physical or energy attack, Rejuvenates 2 from the discard pile and fetches one to hand;
+  L4 banishes an Ally from hand as an action to destroy 3 cards (4 with Trapped) and gives non-AT physical attacks +3 stages. **Trapped** adds 1 to every "destroy the top X of your opponent's Life Deck" effect while you control any Ally.
+  Nothing in Sets 1-7 searches an Ally *to hand* except L3's HIT (Visiting the Past, Quickness Drill and Battle Pausing fetch from the discard pile), so the hand is fed by draws: P(at least one Cell Jr. Ally) in the first 3 / 6 / 9 cards is 39% / 64% / 79%.
+  **Cell's Provocation (AW-R132) is Named "Cell", not "Cell Jr."**, so it is left out of every Cell Jr. deck under the Named rule (owner has not been asked whether to allow it; it would fit the Blue and Black builds). Cell Jr.'s Swarm and Surround are Named "Cell Jr." and legal.
+  **Simulated (added 2026-11-02):** the four levels, Trapped/Escaping, the Blue Tag Team and Black Perceptive Masteries, Setup attacks and Setup defenses, partial prevention (Blue Overcharge) and the Blue/Black/Red cards listed in
+  `sim/behaviors.py` ("Cell Jr." section) are modelled. Not modelled: Unrelenting's attack (Allies act only when the MP is at most 1 stage above 0), Waiting Drill's "whenever you play an Ally, Rejuvenate 1", Tag Team's protection from critical
+  effects, Black Pop-Up's naming gamble, Black Dash's Ally steal, Blue Challenging Strike lasting through your next turn. **(unverified)** two Trapped in play are assumed to stack; Tag Team's Ally arrives at game start instead of the opponent's first turn.
+  Result of the 50-game playtests against the 19 other roster decks (950 games each, +-3 points overall, +-14 per opponent): Red Ascension 69%, Blue Tag Team 67%, Black Perceptive 56%; round-robin rank 5 / 6 / 7 of 20.
+  Red and Blue are a tie (head to head Red 27-23); Red reaches Level 4 in about 4 of 5 games and wins by MPPV, Blue stays on Levels 1-2 and wins by Survival (Taunting every turn, Waiting Drill fetched by its HIT, Arrest/Slash mill);
+  Black is behind both. All three lose to the fast Trunks decks (Orange Trunks 20-28%, Red Trunks 22-34%) and to Raditz Orange (Red Ascension 20%).
+  Builds on file: `decks/cell_jr_red_ascension.txt`, `cell_jr_blue_tag_team.txt`, `cell_jr_black_perceptive.txt` (see the table below).
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `sim/decks/wheelo_black_v2.txt` | Dr. Wheelo, Black, Black Devious | imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator |
-| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; used as the speed benchmark for MPPV |
+| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; a very fast, niche MPPV deck: one stress test among several, not the general benchmark |
 | `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
 | `decks/trunks_orange_v5.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Defiant / Overpowering) | V4 plus six simulator-guided swaps, **on the V4 level stack (Defiant / Overpowering), not the owner's intended one**; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported |
 | `decks/trunks_orange_v6.txt`, `trunks_orange_v6_lite.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Energy Charged / Overwhelming, the owner's intended stack) | simulator-tuned from V5; V6 is the stronger, riskier rewrite, V6 lite keeps the Drill engine; see `TRUNKS_STYLE_COMPARISON.md`; not confirmed in the app |
 | `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
-| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | Earth balls (see the Namek-set advice above); not confirmed in the app |
+| `decks/lord_slug_red_namek.txt` | Lord Slug, Red, Red Enraged | **V4, Namek balls** (the roster version; 15% over 500 playtest games); not confirmed in the app |
+| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | V3, Earth balls (older version, same family; superseded on the roster); not confirmed in the app |
 | `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
 | `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
 `decks/` (built in a cloud session, deck codes written by `deckcode.py`):
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
+| `decks/nail_red_enraged.txt` | Nail, Red, Red Enraged | anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`; on the roster (11th of 25, 52%; 54% over 480 playtest games). Not imported yet |
+| `decks/nail_namekian_knowledge.txt` | Nail, Namekian, Namekian Knowledge | Rejuvenate/Namek-ball build, second pick; wins mostly by Survival (mill) around turn 8; on the roster (19th of 25, 39%; 39% over 480 playtest games). Not imported yet |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+| `decks/lord_slug_namekian_knowledge.txt` | Lord Slug, Namekian, Namekian Knowledge (Namek balls) | built 2026-11-02; style comparison and playtest in `LORD_SLUG_STYLES.md`; 56% over 600 roster games (50 per opponent), roster rank 6 of 17 after the later Vegeta and Raditz decks joined; **not imported into the app yet** |
+| `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
+| `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
+| `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
+| `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
+| `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
+| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 59% over 1,100 playtest games (roster rank 10 of 23); not imported |
+| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 57% over 1,100 playtest games (roster rank 8); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
+| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 64% over 1,100 playtest games (roster rank 6); Rampaging's Power not modelled; not imported |
+
+Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; simulated, none imported into the app yet; all three are on the roster):
+| File | MP / style / Mastery | Status |
+|---|---|---|
+| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (69% over 950 playtest games, round-robin rank 5): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
+| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 6): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
+| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 56% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the

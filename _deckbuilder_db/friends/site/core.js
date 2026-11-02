@@ -118,6 +118,7 @@
       c.restr.forEach((r) => {
         if (/Mastery$/.test(r) && r !== mastery.name) err.push(c.name + ': ' + r + ' only');
       });
+      if (c.style !== 'Freestyle' && c.style !== mastery.style) err.push(c.name + ': ' + c.style + ' card, but the Mastery is ' + mastery.style + " (all Styled cards must match the Mastery's style)");
       if (c.named && c.named !== mp) err.push(c.name + ': Named ' + c.named + ', MP is ' + mp);
       if (c.type === 'Ally' && (g.noAlly || []).indexOf(c.name) >= 0) err.push(c.name + ': Ally with the MP name');
     });

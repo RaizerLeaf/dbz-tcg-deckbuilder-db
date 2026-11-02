@@ -50,8 +50,12 @@ class Player:
         rng.shuffle(self.deck)
         self.level, self.stage, self.anger = 1, 5, 0
         self.hand, self.discard, self.banished = [], [], []
-        self.balls, self.drills, self.setups = [], [], []
+        self.balls, self.drills, self.setups, self.attached = [], [], [], []
+        self.allies = []                  # Allies in play (only Allies the AI knows how to use are ever played; see behaviors.plan_allies)
         self.skip = 0
+        self.allies = []                    # modelled Allies in play (Card objects with .astage = power stage); see behaviors.ALLY_MODEL
+        self.gf = {}                        # flags that last the whole game
+        self.cur_ally = None                # the Ally performing the attack being resolved (None = the MP)
         self.won = self.lost = False
         self.win_reason = None
         self.lockanger = False
@@ -66,7 +70,8 @@ class Player:
                        gained=False, raised=False, destroyed_nonstyled=False, destroy_bonus=0, next_destroy_bonus=0,
                        next_life=0, next_free=False, reduce_life=0, reduce_stage=0, noend=False, burning=False,
                        noevents=False, nonstyled_lock=False, ball_search=False, searched=False, armed_discard=False,
-                       sword_played=False, next_unprev=False)
+                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False, attacks=0,
+                       ally_free=set(), ally_life={}, ally_kiss=set(), ally_unstop=False, rj_draw=False)
 
     def log(self, msg):
         self.game.log(msg)
@@ -77,8 +82,12 @@ class Player:
 
     def behaviors(self):
         out = [B.mp_behavior(self.mp_name, self.lv.name), B.mastery_behavior(self.mastery)]
-        for c in self.drills + self.balls + self.setups:
+        for c in self.drills + self.balls + self.setups + self.attached:
             b = B.CARD_PASSIVE.get(c.name)
+            if b:
+                out.append(b)
+        for c in self.allies:
+            b = B.ALLY_PASSIVE.get((c.name, c.rec.get('subtitle')))
             if b:
                 out.append(b)
         return [b for b in out if b is not None]
@@ -89,6 +98,25 @@ class Player:
     def styled(self):
         return B.style_of(self.mp_name, self.mastery)
 
+    # ---- Allies (only Allies listed in behaviors.ALLY_MODEL are ever played) ----------------------------------------
+    def ally_power(self, a):
+        return 0 if a.astage <= 0 else a.rec['power_stages'][10 - min(a.astage, 10)]
+
+    def put_ally(self, card, stage=3, played=False):
+        """Place an Ally into play (Rulebook 3.0: Allies enter at 3 stages above 0 unless a card says otherwise).
+        played=True when the card text says 'play' (not 'place into play'): Blue Waiting Drill only reacts to those."""
+        card.astage, card.played = stage, played
+        self.allies.append(card)
+        self.log(f'  {self.label}: Ally {card.name} enters play at stage {stage}')
+        for b in self.behaviors():
+            b.on_ally_entered(self, card)
+
+    def leave_play(self, a, to='discard'):
+        self.allies.remove(a)
+        {'discard': self.discard, 'banish': self.banished, 'deck': self.deck}[to].append(a)
+        if to == 'deck':
+            self.rng.shuffle(self.deck)
+
     # ---- cards moving -------------------------------------------------------------------------------------
     def draw(self, n=1):
         for _ in range(n):
@@ -97,13 +125,36 @@ class Player:
                 return
             self.hand.append(self.deck.pop(0))
 
-    def rejuv(self, n, in_combat=True):
+    def rejuv(self, n, in_combat=True, pred=None):
+        """Rejuvenate n cards: discard pile -> bottom of the Life Deck. pred picks which cards (best value first); default is the top of the discard pile.
+        In combat the amount goes through `rejuv_amount` (Lord Slug Level 3 doubling) and `on_rejuvenate` fires only if a card actually moved."""
+        if n > 0 and in_combat:
+            for b in self.behaviors():
+                n = b.rejuv_amount(self, n)
+        moved = 0
         for _ in range(n):
-            if self.discard:
-                self.deck.append(self.discard.pop())
-        if n and in_combat:
+            src = [x for x in self.discard if pred(x)] if pred else self.discard
+            if not src:
+                break
+            c = max(src, key=self.value) if pred else src[-1]
+            self.discard.remove(c)
+            self.deck.append(c)
+            moved += 1
+        if moved and in_combat:
             for b in self.behaviors():
                 b.on_rejuvenate(self)
+            for pl in (self, self.opp):                       # Red Right Blast: the next time a player Rejuvenates this combat, its owner draws
+                if pl is not None and pl.cb.get('rj_draw'):
+                    pl.cb['rj_draw'] = False
+                    pl.draw(1)
+
+    def rejuv_ally(self, card, zone):
+        """Rejuvenate one specific Ally: it leaves `zone` (hand, discard pile, Banished Zone or play) for the bottom of the Life Deck."""
+        zone.remove(card)
+        self.deck.append(card)
+        for b in self.behaviors():
+            b.on_ally_rejuvenated(self)
+            b.on_rejuvenate(self)
 
     def lose_card(self, c, how):
         """A card left the top of the Life Deck. how: 'destroy' | 'damage' | 'banish'. Returns True if it counts."""
@@ -165,6 +216,15 @@ class Player:
             return self.take_life(left)
         return 0
 
+    def lose_stages(self, n, floor0=False):
+        """This MP loses n stages. At power level 0 the rest comes off the Life Deck (Rulebook 3.0) unless the card says 'to a minimum of 0'."""
+        if n <= 0:
+            return 0
+        if floor0:
+            self.stage = max(0, self.stage - n)
+            return 0
+        return self.take_stages(n)
+
     def gain_stages(self, n):
         self.cb['gained'] = True
         self.stage = min(10, self.stage + n)
@@ -224,6 +284,8 @@ class Player:
             return
         self.stage = 10 if d > 0 else 5
         self.cb['changed'] = True
+        if self.opp is not None and self.opp.cb['set0_on_change']:      # Nappa's Energized Charge
+            self.stage = 0
         keep = any(b.keep_drills(self, old) for b in B.behaviors_of_level(self, old))
         if not keep:
             self.discard.extend(self.drills)
@@ -239,6 +301,10 @@ class Player:
             self.balls.append(o.balls.pop())
             self.log(f'    ({self.label} captures a Dragon Ball)')
             self.check_dbv()
+        elif B.my_allies(o) and not any(b.protect_allies(o) for b in o.behaviors()):
+            a = max(B.my_allies(o), key=B.ally_value)       # critical effect: discard an opponent's Ally (preferred over lowering anger 1)
+            o.leave_play(a)
+            self.log(f'    ({self.label} discards {o.label}\'s Ally {a.name})')
         else:
             o.lower_anger(1)
         for b in self.behaviors():
@@ -275,6 +341,7 @@ class Player:
         return c
 
     def note_discard(self, c):
+        self.game.last_discarder = self            # lets a behavior tell whose card was discarded (Black Viewing Drill)
         self.cb['discarded'] = True
         self.opp.cb['discarded'] = True
         trig = B.CARD_DISCARD_TRIGGER.get(c.name)
@@ -294,16 +361,31 @@ class Player:
 
     # ---- attacks ----------------------------------------------------------------------------------------------
     def at_value(self, opp):
-        return AT[BRACKETS[bracket(self.power())]][bracket(opp.power())]
+        mine = self.ally_power(self.cur_ally) if self.cur_ally is not None else self.power()
+        return AT[BRACKETS[bracket(mine)]][bracket(opp.power())]
 
-    def attack(self, opp, card=None, power=None):
+    def attack(self, opp, card=None, power=None, ally=None):
+        """ally: an Ally in play that performs this attack (it pays energy costs from its own stages and uses its own power level)."""
+        self.cur_ally = ally
+        try:
+            return self._attack(opp, card, power, ally)
+        finally:
+            self.cur_ally = None
+
+    def _attack(self, opp, card, power, ally):
         c = power or card
         cost = c.cost
         if self.cb['next_free'] and card is not None and card.style and card.style == self.styled():
             cost, self.cb['next_free'] = 0, False
-        if cost > self.stage:
-            return False
-        self.stage -= cost
+        if ally is not None:
+            if cost > ally.astage:
+                return False
+            ally.astage -= cost
+        else:
+            if cost > self.stage:
+                return False
+            self.stage -= cost
+        self.cb['attacks'] += 1          # attacks performed this combat (True Power: 'use only if you have not performed an attack this combat')
         if card is not None:
             self.hand.remove(card)
             self.cb['attacked_hand'] = True
@@ -318,9 +400,13 @@ class Player:
         opp.lower_anger(c.anger_opp)
         if c.gain:
             self.gain_stages(c.gain)
+        if c.opp_lose:
+            opp.lose_stages(c.opp_lose, c.opp_lose_floor)
         if extra.get('immediate'):
             extra['immediate'](self, opp, c)
         unstop = c.unstoppable or any(b.unstoppable(self, c) for b in self.behaviors())
+        if ally is not None and self.cb['ally_unstop']:       # Goku Calm HIT: the next attack this combat, if an Ally's, cannot be stopped
+            unstop, self.cb['ally_unstop'] = True, False
         stopped = True if self.cb['stopall'] else (False if unstop else opp.defend(self, c))
         if stopped:
             self.log(f'  {self.label}: {c.name} -> stopped')
@@ -333,6 +419,11 @@ class Player:
         ds, life = 0, c.life
         if c.at is not None or c.stage_flat:
             ds = (self.at_value(opp) + c.at) if c.at is not None else c.stage_flat
+        if extra.get('base_stage'):
+            ds = extra['base_stage'](self, opp, c)
+        if ds and c.at is None:
+            for b in self.behaviors():
+                ds *= b.stage_scale(self, c, opp)
         if c.life_at:
             life = self.at_value(opp) + c.life
         life = max(0, life + B.life_adjust(self, opp, c))
@@ -342,6 +433,8 @@ class Player:
             life += sum(b.life_bonus(self, c, opp) for b in self.behaviors())
             life += self.cb['next_life']
             self.cb['next_life'] = 0
+            if ally is not None:
+                life += self.cb['ally_life'].get(ally.name, 0) + (2 if ally.name in self.cb['ally_kiss'] else 0)
         for b in opp.behaviors():
             if life:
                 life += b.incoming_life(opp, c, self)
@@ -349,8 +442,14 @@ class Player:
                 ds += b.incoming_stage(opp, c, self)
         life = max(0, life - opp.cb['reduce_life']) if life else 0
         ds = max(0, ds - opp.cb['reduce_stage']) if ds else 0
+        pre = opp.cb.pop('prevent_once', None)          # Blue Overcharge: prevents N life cards and N stages of THIS attack only
+        if pre:
+            life, ds = max(0, life - pre[0]), max(0, ds - pre[1])
         opp.endure_count = 0
-        ign = c.unprev or self.cb['next_unprev']
+        ign = (c.unprev or self.cb['next_unprev'] or self.cb['unprev_all'] or any(b.unprevented(self, c, opp) for b in self.behaviors())
+               or (ally is not None and ally.name in self.cb['ally_kiss']))
+        if ally is not None:
+            self.cb['ally_kiss'].discard(ally.name)
         self.cb['next_unprev'] = False
         removed = opp.take_stages(ds) if ds else 0
         removed += opp.take_life(life, ignore_end=ign) if life else 0
@@ -373,6 +472,8 @@ class Player:
             self.crit_effect()
         if c.rej:
             self.rejuv(c.rej)
+        if c.rej_hit:
+            self.rejuv(c.rej_hit)
         if extra.get('hit'):
             extra['hit'](self, opp, c, removed)
         self._finish(card, c)
@@ -381,6 +482,9 @@ class Player:
         return True
 
     def _finish(self, card, c):
+        if card is not None and getattr(card, 'keep', False):
+            card.keep = False            # attached to the MP / returned to the Life Deck by its own effect
+            return
         if card is not None:
             (self.banished if c.banish_after else self.discard).append(card)
 
@@ -391,17 +495,38 @@ class Player:
             if b.defend_power(self, atk, c, kind):
                 self.log(f'    ({self.label} stops it with an MP/Mastery power)')
                 return True
-        opts = [x for x in self.hand if x.is_def and kind in x.stops]
+        if B.ally_defend(self, atk, c, kind):
+            return True
+        # a Setup in play is activated and discarded like an Event; attack cards that may be played to stop (Blue Arm Blast, Round Throw) only count from the hand
+        opts = [x for x in self.hand + self.setups if (x.is_def and kind in x.stops) or (x in self.hand and B.ALT_STOP.get(x.name) == kind)]
         if self.cb['nonstyled_lock']:
             opts = [x for x in opts if x.style == self.styled()]
+        big = (c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at
+        if not opts and big and not self.cb['nonstyled_lock']:
+            part = [x for x in self.hand + self.setups if x.prevent and x.ctype in ('Event', 'Setup')]
+            if part and 'prevent_once' not in self.cb:
+                x = part[0]
+                (self.setups if x in self.setups else self.hand).remove(x)
+                self.cb['prevent_once'] = x.prevent
+                if x.draw:
+                    self.draw(1)
+                (self.banished if x.banish_after else self.discard).append(x)
+                self.log(f'    ({self.label} prevents {x.prevent[0]} life cards / {x.prevent[1]} stages with {x.name})')
+            return False
         if not opts:
             return False
-        if not ((c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at):
+        if not big:
             return False
-        x = sorted(opts, key=lambda z: (z.name == "Time Is A Warrior's Tool", -z.endurance))[0]
-        self.hand.remove(x)
+        x = sorted(opts, key=lambda z: (not z.is_def, z.name == "Time Is A Warrior's Tool", -z.endurance))[0]
+        (self.setups if x in self.setups else self.hand).remove(x)
+        if not x.is_def:              # an attack card played only to stop (Blue Arm Blast, Blue Round Throw): none of its attack text applies
+            self.discard.append(x)
+            self.log(f'    ({self.label} stops it with {x.name} instead of attacking)')
+            return True
         self.raise_anger(x.anger_self)
         atk.lower_anger(x.anger_opp)
+        if x.opp_lose:
+            atk.lose_stages(x.opp_lose, x.opp_lose_floor)
         if x.gain:
             self.gain_stages(x.gain)
         if x.rej:
@@ -409,7 +534,10 @@ class Player:
         extra = B.CARD_EXTRA.get(x.name, {})
         if extra.get('defend'):
             extra['defend'](self, atk, x, c)
-        (self.banished if x.banish_after else self.discard).append(x)
+        if getattr(x, 'keep', False):
+            x.keep = False            # returned to the Life Deck by its own effect (Namekian Protective Posture)
+        else:
+            (self.banished if x.banish_after else self.discard).append(x)
         self.log(f'    ({self.label} defends with {x.name})')
         return True
 
@@ -418,12 +546,14 @@ class Game:
     def __init__(self, spec_a, spec_b, seed=0, first=0):
         self.rng = random.Random(seed)
         self.logs = []
+        self.last_discarder = None
         a, b = Player(self, spec_a.name, spec_a, self.rng), Player(self, spec_b.name, spec_b, self.rng)
         if a.label == b.label:
             a.label, b.label = a.label + ' (A)', b.label + ' (B)'
         a.opp, b.opp = b, a
         self.players = [a, b]
         self.first = first
+        self.in_combat = False          # True while a combat is being resolved (used by 'enters play during combat' effects)
         for p in self.players:
             for beh in p.behaviors():
                 beh.on_game_start(p)
@@ -446,6 +576,9 @@ class Game:
     # ---- turn -------------------------------------------------------------------------------------------------
     def turn(self, p, o, n):
         p.tf, o.tf = {}, {}
+        for q in (p, o):
+            for b in q.behaviors():
+                b.on_turn_start(q, q is p)
         p.draw(3)
         if p.lost:
             return
@@ -477,6 +610,10 @@ class Game:
             for b in p.behaviors():
                 b.on_ball_entered(p)
             p.check_dbv()
+        for c in [x for x in p.hand if x.ctype == 'Ally' and B.ally_model(x) and not any(a.name == x.name for a in p.allies)
+                  and not (p.mp_name == 'Goku' and x.name == 'Vegeta')]:       # Goku keeps Vegeta in hand for his free stop
+            p.hand.remove(c)
+            p.put_ally(c, played=True)
         for c in [x for x in p.hand if x.ctype == 'Drill']:
             if c not in p.hand:
                 continue
@@ -487,23 +624,31 @@ class Game:
             ex = B.CARD_EXTRA.get(c.name, {})
             if ex.get('enters'):
                 ex['enters'](p, o, c)
+            for b in p.behaviors():
+                b.on_enters_play(p, o, c)
         for c in [x for x in p.hand if x.ctype == 'Setup']:
             if c in p.hand:
                 p.hand.remove(c)
                 p.setups.append(c)
+                for b in p.behaviors():
+                    b.on_enters_play(p, o, c)
+        B.plan_allies(p, o)
         pur = p.lv.pur + sum(b.pur_bonus(p) for b in p.behaviors())
         p.stage = min(10, p.stage + pur)
+        for a in B.my_allies(p):                           # Allies gain their own Power Up Rating (Rulebook 3.0, Planning Step)
+            a.astage = min(10, a.astage + (a.rec.get('pur') or 0))
 
     def wants_combat(self, p, o):
         if any(x.is_atk and x.cost <= p.stage for x in p.hand):
             return True
-        if p.setups or any(b.has_power(p) for b in p.behaviors()):
+        if p.setups or any(b.has_power(p) for b in p.behaviors()) or B.ally_can_attack(p, o):
             return True
         return any(x.ctype == 'Event' and (x.crit_now or x.anger_self or x.rej or x.gain or x.draw) for x in p.hand)
 
     def combat(self, p, o):
         p.reset_combat()
         o.reset_combat()
+        self.in_combat = True
         for b in p.behaviors():
             b.entering_combat(p, o, False)
         for s in [x for x in p.setups if x.instant_entering]:
@@ -523,3 +668,4 @@ class Game:
         for q in (p, o):
             for b in q.behaviors():
                 b.end_of_combat(q, q.opp)
+        self.in_combat = False

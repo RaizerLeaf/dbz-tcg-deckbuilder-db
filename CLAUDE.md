@@ -15,6 +15,7 @@ other people) build decks.
 - `_deckbuilder_db/WORKFLOW_LESSONS.md` - **how the owner likes to work, mistakes already made and the checks that prevent them, git/sandbox/tool gotchas, how the generated
   `docs/` page stays correct, and what is still to do.** Read it before starting any larger piece of work.
 - Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). PanZ (Sets 1-7) only; FanZ simulation is a later TODO.
+  **To model a missing MP level / Mastery / card yourself (required during deck building), follow `_deckbuilder_db/sim/MODELLING_GUIDE.md`.**
   Always run `coverage` and quote its limits with any result.
 - Friends without Claude Code: `_deckbuilder_db/friends/` (pack builder, list checker, static page source). `docs/` at the repo root is the generated page, rebuilt with
   `python friends/build_site.py`; never edit it by hand. See `friends/README.md`. The repo is public and Pages serves `main` /docs; the page is expected at
@@ -42,7 +43,8 @@ max 3 copies (printed limit wins), one Dragon Ball set per deck, Named cards mus
 Every deck should include Time Is A Warrior's Tool x1 and at least 2 Confrontation (Hero MP) or Stare Down (Villain MP).
 
 Before giving a deck: decode and re-encode its code, then check copy counts, printed limits, Named cards, Heroes/Villains-only text, and the
-60-card count with a script. Do not present a deck you have not checked.
+60-card count with a script. **Then playtest it in the simulator** (`DECKBUILDING_NOTES.md`, "Playtesting a deck in the simulator": coverage first, add any missing MP/Mastery/card behaviors,
+`python -m sim playtest <deck>` against the test-deck roster (up to 25 decks, one version per MP + Mastery), read a few play logs, no big batches), then `python -m sim roster add <deck>` so it can be tested against. Do not present a deck you have not checked and playtested.
 
 ## Re-running the pipeline
 Run from `_deckbuilder_db/scripts` in this order: `derive.py --sets S01,...,S19,PZP,OP1,...,OP6 --out work/full`, `crd_parse.py`,
