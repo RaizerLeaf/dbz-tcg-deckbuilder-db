@@ -67,6 +67,8 @@ Things to know:
 
 ## Legality checklist (run before giving any deck)
 1. 60 cards, copy limits, printed limits.
+1b. **Every Styled card must match the Mastery's style** (Rulebook 3.0: "All of your Styled cards must match the Style of your Mastery"; Freestyle cards are free). `deckcode.py check` and the page checker enforce it.
+   A Raditz draft mixed Red, Orange and Saiyan cards under Red Enraged and passed the old checker; never pick cards across styles.
 2. **Named cards must match the MP name** ("Goku's Search" cannot go in a Nail deck). Use `is_named` /
    `named_character`. Cards that are only "considered Named for your effects" (Pesky Barrage, Black Back Strike) are fine in any
    deck. "Time Is A Warrior's Tool" and "It's Over 9,000!" are not Named (`NOT_NAMES` in `derive.py`).
@@ -166,10 +168,13 @@ Things to know:
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
 - **Raditz** (Villain, Saiyan heritage, only Set 2 printings are legal: True Saiyan, Confident, Angered, Triumphant): Setups and Drills are played in the Planning Step, Setups are used in combat.
-  L1 Power: physical attack (1 life card), look at your top 2 (one to hand, one banished from your own Life Deck), raise anger 1. **L2: every Setup or Drill entering play destroys the top card of the opponent's Life Deck, and +1 anger if it enters during combat.**
-  L3: opponent discards a random card when entering combat (Instant). L4: Setup/Drill entering play Rejuvenates a card; the first critical damage effect each combat searches for a Setup/Drill and places it into play. Named: Raditz's Offensive Guard
-  (attach: once per combat place a Setup/Drill from hand into play, so it triggers L2 in combat), Raditz's Dirty Tactics (Limit 2). The Set 2 Nappa Ally ("Setups cannot be used") is a trap in a Setup deck. Many "Events" in the Red/Saiyan pool are really Setups (Red Blaze, Red Destiny, Saiyan Enraged), so they also trigger L2 when played.
-  Ranked styles: 1) Red Enraged anger rush fed by Setups/Drills, 2) Orange Adaptive Drill/mill engine, 3) Saiyan Rampaging. Deck on file: `decks/raditz_red.txt`. The simulator does not model Raditz at all.
+  L1 Power: physical attack (1 life card), look at your top 2 (one to hand, one banished from your own Life Deck), raise anger 1. **L2: every Setup or Drill entering play destroys the top card of the opponent's Life Deck, and +1 anger if it enters during combat** (searched or "placed into play"; Planning-step plays give the destroy only).
+  L3: opponent discards a random card when entering combat (Instant). L4: Setup/Drill entering play Rejuvenates a card; the first critical damage effect each combat searches Life Deck or discard pile for a Setup/Drill and places it into play. Named: Raditz's Offensive Guard
+  (attach: once per combat place a Setup/Drill from hand into play), Raditz's Dirty Tactics (Limit 2, not used). The Set 2 Nappa Ally ("Setups cannot be used") is a trap in a Setup deck. Many "Events" in the Red/Saiyan pool are really Setups (Red Blaze, Red Destiny, Saiyan Enraged), so they also trigger L2 when played.
+  **Styled cards must match the Mastery** (Rulebook 3.0): Orange Celebration/Encouragement ("a Styled Drill") only find Drills of the Mastery's style, so the Drill engine is Orange only with an Orange Mastery.
+  Simulated styles (50 games per roster deck, 500 games each): **Orange Retribution 82%** (anger 2 a turn from its Power plus Drills entering play; reaches Level 4 by its second turn and wins by MPPV about turn 5), Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%
+  (the last three are within noise of each other). Decks on file: `decks/raditz_orange.txt` (on the roster), `raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt`. Not modelled: Offensive Guard's "banish from hand to stop an attack", Orange Retribution's
+  shuffle-Drills-on-level-change, Rampaging's Power, Red Slide keeping Drills. **(unverified)** Saiyan Analysis Drill copies do not stack and do not lower Level 4 MPPV; Level 3's discard also fires when defending; Level 1's reveal/anger happen even if its attack is stopped.
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
 `decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
@@ -189,7 +194,8 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
-| `decks/raditz_red.txt` | Raditz, Red, Red Enraged | Setup/Drill anger rush (31 Setups/Drills, Raditz's Offensive Guard x3); script-built, `deckcode.py check` clean (60 cards); **not imported by the owner, not simulated** (sim does not model Raditz) |
+| `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
+| `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
