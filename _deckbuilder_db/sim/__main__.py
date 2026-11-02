@@ -71,7 +71,7 @@ def cmd_coverage(args):
     from .cardmodel import records_by_id
     s = load(args.a)
     recs = records_by_id()
-    hand = set(B.CARD_EXTRA) | set(B.CARD_PASSIVE) | set(B.CARD_LEAVE_DECK) | set(B.CARD_DISCARD_TRIGGER)
+    hand = set(B.CARD_EXTRA) | set(B.CARD_PASSIVE) | set(B.CARD_LEAVE_DECK) | set(B.CARD_DISCARD_TRIGGER) | set(B.ALLY_MODEL) | set(B.ALT_STOP)
     copies = collections.Counter(s.card_ids)
     tot = collections.Counter()
     unm = []
@@ -84,7 +84,7 @@ def cmd_coverage(args):
             else:
                 tot['hand'] += n * len(coverage(c, {c.name})[1] or [0])
             continue
-        if c.ctype == 'Ally':
+        if c.ctype == 'Ally' and not B.ally_model(c):
             unm.append((c.name, n, ['Allies are not simulated (never played)']))
             tot['unmodelled'] += n
             continue

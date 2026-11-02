@@ -61,34 +61,37 @@ Not built or simulated (judgement only): Orange (Drills are discarded on every l
 - **Attacks that raise anger or give critical effects:** Nail's Dashing Attacking x3, Red Frenzied Blasts x3, Red Static Shot x3, Red Surrounded Beams x2, Red Hurl x2, Red Right Blast x2,
   Red Driving Knee x3, Red Shoulder Grab x3, Red Double Strike x3, Red Chop x3, Red Right Cross x2, Red Jab x2, Red Mule Kick x1.
 
-## Roster playtest (final: after merging `main` with the Vegeta, Raditz, Lord Slug and Cell Jr. work; 20 games per roster deck, first player alternates)
+## Roster playtest (final: after merging `main` with the Vegeta, Raditz, Lord Slug and Cell Jr. and Goku work; 20 games per roster deck, first player alternates)
 Nail wins out of 20 (how wins/losses ended). Samples of 20 are about +/-20 points per row; the overall line is the better guide.
 | Opponent | Red Enraged Nail (wins of 20, how) | Namekian Knowledge Nail (wins of 20, how) |
 |---|---|---|
 | Orange Trunks V5 | 8 (MPPV 8) | 2 (Survival 2) |
-| Red Trunks Draft | 4 (MPPV 4) | 1 (Survival 1) |
 | Raditz orange | 6 (MPPV 6) | 0 |
-| Cell Jr. Red Ascension | 6 (MPPV 6) | 3 (Survival 3) |
+| Red Trunks Draft | 4 (MPPV 4) | 1 (Survival 1) |
 | Vegeta Pinnacle Red | 7 (MPPV 7) | 2 (MPPV 1, Survival 1) |
+| Cell Jr. Red Ascension | 6 (MPPV 6) | 3 (Survival 3) |
 | Cell Jr. Blue Tag Team | 8 (MPPV 8) | 2 (Survival 2) |
+| Goku Saiyan Rampaging | 4 (MPPV 3, Survival 1) | 11 (MPPV 1, Survival 10) |
+| Goku Red Enraged | 7 (MPPV 6, Survival 1) | 1 (Survival 1) |
 | Cell Jr. Black Perceptive | 9 (MPPV 8, Survival 1) | 6 (MPPV 5, Survival 1) |
-| Red Garlic Jr | 10 (MPPV 10) | 4 (MPPV 1, Survival 3) |
+| Goku Blue Tag Team | 6 (MPPV 1, Survival 5) | 11 (Survival 11) |
 | Nappa Saiyan Clench | 11 (MPPV 11) | 9 (MPPV 5, Survival 4) |
-| redder Pic 1.0 | 14 (MPPV 14) | 7 (MPPV 2, Survival 5) |
 | Wheelo Blue Lockdown | 14 (Survival 14) | 15 (Survival 15) |
-| Raditz red | 16 (MPPV 15, Survival 1) | 8 (MPPV 6, Survival 2) |
+| Red Garlic Jr | 10 (MPPV 10) | 4 (MPPV 1, Survival 3) |
+| redder Pic 1.0 | 14 (MPPV 14) | 7 (MPPV 2, Survival 5) |
 | Vegeta AW Saiyan Dynamic | 14 (MPPV 12, Survival 2) | 8 (MPPV 3, Survival 5) |
+| Raditz red | 16 (MPPV 15, Survival 1) | 8 (MPPV 6, Survival 2) |
 | Lord Slug Namekian Knowledge | 12 (MPPV 12) | 9 (MPPV 7, Survival 2) |
 | Nail Namekian Knowledge | 13 (MPPV 12, Survival 1) | - |
-| Raditz saiyan | 17 (MPPV 17) | 10 (MPPV 9, Survival 1) |
 | Raditz adaptive | 14 (MPPV 14) | 4 (MPPV 3, Survival 1) |
+| Raditz saiyan | 17 (MPPV 17) | 10 (MPPV 9, Survival 1) |
 | Black Krillin | 13 (MPPV 3, Survival 10) | 18 (Survival 18) |
 | WHEELO MILL V2 | 12 (MPPV 10, Survival 2) | 16 (MPPV 2, Survival 14) |
 | Naaaiiillv2 | 17 (MPPV 14, Survival 3) | 18 (MPPV 3, Survival 15) |
 | RED SLUG V4 NAMEK | 19 (MPPV 19) | 19 (DBV 2, MPPV 9, Survival 8) |
 | Nail Red Enraged | - | 2 (MPPV 1, Survival 1) |
-| **Overall (420 games)** | **58%** | **39%** |
-Round-robin rank on the 22-deck roster (30 games per pair): Red Enraged Nail **8th (54%)**, Namekian Knowledge Nail **16th (39%)**, Nail Black Devious 21st (21%). Both new decks joined the roster. (Ranks and rates shift whenever other chats add decks: 3rd/64% and 6th/52% on the first 12-deck roster.)
+| **Overall (480 games)** | **54%** | **39%** |
+Round-robin rank on the full 25-deck roster (30 games per pair): Red Enraged Nail **11th (52%)**, Namekian Knowledge Nail **19th (39%)**, Nail Black Devious 24th (20%). Both new decks joined the roster. (Ranks and rates shift whenever other chats add decks: 3rd/64% and 6th/52% on the first 12-deck roster.)
 The ranking holds. Red wins by MPPV on its 5th-6th turn; it loses clearly to Red Trunks, Raditz Orange and the Cell Jr. decks and is about even with Orange Trunks V5, Vegeta Pinnacle, Garlic Jr. and Nappa. Namekian mostly wins by **Survival** (mill) around turn 8 and is the better deck against slow mill/lock decks (Krillin, Wheelo, Black Nail), but is run over by anything that wins by MPPV before turn 7, which is most of the roster.
 
 ## What I added to the simulator for these decks

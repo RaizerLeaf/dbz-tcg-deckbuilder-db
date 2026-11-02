@@ -138,6 +138,10 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `has_power(p)` / `power(p, opp)` | the AI decides whether to declare combat to use a POWER / uses it | bool / True if used |
 | `defend_power(p, atk, card, kind)` | you respond to an attack | True = your power handled it |
 | `after_hit(p, opp, card, removed)` | your attack hit (`removed` = life cards removed) | nothing |
+| `on_turn_start(p, mine)` | start of every turn, called for both players (`mine` True when it is p's turn) | nothing |
+| `protect_allies(p)` | the opponent's critical effect wants to discard one of your Allies | True = they cannot |
+| `on_ally_entered(p, card)` | one of your Allies entered play (`card.played` True = "play", False = "place into play") | nothing |
+| `on_ally_rejuvenated(p)` | you Rejuvenated one of your Allies | nothing |
 
 If the table says "nothing" the return value is ignored. Search `engine.py` for the hook name to see the exact call site - 2-3 lines of context make the semantics clear.
 
@@ -171,6 +175,13 @@ In your report to the owner always say: what you added to the simulator, what yo
 
 ### Step 10 - Commit
 `git fetch`, merge, re-run the tests (another chat may have edited `behaviors.py`, and `roster.json` can conflict: resolve with `python -m sim roster rebuild`), then commit `sim/` changes and `decks/` + `sim/roster.json` and push to `main`.
+
+### Allies (added with the Goku decks)
+Allies are only played if they are listed in `ALLY_MODEL` in `behaviors.py` (name -> value for the AI, the Ally's POWER attack as a `synthetic(...)`, the kind of attack it stops). An Ally not in that table stays inert exactly as before,
+so adding the first Allies did not change any old deck. Rulebook 3.0: Allies enter at 3 stages above 0 (`p.put_ally(card, stage)`), gain their own PUR in the Planning Step, act only while the MP is at most 1 stage above 0
+(or the card says otherwise: `free_for` in the table, or `p.cb['ally_free']` for Goku Calm / Dashing / Blue Kiss), use their own power level on the Attack Table and pay energy costs from their own stages.
+Helpers: `search_ally(p, zones, stage, played)`, `best_attacker(p)`, `rejuv_ally(p, card)`, `ally_attack`, `ally_defend`. Critical damage effects discard an opponent's Ally (preferred over lowering anger) unless `protect_allies` says no.
+Not modelled: damage redirected to Allies and Ally Continuous powers other than those coded.
 
 ## 3. Worked example: Nappa (four MP levels + stage-drain cards)
 Texts (paraphrased; read the originals in `mps.json`): L1 *Rested*: POWER attack for 3 stages. L2 *Smirking*: whenever you attack, the opponent's personalities lose stages. L3 *Overconfident*: POWER attack for 7 stages, HIT banishes a Drill. L4 *Enraged*: +4 stages; damage cannot be prevented while the opponent's MP is at power level 0.
