@@ -111,7 +111,8 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `on_crit_damage(p, opp)` | you dealt critical damage (5+ life cards) | nothing |
 | `crit_threshold(p)` / `own_crit_threshold(p)` | the life-card count that counts as critical (against you / for your attacks) | number or `None` |
 | `on_advance(p)` | you advanced a level | nothing |
-| `on_rejuvenate(p)` | after you Rejuvenate | nothing |
+| `on_rejuvenate(p)` | after you Rejuvenate (only if a card actually moved) | nothing |
+| `rejuv_amount(p, n)` | an in-combat Rejuvenate of `n` cards is about to happen | new amount (chained; Lord Slug Level 3 doubles the first one each combat) |
 | `on_ally_rejuvenated(p)` | you Rejuvenated one specific Ally (`Player.rejuv_ally`: hand, discard pile, Banished Zone or play -> bottom of the Life Deck) | nothing |
 | `on_gain_stages(p, n)` | you gained `n` stages | nothing |
 | `on_card_discarded(p)` | one of your cards was discarded | nothing |

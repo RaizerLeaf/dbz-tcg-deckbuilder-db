@@ -199,7 +199,7 @@ Things to know:
   **Simulated (added 2026-11-02):** the four levels, Trapped/Escaping, the Blue Tag Team and Black Perceptive Masteries, Setup attacks and Setup defenses, partial prevention (Blue Overcharge) and the Blue/Black/Red cards listed in
   `sim/behaviors.py` ("Cell Jr." section) are modelled. Not modelled: Unrelenting's attack (Allies act only when the MP is at most 1 stage above 0), Waiting Drill's "whenever you play an Ally, Rejuvenate 1", Tag Team's protection from critical
   effects, Black Pop-Up's naming gamble, Black Dash's Ally steal, Blue Challenging Strike lasting through your next turn. **(unverified)** two Trapped in play are assumed to stack; Tag Team's Ally arrives at game start instead of the opponent's first turn.
-  Result of the 50-game playtests against the 18 other roster decks (900 games each, +-3 points overall, +-14 per opponent): Red Ascension 68%, Blue Tag Team 67%, Black Perceptive 59%; round-robin rank 4 / 6 / 7 of 19.
+  Result of the 50-game playtests against the 19 other roster decks (950 games each, +-3 points overall, +-14 per opponent): Red Ascension 69%, Blue Tag Team 67%, Black Perceptive 56%; round-robin rank 5 / 6 / 7 of 20.
   Red and Blue are a tie (head to head Red 27-23); Red reaches Level 4 in about 4 of 5 games and wins by MPPV, Blue stays on Levels 1-2 and wins by Survival (Taunting every turn, Waiting Drill fetched by its HIT, Arrest/Slash mill);
   Black is behind both. All three lose to the fast Trunks decks (Orange Trunks 20-28%, Red Trunks 22-34%) and to Raditz Orange (Red Ascension 20%).
   Builds on file: `decks/cell_jr_red_ascension.txt`, `cell_jr_blue_tag_team.txt`, `cell_jr_black_perceptive.txt` (see the table below).
@@ -222,6 +222,7 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+| `decks/lord_slug_namekian_knowledge.txt` | Lord Slug, Namekian, Namekian Knowledge (Namek balls) | built 2026-11-02; style comparison and playtest in `LORD_SLUG_STYLES.md`; 56% over 600 roster games (50 per opponent), roster rank 6 of 17 after the later Vegeta and Raditz decks joined; **not imported into the app yet** |
 | `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
 | `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
 | `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
@@ -231,9 +232,9 @@ Things to know:
 Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; simulated, none imported into the app yet; all three are on the roster):
 | File | MP / style / Mastery | Status |
 |---|---|---|
-| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (68% over 900 playtest games, round-robin rank 4): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
+| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (69% over 950 playtest games, round-robin rank 5): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
 | `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 6): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
-| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 59% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
+| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 56% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the

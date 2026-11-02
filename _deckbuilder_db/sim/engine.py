@@ -102,11 +102,22 @@ class Player:
                 return
             self.hand.append(self.deck.pop(0))
 
-    def rejuv(self, n, in_combat=True):
+    def rejuv(self, n, in_combat=True, pred=None):
+        """Rejuvenate n cards: discard pile -> bottom of the Life Deck. pred picks which cards (best value first); default is the top of the discard pile.
+        In combat the amount goes through `rejuv_amount` (Lord Slug Level 3 doubling) and `on_rejuvenate` fires only if a card actually moved."""
+        if n > 0 and in_combat:
+            for b in self.behaviors():
+                n = b.rejuv_amount(self, n)
+        moved = 0
         for _ in range(n):
-            if self.discard:
-                self.deck.append(self.discard.pop())
-        if n and in_combat:
+            src = [x for x in self.discard if pred(x)] if pred else self.discard
+            if not src:
+                break
+            c = max(src, key=self.value) if pred else src[-1]
+            self.discard.remove(c)
+            self.deck.append(c)
+            moved += 1
+        if moved and in_combat:
             for b in self.behaviors():
                 b.on_rejuvenate(self)
 
@@ -409,6 +420,8 @@ class Player:
             self.crit_effect()
         if c.rej:
             self.rejuv(c.rej)
+        if c.rej_hit:
+            self.rejuv(c.rej_hit)
         if extra.get('hit'):
             extra['hit'](self, opp, c, removed)
         self._finish(card, c)
@@ -462,7 +475,10 @@ class Player:
         extra = B.CARD_EXTRA.get(x.name, {})
         if extra.get('defend'):
             extra['defend'](self, atk, x, c)
-        (self.banished if x.banish_after else self.discard).append(x)
+        if getattr(x, 'keep', False):
+            x.keep = False            # returned to the Life Deck by its own effect (Namekian Protective Posture)
+        else:
+            (self.banished if x.banish_after else self.discard).append(x)
         self.log(f'    ({self.label} defends with {x.name})')
         return True
 
