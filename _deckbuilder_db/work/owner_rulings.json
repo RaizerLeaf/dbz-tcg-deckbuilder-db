@@ -58,5 +58,9 @@
   "_owner_words": "both those promos never came out (Evolution P9 Blue Guard and P10 Namekian Mouth Beam). Replaces the earlier placeholder_copy_from_original answer ('This is a promo version find the original version of the card with the same name and it should have the same text').",
   "S04_PRO_P9": "S01_STR_S65",
   "S04_PRO_P10": "S03_BST_28"
+ },
+ "exclude_misprint_use_original": {
+  "_owner_words": "(2026-11-02, with a photo of the retail card) the P4 promo scan in the repo is an error: the version that made it to print for retail has '(Banish after use.)' under the rules text, like Premiere U107. Since there is no scan of the retail text, ignore this version of the card in the DB and do not use the promo version.",
+  "S05_PRO_P4": "S01_BST_107"
  }
 }

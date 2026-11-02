@@ -110,5 +110,12 @@
   "source_folder": "04_Set 4 (Evolution)/Evolution (Promos)",
   "use_instead": "S03_BST_28",
   "reason": "Never released: the CRD names this promo as a most recent printing, but the owner (2026-11-02) says it never came out. The image is an 'Image N/A' placeholder. Use the original printing instead."
+ },
+ {
+  "card_id": "S05_PRO_P4",
+  "filename": "P4_Visiting the Past (Frozen).png",
+  "source_folder": "05_Set 5 (Perfection)/Perfection (Promos)",
+  "use_instead": "S01_BST_107",
+  "reason": "The scan is not the card that was printed: the retail card has '(Banish after use.)' under the rules text and this image does not. Owner (2026-11-02, from a photo of the retail card): ignore this version and do not use the promo; use the original printing instead."
  }
 ]

@@ -9,7 +9,7 @@ redesigned layout without that line, so the two looked like different cards and 
 **Fix:** Allies are now told apart by **subtitle**, which is what the CRD says ("some Ally characters have multiple cards with the same name, but different subtitles; your Life Deck may only contain one copy of an Ally by name").
 Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app code is `C9`.
 
-## Findings (1,065 names in Sets 1-7, 283 with more than one printing, 378 later printings compared with the first printing of the same card)
+## Findings (1,065 names in Sets 1-7, 283 with more than one printing before the P4 exclusion, 378 later printings compared with the first printing of the same card)
 1. **Only Tenshinhan was affected** by the grouping bug. After the fix the only names that map to more than one code are the genuinely different cards: **Vegeta** (Villains-only Impatient `HV-U72`, Hero Unrelenting `EV-U93`) and
    **Cell Jr.** (Trapped `AW-U76`, Escaping `AW-U77`, Unrelenting `AW-U78`). Both Vegetas share a name, so a deck may hold only one of them (one Ally per name). No deck or `sim/decks` file uses a reprint the app may not know (tested).
 2. **No renamed reprints:** no two cards with different names share identical type, style and rules text.
@@ -20,8 +20,8 @@ Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app c
    - Gender-neutral wording only, no effect change (Black Entanglement's HIT now says "in it" instead of "in his hand"): Black Entanglement, Black Radiating Drill, Black Speedy Dodge, Black Strike, Blue Draining Blast, Blue Mental Drill, Confrontation, Saiyan Drive By, Villainous Energy Sphere.
    - Typographic only: Blue Terror ("into" / "in"), Namekian Right Throw ("raise your anger 2 levels" / "2", "AT +3" / "AT + 3").
    - **Saiyan Rescue** (HV-U94 vs AW-S115): "[Continuous]: Once per turn as an action, choose a card..." became "While attached, once per turn as an action you may choose a card...". Same effect; the label and wording moved.
-   - **Visiting the Past** (U107 vs promo PF-P4): the promo drops "(Banish after use.)" and is stamped FROZEN (recorded in `cards.json`). The Frozen list is ignored by default and the promo is a Set 5 promo, so the deck builder reads U107 (banish after use).
-     **Open question for the owner:** if the promo is the card you want to play, it is *not* banished after use. (Unverified which one is current under PanZ rulings.)
+   - **Visiting the Past** (U107 vs promo PF-P4): the repo's P4 scan lacks "(Banish after use.)", but the owner (2026-11-02, with a photo of the retail card) says the card that was actually printed has it, so the scan is an error.
+     **Resolved:** S05 P4 is excluded from the database (`exclude_misprint_use_original` in `work/owner_rulings.json`, listed in `excluded_cards.json`); U107, which banishes after use, is the record to use. Do not use the P4 promo record.
    - **Tenshinhan**: C9 has "(Heroes only.)", the reprint does not. The first printing's restriction applies (matches the app, which only knows C9).
 5. **Type disagreement:** Namekian Double Strike: C30 is an Energy Combat card, the promo PF-P6 is typed Physical Combat (owner ruling "stays as printed"). The app knows C30, so a deck always plays the Energy Combat one.
 6. **`text_current` coverage:** in five groups only some printings carry `text_current` (Namek Dragon Ball 6, Namekian Elbow Drop, Orange Left Punch, Orange Stare Down, Red City Destruction). The words are identical, so nothing changes; it only means
@@ -36,7 +36,7 @@ Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app c
 
 ## Raw audit output
 ```
-1065 card names in Sets 1-7 (excluding Main Personalities); 283 have more than one printing.
+1065 card names in Sets 1-7 (excluding Main Personalities); 282 have more than one printing.
 
 ## 1. How deckcode groups same-name cards
 - Cell Jr. (Ally): 3 separate cards, app codes ['AW-U76', 'AW-U77', 'AW-U78']; subtitles ['Escaping', 'Trapped', 'Unrelenting']
@@ -44,7 +44,7 @@ Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app c
   Allies are separated by SUBTITLE (CRD: "same name, but different subtitles"); every other card is one card per name.
 
 ## 2. Later printings whose text differs from the first printing
-  layout only: 347, TEXT CHANGE: 19, wording (his -> his or her / icon label): 12
+  layout only: 347, TEXT CHANGE: 18, wording (his -> his or her / icon label): 12
 - Black Command: first S45 vs AW-S124 (starter): TEXT CHANGE
 - Black Corruption: first C15 vs EV-P3 (promo): TEXT CHANGE
 - Black Corruption: first C15 vs AW-S125 (starter): TEXT CHANGE
@@ -75,7 +75,6 @@ Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app c
 - Saiyan Rescue: first HV-U94 vs AW-S115 (starter): TEXT CHANGE
 - Tenshinhan: first C9 vs EV-S60 (starter): TEXT CHANGE
 - Villainous Energy Sphere: first UR164 vs AW-UR146 (booster): wording (his -> his or her / icon label)
-- Visiting the Past: first U107 vs PF-P4 (promo): TEXT CHANGE
 
 ## 3. Fields that disagree between printings of one card
 - type: Namekian Double Strike: {'Energy Combat': ['C30'], 'Physical Combat': ['PF-P6']}
@@ -100,5 +99,4 @@ Tenshinhan C9 and EV-S60 are both "Returned", so they are one card and its app c
 - Saiyan Rescue: text differs: HV-U94[printed], AW-S115[printed]
 - Tenshinhan: text differs: C9[printed], EV-S60[printed]
 - Villainous Energy Sphere: text differs: UR164[printed], MC-P15[printed], AW-UR146[printed]
-- Visiting the Past: text differs: U107[printed], PF-P4[printed]
 ```

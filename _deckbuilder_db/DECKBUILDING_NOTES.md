@@ -56,6 +56,9 @@ Things to know:
   the stage-drain effects ("your opponent loses N stages", including "to a minimum of 0") and Saiyan Clench were added to the simulator; the remaining gaps for that deck are listed by `coverage`
   (Allies, second-use attacks, Saiyan Dive's banish).
 
+## Cards ignored because the scan is not the printed card
+- **Visiting the Past, S05 promo P4** is excluded (owner, 2026-11-02, from a photo of the retail card): the repo scan lacks "(Banish after use.)" but the card that was printed has it. Use Premiere U107 (same text, banishes after use). Listed in `excluded_cards.json`.
+
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
 - Rulings: PanZ-era text (Panini CRD only). The Frozen list is ignored.

@@ -38,7 +38,7 @@ images in this repository. Original images are never modified; all output goes i
 Deck codes: `scripts/deckcode.py` encodes, decodes and legality-checks the owner's web-app deck codes (format in `DECKBUILDING_NOTES.md`).
 
 ## Output files (current)
-- `cards.json`, `cards.csv`: one record per image except the 16 excluded promos (14 'NEVER OFFICIALLY RELEASED' S07 overlays and the 2 never-released S04 promos P9/P10; 3,090 records; see `excluded_cards.json`). Fields are those in BRIEF.md plus: `stage_cost`,
+- `cards.json`, `cards.csv`: one record per image except the 17 excluded promos (14 'NEVER OFFICIALLY RELEASED' S07 overlays, the 2 never-released S04 promos P9/P10, and S05 P4 Visiting the Past, whose scan lacks the retail card's "(Banish after use.)"; 3,089 records; see `excluded_cards.json`). Fields are those in BRIEF.md plus: `stage_cost`,
   `vision_confidence`, `filename_issue`, `notes`, `limit_per_deck_printed`, `errata_status`
   (null / printing_current / text_current_derived), `card_type_current`, `crd_entries` (structured CRD entries; `kind` is ERRATUM, RULING, or MRP_LABEL for text taken from a card image that prints "(Most Recent Printing)"),
   `frozen_listed_printing`, `frozen_filename_flag`, `gold_title_note`, `traits_effective`, `traits_source`, `owner_ruling`, `qa_flags`. `errata_status` can also be `owner_correction`.
