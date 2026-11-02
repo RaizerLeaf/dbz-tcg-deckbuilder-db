@@ -61,23 +61,26 @@ Not built or simulated (judgement only): Orange (Drills are discarded on every l
 - **Attacks that raise anger or give critical effects:** Nail's Dashing Attacking x3, Red Frenzied Blasts x3, Red Static Shot x3, Red Surrounded Beams x2, Red Hurl x2, Red Right Blast x2,
   Red Driving Knee x3, Red Shoulder Grab x3, Red Double Strike x3, Red Chop x3, Red Right Cross x2, Red Jab x2, Red Mule Kick x1.
 
-## Roster playtest (current; after merging `main`, 20 games per roster deck, first player alternates)
-Win rate of the Nail deck / how its wins and losses ended. Samples of 20 are about +/-20 points per row; the overall line is the better guide.
+## Roster playtest (current: after merging `main`, which added the Vegeta decks; 20 games per roster deck, first player alternates)
+Nail wins out of 20 (how wins/losses ended). Samples of 20 are about +/-20 points per row; the overall line is the better guide.
 | Opponent | Red Enraged Nail | Namekian Knowledge Nail |
 |---|---|---|
-| Orange Trunks V5 | 8/20 (wins by MPPV 8; loses to Survival 11) | 3/20 |
-| Red Trunks Draft | 4/20 (loses to MPPV 16) | 0/20 (loses to MPPV 20) |
-| Nappa Saiyan Clench | 11/20 (MPPV 11) | 7/20 (MPPV 3, Survival 4) |
-| Friend's Red Piccolo | 14/20 (MPPV 14) | 5/20 (MPPV 2, Survival 3) |
-| Nail Black Devious | 17/20 (MPPV 14, Survival 3) | 19/20 (MPPV 5, Survival 14) |
-| Red Garlic Jr. | 10/20 (MPPV 10) | 6/20 (MPPV 2, Survival 4) |
-| Black Krillin | 13/20 (MPPV 3, Survival 10) | 18/20 (all Survival) |
-| Wheelo Black mill | 12/20 (MPPV 10, Survival 2) | 15/20 (MPPV 3, Survival 12) |
-| Wheelo Blue Lockdown | 17/20 (MPPV 1, Survival 16) | 19/20 (all Survival) |
-| Lord Slug Red Namek | 19/20 (MPPV 19) | 17/20 (MPPV 7, Survival 10) |
-| **Overall (200 games)** | **62%** | **54%** |
-Round-robin rank on the 12-deck roster (30 games per pair): Red Enraged Nail **3rd (64%)**, Namekian Knowledge Nail **6th (52%)**, Nail Black Devious 8th (35%). Both new decks joined the roster.
-The ranking holds. Red wins by MPPV on its 5th-6th turn and loses clearly only to Red Trunks (4/20), and is about even with Orange Trunks V5 (8/20), Garlic Jr. (10/20) and Nappa (11/20); Namekian mostly wins by **Survival** (mill) around turn 8 and is the better deck against the slow mill/lock decks (Krillin, Wheelo, Black Nail), but is run over by anything that wins by MPPV before turn 7.
+| Orange Trunks V5 | 8 (all MPPV; loses to Survival 11) | 0 |
+| Red Trunks Draft | 4 (loses to MPPV 16) | 0 (loses to MPPV 20) |
+| Vegeta Pinnacle Red | 7 (MPPV 7) | 2 |
+| Nappa Saiyan Clench | 11 (MPPV 11) | 5 |
+| Friend's Red Piccolo | 14 (MPPV 14) | 6 |
+| Red Garlic Jr. | 10 (MPPV 10) | 4 |
+| Vegeta Awakening Saiyan Dynamic | 14 (MPPV 12, Survival 2) | 7 |
+| the other Nail (Red vs Namekian) | 17 (MPPV 16) | 2 |
+| Nail Black Devious | 17 (MPPV 14, Survival 3) | 18 (MPPV 4, Survival 14) |
+| Black Krillin | 13 (MPPV 3, Survival 10) | 16 (all Survival) |
+| Wheelo Black mill | 12 (MPPV 10, Survival 2) | 16 (MPPV 3, Survival 13) |
+| Wheelo Blue Lockdown | 17 (MPPV 1, Survival 16) | 19 (all Survival) |
+| Lord Slug Red Namek | 19 (MPPV 19) | 17 (Survival 10, MPPV 5, Dragon Ball Victory 2) |
+| **Overall (260 games)** | **63%** | **43%** |
+Round-robin rank on the 14-deck roster (30 games per pair): Red Enraged Nail **4th (59.6%)**, Namekian Knowledge Nail **9th (42.5%)**, Nail Black Devious 10th (29%). Both new decks joined the roster. (Before the Vegeta decks joined, the same ranks were 3rd, 64% and 6th, 52%.)
+The ranking holds. Red wins by MPPV on its 5th-6th turn and loses clearly only to Red Trunks (4/20); it is about even with Orange Trunks V5, Vegeta Pinnacle, Garlic Jr. and Nappa. Namekian mostly wins by **Survival** (mill) around turn 8 and is the better deck against slow mill/lock decks (Krillin, Wheelo, Black Nail), but is run over by anything that wins by MPPV before turn 7, which is most of the roster.
 
 ## What I added to the simulator for these decks
 - `Namekian Knowledge Mastery`: Rejuvenate in combat raises anger 1; each effect that shuffles cards into your Life Deck raises anger 1 (new hook `on_shuffle_in` + helper `shuffle_into_deck`); a Namek Dragon Ball entering play destroys the opponent's top card; balls cannot be captured.

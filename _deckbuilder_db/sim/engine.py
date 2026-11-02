@@ -66,7 +66,7 @@ class Player:
                        gained=False, raised=False, destroyed_nonstyled=False, destroy_bonus=0, next_destroy_bonus=0,
                        next_life=0, next_free=False, reduce_life=0, reduce_stage=0, noend=False, burning=False,
                        noevents=False, nonstyled_lock=False, ball_search=False, searched=False, armed_discard=False,
-                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False, rj_draw=False)
+                       sword_played=False, next_unprev=False, unprev_all=False, set0_on_change=False, attacks=0, rj_draw=False)
 
     def log(self, msg):
         self.game.log(msg)
@@ -319,6 +319,7 @@ class Player:
         if cost > self.stage:
             return False
         self.stage -= cost
+        self.cb['attacks'] += 1          # attacks performed this combat (True Power: 'use only if you have not performed an attack this combat')
         if card is not None:
             self.hand.remove(card)
             self.cb['attacked_hand'] = True

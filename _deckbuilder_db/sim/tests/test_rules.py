@@ -338,6 +338,75 @@ class StageDrain(unittest.TestCase):
         self.assertEqual(scale, 2)
 
 
+class VegetaHero(unittest.TestCase):
+    """Hero Vegeta, Awakening levels (non-Styled attacks) with Red Ascension, and the deck cards that depend on them."""
+    def vegeta(self, level=1):
+        v = spec('V', 'Vegeta', ['Experienced', 'Imposing', 'Energized', 'Pinnacle of Power'], 'Red Ascension Mastery', 'Red Energy Blast')
+        g, a, b = game(v)
+        a.level = level
+        return g, a, b
+
+    def bonus(self, a, b, name):
+        c = Card(RECS[cid(name)])
+        return sum(x.life_bonus(a, c, b) for x in a.behaviors()), c
+
+    def test_non_styled_bonus_by_level_and_styled_attacks_get_none(self):
+        for level, want in ((1, 2), (2, 1), (3, 3), (4, 3)):
+            g, a, b = self.vegeta(level)
+            self.assertEqual(self.bonus(a, b, "Vegeta's Galick Gun")[0], want, level)
+            self.assertEqual(self.bonus(a, b, 'Red Energy Blast')[0], 0, level)       # Red = the Mastery's style = Styled
+
+    def test_true_power_damage_cannot_be_modified_but_can_be_unstoppable(self):
+        g, a, b = self.vegeta(4)
+        bonus, c = self.bonus(a, b, 'True Power')
+        self.assertEqual(bonus, 0)
+        self.assertTrue(any(x.unstoppable(a, c) for x in a.behaviors()))
+
+    def test_level_4_non_styled_cannot_be_stopped_level_2_cannot_be_prevented(self):
+        g, a, b = self.vegeta(4)
+        galick, red = Card(RECS[cid("Vegeta's Galick Gun")]), Card(RECS[cid('Red Energy Blast')])
+        self.assertTrue(any(x.unstoppable(a, galick) for x in a.behaviors()))
+        self.assertFalse(any(x.unstoppable(a, red) for x in a.behaviors()))
+        g, a, b = self.vegeta(2)
+        self.assertTrue(any(x.unprevented(a, galick, b) for x in a.behaviors()))
+
+    def test_true_power_only_as_the_first_attack_of_a_combat(self):
+        g, a, b = self.vegeta(1)
+        can = B.CARD_EXTRA['True Power']['can_attack']
+        tp = Card(RECS[cid('True Power')])
+        a.reset_combat()
+        self.assertTrue(can(a, b, tp))
+        a.stage = 8
+        a.attack(b, power=B.VG_EXPERIENCED)
+        self.assertEqual(a.cb['attacks'], 1)
+        self.assertFalse(can(a, b, tp))
+
+    def test_galick_gun_gives_a_second_critical_effect_only_on_critical_damage(self):
+        g, a, b = self.vegeta(4)
+        hit = B.CARD_EXTRA["Vegeta's Galick Gun"]['hit']
+        gun = Card(RECS[cid("Vegeta's Galick Gun")])
+        a.stage = 5
+        hit(a, b, gun, 4)
+        self.assertEqual(a.stage, 5)            # 4 life cards removed: not critical, nothing extra
+        hit(a, b, gun, 9)
+        self.assertEqual(a.stage, 7)            # extra critical effect; Red Ascension gains 2 stages per critical effect
+
+    def test_assisted_kamehameha_is_unstoppable_only_for_a_saiyan_mp(self):
+        g, a, b = self.vegeta(1)
+        k = Card(RECS[cid('Assisted Kamehameha')])
+        B.CARD_EXTRA['Assisted Kamehameha']['immediate'](a, b, k)
+        self.assertTrue(k.unstoppable and k.unprev)
+        k2 = Card(RECS[cid('Assisted Kamehameha')])
+        B.CARD_EXTRA['Assisted Kamehameha']['immediate'](b, a, k2)       # Dr. Wheelo is not on the Saiyan list
+        self.assertFalse(k2.unstoppable or k2.unprev)
+
+    def test_red_despair_drill_adds_current_anger_in_life_cards(self):
+        g, a, b = self.vegeta(1)
+        a.drills.append(Card(RECS[cid('Red Despair Drill')]))
+        a.anger = 3
+        self.assertEqual(self.bonus(a, b, "Vegeta's Galick Gun")[0], 2 + 3)
+
+
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):
         a = spec('A', 'Piccolo', ['Stoic', 'Combat Stance', 'Unleashed', 'Fused'], 'Red Enraged Mastery', 'Red Energy Blast')
