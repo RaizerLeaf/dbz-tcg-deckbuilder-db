@@ -53,7 +53,7 @@ Coverage: **97% modelled**. Not modelled: Namek Dragon Ball 2's optional level l
 | Black Krillin | 40 | lost to Survival 10; won DBV 6, Survival 34 |
 | Red Slug V4 Namek | 46 | lost DBV 3, Survival 1; won DBV 21, Survival 25 |
 
-Overall 56% over 600 games (+/- about 14 points per opponent at 50 games; table after merging the Vegeta decks that another chat added to the roster). It joined the roster at rank 3 of 11 (61.7%); after the Vegeta decks arrived and `roster rebuild` it is rank 6 of 13 (52.3%).
+Overall 56% over 600 games (+/- about 14 points per opponent at 50 games; table after merging the Vegeta decks that another chat added to the roster). It joined the roster at rank 3 of 11 (61.7%); after other chats added the Vegeta and Raditz decks and `roster rebuild` it is rank 6 of 17 (49.7%). The per-opponent table above does not include the Raditz decks.
 Reading: the deck is a slow grinder. It beats the mill and slower decks, trades evenly with Nappa, Piccolo and Garlic (Wall Breaker, Downward Blast and the Survival route let it race), and loses to the fastest decks (both Trunks decks, which MPPV or out-damage it by turn 4-5). Dragon Ball Victory fires in 4-7 games per opponent; most wins are Survival. Logs read: Wall Breaker holds Piccolo on Level 1 for several turns; Knowledge takes Slug to Level 3 by turn 4-5 (Nappa log); Dragon Blast hits for 9 life cards with three balls out; Optic Blast captured a ball for a Dragon Ball Victory.
 
 What was added to the simulator for this deck (`sim/behaviors.py`, `cardmodel.py`, `engine.py`, covered by `SlugNamekian` tests in `sim/tests/test_rules.py`):

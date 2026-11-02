@@ -187,6 +187,9 @@ def check(deck):
             err.append(f'{nm}: {ctype(c)} in the Life Deck')
         if other_align in c['restrictions']:
             err.append(f'{nm}: {other_align} only')
+        if c['style'] in ('Black', 'Blue', 'Namekian', 'Orange', 'Red', 'Saiyan') and ctype(c) not in ('Main Personality', 'Mastery') \
+                and c['style'] != mastery['style']:
+            err.append(f"{nm}: {c['style']} card, but the Mastery is {mastery['style']} (all Styled cards must match the Mastery's style)")
         for r in c['restrictions']:
             if r.endswith('Mastery') and r != mastery['card_name']:
                 err.append(f'{nm}: {r} only')
