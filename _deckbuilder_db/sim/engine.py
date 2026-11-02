@@ -51,6 +51,7 @@ class Player:
         self.level, self.stage, self.anger = 1, 5, 0
         self.hand, self.discard, self.banished = [], [], []
         self.balls, self.drills, self.setups, self.attached = [], [], [], []
+        self.allies = []                  # Allies in play (only Allies the AI knows how to use are ever played; see behaviors.plan_allies)
         self.skip = 0
         self.won = self.lost = False
         self.win_reason = None
@@ -79,6 +80,10 @@ class Player:
         out = [B.mp_behavior(self.mp_name, self.lv.name), B.mastery_behavior(self.mastery)]
         for c in self.drills + self.balls + self.setups + self.attached:
             b = B.CARD_PASSIVE.get(c.name)
+            if b:
+                out.append(b)
+        for c in self.allies:
+            b = B.ALLY_PASSIVE.get((c.name, c.rec.get('subtitle')))
             if b:
                 out.append(b)
         return [b for b in out if b is not None]
@@ -119,6 +124,14 @@ class Player:
                 if pl is not None and pl.cb.get('rj_draw'):
                     pl.cb['rj_draw'] = False
                     pl.draw(1)
+
+    def rejuv_ally(self, card, zone):
+        """Rejuvenate one specific Ally: it leaves `zone` (hand, discard pile, Banished Zone or play) for the bottom of the Life Deck."""
+        zone.remove(card)
+        self.deck.append(card)
+        for b in self.behaviors():
+            b.on_ally_rejuvenated(self)
+            b.on_rejuvenate(self)
 
     def lose_card(self, c, how):
         """A card left the top of the Life Deck. how: 'destroy' | 'damage' | 'banish'. Returns True if it counts."""
@@ -301,6 +314,7 @@ class Player:
         return c
 
     def note_discard(self, c):
+        self.game.last_discarder = self            # lets a behavior tell whose card was discarded (Black Viewing Drill)
         self.cb['discarded'] = True
         self.opp.cb['discarded'] = True
         trig = B.CARD_DISCARD_TRIGGER.get(c.name)
@@ -383,6 +397,9 @@ class Player:
                 ds += b.incoming_stage(opp, c, self)
         life = max(0, life - opp.cb['reduce_life']) if life else 0
         ds = max(0, ds - opp.cb['reduce_stage']) if ds else 0
+        pre = opp.cb.pop('prevent_once', None)          # Blue Overcharge: prevents N life cards and N stages of THIS attack only
+        if pre:
+            life, ds = max(0, life - pre[0]), max(0, ds - pre[1])
         opp.endure_count = 0
         ign = c.unprev or self.cb['next_unprev'] or self.cb['unprev_all'] or any(b.unprevented(self, c, opp) for b in self.behaviors())
         self.cb['next_unprev'] = False
@@ -430,15 +447,27 @@ class Player:
             if b.defend_power(self, atk, c, kind):
                 self.log(f'    ({self.label} stops it with an MP/Mastery power)')
                 return True
-        opts = [x for x in self.hand if x.is_def and kind in x.stops]
+        opts = [x for x in self.hand + self.setups if x.is_def and kind in x.stops]      # a Setup in play is activated and discarded like an Event
         if self.cb['nonstyled_lock']:
             opts = [x for x in opts if x.style == self.styled()]
+        big = (c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at
+        if not opts and big and not self.cb['nonstyled_lock']:
+            part = [x for x in self.hand + self.setups if x.prevent and x.ctype in ('Event', 'Setup')]
+            if part and 'prevent_once' not in self.cb:
+                x = part[0]
+                (self.setups if x in self.setups else self.hand).remove(x)
+                self.cb['prevent_once'] = x.prevent
+                if x.draw:
+                    self.draw(1)
+                (self.banished if x.banish_after else self.discard).append(x)
+                self.log(f'    ({self.label} prevents {x.prevent[0]} life cards / {x.prevent[1]} stages with {x.name})')
+            return False
         if not opts:
             return False
-        if not ((c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at):
+        if not big:
             return False
         x = sorted(opts, key=lambda z: (z.name == "Time Is A Warrior's Tool", -z.endurance))[0]
-        self.hand.remove(x)
+        (self.setups if x in self.setups else self.hand).remove(x)
         self.raise_anger(x.anger_self)
         atk.lower_anger(x.anger_opp)
         if x.opp_lose:
@@ -462,6 +491,7 @@ class Game:
     def __init__(self, spec_a, spec_b, seed=0, first=0):
         self.rng = random.Random(seed)
         self.logs = []
+        self.last_discarder = None
         a, b = Player(self, spec_a.name, spec_a, self.rng), Player(self, spec_b.name, spec_b, self.rng)
         if a.label == b.label:
             a.label, b.label = a.label + ' (A)', b.label + ' (B)'
@@ -540,6 +570,7 @@ class Game:
                 p.setups.append(c)
                 for b in p.behaviors():
                     b.on_enters_play(p, o, c)
+        B.plan_allies(p, o)
         pur = p.lv.pur + sum(b.pur_bonus(p) for b in p.behaviors())
         p.stage = min(10, p.stage + pur)
 

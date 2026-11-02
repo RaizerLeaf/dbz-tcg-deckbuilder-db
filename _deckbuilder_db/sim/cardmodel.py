@@ -58,8 +58,10 @@ class Card:
         self.head, self.hit = head, hit
         m = re.search(r'ENDURANCE (\d+)', t)
         self.endurance = int(m[1]) if m else 0
-        self.is_def = '[Defense]' in t and ('Stops' in t or bool(re.search(r'Prevent all damage from an? (?:physical|energy) attack', t)))
-        self.is_atk = '[Attack]' in t
+        self.is_def = '[Defense]' in t and ('Stops' in t or bool(re.search(r'Prevent all damage from an? (?:(?:physical|energy) )?attack', t)))
+        m = re.search(r'Prevent (\d+) life cards and (\d+) stages of damage from an attack', t)
+        self.prevent = (int(m[1]), int(m[2])) if m else None        # Blue Overcharge: a partial prevention instead of a stop
+        self.is_atk = '[Attack]' in t and self.ctype != 'Ally'      # an Ally's attack is its POWER in play (needs the MP at 1 stage or less), never played from hand
         low = t.lower()
         self.phys = self.is_atk and 'physical attack' in low
         self.energy = self.is_atk and 'energy attack' in low
@@ -103,8 +105,8 @@ class Card:
             if 'physical' in kinds: self.stops.add('p')
             if 'energy' in kinds: self.stops.add('e')
             if not m and 'Stops an attack' in t: self.stops = {'p', 'e'}
-            m2 = re.search(r'Prevent all damage from an? (physical|energy) attack', t)
-            if m2: self.stops.add('p' if m2[1] == 'physical' else 'e')      # approximated as a stop
+            m2 = re.search(r'Prevent all damage from an? (?:(physical|energy) )?attack', t)
+            if m2: self.stops.update(('p', 'e') if not m2[1] else ('p' if m2[1] == 'physical' else 'e'))      # approximated as a stop
         m = re.search(r'(?:MP gains|[Gg]ain) (\d+) stages', head)
         self.gain = int(m[1]) if m else 0
         self.crit_now = len(re.findall(r'[Uu]se a critical damage effect', head))
@@ -120,7 +122,7 @@ class Card:
             if m:
                 self.opp_lose += int(m[1])
                 self.opp_lose_floor = self.opp_lose_floor or 'minimum of 0' in sent
-        m = re.search(r'Rejuvenate (\d+)', head)
+        m = re.search(r'Rejuvenate (\d+)(?! Allies)', head)      # 'Rejuvenate 3 Allies from your discard pile' is handled in behaviors
         self.rej = int(m[1]) if m else 0
         m = re.match(r'\s*Rejuvenate (\d+)', hit)
         self.rej_hit = int(m[1]) if m else 0          # 'HIT: Rejuvenate N' (only the plain form; conditional HIT text is not read)
@@ -142,7 +144,8 @@ _PARSED = [
     r'(?:Physical|Energy) [Aa]ttack', r'DAMAGE:?', r'costing \d+ stages?', r'[Rr]aise your anger',
     r"[Ll]ower your opponent's anger", r'Stops an? (?:physical|energy)', r'Stops a physical or energy',
     r'(?:MP gains|[Gg]ain) \d+ stages', r'Rejuvenate \d+', r'Draw a card', r'[Uu]se a critical damage effect',
-    r"(?:opponent(?:'s MP)?|personalities|personality) loses? \d+ stages|lose \d+ stages", r'Prevent all damage from an? (?:physical|energy) attack',
+    r"(?:opponent(?:'s MP)?|personalities|personality) loses? \d+ stages|lose \d+ stages", r'Prevent all damage from an? (?:(?:physical|energy) )?attack',
+    r'Prevent \d+ life cards and \d+ stages of damage from an attack',
     r'^\(?Banish after use', r'^HIT:?$',
 ]
 _PARSED_RE = re.compile('|'.join(_PARSED))

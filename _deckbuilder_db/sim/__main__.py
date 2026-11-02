@@ -77,6 +77,13 @@ def cmd_coverage(args):
     unm = []
     for cid, n in sorted(copies.items(), key=lambda kv: recs[kv[0]]['card_name']):
         c = Card(recs[cid])
+        if c.ctype == 'Ally' and c.name in B.MODELLED_ALLIES:
+            if c.rec.get('subtitle') == 'Unrelenting':     # Allies only act when the MP is at most 1 stage above 0; the AI never does that
+                unm.append((c.name, n, ['Unrelenting: POWER attack in play is never used (Allies act only when the MP is at most 1 stage above 0)']))
+                tot['unmodelled'] += n
+            else:
+                tot['hand'] += n * len(coverage(c, {c.name})[1] or [0])
+            continue
         if c.ctype == 'Ally':
             unm.append((c.name, n, ['Allies are not simulated (never played)']))
             tot['unmodelled'] += n
