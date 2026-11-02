@@ -5,6 +5,8 @@ Written at the end of a very long session that built the deck-building notes, th
 tool and sandbox gotchas, and how the generated files stay correct.
 
 ## What the owner likes
+- **Settled rulings are written down at once** (`DECKBUILDING_NOTES.md`, "Mechanics confirmed by the owner") and never asked again. This session: Protective only affects levelling, "your opponent destroys" counts as "your effect destroys",
+  critical *damage* is not a critical damage *effect*, errata applies and the **latest print wins**, Frozen list ignored, Sets 1-7 only, Evolution P9/P10 never came out. Write the owner's own words into `work/owner_rulings.json` when it is a data ruling.
 - **2-3 ranked options with reasons** (style, Mastery, why), most to least recommended, not a single answer. Teach-by-example: when they correct you ("card text is literal", "Named cards must
   match the MP"), the correction is a rule: write it into the notes so it is not asked twice.
 - **Straightforward, plain wording.** They asked for the friends' page to be one linear set of steps and for jargon ("pack") to go. Test a page the way a first-time friend would read it.
@@ -22,9 +24,14 @@ tool and sandbox gotchas, and how the generated files stay correct.
 | Put Goku's Search (a Named card) in a Nail deck | `deckcode.py check` flags Named cards; never hand-pick cards without `is_named` / `named_character` |
 | Orange Uppercut x2 although "Limit 1" | printed limits come from `limit_per_deck`; the checker enforces them |
 | "Time Is A Warrior's Tool" flagged as Named (possessive title) | `NOT_NAMES` in `derive.py`; regression note in STRATEGY_KNOWLEDGE |
-| Hand-retyped a deck code and lost a card (59 cards) | never retype codes; write them to a file with the script |
+| Hand-retyped a deck code and lost a card (59 cards), or added one (61 cards: an extra `PF-R129` crept in) | never retype codes; write them to a file with the script and paste from it |
 | Assumed the friend's Piccolo used Composed/Revitalized, then Stoic, from memory | ask the owner or read the exported code's printings field; the owner confirmed Stoic |
 | Dismissed Red for Lord Slug, missed Blue Level-1 stage-lock for Turles | compare styles by what the MP rewards and punishes, and consider sitting on one level (method in the notes) |
+| Wrote a deck code from guesses: the Mastery as a name, no rarity letters, later reprints (`AW-S77`, `EV-S165`) the app did not know | the format and the first-printing rule are in `DECKBUILDING_NOTES.md`; `deckcode.py` implements them and its test round-trips the owner's codes. When a format is unknown, ask for 2-3 real exported codes and decode them before encoding anything |
+| Told the owner Blue Guard's text was "the corrected wording" when it was the FanZ-era wording (the PanZ one is on the Awakening S50 image and in the Panini CRD) | check which CRD a wording comes from (`STRATEGY_KNOWLEDGE.md` section 3); `crd.py` now uses the FanZ wording only if a Set 1-7 image shows it |
+| Built a card pool from the first printing and read a stale wording (Black Command, Orange Palm Blasts, Black Scout Maneuver) | the latest print wins: `text_current` carries it; a real image that prints "(Most Recent Printing)" is the MRP even when the CRD is silent |
+| The cloud session was set to push to a branch while `CLAUDE.md` says push to `main`; the owner learned this late and was surprised | when the session's branch rule and `CLAUDE.md` disagree, say so in the first reply and ask which to follow; do not quietly pick one |
+| Offered changes to a deck the owner said was for a friend | leave a friend's deck as it is unless asked; describe the change and let the owner decide |
 | Believed "skip their next action" stops defenses | responding to an attack is not an Action (Rulebook 3.0) |
 | Wrote simulator output paths with `../work/full` and created a stray `work/` outside `_deckbuilder_db/` | pass `--out work/full` exactly; check `git status` for untracked top-level folders |
 | Generated `docs/` went stale after another chat changed card text | `friends/tests` has a freshness test that fails until `python friends/build_site.py` is re-run |
@@ -62,6 +69,8 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - A win rate here is the model's opinion under identical simple play, not a prediction of how a person would do. A loss in a matchup the model calls lopsided is not evidence of a play mistake.
 
 ## Still to do (as of this session)
+- Ask the owner whether the final Nappa code (`decks/nappa_saiyan_clench.txt`) imports, and which MP name / printings the app wants; record the answer in `DECKBUILDING_NOTES.md` ("Decks on file").
+- Nappa options 2 and 3 (Saiyan Dynamic, Black Devious) and the Black-based anti-anger Wheelo option are described but not built. Simulate the Wheelo Blue deck against the friend's Red Piccolo once Allies and Blue Protective are modelled.
 - FanZ-era support in the simulator, the pack builder and the page (rulings, keywords, Traits, Frozen list). Everything built here is PanZ (Sets 1-7) only.
 - Simulator: Allies, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
 - Optional: a GitHub Action that rebuilds `docs/` automatically (needs the owner's OK: it lives in `.github/`); a browser version of the simulator (Pyodide).
