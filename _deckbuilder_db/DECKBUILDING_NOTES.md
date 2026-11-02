@@ -14,8 +14,43 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 5. Compare styles with "How to compare styles" below and give 2-3 ranked options, unless the owner asked for one style.
 6. Build to the defaults (60 cards, limits, Time Is A Warrior's Tool x1, Confrontation/Stare Down x2).
 7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
-8. Optionally test it against another deck with the simulator (`sim/README.md`: `python -m sim coverage <deck>` first, then `python -m sim run A B`); it is a toy model, not a rules engine.
-9. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
+   cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
+9. Present the deck by role, the code in a fenced block, the simulator playtest (what you ran, what was unmodelled, what you saw) and every unverified assumption; ask the owner to import it.
+   Save the code in `decks/`, run `python -m sim roster add decks/<name>.txt` (step 5 of the playtest section), record new owner rulings and lessons here, then commit and push to `main`.
+
+## Playtesting a deck in the simulator (required before finalizing)
+Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/README.md`), but it is the only thing that executes the cards, so every deck gets played before it is presented.
+1. **Coverage first:** `python -m sim coverage decks/<name>.txt` (or `sim/decks/`). It lists the MP levels and the Mastery that are **NOT MODELLED** and the card sentences it ignores.
+2. **"The simulator does not have this character" is not a reason to skip.** Add the missing MP levels, the Mastery and the cards your plan depends on to `sim/behaviors.py` from the card text
+   (**step-by-step guide for someone who has never opened the simulator: `sim/MODELLING_GUIDE.md`**; short recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
+   starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
+   code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
+3. **Play it against the test-deck roster:** `python -m sim playtest decks/<name>.txt`. It plays your deck against every deck on the roster (**up to 25 decks, one version per MP + Mastery**, 20 games each by default; a game takes about 10 ms, so a full playtest takes about 3 seconds and the 50-game cap about 6;
+   the command refuses more than 50 games per opponent). It prints a win rate per opponent and how each game ended, and the command to read a play log of your worst matchup (`python -m sim game A B --seed 1`):
+   read 2-3 logs. Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses. For a specific matchup the owner named, also
+   `python -m sim game <your deck> <their deck>`. **Do not run hundreds or thousands of games for deck building**: large `python -m sim run A B -n 1000` batches are for matchup testing when the owner asks.
+   The roster is a spread of the decks built so far (see "The test-deck roster" below), so never rely on the friend's Piccolo deck alone: it is a very fast, niche MPPV deck.
+4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
+   unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
+5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt` and `sim/roster.json`. The command
+   ranks the deck against the current roster (round robin, fixed seeds): if it is in the top 25 by win rate it joins and, once the roster is full, the lowest-ranked deck is retired; if it does not make the top 25 it is not added. If an older version of the same deck (same MP + Mastery) is on the roster, the better of the two stays and the other is listed as superseded. It only plays the new deck against the roster (pair results are cached), so it takes well under a second.
+   It refuses a deck whose MP levels or Mastery are NOT MODELLED (do step 2 first). Say in your answer whether the deck joined the roster.
+
+### The test-deck roster
+`sim/roster.json` holds **at most 25 decks** (the cap is `MAX_ROSTER` in `sim/roster.py`; games are fast enough to test against many decks); `python -m sim roster` shows it. Rule: a new finished deck is played against the roster in a round robin (30 games per pair, fixed seeds, first player
+alternating); decks are ranked by win rate, the top 25 stay and the rest are retired. **Only one version of a deck counts**: a deck's family is its MP + Mastery (Orange Trunks V3/V4/V5 are one deck); only the best-ranked version of each family stays, the older ones are listed as `superseded` in the file, and versions of one family do not play each other in the ranking. A new version replaces its predecessor only if it ranks higher (`retired` in the file; the deck files stay in the repository and can still be used with `sim game`/`sim run`).
+`python -m sim roster rebuild` re-ranks every deck in `decks/` and `sim/decks/` from scratch (use it to resolve a merge conflict in `roster.json`). Decks with NOT MODELLED parts are not rankable.
+Things to know:
+- The ranking is the **model's** win rate, not real strength (the model may overrate the Orange Trunks decks), and it measures decks against each other only. A win rate is relative to the decks on the
+  roster at that moment, so the numbers shift a little whenever the roster changes.
+- Because the roster keeps the highest winners it drifts toward strong, fast decks. Once the roster is full, slow decks get retired first. Two truly different strategies with the same MP and Mastery
+  count as versions of one deck (the roster keeps the better one); use `sim game` / `sim run` to test against the other directly. If you need a slow or specific opponent, use it directly with `sim game` / `sim run`.
+- Snapshot when it was created (10 decks): Orange Trunks V5 (89%; V3 and V4 superseded), Red Trunks draft (79%), Nappa Saiyan Clench (58%), the friend's Red Piccolo (52%), Nail Black (37%),
+  Garlic Jr. (37%), Krillin (31%), Wheelo Black (30%), Wheelo Blue (29%), Lord Slug (8%). Check `python -m sim roster` for the current list.
+- Every deck on the roster must be fully modelled: `roster add` refuses a deck with NOT MODELLED MP levels or Mastery. The first roster build skipped Nappa for that reason, so Nappa's four levels,
+  the stage-drain effects ("your opponent loses N stages", including "to a minimum of 0") and Saiyan Clench were added to the simulator; the remaining gaps for that deck are listed by `coverage`
+  (Allies, second-use attacks, Saiyan Dive's banish).
 
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
@@ -81,6 +116,10 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
   Lord Slug **cannot win by MPPV**, so Dragon Ball Victory (or Survival) is his only route, and an opponent's critical effects can capture his balls. Use the **Namek** set with
   Namek Dragon Ball 1 ("your other Dragon Balls cannot be captured", +1 life card on your attacks), not Earth (Earth Dragon Ball 1 has no protection). A Red critical-effect shell fits
   Piccolo better than Slug (Combat Stance and Unleashed feed critical effects and balls; Piccolo can also MPPV).
+  **Simulator test (Earth V3 vs Namek V4, same 60 cards apart from the seven balls, 450 games against the 9 other roster decks, 500 head-to-head):** Namek 9.8% vs Earth 10.0% overall (a tie within noise); head-to-head Namek 59% / Earth 41%.
+  Namek's edge is almost all Namek 6 (+3 PUR, opponent's attacks -2 stages) and Namek 1 (+1 life card), i.e. it helps Slug *survive and hit*, not win by Dragon Balls: in 180 games each, Slug had 7 or more balls in play in only 1 game (Earth) / 13 games (Namek) and won by Dragon Ball Victory only 11 times in 500 (Namek) -
+  games last about 7 turns and crit decks capture the balls. Both versions score 0/50 against Orange Trunks and Red Trunks (Garlic Jr.: Earth 5/50, Namek 0/50); Slug's real wins come from Survival against slower decks (Wheelo Blue 26-36%).
+  **Model gaps that may undersell Slug:** Namek 2 (lower a personality) and Namek 4 (destroy 2 Setups/Drills) are not modelled; Earth 6 (re-Rejuvenate banished balls) and Earth 7 (play a ball from hand as an action) are not modelled and would help Earth; the Dragon Radar "search and play" and Lord Slug's Regeneration advance/lower are not modelled; the AI never protects balls on purpose. Treat Slug as the weakest roster deck against fast decks, and as a deck you play for a slow Dragon Ball plan against slower decks.
 - **Turles**: Blue stage-lock on Level 1 (AT +5 and +2 from Turles, damage cannot be prevented) is a top option. Saiyan, Red and Black are the levelling options.
   The Blue plan: stay on Level 1, play only Styled cards, use AT +5 Setups/physicals (Blue Stretch Kick, Round Throw, Lunge, Face Crunch; AT 0 still hits for 7 stages with Turles' +2),
   Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
@@ -143,11 +182,12 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `sim/decks/wheelo_black_v2.txt` | Dr. Wheelo, Black, Black Devious | imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator |
-| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; used as the speed benchmark for MPPV |
+| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; a very fast, niche MPPV deck: one stress test among several, not the general benchmark |
 | `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
 | `decks/trunks_orange_v5.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Defiant / Overpowering) | V4 plus six simulator-guided swaps; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported |
 | `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
-| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | Earth balls (see the Namek-set advice above); not confirmed in the app |
+| `decks/lord_slug_red_namek.txt` | Lord Slug, Red, Red Enraged | **V4, Namek balls** (the roster version; 15% over 500 playtest games); not confirmed in the app |
+| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | V3, Earth balls (older version, same family; superseded on the roster); not confirmed in the app |
 | `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
 | `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
 `decks/` (built in a cloud session, deck codes written by `deckcode.py`):

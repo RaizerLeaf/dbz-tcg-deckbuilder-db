@@ -39,6 +39,8 @@ class Behavior:
     def can_mppv(self, p): return True
     def keep_drills(self, p, old_level): return False
     def unstoppable(self, p, card): return False
+    def unprevented(self, p, card, opp): return False
+    def stage_scale(self, p, card, opp): return 1
     def destroy_amount(self, p, n): return n
     def after_destroy(self, p, got): pass
     def entering_combat(self, p, opp, defender): pass
@@ -495,6 +497,50 @@ class NailL4(Behavior):
                     ex['immediate'](p, opp, ball)
                     break
 
+
+# =================================================================================================================
+# Nappa (Set 2 levels). His deck drains the opponent's stages ("loses N stages"); the parser handles the unconditional ones.
+# =================================================================================================================
+NAPPA_L1 = synthetic('Rested', 'POWER: [Attack] Physical attack. DAMAGE: 3 stages.')            # also destroys an opponent's Ally (Allies are not simulated)
+NAPPA_L3 = synthetic('Overconfident', 'POWER: [Attack] Physical attack. DAMAGE: 7 stages.')
+
+
+class _NappaAttack(Behavior):
+    card, key = None, ''
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, self.key):
+            return p.attack(opp, power=self.card)
+        return False
+
+
+@mp('Nappa', 'Rested')
+class NappaL1(_NappaAttack):
+    card, key = NAPPA_L1, 'nappa1'
+
+
+@mp('Nappa', 'Smirking')
+class NappaL2(Behavior):
+    def on_play(self, p, opp, card):
+        # "whenever you perform an attack": all their personalities lose 2 stages if you changed levels this combat, otherwise their MP loses 1
+        opp.lose_stages(2 if p.cb['changed'] else 1)
+
+
+@mp('Nappa', 'Overconfident')
+class NappaL3(_NappaAttack):
+    card, key = NAPPA_L3, 'nappa3'
+
+    def after_hit(self, p, opp, card, removed):
+        if card.name == 'Overconfident' and opp.drills:        # HIT: banish a Drill or Ally
+            opp.banished.append(opp.drills.pop())
+
+
+@mp('Nappa', 'Enraged')
+class NappaL4(Behavior):
+    def stage_bonus(self, p, card, opp): return 4
+    def unprevented(self, p, card, opp): return opp.power() == 0       # damage cannot be prevented while the opponent's MP is at power level 0
+
 # =================================================================================================================
 # Dr. Wheelo
 # =================================================================================================================
@@ -950,6 +996,41 @@ _x('Black Flinch', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_
 _x('Black Upward Dodge', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Villainous Visage', on_damaged=lambda p, atk, x, removed: (p.hand.remove(x), p.banished.append(x), p.destroy_opp(2 * removed)))
 
+# ---- Saiyan stage-drain cards (Nappa's deck) ---------------------------------------------------------------------
+def _attach(p, o, c):
+    if not p.attached:            # a second Clench is not stacked (unverified how the real game stacks them)
+        p.attached.append(c)
+        c.keep = True
+
+
+class _Clench(Behavior):
+    """Saiyan Clench attached: attacks without AT base damage have their power stage damage doubled (only one doubling; order vs +stage modifiers is unverified)."""
+    def stage_scale(self, p, card, opp): return 2
+
+
+CARD_PASSIVE['Saiyan Clench'] = _Clench()
+_x('Saiyan Clench', immediate=_attach)
+_x('Saiyan Uppercut', base_stage=lambda p, o, c: 7 if p.power() > o.power() else 5)
+_x('Saiyan Headbutt', base_stage=lambda p, o, c: 4 + 4 * sum(1 for x in p.discard + p.banished if x.name == 'Saiyan Headbutt'))
+_x('Saiyan Charged Fist', immediate=lambda p, o, c: o.lose_stages(3, True) if p.power() > o.power() else None)
+_x('Saiyan Focus', defend=lambda p, atk, x, c: atk.lose_stages(4, True) if p.discard and p.discard[0].style == p.styled() else None)
+_x('Saiyan Emergence', use=lambda p, o, c: (setattr(c, 'keep', True), p.deck.append(c)) if o.power() == 0 else None)
+_x('Saiyan Trap', use=lambda p, o, c: (setattr(c, 'keep', True), p.deck.append(c)))
+_x("Nappa's Energized Charge", immediate=lambda p, o, c: p.cb.update(set0_on_change=True))
+_x("I'll Dig Your Grave!", immediate=lambda p, o, c: p.cb.update(unprev_all=True))
+_x("Nappa's Confidence", use=lambda p, o, c: o.banished.append(o.drills.pop()) if o.power() == 0 and o.drills else None)
+_x('Saiyan Overpowering Aura Drill', enters=lambda p, o, c: _fetch_attach(p))
+_x('Saiyan Body Blow', immediate=lambda p, o, c: _fetch_attach(p))
+
+
+def _fetch_attach(p):
+    """Search the Life Deck (or discard pile) for Saiyan Clench and place it into play attached."""
+    c = find_in(p.deck, lambda x: x.name == 'Saiyan Clench') or find_in(p.discard, lambda x: x.name == 'Saiyan Clench')
+    if c is not None and not p.attached:
+        (p.deck if c in p.deck else p.discard).remove(c)
+        p.attached.append(c)
+
+
 CARD_VALUE.update({"Dr. Wheelo's History": 6, 'Black Confinement': 5, 'Black Invitation': 4, "Dr. Wheelo's Revival": 3, 'Black Taunt': 4})
 NEVER_PLAY = {"Time Is A Warrior's Tool", 'Villainous Energy Sphere', 'Villainous Visage', "Piccolo's Weighted Clothing",
               'Heroic Energy Sphere'}
@@ -984,6 +1065,8 @@ def use_card(p, o, c):
     for _ in range(c.crit_now):
         p.crit_effect()
     o.lower_anger(c.anger_opp)
+    if c.opp_lose:
+        o.lose_stages(c.opp_lose, c.opp_lose_floor)
     if c.rej:
         p.rejuv(c.rej)
     if c.gain:
@@ -1009,7 +1092,7 @@ def _usable(p, o, c):
     ex = CARD_EXTRA.get(c.name, {})
     if ex.get('can_use') and not ex['can_use'](p, o, c):
         return False
-    return bool(c.crit_now or c.anger_self or c.rej or c.gain or c.draw or ex.get('use'))
+    return bool(c.crit_now or c.anger_self or c.rej or c.gain or c.draw or c.opp_lose or ex.get('use'))
 
 
 def choose_action(a, d):
