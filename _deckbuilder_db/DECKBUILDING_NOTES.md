@@ -62,6 +62,10 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - **Garlic Jr.** (Villain, only Set 3 printings are legal): L1 needs 2 less anger to advance and its Power raises anger 1. L3 can capture a Dragon Ball whenever you raise your anger.
   L4 gives the opponent's attacks +3 life cards, so reach it and win the same turn. Counter Blast doubles Continuous modifiers, so do not play it at L4.
 
+- **Krillin** (Hero, legal Set 1-7 levels: Ready, Energetic or Quick, Ready For Battle, Enraged): an energy-attack MP that rewards shrinking the opponent's hand. L3 deals 9 minus the cards in their hand.
+  L1 gives a critical effect and 2 anger the next time any card is discarded from a hand this combat. Named: Krillin's Solar Flare, Krillin's Destructo Disk (cannot be stopped or prevented).
+  Black has 14 hand-disruption cards; Black Devious Mastery makes the opponent discard each turn and turns 4-life-card attacks into critical hits.
+
 ## Deck code format (from the owner's web app)
 `D1.<name>.<MP name>.<Mastery>[.<MP printings>].<card>.<card>...`
 - Names are URL-encoded (`%20`). Cards are `<set prefix>-<card number>`, `*N` for N copies, sorted as plain text.
