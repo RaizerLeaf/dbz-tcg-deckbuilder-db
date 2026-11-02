@@ -16,7 +16,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 7. Encode with `scripts/deckcode.py` (`encode`), write the code to `decks/<name>.txt`, then `python deckcode.py check "$(cat ../decks/<name>.txt)"`. Never retype a code by hand.
 8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
    cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
-9. Present the deck by role, the code in a fenced block, and every unverified assumption; ask the owner to import it. Record new owner rulings and lessons here, then commit and push to `main`.
+9. Present the deck by role, the code in a fenced block, the simulator playtest (what you ran, what was unmodelled, what you saw) and every unverified assumption; ask the owner to import it.
+   Save the code in `decks/`, add a row to "Test decks" below so later decks can be played against it, record new owner rulings and lessons here, then commit and push to `main`.
 
 ## Playtesting a deck in the simulator (required before finalizing)
 Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/README.md`), but it is the only thing that executes the cards, so every deck gets played before it is presented.
@@ -25,11 +26,29 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
    (recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
    starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
    code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
-3. **Play it, a little:** `python -m sim game <your deck> <opponent> --seed N` and read 2-3 play logs against a benchmark opponent (for example `sim/decks/piccolo_red_friend.txt` as a fast MPPV deck
-   and one slower deck or the matchup the owner named). Look for: which levels it reaches and when, whether the key cards and combos fire, cards that sit in hand unused, how it loses.
-   A `python -m sim run` of **20-50 games** is fine as a sanity check. **Do not run hundreds or thousands of games for deck building**: large `run` batches are for matchup testing when the owner asks.
+3. **Play it, a little, against a spread of test decks.** The decks built so far are the test decks (`decks/` and `sim/decks/`; table below). Pick **2-3 that differ in speed and archetype**:
+   the matchup the owner named, one fast deck, and one slow or midrange deck. **Do not use the friend's Piccolo deck as your only opponent**: it is a very fast, niche MPPV deck and tells you
+   nothing about how your deck does against slower decks. Run `python -m sim game <your deck> <test deck> --seed N` and read 2-3 play logs. Look for: which levels it reaches and when, whether
+   the key cards and combos fire, cards that sit in hand unused, how it loses. A `python -m sim run` of **20-50 games per opponent** is fine as a sanity check. **Do not run hundreds or
+   thousands of games for deck building**: large `run` batches are for matchup testing when the owner asks.
 4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
    unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
+
+### Test decks (pick a mix; add every finished deck to this table)
+Speeds are from a 30-games-per-pair round robin of these decks in the simulator, so they describe how the **model** plays them, not a ranking of real strength (the model may overrate the
+Orange Trunks decks). "Wins on turn" is the average total turn count (both players' turns) of that deck's wins.
+| Test deck | Archetype | In the model | Use it to test |
+|---|---|---|---|
+| `sim/decks/piccolo_red_friend.txt` | very fast Red MPPV (niche) | wins about turn 6, mostly MPPV | only as a stress test for "can my deck survive a fast MPPV deck" |
+| `sim/decks/garlic_red.txt` | fast Red MPPV | turn 6, MPPV | speed and anger-lock answers |
+| `sim/decks/trunks_red_draft.txt` | fast Red MPPV | turn 5, MPPV | speed and anger-lock answers |
+| `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt`, `decks/trunks_orange_v5.txt` | Orange beatdown (stage damage, Drills, Survival) | turn 5, mostly Survival | Endurance, stops and defense; how a deck handles heavy stage damage |
+| `sim/decks/wheelo_black_v2.txt`, `decks/wheelo_blue_lockdown.txt` | mill / anti-anger | turn 8-9, Survival | slower decks; whether your deck races a mill plan |
+| `sim/decks/nail_black_v2.txt` | Black mill / punish-the-stop | turn 8, Survival | midrange pressure |
+| `sim/decks/krillin_black.txt` | Black hand disruption | turn 8, Survival | midrange pressure, hand-size effects |
+| `sim/decks/lord_slug_red_v3.txt` | Dragon Ball / slow | turn 10, Survival or Dragon Ball Victory | the slowest opponent: lets your deck's engine show |
+| `decks/nappa_saiyan_clench.txt` | Saiyan stage damage | **not usable yet**: Nappa's four levels are NOT MODELLED, so the simulator ignores them and the deck loses every game | add Nappa's levels to `sim/behaviors.py` first (a good first task) |
+Before using any test deck, run `python -m sim coverage <deck>`: a test deck is only as meaningful as the parts of it the simulator models.
 
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
@@ -146,7 +165,7 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
 | File | MP / style / Mastery | Status |
 |---|---|---|
 | `sim/decks/wheelo_black_v2.txt` | Dr. Wheelo, Black, Black Devious | imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator |
-| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; used as the speed benchmark for MPPV |
+| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; a very fast, niche MPPV deck: one stress test among several, not the general benchmark |
 | `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
 | `decks/trunks_orange_v5.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Defiant / Overpowering) | V4 plus six simulator-guided swaps; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported |
 | `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
