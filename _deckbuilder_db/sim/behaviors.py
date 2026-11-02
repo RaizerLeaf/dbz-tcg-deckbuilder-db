@@ -266,6 +266,30 @@ class BlueProtective(Behavior):
         return True
 
 
+@mastery('Blue Resolute Mastery')
+class BlueResolute(Behavior):
+    """[Continuous]: your attacks deal +1 life card. POWER (once per turn): discard a Styled card from your hand to draw a card and prevent 4 stages and 4 life cards
+    of damage from your opponent's next attack this combat. SIMPLIFIED: the AI uses it as an action when it holds 2+ cards and has a spare (low value) Styled card;
+    the prevention is stored like Blue Overcharge's and used up by the next attack against it."""
+    def life_bonus(self, p, card, opp): return 1
+
+    def power(self, p, opp):
+        if 'prevent_once' in p.cb or len(p.hand) < 2 or 'resolute' in p.tf:
+            return False
+        c = [x for x in p.hand if x.style and x.style == p.styled() and p.value(x) <= 4]
+        if not c:
+            return False
+        x = min(c, key=p.value)
+        p.tf['resolute'] = True
+        p.hand.remove(x)
+        p.discard.append(x)
+        p.note_discard(x)
+        p.draw(1)
+        p.cb['prevent_once'] = (4, 4)
+        p.log(f'  {p.label}: Resolute POWER (discards {x.name}, draws, prevents 4 stages/4 life of the next attack)')
+        return True
+
+
 @mastery('Black Conflict Mastery')
 class BlackConflict(Behavior):
     """Attacks that deal at least 4 life cards count as critical damage. POWER: discard a card; if Styled, raise anger 1 (chosen over +6 stages)."""
@@ -1165,14 +1189,14 @@ class BlueTagTeam(Behavior):
     def on_turn_start(self, p, mine):
         """Goku decks (ALLY_MODEL Allies): done at the start of the opponent's first turn, as the card says. Also: while you control exactly 1 Ally it cannot be
         discarded by critical damage effects (protect_allies). The Cell Jr. decks keep the game-start timing below."""
-        if p.mp_name == 'Goku' and not mine and not p.gf.get('tag_team'):
+        if p.mp_name in ('Goku', 'Captain Ginyu') and not mine and not p.gf.get('tag_team'):
             p.gf['tag_team'] = True
             search_ally(p, ('deck',), 3)
 
     def protect_allies(self, p): return len(p.allies) == 1
 
     def on_game_start(self, p):
-        if p.mp_name == 'Goku':
+        if p.mp_name in ('Goku', 'Captain Ginyu'):
             return
         a = [x for x in p.deck if x.ctype == 'Ally' and (is_cj(x) or p.mp_name != 'Cell Jr.')]
         if a:
@@ -1222,6 +1246,8 @@ def life_adjust(p, opp, c):
     adj = 0
     if c.name == 'Ready For Battle':
         adj -= len(opp.hand)
+    if c.name == 'Ally Android 17':                # DAMAGE: AT +X life cards, X = the number of Setups in play (anyone's)
+        adj += len(p.setups) + len(opp.setups)
     if c.name == 'Namekian Dragon Blast':          # DAMAGE: 4 + X life cards, X = Dragon Balls in play (anyone's)
         adj += len(p.balls) + len(opp.balls)
     if (c.life or c.life_at) and any(b.name == 'Earth Dragon Ball 1' for b in p.balls + opp.balls):
@@ -1240,8 +1266,19 @@ _VEGETA_ATK = synthetic('Ally Vegeta', 'POWER: [Attack] Energy attack costing 1 
 _CHAOZU_ATK = synthetic('Ally Chaozu', 'POWER: [Attack] Energy attack costing 4 stages. DAMAGE: 7 life cards.')
 _TENSHIN_ATK = synthetic('Ally Tenshinhan', 'POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 3 life cards.')
 _YAMCHA_ATK = synthetic('Ally Yamcha', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards.')
+_RECOOME_ATK = synthetic('Ally Recoome', 'POWER: [Attack] Physical attack. DAMAGE: AT stages.')
+_JIECE_ATK = synthetic('Ally Jiece', 'POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 5 life cards.')
 # value = how much the AI wants this Ally when it can choose; attack = the Ally's POWER attack; defend = the kind of attack its POWER stops
 ALLY_MODEL = {
+    # Ginyu Force (Set 1; subtitle 'Ginyu Force'). Burter's +stages and Guldo's combat bonus are in ALLY_PASSIVE below.
+    'Jiece': dict(value=5.0, attack=_JIECE_ATK, defend=None),
+    'Recoome': dict(value=4.0, attack=_RECOOME_ATK, defend=None),
+    'Guldo': dict(value=4.5, attack=None, defend='pe'),
+    'Burter': dict(value=3.0, attack=None, defend=None),
+    # other Villain Allies a Ginyu deck can use (Frog counts every Ally in play)
+    'Android 13': dict(value=3.5, attack=synthetic('Ally Android 13', 'POWER: [Attack] Energy attack costing 1 stage. DAMAGE: 3 life cards.'), defend=None),   # the optional banish-an-Android-to-draw is not modelled
+    'Android 17': dict(value=3.0, attack=synthetic('Ally Android 17', 'POWER: [Attack] Physical attack. DAMAGE: AT +0 life cards.'), defend=None),   # +X life cards, X = Setups in play: see life_adjust
+    'Cell': dict(value=2.0, attack=None, defend=None),
     'Vegeta': dict(value=4.0, attack=_VEGETA_ATK, defend=None),                 # Set 4 Vegeta (Goku): attack AT life cards for 1 stage; hand-stop below
     'Chaozu': dict(value=7.0, attack=_CHAOZU_ATK, defend=None, shuffle_after=True),   # UNVERIFIED timing: shuffled back right after the attack
     'Tenshinhan': dict(value=3.5, attack=_TENSHIN_ATK, defend=None),
@@ -1268,7 +1305,12 @@ def my_allies(p):
 
 def ally_may_act(p, a):
     m = ALLY_MODEL[a.name]
-    return p.stage <= 1 or a.name in p.cb['ally_free'] or p.mp_name in m.get('free_for', ())
+    return p.stage <= 1 or a.name in p.cb['ally_free'] or p.mp_name in m.get('free_for', ()) or ginyu_free(p, a)
+
+
+def ginyu_free(p, a):
+    """Captain Ginyu Level 3 (Body Change): his "Ginyu Force" Allies act whatever the MP's stage; Level 4 (Frog): all Allies do."""
+    return p.mp_name == 'Captain Ginyu' and (p.level == 4 or (p.level == 3 and a.rec.get('subtitle') == 'Ginyu Force'))
 
 
 def search_ally(p, where=('deck',), stage=3, played=False, names=None):
@@ -1305,8 +1347,8 @@ def best_attacker(p):
 
 def ally_can_attack(p, o):
     """At declaration time: could an Ally attack without any free-action card (MP at most 1 stage above 0)?"""
-    return p.stage <= 1 and any(a for a in my_allies(p) if ALLY_MODEL[a.name]['attack'] is not None and f'aatk_{a.name}' not in p.tf
-                                and ALLY_MODEL[a.name]['attack'].cost <= a.astage)
+    return any(a for a in my_allies(p) if (p.stage <= 1 or ginyu_free(p, a)) and ALLY_MODEL[a.name]['attack'] is not None and f'aatk_{a.name}' not in p.tf
+               and ALLY_MODEL[a.name]['attack'].cost <= a.astage)
 
 
 def ally_attack(p, o):
@@ -1338,9 +1380,11 @@ def ally_defend(p, atk, c, kind):
             p.log(f'    ({p.label} places Vegeta from the hand to stop it)')
             return True
     for a in my_allies(p):
-        if ALLY_MODEL[a.name]['defend'] == kind and ally_may_act(p, a) and f'adef_{a.name}' not in p.tf:
+        if ALLY_MODEL[a.name]['defend'] in (kind, 'pe') and ally_may_act(p, a) and f'adef_{a.name}' not in p.tf:
             p.tf[f'adef_{a.name}'] = True
             p.log(f'    ({p.label} stops it with Ally {a.name})')
+            if a.name == 'Guldo':
+                p.cb['guldo'] = True                  # Guldo: your attacks deal +2 stages and +2 life cards this combat
             return True
     return False
 
@@ -2188,6 +2232,178 @@ class BlueTransportationDrill(Behavior):
 
 
 CARD_VALUE.update({"Dr. Wheelo's History": 6, 'Black Confinement': 5, 'Black Invitation': 4, "Dr. Wheelo's Revival": 3, 'Black Taunt': 4})
+# =================================================================================================================
+# Captain Ginyu (Set 1 Leader / Energized, Set 1 Body Change / Frog) and the Ginyu Force Allies (Set 1: Guldo, Recoome, Burter, Jiece).
+# The Set 1 Allies print the subtitle "Ginyu Force", which is what Levels 2-3 count; PZP/FanZ reprints are not used (Sets 1-7 only).
+# NOT MODELLED: Recoome's HIT is simplified (pays 2 MP stages whenever the discard pile has a card), damage redirected to Allies.
+# =================================================================================================================
+GINYU_L1 = synthetic('Ginyu Leader', 'POWER: [Attack] Energy attack costing 3 stages. DAMAGE: 4 life cards.')
+GINYU_L2 = synthetic('Ginyu Energized', 'POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 4 life cards.')
+
+
+def is_gf(a): return a.rec.get('subtitle') == 'Ginyu Force'
+
+
+def _gf_in_play(p): return sum(1 for a in p.allies if is_gf(a))
+
+
+def _ginyu_l1_search(p, o, c): search_ally(p, ('deck',), 4)                      # "search your Life Deck for an Ally and place it into play at 4 stages above 0"
+
+
+def _ginyu_l1_hit(p, o, c, r):
+    a = best_attacker(p) or (max(my_allies(p), key=ally_value) if my_allies(p) else None)
+    if a is not None:
+        p.cb['ally_free'].add(a.name)                                           # "that Ally can make actions regardless of your MP's power stage this combat"
+
+
+def _ginyu_l2_now(p, o, c):
+    search_ally(p, ('discard',), 5)                                             # "search your discard pile for an Ally and place it into play at 5 stages above 0"
+    n = _gf_in_play(p)
+    if n:
+        p.raise_anger(n)                                                        # "Raise your anger X levels"
+
+
+_x('Ginyu Leader', immediate=_ginyu_l1_search, hit=_ginyu_l1_hit)
+_x('Ginyu Energized', immediate=_ginyu_l2_now)
+
+
+class _GinyuAttack(Behavior):
+    card = None
+
+    def has_power(self, p): return f'{self.card.name}' not in p.tf and p.stage >= self.card.cost
+
+    def power(self, p, opp):
+        if p.stage >= self.card.cost and once_turn(p, self.card.name):
+            return p.attack(opp, power=self.card)
+        return False
+
+
+@mp('Captain Ginyu', 'Leader')
+class GinyuL1(_GinyuAttack):
+    card = GINYU_L1
+
+
+@mp('Captain Ginyu', 'Energized')
+class GinyuL2(_GinyuAttack):
+    card = GINYU_L2
+
+
+@mp('Captain Ginyu', 'Body Change')
+class GinyuL3(Behavior):
+    """[Continuous]: your Ginyu Force Allies act whatever the MP's stage and cannot be discarded (by critical damage effects); all your attacks +2 life cards."""
+    def life_bonus(self, p, card, opp): return 2
+    def protect_allies(self, p): return all(is_gf(a) for a in p.allies)
+
+
+@mp('Captain Ginyu', 'Frog')
+class GinyuL4(Behavior):
+    """[Continuous]: your Allies act whatever the MP's stage and cannot be discarded; all your attacks +X life cards, X = Allies you have in play."""
+    def life_bonus(self, p, card, opp): return len(p.allies)
+    def protect_allies(self, p): return True
+
+
+@ally_passive('Burter', 'Ginyu Force')
+class AllyBurter(Behavior):
+    def stage_bonus(self, p, card, opp): return 2 if p.mp_name == 'Captain Ginyu' else 1
+
+
+@ally_passive('Guldo', 'Ginyu Force')
+class AllyGuldo(Behavior):
+    """Defense: stops a physical or energy attack; your attacks deal +2 stages and +2 life cards this combat (p.cb['guldo'], set in ally_defend)."""
+    def stage_bonus(self, p, card, opp): return 2 if p.cb.get('guldo') else 0
+    def life_bonus(self, p, card, opp): return 2 if p.cb.get('guldo') else 0
+
+
+@ally_passive('Cell', 'Larval')
+class AllyCell(Behavior):
+    """[Continuous]: Styled attacks deal +1 life card (both players'); non-Styled attacks cost +1 stage (NOT MODELLED)."""
+    def life_bonus(self, p, card, opp): return 1 if card.style and card.style == p.styled() else 0
+    def incoming_life(self, p, card, atk): return 1 if card.style and card.style == atk.styled() else 0
+
+
+_x('Ally Jiece', immediate=lambda p, o, c: p.raise_anger(1))                    # "raise a player's anger 1 level": the AI raises its own
+
+
+def _recoome_hit(p, o, c, r):
+    if p.discard and p.stage >= 2:                                              # "you may have your MP pay 2 stages to draw the bottom card of your discard pile"
+        p.stage -= 2
+        p.hand.append(p.discard.pop(0))
+
+
+_x('Ally Recoome', hit=_recoome_hit)
+
+
+# ---- Blue cards used by the Captain Ginyu decks -------------------------------------------------------------------------
+def _takedown(p, o, c):
+    """DAMAGE: 4 stages. Lower your opponent's anger 1 level (parsed). If your opponent's anger was lowered to 0, lower his MP 1 level.
+    SIMPLIFIED (UNVERIFIED): any anger of 0 after the card lowered it counts, including an opponent who already had 0."""
+    if o.anger == 0 and o.level > 1:
+        o.change_level(-1)
+
+
+def _betrayal(p, o, c):
+    """Banish an opponent's Setup, Drill or Ally in play (the AI takes a Drill, then an Ally, then a Setup)."""
+    if o.drills:
+        o.banished.append(o.drills.pop())
+    elif my_allies(o):
+        o.leave_play(max(my_allies(o), key=ally_value), 'banish')
+    elif o.setups:
+        o.banished.append(o.setups.pop())
+
+
+def _lunar_ray(p, o, c):
+    """You may search your discard pile for an Ally and place it into play at 3 stages above 0 (HIT: raise that Ally to its highest power stage)."""
+    got = search_ally(p, ('discard',), 3)
+    p.cb['lunar'] = got
+
+
+def _lunar_hit(p, o, c, r):
+    a = p.cb.get('lunar')
+    if a is not None and a in p.allies:
+        a.astage = 10
+
+
+def _upward_barrage(p, o, c):
+    """You may place a Styled Setup from your hand into play. If you do, you may raise or lower a player's anger 2 levels (the AI raises its own)."""
+    x = find_in(p.hand, lambda y: y.ctype == 'Setup' and y.style and y.style == p.styled())
+    if x is not None:
+        p.hand.remove(x)
+        p.setups.append(x)
+        for b in p.behaviors():
+            b.on_enters_play(p, o, x)
+        p.raise_anger(2)
+
+
+def _narrow_escape(p, o, x, c):
+    """Defense: choose 2 Energy Combat cards in your discard pile and place them on top of your Life Deck."""
+    for y in sorted([z for z in p.discard if z.ctype == 'Energy Combat'], key=p.value, reverse=True)[:2]:
+        p.discard.remove(y)
+        p.deck.insert(0, y)
+
+
+def _shifting(p, o, x, c):
+    x.banish_after = p.anger < 3                    # "If your current anger level is 3 or higher, discard after use instead."
+
+
+_x('Blue Takedown', immediate=_takedown)
+_x('Blue Betrayal', immediate=_betrayal)
+_x('Blue Lunar Ray', immediate=_lunar_ray, hit=_lunar_hit)
+_x('Blue Upward Barrage', immediate=_upward_barrage)
+_x('Blue Narrow Escape', defend=_narrow_escape)
+_x('Blue Shifting Maneuver', defend=_shifting)
+
+
+@passive('Blue Positioning Drill')
+class BluePositioningDrill(Behavior):
+    """[Continuous]: whenever you stop an attack, place a Styled card from your discard pile on top of your Life Deck (the AI takes the highest-value one)."""
+    def on_stop_made(self, p, opp, card):
+        c = [x for x in p.discard if x.style and x.style == p.styled()]
+        if c:
+            x = max(c, key=p.value)
+            p.discard.remove(x)
+            p.deck.insert(0, x)
+
+
 NEVER_PLAY = {"Time Is A Warrior's Tool", 'Villainous Energy Sphere', 'Villainous Visage', "Piccolo's Weighted Clothing",
               'Heroic Energy Sphere'}
 
