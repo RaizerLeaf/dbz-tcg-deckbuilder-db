@@ -1383,6 +1383,76 @@ def _drill_from_discard(p):
         enter_play(p, x)
 
 
+# ---- Orange Uppercut / Orange Enraged Bash: situational searches (owner: pick what the current situation needs) -------------
+def _mppv_threat(opp):
+    """The opponent is close to winning by MPPV (or to advancing a level fast): anger-lowering cards are what I need."""
+    return (opp.level == 4 and opp.anger >= 3) or opp.anger >= 4
+
+
+def _energy_need(p, opp, c):
+    """How much the current situation wants this Styled Energy Combat card (used by Orange Uppercut's search)."""
+    v = p.value(c)
+    lower = c.anger_opp + c.anger_opp_hit
+    if _mppv_threat(opp):
+        v += 10 * (lower >= 2) + 4 * (lower >= 1) + c.anger_self
+    if (opp.balls or B_has_ally(opp)) and (c.crit_now or c.crit_hit):
+        v += 8                      # a critical damage effect captures a Dragon Ball / discards an Ally (Dragon Ball Victory decks)
+    if not any(x.is_def for x in p.hand) and c.is_def and 'e' in c.stops:
+        v += 6                      # nothing to block with
+    if c.cost and p.stage - 2 < c.cost:
+        v -= 6                      # could not afford it after paying for the search
+    return v
+
+
+def B_has_ally(opp):
+    return bool(my_allies(opp))
+
+
+def _uppercut(p, o, c):
+    if p.stage < 3:
+        return
+    style = p.styled()
+    cands = [x for x in p.deck if x.ctype == 'Energy Combat' and style and x.style == style]
+    if not cands:
+        return
+    x = max(cands, key=lambda z: _energy_need(p, o, z))
+    p.stage -= 2
+    p.deck.remove(x)
+    p.rng.shuffle(p.deck)           # a search shuffles the Life Deck (Rulebook 3.0)
+    p.hand.append(x)
+    p.cb['searched'] = True
+
+
+def _drill_need(p, opp, c):
+    v = p.value(c)
+    if c.name == 'Orange Devouring Drill':
+        v += 12 if p.level < 4 else -20     # a level-up only helps below Level 4
+    if p.level == 4 or opp.level == 4:
+        v += 6 * bool(c.name in ('Orange Burning Aura Drill', 'Orange Steady Drill'))
+    elif c.name in ('Orange Burning Aura Drill', 'Orange Steady Drill'):
+        v += 2
+    return v
+
+
+def _rejuvenate_drill(p, zone):
+    cands = [x for x in zone if x.ctype == 'Drill']
+    if not cands:
+        return
+    x = max(cands, key=lambda z: _drill_need(p, p.opp, z))
+    zone.remove(x)
+    p.deck.append(x)                # Rejuvenate: bottom of the Life Deck; the next search shuffles it back in
+    for b in p.behaviors():
+        b.on_rejuvenate(p)
+    if any(d.name == 'Orange Intimidating Drill' for d in p.drills) and once(p, 'intimidating'):
+        p.rng.shuffle(p.deck)
+        p.draw(1)
+
+
+_x('Orange Uppercut', immediate=_uppercut)
+_x('Orange Enraged Bash', immediate=lambda p, o, c: _rejuvenate_drill(p, p.discard),
+   hit=lambda p, o, c, r: _rejuvenate_drill(p, p.banished))
+
+
 def _overhead(p, o, c, r):
     if p.hand:
         p.hand.sort(key=p.value)
