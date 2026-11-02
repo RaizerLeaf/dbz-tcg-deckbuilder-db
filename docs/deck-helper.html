@@ -204,6 +204,21 @@ window.DBZ_INLINE = {"cards":{"cards":[{"id":"S01_BST_01","name":"Namek Dragon B
     return parts.concat(toks).join('.');
   }
 
+  // The app's MP qualifier "Vegeta (Awakening)" names the set the four levels come from (owner, 2026-11-02); same table as deckcode.SET_BY_NAME.
+  const SET_BY_NAME = { premiere: 1, 'heroes & villains': 2, 'movie collection': 3, evolution: 4, perfection: 5, vengeance: 6, awakening: 7 };
+  function qualifierOf(mpName) {
+    const m = mpName.match(/\(([^)]*)\)\s*$/);
+    return m ? m[1].trim() : null;
+  }
+  function groupsFor(data, base, qualifier) {
+    let hits = data.raw.mps.filter((g) => g.name === base);
+    const set = SET_BY_NAME[(qualifier || '').toLowerCase()];
+    if (hits.length > 1 && set) {
+      hits = hits.filter((g) => ['1', '2', '3', '4'].every((lv) => g.levels[lv].some((p) => p.set === set)));
+    }
+    return hits;
+  }
+
   function mpGroup(data, deck) {
     const mps = data.raw.mps;
     if (deck.mpLevels) {
@@ -213,7 +228,7 @@ window.DBZ_INLINE = {"cards":{"cards":[{"id":"S01_BST_01","name":"Namek Dragon B
       if (ids.length === 1) return mps[ids[0]];
     }
     const base = deck.mpName.replace(/\s*\(.*\)$/, '');
-    const hits = mps.filter((g) => g.name === base);
+    const hits = groupsFor(data, base, qualifierOf(deck.mpName));
     return hits.length === 1 ? hits[0] : null;
   }
 
@@ -223,6 +238,9 @@ window.DBZ_INLINE = {"cards":{"cards":[{"id":"S01_BST_01","name":"Namek Dragon B
     if (!g) return { errors: ['cannot find the MP group for ' + JSON.stringify(deck.mpName).replace(/"/g, "'")], warnings: warn };
     const mp = g.name, align = g.alignment;
     const mastery = data.masteries[deck.mastery];
+    if (align === 'Hero' && data.raw.mps.filter((x) => x.name === mp).length > 1 && !qualifierOf(deck.mpName)) {
+      err.push('the MP name ' + JSON.stringify(deck.mpName).replace(/"/g, "'") + " exists as Hero and Villain and the app reads a plain name as the Villain (owner, 2026-11-02: every Hero Vegeta level was rejected); write the Hero's set as a qualifier, e.g. 'Vegeta (Awakening)'");
+    }
     if ((mastery.style === 'Saiyan' || mastery.style === 'Namekian') && !g.heritage[mastery.style]) err.push(mp + ' is not on the ' + mastery.style + ' heritage list');
     if (deck.mpLevels) {
       deck.mpLevels.forEach((code, idx) => {
@@ -311,6 +329,12 @@ window.DBZ_INLINE = {"cards":{"cards":[{"id":"S01_BST_01","name":"Namek Dragon B
     const d = parseList(data, textBlock);
     if (!d.mp) return { error: ['no "MP:" line'] };
     const groups = data.raw.mps.filter((g) => norm(g.name) === norm(d.mp.base) && (!d.mp.align || g.alignment.toLowerCase() === d.mp.align.toLowerCase()));
+    if (groups.length > 1 && d.mp.app) {          // "Vegeta (Awakening)": the qualifier picks the group whose levels come from that set
+      const q = groupsFor(data, groups[0].name, qualifierOf(d.mp.app));
+      const keep = groups.filter((g) => q.indexOf(g) >= 0);
+      groups.length = 0;
+      keep.forEach((g) => groups.push(g));
+    }
     if (groups.length !== 1) {
       return { error: ['MP ' + JSON.stringify(d.mp.base).replace(/"/g, "'") + ': ' + (groups.length ? 'exists as Hero and Villain, write "MP: ' + d.mp.base + ' (Hero)" or "(Villain)"' : 'not found')] };
     }
@@ -358,7 +382,7 @@ window.DBZ_INLINE = {"cards":{"cards":[{"id":"S01_BST_01","name":"Namek Dragon B
     return parts.instructions + '\n' + scope + '\n\n' + files.join('\n');
   }
 
-  return { Data: Data, norm: norm, quote: quote, decodeCode: decodeCode, encode: encode, mpGroup: mpGroup, checkDeck: checkDeck, parseList: parseList, convert: convert, buildPack: buildPack, STYLES: STYLES };
+  return { Data: Data, norm: norm, quote: quote, decodeCode: decodeCode, encode: encode, mpGroup: mpGroup, groupsFor: groupsFor, checkDeck: checkDeck, parseList: parseList, convert: convert, buildPack: buildPack, STYLES: STYLES };
 });
 
 </script>

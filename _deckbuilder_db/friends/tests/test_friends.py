@@ -17,7 +17,7 @@ def deck_to_list(code):
     d = dc.decode(code)
     mp = d['mp_name']
     g = dc.mp_group(d)
-    if g is not None and sum(1 for x in dc.MPS if x['name'] == g['name']) > 1:
+    if g is not None and sum(1 for x in dc.MPS if x['name'] == g['name']) > 1 and not dc.mp_qualifier(mp):
         mp += f" ({g['alignment'].capitalize()})"   # Vegeta exists as Hero and Villain; the list must say which
     lines = [f"Name: {d['name']}", f"MP: {mp}"]
     if d['mp_levels']:
@@ -100,6 +100,26 @@ class AllyAlignment(unittest.TestCase):
         d['cards'][korin] += 1
         errors = dc.check(d)[0]
         self.assertIn('Korin: Hero Ally in a Villain deck', errors)
+
+
+class HeroVegetaQualifier(unittest.TestCase):
+    """Owner, 2026-11-02: the plain MP name 'Vegeta' is read as the Villain, so Hero Vegeta must be written 'Vegeta (Awakening)'."""
+    def test_qualifier_picks_the_hero_group_with_that_sets_levels(self):
+        self.assertEqual([g['mp_key'] for g in dc.groups_for('Vegeta')], ['vegeta|hero', 'vegeta|villain'])
+        self.assertEqual([g['mp_key'] for g in dc.groups_for('Vegeta', 'Awakening')], ['vegeta|hero'])
+        g = dc.groups_for('Vegeta', 'Awakening')[0]
+        self.assertEqual(dc.qualified_levels(g, 'Awakening'), ['S07_DR_DR6', 'S07_DR_DR7', 'S07_DR_DR8', 'S07_DR_DR9'])
+
+    def test_plain_vegeta_with_hero_levels_is_an_error_but_the_qualified_deck_is_clean(self):
+        good = dc.decode((ROOT / 'decks' / 'vegeta_pinnacle_red_ascension.txt').read_text().strip())
+        self.assertEqual(dc.check(good), ([], []))
+        bad = dict(good, mp_name='Vegeta', mp_levels=dc.qualified_levels(dc.groups_for('Vegeta', 'Awakening')[0], 'Awakening'))
+        self.assertTrue(any('reads a plain name as the Villain' in e for e in dc.check(bad)[0]), dc.check(bad)[0])
+
+    def test_friends_list_with_the_qualifier_converts(self):
+        res, problems = l2c.convert("MP: Vegeta (Awakening)\nMastery: Red Ascension Mastery\n3 Red Blocking Hand")
+        self.assertIsNotNone(res, problems)
+        self.assertIn('Vegeta%20%28Awakening%29', res[0])
 
 
 if __name__ == '__main__':

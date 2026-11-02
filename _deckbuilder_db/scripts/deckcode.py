@@ -145,6 +145,43 @@ def decode(code):
     return deck
 
 
+SET_BY_NAME = {c['set_name'].lower(): c['set_number'] for c in CARDS if c['set_number'] and c['set_number'] <= 7 and c['set_name']}
+
+
+def mp_qualifier(mp_name):
+    """'Vegeta (Awakening)' -> 'Awakening'; None when the name has no qualifier."""
+    m = re.search(r'\(([^)]*)\)\s*$', mp_name)
+    return m[1].strip() if m else None
+
+
+def _legal_print(p):
+    return bool(p['set_number']) and p['set_number'] <= 7 and not p['card_id'].startswith('PZP') and '_RST' not in p['card_id']
+
+
+def groups_for(base, qualifier=None):
+    """MP groups with this name. When the name exists for both alignments (Vegeta), the app's qualifier "(Awakening)" names the SET the four
+    levels come from (owner, 2026-11-02: "Vegeta (Awakening)" is the Hero Vegeta whose levels are Set 7 DR6-DR9); keep the groups that have all four levels in that set."""
+    hits = [g for g in MPS if g['name'] == base]
+    s = SET_BY_NAME.get((qualifier or '').lower())
+    if len(hits) > 1 and s:
+        hits = [g for g in hits if all(any(_legal_print(p) and p['set_number'] == s for p in g['levels'][lv]) for lv in '1234')]
+    return hits
+
+
+def qualified_levels(g, qualifier):
+    """The four level card ids the app uses for 'Name (Qualifier)' with no printings field (UNVERIFIED beyond Vegeta (Awakening)): the earliest printing in that set."""
+    s = SET_BY_NAME.get((qualifier or '').lower())
+    if not s:
+        return None
+    out = []
+    for lv in '1234':
+        c = [p for p in g['levels'][lv] if _legal_print(p) and p['set_number'] == s]
+        if not c:
+            return None
+        out.append(min(c, key=lambda p: (_ORDER.get(p['collection'], 3), p['card_id']))['card_id'])
+    return out
+
+
 def mp_group(deck):
     if deck['mp_levels']:
         ids = set(deck['mp_levels'])
@@ -152,7 +189,7 @@ def mp_group(deck):
             if ids <= {p['card_id'] for lv in g['levels'].values() for p in lv}:
                 return g
     base = re.sub(r'\s*\(.*\)$', '', deck['mp_name'])  # "Trunks (Awakening)" -> "Trunks"
-    hits = [g for g in MPS if g['name'] == base]
+    hits = groups_for(base, mp_qualifier(deck['mp_name']))
     return hits[0] if len(hits) == 1 else None
 
 
@@ -164,6 +201,9 @@ def check(deck):
         return [f"cannot find the MP group for {deck['mp_name']!r}"], warn
     mp, align = g['name'], g['alignment']
     mastery = BY_ID[deck['mastery']]
+    if align == 'Hero' and sum(1 for x in MPS if x['name'] == mp) > 1 and not mp_qualifier(deck['mp_name']):
+        err.append(f"the MP name {deck['mp_name']!r} exists as Hero and Villain and the app reads a plain name as the Villain "
+                   f"(owner, 2026-11-02: every Hero Vegeta level was rejected); write the Hero's set as a qualifier, e.g. 'Vegeta (Awakening)'")
     if ctype(mastery) != 'Mastery':
         err.append(f"{mastery['card_name']} is not a Mastery")
     if mastery['style'] in ('Saiyan', 'Namekian') and not g['panz_heritage'].get(mastery['style']):

@@ -77,9 +77,11 @@ def parse(textblock):
     return d
 
 
-def find_group(mp, align):
+def find_group(mp, align, app_name=None):
     base = norm(mp)
     hits = [g for g in dc.MPS if norm(g['name']) == base and (not align or g['alignment'].lower() == align.lower())]
+    if len(hits) > 1 and app_name:         # "Vegeta (Awakening)": the qualifier names the set the four levels come from
+        hits = [g for g in dc.groups_for(hits[0]['name'], dc.mp_qualifier(app_name)) if g in hits]
     return hits
 
 
@@ -100,7 +102,7 @@ def convert(textblock):
     if not d['mp']:
         return None, ['no "MP:" line']
     mp, align, app_name = d['mp']
-    groups = find_group(mp, align)
+    groups = find_group(mp, align, app_name)
     if len(groups) != 1:
         return None, [f'MP {mp!r}: ' + ('not found' if not groups else 'exists as Hero and Villain, write "MP: %s (Hero)" or "(Villain)"' % mp)]
     g = groups[0]
