@@ -1,0 +1,46 @@
+CARDS THAT SAY "YOU CANNOT WIN BY MPPV" - PanZ Sets 1-7
+Source: cards.json (text_current if present, else text_as_printed). Text comes from the card
+images via the database; not re-checked against the images.
+27 cards in booster/starter/DR sets + 4 promo reprints.
+
+=== ALWAYS ON OR TIMED ===
+Saiyan Empowered Mastery (Mastery, Saiyan)   S01_BST_145, S01_STR_S25   Continuous (always)
+Broly (Ally)                                 S06_BST_81                 Continuous (always)
+Lord Slug (MP)                               S03_BST_72                 Always, per database text (check image)
+Paragus (Ally)                               S06_BST_83                 Until the end of your opponent's next turn
+Gohan's Backlash (Physical Combat, Freestyle) S07_BST_133               On HIT, until the start of your next turn
+
+=== WHEN YOU USE OR PLAY THE CARD ===
+Goku's Kaio-Ken (Event, Freestyle)           S01_BST_117   You use it
+Captain Ginyu's Body Switch (Event, Freestyle) S01_BST_153 You use it
+It's Over 9,000! (Event, Freestyle)          S01_BST_60    You use it
+Red Escape (Energy Combat, Red)              S01_BST_97    The turn you play it
+Orange Devouring Drill (Drill, Orange)       S01_STR_S40   You use the Drill's effect
+Trunks' Sword Stance (Event, Freestyle)      S02_BST_140   You use it
+Turles' Fruit (Setup, Freestyle)             S03_BST_133   You use it
+Blue Dominance (Setup, Blue)                 S03_BST_82    You use it
+Android Presence (Event, Freestyle)          S04_BST_135   You use it
+Saiyan Tracking Blast (Energy Combat, Saiyan) S04_BST_122  You use it
+Clash of Wills (Event, Freestyle)            S05_BST_112   You use it
+Unleashed (Event, Freestyle)                 S06_BST_142   You use it
+  (Unleashed also says "If your opponent cannot win by MPPV, destroy any number of cards
+   attached to your MP" - that clause is not a restriction on you.)
+
+=== WHEN YOU ADVANCE A PERSONALITY LEVEL WITH THE CARD ===
+I'll Dig Your Grave! (Physical Combat, Freestyle) S03_BST_141
+Namekian Enhancement (Event, Namekian)       S04_BST_109
+Namekian Leaping Kick (Physical Combat, Namekian) S04_BST_74
+Black Discovery (Setup, Black)               S05_BST_116
+Android 13 (MP)                              S06_BST_62
+Gohan (MP)                                   S06_BST_73
+Cell (MP)                                    S05_DR_DR3
+
+=== WHEN YOU RAISE YOUR ANGER WITH THE CARD ===
+Tenshinhan (MP)                              S02_BST_67
+Cell's Draining Attack (Physical Combat, Freestyle) S05_BST_107
+
+=== PROMO REPRINTS (excluded by default deck-building assumptions) ===
+Captain Ginyu's Body Switch                  S01_PRO_P19
+Blue Dominance                               S05_PRO_P1
+Orange Devouring Drill                       S06_PRO_P8
+I'll Dig Your Grave!                         S07_PRO_P16
