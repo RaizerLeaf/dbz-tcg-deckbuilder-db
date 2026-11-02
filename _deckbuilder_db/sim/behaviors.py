@@ -19,6 +19,8 @@ class Behavior:
     def on_crit_effect(self, p): pass
     def on_crit_damage(self, p, opp): pass
     def on_advance(self, p): pass
+    def on_opp_advance(self, p, opp): pass             # my opponent's MP advanced a level (Broly Levels 1-3 drain stages)
+    def banish_damage(self, p, card): return False      # damage dealt by my attack `card` is banished instead of destroyed (Broly Level 4)
     def on_rejuvenate(self, p): pass
     def on_shuffle_in(self, p): pass
     def on_ally_rejuvenated(self, p): pass
@@ -602,6 +604,107 @@ class NappaL3(_NappaAttack):
 class NappaL4(Behavior):
     def stage_bonus(self, p, card, opp): return 4
     def unprevented(self, p, card, opp): return opp.power() == 0       # damage cannot be prevented while the opponent's MP is at power level 0
+
+# =================================================================================================================
+# Broly (Set 6 levels: Survivor, Determined, Legendary, Relentless). All four are modelled from the printed text.
+# "Reveal N attack cards from your hand" is a free condition (revealing costs nothing): the AI always takes the option when it can.
+# NOT MODELLED: Level 3's "all of your opponent's personalities lose 7 stages" only hits the MP (Allies are not stage-tracked for this).
+# =================================================================================================================
+BROLY_L1 = synthetic('Survivor', 'POWER: [Attack] Physical attack. Raise your anger 1 level. DAMAGE: 4 stages.')
+BROLY_L3 = synthetic('Legendary', 'POWER: [Attack] Physical attack. DAMAGE: 4 stages.')
+
+
+def _attack_cards_in_hand(p, n):
+    return sum(1 for x in p.hand if x.is_atk) >= n
+
+
+def _banish_opp_support(o, ally=False):
+    """Banish every Setup and Drill (and Ally if `ally`) the opponent has in play."""
+    n = 0
+    for z in (o.setups, o.drills):
+        while z:
+            o.banished.append(z.pop())
+            n += 1
+    if ally:
+        for a in list(my_allies(o)):
+            o.leave_play(a, 'banish')
+            n += 1
+    return n
+
+
+class _BrolyBase(Behavior):
+    drain = 0            # stages the opponent's MP loses after it advances
+    phys_bonus = 0
+
+    def on_opp_advance(self, p, opp):
+        if self.drain:
+            opp.lose_stages(self.drain)
+
+    def stage_bonus(self, p, card, opp):
+        # "Physical attacks performed by this personality": not an Ally's attack
+        return self.phys_bonus if (card.phys and getattr(p, 'cur_ally', None) is None) else 0
+
+
+@mp('Broly', 'Survivor')
+class BrolyL1(_BrolyBase):
+    drain = 5
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'broly1'):
+            return p.attack(opp, power=BROLY_L1)
+        return False
+
+    def on_play(self, p, opp, card):
+        if card.name == 'Survivor' and _attack_cards_in_hand(p, 2):      # may reveal 2 attack cards: banish the top card of his Life Deck
+            opp.mill(1, 'banish')
+
+
+@mp('Broly', 'Determined')
+class BrolyL2(_BrolyBase):
+    drain, phys_bonus = 7, 2
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'broly2'):
+            opp.mill(1, 'banish')
+            if _attack_cards_in_hand(p, 2) and (opp.setups or opp.drills):
+                z = opp.setups if opp.setups else opp.drills
+                opp.banished.append(z.pop())
+            return True
+        return False
+
+
+@mp('Broly', 'Legendary')
+class BrolyL3(_BrolyBase):
+    drain, phys_bonus = 7, 3
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'broly3'):
+            return p.attack(opp, power=BROLY_L3)
+        return False
+
+    def on_play(self, p, opp, card):
+        if card.name == 'Legendary' and _attack_cards_in_hand(p, 2):     # may reveal 2 attack cards: draw a card
+            p.draw(1)
+
+
+@mp('Broly', 'Relentless')
+class BrolyL4(_BrolyBase):
+    phys_bonus = 4
+    def has_power(self, p): return True
+    def banish_damage(self, p, card): return bool(card.phys and getattr(p, 'cur_ally', None) is None)
+    def entering_combat(self, p, opp, defender): p.cb['noend'] = True       # the opponent cannot use Endurance
+
+    def power(self, p, opp):
+        if once_turn(p, 'broly4'):
+            opp.mill(2, 'banish')
+            if _attack_cards_in_hand(p, 4):
+                _banish_opp_support(opp, ally=True)
+            return True
+        return False
+
 
 # =================================================================================================================
 # Dr. Wheelo
@@ -1381,6 +1484,76 @@ def _drill_from_discard(p):
     if x:
         p.discard.remove(x)
         enter_play(p, x)
+
+
+# ---- Orange Uppercut / Orange Enraged Bash: situational searches (owner: pick what the current situation needs) -------------
+def _mppv_threat(opp):
+    """The opponent is close to winning by MPPV (or to advancing a level fast): anger-lowering cards are what I need."""
+    return (opp.level == 4 and opp.anger >= 3) or opp.anger >= 4
+
+
+def _energy_need(p, opp, c):
+    """How much the current situation wants this Styled Energy Combat card (used by Orange Uppercut's search)."""
+    v = p.value(c)
+    lower = c.anger_opp + c.anger_opp_hit
+    if _mppv_threat(opp):
+        v += 10 * (lower >= 2) + 4 * (lower >= 1) + c.anger_self
+    if (opp.balls or B_has_ally(opp)) and (c.crit_now or c.crit_hit):
+        v += 8                      # a critical damage effect captures a Dragon Ball / discards an Ally (Dragon Ball Victory decks)
+    if not any(x.is_def for x in p.hand) and c.is_def and 'e' in c.stops:
+        v += 6                      # nothing to block with
+    if c.cost and p.stage - 2 < c.cost:
+        v -= 6                      # could not afford it after paying for the search
+    return v
+
+
+def B_has_ally(opp):
+    return bool(my_allies(opp))
+
+
+def _uppercut(p, o, c):
+    if p.stage < 3:
+        return
+    style = p.styled()
+    cands = [x for x in p.deck if x.ctype == 'Energy Combat' and style and x.style == style]
+    if not cands:
+        return
+    x = max(cands, key=lambda z: _energy_need(p, o, z))
+    p.stage -= 2
+    p.deck.remove(x)
+    p.rng.shuffle(p.deck)           # a search shuffles the Life Deck (Rulebook 3.0)
+    p.hand.append(x)
+    p.cb['searched'] = True
+
+
+def _drill_need(p, opp, c):
+    v = p.value(c)
+    if c.name == 'Orange Devouring Drill':
+        v += 12 if p.level < 4 else -20     # a level-up only helps below Level 4
+    if p.level == 4 or opp.level == 4:
+        v += 6 * bool(c.name in ('Orange Burning Aura Drill', 'Orange Steady Drill'))
+    elif c.name in ('Orange Burning Aura Drill', 'Orange Steady Drill'):
+        v += 2
+    return v
+
+
+def _rejuvenate_drill(p, zone):
+    cands = [x for x in zone if x.ctype == 'Drill']
+    if not cands:
+        return
+    x = max(cands, key=lambda z: _drill_need(p, p.opp, z))
+    zone.remove(x)
+    p.deck.append(x)                # Rejuvenate: bottom of the Life Deck; the next search shuffles it back in
+    for b in p.behaviors():
+        b.on_rejuvenate(p)
+    if any(d.name == 'Orange Intimidating Drill' for d in p.drills) and once(p, 'intimidating'):
+        p.rng.shuffle(p.deck)
+        p.draw(1)
+
+
+_x('Orange Uppercut', immediate=_uppercut)
+_x('Orange Enraged Bash', immediate=lambda p, o, c: _rejuvenate_drill(p, p.discard),
+   hit=lambda p, o, c, r: _rejuvenate_drill(p, p.banished))
 
 
 def _overhead(p, o, c, r):

@@ -111,6 +111,8 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `on_crit_damage(p, opp)` | you dealt critical damage (5+ life cards) | nothing |
 | `crit_threshold(p)` / `own_crit_threshold(p)` | the life-card count that counts as critical (against you / for your attacks) | number or `None` |
 | `on_advance(p)` | you advanced a level | nothing |
+| `on_opp_advance(p, opp)` | your opponent's MP advanced a level (after it changed level and gained its 10 stages) | nothing |
+| `banish_damage(p, card)` | the damage of your attack `card` is applied | True = the life cards it removes are banished, not put in the discard pile |
 | `on_rejuvenate(p)` | after you Rejuvenate (only if a card actually moved) | nothing |
 | `on_shuffle_in(p)` | one of your effects shuffled cards into your Life Deck (call `shuffle_into_deck(p, cards)` from the card's hook) | nothing |
 | `rejuv_amount(p, n)` | an in-combat Rejuvenate of `n` cards is about to happen | new amount (chained; Lord Slug Level 3 doubles the first one each combat) |
