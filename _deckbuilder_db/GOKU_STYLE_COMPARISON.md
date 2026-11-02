@@ -47,3 +47,9 @@ Not chosen: Black (Black Conflict would turn Goku's +life-card attacks into crit
 - **(unverified)** Whether the app's code for this MP must carry `(Awakening)`.
 - Not modelled: damage redirected to Allies, so Allies are never used as shields; Ally Continuous powers other than the ones coded.
 - The simulator is a toy model with one simple AI for both sides: these are comparisons between lists, not predictions of real games.
+
+## Update: Tenshinhan code fixed (the app rejected `EV-S60`)
+The owner's app answered "Unknown card EV-S60" (Tenshinhan, Set 4 starter). It is a reprint of Set 1 `C9`, and the app only knows a card by its first printing, so all three decks now use `C9`
+(same card for the simulator and the rules: "Heroes only" is fine for Goku). `deckcode.py check` did not catch it because it groups Allies by printed text and `C9` and `EV-S60` differ only by the
+"(Heroes only.)" line. Vegeta `EV-U93` is a different card from the Villains-only `HV-U72` and loaded fine. Re-run after the roster grew to 25 decks (round robin, after the final rebuild): Saiyan Rampaging 59.0%, Red Enraged 58.9%,
+Blue Tag Team 52.2%, so Red and Saiyan are a tie within the noise; Blue stays third.

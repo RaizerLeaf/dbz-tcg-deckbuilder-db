@@ -23,8 +23,12 @@ def read_code(arg):
     return arg.strip()
 
 
-def default_levels(dc, group):
-    """Earliest legal printing of each level (Sets 1-7, no promos / Restored), like the app's default."""
+def default_levels(dc, group, qualifier=None):
+    """Earliest legal printing of each level (Sets 1-7, no promos / Restored), like the app's default.
+    With an app qualifier such as "Vegeta (Awakening)" the levels come from that set (owner-confirmed for Hero Vegeta)."""
+    q = dc.qualified_levels(group, qualifier) if qualifier else None
+    if q:
+        return q
     out = []
     for lv in '1234':
         cands = [p for p in group['levels'][lv] if p['set_number'] and p['set_number'] <= 7
@@ -41,7 +45,7 @@ def load(arg, no_mppv=False):
     g = dc.mp_group(d)
     if g is None:
         raise ValueError(f"cannot identify the MP for {d['mp_name']!r}; give an explicit printings field in the code")
-    levels = d['mp_levels'] or default_levels(dc, g)
+    levels = d['mp_levels'] or default_levels(dc, g, dc.mp_qualifier(d['mp_name']))
     recs = records_by_id()
     used = list(levels) + [d['mastery']] + list(d['cards'])
     fanz = sorted({recs[i]['card_name'] for i in used if recs[i].get('era') != 'PanZ' or not recs[i]['set_number'] or recs[i]['set_number'] > 7})

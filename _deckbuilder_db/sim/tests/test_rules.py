@@ -861,6 +861,13 @@ class CellJr(unittest.TestCase):
         self.assertGreaterEqual(before - len(b.deck), 3)
 
 
+class QualifiedMp(unittest.TestCase):
+    def test_vegeta_awakening_code_without_printings_plays_the_awakening_levels(self):
+        from sim.loader import load
+        sp = load('decks/vegeta_pinnacle_red_ascension.txt')
+        self.assertEqual(sp.level_ids, ['S07_DR_DR6', 'S07_DR_DR7', 'S07_DR_DR8', 'S07_DR_DR9'])
+
+
 class Smoke(unittest.TestCase):
     def test_random_games_finish_without_errors(self):
         a = spec('A', 'Piccolo', ['Stoic', 'Combat Stance', 'Unleashed', 'Fused'], 'Red Enraged Mastery', 'Red Energy Blast')
