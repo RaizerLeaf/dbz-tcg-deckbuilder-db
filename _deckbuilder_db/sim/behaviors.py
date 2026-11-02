@@ -1222,6 +1222,8 @@ def life_adjust(p, opp, c):
     adj = 0
     if c.name == 'Ready For Battle':
         adj -= len(opp.hand)
+    if c.name == 'Turles Conquering':              # DAMAGE: X stages and X life cards, X = the power stages the opponent's MP is above 0
+        adj += opp.stage
     if c.name == 'Namekian Dragon Blast':          # DAMAGE: 4 + X life cards, X = Dragon Balls in play (anyone's)
         adj += len(p.balls) + len(opp.balls)
     if (c.life or c.life_at) and any(b.name == 'Earth Dragon Ball 1' for b in p.balls + opp.balls):
@@ -2625,3 +2627,75 @@ def choose_action(a, d):
     ok = a.attack(d, power=c)
     (a.banished if c.banish_after else a.discard).append(c)
     return ok
+
+
+# =================================================================================================================
+# Turles (Set 3 levels: Shadowy, Watchful, Triumphant, Conquering). Modelled from the printed PanZ text.
+# L1 [Continuous] Styled attacks +2 stages and unpreventable. L2 POWER energy attack (cost 2, 5 stages, unpreventable, HIT: opponent pays 3 stages
+# or you may raise anger 2 and use a critical damage effect). L3 POWER banish the top 3 cards of the opponent's discard pile + [Continuous] all attacks
+# +3 stages and unpreventable. L4 POWER physical attack, X stages and X life cards (X = the opponent MP's stages above 0), Endurance cannot be used.
+# UNVERIFIED: L2's HIT wording "your opponent pays 3 stages OR you may raise ..." - modelled as: the opponent pays 3 stages if it has them, otherwise
+#   the attacker raises anger 2 and uses a critical damage effect (who chooses is not in the card text).
+# "Styled" = the card's style equals the player's Mastery style (same assumption as the other MPs). Not modelled: nothing else in the printed text.
+# =================================================================================================================
+TURLES_L2 = synthetic('Turles Watchful', 'POWER: [Attack] Energy attack costing 2 stages. DAMAGE: 5 stages. Damage from this attack cannot be prevented.')
+TURLES_L4 = synthetic('Turles Conquering', 'POWER: [Attack] Physical attack. DAMAGE: X stages and X life cards.')
+_x('Turles Conquering', base_stage=lambda p, o, c: o.stage)
+
+
+def _styled_atk(p, card):
+    return bool(card.is_atk) and card.style is not None and card.style == p.styled() and card.card_id.split(':')[0] != 'synthetic'
+
+
+@mp('Turles', 'Shadowy')
+class TurlesL1(Behavior):
+    def stage_bonus(self, p, card, opp): return 2 if _styled_atk(p, card) and modifiable(card) else 0
+    def unprevented(self, p, card, opp): return _styled_atk(p, card)
+
+
+@mp('Turles', 'Watchful')
+class TurlesL2(Behavior):
+    def has_power(self, p): return p.stage >= TURLES_L2.cost
+
+    def power(self, p, opp):
+        if p.stage >= TURLES_L2.cost and once_turn(p, 'turles2'):
+            return p.attack(opp, power=TURLES_L2)
+        return False
+
+    def after_hit(self, p, opp, card, removed):
+        if card.name == 'Turles Watchful':
+            if opp.stage >= 3:                      # UNVERIFIED choice, see the comment above
+                opp.stage -= 3
+                p.log(f'    ({opp.label} pays 3 stages)')
+            else:
+                p.raise_anger(2)
+                p.crit_effect()
+
+
+@mp('Turles', 'Triumphant')
+class TurlesL3(Behavior):
+    def stage_bonus(self, p, card, opp): return 3 if modifiable(card) else 0
+    def unprevented(self, p, card, opp): return True
+    def has_power(self, p): return bool(opp_discard(p))
+
+    def power(self, p, opp):
+        if opp.discard and once_turn(p, 'turles3'):
+            for _ in range(min(3, len(opp.discard))):
+                opp.banished.append(opp.discard.pop())          # top of the discard pile = the last card put there
+            return True
+        return False
+
+
+def opp_discard(p):
+    return p.opp.discard
+
+
+@mp('Turles', 'Conquering')
+class TurlesL4(Behavior):
+    def has_power(self, p): return p.opp.stage > 0
+
+    def power(self, p, opp):
+        if opp.stage > 0 and once_turn(p, 'turles4'):
+            p.cb['noend'] = True                    # "Endurance cannot be used this turn"
+            return p.attack(opp, power=TURLES_L4)
+        return False
