@@ -6,6 +6,8 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 ## Working assumptions (unless the owner says otherwise)
 - Card pool: Sets 1-7 only (PanZ). No PZP / OP promos, no `_RST` Restored copies, no FanZ sets.
 - Rulings: PanZ-era text (Panini CRD only). The Frozen list is ignored.
+- **Errata applies** (owner-confirmed): play every card with its current text (`text_current` when present, e.g. Namekian Knowledge Mastery, Blue Guard, Namek Dragon Ball 7), not the printed text.
+  Only Sets 1-7 are used; the repo also holds FanZ (Set 8+), OP and PZP cards, which are out of scope unless the owner says otherwise.
 - No Traits. Saiyan / Namekian Masteries use the Rulebook 3.0 heritage lists (`mps.json` -> `panz_heritage`).
 - 60-card Life Deck plus 1 Mastery. Max 3 copies of a card name. A card's printed `limit_per_deck` is lower and wins
   (e.g. Orange Uppercut is Limit 1). Max 1 copy of each Ally and each Dragon Ball. One Dragon Ball set per deck.
