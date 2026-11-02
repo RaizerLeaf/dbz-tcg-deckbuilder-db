@@ -75,6 +75,6 @@ tool and sandbox gotchas, and how the generated files stay correct.
 ## Still to do (as of this session)
 - Nappa options 2 and 3 (Saiyan Dynamic, Black Devious) and the Black-based anti-anger Wheelo option are described but not built. Simulate the Wheelo Blue deck against the friend's Red Piccolo once Allies and Blue Protective are modelled.
 - FanZ-era support in the simulator, the pack builder and the page (rulings, keywords, Traits, Frozen list). Everything built here is PanZ (Sets 1-7) only.
-- Simulator: Allies, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
+- Simulator: Allies other than the Cell Jr. ones, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
 - Optional: a GitHub Action that rebuilds `docs/` automatically (needs the owner's OK: it lives in `.github/`); a browser version of the simulator (Pyodide).
 - Open rules questions are listed at the end of `STRATEGY_KNOWLEDGE.md` and marked **(unverified)** in the notes. Ask the owner before relying on them.

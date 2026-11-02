@@ -51,6 +51,7 @@ class Player:
         self.level, self.stage, self.anger = 1, 5, 0
         self.hand, self.discard, self.banished = [], [], []
         self.balls, self.drills, self.setups, self.attached = [], [], [], []
+        self.allies = []                  # Allies in play (only Allies the AI knows how to use are ever played; see behaviors.plan_allies)
         self.skip = 0
         self.allies = []                    # modelled Allies in play (Card objects with .astage = power stage); see behaviors.ALLY_MODEL
         self.gf = {}                        # flags that last the whole game
@@ -83,6 +84,10 @@ class Player:
         out = [B.mp_behavior(self.mp_name, self.lv.name), B.mastery_behavior(self.mastery)]
         for c in self.drills + self.balls + self.setups + self.attached:
             b = B.CARD_PASSIVE.get(c.name)
+            if b:
+                out.append(b)
+        for c in self.allies:
+            b = B.ALLY_PASSIVE.get((c.name, c.rec.get('subtitle')))
             if b:
                 out.append(b)
         return [b for b in out if b is not None]
@@ -138,6 +143,14 @@ class Player:
         if moved and in_combat:
             for b in self.behaviors():
                 b.on_rejuvenate(self)
+
+    def rejuv_ally(self, card, zone):
+        """Rejuvenate one specific Ally: it leaves `zone` (hand, discard pile, Banished Zone or play) for the bottom of the Life Deck."""
+        zone.remove(card)
+        self.deck.append(card)
+        for b in self.behaviors():
+            b.on_ally_rejuvenated(self)
+            b.on_rejuvenate(self)
 
     def lose_card(self, c, how):
         """A card left the top of the Life Deck. how: 'destroy' | 'damage' | 'banish'. Returns True if it counts."""
@@ -284,8 +297,8 @@ class Player:
             self.balls.append(o.balls.pop())
             self.log(f'    ({self.label} captures a Dragon Ball)')
             self.check_dbv()
-        elif o.allies and not any(b.protect_allies(o) for b in o.behaviors()):
-            a = max(o.allies, key=B.ally_value)       # critical effect: discard an opponent's Ally (preferred over lowering anger 1)
+        elif B.my_allies(o) and not any(b.protect_allies(o) for b in o.behaviors()):
+            a = max(B.my_allies(o), key=B.ally_value)       # critical effect: discard an opponent's Ally (preferred over lowering anger 1)
             o.leave_play(a)
             self.log(f'    ({self.label} discards {o.label}\'s Ally {a.name})')
         else:
@@ -324,6 +337,7 @@ class Player:
         return c
 
     def note_discard(self, c):
+        self.game.last_discarder = self            # lets a behavior tell whose card was discarded (Black Viewing Drill)
         self.cb['discarded'] = True
         self.opp.cb['discarded'] = True
         trig = B.CARD_DISCARD_TRIGGER.get(c.name)
@@ -424,6 +438,9 @@ class Player:
                 ds += b.incoming_stage(opp, c, self)
         life = max(0, life - opp.cb['reduce_life']) if life else 0
         ds = max(0, ds - opp.cb['reduce_stage']) if ds else 0
+        pre = opp.cb.pop('prevent_once', None)          # Blue Overcharge: prevents N life cards and N stages of THIS attack only
+        if pre:
+            life, ds = max(0, life - pre[0]), max(0, ds - pre[1])
         opp.endure_count = 0
         ign = (c.unprev or self.cb['next_unprev'] or self.cb['unprev_all'] or any(b.unprevented(self, c, opp) for b in self.behaviors())
                or (ally is not None and ally.name in self.cb['ally_kiss']))
@@ -476,15 +493,28 @@ class Player:
                 return True
         if B.ally_defend(self, atk, c, kind):
             return True
-        opts = [x for x in self.hand if (x.is_def and kind in x.stops) or B.ALT_STOP.get(x.name) == kind]
+        # a Setup in play is activated and discarded like an Event; attack cards that may be played to stop (Blue Arm Blast, Round Throw) only count from the hand
+        opts = [x for x in self.hand + self.setups if (x.is_def and kind in x.stops) or (x in self.hand and B.ALT_STOP.get(x.name) == kind)]
         if self.cb['nonstyled_lock']:
             opts = [x for x in opts if x.style == self.styled()]
+        big = (c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at
+        if not opts and big and not self.cb['nonstyled_lock']:
+            part = [x for x in self.hand + self.setups if x.prevent and x.ctype in ('Event', 'Setup')]
+            if part and 'prevent_once' not in self.cb:
+                x = part[0]
+                (self.setups if x in self.setups else self.hand).remove(x)
+                self.cb['prevent_once'] = x.prevent
+                if x.draw:
+                    self.draw(1)
+                (self.banished if x.banish_after else self.discard).append(x)
+                self.log(f'    ({self.label} prevents {x.prevent[0]} life cards / {x.prevent[1]} stages with {x.name})')
+            return False
         if not opts:
             return False
-        if not ((c.at or 0) + c.stage_flat >= 2 or c.life >= 2 or c.life_at):
+        if not big:
             return False
         x = sorted(opts, key=lambda z: (not z.is_def, z.name == "Time Is A Warrior's Tool", -z.endurance))[0]
-        self.hand.remove(x)
+        (self.setups if x in self.setups else self.hand).remove(x)
         if not x.is_def:              # an attack card played only to stop (Blue Arm Blast, Blue Round Throw): none of its attack text applies
             self.discard.append(x)
             self.log(f'    ({self.label} stops it with {x.name} instead of attacking)')
@@ -512,6 +542,7 @@ class Game:
     def __init__(self, spec_a, spec_b, seed=0, first=0):
         self.rng = random.Random(seed)
         self.logs = []
+        self.last_discarder = None
         a, b = Player(self, spec_a.name, spec_a, self.rng), Player(self, spec_b.name, spec_b, self.rng)
         if a.label == b.label:
             a.label, b.label = a.label + ' (A)', b.label + ' (B)'
@@ -597,9 +628,10 @@ class Game:
                 p.setups.append(c)
                 for b in p.behaviors():
                     b.on_enters_play(p, o, c)
+        B.plan_allies(p, o)
         pur = p.lv.pur + sum(b.pur_bonus(p) for b in p.behaviors())
         p.stage = min(10, p.stage + pur)
-        for a in p.allies:                                 # Allies gain their own Power Up Rating (Rulebook 3.0, Planning Step)
+        for a in B.my_allies(p):                           # Allies gain their own Power Up Rating (Rulebook 3.0, Planning Step)
             a.astage = min(10, a.astage + (a.rec.get('pur') or 0))
 
     def wants_combat(self, p, o):

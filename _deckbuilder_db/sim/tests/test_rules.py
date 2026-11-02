@@ -589,6 +589,163 @@ class VegetaHero(unittest.TestCase):
         a.drills.append(Card(RECS[cid('Red Despair Drill')]))
         a.anger = 3
         self.assertEqual(self.bonus(a, b, "Vegeta's Galick Gun")[0], 2 + 3)
+CJ_MP = ['Taunting', 'On the Move', 'Oppressive', 'Confident']
+
+
+def ally(sub):
+    return Card(RECS[{'Trapped': 'S07_BST_76', 'Escaping': 'S07_BST_77', 'Unrelenting': 'S07_BST_78'}[sub]])
+
+
+def cj_game(mastery='Blue Tag Team Mastery', level=1, filler='Blue Slash'):
+    g, a, b = game(spec('CJ', 'Cell Jr.', CJ_MP, mastery, filler), spec('OP', 'Nappa', ['Rested', 'Smirking', 'Overconfident', 'Enraged'],
+                                                                      'Saiyan Rampaging Mastery', 'Saiyan Wrist Block'))
+    a.level = level
+    return g, a, b
+
+
+class CellJr(unittest.TestCase):
+    """Cell Jr.'s four levels, the Cell Jr. Allies and the cards of the three Cell Jr. decks."""
+    def test_on_the_move_deals_5_plus_cell_jr_personalities_in_the_discard_pile(self):
+        g, a, b = cj_game(level=2)
+        a.discard = [ally('Trapped'), ally('Escaping'), ally('Unrelenting'), Card(RECS[cid('Blue Slash')])]
+        self.assertEqual(B.CARD_EXTRA['On the Move']['base_stage'](a, b, B.CJ_L2), 8)
+
+    def test_trapped_in_play_adds_one_to_destroy_effects(self):
+        g, a, b = cj_game()
+        before = len(b.deck)
+        a.destroy_opp(2)
+        self.assertEqual(before - len(b.deck), 2)
+        a.allies.append(ally('Trapped'))
+        before = len(b.deck)
+        a.destroy_opp(2)
+        self.assertEqual(before - len(b.deck), 3)
+        a.allies = [ally('Escaping')]          # only Trapped has the Continuous
+        before = len(b.deck)
+        a.destroy_opp(2)
+        self.assertEqual(before - len(b.deck), 2)
+
+    def test_waiting_drill_destroys_2_per_ally_rejuvenated(self):
+        g, a, b = cj_game()
+        a.drills.append(Card(RECS[cid('Blue Waiting Drill')]))
+        a.discard = [ally('Escaping'), ally('Unrelenting')]
+        before = len(b.deck)
+        for x in list(a.discard):
+            a.rejuv_ally(x, a.discard)
+        self.assertEqual(before - len(b.deck), 4)
+        self.assertEqual([x.name for x in a.deck[-2:]], ['Cell Jr.', 'Cell Jr.'])     # Rejuvenated Allies go to the bottom of the Life Deck
+
+    def test_taunting_discards_an_ally_to_make_the_attack_unstoppable(self):
+        g, a, b = cj_game()
+        a.hand = [ally('Escaping')]
+        tool = Card(RECS[cid("Time Is A Warrior's Tool")])
+        b.hand = [tool]
+        b.stage = 5
+        B.mp_behavior('Cell Jr.', 'Taunting').power(a, b)
+        self.assertEqual(len(a.discard), 1)           # the Ally was the cost
+        self.assertEqual(b.hand, [tool])               # the defense was never used
+        self.assertLess(b.stage, 5)                    # 4 stages of damage went through
+
+    def test_taunting_hit_plays_a_continuous_card_from_the_life_deck(self):
+        g, a, b = cj_game()
+        a.deck = [Card(RECS[cid('Blue Slash')]), Card(RECS[cid('Blue Waiting Drill')])] + a.deck
+        B.mp_behavior('Cell Jr.', 'Taunting').after_hit(a, b, B.CJ_L1, 1)
+        self.assertEqual([d.name for d in a.drills], ['Blue Waiting Drill'])
+
+    def test_oppressive_rejuvenates_a_hand_ally_to_stop_a_physical_or_energy_attack_repeatedly(self):
+        g, a, b = cj_game(level=3)
+        a.hand = [ally('Escaping'), ally('Unrelenting')]
+        atk = Card(RECS[cid('Red Energy Blast')])      # 4 life cards
+        self.assertTrue(a.defend(b, atk))
+        self.assertTrue(a.defend(b, atk))
+        self.assertFalse(a.defend(b, atk))
+        self.assertEqual(a.hand, [])
+        self.assertEqual(len([x for x in a.deck[-2:] if x.name == 'Cell Jr.']), 2)
+
+    def test_on_the_move_stops_one_attack_per_combat(self):
+        g, a, b = cj_game(level=2)
+        a.hand = [ally('Escaping'), ally('Unrelenting')]
+        atk = Card(RECS[cid('Red Energy Blast')])
+        self.assertTrue(a.defend(b, atk))
+        self.assertFalse(a.defend(b, atk))
+        self.assertEqual(len(a.discard), 1)            # discarded, not Rejuvenated: it counts for the 5 + X attack
+
+    def test_confident_banishes_a_hand_ally_to_destroy_3(self):
+        g, a, b = cj_game(level=4)
+        a.hand = [ally('Escaping')]
+        before = len(b.deck)
+        self.assertTrue(B.mp_behavior('Cell Jr.', 'Confident').power(a, b))
+        self.assertEqual(before - len(b.deck), 3)
+        self.assertEqual(len(a.banished), 1)
+        self.assertFalse(B.mp_behavior('Cell Jr.', 'Confident').power(a, b))      # no Ally left in hand
+
+    def test_the_ai_plays_trapped_but_keeps_other_allies_as_fuel(self):
+        g, a, b = cj_game()
+        a.hand = [ally('Trapped'), ally('Escaping')]
+        B.plan_allies(a, b)
+        self.assertEqual([x.rec['subtitle'] for x in a.allies], ['Trapped'])
+        self.assertEqual([x.rec['subtitle'] for x in a.hand], ['Escaping'])
+
+    def test_tag_team_starts_with_an_ally_and_rejuvenates_a_banished_one(self):
+        g, a, b = cj_game()
+        a.deck = [ally('Escaping'), ally('Trapped')] + a.deck
+        B.mastery_behavior('Blue Tag Team Mastery').on_game_start(a)
+        self.assertEqual([x.rec['subtitle'] for x in a.allies], ['Trapped'])
+        a.banished = [ally('Unrelenting')]
+        B.mastery_behavior('Blue Tag Team Mastery').end_of_combat(a, b)
+        self.assertEqual(a.banished, [])
+        self.assertEqual(a.deck[-1].rec['subtitle'], 'Unrelenting')
+
+    def test_setup_attacks_are_performed_and_discarded_and_setup_defenses_stop(self):
+        g, a, b = cj_game()
+        ki = Card(RECS[cid('Blue Ki Build Up')])
+        a.setups, a.stage = [ki], 10
+        a.tf['cj_l1'] = True                 # Taunting already used this turn, so the AI turns to the Setup
+        before = len(b.deck)
+        self.assertTrue(B.choose_action(a, b))
+        self.assertGreater(before - len(b.deck), 0)
+        self.assertEqual((a.setups, ki in a.discard), ([], True))
+        block = Card(RECS[cid('Blue Blockade')])
+        b.setups = [block]
+        self.assertTrue(b.defend(a, Card(RECS[cid('Red Energy Blast')])))
+        self.assertEqual(b.setups, [])
+
+    def test_blue_overcharge_prevents_only_the_next_attack(self):
+        g, a, b = cj_game()
+        oc = Card(RECS[cid('Blue Overcharge')])
+        b.hand = [oc]
+        atk = Card(RECS[cid('Red Energy Blast')])      # 4 life cards
+        self.assertFalse(b.defend(a, atk))             # not a stop
+        self.assertIn('prevent_once', b.cb)
+        before = len(b.deck)
+        a.stage = 10
+        a.hand.append(atk)
+        a.attack(b, card=atk)
+        self.assertEqual(before - len(b.deck), 1)      # 4 life cards - 3 prevented
+
+    def test_visiting_the_past_fetches_a_cell_jr_ally_first(self):
+        g, a, b = cj_game()
+        a.discard = [ally('Escaping'), Card(RECS[cid('Blue Slash')])]
+        B.CARD_EXTRA['Visiting the Past']['use'](a, b, None)
+        self.assertEqual([x.name for x in a.hand], ['Cell Jr.'])
+
+    def test_black_perceptive_power_destroys_one_card_of_each_deck(self):
+        g, a, b = cj_game('Black Perceptive Mastery')
+        mine, theirs = len(a.deck), len(b.deck)
+        self.assertTrue(B.mastery_behavior('Black Perceptive Mastery').power(a, b))
+        self.assertEqual((mine - len(a.deck), theirs - len(b.deck)), (1, 1))
+        self.assertTrue(a.anger == 1 or a.stage == 9)                  # 5 + 4 stages if a Physical/Energy Combat card was destroyed, else 1 anger
+
+    def test_surround_swarm_and_arrest_cards_work_together(self):
+        g, a, b = cj_game()
+        a.deck = [ally('Trapped'), ally('Escaping'), ally('Unrelenting')] + a.deck
+        sur = Card(RECS[cid("Cell Jr.'s Surround")])
+        B.CARD_EXTRA["Cell Jr.'s Surround"]['use'](a, b, sur)
+        self.assertEqual(sorted(x.rec['subtitle'] for x in a.allies), ['Escaping', 'Trapped'])
+        self.assertIs(sur.keep, True)
+        before = len(b.deck)
+        B.CARD_EXTRA["Cell Jr.'s Swarm"]['hit'](a, b, None, 1)        # banishes 2 Allies: destroy 2 (+1 Trapped) + Escaping's own 1
+        self.assertEqual(a.allies, [])
+        self.assertGreaterEqual(before - len(b.deck), 3)
 
 
 class Smoke(unittest.TestCase):
