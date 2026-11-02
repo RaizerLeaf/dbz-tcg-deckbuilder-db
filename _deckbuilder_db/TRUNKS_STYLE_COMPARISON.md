@@ -34,5 +34,5 @@ Other opponents (Lord Slug, Krillin, Wheelo) are in the mean; all were beaten 94
 V4 with six changes: -1 Heroic Energy Sphere, -1 Orange Electricity (3 to 2), -1 Orange Enraged Bash (2 to 1); +1 Orange Right Beam (5 life cards, lowers the opponent's anger 2, cannot be stopped by non-Styled cards),
 +1 Orange Upward Strike (lowers the opponent's anger, more per Drill), +1 Orange Extension (fetches a Drill after a second physical attack).
 Simulator, 3,000 games each: vs Red Piccolo 83.3% (V4 77.8%); vs Red Trunks 46.3% (V4 40.4%); vs Garlic 90.3%; vs Nail 99.4%. With Orange MPPV switched off, vs Piccolo 79.6%.
-Legality: `deckcode.py check` no errors or warnings, decode/re-encode identical, 60 cards. **Not imported into the app yet.**
+Legality: `deckcode.py check` no errors or warnings, decode/re-encode identical, 60 cards. **Imported by the owner (2026-11-02): loaded with no issues.**
 Caveat: the changes were chosen by the simulator, which does not model Uppercut's search, Enraged Bash's Drill Rejuvenate or Heroic Energy Sphere's cancel. The owner should judge those three cuts.
