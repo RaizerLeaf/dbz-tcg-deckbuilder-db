@@ -17,7 +17,7 @@ python -m sim coverage sim/decks/nail_black_v2.txt                              
 python -m unittest discover -s sim/tests -t .                                                 # rule tests
 ```
 A and B are deck codes (in quotes) or paths to `.txt` files holding one code. Deck codes are decoded with `scripts/deckcode.py`
-(written on branch `claude/lucid-wright-aczurz`; the simulator needs it, so merge that branch first or copy the file into `scripts/`).
+(on `main`; the simulator needs it).
 `--no-mppv-a/-b` removes MPPV as a win condition for that side (the owner sometimes assumes this for Orange decks).
 Always run `coverage` for both decks and quote its warnings next to the result.
 

@@ -85,15 +85,14 @@ Revival triggers when it is discarded or destroyed from your own Life Deck, incl
 **Defaults the owner wants:** Time Is A Warrior's Tool x1 and at least 2 Confrontation (Hero) or Stare Down (Villain) in every deck.
 
 ## 6. Simulation results (toy model, not an official rules engine)
-A small simulator was written in the session scratchpad (not in the repo). It parses damage, cost, anger, stops and Endurance from card text and hard-codes the MP/Mastery effects of the
-decks being compared; both sides follow the same simple priority list; secondary effects (most searches, banishes, skips) are ignored. Treat results as a rough signal.
+The simulator now lives in `sim/` (see `sim/README.md`; `python -m sim run|bo3|game|coverage`). It parses damage, cost, anger, stops and Endurance from card text and hard-codes the MP/Mastery effects of the
+decks being compared; both sides follow the same simple priority list; secondary effects (most searches, banishes, skips) are ignored. Treat results as a rough signal. The numbers below were reproduced by `sim/` and match the earlier one-off scripts.
 - Red Trunks draft vs Orange Trunks V4 (Orange MPPV off): Red won 61%; with Orange MPPV allowed, 56%. Games last about 6 turns in total.
 - Dr. Wheelo V2 vs the friend's Red Piccolo (assuming Stoic at Level 1): Wheelo won about 17%. Piccolo won almost entirely by MPPV on its third turn; Wheelo rarely reached Level 3.
   Going first changed it by about 3 points. A variant with 3 Wall Breaker (it attaches to Piccolo so it cannot gain anger until it deals critical damage) only moved Wheelo to 18%.
 - Lesson: against a deck that can MPPV in about 3 turns, a deck that needs 4+ turns to start its engine loses most games. A loss in such a matchup is not evidence of a play mistake.
 
 ## 7. Open questions
-- Which Piccolo Level 1 the friend's deck really uses (Composed or Stoic)?
 - Does "once per turn" count the defender's turn separately for Powers?
 - Does a doubling effect like Trunks' Dashing apply to anger raised by a Mastery trigger (Red Enraged)? The simulator assumed yes.
 - What the "(Awakening)" qualifier in an MP name means to the app.

@@ -12,6 +12,8 @@ other people) build decks.
 - **Starting a deck: follow "Start here: workflow for a new deck" at the top of `DECKBUILDING_NOTES.md`.**
 - `_deckbuilder_db/STRATEGY_KNOWLEDGE.md` - **verified rules (anger, damage, Dragon Balls, "play" vs "place into play"), what makes a fast MPPV deck, the anger
   numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
+- `_deckbuilder_db/WORKFLOW_LESSONS.md` - **how the owner likes to work, mistakes already made and the checks that prevent them, git/sandbox/tool gotchas, how the generated
+  `docs/` page stays correct, and what is still to do.** Read it before starting any larger piece of work.
 - Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). PanZ (Sets 1-7) only; FanZ simulation is a later TODO.
   Always run `coverage` and quote its limits with any result.
 - Friends without Claude Code: `_deckbuilder_db/friends/` (pack builder, list checker, static page source). `docs/` at the repo root is the generated page, rebuilt with
@@ -24,7 +26,7 @@ other people) build decks.
 - Never modify, rename or move the original images. Write only inside `_deckbuilder_db/`.
 - Ask before installing software or changing anything outside `_deckbuilder_db/`.
 - Card text is literal ("a Dragon Ball in play" means anyone's; "destroy" is not "banish"; "play" is not "place into play").
-- Commit and push to `main` after each batch of database changes.
+- Commit and push to `main` after each batch of database changes. Other chats work here too: `git fetch` first, re-run the tests after every merge, and regenerate `docs/` if card text changed.
 
 ## Data
 - `_deckbuilder_db/cards.json` (3,090 records, 5 MB; query it with Python, do not read it whole), `mps.json` (MP groups by level),
