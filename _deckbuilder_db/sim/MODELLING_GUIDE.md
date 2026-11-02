@@ -66,7 +66,7 @@ Write each sentence on its own line and decide for each: *when* does it happen, 
 | "At the start of combat you may search your deck" | `entering_combat` (argument `defender` is True when you are being attacked) | `SlugL4` |
 | "At the end of combat ..." | `end_of_combat` | `SlugL1` |
 | "HIT: ..." on an MP attack | `after_hit(p, opp, card, removed)` | `NappaL3` |
-| A card whose single effect the parser cannot read | `_x('Card Name', immediate=/hit=/use=/defend=/on_damaged=/enters=/base_stage=/can_use=...)` | `_namek3`, Saiyan cards |
+| A card whose single effect the parser cannot read | `_x('Card Name', immediate=/hit=/use=/defend=/on_damaged=/enters=/base_stage=/can_use=/can_attack=...)` (`can_attack(p, o, card)` gates the AI playing an attack, e.g. True Power's "only if you have not performed an attack this combat" via `p.cb['attacks']`) | `_namek3`, Saiyan cards |
 | A card that stays in play and gives a continuous effect | `@passive('Card Name')` class with hooks | Namek Dragon Ball 1 and 6, `_Clench` |
 | An Ally in play with a Continuous effect | `@ally_passive('Name', 'Subtitle')` class (Allies share names, so the key includes the subtitle); the AI must be told to play it (`plan_allies`) | `CjTrapped` |
 | An Ally spent from hand (discard / Rejuvenate / banish) | `cj_in(p.hand)`, `spend_ally`, `discard_from_hand`, `p.rejuv_ally(card, zone)` | Cell Jr. Levels 1-4 |

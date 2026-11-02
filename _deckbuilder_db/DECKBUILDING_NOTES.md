@@ -166,6 +166,17 @@ Things to know:
   Options not built: **Saiyan Dynamic** (start on Level 2 so the drain runs from turn 1; 6 anger to level, so MPPV is slower) and **Black Devious** (+1 stage and +1 life card on every attack;
   Black pool not surveyed for Nappa). The deck on file is `decks/nappa_saiyan_clench.txt`.
 
+- **Vegeta (Hero)** (Saiyan heritage; Hero levels from Evolution = Styled, Awakening = non-Styled): Awakening *Experienced / Imposing / Energized / Pinnacle of Power* give non-Styled (Freestyle) attacks
+  +2 / +1 (and no prevention) / +3 (and a second use of the first stopped one) / +3 and **cannot be stopped**. Evolution *Calculating / On the Move / Super Saiyan / Elite* reward Styled attacks (life cards <-> stage damage;
+  Elite: first Styled physical cannot be stopped). Named: Vegeta's Galick Gun (x3, 6 life cards for 2 stages, unpreventable, two critical effects), Destruction Blast, Final Flash, Vegeta's Anger. Experienced's
+  parenthesis says non-Styled damage can only be modified by Experienced itself (Level 1 only; the simulator ignores this).
+  Style comparison (an early one-off run, before the roster existed: 800 games per opponent against 8 reference decks, average win rate; the Awakening/Red Ascension deck was later improved and playtested against the roster, see the deck table): **Awakening Freestyle + Red Ascension 71.5%** (`decks/vegeta_pinnacle_red_ascension.txt`),
+  Evolution Styled Red + Red Ascension 64.0%, Awakening Freestyle + Saiyan Dynamic 51.3%; also tried: Evolution Saiyan Dynamic 47.2%, Awakening + Red Enraged 46% (300 games), Evolution Saiyan Rampaging 40.7%,
+  Awakening + Black Conflict 24% (400 games, too slow to level). Red Ascension beat Red Enraged because its free +1 anger a turn (end of combat) plus Power levels the MP faster. The model does not count the
+  Evolution stage-conversion, so the Evolution Red result is a floor.
+  **(unverified)** Whether "+N life cards" applies to a stage-only attack (Devastating Blow, "AT +1 stage"); the deck does not depend on it. Overpowering Attack finds no Ally in this deck (no Allies in it).
+  Weak spots seen in the playtest: stage-damage decks (Orange Trunks) drain its Life Deck while it sits at 0-4 stages after paying stage costs (loses by Survival), and Blue Protective / Wall Breaker slow its anger. Untested idea: Wall Breaker (opponent cannot gain anger) against MPPV decks.
+  Quick Blast, Surprise Attack, Blinding Energy Move and Point-Blank Volley were left out on purpose (Blinding Energy Move ends combat and Point-Blank Volley's anger is double-counted by the parser) (Quick Blast banishes your own Defense cards while attached; Surprise Attack lets the opponent banish 2 of your non-Styled cards).
 - **Cell Jr.** (Villain MP, Set 7 only, one printing per level: Taunting AW-U68, On the Move AW-U69, Oppressive AW-U70, Confident AW-U71; Saiyan and Namekian heritage both true).
   Level 1 says "Your Life Deck may include up to 3 copies of each Ally with "Cell Jr." in the title", so the three Cell Jr. Allies (Trapped AW-U76, Escaping AW-U77, Unrelenting AW-U78) go in x3 each = 9
   (the owner's reading; it overrides both the one-copy-per-Ally limit and "no Allies that match your MP's name"). `deckcode.py check` does not know this exception and reports four false errors on every Cell Jr. deck
@@ -178,8 +189,9 @@ Things to know:
   **Simulated (added 2026-11-02):** the four levels, Trapped/Escaping, the Blue Tag Team and Black Perceptive Masteries, Setup attacks and Setup defenses, partial prevention (Blue Overcharge) and the Blue/Black/Red cards listed in
   `sim/behaviors.py` ("Cell Jr." section) are modelled. Not modelled: Unrelenting's attack (Allies act only when the MP is at most 1 stage above 0), Waiting Drill's "whenever you play an Ally, Rejuvenate 1", Tag Team's protection from critical
   effects, Black Pop-Up's naming gamble, Black Dash's Ally steal, Blue Challenging Strike lasting through your next turn. **(unverified)** two Trapped in play are assumed to stack; Tag Team's Ally arrives at game start instead of the opponent's first turn.
-  Result of the 50-game playtests against the roster of 13: Red Ascension 71%, Blue Tag Team 65%, Black Perceptive 62% (+-4 points overall, +-14 per opponent). The model ranks Red Ascension first (it reaches Level 4 in about 4 of 5 games and wins by MPPV);
-  Blue and Black are a statistical tie. Blue stays on Levels 1-2 and wins by Survival (Taunting every turn, Waiting Drill fetched by its HIT, Arrest/Slash mill).
+  Result of the 50-game playtests against the 14 other roster decks (700 games each, +-4 points overall, +-14 per opponent): Red Ascension 67%, Blue Tag Team 67%, Black Perceptive 59%; round-robin rank 3 / 5 / 6 of 15.
+  Red and Blue are a tie (head to head Red 27-23); Red reaches Level 4 in about 4 of 5 games and wins by MPPV, Blue stays on Levels 1-2 and wins by Survival (Taunting every turn, Waiting Drill fetched by its HIT, Arrest/Slash mill);
+  Black is behind both. All three lose to the fast Trunks decks (Orange 22-28%, Red 22-34%).
   Builds on file: `decks/cell_jr_red_ascension.txt`, `cell_jr_blue_tag_team.txt`, `cell_jr_black_perceptive.txt` (see the table below).
 
 ## Decks on file (codes are in the files; decode with `deckcode.py`)
@@ -200,13 +212,16 @@ Things to know:
 |---|---|---|
 | `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
 | `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
+| `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
+| `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
+| `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
 
 Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; simulated, none imported into the app yet; all three are on the roster):
 | File | MP / style / Mastery | Status |
 |---|---|---|
-| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | best in the model (71% over 600 playtest games): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
-| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 65%: Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
-| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 62% (tied with Blue within noise): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
+| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (67% over 700 playtest games, round-robin rank 3): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
+| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 5): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
+| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 59% (round-robin rank 6): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
