@@ -78,8 +78,14 @@ def read():
     return {'max': MAX_ROSTER, 'games_per_pair': ROUND_ROBIN_GAMES, 'decks': [], 'retired': [], 'pairs': {}}
 
 
+DEFAULT_ROSTER_FILE = ROSTER_FILE
+
+
 def write(r):
     ROSTER_FILE.write_text(json.dumps(r, indent=1, ensure_ascii=False) + '\n', encoding='utf-8')
+    if ROSTER_FILE == DEFAULT_ROSTER_FILE:      # keep DECK_LIST.md (best performing first) in step with the ranking; tests use a temp roster and skip this
+        from . import decklist
+        decklist.write(r)
 
 
 def _pair(ka, sa, kb, sb, games, cache, sh):
@@ -218,7 +224,9 @@ def playtest(path, n=PLAYTEST_DEFAULT, allow_unmodelled=False):
         raise ValueError('not modelled by the simulator: ' + ', '.join(bad) + '. Add them to sim/behaviors.py first (sim/README.md, "Adding things"), '
                          'or pass --allow-unmodelled if the owner agreed to a text-only check.')
     rows = []
-    for d in read()['decks']:
+    roster = read()['decks']
+    self_rank = next((i for i, d in enumerate(roster, 1) if d['file'] == key), None)
+    for rank, d in enumerate(roster, 1):
         if d['file'] == key or not (DB / d['file']).exists():
             continue
         opp = load(str(DB / d['file']))
@@ -232,6 +240,7 @@ def playtest(path, n=PLAYTEST_DEFAULT, allow_unmodelled=False):
                 how['wins by ' + r.reason] += 1
             elif r.winner != 'draw':
                 how['loses to ' + r.reason] += 1
-        rows.append({'opponent': d['file'], 'opp_name': opp.name, 'opp_pct': d['win_pct'], 'wins': wins, 'games': n,
+        rows.append({'opponent': d['file'], 'opp_name': opp.name, 'opp_rank': rank, 'opp_pct': d['win_pct'], 'wins': wins, 'games': n,
                      'avg_turn_of_wins': round(sum(turns) / len(turns), 1) if turns else None, 'how': dict(how)})
-    return {'deck': spec.name, 'unmodelled': bad, 'rows': rows}
+    rows.sort(key=lambda r: r['opp_rank'])     # best-ranked roster deck first
+    return {'deck': spec.name, 'self_rank': self_rank, 'roster_size': len(roster), 'unmodelled': bad, 'rows': rows}

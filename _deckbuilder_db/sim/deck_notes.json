@@ -1,0 +1,110 @@
+{
+ "sim/decks/wheelo_black_v2.txt": {
+  "status": "imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator"
+ },
+ "sim/decks/piccolo_red_friend.txt": {
+  "status": "owner's friend's deck; a very fast, niche MPPV deck: one stress test among several, not the general benchmark"
+ },
+ "sim/decks/trunks_orange_v3.txt": {
+  "status": "built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); older version, superseded by V5; not confirmed in the app"
+ },
+ "sim/decks/trunks_orange_v4.txt": {
+  "status": "built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); older version, superseded by V5; not confirmed in the app"
+ },
+ "decks/trunks_orange_v5.txt": {
+  "status": "V4 plus six simulator-guided swaps, **on the V4 level stack (Defiant / Overpowering), not the owner's intended one**; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported"
+ },
+ "decks/trunks_orange_v6.txt": {
+  "status": "simulator-tuned from V5; V6 is the stronger, riskier rewrite, V6 lite keeps the Drill engine; see `TRUNKS_STYLE_COMPARISON.md`; not confirmed in the app"
+ },
+ "decks/trunks_orange_v6_lite.txt": {
+  "status": "simulator-tuned from V5; V6 is the stronger, riskier rewrite, V6 lite keeps the Drill engine; see `TRUNKS_STYLE_COMPARISON.md`; not confirmed in the app"
+ },
+ "sim/decks/trunks_red_draft.txt": {
+  "status": "draft anger/MPPV build; not confirmed in the app"
+ },
+ "decks/lord_slug_red_namek.txt": {
+  "status": "**V4, Namek balls** (the roster version; 15% over 500 playtest games); not confirmed in the app"
+ },
+ "sim/decks/lord_slug_red_v3.txt": {
+  "status": "V3, Earth balls (older version, same family; superseded on the roster); not confirmed in the app"
+ },
+ "sim/decks/nail_black_v2.txt": {
+  "status": "black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app"
+ },
+ "sim/decks/garlic_red.txt": {
+  "status": "Garlic Jr. Red Enraged build; built in an early session; not confirmed in the app"
+ },
+ "sim/decks/krillin_black.txt": {
+  "status": "Krillin Black Devious build (hand-disruption plan); built in an early session; not confirmed in the app"
+ },
+ "decks/nappa_saiyan_clench.txt": {
+  "status": "stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format)"
+ },
+ "decks/nail_red_enraged.txt": {
+  "status": "anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`; on the roster (11th of 25, 52%; 54% over 480 playtest games). Not imported yet"
+ },
+ "decks/nail_namekian_knowledge.txt": {
+  "status": "Rejuvenate/Namek-ball build, second pick; wins mostly by Survival (mill) around turn 8; on the roster (19th of 25, 39%; 39% over 480 playtest games). Not imported yet"
+ },
+ "decks/wheelo_blue_lockdown.txt": {
+  "status": "anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made"
+ },
+ "decks/lord_slug_namekian_knowledge.txt": {
+  "status": "built 2026-11-02; style comparison and playtest in `LORD_SLUG_STYLES.md`; 56% over 600 roster games (50 per opponent), roster rank 6 of 17 after the later Vegeta and Raditz decks joined; **not imported into the app yet**"
+ },
+ "decks/raditz_orange.txt": {
+  "status": "Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner"
+ },
+ "decks/raditz_red.txt": {
+  "status": "Raditz comparison build with Red Enraged (earlier measurements: Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%); check clean; not imported by the owner"
+ },
+ "decks/raditz_saiyan.txt": {
+  "status": "Raditz comparison build with Saiyan Rampaging (earlier measurements: Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%); check clean; not imported by the owner"
+ },
+ "decks/raditz_adaptive.txt": {
+  "status": "Raditz comparison build with Orange Adaptive (earlier measurements: Red Enraged 51%, Saiyan Rampaging 48%, Orange Adaptive 44%); check clean; not imported by the owner"
+ },
+ "decks/vegeta_pinnacle_red_ascension.txt": {
+  "status": "built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet**"
+ },
+ "decks/vegeta_evolution_red_ascension.txt": {
+  "status": "ranked 2nd, same checks, not imported"
+ },
+ "decks/vegeta_awakening_saiyan_dynamic.txt": {
+  "status": "ranked 3rd, same checks, not imported"
+ },
+ "decks/wheelo_red_ascension.txt": {
+  "status": "built 2026-11-02; MPPV race deck, 74% over 1,250 playtest games, **roster rank 4 of 25**; check clean (60 cards); comparison builds `wheelo_red_ascension_v1`, `wheelo_red_enraged`, `wheelo_black_perceptive`, `wheelo_black_conflict` (not on the roster); **not imported in the app yet**"
+ },
+ "decks/goku_blue_tag_team.txt": {
+  "status": "Ally-search Goku; 59% over 1,100 playtest games (roster rank 10 of 23); not imported"
+ },
+ "decks/goku_red_enraged.txt": {
+  "status": "57% over 1,100 playtest games (roster rank 8); Red core from the friend's Piccolo deck minus Piccolo cards; not imported"
+ },
+ "decks/goku_saiyan_rampaging.txt": {
+  "status": "64% over 1,100 playtest games (roster rank 6); Rampaging's Power not modelled; not imported"
+ },
+ "decks/cell_jr_red_ascension.txt": {
+  "status": "tied for best in the model (69% over 950 playtest games, round-robin rank 5): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least"
+ },
+ "decks/cell_jr_blue_tag_team.txt": {
+  "status": "67% (tied with Red, round-robin rank 6): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2)"
+ },
+ "decks/cell_jr_black_perceptive.txt": {
+  "status": "56% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too"
+ },
+ "decks/wheelo_red_ascension_v1.txt": {
+  "status": "untuned first draft of the Red Ascension build (67%); superseded by `wheelo_red_ascension.txt`"
+ },
+ "decks/wheelo_red_enraged.txt": {
+  "status": "Wheelo comparison build: Red Enraged with the first Red list (47%); see `WHEELO_STYLE_COMPARISON.md`"
+ },
+ "decks/wheelo_black_perceptive.txt": {
+  "status": "Wheelo comparison build: Black Perceptive mill (45%); see `WHEELO_STYLE_COMPARISON.md`"
+ },
+ "decks/wheelo_black_conflict.txt": {
+  "status": "Wheelo comparison build: Black Conflict (12%, probably undersold by the simulator's Conflict Power); see `WHEELO_STYLE_COMPARISON.md`"
+ }
+}

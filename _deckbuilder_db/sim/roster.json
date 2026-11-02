@@ -8,7 +8,7 @@
    "name": "Orange Trunks V5",
    "mp": "Trunks",
    "mastery": "Orange Retribution Mastery",
-   "win_pct": 81.5,
+   "win_pct": 80.7,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -16,7 +16,7 @@
    "name": "Red Trunks Draft",
    "mp": "Trunks",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 79.1,
+   "win_pct": 78.2,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -24,7 +24,7 @@
    "name": "Raditz orange",
    "mp": "Raditz",
    "mastery": "Orange Retribution Mastery",
-   "win_pct": 78.4,
+   "win_pct": 77.5,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -32,7 +32,7 @@
    "name": "Wheelo Red Ascension",
    "mp": "Dr. Wheelo",
    "mastery": "Red Ascension Mastery",
-   "win_pct": 73.3,
+   "win_pct": 72.4,
    "avg_turn_of_wins": 5.4
   },
   {
@@ -40,7 +40,7 @@
    "name": "Vegeta Pinnacle Red",
    "mp": "Vegeta",
    "mastery": "Red Ascension Mastery",
-   "win_pct": 68.7,
+   "win_pct": 67.4,
    "avg_turn_of_wins": 6.2
   },
   {
@@ -48,7 +48,7 @@
    "name": "Cell Jr. Red Ascension",
    "mp": "Cell Jr.",
    "mastery": "Red Ascension Mastery",
-   "win_pct": 66.4,
+   "win_pct": 65.0,
    "avg_turn_of_wins": 6.0
   },
   {
@@ -56,7 +56,7 @@
    "name": "Goku Saiyan Rampaging",
    "mp": "Goku",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 64.9,
+   "win_pct": 63.5,
    "avg_turn_of_wins": 6.2
   },
   {
@@ -64,7 +64,7 @@
    "name": "Cell Jr. Blue Tag Team",
    "mp": "Cell Jr.",
    "mastery": "Blue Tag Team Mastery",
-   "win_pct": 64.4,
+   "win_pct": 63.3,
    "avg_turn_of_wins": 5.9
   },
   {
@@ -72,7 +72,7 @@
    "name": "Goku Red Enraged",
    "mp": "Goku",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 64.3,
+   "win_pct": 62.9,
    "avg_turn_of_wins": 5.2
   },
   {
@@ -80,7 +80,7 @@
    "name": "Goku Blue Tag Team",
    "mp": "Goku",
    "mastery": "Blue Tag Team Mastery",
-   "win_pct": 54.7,
+   "win_pct": 53.3,
    "avg_turn_of_wins": 6.5
   },
   {
@@ -88,7 +88,7 @@
    "name": "Cell Jr. Black Perceptive",
    "mp": "Cell Jr.",
    "mastery": "Black Perceptive Mastery",
-   "win_pct": 54.7,
+   "win_pct": 53.2,
    "avg_turn_of_wins": 6.2
   },
   {
@@ -96,7 +96,7 @@
    "name": "Nail Red Enraged",
    "mp": "Nail",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 50.8,
+   "win_pct": 48.9,
    "avg_turn_of_wins": 6.0
   },
   {
@@ -104,47 +104,47 @@
    "name": "Wheelo Blue Lockdown",
    "mp": "Dr. Wheelo",
    "mastery": "Blue Protective Mastery",
-   "win_pct": 48.1,
-   "avg_turn_of_wins": 7.5
+   "win_pct": 47.5,
+   "avg_turn_of_wins": 7.4
   },
   {
    "file": "decks/nappa_saiyan_clench.txt",
    "name": "Nappa Saiyan Clench",
    "mp": "Nappa",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 47.9,
-   "avg_turn_of_wins": 6.9
-  },
-  {
-   "file": "sim/decks/garlic_red.txt",
-   "name": "Red Garlic Jr",
-   "mp": "Garlic Jr.",
-   "mastery": "Red Enraged Mastery",
-   "win_pct": 45.2,
-   "avg_turn_of_wins": 5.9
+   "win_pct": 46.4,
+   "avg_turn_of_wins": 6.8
   },
   {
    "file": "sim/decks/piccolo_red_friend.txt",
    "name": "redder Pic 1.0",
    "mp": "Piccolo",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 45.1,
-   "avg_turn_of_wins": 5.8
+   "win_pct": 43.6,
+   "avg_turn_of_wins": 5.7
+  },
+  {
+   "file": "sim/decks/garlic_red.txt",
+   "name": "Red Garlic Jr",
+   "mp": "Garlic Jr.",
+   "mastery": "Red Enraged Mastery",
+   "win_pct": 43.2,
+   "avg_turn_of_wins": 5.9
   },
   {
    "file": "decks/vegeta_awakening_saiyan_dynamic.txt",
    "name": "Vegeta AW Saiyan Dynamic",
    "mp": "Vegeta",
    "mastery": "Saiyan Dynamic Mastery",
-   "win_pct": 44.5,
-   "avg_turn_of_wins": 7.0
+   "win_pct": 42.5,
+   "avg_turn_of_wins": 6.9
   },
   {
    "file": "decks/lord_slug_namekian_knowledge.txt",
    "name": "Lord Slug Namekian Knowledge",
    "mp": "Lord Slug",
    "mastery": "Namekian Knowledge Mastery",
-   "win_pct": 40.8,
+   "win_pct": 39.0,
    "avg_turn_of_wins": 7.9
   },
   {
@@ -152,7 +152,7 @@
    "name": "Raditz red",
    "mp": "Raditz",
    "mastery": "Red Enraged Mastery",
-   "win_pct": 40.4,
+   "win_pct": 38.6,
    "avg_turn_of_wins": 6.2
   },
   {
@@ -160,23 +160,23 @@
    "name": "Nail Namekian Knowledge",
    "mp": "Nail",
    "mastery": "Namekian Knowledge Mastery",
-   "win_pct": 38.5,
-   "avg_turn_of_wins": 7.9
+   "win_pct": 36.4,
+   "avg_turn_of_wins": 7.8
   },
   {
    "file": "decks/raditz_saiyan.txt",
    "name": "Raditz saiyan",
    "mp": "Raditz",
    "mastery": "Saiyan Rampaging Mastery",
-   "win_pct": 35.6,
-   "avg_turn_of_wins": 6.8
+   "win_pct": 33.2,
+   "avg_turn_of_wins": 6.7
   },
   {
    "file": "decks/raditz_adaptive.txt",
    "name": "Raditz adaptive",
    "mp": "Raditz",
    "mastery": "Orange Adaptive Mastery",
-   "win_pct": 34.9,
+   "win_pct": 32.6,
    "avg_turn_of_wins": 7.5
   },
   {
@@ -184,7 +184,7 @@
    "name": "Black Krillin",
    "mp": "Krillin",
    "mastery": "Black Devious Mastery",
-   "win_pct": 23.9,
+   "win_pct": 22.8,
    "avg_turn_of_wins": 7.5
   },
   {
@@ -192,16 +192,16 @@
    "name": "WHEELO MILL V2",
    "mp": "Dr. Wheelo",
    "mastery": "Black Devious Mastery",
-   "win_pct": 21.3,
-   "avg_turn_of_wins": 7.4
+   "win_pct": 19.6,
+   "avg_turn_of_wins": 7.3
   },
   {
    "file": "sim/decks/nail_black_v2.txt",
    "name": "Naaaiiillv2",
    "mp": "Nail",
    "mastery": "Black Devious Mastery",
-   "win_pct": 19.9,
-   "avg_turn_of_wins": 7.8
+   "win_pct": 18.3,
+   "avg_turn_of_wins": 7.6
   }
  ],
  "retired": [

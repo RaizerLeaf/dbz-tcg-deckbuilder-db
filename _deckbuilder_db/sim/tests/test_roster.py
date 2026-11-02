@@ -127,6 +127,32 @@ class Roster(unittest.TestCase):
         res = R.playtest(files[0], n=2)
         self.assertEqual({r['opponent'] for r in res['rows']}, set(files[1:]))
 
+    def test_playtest_rows_follow_roster_rank_and_carry_the_rank(self):
+        files = self.one_per_family()[:4]
+        for f in files:
+            R.add(f, games=2)
+        order = [d['file'] for d in R.read()['decks']]
+        res = R.playtest(files[0], n=2)
+        ranks = [r['opp_rank'] for r in res['rows']]
+        self.assertEqual(ranks, sorted(ranks), 'rows are in roster rank order')
+        for r in res['rows']:
+            self.assertEqual(order.index(r['opponent']) + 1, r['opp_rank'])
+        self.assertEqual(res['self_rank'], order.index(files[0]) + 1)
+
+    def test_deck_list_is_best_first(self):
+        from sim import decklist
+        r = {'max': 25, 'decks': [{'file': 'decks/a.txt', 'mp': 'A', 'mastery': 'M', 'win_pct': 80.0, 'avg_turn_of_wins': 5.0},
+                                  {'file': 'decks/b.txt', 'mp': 'B', 'mastery': 'M', 'win_pct': 40.0, 'avg_turn_of_wins': 6.0}],
+             'retired': [], 'superseded': []}
+        text = decklist.build(r)
+        self.assertLess(text.index('| 1 | 80.0%'), text.index('| 2 | 40.0%'))
+
+    def test_roster_changes_do_not_touch_the_real_deck_list(self):
+        from sim import decklist
+        before = decklist.DECK_LIST_FILE.read_text(encoding='utf-8')
+        R.add(self.one_per_family()[0], games=2)       # roster file is a temp file here, so DECK_LIST.md must stay as it was
+        self.assertEqual(decklist.DECK_LIST_FILE.read_text(encoding='utf-8'), before)
+
 
 if __name__ == '__main__':
     unittest.main()

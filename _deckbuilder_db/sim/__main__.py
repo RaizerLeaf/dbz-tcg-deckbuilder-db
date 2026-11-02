@@ -4,6 +4,7 @@
   bo3 A B [--seed 1]                                        a best-of-3 with the full play log
   game A B [--seed 1] [--first a|b]                         one game with the full play log
   coverage CODE                                             which parts of the deck the simulator models
+  decklist                                                  rewrite DECK_LIST.md (best performing deck first; also done by roster add / rebuild)
   playtest DECK [-n 20] [--table]                                     play a deck against every roster deck (20 games each, 50 at most): for deck building
   roster [add FILE | rebuild]                               the test-deck roster (best 25 decks, one version per MP + Mastery); `add` ranks a finished deck into it
 A and B are deck codes or paths to decks/*.txt files.
@@ -114,11 +115,14 @@ def print_table(res):
         items = sorted(((k[len(prefix):], v) for k, v in how.items() if k.startswith(prefix)), key=lambda kv: -kv[1])
         return ', '.join(f'{k} {v}' for k, v in items) or '-'
     print()
-    print(f"| Opponent | Wins | Win % | Avg turn of wins | My win condition | How I lose |")
+    me = f"#{res['self_rank']} of {res['roster_size']} on the roster" if res.get('self_rank') else 'not on the roster'
+    print(f"Matchup chart for {res['deck']} ({me}); opponents in roster rank order, (#n) = the opponent's roster rank")
+    print()
+    print(f"| Opponent (roster rank) | Wins | Win % | Avg turn of wins | My win condition | How I lose |")
     print('|---|---|---|---|---|---|')
     for r in res['rows']:
         t = r['avg_turn_of_wins'] if r['avg_turn_of_wins'] is not None else '-'
-        print(f"| {r['opp_name']} | {r['wins']}/{r['games']} | {100 * r['wins'] / r['games']:.0f}% | {t} | {part(r['how'], 'wins by ')} | {part(r['how'], 'loses to ')} |")
+        print(f"| {r['opp_name']} (#{r['opp_rank']}) | {r['wins']}/{r['games']} | {100 * r['wins'] / r['games']:.0f}% | {t} | {part(r['how'], 'wins by ')} | {part(r['how'], 'loses to ')} |")
     tw = sum(r['wins'] for r in res['rows'])
     tg = sum(r['games'] for r in res['rows'])
     print(f"| **Overall** | {tw}/{tg} | {100 * tw / tg:.0f}% | | | |")
@@ -139,7 +143,7 @@ def cmd_playtest(args):
         tot_g += r['games']
         how = ', '.join(f'{k} {v}' for k, v in sorted(r['how'].items()))
         t = f"{r['avg_turn_of_wins']}" if r['avg_turn_of_wins'] is not None else '-'
-        print(f"  vs {r['opp_name']:<26} ({r['opponent']}): wins {r['wins']:>2}/{r['games']}  avg turn of its wins {t:>5}   [{how}]")
+        print(f"  vs {r['opp_name'] + ' (#' + str(r['opp_rank']) + ')':<32} ({r['opponent']}): wins {r['wins']:>2}/{r['games']}  avg turn of its wins {t:>5}   [{how}]")
     if not res['rows']:
         print('  the roster is empty or only contains this deck: run `python -m sim roster rebuild`')
         return
@@ -148,6 +152,12 @@ def cmd_playtest(args):
     worst = min(res['rows'], key=lambda r: r['wins'])
     print(f'  overall {100 * tot_w / tot_g:.0f}% over {tot_g} games. Read a play log of the worst matchup:')
     print(f"    python -m sim game {args.a} {worst['opponent']} --seed 1")
+
+
+def cmd_decklist(args):
+    from . import decklist
+    decklist.write(R.read())
+    print(f'wrote {decklist.DECK_LIST_FILE}')
 
 
 def cmd_roster(args):
@@ -202,6 +212,8 @@ def main():
     sp.add_argument('--allow-unmodelled', action='store_true')
     sp.add_argument('--table', action='store_true', help='also print the matchup chart (opponent, win %%, my win condition, how I lose) as a Markdown table')
     sp.set_defaults(fn=cmd_playtest)
+    sp = sub.add_parser('decklist')
+    sp.set_defaults(fn=cmd_decklist)
     sp = sub.add_parser('roster')
     sp.add_argument('action', nargs='?', default='show', choices=['show', 'add', 'rebuild'])
     sp.add_argument('file', nargs='?')

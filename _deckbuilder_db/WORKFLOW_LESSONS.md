@@ -10,7 +10,7 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - **2-3 ranked options with reasons** (style, Mastery, why), most to least recommended, not a single answer. Teach-by-example: when they correct you ("card text is literal", "Named cards must
   match the MP"), the correction is a rule: write it into the notes so it is not asked twice.
 - **Straightforward, plain wording.** They asked for the friends' page to be one linear set of steps and for jargon ("pack") to go. Test a page the way a first-time friend would read it.
-- **A full matchup chart with every deck.** Never summarise a playtest as one overall percentage: show a table of every roster deck with the win rate, your win condition in that matchup and how you lose (`python -m sim playtest <deck> -n 50 --table`). The owner asked for this after a Wheelo answer that only gave the overall rate and did not mention the friend's Red Piccolo.
+- **A full matchup chart with every deck, in roster rank order with each opponent's rank number after its name.** Never summarise a playtest as one overall percentage: show a table of every roster deck with the win rate, your win condition in that matchup and how you lose (`python -m sim playtest <deck> -n 50 --table`). The owner asked for this after a Wheelo answer that only gave the overall rate and did not mention the friend's Red Piccolo.
 - **Verified before presented.** A deck is decoded, re-encoded and checked by script before they see it. Say what you could not verify and what the model leaves out.
 - **Branches for big pieces of work** (simulator, friends' page), then they say "merge it". Small notes and fixes go straight to `main`. Commit and push after each batch.
 - **Other chats work in this repository at the same time.** Always `git fetch` and look at `origin/main` before editing shared files, put new knowledge in new files when possible
@@ -79,3 +79,5 @@ tool and sandbox gotchas, and how the generated files stay correct.
 - Simulator: Allies other than the Cell Jr. ones, second-use attacks, more MPs and Masteries (Red Ascension, Blue Protective, Black Perceptive/Conflict, Saiyan Masteries), a smarter AI, calibration against real games.
 - Optional: a GitHub Action that rebuilds `docs/` automatically (needs the owner's OK: it lives in `.github/`); a browser version of the simulator (Pyodide).
 - Open rules questions are listed at the end of `STRATEGY_KNOWLEDGE.md` and marked **(unverified)** in the notes. Ask the owner before relying on them.
+
+- **The deck list is generated.** `DECK_LIST.md` (best performing deck first) is rewritten by `python -m sim roster add|rebuild`; do not hand-edit it, and put a new deck's status text in `sim/deck_notes.json`.

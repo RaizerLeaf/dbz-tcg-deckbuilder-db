@@ -30,32 +30,34 @@ Ranked options: 1. Red Ascension (built). 2. Blue Protective (existing, the answ
 The 74% figure above was measured before it joined, against 25 decks including Lord Slug Red Namek, which has since been retired.)
 "My win condition" and "How I lose" count the games of each kind (MPPV = five anger on Level 4, Survival = a Life Deck ran out, DBV = Dragon Ball Victory).
 
-| Opponent | Wins | Win % | Avg turn of wins | My win condition | How I lose |
+Matchup chart for Wheelo Red Ascension (#4 of 25 on the roster); opponents in roster rank order, (#n) = the opponent's roster rank
+
+| Opponent (roster rank) | Wins | Win % | Avg turn of wins | My win condition | How I lose |
 |---|---|---|---|---|---|
-| Orange Trunks V5 | 18/50 | 36% | 5.5 | MPPV 15, Survival 3 | Survival 31, MPPV 1 |
-| Red Trunks Draft | 18/50 | 36% | 5.6 | MPPV 17, Survival 1 | MPPV 30, Survival 2 |
-| Raditz orange | 32/50 | 64% | 5.2 | MPPV 32 | MPPV 18 |
-| Vegeta Pinnacle Red | 19/50 | 38% | 5.3 | MPPV 16, Survival 3 | MPPV 18, Survival 13 |
-| Cell Jr. Red Ascension | 43/50 | 86% | 5.7 | MPPV 41, Survival 2 | MPPV 5, Survival 2 |
-| Goku Saiyan Rampaging | 26/50 | 52% | 6.2 | MPPV 21, Survival 5 | Survival 24 |
-| Cell Jr. Blue Tag Team | 37/50 | 74% | 5.6 | MPPV 34, Survival 3 | Survival 13 |
-| Goku Red Enraged | 19/50 | 38% | 5.2 | MPPV 16, Survival 3 | MPPV 17, Survival 14 |
-| Goku Blue Tag Team | 30/50 | 60% | 5.7 | Survival 17, MPPV 13 | Survival 20 |
-| Cell Jr. Black Perceptive | 46/50 | 92% | 5.2 | MPPV 42, Survival 4 | Survival 4 |
-| Nail Red Enraged | 43/50 | 86% | 5.7 | MPPV 33, Survival 10 | MPPV 6, Survival 1 |
-| Wheelo Blue Lockdown | 25/50 | 50% | 6.4 | Survival 14, MPPV 11 | Survival 25 |
-| Nappa Saiyan Clench | 48/50 | 96% | 5.2 | MPPV 46, Survival 2 | Survival 2 |
-| Red Garlic Jr | 37/50 | 74% | 5.2 | MPPV 36, Survival 1 | MPPV 13 |
-| redder Pic 1.0 | 36/50 | 72% | 5.1 | MPPV 36 | MPPV 12, Survival 2 |
-| Vegeta AW Saiyan Dynamic | 35/50 | 70% | 5.8 | MPPV 33, Survival 2 | Survival 15 |
-| Lord Slug Namekian Knowledge | 35/50 | 70% | 4.9 | MPPV 35 | Survival 13, DBV 2 |
-| Raditz red | 44/50 | 88% | 4.9 | MPPV 43, Survival 1 | MPPV 6 |
-| Nail Namekian Knowledge | 49/50 | 98% | 5.6 | MPPV 49 | Survival 1 |
-| Raditz saiyan | 48/50 | 96% | 5.1 | MPPV 48 | MPPV 2 |
-| Raditz adaptive | 48/50 | 96% | 5.4 | MPPV 48 | MPPV 2 |
-| Black Krillin | 40/50 | 80% | 5.9 | MPPV 35, Survival 5 | Survival 10 |
-| WHEELO MILL V2 | 50/50 | 100% | 5.2 | MPPV 47, Survival 3 | - |
-| Naaaiiillv2 | 50/50 | 100% | 5.8 | MPPV 47, Survival 3 | - |
+| Orange Trunks V5 (#1) | 18/50 | 36% | 5.5 | MPPV 15, Survival 3 | Survival 31, MPPV 1 |
+| Red Trunks Draft (#2) | 18/50 | 36% | 5.6 | MPPV 17, Survival 1 | MPPV 30, Survival 2 |
+| Raditz orange (#3) | 32/50 | 64% | 5.2 | MPPV 32 | MPPV 18 |
+| Vegeta Pinnacle Red (#5) | 19/50 | 38% | 5.3 | MPPV 16, Survival 3 | MPPV 18, Survival 13 |
+| Cell Jr. Red Ascension (#6) | 43/50 | 86% | 5.7 | MPPV 41, Survival 2 | MPPV 5, Survival 2 |
+| Goku Saiyan Rampaging (#7) | 26/50 | 52% | 6.2 | MPPV 21, Survival 5 | Survival 24 |
+| Cell Jr. Blue Tag Team (#8) | 37/50 | 74% | 5.6 | MPPV 34, Survival 3 | Survival 13 |
+| Goku Red Enraged (#9) | 19/50 | 38% | 5.2 | MPPV 16, Survival 3 | MPPV 17, Survival 14 |
+| Goku Blue Tag Team (#10) | 30/50 | 60% | 5.7 | Survival 17, MPPV 13 | Survival 20 |
+| Cell Jr. Black Perceptive (#11) | 46/50 | 92% | 5.2 | MPPV 42, Survival 4 | Survival 4 |
+| Nail Red Enraged (#12) | 43/50 | 86% | 5.7 | MPPV 33, Survival 10 | MPPV 6, Survival 1 |
+| Wheelo Blue Lockdown (#13) | 25/50 | 50% | 6.4 | Survival 14, MPPV 11 | Survival 25 |
+| Nappa Saiyan Clench (#14) | 48/50 | 96% | 5.2 | MPPV 46, Survival 2 | Survival 2 |
+| Red Garlic Jr (#15) | 37/50 | 74% | 5.2 | MPPV 36, Survival 1 | MPPV 13 |
+| redder Pic 1.0 (#16) | 36/50 | 72% | 5.1 | MPPV 36 | MPPV 12, Survival 2 |
+| Vegeta AW Saiyan Dynamic (#17) | 35/50 | 70% | 5.8 | MPPV 33, Survival 2 | Survival 15 |
+| Lord Slug Namekian Knowledge (#18) | 35/50 | 70% | 4.9 | MPPV 35 | Survival 13, DBV 2 |
+| Raditz red (#19) | 44/50 | 88% | 4.9 | MPPV 43, Survival 1 | MPPV 6 |
+| Nail Namekian Knowledge (#20) | 49/50 | 98% | 5.6 | MPPV 49 | Survival 1 |
+| Raditz saiyan (#21) | 48/50 | 96% | 5.1 | MPPV 48 | MPPV 2 |
+| Raditz adaptive (#22) | 48/50 | 96% | 5.4 | MPPV 48 | MPPV 2 |
+| Black Krillin (#23) | 40/50 | 80% | 5.9 | MPPV 35, Survival 5 | Survival 10 |
+| WHEELO MILL V2 (#24) | 50/50 | 100% | 5.2 | MPPV 47, Survival 3 | - |
+| Naaaiiillv2 (#25) | 50/50 | 100% | 5.8 | MPPV 47, Survival 3 | - |
 | **Overall** | 876/1200 | 73% | | | |
 
 Reading it: against the fast anger decks (Orange Trunks, Red Trunks, Vegeta Pinnacle Red, Goku Red Enraged) it is a coin flip at best and loses the anger race, except Orange Trunks, which beats it by Survival (31 of 32 losses)

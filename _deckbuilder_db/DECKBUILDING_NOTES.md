@@ -17,7 +17,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 8. **Playtest it in the simulator before finalizing (required).** Reading card text is not enough: the simulator shows whether the plan actually runs (does the engine come online, do the key
    cards fire, how many turns to Level 3/4, does the deck run out of cards first). See "Playtesting a deck in the simulator" below. Adjust the list from what it shows, then re-check legality (step 7).
 9. Present the deck by role, the code in a fenced block, the simulator playtest (what you ran, what was unmodelled, what you saw) and every unverified assumption; ask the owner to import it.
-   **Always include the matchup chart (owner's rule, 2026-11-02):** run `python -m sim playtest decks/<name>.txt -n 50 --table` and paste the table into the answer: **one row for every roster deck** (never only the overall number or a few matchups), with
+   **Always include the matchup chart (owner's rule, 2026-11-02):** run `python -m sim playtest decks/<name>.txt -n 50 --table` and paste the table into the answer: **one row for every roster deck, in roster rank order, with the opponent's rank number after its name, e.g. `Orange Trunks V5 (#1)`** (the command does this; never only the overall number or a few matchups), with
    the win rate, **your win condition in that matchup** (MPPV / Survival / Dragon Ball Victory, with counts) and **how you lose** (to what, with counts). Also save it in the deck's comparison file. If the owner names an opponent (e.g. the friend's Red Piccolo), call its row out.
    Save the code in `decks/`, run `python -m sim roster add decks/<name>.txt` (step 5 of the playtest section), record new owner rulings and lessons here, then commit and push to `main`.
 
@@ -36,7 +36,7 @@ Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/READM
 4a. **Show the whole matchup chart** (`playtest ... --table`, see workflow step 9): every roster deck, win rate, your win condition and how you lose. A bare "74% overall" is not enough.
 4. **Use what you see:** cut cards that never matter, add support for the step that stalled, re-encode and re-check. Then, when you present the deck, say what you simulated, which parts were
    unmodelled (from `coverage`), what the logs showed, and that the simulator is a rough model, not a prediction.
-5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt` and `sim/roster.json`. The command
+5. **Add the finished deck to the roster:** save its code to `decks/<name>.txt`, then add its status line to `sim/deck_notes.json`, run `python -m sim roster add decks/<name>.txt` and commit `decks/<name>.txt`, `sim/roster.json`, `sim/deck_notes.json` and the regenerated `DECK_LIST.md` (the roster command rewrites it, best performing deck first). The command
    ranks the deck against the current roster (round robin, fixed seeds): if it is in the top 25 by win rate it joins and, once the roster is full, the lowest-ranked deck is retired; if it does not make the top 25 it is not added. If an older version of the same deck (same MP + Mastery) is on the roster, the better of the two stays and the other is listed as superseded. It only plays the new deck against the roster (pair results are cached), so it takes well under a second.
    It refuses a deck whose MP levels or Mastery are NOT MODELLED (do step 2 first). Say in your answer whether the deck joined the roster.
 
@@ -210,44 +210,12 @@ Things to know:
   Black is behind both. All three lose to the fast Trunks decks (Orange Trunks 20-28%, Red Trunks 22-34%) and to Raditz Orange (Red Ascension 20%).
   Builds on file: `decks/cell_jr_red_ascension.txt`, `cell_jr_blue_tag_team.txt`, `cell_jr_black_perceptive.txt` (see the table below).
 
-## Decks on file (codes are in the files; decode with `deckcode.py`)
-`decks/` holds owner-exported decks; `sim/decks/` holds decks built in sessions for simulation. Only codes the owner imported are confirmed to load in the app.
-| File | MP / style / Mastery | Status |
-|---|---|---|
-| `sim/decks/wheelo_black_v2.txt` | Dr. Wheelo, Black, Black Devious | imported by the owner (60 cards, MP and Mastery correct); plays a destroy/mill plan, loses to fast MPPV decks in the simulator |
-| `sim/decks/piccolo_red_friend.txt` | Piccolo, Red, Red Enraged (the friend's "redder Pic 1.0") | owner's friend's deck; a very fast, niche MPPV deck: one stress test among several, not the general benchmark |
-| `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
-| `decks/trunks_orange_v5.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Defiant / Overpowering) | V4 plus six simulator-guided swaps, **on the V4 level stack (Defiant / Overpowering), not the owner's intended one**; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported |
-| `decks/trunks_orange_v6.txt`, `trunks_orange_v6_lite.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Energy Charged / Overwhelming, the owner's intended stack) | simulator-tuned from V5; V6 is the stronger, riskier rewrite, V6 lite keeps the Drill engine; see `TRUNKS_STYLE_COMPARISON.md`; not confirmed in the app |
-| `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
-| `decks/lord_slug_red_namek.txt` | Lord Slug, Red, Red Enraged | **V4, Namek balls** (the roster version; 15% over 500 playtest games); not confirmed in the app |
-| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | V3, Earth balls (older version, same family; superseded on the roster); not confirmed in the app |
-| `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
-| `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
-`decks/` (built in a cloud session, deck codes written by `deckcode.py`):
-| File | MP / style / Mastery | Status |
-|---|---|---|
-| `decks/nappa_saiyan_clench.txt` | Nappa, Saiyan, Saiyan Rampaging | stage-drain plan around Saiyan Clench; **imported by the owner (2026-11-02): 60 cards, no errors**; the first two attempts failed (see Deck code format) |
-| `decks/nail_red_enraged.txt` | Nail, Red, Red Enraged | anger/MPPV build with Rejuvenate cards (Red Hurl, Duck, Blaze, Right Blast), no Dragon Balls; first pick in `NAIL_STYLE_COMPARISON.md`; on the roster (11th of 25, 52%; 54% over 480 playtest games). Not imported yet |
-| `decks/nail_namekian_knowledge.txt` | Nail, Namekian, Namekian Knowledge | Rejuvenate/Namek-ball build, second pick; wins mostly by Survival (mill) around turn 8; on the roster (19th of 25, 39%; 39% over 480 playtest games). Not imported yet |
-| `decks/wheelo_blue_lockdown.txt` | Dr. Wheelo, Blue, Blue Protective | anti-anger mill build for the owner's friend, who is still trying to make Wheelo work. Not imported or simulated; **the owner will report back on how it plays later** (record the result here). Owner said to leave it as is; a possible swap (Blue Smug Punch -> a third Wall Breaker) was offered and not made |
-| `decks/lord_slug_namekian_knowledge.txt` | Lord Slug, Namekian, Namekian Knowledge (Namek balls) | built 2026-11-02; style comparison and playtest in `LORD_SLUG_STYLES.md`; 56% over 600 roster games (50 per opponent), roster rank 6 of 17 after the later Vegeta and Raditz decks joined; **not imported into the app yet** |
-| `decks/raditz_orange.txt` | Raditz, Orange, Orange Retribution | Drill/Setup engine plus anger 2 a turn; **simulated 82% vs the roster, joined it at rank 2**; check clean (60 cards); not imported by the owner |
-| `decks/raditz_red.txt`, `raditz_saiyan.txt`, `raditz_adaptive.txt` | Raditz, Red Enraged / Saiyan Rampaging / Orange Adaptive | comparison builds (51% / 48% / 44% in the simulator); check clean; not on the roster, not imported |
-| `decks/vegeta_pinnacle_red_ascension.txt` | Vegeta (Hero), Awakening levels, Red, Red Ascension | built 2026-11-02, checked with `deckcode.py check` (60 cards, no errors); playtested against the roster (72% over 200 games; 69% over 500 at 50 games each, see roster); coverage 86% modelled; **on the roster (rank 3 of 11)**; **not imported in the app yet** |
-| `decks/vegeta_evolution_red_ascension.txt` | Vegeta (Hero), Evolution levels, Red, Red Ascension | ranked 2nd, same checks, not imported |
-| `decks/vegeta_awakening_saiyan_dynamic.txt` | Vegeta (Hero), Awakening levels, Saiyan, Saiyan Dynamic (start on Level 2) | ranked 3rd, same checks, not imported |
-| `decks/wheelo_red_ascension.txt` | Dr. Wheelo, Red, Red Ascension (Set 3 levels) | built 2026-11-02; MPPV race deck, 74% over 1,250 playtest games, **roster rank 4 of 25**; check clean (60 cards); comparison builds `wheelo_red_ascension_v1`, `wheelo_red_enraged`, `wheelo_black_perceptive`, `wheelo_black_conflict` (not on the roster); **not imported in the app yet** |
-| `decks/goku_blue_tag_team.txt` | Goku, Blue, Blue Tag Team (L1 Training, L2 Determined, L3 Calm, L4 Dashing) | Ally-search Goku; 59% over 1,100 playtest games (roster rank 10 of 23); not imported |
-| `decks/goku_red_enraged.txt` | Goku, Red, Red Enraged (same levels) | 57% over 1,100 playtest games (roster rank 8); Red core from the friend's Piccolo deck minus Piccolo cards; not imported |
-| `decks/goku_saiyan_rampaging.txt` | Goku, Saiyan, Saiyan Rampaging (same levels) | 64% over 1,100 playtest games (roster rank 6); Rampaging's Power not modelled; not imported |
-
-Cell Jr. builds (written by `scripts/build_cell_jr_decks.py`, which also verifies them: round trip, 60 cards, limits, Named, style match, 3/3/3 Cell Jr. Allies; simulated, none imported into the app yet; all three are on the roster):
-| File | MP / style / Mastery | Status |
-|---|---|---|
-| `decks/cell_jr_red_ascension.txt` | Cell Jr., Red, Red Ascension | tied for best in the model (69% over 950 playtest games, round-robin rank 5): 0.92 anger points per card, Ascension adds up to 2 anger a turn, Level 4 in ~80% of games, wins by MPPV; uses the Ally text least |
-| `decks/cell_jr_blue_tag_team.txt` | Cell Jr., Blue, Blue Tag Team | 67% (tied with Red, round-robin rank 6): Waiting Drill + Rejuvenate-Allies mill engine, wins by Survival; 0.32 anger points per card so it lives on Levels 1-2 (Blue Dominance jumps to L2) |
-| `decks/cell_jr_black_perceptive.txt` | Cell Jr., Black, Black Perceptive | 56% (round-robin rank 7): mill stack (Chomp, Choke, Wilt, Taunt, Command); Perceptive's Power destroys your own top card too |
+## Decks on file
+**The deck list lives in `DECK_LIST.md`** (generated, never edited by hand): every deck file, **best performing first** (roster rank and round-robin win rate), then decks that left the roster, then decks that were never ranked.
+It is rewritten automatically every time `python -m sim roster add <deck>` or `roster rebuild` runs, so the order follows the win rates as new decks are tested; `python -m sim decklist` regenerates it by hand.
+The hand-written status text for each deck (imported by the owner or not, what it is for) is in `sim/deck_notes.json`: when you build a deck, add its entry there (`"decks/<name>.txt": {"status": "..."}`) **before** `roster add`, and commit `DECK_LIST.md`.
+`decks/` holds owner-exported decks and decks built in cloud sessions; `sim/decks/` holds older simulation decks. Only codes the owner imported are confirmed to load in the app.
+Builder scripts that also verify their decks: `scripts/build_cell_jr_decks.py`, `scripts/build_wheelo_decks.py`.
 
 ## Deck code format (from the owner's web app)
 **Use `scripts/deckcode.py`** to encode, decode and check codes (`python deckcode.py check "<code>"`; `python deckcode.py test` round-trips the
