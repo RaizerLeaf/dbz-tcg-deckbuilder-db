@@ -9,6 +9,10 @@ other people) build decks.
 - `_deckbuilder_db/DECKBUILDING_NOTES.md` - **deck-building rules, legality checklist, method for comparing styles, deck code format, lessons
   from past decks.** Read it before suggesting or editing any deck.
 - `_deckbuilder_db/README.md` - how the database was built, field meanings, pipeline order.
+- `_deckbuilder_db/STRATEGY_KNOWLEDGE.md` - **verified rules (anger, damage, Dragon Balls, "play" vs "place into play"), what makes a fast MPPV deck, the anger
+  numbers by style, simulation results, deck-code review, mistakes to avoid and open questions.**
+- Deck codes: use `scripts/deckcode.py` (encode / decode / check). It was written on branch `claude/lucid-wright-aczurz`; use it from there until it is merged into `main`.
+  Never retype a deck code by hand: generate it with the script and write it to a file.
 
 ## Hard rules
 - Never guess card text or rules. If something is unclear or unverified, say so.
