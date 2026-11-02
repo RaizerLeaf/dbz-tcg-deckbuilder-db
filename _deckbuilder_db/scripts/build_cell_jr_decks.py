@@ -27,10 +27,10 @@ DECKS = {
         cards={**CORE, "Cell Jr.'s Swarm": 2, "Cell Jr.'s Surround": 2, 'Visiting the Past': 2,
                'Blue Waiting Drill': 3, 'Blue Arrest': 3, 'Blue Slash': 3, 'Blue Challenging Strike': 2,
                'Blue Restraint': 1, 'Blue Discharge': 2,
-               'Blue Blockade': 3, 'Blue Deterrence': 2, 'Blue Defensive Stance': 2, 'Blue Fist Catch': 1,
+               'Blue Blockade': 3, 'Blue Deterrence': 2, 'Blue Defensive Stance': 2, 'Blue Fist Catch': 2,
                'Blue Concentrated Blast': 2, 'Blue Stretch Kick': 2, 'Blue Ki Build Up': 3, 'Blue Double Blast': 2,
                'Blue Biting Drill': 2, 'Blue Lunge': 1, 'Blue Overcharge': 2, 'Blue Dominance': 1,
-               'Blue Head Knock': 1, 'Blue Rest': 1, 'Blue Back Break': 1, 'Blue Intimidation': 1}),
+               'Blue Head Knock': 1, 'Blue Rest': 1, 'Blue Back Break': 1}),
     'red_ascension': dict(
         title='Cell Jr. Red Ascension', mastery='Red Ascension Mastery',
         cards={**CORE, "Cell Jr.'s Surround": 1, 'Visiting the Past': 1,

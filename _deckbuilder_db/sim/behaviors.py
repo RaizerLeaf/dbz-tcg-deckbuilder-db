@@ -20,6 +20,7 @@ class Behavior:
     def on_crit_damage(self, p, opp): pass
     def on_advance(self, p): pass
     def on_rejuvenate(self, p): pass
+    def on_ally_rejuvenated(self, p): pass
     def on_gain_stages(self, p, n): pass
     def on_card_discarded(self, p): pass
     def on_play(self, p, opp, card): pass
@@ -53,6 +54,8 @@ class Behavior:
 
 
 MP_BEH, MASTERY_BEH, CARD_PASSIVE = {}, {}, {}
+ALLY_PASSIVE = {}          # (card name, subtitle) -> Behavior of an Ally while it is in play (Allies share names, so the subtitle is part of the key)
+MODELLED_ALLIES = {'Cell Jr.'}   # Allies the AI knows how to use; every other Ally is still never played
 CARD_EXTRA, CARD_LEAVE_DECK, CARD_DISCARD_TRIGGER, CARD_VALUE = {}, {}, {}, {}
 
 
@@ -74,6 +77,13 @@ def passive(*names):
     def deco(cls):
         for n in names:
             CARD_PASSIVE[n] = cls()
+        return cls
+    return deco
+
+
+def ally_passive(name, sub):
+    def deco(cls):
+        ALLY_PASSIVE[(name, sub)] = cls()
         return cls
     return deco
 
@@ -709,6 +719,245 @@ class KrillinL4(Behavior):
         return False
 
 
+# =================================================================================================================
+# Cell Jr. (Villain, Set 7) and the Ally cards its decks use
+#
+# Level 1 allows 3 copies of each Cell Jr. Ally. All four levels spend Cell Jr. Allies FROM HAND (discard / Rejuvenate / banish),
+# so hand Allies are fuel; Trapped is the one Ally the AI plays (its Continuous adds 1 to every destroy effect).
+# NOT MODELLED: Escaping/Unrelenting Powers in play (Allies only act when the MP is at most 1 stage above 0), Allies being
+# damaged or redirected to, critical effects discarding Allies, Blue Waiting Drill's "whenever you play an Ally, Rejuvenate 1".
+# =================================================================================================================
+def is_cj(c): return c.ctype == 'Ally' and c.name == 'Cell Jr.'
+def cj_in(zone): return [x for x in zone if is_cj(x)]
+def _sub(c): return c.rec.get('subtitle')
+
+
+def _worth_stopping(card):
+    """The AI only spends a stop on an attack that matters (same rule as Blue Protective)."""
+    return (card.at or 0) + card.stage_flat >= 2 or card.life >= 2 or card.life_at or 'base_stage' in CARD_EXTRA.get(card.name, {})
+
+
+def pick_ally(p, cands):
+    """Which Ally the owner picks when a search lets him choose: a design not yet in play, Trapped first (its Continuous is the one that matters)."""
+    in_play = {_sub(a) for a in p.allies}
+    order = {'Trapped': 0, 'Escaping': 1, 'Unrelenting': 2}
+    return min(cands, key=lambda c: (_sub(c) in in_play, order.get(_sub(c), 3)))
+
+
+def play_ally(p, c, zone):
+    zone.remove(c)
+    p.allies.append(c)
+    p.log(f'  {p.label}: Ally {c.name} - {_sub(c)} enters play')
+
+
+def ally_leaves_play(p, c, how='banish'):
+    """An Ally in play leaves it. Escaping: 'when this card is leaving play, you may banish it to destroy the top card' (always taken)."""
+    p.allies.remove(c)
+    if _sub(c) == 'Escaping':
+        p.banished.append(c)
+        p.destroy_opp(1)
+    elif how == 'banish':
+        p.banished.append(c)
+    else:
+        p.deck.append(c)
+
+
+def plan_allies(p, o):
+    """Planning Step: play Trapped from hand if no Trapped is in play (one is enough; the other Allies stay in hand as fuel)."""
+    for c in list(p.hand):
+        if is_cj(c) and _sub(c) == 'Trapped' and not any(_sub(a) == 'Trapped' for a in p.allies):
+            play_ally(p, c, p.hand)
+
+
+def _spend_order(c): return {'Unrelenting': 0, 'Escaping': 1, 'Trapped': 2}.get(_sub(c), 3)
+def spend_ally(p):
+    """The Cell Jr. Ally to spend from hand: the least useful one first (Unrelenting, Escaping, then Trapped)."""
+    a = cj_in(p.hand)
+    return min(a, key=_spend_order) if a else None
+
+
+def discard_from_hand(p, c):
+    p.hand.remove(c)
+    p.discard.append(c)
+    p.log(f'    ({p.label} discards {c.name} - {_sub(c)} from hand)')
+    p.note_discard(c)
+
+
+_CONT_PRIORITY = ['Blue Waiting Drill', 'Cell Jr.', 'Black Viewing Drill', 'Blue Biting Drill']
+
+
+def fetch_continuous(p):
+    """Level 1 HIT: search the Life Deck for a card with a [Continuous] effect and play it (Drill -> Drills in play, Ally -> Allies in play)."""
+    cands = [x for x in p.deck if '[Continuous]' in x.text and x.ctype in ('Drill', 'Ally')]
+    cands = [x for x in cands if not (x.ctype == 'Ally' and not is_cj(x))]
+    if not cands:
+        return None
+    def rank(x):
+        if x.ctype == 'Ally':          # a design already in play is not fetched again (Trapped would stack: unverified); Trapped before Escaping before Unrelenting
+            if _sub(x) in {_sub(a) for a in p.allies}:
+                return 98
+            return {'Trapped': 1, 'Escaping': 60, 'Unrelenting': 70}.get(_sub(x), 80)
+        return _CONT_PRIORITY.index(x.name) if x.name in _CONT_PRIORITY else 50
+    c = min(cands, key=rank)
+    p.deck.remove(c)
+    p.rng.shuffle(p.deck)
+    if c.ctype == 'Ally':
+        p.allies.append(c)
+    else:
+        p.drills.append(c)
+    p.log(f'  {p.label}: Taunting HIT plays {c.name}')
+    return c
+
+
+CJ_L1 = synthetic('Taunting', 'POWER: [Attack] Physical attack. DAMAGE: 4 stages.')
+CJ_L2 = synthetic('On the Move', 'POWER: [Attack] Physical attack.')
+CJ_L3 = synthetic('Oppressive', 'POWER: [Attack] Physical attack. DAMAGE: 1 life card.')
+
+
+@mp('Cell Jr.', 'Taunting')
+class CellJrL1(Behavior):
+    """POWER: physical attack, 4 stages. You may discard a Cell Jr. Ally from hand: it cannot be stopped. HIT: search the Life Deck for a [Continuous] card and play it."""
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if not once_turn(p, 'cj_l1'):
+            return False
+        a = spend_ally(p)
+        p.tf['cj_unstop'] = a is not None
+        if a is not None:
+            discard_from_hand(p, a)
+        p.attack(opp, power=CJ_L1)
+        p.tf['cj_unstop'] = False
+        return True
+
+    def unstoppable(self, p, card): return card is CJ_L1 and p.tf.get('cj_unstop', False)
+
+    def after_hit(self, p, opp, card, removed):
+        if card is CJ_L1:
+            fetch_continuous(p)
+
+
+@mp('Cell Jr.', 'On the Move')
+class CellJrL2(Behavior):
+    """Continuous: once per combat discard a Cell Jr. Ally from hand to stop an attack. POWER: physical attack, 5 + X stages, X = Cell Jr. personalities in your discard pile."""
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if once_turn(p, 'cj_l2'):
+            p.attack(opp, power=CJ_L2)
+            return True
+        return False
+
+    def defend_power(self, p, atk, card, kind):
+        a = spend_ally(p)
+        if a is not None and _worth_stopping(card) and once(p, 'cj_l2_stop'):
+            discard_from_hand(p, a)
+            return True
+        return False
+
+
+
+@mp('Cell Jr.', 'Oppressive')
+class CellJrL3(Behavior):
+    """Continuous: Rejuvenate a Cell Jr. Ally from hand to stop a physical or energy attack (as often as you have Allies).
+    POWER: physical attack, 1 life card; first search the discard pile for 2 Cell Jr. Allies and Rejuvenate them. HIT: search the Life Deck for a Cell Jr. Ally and put it in hand."""
+    def has_power(self, p): return True
+
+    def power(self, p, opp):
+        if not once_turn(p, 'cj_l3'):
+            return False
+        for x in cj_in(p.discard)[:2]:
+            p.log(f'  {p.label}: Oppressive Rejuvenates {x.name} - {_sub(x)} from the discard pile')
+            p.rejuv_ally(x, p.discard)
+        p.attack(opp, power=CJ_L3)
+        return True
+
+    def after_hit(self, p, opp, card, removed):
+        if card is CJ_L3 and removed > 0:
+            fetch_from_deck(p, is_cj)
+
+    def defend_power(self, p, atk, card, kind):
+        a = spend_ally(p)
+        if a is not None and _worth_stopping(card):
+            p.log(f'    ({p.label} Rejuvenates {a.name} - {_sub(a)} from hand to stop {card.name})')
+            p.rejuv_ally(a, p.hand)
+            return True
+        return False
+
+
+@mp('Cell Jr.', 'Confident')
+class CellJrL4(Behavior):
+    """Action during combat (as often as you have Allies): banish a Cell Jr. Ally from hand to destroy the top 3 cards of the opponent's Life Deck.
+    Your physical attacks without AT base damage deal +3 stages (only attacks that already deal stage damage get it in this engine)."""
+    def stage_bonus(self, p, card, opp): return 3 if card.phys and card.at is None else 0
+    def has_power(self, p): return bool(cj_in(p.hand))
+
+    def power(self, p, opp):
+        a = spend_ally(p)
+        if a is None:
+            return False
+        p.hand.remove(a)
+        p.banished.append(a)
+        p.log(f'  {p.label}: banishes {a.name} - {_sub(a)} from hand')
+        p.destroy_opp(3)
+        return True
+
+
+@ally_passive('Cell Jr.', 'Trapped')
+class CjTrapped(Behavior):
+    """While you control 1 Ally, your effects that destroy cards from the top of the opponent's Life Deck are increased by 1 (UNVERIFIED: two Trapped in play stack)."""
+    def destroy_amount(self, p, n): return n + 1 if n > 0 else n
+
+
+# ---- Masteries used with Cell Jr. -------------------------------------------------------------------------------------
+@mastery('Blue Tag Team Mastery')
+class BlueTagTeam(Behavior):
+    """Start of the opponent's first turn: search for an Ally and put it into play (UNVERIFIED timing: done at game start). Instant POWER at the end of combat:
+    Rejuvenate an Ally from your Banished Zone (once per turn). 'Cannot be discarded by critical damage effects' is not modelled (the engine's critical effects never discard Allies)."""
+    def on_game_start(self, p):
+        a = [x for x in p.deck if x.ctype == 'Ally' and (is_cj(x) or p.mp_name != 'Cell Jr.')]
+        if a:
+            c = pick_ally(p, a)
+            p.deck.remove(c)
+            p.rng.shuffle(p.deck)
+            p.allies.append(c)
+            p.log(f'  {p.label}: Tag Team puts {c.name} - {_sub(c)} into play')
+
+    def end_of_combat(self, p, opp):
+        a = [x for x in p.banished if x.ctype == 'Ally']
+        if a and once_turn(p, 'tagteam'):
+            p.log(f'  {p.label}: Tag Team Rejuvenates {a[0].name} - {_sub(a[0])} from the Banished Zone')
+            p.rejuv_ally(a[0], p.banished)
+
+
+@mastery('Black Perceptive Mastery')
+class BlackPerceptive(Behavior):
+    """Continuous: your Styled attacks gain 'HIT: destroy an opponent's Setup or Drill'. POWER: destroy the top card of your Life Deck to destroy the top card of the opponent's;
+    if they destroyed a Physical or Energy Combat card your MP gains 4 stages, otherwise raise anger 1 (raising a player's anger is assumed to be your own)."""
+    def has_power(self, p): return len(p.deck) > 15
+
+    def power(self, p, opp):
+        if len(p.deck) > 15 and once_turn(p, 'perceptive'):
+            p.mill(1)
+            before = len(opp.discard)
+            p.destroy_opp(1)
+            hit = any(c.ctype in ('Physical Combat', 'Energy Combat') for c in opp.discard[before:])
+            p.log(f'  {p.label}: Perceptive POWER ({"+4 stages" if hit else "+1 anger"})')
+            if hit:
+                p.gain_stages(4)
+            else:
+                p.raise_anger(1)
+            return True
+        return False
+
+    def after_hit(self, p, opp, card, removed):
+        if card.style and card.style == p.styled() and card.card_id.split(':')[0] != 'synthetic':
+            if opp.drills:
+                opp.discard.append(opp.drills.pop())
+            elif opp.setups:
+                opp.discard.append(opp.setups.pop())
+
+
 def life_adjust(p, opp, c):
     """Cross-card adjustments applied to life damage: Krillin's 9 - X, Earth Dragon Ball 1 (all attacks +1)."""
     adj = 0
@@ -846,6 +1095,7 @@ def _fetch_discard(p, pred):
     if x:
         p.discard.remove(x)
         p.hand.append(x)
+    return x is not None
 
 
 def _drill_from_discard(p):
@@ -905,7 +1155,17 @@ _x('Red Destiny', use=lambda p, o, c: p.cb.update(reduce_life=p.cb['reduce_life'
 _x('Red Blazing Aura', use=lambda p, o, c: p.cb.update(reduce_life=p.cb['reduce_life'] + 3, reduce_stage=p.cb['reduce_stage'] + 3))
 _x('Red Burning Rage', use=lambda p, o, c: p.cb.update(burning=True, noend=True))
 _x('Red Takeover', use=lambda p, o, c: p.crit_effect())
-_x('Visiting the Past', use=lambda p, o, c: _fetch_discard(p, lambda x: True), can_use=lambda p, o, c: bool(p.discard))
+def _visiting(p, o, c):
+    if not _fetch_discard(p, is_cj):          # a Cell Jr. Ally first, else the top card of the discard pile
+        _fetch_discard(p, lambda x: True)
+
+
+def _fetch_discard_found(p, pred):
+    return find_in(reversed(p.discard), pred) is not None
+
+
+_x('Visiting the Past', use=_visiting,
+   can_use=lambda p, o, c: bool(p.discard) and (p.mp_name != 'Cell Jr.' or _fetch_discard_found(p, is_cj)))
 _x("Time Is A Warrior's Tool", defend=lambda p, atk, x, c: atk.cb.update(stopall=True))
 _x('Black Duck', defend=lambda p, atk, x, c: (p.lose_card(p.deck.pop(0), 'destroy') if p.deck else None,
                                               p.destroy_opp(2) if p.rng.random() < 3 / max(3, len(p.deck)) else None))
@@ -913,6 +1173,186 @@ _x('Black Running Guard', defend=lambda p, atk, x, c: p.destroy_opp(2) if c.styl
 _x('Black Flinch', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Black Upward Dodge', defend=lambda p, atk, x, c: p.cb.update(next_life=p.cb['next_life'] + 4))
 _x('Villainous Visage', on_damaged=lambda p, atk, x, removed: (p.hand.remove(x), p.banished.append(x), p.destroy_opp(2 * removed)))
+
+# ---- Cell Jr. decks (Blue Tag Team / Red Ascension / Black Perceptive) -------------------------------------------------
+_x('On the Move', base_stage=lambda p, o, c: 5 + len(cj_in(p.discard)))
+
+
+def _surround(p, o, c):
+    """Search the Life Deck for 2 Cell Jr. Allies and put them into play; the card is shuffled into the Life Deck after use."""
+    for _ in range(2):
+        a = [x for x in p.deck if is_cj(x)]
+        if a:
+            x = pick_ally(p, a)
+            p.deck.remove(x)
+            p.allies.append(x)
+    p.deck.append(c)
+    p.rng.shuffle(p.deck)
+    c.keep = True
+
+
+def _swarm_hit(p, o, c, removed):
+    """HIT: banish any number of Cell Jr. Allies in play (all of them); the opponent destroys the top X cards, X = Allies banished (counts as your effect, owner ruling)."""
+    n = 0
+    for a in list(p.allies):
+        if is_cj(a):
+            ally_leaves_play(p, a, 'banish')
+            n += 1
+    if n:
+        p.destroy_opp(n)
+
+
+_x("Cell Jr.'s Surround", use=_surround, can_use=lambda p, o, c: any(is_cj(x) for x in p.deck) and len(p.allies) < 3)
+_x("Cell Jr.'s Swarm", hit=_swarm_hit)
+CARD_VALUE.update({'Cell Jr.': 9, "Cell Jr.'s Swarm": 5})
+
+
+def _arrest_now(p, o, c):
+    """Rejuvenate 3 Allies from your discard pile (before the damage); each one is a Rejuvenate of an Ally."""
+    for x in [x for x in p.discard if x.ctype == 'Ally'][-3:]:
+        p.rejuv_ally(x, p.discard)
+
+
+def _arrest_hit(p, o, c, removed):
+    a = [x for x in p.deck if x.ctype == 'Ally' and is_cj(x)]
+    if a:
+        x = pick_ally(p, a)
+        p.deck.remove(x)
+        p.allies.append(x)
+        p.rng.shuffle(p.deck)
+
+
+def _restraint(p, o, c):
+    """Search the Life Deck for up to 3 Allies and banish them; the opponent destroys X, X = Allies in your Banished Zone."""
+    for _ in range(3):
+        a = [x for x in p.deck if x.ctype == 'Ally']
+        if not a:
+            break
+        x = a[0]
+        p.deck.remove(x)
+        p.banished.append(x)
+    p.rng.shuffle(p.deck)
+    p.destroy_opp(sum(1 for x in p.banished if x.ctype == 'Ally'))
+
+
+def _discharge_hit(p, o, c, removed):
+    """HIT: Rejuvenate an Ally you control to search the discard pile for an Ally and play it."""
+    if p.allies:
+        x = p.allies[0]
+        p.allies.remove(x)
+        p.discard.append(x)                     # it must leave play first; Rejuvenating it puts it at the bottom of the Life Deck
+        p.rejuv_ally(x, p.discard)
+        a = [y for y in p.discard if y.ctype == 'Ally']
+        if a:
+            y = pick_ally(p, a)
+            p.discard.remove(y)
+            p.allies.append(y)
+
+
+def _lunge(p, o, c):
+    """Search the top 5 cards of the Life Deck for a Setup or Drill and place it into play."""
+    top = [x for x in p.deck[:5] if x.ctype in ('Drill', 'Setup')]
+    if top:
+        pri = ['Blue Waiting Drill', 'Blue Biting Drill']
+        x = min(top, key=lambda z: pri.index(z.name) if z.name in pri else 9)
+        p.deck.remove(x)
+        (p.drills if x.ctype == 'Drill' else p.setups).append(x)
+    rest = p.deck[:4]
+    del p.deck[:4]
+    p.deck.extend(rest)
+
+
+def _dominance(p, o, c):
+    """Advance or lower your MP to Level 2; place up to 2 Drills from the discard pile into play (cannot win by MPPV that turn: not modelled)."""
+    while p.level < 2:
+        p.change_level(+1)
+    while p.level > 2:
+        p.change_level(-1)
+    for _ in range(2):
+        d = find_in(reversed(p.discard), lambda x: x.ctype == 'Drill')
+        if d is None:
+            break
+        p.discard.remove(d)
+        p.drills.append(d)
+
+
+_x('Blue Arrest', immediate=_arrest_now, hit=_arrest_hit)
+_x('Blue Restraint', use=_restraint, can_use=lambda p, o, c: any(x.ctype == 'Ally' for x in p.deck))
+_x('Blue Discharge', immediate=lambda p, o, c: p.raise_anger(2), hit=_discharge_hit, can_use=lambda p, o, c: bool(p.allies))
+_x('Blue Slash', hit=lambda p, o, c, r: p.destroy_opp(max(0, 6 - o.anger)))
+_x('Blue Challenging Strike', immediate=lambda p, o, c: p.cb.update(destroy_bonus=p.cb['destroy_bonus'] + 1))   # real card: until the end of your NEXT turn (only this combat here)
+_x('Blue Lunge', immediate=_lunge)
+_x('Blue Dominance', use=_dominance, can_use=lambda p, o, c: p.level < 2)
+_x('Blue Head Knock', immediate=lambda p, o, c: setattr(o, 'anger', 0))
+_x('Blue Defensive Stance', defend=lambda p, atk, x, c: p.raise_anger(1))          # 'raise or lower a player's anger 1 level' (own)
+
+
+@passive('Blue Waiting Drill')
+class WaitingDrill(Behavior):
+    """Whenever you Rejuvenate an Ally, destroy the top 2 cards of the opponent's Life Deck. ('Whenever you play an Ally, Rejuvenate 1' is not modelled.)"""
+    def on_ally_rejuvenated(self, p):
+        got = p.destroy_opp(2)
+        p.log(f'    (Waiting Drill: Ally Rejuvenated -> opponent destroys {got})')
+
+
+@passive('Blue Biting Drill')
+class BitingDrill(Behavior):
+    """Your attacks deal +2 power stages of damage. (The anger-0 mill sentence is not modelled.)"""
+    def stage_bonus(self, p, card, opp): return 2
+
+
+# ---- Black / Red cards of the Cell Jr. decks ----------------------------------------------------------------------------
+def _command(p, o, c):
+    """Banish the top 5 cards of the opponent's discard pile; if fewer than 5 were banished, the opponent destroys the top 3 cards of his Life Deck."""
+    n = 0
+    while n < 5 and o.discard:
+        o.banished.append(o.discard.pop())
+        n += 1
+    if n < 5:
+        p.destroy_opp(3)
+
+
+def _discard_banish_anger(p, c):
+    """'If this card is discarded from your hand, you may banish it to raise your anger 2 levels' (Black Command)."""
+    if c in p.discard:
+        p.discard.remove(c)
+        p.banished.append(c)
+        p.raise_anger(2)
+
+
+def _wilt(p, o, c):
+    """Instant: +1 to a destroy effect, then the card goes to the bottom of the Life Deck. Simplified: +1 to my next destroy effect this combat (UNVERIFIED)."""
+    p.cb['next_destroy_bonus'] += 1
+    p.deck.append(c)
+    c.keep = True
+
+
+def _foreshadowing(p, o, c):
+    x = len({z.ctype for z in o.banished})
+    if x:
+        p.destroy_opp(x)
+        p.gain_stages(x)
+
+
+_x('Black Command', use=_command, can_use=lambda p, o, c: True)
+CARD_DISCARD_TRIGGER['Black Command'] = _discard_banish_anger
+CARD_DISCARD_TRIGGER['Black Corruption'] = lambda p, c: p.opp.mill(2, 'banish')      # discarded by one of your effects: banish the top 2 of his Life Deck
+_x('Black Pop-Up', use=lambda p, o, c: p.destroy_opp(1))        # the 'name a card' critical-effect gamble is not modelled
+_DESTROYERS = {'Black Command', 'Black Taunt', 'Black Pop-Up', 'Black Confinement', 'Black Invitation', 'Black Foreshadowing', 'Black Drain'}
+_x('Black Wilt', use=_wilt, can_use=lambda p, o, c: not p.cb['next_destroy_bonus'] and (
+    any(x.name in _DESTROYERS for x in p.hand if x is not c) or ('perceptive' not in p.tf and p.mastery == 'Black Perceptive Mastery')
+    or (p.mp_name == 'Cell Jr.' and p.level == 4 and bool(cj_in(p.hand)))))
+_x('Black Foreshadowing', use=_foreshadowing, can_use=lambda p, o, c: bool(o.banished))
+_x('Red Chop', base_stage=lambda p, o, c: 3 + p.anger)
+
+
+@passive('Black Viewing Drill')
+class ViewingDrill(Behavior):
+    """After your opponent discards a card from his hand by a card effect during combat, destroy the top card of his Life Deck."""
+    def on_card_discarded(self, p):
+        if p.game.last_discarder is p.opp:
+            p.destroy_opp(1)
+
 
 # ---- Saiyan stage-drain cards (Nappa's deck) ---------------------------------------------------------------------
 def _attach(p, o, c):
@@ -1013,6 +1453,11 @@ def _usable(p, o, c):
     return bool(c.crit_now or c.anger_self or c.rej or c.gain or c.draw or c.opp_lose or ex.get('use'))
 
 
+def _attack_ok(a, d, x):
+    gate = CARD_EXTRA.get(x.name, {}).get('can_use')
+    return x.cost <= a.stage and (gate is None or gate(a, d, x))
+
+
 def choose_action(a, d):
     """One action for player `a` against `d`. Returns True if something was done (False = pass)."""
     for b in a.behaviors():
@@ -1025,15 +1470,19 @@ def choose_action(a, d):
         a.log(f'  {a.label}: Weighted Clothing banished (+2 anger)')
         a.raise_anger(2)
         return True
-    pool = a.setups + [x for x in a.hand if x.ctype == 'Event']
+    pool = [s for s in a.setups if not s.is_atk] + [x for x in a.hand if x.ctype == 'Event']
     for c in sorted(pool, key=lambda z: -a.value(z)):
         if _usable(a, d, c):
             use_card(a, d, c)
             return True
-    atks = [x for x in a.hand if x.is_atk and x.cost <= a.stage]
+    # attacks: from hand, or a Setup in play whose POWER is an attack (activated, then discarded like an Event)
+    atks = [(x, False) for x in a.hand if x.is_atk and _attack_ok(a, d, x)] + [(s, True) for s in a.setups if s.is_atk and _attack_ok(a, d, s)]
     if not atks:
         return False
-    c = max(atks, key=lambda z: a.value(z) - z.cost * 0.5)
-    if d.cb['stopall'] and False:
-        return False
-    return a.attack(d, card=c)
+    c, from_setup = max(atks, key=lambda z: a.value(z[0]) - z[0].cost * 0.5)
+    if not from_setup:
+        return a.attack(d, card=c)
+    a.setups.remove(c)
+    ok = a.attack(d, power=c)
+    (a.banished if c.banish_after else a.discard).append(c)
+    return ok

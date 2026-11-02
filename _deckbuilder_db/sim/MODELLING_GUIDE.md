@@ -68,6 +68,9 @@ Write each sentence on its own line and decide for each: *when* does it happen, 
 | "HIT: ..." on an MP attack | `after_hit(p, opp, card, removed)` | `NappaL3` |
 | A card whose single effect the parser cannot read | `_x('Card Name', immediate=/hit=/use=/defend=/on_damaged=/enters=/base_stage=/can_use=...)` | `_namek3`, Saiyan cards |
 | A card that stays in play and gives a continuous effect | `@passive('Card Name')` class with hooks | Namek Dragon Ball 1 and 6, `_Clench` |
+| An Ally in play with a Continuous effect | `@ally_passive('Name', 'Subtitle')` class (Allies share names, so the key includes the subtitle); the AI must be told to play it (`plan_allies`) | `CjTrapped` |
+| An Ally spent from hand (discard / Rejuvenate / banish) | `cj_in(p.hand)`, `spend_ally`, `discard_from_hand`, `p.rejuv_ally(card, zone)` | Cell Jr. Levels 1-4 |
+| A Setup whose POWER is an attack, or a Setup with a Defense | nothing to write: the AI activates the Setup (`choose_action` / `Player.defend`), performs the attack and discards it, like an Event | Blue Ki Build Up, Blue Blockade |
 
 If the sentence matches a primitive the parser already reads (see the regexes in `cardmodel.py`), nothing is needed: `coverage` shows it as parsed.
 
@@ -109,6 +112,7 @@ Every hook has `p` = the player the behaviour belongs to. "Combined" says how th
 | `crit_threshold(p)` / `own_crit_threshold(p)` | the life-card count that counts as critical (against you / for your attacks) | number or `None` |
 | `on_advance(p)` | you advanced a level | nothing |
 | `on_rejuvenate(p)` | after you Rejuvenate | nothing |
+| `on_ally_rejuvenated(p)` | you Rejuvenated one specific Ally (`Player.rejuv_ally`: hand, discard pile, Banished Zone or play -> bottom of the Life Deck) | nothing |
 | `on_gain_stages(p, n)` | you gained `n` stages | nothing |
 | `on_card_discarded(p)` | one of your cards was discarded | nothing |
 | `on_play(p, opp, card)` | you perform an attack with `card` | nothing |

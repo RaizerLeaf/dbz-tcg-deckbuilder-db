@@ -37,14 +37,14 @@ Always run `coverage` for both decks and quote its warnings next to the result.
 
 ## What is modelled
 - MP levels: Trunks (Dashing, Protective, Frenzied, Swordmaster, Defiant, Energy Charged, Bold, Overpowering, Overwhelming), Piccolo (Stoic, Composed, Combat Stance,
-  Unleashed, Fused), Dr. Wheelo (all four), Garlic Jr. (all four), Lord Slug (all four), Krillin (all four), Nail (all four).
-- Masteries: Red Enraged, Red Ascension, Black Devious, Black Conflict, Blue Protective (opponent needs 6 anger to level; its Defense Power is simplified), Saiyan Rampaging (its Power is not modelled), Saiyan Dynamic, Orange Retribution. New and only regression-checked, not rule-tested.
+  Unleashed, Fused), Dr. Wheelo (all four), Garlic Jr. (all four), Lord Slug (all four), Krillin (all four), Nail (all four), Nappa (all four), Cell Jr. (all four: Allies in hand are the fuel). Allies in play: only the Cell Jr. Allies (Trapped is played, Escaping leaves play with a destroy); every other Ally is still never played.
+- Masteries: Red Enraged, Red Ascension, Black Devious, Black Conflict, Blue Protective (opponent needs 6 anger to level; its Defense Power is simplified), Saiyan Rampaging (its Power is not modelled), Saiyan Dynamic, Orange Retribution, Blue Tag Team, Black Perceptive. New and only regression-checked, not rule-tested.
 - Drills / balls: Orange Hoping, Intimidating, Hiding, Aura, Captivity, Devouring, Burning Aura, Steady; Aggressive Sword Drill; Namek Dragon Balls 1, 3, 5, 6, 7; Earth 1-5.
 - About 60 cards with extra effects (see `CARD_EXTRA`), notably Wheelo's destroy package, Red anger/critical Setups and Events, Weighted Clothing, Sacrifice, Restraint.
 - Any MP level or Mastery without a behavior is **ignored** (its text does nothing). `coverage` lists these as NOT MODELLED.
 
 ## What is NOT modelled (important)
-- Allies (never played), "stays in play for a second use" attacks, attached cards, Focused / skip-action subtleties, most Drill powers, most Dragon Ball effects beyond those above,
+- Allies other than the Cell Jr. Allies (never played), "stays in play for a second use" attacks, attached cards, Focused / skip-action subtleties, most Drill powers, most Dragon Ball effects beyond those above,
   Energy attacks costing less, Saiyan/Namekian-specific text, and every sentence `coverage` prints as unmodelled.
 - "Hand-coded" in `coverage` means the card has custom code, not that every sentence of it is handled.
 - AI: both sides follow one fixed priority list (powers, then Events/Setups with an effect, then the highest-value attack); they defend whenever a legal defense exists and
