@@ -1,0 +1,38 @@
+# Dragon Ball Z TCG deck-builder database
+
+This repo holds card images (the numbered `0X_Set ...` folders, `z_OP Series`, `zz_PanZ MP & Ally Promos`) and the
+database built from them in `_deckbuilder_db/`. The goal is an accurate, searchable card database for helping the owner (and later
+other people) build decks.
+
+## Read first
+- `_deckbuilder_db/BRIEF.md` - the original rules for this project.
+- `_deckbuilder_db/DECKBUILDING_NOTES.md` - **deck-building rules, legality checklist, method for comparing styles, deck code format, lessons
+  from past decks.** Read it before suggesting or editing any deck.
+- `_deckbuilder_db/README.md` - how the database was built, field meanings, pipeline order.
+
+## Hard rules
+- Never guess card text or rules. If something is unclear or unverified, say so.
+- Never modify, rename or move the original images. Write only inside `_deckbuilder_db/`.
+- Ask before installing software or changing anything outside `_deckbuilder_db/`.
+- Card text is literal ("a Dragon Ball in play" means anyone's; "destroy" is not "banish"; "play" is not "place into play").
+- Commit and push to `main` after each batch of database changes.
+
+## Data
+- `_deckbuilder_db/cards.json` (3,092 records, 5 MB; query it with Python, do not read it whole), `mps.json` (MP groups by level),
+  `masteries.json`, `excluded_cards.json`.
+- Use `text_current` when present (CRD errata applied), otherwise `text_as_printed`. `card_type_current` overrides `card_type`.
+- Owner rulings are in `work/owner_rulings.json` and applied by `scripts/owner.py`. Do not re-ask settled rulings.
+- `is_named` / `named_character` mark Named cards (possessive titles); see `NOT_NAMES` in `scripts/derive.py` for the exceptions.
+
+## Default deck-building assumptions (unless the owner says otherwise)
+Sets 1-7 only (PanZ), no PZP/OP promos, no `_RST` copies, PanZ-era rulings, Frozen list ignored, no Traits, 60-card Life Deck,
+max 3 copies (printed limit wins), one Dragon Ball set per deck, Named cards must match the MP name.
+Every deck should include Time Is A Warrior's Tool x1 and at least 2 Confrontation (Hero MP) or Stare Down (Villain MP).
+
+Before giving a deck: decode and re-encode its code, then check copy counts, printed limits, Named cards, Heroes/Villains-only text, and the
+60-card count with a script. Do not present a deck you have not checked.
+
+## Re-running the pipeline
+Run from `_deckbuilder_db/scripts` in this order: `derive.py --sets S01,...,S19,PZP,OP1,...,OP6 --out work/full`, `crd_parse.py`,
+`crd.py`, `owner.py`, `mps.py`, `qa.py`. Pass `--out work/full` exactly (a path like `../work/full` writes outside `_deckbuilder_db/`).
+Diff `cards.json` before and after, and commit only intended changes.

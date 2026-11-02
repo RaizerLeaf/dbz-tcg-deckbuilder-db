@@ -56,6 +56,12 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 - **Trunks**: owner's Orange Drill deck uses Orange Retribution Mastery (changing levels shuffles Drills back, its Power refetches Drills). Frenzied (Level 2)
   gives a critical effect per Named card.
 
+- **Piccolo (friend's Red deck, all Premiere levels: Stoic, Combat Stance, Unleashed, Fused)**: about 1 anger point per card. Combat Stance gives a critical effect every turn, Unleashed
+  (+2 life cards, ball search on critical damage) turns 4-life-card attacks into critical hits, and Piccolo's Weighted Clothing (banish from discard: raise anger 2) is an
+  uncounterable MPPV finisher. Composed (L1) and Stoic (L1) cannot both be used, and Composed needs real Rejuvenate/stage-gain support.
+- **Garlic Jr.** (Villain, only Set 3 printings are legal): L1 needs 2 less anger to advance and its Power raises anger 1. L3 can capture a Dragon Ball whenever you raise your anger.
+  L4 gives the opponent's attacks +3 life cards, so reach it and win the same turn. Counter Blast doubles Continuous modifiers, so do not play it at L4.
+
 ## Deck code format (from the owner's web app)
 `D1.<name>.<MP name>.<Mastery>[.<MP printings>].<card>.<card>...`
 - Names are URL-encoded (`%20`). Cards are `<set prefix>-<card number>`, `*N` for N copies, sorted as plain text.
