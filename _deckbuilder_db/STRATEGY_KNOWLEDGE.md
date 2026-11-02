@@ -39,7 +39,7 @@ Items marked **(unverified)** are inferences. Everything else is from `work/crd/
 - Check `limit_per_deck` for every card: Orange Uppercut (Limit 1) was wrongly given x2 once.
 
 ## 4. Deck codes and the encoder review
-- `scripts/deckcode.py` (encode / decode / check) was written by another chat on branch `claude/lucid-wright-aczurz` and is **not yet in main** at the time of writing.
+- `scripts/deckcode.py` (encode / decode / check) was written by another chat and is now merged into `main` (the app only knows each card by its first printing; see `DECKBUILDING_NOTES.md`).
 - Review result: its format matches what this session worked out independently (D1 header, URL-encoded names with `.` as `%2E`, Mastery as a card number, optional
   `_L1_L2_L3_L4` printings field, `*N` copies, plain-text sort, `EV` = Set 4, Set 7 deck-reveal cards written `S<n>`).
 - Run on every code produced in this session (Nail, Lord Slug, Wheelo, Trunks V2/V3/V4, Red Trunks, Garlic Jr., Krillin) plus the codes the owner sent: all decode and re-encode
