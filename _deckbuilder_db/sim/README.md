@@ -15,7 +15,7 @@ python -m sim bo3  sim/decks/trunks_red_draft.txt sim/decks/trunks_orange_v4.txt
 python -m sim game A B --seed 7 --first b                                                     # one game with the play log
 python -m sim coverage sim/decks/nail_black_v2.txt                                            # what the model does NOT cover for this deck
 python -m sim playtest decks/<name>.txt                                                       # deck building: play a deck against the test-deck roster (up to 25 decks; 20 games each, 50 max; seconds)
-python -m sim roster [add decks/<name>.txt | rebuild]                                         # the top-10 test-deck roster (sim/roster.json); `add` ranks a finished deck into it
+python -m sim roster [add decks/<name>.txt | rebuild]                                         # the test-deck roster (up to 25 decks) (sim/roster.json); `add` ranks a finished deck into it
 python -m unittest discover -s sim/tests -t .                                                 # rule tests
 ```
 A and B are deck codes (in quotes) or paths to `.txt` files holding one code. Deck codes are decoded with `scripts/deckcode.py`
@@ -60,6 +60,8 @@ Always run `coverage` for both decks and quote its warnings next to the result.
   They match the earlier one-off scripts, so a change that moves these needs an explanation.
 
 ## Adding things
+**New to the simulator? Read `MODELLING_GUIDE.md` first** (this folder): a step-by-step walk from "coverage says NOT MODELLED" to a tested addition, with the hook reference table and a worked example (Nappa).
+`tests/test_docs.py` fails if a hook is added to `Behavior` without being explained in the guide.
 Deck building **requires** a simulator playtest (`DECKBUILDING_NOTES.md`, "Playtesting a deck in the simulator"), so adding a missing MP, Mastery or card is a normal part of building a deck, not an extra.
 Minimal examples (all in `behaviors.py`; read the neighbouring classes for the full hook list):
 ```python

@@ -15,6 +15,7 @@ other people) build decks.
 - `_deckbuilder_db/WORKFLOW_LESSONS.md` - **how the owner likes to work, mistakes already made and the checks that prevent them, git/sandbox/tool gotchas, how the generated
   `docs/` page stays correct, and what is still to do.** Read it before starting any larger piece of work.
 - Simulating matchups: use `_deckbuilder_db/sim/` (`python -m sim run|bo3|game|coverage`, see `sim/README.md`). PanZ (Sets 1-7) only; FanZ simulation is a later TODO.
+  **To model a missing MP level / Mastery / card yourself (required during deck building), follow `_deckbuilder_db/sim/MODELLING_GUIDE.md`.**
   Always run `coverage` and quote its limits with any result.
 - Friends without Claude Code: `_deckbuilder_db/friends/` (pack builder, list checker, static page source). `docs/` at the repo root is the generated page, rebuilt with
   `python friends/build_site.py`; never edit it by hand. See `friends/README.md`. The repo is public and Pages serves `main` /docs; the page is expected at

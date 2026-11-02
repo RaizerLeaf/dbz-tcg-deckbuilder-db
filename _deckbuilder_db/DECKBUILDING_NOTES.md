@@ -23,7 +23,7 @@ Lessons from deck-building sessions with the owner. They sit on top of `cards.js
 Run everything from `_deckbuilder_db/`. The simulator is a toy model (`sim/README.md`), but it is the only thing that executes the cards, so every deck gets played before it is presented.
 1. **Coverage first:** `python -m sim coverage decks/<name>.txt` (or `sim/decks/`). It lists the MP levels and the Mastery that are **NOT MODELLED** and the card sentences it ignores.
 2. **"The simulator does not have this character" is not a reason to skip.** Add the missing MP levels, the Mastery and the cards your plan depends on to `sim/behaviors.py` from the card text
-   (recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
+   (**step-by-step guide for someone who has never opened the simulator: `sim/MODELLING_GUIDE.md`**; short recipe: `sim/README.md`, "Adding things"; usually one small class per MP level), run `python -m unittest discover -s sim/tests -t .`, and commit the new behaviors so the next deck
    starts with them. Model what the deck's plan relies on; ignoring cosmetic text is fine. If a rule is unclear, write the behavior the literal text implies, mark it **(unverified)** in the
    code and in your answer, and do not invent card text. Only skip a piece with the owner's OK; otherwise say exactly which parts are unmodelled and that those parts are text-only.
 3. **Play it against the test-deck roster:** `python -m sim playtest decks/<name>.txt`. It plays your deck against every deck on the roster (**up to 25 decks, one version per MP + Mastery**, 20 games each by default; a game takes about 10 ms, so a full playtest takes about 3 seconds and the 50-game cap about 6;
@@ -116,6 +116,10 @@ Things to know:
   Lord Slug **cannot win by MPPV**, so Dragon Ball Victory (or Survival) is his only route, and an opponent's critical effects can capture his balls. Use the **Namek** set with
   Namek Dragon Ball 1 ("your other Dragon Balls cannot be captured", +1 life card on your attacks), not Earth (Earth Dragon Ball 1 has no protection). A Red critical-effect shell fits
   Piccolo better than Slug (Combat Stance and Unleashed feed critical effects and balls; Piccolo can also MPPV).
+  **Simulator test (Earth V3 vs Namek V4, same 60 cards apart from the seven balls, 450 games against the 9 other roster decks, 500 head-to-head):** Namek 9.8% vs Earth 10.0% overall (a tie within noise); head-to-head Namek 59% / Earth 41%.
+  Namek's edge is almost all Namek 6 (+3 PUR, opponent's attacks -2 stages) and Namek 1 (+1 life card), i.e. it helps Slug *survive and hit*, not win by Dragon Balls: in 180 games each, Slug had 7 or more balls in play in only 1 game (Earth) / 13 games (Namek) and won by Dragon Ball Victory only 11 times in 500 (Namek) -
+  games last about 7 turns and crit decks capture the balls. Both versions score 0/50 against Orange Trunks and Red Trunks (Garlic Jr.: Earth 5/50, Namek 0/50); Slug's real wins come from Survival against slower decks (Wheelo Blue 26-36%).
+  **Model gaps that may undersell Slug:** Namek 2 (lower a personality) and Namek 4 (destroy 2 Setups/Drills) are not modelled; Earth 6 (re-Rejuvenate banished balls) and Earth 7 (play a ball from hand as an action) are not modelled and would help Earth; the Dragon Radar "search and play" and Lord Slug's Regeneration advance/lower are not modelled; the AI never protects balls on purpose. Treat Slug as the weakest roster deck against fast decks, and as a deck you play for a slow Dragon Ball plan against slower decks.
 - **Turles**: Blue stage-lock on Level 1 (AT +5 and +2 from Turles, damage cannot be prevented) is a top option. Saiyan, Red and Black are the levelling options.
   The Blue plan: stay on Level 1, play only Styled cards, use AT +5 Setups/physicals (Blue Stretch Kick, Round Throw, Lunge, Face Crunch; AT 0 still hits for 7 stages with Turles' +2),
   Blue Biting Drill (+2 stages), Blue Hush, and Blue Protective Mastery (opponents need 6 anger so they level slowly). Caveats: Blue Stretch Kick and Back Break raise **your own** anger (at 5 you advance
@@ -171,7 +175,8 @@ Things to know:
 | `sim/decks/trunks_orange_v3.txt`, `trunks_orange_v4.txt` | Trunks, Orange, Orange Retribution | built from the owner's Orange Trunks; V4 = skip-levels plan (Devouring Drill x3, Evolution levels); not confirmed in the app |
 | `decks/trunks_orange_v5.txt` | Trunks, Orange, Orange Retribution (Protective / Swordmaster / Defiant / Overpowering) | V4 plus six simulator-guided swaps; see `TRUNKS_STYLE_COMPARISON.md`; **imported by the owner (2026-11-02): loaded with no issues**. How it plays is not yet reported |
 | `sim/decks/trunks_red_draft.txt` | Trunks, Red, Red Enraged | draft anger/MPPV build; not confirmed in the app |
-| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | Earth balls (see the Namek-set advice above); not confirmed in the app |
+| `decks/lord_slug_red_namek.txt` | Lord Slug, Red, Red Enraged | **V4, Namek balls** (the roster version; 15% over 500 playtest games); not confirmed in the app |
+| `sim/decks/lord_slug_red_v3.txt` | Lord Slug, Red, Red Enraged | V3, Earth balls (older version, same family; superseded on the roster); not confirmed in the app |
 | `sim/decks/nail_black_v2.txt` | Nail, Black, Black Devious | black mill build with Time Is A Warrior's Tool and Confrontation; not confirmed in the app |
 | `sim/decks/garlic_red.txt`, `krillin_black.txt` | Garlic Jr., Red, Red Enraged / Krillin, Black, Black Devious | built this session; not confirmed in the app |
 `decks/` (built in a cloud session, deck codes written by `deckcode.py`):
